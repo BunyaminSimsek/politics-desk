@@ -3,6 +3,428 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PoliDesk</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#15191f">
+<meta name="apple-mobile-web-app-title" content="PoliDesk">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+/* Layout: wire-service desk. Masthead + live strip, left rail of followed beats, main feed column. */
+:root {
+  --paper: #f4f5f7;
+  --sheet: #ffffff;
+  --ink: #15191f;
+  --muted: #5d6673;
+  --rule: #d9dde3;
+  --accent: #1f4fa8;
+  --accent-soft: #e6edf9;
+  --alert: #c0262d;
+  --alert-soft: #fbe9ea;
+  --font-display: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #0f1216; --sheet: #171b21; --ink: #e8ebef; --muted: #98a2b0;
+    --rule: #2a3039; --accent: #7fa6ef; --accent-soft: #1c2a44;
+    --alert: #ff6b6f; --alert-soft: #3a1c1f; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #0f1216; --sheet: #171b21; --ink: #e8ebef; --muted: #98a2b0;
+  --rule: #2a3039; --accent: #7fa6ef; --accent-soft: #1c2a44;
+  --alert: #ff6b6f; --alert-soft: #3a1c1f; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body { background: var(--paper); color: var(--ink); font: 15px/1.5 var(--font-body); }
+a { color: inherit; }
+button { font: inherit; color: inherit; cursor: pointer; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.wrap { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
+
+header.mast { border-bottom: 3px double var(--ink); background: var(--sheet); }
+.mast-row { display: flex; align-items: end; justify-content: space-between; gap: 16px; flex-wrap: wrap; padding: 18px 0 12px; }
+.mast h1 { font: 700 34px/1 var(--font-display); margin: 0; letter-spacing: -0.02em; display: flex; align-items: center; gap: 12px; }
+.mast h1 img { width: 40px; height: 40px; border-radius: 9px; flex: none; }
+.idot { position: relative; }
+.idot::after { content: ""; position: absolute; left: 50%; top: 0.02em; width: 0.2em; height: 0.2em; margin-left: -0.1em; border-radius: 50%; background: var(--alert); }
+.mast .dateline { font: 500 12px/1.4 var(--font-mono); color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+.live { display: inline-flex; align-items: center; gap: 8px; font: 500 12px var(--font-mono); color: var(--muted); }
+.live .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--muted); }
+.live.on .dot { background: #1f9d55; box-shadow: 0 0 0 0 rgba(31,157,85,.5); animation: pulse 2s infinite; }
+@keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(31,157,85,.45);} 70% { box-shadow: 0 0 0 8px rgba(31,157,85,0);} 100% { box-shadow: 0 0 0 0 rgba(31,157,85,0);} }
+@media (prefers-reduced-motion: reduce) { .live.on .dot { animation: none; } }
+
+.breaking { background: var(--alert-soft); border-bottom: 1px solid var(--rule); }
+.breaking .wrap { display: grid; grid-template-columns: auto 1fr; gap: 14px; padding: 10px 20px; align-items: start; }
+.breaking .tag { background: var(--alert); color: #fff; font: 600 11px/1 var(--font-mono); letter-spacing: .08em; padding: 6px 8px; border-radius: 2px; text-transform: uppercase; margin-top: 2px; }
+.breaking ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+.breaking a { font: 600 15px/1.35 var(--font-body); text-decoration: none; }
+.breaking a:hover { text-decoration: underline; }
+.breaking .src { color: var(--muted); font-weight: 400; font-size: 13px; }
+
+nav.tabs { display: flex; gap: 4px; flex-wrap: wrap; padding-top: 6px; }
+nav.tabs button { background: none; border: 0; border-bottom: 3px solid transparent; padding: 8px 12px 9px; font-weight: 600; color: var(--muted); }
+nav.tabs button[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+nav.tabs .count { font: 500 11px var(--font-mono); color: var(--muted); margin-left: 4px; }
+
+main.grid { display: grid; grid-template-columns: 250px 1fr; gap: 28px; padding: 24px 20px 60px; }
+@media (max-width: 800px) { main.grid { grid-template-columns: 1fr; } }
+
+aside h2, .feed-head h2 { font: 600 12px/1 var(--font-mono); text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 0 0 10px; }
+aside section { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 14px; display: grid; gap: 12px; }
+aside .group-label { font: 700 15px var(--font-display); margin: 4px 0 2px; }
+.beat { display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 6px 8px; border-radius: 4px; border: 1px solid var(--rule); background: var(--paper); text-align: left; width: 100%; }
+.beat[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); }
+.beat .chk { width: 16px; height: 16px; border-radius: 3px; border: 1.5px solid var(--muted); display: grid; place-items: center; font-size: 11px; flex: none; }
+.beat[aria-pressed="true"] .chk { background: var(--accent); border-color: var(--accent); color: var(--sheet); }
+.beat .name { flex: 1; font-size: 14px; }
+.beat .n { font: 500 11px var(--font-mono); color: var(--muted); }
+.beats { display: grid; gap: 6px; }
+aside .note { font-size: 12.5px; color: var(--muted); margin: 0; }
+#beatsToggle { display: none; width: 100%; align-items: center; justify-content: space-between; gap: 10px; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 10px 14px; font-weight: 600; text-align: left; }
+#beatsToggle .sum { font: 500 12px var(--font-mono); color: var(--muted); }
+#beatsToggle .chev { transition: transform .15s; }
+#beatsToggle[aria-expanded="true"] .chev { transform: rotate(180deg); }
+@media (max-width: 800px) {
+  aside > h2 { display: none; }
+  #beatsToggle { display: flex; }
+  #beatsPanel { display: none; margin-top: 8px; }
+  #beatsPanel.open { display: grid; }
+}
+.pill.issue { background: transparent; color: var(--muted); border: 1px dashed var(--rule); }
+
+.feed-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
+.feed-head h2 { margin: 0; }
+#q { border: 1px solid var(--rule); background: var(--sheet); border-radius: 4px; padding: 7px 10px; min-width: 220px; color: var(--ink); font: inherit; }
+
+.feed { display: grid; gap: 0; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; }
+.item { display: grid; grid-template-columns: 4px 1fr; border-bottom: 1px solid var(--rule); }
+.item:last-child { border-bottom: 0; }
+.item .stripe { background: transparent; }
+.item.is-breaking .stripe { background: var(--alert); }
+.item .body { padding: 14px 16px 14px 14px; display: grid; gap: 6px; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font: 500 11.5px var(--font-mono); color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+.pill { padding: 2px 7px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); }
+.pill.local { background: transparent; border: 1px solid var(--accent); }
+.pill.new { background: var(--ink); color: var(--sheet); }
+.pill.brk { background: var(--alert); color: #fff; }
+.item h3 { font: 600 19px/1.28 var(--font-display); margin: 0; text-wrap: balance; }
+.item h3 a { text-decoration: none; }
+.item h3 a:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.item.read h3 { color: var(--muted); }
+.item p { margin: 0; max-width: 68ch; color: var(--ink); }
+.item .actions { display: flex; gap: 12px; font-size: 13px; }
+.item .actions button, .item .actions a { background: none; border: 0; padding: 0; color: var(--accent); text-decoration: none; font-weight: 500; }
+.empty { padding: 28px; color: var(--muted); text-align: center; }
+.why { font-size: 12.5px; color: var(--muted); }
+</style>
+</head>
+<body>
+<header class="mast">
+  <div class="wrap">
+    <div class="mast-row">
+      <div>
+        <div class="dateline" id="dateline">Toronto</div>
+        <h1><img src="favicon.svg" alt=""><span>Pol<span class="idot">ı</span>Desk</span></h1>
+      </div>
+      <div class="live" id="live" aria-live="polite"><span class="dot"></span><span id="liveText">Connecting to feed…</span></div>
+    </div>
+    <nav class="tabs" aria-label="Feed views">
+      <button data-view="foryou" aria-pressed="true">For you</button>
+      <button data-view="world" aria-pressed="false">World <span class="count" id="c-world"></span></button>
+      <button data-view="local" aria-pressed="false">Canada &amp; local <span class="count" id="c-local"></span></button>
+      <button data-view="saved" aria-pressed="false">Saved <span class="count" id="c-saved"></span></button>
+    </nav>
+  </div>
+</header>
+
+<div class="breaking" id="breaking" hidden>
+  <div class="wrap"><span class="tag">Breaking</span><ul id="breakingList"></ul></div>
+</div>
+
+<main class="grid wrap">
+  <aside>
+    <h2>Beats you follow</h2>
+    <button id="beatsToggle" aria-expanded="false" aria-controls="beatsPanel"><span>Beats you follow <span class="sum" id="beatsSum"></span></span><span class="chev" aria-hidden="true">▾</span></button>
+    <section id="beatsPanel">
+      <div>
+        <div class="group-label">World</div>
+        <div class="beats" id="beats-world"></div>
+      </div>
+      <div>
+        <div class="group-label">Canada &amp; local</div>
+        <div class="beats" id="beats-local"></div>
+      </div>
+      <div>
+        <div class="group-label">Issues</div>
+        <div class="beats" id="beats-issue"></div>
+      </div>
+      <p class="note">Your picks and reading history shape the For you view. They stay in this browser.</p>
+      <p class="note">News is checked every 30 minutes. This page refreshes itself every 5.</p>
+      <p class="note" id="sources"></p>
+    </section>
+  </aside>
+
+  <section>
+    <div class="feed-head">
+      <h2 id="feedTitle">For you</h2>
+      <label for="q" class="sr" style="position:absolute;left:-9999px">Search headlines</label>
+      <input id="q" type="search" placeholder="Search headlines">
+    </div>
+    <div class="feed" id="feed"><div class="empty">Loading headlines…</div></div>
+  </section>
+</main>
+
+<script>
+const TOPICS = [
+  { id: "ukraine",     label: "Russia–Ukraine",         region: "world" },
+  { id: "mideast",     label: "Middle East & Iran",     region: "world" },
+  { id: "europe",      label: "Europe",                 region: "world" },
+  { id: "us",          label: "U.S. politics",          region: "world" },
+  { id: "asia",        label: "Asia-Pacific",           region: "world" },
+  { id: "turkey",      label: "Türkiye",                region: "world" },
+  { id: "latam",       label: "Latin America",          region: "world" },
+  { id: "africa",      label: "Africa",                 region: "world" },
+  { id: "federal",     label: "Ottawa (federal)",       region: "local" },
+  { id: "ontario",     label: "Queen's Park (Ontario)", region: "local" },
+  { id: "toronto",     label: "Toronto City Hall",      region: "local" },
+  { id: "trade",       label: "Trade & tariffs",        region: "issue" },
+  { id: "elections",   label: "Elections",              region: "issue" },
+  { id: "economy",     label: "Economy & budgets",      region: "issue" },
+  { id: "immigration", label: "Immigration",            region: "issue" },
+  { id: "housing",     label: "Housing & cost of living", region: "issue" },
+  { id: "defence",     label: "Defence & security",     region: "issue" },
+  { id: "climate",     label: "Climate & energy",       region: "issue" }
+];
+const DEFAULT_FOLLOW = ["ukraine", "mideast", "europe", "us", "asia", "federal", "ontario", "toronto"];
+const topicById = Object.fromEntries(TOPICS.map(t => [t.id, t]));
+const beatsOf = a => [a.topic, ...(a.tags || [])];
+
+const store = {
+  get(k, d) { try { const v = localStorage.getItem("pd:" + k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem("pd:" + k, JSON.stringify(v)); } catch (e) {} }
+};
+
+const state = {
+  articles: [],
+  follow: new Set(store.get("follow", DEFAULT_FOLLOW)),
+  clicks: store.get("clicks", {}),
+  read: new Set(store.get("read", [])),
+  saved: new Set(store.get("saved", [])),
+  lastVisit: store.get("lastVisit", null),
+  view: "foryou",
+  q: ""
+};
+store.set("lastVisit", new Date().toISOString());
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "#";
+
+function fmtDate(d) {
+  if (!d) return "";
+  const dt = new Date(d.length <= 10 ? d + "T12:00:00" : d);
+  if (isNaN(dt)) return d;
+  const today = new Date(); const y = new Date(); y.setDate(today.getDate() - 1);
+  const same = (a, b) => a.toDateString() === b.toDateString();
+  const time = d.length > 10 ? dt.toLocaleTimeString("en-CA", { hour: "numeric", minute: "2-digit" }) : "";
+  const mins = Math.round((Date.now() - dt) / 60000);
+  if (d.length > 10 && mins >= 0 && mins < 60) return mins <= 1 ? "Just now" : mins + " min ago";
+  if (same(dt, today)) return time ? time : "Today";
+  if (same(dt, y)) return "Yesterday" + (time ? ", " + time : "");
+  return dt.toLocaleDateString("en-CA", { month: "short", day: "numeric" }) + (time ? ", " + time : "");
+}
+
+$("#dateline").textContent = new Date().toLocaleDateString("en-CA", { weekday: "long", month: "long", day: "numeric", year: "numeric" }) + " · Toronto";
+
+const followed = a => beatsOf(a).some(b => state.follow.has(b));
+
+function renderBeats() {
+  $("#beatsSum").textContent = state.follow.size + " of " + TOPICS.length;
+  for (const region of ["world", "local", "issue"]) {
+    const box = document.getElementById("beats-" + region);
+    box.innerHTML = TOPICS.filter(t => t.region === region).map(t => {
+      const n = state.articles.filter(a => beatsOf(a).includes(t.id)).length;
+      const on = state.follow.has(t.id);
+      return `<button class="beat" data-topic="${t.id}" aria-pressed="${on}"><span class="chk" aria-hidden="true">${on ? "✓" : ""}</span><span class="name">${esc(t.label)}</span><span class="n">${n}</span></button>`;
+    }).join("");
+  }
+}
+
+function score(a) {
+  let s = 0;
+  if (followed(a)) s += 10;
+  s += Math.min(6, Math.max(...beatsOf(a).map(b => state.clicks[b] || 0)) * 1.5);
+  if (a.breaking) s += 6;
+  const ageHours = (Date.now() - new Date(a.date)) / 36e5;
+  s += Math.max(0, 10 - ageHours / 4);
+  if (state.read.has(a.id)) s -= 4;
+  return s;
+}
+
+function visible() {
+  let list = state.articles.slice();
+  if (state.view === "world" || state.view === "local") list = list.filter(a => a.region === state.view && followed(a));
+  else if (state.view === "saved") list = list.filter(a => state.saved.has(a.id));
+  else list = list.filter(followed);
+  if (state.q) {
+    const q = state.q.toLowerCase();
+    list = list.filter(a => (a.title + " " + a.summary + " " + a.source).toLowerCase().includes(q));
+  }
+  if (state.view === "foryou") list.sort((a, b) => score(b) - score(a));
+  else list.sort((a, b) => String(b.date).localeCompare(String(a.date)) || (b.breaking - a.breaking));
+  return list;
+}
+
+function isNew(a) { return state.lastVisit && a.addedAt && a.addedAt > state.lastVisit; }
+
+function renderFeed() {
+  const titles = { foryou: "For you", world: "World", local: "Canada & local", saved: "Saved" };
+  $("#feedTitle").textContent = titles[state.view];
+  const list = visible();
+  const feed = $("#feed");
+  if (!state.articles.length) return;
+  if (!list.length) {
+    feed.innerHTML = `<div class="empty">${state.view === "saved" ? "Nothing saved yet. Use Save on any story to keep it here." : "No stories match. Follow more beats on the left or clear the search."}</div>`;
+    return;
+  }
+  feed.innerHTML = list.map(a => {
+    const t = topicById[a.topic] || { label: a.topic, region: a.region };
+    const top = beatsOf(a).filter(b => topicById[b]).sort((x, y) => (state.clicks[y] || 0) - (state.clicks[x] || 0))[0];
+    const reason = state.view === "foryou" && top && (state.clicks[top] || 0) >= 2 ? `<span class="why">Because you read ${esc(topicById[top].label)}</span>` : "";
+    return `<article class="item${a.breaking ? " is-breaking" : ""}${state.read.has(a.id) ? " read" : ""}" data-id="${esc(a.id)}">
+      <div class="stripe"></div>
+      <div class="body">
+        <div class="meta">
+          ${a.breaking ? '<span class="pill brk">Breaking</span>' : ""}
+          ${isNew(a) ? '<span class="pill new">New</span>' : ""}
+          <span class="pill${t.region === "local" ? " local" : ""}">${esc(t.label)}</span>
+          ${(a.tags || []).filter(x => topicById[x]).map(x => `<span class="pill issue">${esc(topicById[x].label)}</span>`).join("")}
+          <span>${esc(a.source)}</span><span>${esc(fmtDate(a.date))}</span>
+        </div>
+        <h3><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener" data-open="${esc(a.id)}">${esc(a.title)}</a></h3>
+        <p>${esc(a.summary)}</p>
+        <div class="actions">
+          <a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener" data-open="${esc(a.id)}">Read at ${esc(a.source)} ↗</a>
+          <button data-save="${esc(a.id)}">${state.saved.has(a.id) ? "Saved ✓" : "Save"}</button>
+          ${reason}
+        </div>
+      </div>
+    </article>`;
+  }).join("");
+}
+
+function renderBreaking() {
+  const items = state.articles.filter(a => a.breaking).sort((a, b) => String(b.date).localeCompare(String(a.date))).slice(0, 3);
+  $("#breaking").hidden = !items.length;
+  $("#breakingList").innerHTML = items.map(a => `<li><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener" data-open="${esc(a.id)}">${esc(a.title)}</a> <span class="src">— ${esc(a.source)}</span></li>`).join("");
+}
+
+function renderCounts() {
+  $("#c-world").textContent = state.articles.filter(a => a.region === "world").length || "";
+  $("#c-local").textContent = state.articles.filter(a => a.region === "local").length || "";
+  $("#c-saved").textContent = state.saved.size || "";
+}
+
+function renderAll() { renderBeats(); renderBreaking(); renderCounts(); renderFeed(); }
+
+document.addEventListener("click", e => {
+  const tog = e.target.closest("#beatsToggle");
+  if (tog) {
+    const open = $("#beatsPanel").classList.toggle("open");
+    tog.setAttribute("aria-expanded", open);
+    return;
+  }
+  const tab = e.target.closest("nav.tabs button");
+  if (tab) {
+    state.view = tab.dataset.view;
+    document.querySelectorAll("nav.tabs button").forEach(b => b.setAttribute("aria-pressed", b === tab));
+    renderFeed(); return;
+  }
+  const beat = e.target.closest(".beat");
+  if (beat) {
+    const id = beat.dataset.topic;
+    state.follow.has(id) ? state.follow.delete(id) : state.follow.add(id);
+    store.set("follow", [...state.follow]);
+    renderBeats(); renderFeed(); return;
+  }
+  const save = e.target.closest("[data-save]");
+  if (save) {
+    const id = save.dataset.save;
+    state.saved.has(id) ? state.saved.delete(id) : state.saved.add(id);
+    store.set("saved", [...state.saved]);
+    renderCounts(); renderFeed(); return;
+  }
+  const open = e.target.closest("[data-open]");
+  if (open) {
+    const a = state.articles.find(x => x.id === open.dataset.open);
+    if (a) {
+      state.read.add(a.id); store.set("read", [...state.read]);
+      beatsOf(a).forEach(b => { state.clicks[b] = (state.clicks[b] || 0) + 1; }); store.set("clicks", state.clicks);
+      setTimeout(renderFeed, 50);
+    }
+  }
+});
+$("#q").addEventListener("input", e => { state.q = e.target.value.trim(); renderFeed(); });
+
+function setLive(on, text) {
+  $("#live").classList.toggle("on", on);
+  $("#liveText").textContent = text;
+}
+
+let generatedAt = null;
+function showUpdated() {
+  if (!generatedAt) return;
+  const mins = Math.round((Date.now() - new Date(generatedAt)) / 60000);
+  const ago = mins <= 1 ? "just now" : mins < 60 ? mins + " min ago" : fmtDate(generatedAt);
+  setLive(mins < 75, (mins < 75 ? "Live" : "Paused") + " · news checked " + ago);
+}
+
+async function load() {
+  try {
+    const res = await fetch("news.json?t=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    generatedAt = data.generatedAt;
+    state.articles = data.items || [];
+    renderSources(data.feeds || []);
+    if (!state.articles.length) $("#feed").innerHTML = '<div class="empty">No stories yet. The first news check runs within 30 minutes.</div>';
+    renderAll();
+    showUpdated();
+  } catch (e) {
+    setLive(false, "Can't load news right now");
+    if (!state.articles.length) $("#feed").innerHTML = '<div class="empty">The news file couldn\'t be loaded. Check your connection, then reload the page.</div>';
+  }
+}
+
+function renderSources(feeds) {
+  const names = {};
+  feeds.forEach(f => { names[f.source] = names[f.source] || f.ok; });
+  $("#sources").textContent = "Sources: " + Object.keys(names).map(n => n + (names[n] ? "" : " (unreachable)")).join(", ") + ".";
+}
+
+renderBeats();
+load();
+setInterval(load, 5 * 60 * 1000);
+setInterval(showUpdated, 60 * 1000);
+document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
+</script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Politics Desk</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

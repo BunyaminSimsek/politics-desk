@@ -101,6 +101,8 @@ aside .note { font-size: 12.5px; color: var(--muted); margin: 0; }
   #beatsPanel.open { display: grid; }
 }
 .pill.issue { background: transparent; color: var(--muted); border: 1px dashed var(--rule); }
+body.view-local main.grid > aside { display: none; }
+body.view-local main.grid { grid-template-columns: 1fr; }
 
 .feed-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
 .feed-head h2 { margin: 0; }
@@ -144,7 +146,7 @@ aside .note { font-size: 12.5px; color: var(--muted); margin: 0; }
     <nav class="tabs" aria-label="Feed views">
       <button data-view="foryou" aria-pressed="true">For you</button>
       <button data-view="world" aria-pressed="false">World <span class="count" id="c-world"></span></button>
-      <button data-view="local" aria-pressed="false">Canada &amp; local <span class="count" id="c-local"></span></button>
+      <button data-view="local" aria-pressed="false">Local <span class="count" id="c-local"></span></button>
       <button data-view="saved" aria-pressed="false">Saved <span class="count" id="c-saved"></span></button>
     </nav>
   </div>
@@ -164,7 +166,7 @@ aside .note { font-size: 12.5px; color: var(--muted); margin: 0; }
         <div class="beats" id="beats-world"></div>
       </div>
       <div>
-        <div class="group-label">Canada &amp; local</div>
+        <div class="group-label">Local</div>
         <div class="beats" id="beats-local"></div>
       </div>
       <div>
@@ -287,7 +289,8 @@ function score(a) {
 
 function visible() {
   let list = state.articles.slice();
-  if (state.view === "world" || state.view === "local") list = list.filter(a => a.region === state.view && followed(a));
+  if (state.view === "local") list = list.filter(a => a.region === "local");
+  else if (state.view === "world") list = list.filter(a => a.region === "world" && followed(a));
   else if (state.view === "saved") list = list.filter(a => state.saved.has(a.id));
   else list = list.filter(followed);
   if (state.q) {
@@ -327,7 +330,7 @@ function coverage(a) {
 function isNew(a) { return state.lastVisit && a.addedAt && a.addedAt > state.lastVisit; }
 
 function renderFeed() {
-  const titles = { foryou: "For you", world: "World", local: "Canada & local", saved: "Saved" };
+  const titles = { foryou: "For you", world: "World", local: "Local", saved: "Saved" };
   $("#feedTitle").textContent = titles[state.view];
   const list = visible();
   const feed = $("#feed");
@@ -386,6 +389,7 @@ document.addEventListener("click", e => {
   const tab = e.target.closest("nav.tabs button");
   if (tab) {
     state.view = tab.dataset.view;
+    document.body.classList.toggle("view-local", state.view === "local");
     document.querySelectorAll("nav.tabs button").forEach(b => b.setAttribute("aria-pressed", b === tab));
     renderFeed(); return;
   }

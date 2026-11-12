@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T22:16:01+00:00",
+ "generatedAt": "2026-11-12T22:23:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 13
+   "kept": 14
   },
   {
    "source": "Global News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -89,21 +89,84 @@
    "source": "NPR",
    "url": "https://feeds.npr.org/1014/rss.xml",
    "ok": true,
+   "kept": 9
+  },
+  {
+   "source": "Global News",
+   "url": "https://globalnews.ca/tag/ontario-politics/feed/",
+   "ok": true,
    "kept": 10
+  },
+  {
+   "source": "Global News",
+   "url": "https://globalnews.ca/tag/doug-ford/feed/",
+   "ok": true,
+   "kept": 10
+  },
+  {
+   "source": "Global News",
+   "url": "https://globalnews.ca/tag/toronto-city-council/feed/",
+   "ok": true,
+   "kept": 10
+  },
+  {
+   "source": "Global News",
+   "url": "https://globalnews.ca/tag/olivia-chow/feed/",
+   "ok": true,
+   "kept": 10
+  },
+  {
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
+   "ok": true,
+   "kept": 50
+  },
+  {
+   "source": "BBC News",
+   "url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+   "ok": true,
+   "kept": 8
+  },
+  {
+   "source": "BBC News",
+   "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+   "ok": true,
+   "kept": 8
+  },
+  {
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/turkey/rss",
+   "ok": true,
+   "kept": 16
+  },
+  {
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/americas/rss",
+   "ok": true,
+   "kept": 4
+  },
+  {
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/africa/rss",
+   "ok": true,
+   "kept": 9
   }
  ],
  "items": [
   {
-   "id": "2f056bf8a4230f94",
-   "title": "Police identify suspect and victim in Washington DC gym shooting that also injured four",
-   "summary": "Authorities identify suspect as Matt Wade Lambert, 55, who died from a self-inflicted gunshot wound Washington DC shooting latest updates Four people were injured and one person died after a shooting in Northwest Washington DC on Thursday morning, local…",
+   "id": "d53a88383be04f3e",
+   "title": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
+   "summary": "Home Office sign-off also needed for site that would house 1,200 asylum seekers near Oxfordshire village that voted to leave UK The communities secretary, Angela Rayner, has approved full planning permission for an asylum centre at a Ministry of Defence site…",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
-   "date": "2026-11-12T22:04:49+00:00",
-   "topic": "us",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
+   "date": "2026-11-12T22:09:20+00:00",
+   "topic": "europe",
    "region": "world",
+   "tags": [
+    "immigration"
+   ],
    "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "ce619eba8b16aa70",
@@ -114,6 +177,7 @@
    "date": "2026-11-12T22:01:39+00:00",
    "topic": "europe",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -126,6 +190,9 @@
    "date": "2026-11-12T22:00:15+00:00",
    "topic": "asia",
    "region": "world",
+   "tags": [
+    "climate"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -138,20 +205,24 @@
    "date": "2026-11-12T21:55:35+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [
+    "defence"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
   {
-   "id": "e58ef6dc8ab53d45",
-   "title": "Washington DC shooting: police identify victim and suspect – latest updates",
-   "summary": "Police say James Stuart, 46, was the manager of the building where suspect Matt Wade Lambert lived; the suspect had an ongoing dispute with the building’s owners Multiple people shot in Washington DC as police warn people to stay inside The incident is…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-   "date": "2026-11-12T21:54:03+00:00",
-   "topic": "us",
+   "id": "30422336e57e781b",
+   "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
+   "summary": "Ghana kick-start their Afcon 2027 qualifying campaign despite Jordan Ayew having a penalty saved, while Cameroon, Ivory Coast and Senegal register wins.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T21:28:06+00:00",
+   "topic": "africa",
    "region": "world",
+   "tags": [],
    "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "d340bfd40898d1ad",
@@ -160,8 +231,9 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/news/politics/carney-europe-ireland-meetings-9.7419715?cmp=rss",
    "date": "2026-11-12T21:22:04+00:00",
-   "topic": "europe",
-   "region": "world",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -174,6 +246,7 @@
    "date": "2026-11-12T21:21:01+00:00",
    "topic": "ukraine",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -187,7 +260,10 @@
    "topic": "us",
    "region": "world",
    "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
+   "addedAt": "2026-11-12T22:16:01+00:00",
+   "tags": [
+    "defence"
+   ]
   },
   {
    "id": "bfc79de3c35c353d",
@@ -198,8 +274,22 @@
    "date": "2026-11-12T21:00:42+00:00",
    "topic": "ukraine",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "cc9d1ce8ef00fe44",
+   "title": "Ottawa serves Stellantis notice of default on funding agreement after Roshel deal",
+   "summary": "More than 2,000 workers have been laid off from the Stellantis plant since it was idled in 2023.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/business/joly-set-to-hold-meeting-in-toronto-with-stellantis-union-and-ontario-minister/article_9c8867c0-5424-5435-9108-f5506bd3938c.html",
+   "date": "2026-11-12T21:00:21+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "0752b83f5acd1887",
@@ -210,6 +300,7 @@
    "date": "2026-11-12T21:00:12+00:00",
    "topic": "ukraine",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -222,8 +313,24 @@
    "date": "2026-11-12T21:00:00+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "5c36d11bf8eb961b",
+   "title": "Indigenous women's groups call out Ottawa over funding in new federal budget",
+   "summary": "OTTAWA - Indigenous women's groups say the new federal budget is harming the people they represent by not including funding targeted at violence and community support services.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/indigenous-women-s-groups-call-out-limited-funding-in-new-federal-budget/article_e818a422-fd69-5d82-9b3d-a83e1546bc2a.html",
+   "date": "2026-11-12T20:27:19+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "680cc0a2f3f31671",
@@ -234,6 +341,7 @@
    "date": "2026-11-12T20:19:45+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -246,6 +354,7 @@
    "date": "2026-11-12T20:12:21+00:00",
    "topic": "europe",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -258,6 +367,7 @@
    "date": "2026-11-12T20:10:31+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -270,6 +380,7 @@
    "date": "2026-11-12T20:07:52+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -282,8 +393,22 @@
    "date": "2026-11-12T19:24:05+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "81bafa2c40e58071",
+   "title": "Feds won't appeal Alberta court ruling that Impact Assessment Act is unconstitutional",
+   "summary": "OTTAWA - The federal government says it won't appeal a recent court decision which declared some of the Impact Assessment Act unconstitutional.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/feds-won-t-appeal-alberta-court-ruling-that-impact-assessment-act-is-unconstitutional/article_fb461718-98fc-5f9b-824c-20c7237fefae.html",
+   "date": "2026-11-12T19:22:21+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "633d5f2300bbfb2e",
@@ -294,6 +419,7 @@
    "date": "2026-11-12T19:01:16+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -306,8 +432,37 @@
    "date": "2026-11-12T19:00:53+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "0764f4e7ef07babc",
+   "title": "Pope Leo gets rapturous welcome in Peru: ‘This visit is like a big party’",
+   "summary": "Pope Leo XIV is visiting the country, where he spent nearly a decade as bishop, during an 11-day South American tour The walls in Chiclayo have been painted with colourful murals and banners welcoming Pope Leo XIV , but he is better known to residents of this…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/12/pope-leo-peru-visit",
+   "date": "2026-11-12T19:00:32+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "a01eb9159d0833a9",
+   "title": "Ex-minister Bailey calls B.C. election drubbing a 'harsh judgment' of inauthentic Eby",
+   "summary": "VICTORIA - One of David Eby's former top lieutenants said he came across as inauthentic during the BC NDP's failed election campaign, calling last month's crushing defeat a \"harsh judgment\" on the outgoing premier's leadership and his decision to call…",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/british-columbia/former-b-c-minister-bailey-says-david-eby-was-inauthentic-during-failed-campaign/article_7c8282f5-4869-5411-918d-d477da6ef812.html",
+   "date": "2026-11-12T18:59:21+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "7930300f7248d501",
@@ -318,7 +473,8 @@
    "date": "2026-11-12T18:47:35+00:00",
    "topic": "us",
    "region": "world",
-   "breaking": true,
+   "tags": [],
+   "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
   {
@@ -330,6 +486,7 @@
    "date": "2026-11-12T18:41:40+00:00",
    "topic": "europe",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -342,6 +499,7 @@
    "date": "2026-11-12T18:38:13+00:00",
    "topic": "europe",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -354,8 +512,22 @@
    "date": "2026-11-12T18:14:30+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "5f78dda7a96bb824",
+   "title": "Ontario to cap OSAP growth at career colleges following massive increases",
+   "summary": "The legislation is set to include the as-yet undefined cap, limit OSAP funding to in-person and hybrid programs at those institutions and require them to have a physical location.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12148094/ontario-to-cap-osap-growth-at-career-colleges-following-massive-increases/",
+   "date": "2026-11-12T18:13:04+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "eda2470930b5f44c",
@@ -366,6 +538,7 @@
    "date": "2026-11-12T18:08:31+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -378,6 +551,7 @@
    "date": "2026-11-12T17:42:03+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -390,6 +564,9 @@
    "date": "2026-11-12T17:26:51+00:00",
    "topic": "ukraine",
    "region": "world",
+   "tags": [
+    "defence"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -402,6 +579,7 @@
    "date": "2026-11-12T17:17:55+00:00",
    "topic": "ukraine",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -414,6 +592,7 @@
    "date": "2026-11-12T17:13:54+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -426,20 +605,24 @@
    "date": "2026-11-12T17:05:55+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
   {
-   "id": "3cb3f9869576fc9b",
-   "title": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured",
-   "summary": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
-   "date": "2026-11-12T16:12:53+00:00",
-   "topic": "us",
+   "id": "64a4da9c56d60cec",
+   "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
+   "summary": "Swedish activist criticised world governments for their failure to prevent environmental breakdown The planet is “not dying, it is being killed and we know by who”, said Greta Thunberg, who excoriated world governments for their failure to prevent…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
+   "date": "2026-11-12T16:39:47+00:00",
+   "topic": "turkey",
    "region": "world",
+   "tags": [
+    "climate"
+   ],
    "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "da298f3c00a12ba9",
@@ -450,8 +633,22 @@
    "date": "2026-11-12T16:06:37+00:00",
    "topic": "ontario",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "ab2ed82485002af5",
+   "title": "Ford government announces sweeping changes to prevent OSAP misuse",
+   "summary": "Private career colleges will be held financially liable for OSAP misuse under the Ontario government's new legislation to address fraud concerns.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/ford-government-announces-sweeping-changes-to-prevent-osap-misuse/article_d8a1ec43-f2e5-4917-a2f0-1e5759dd44d1.html",
+   "date": "2026-11-12T16:00:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "3c4d151294ba5e2c",
@@ -462,8 +659,22 @@
    "date": "2026-11-12T15:56:16+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "d8d0a67223122fba",
+   "title": "Mark Carney distances Ottawa from Stellantis plant sale",
+   "summary": "Carney rejects suggestions that his government was involved in the sale of the Brampton plant that will leave thousands of workers without jobs.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/mark-carney-distances-ottawa-from-stellantis-plant-sale/article_6ac0309a-4c6b-4e87-814a-e54d27b1241e.html",
+   "date": "2026-11-12T15:45:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "b34d4ae988697221",
@@ -474,6 +685,7 @@
    "date": "2026-11-12T14:48:39+00:00",
    "topic": "ukraine",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -486,8 +698,22 @@
    "date": "2026-11-12T14:00:42+00:00",
    "topic": "asia",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "d3df9bf62cbca22d",
+   "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+   "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T13:58:49+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "18dbf43fb7e25418",
@@ -498,6 +724,7 @@
    "date": "2026-11-12T13:46:47+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -510,6 +737,7 @@
    "date": "2026-11-12T13:26:27+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -522,6 +750,7 @@
    "date": "2026-11-12T12:56:55+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -534,6 +763,7 @@
    "date": "2026-11-12T12:19:01+00:00",
    "topic": "mideast",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -546,6 +776,7 @@
    "date": "2026-11-12T12:15:48+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -558,6 +789,7 @@
    "date": "2026-11-12T11:00:46+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -570,6 +802,9 @@
    "date": "2026-11-12T11:00:46+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [
+    "defence"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -577,11 +812,12 @@
    "id": "ac1e9a31257216cc",
    "title": "Ottawa issues default notice to Stellantis over federal funding deal",
    "summary": "A letter from Industry Minister Mélanie Joly dated Nov. 12 says Stellantis is in default of the agreement because it halted Jeep Compass production at the plant.",
-   "source": "Global News Toronto",
+   "source": "Global News",
    "url": "https://globalnews.ca/news/12147000/ford-feds-unifor-set-for-high-stakes-meeting-with-stellantis/",
    "date": "2026-11-12T11:00:38+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -594,6 +830,7 @@
    "date": "2026-11-12T10:00:00+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -606,6 +843,7 @@
    "date": "2026-11-12T10:00:00+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -618,6 +856,7 @@
    "date": "2026-11-12T10:00:00+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -630,8 +869,48 @@
    "date": "2026-11-12T10:00:00+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "1c32157a1e39ba8e",
+   "title": "Here’s how Mark Carney could harness even more of corporate Canada’s talent",
+   "summary": "Maybe it's time to loosen the restrictions of the Harper-era Accountability Act, Susan Delacourt writes.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/political-opinion/here-s-how-mark-carney-could-harness-even-more-of-corporate-canada-s-talent/article_194cac55-92ca-43ce-8014-191ba8763a87.html",
+   "date": "2026-11-12T10:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "ff08acd3005445c0",
+   "title": "Carney set to sign two Asian trade deals on nine-day, four-summit trip that tests his middle-power pitch",
+   "summary": "Carney has meetings in Ireland, the Phillipines, Cambodia and China to expand markets for Canadian exports and strengthen security alliances.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/carney-set-to-sign-two-asian-trade-deals-on-nine-day-four-summit-trip-that-tests-his-middle-power-pitch/article_e38f9129-af57-4c82-ae73-3cc23ac1606a.html",
+   "date": "2026-11-12T10:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "999c680cbd85f02a",
+   "title": "NDP Leader Avi Lewis receives RCMP protection",
+   "summary": "Lewis was observed by the Star on at least three occasions last week being escorted by officers in Ottawa.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/ndp-leader-avi-lewis-receives-rcmp-protection/article_b895167c-48be-420f-ba91-04df5859b588.html",
+   "date": "2026-11-12T10:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "8c18eadae62d12f2",
@@ -642,6 +921,7 @@
    "date": "2026-11-12T09:57:39+00:00",
    "topic": "asia",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -654,6 +934,7 @@
    "date": "2026-11-12T09:53:34+00:00",
    "topic": "mideast",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -666,6 +947,7 @@
    "date": "2026-11-12T09:34:45+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -678,6 +960,7 @@
    "date": "2026-11-12T09:32:33+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -690,8 +973,35 @@
    "date": "2026-11-12T09:27:07+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "df7102209b2e9fa2",
+   "title": "American Airlines resumes flights to Haiti, providing a vital route into the country",
+   "summary": "The U.S. airline has begun flying into northern Haiti on a daily basis, providing a vital route into the country at a time when Americans have few options to get there as the U.S. government advises people to avoid all travel to the Caribbean nation due to…",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/american-airlines-haiti-air-service-9.7416000?cmp=rss",
+   "date": "2026-11-12T09:00:00+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "a65393e8c87f1b50",
+   "title": "His wife died by suicide. He wants the government to reconsider its MAID bill",
+   "summary": "Diane McDowell, 71, wanted a medically assisted death, but was not eligible, said David Slater. She died on Oct. 25.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/his-wife-died-by-suicide-he-wants-the-government-to-reconsider-its-maid-bill/article_f60c8547-ba85-5cc9-994c-b2e3a8194941.html",
+   "date": "2026-11-12T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "f57f8322ed7afed7",
@@ -702,8 +1012,24 @@
    "date": "2026-11-12T08:46:57+00:00",
    "topic": "asia",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "fa827469545270a3",
+   "title": "Can Nigeria's president regain voters' trust after painful first term?",
+   "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-12T07:30:44+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "4cfb083805a2cda7",
@@ -714,6 +1040,7 @@
    "date": "2026-11-12T06:47:20+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -726,8 +1053,26 @@
    "date": "2026-11-12T06:43:31+00:00",
    "topic": "europe",
    "region": "world",
+   "tags": [
+    "defence"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "60b69ab4d379f476",
+   "title": "Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç",
+   "summary": "Selahattin Demirtaş lit up the Turkish left in 2014, but was imprisoned for ‘terrorist propaganda’. His freedom would mark a new political era A decade and a half ago, a promising figure emerged on Turkey’s political scene: Selahattin Demirtaş. A tall…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/12/erdogan-release-turkey-brightest-opposition-leader-selahattin-demirtas",
+   "date": "2026-11-12T05:00:11+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "afea22f92600b706",
@@ -738,6 +1083,7 @@
    "date": "2026-11-12T03:00:07+00:00",
    "topic": "mideast",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -750,6 +1096,7 @@
    "date": "2026-11-12T02:02:37+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -762,6 +1109,7 @@
    "date": "2026-11-12T01:14:10+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -774,6 +1122,7 @@
    "date": "2026-11-11T23:37:27+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -786,6 +1135,7 @@
    "date": "2026-11-11T23:18:36+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -798,6 +1148,7 @@
    "date": "2026-11-11T23:14:39+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -810,6 +1161,9 @@
    "date": "2026-11-11T23:09:18+00:00",
    "topic": "ukraine",
    "region": "world",
+   "tags": [
+    "immigration"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -822,6 +1176,9 @@
    "date": "2026-11-11T21:26:56+00:00",
    "topic": "mideast",
    "region": "world",
+   "tags": [
+    "defence"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -834,6 +1191,9 @@
    "date": "2026-11-11T21:20:40+00:00",
    "topic": "europe",
    "region": "world",
+   "tags": [
+    "housing"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -841,11 +1201,12 @@
    "id": "379e0d76c544c9f9",
    "title": "Muskoka regional chair ‘deeply disappointed’ after being ousted by Ford government",
    "summary": "Muskoka’s outgoing regional chair says he’s “deeply disappointed” after the Ford government ousted him from the role in favour of Scott Aitchison, a current Conservative MP who plans to step away from Parliament Hill. Jeff Lehman, the former Mayor of Barrie…",
-   "source": "Global News Toronto",
+   "source": "Global News",
    "url": "https://globalnews.ca/news/12146710/muskoka-regional-chair-deeply-disappointed-after-being-ousted-by-ford-government/",
    "date": "2026-11-11T20:20:02+00:00",
    "topic": "ontario",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -858,6 +1219,9 @@
    "date": "2026-11-11T19:36:00+00:00",
    "topic": "mideast",
    "region": "world",
+   "tags": [
+    "elections"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -870,8 +1234,24 @@
    "date": "2026-11-11T19:30:48+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "84cf2bb3d1fe8f36",
+   "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
+   "summary": "Marshall Islands president warns of worsening floods as UN chief calls for a windfall tax on oil and gas firms Failure to provide an overwhelming response to the climate crisis means “the world we know is over”, the president of the embattled Marshall Islands…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
+   "date": "2026-11-11T18:52:08+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "9a4fab6bfc76abda",
@@ -882,6 +1262,9 @@
    "date": "2026-11-11T18:25:56+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [
+    "elections"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -894,8 +1277,48 @@
    "date": "2026-11-11T17:35:20+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "2aee41ed39110889",
+   "title": "Cop31 as it happened: ‘Fossil fuels must go the way of the dinosaurs’ - UN chief hits out at industry lobbying",
+   "summary": "Third day of UN talks begin but leaders of many big polluting nations absent After a couple of hosts provide us a bit of background on Antalya (founded in 200BC, apparently) it is time to hear from António Guterres, the outgoing secretary-general of the UN…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-11T17:26:42+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "64c04077df49b3ae",
+   "title": "'Tragedy befell this small town': Soldiers killed in fire honoured on Remembrance Day",
+   "summary": "Four soldiers killed in a fire during a training exercise are among those being honoured today at a Remembrance Day ceremony in Wainwright, Alta.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/alberta/remembrance-day-ceremonies-to-honour-cfb-wainwright-fire-victims/article_bb7b187d-8196-5eaf-b89b-90c05b24bef8.html",
+   "date": "2026-11-11T17:05:05+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "43367a0acef57cee",
+   "title": "This school’s students are caught in the OSAP freeze. It responded with financial aid, and a free pantry",
+   "summary": "At Redeemer University, students can defer tuition and on-campus housing payments. 'In the long run, it's not sustainable.'",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/this-school-s-students-are-caught-in-the-osap-freeze-it-responded-with-financial-aid-and-a-free-pantry/article_745488f5-668b-4311-80bb-95d5621854e3.html",
+   "date": "2026-11-11T17:05:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "91e25dd5c054895a",
@@ -906,6 +1329,7 @@
    "date": "2026-11-11T17:01:59+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -918,6 +1342,7 @@
    "date": "2026-11-11T17:01:02+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -930,6 +1355,9 @@
    "date": "2026-11-11T17:00:55+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [
+    "elections"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -942,8 +1370,22 @@
    "date": "2026-11-11T16:45:11+00:00",
    "topic": "mideast",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "754dadcf004382f6",
+   "title": "Bryan Adams sensed a political shift when red states cheered his anti-Trump song",
+   "summary": "Last week's U.S. midterm elections may have cut like a knife through Donald Trump's political agenda, but Bryan Adams says he saw the backlash coming.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/entertainment/music/bryan-adams-sensed-a-political-shift-when-red-states-cheered-his-anti-trump-song/article_e203d119-70e5-5d6e-bfee-e59c9612106e.html",
+   "date": "2026-11-11T15:26:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "32b7c477bf65f487",
@@ -954,8 +1396,22 @@
    "date": "2026-11-11T14:56:29+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "5a1383b904f2b265",
+   "title": "Eswatini gives illegal foreign businesses 12 months to leave",
+   "summary": "The law follows the growth of foreign-owned businesses in rural areas.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm4gnq2pw2kro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T14:39:01+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "f0c7e434f652ff9f",
@@ -966,8 +1422,37 @@
    "date": "2026-11-11T13:22:22+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "44e9141710192071",
+   "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+   "summary": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T12:14:12+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "daca68b5a7f5ac38",
+   "title": "Transport workers in Chile block highways in protest over surging fuel prices",
+   "summary": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T11:34:50+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "49fd977ed9793125",
@@ -978,8 +1463,54 @@
    "date": "2026-11-11T11:33:24+00:00",
    "topic": "asia",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "cad48f4e5f60d93b",
+   "title": "National security of all countries at risk due to climate crisis, UK foreign secretary warns",
+   "summary": "Exclusive: Ed Miliband says sci-fi scenarios of destruction ‘now regular occurrences’, as he prepares to address Cop31 The national security of all countries is at risk from the climate crisis, as “science fiction” scenarios of widespread destruction are…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31",
+   "date": "2026-11-11T09:09:47+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence",
+    "climate"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "a85c28bfc3a7b389",
+   "title": "Economies are improving, but rule of law is slipping. The buck now stops with Africa’s leaders | Kenneth Mohammed",
+   "summary": "The west has spent decades judging Africa’s governance and colonialism is much to blame. But Mo Ibrahim’s latest index offers a different perspective – and some uncomfortable truths The west has never been short of advice on how Africa should govern itself…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/2026/nov/11/mo-ibrahim-africa-governance-colonialism-power-development-corruption-buck-stops",
+   "date": "2026-11-11T09:00:34+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "7aafbee54eaa71df",
+   "title": "Budget 2026 shifts Liberal government's language on home construction targets",
+   "summary": "OTTAWA - The federal housing minister's office is reasserting Ottawa's goal of doubling the pace of home construction — even though references to the Liberals' hallmark affordability pledge were missing from Budget 2026.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/budget-2026-shifts-liberal-government-s-language-on-home-construction-targets/article_d3cc3e20-613d-59be-96b4-17647fbf0b93.html",
+   "date": "2026-11-11T09:00:07+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy",
+    "housing"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "c81fd1e6fcae3556",
@@ -990,6 +1521,7 @@
    "date": "2026-11-11T09:00:00+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1002,6 +1534,7 @@
    "date": "2026-11-11T09:00:00+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1014,8 +1547,35 @@
    "date": "2026-11-11T09:00:00+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "ea442483174a75e3",
+   "title": "Carney arrives in Dublin to begin four-country trip",
+   "summary": "DUBLIN - Prime Minister Mark Carney arrived in Dublin late Wednesday as he gets set to attend summits in Ireland and Asia where he'll look to advance trade and security ties.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/carney-takes-off-wednesday-for-summits-in-ireland-philippines-cambodia-and-china/article_f087576d-67f3-5dc3-8fc2-16486c47f19e.html",
+   "date": "2026-11-11T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "c655ebfbb2fc985e",
+   "title": "From Jersey to Somalia... via Liverpool & Man City",
+   "summary": "BBC Sport charts Jarma Mohamed's surprising football journey from Premier League academies to the Somalia national team, via an app and Jersey Bulls.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-11T07:13:52+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "c30fc608b1ba174d",
@@ -1026,6 +1586,9 @@
    "date": "2026-11-11T07:00:32+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [
+    "elections"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1038,6 +1601,7 @@
    "date": "2026-11-11T05:33:27+00:00",
    "topic": "ukraine",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1050,6 +1614,9 @@
    "date": "2026-11-11T02:52:16+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [
+    "defence"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1062,8 +1629,22 @@
    "date": "2026-11-11T00:26:02+00:00",
    "topic": "asia",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "2db9734f53a74789",
+   "title": "Critics slam Ford government appointment of York region chair as ‘conflict of interest’",
+   "summary": "Scarpitti also suggested the appointment was undemocratic because Del Duca could have \"overriding power over nine mayors,\" which he calls a \"concentration of power\"",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12145404/critics-slam-ford-government-appointment-of-york-region-chair-as-conflict-of-interest/",
+   "date": "2026-11-10T23:06:48+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "1b6e910df5dbd48f",
@@ -1074,8 +1655,37 @@
    "date": "2026-11-10T22:53:51+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "69130c6a859c4a07",
+   "title": "Climate activists award Carney, other absent world leaders 'fossil of the day' title",
+   "summary": "OTTAWA - Prime Minister Mark Carney and several other world leaders who failed to attend the UN Climate Conference in Turkey have been awarded the \"fossil of the day\" title.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/climate-activists-award-carney-other-absent-world-leaders-fossil-of-the-day-title/article_d6faef60-be3e-5541-9610-dc59cba170d3.html",
+   "date": "2026-11-10T22:48:51+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "climate"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "9273c7a1a7101b50",
+   "title": "Stellantis must pay back 'every penny' it got from Ottawa, Pierre Poilievre says",
+   "summary": "A company spokesperson would not disclose how much money would be returned to Ottawa following the sale of the plant to a Canadian armoured vehicle manufacturer.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/stellantis-must-pay-back-every-penny-it-got-from-ottawa-pierre-poilievre-says/article_3ec06406-466a-4c6e-a2dc-e982f63a436e.html",
+   "date": "2026-11-10T22:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "70b57ef97c80babd",
@@ -1086,6 +1696,7 @@
    "date": "2026-11-10T21:21:55+00:00",
    "topic": "ukraine",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1098,8 +1709,35 @@
    "date": "2026-11-10T21:16:39+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "057c0aad0c74b6fc",
+   "title": "Carney government wants more leeway for national interest projects that kill protected birds",
+   "summary": "The federal government wants to allow Prime Minister Mark Carney's \"national interest projects\" to kill or harm protected birds as collateral damage in otherwise legal activities, as long as builders take \"reasonable\" steps to limit the impacts.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/carney-government-wants-more-leeway-for-national-interest-projects-that-kill-protected-birds/article_d13ab483-5f52-4a94-8e11-2e411b880e29.html",
+   "date": "2026-11-10T20:45:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "01e5ec348fcd485b",
+   "title": "Ottawa releases list of companies lending staff to major projects office",
+   "summary": "OTTAWA - The major projects office has seconded employees from banks, oil and gas companies and mining firms as it pursues its mandate to improve Canada's review process and get shovels in the ground faster, a new document shows.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/ottawa-releases-list-of-companies-lending-staff-to-major-projects-office/article_b59cd0cb-0c0c-5a8f-9f6e-5585a817c962.html",
+   "date": "2026-11-10T20:38:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "630097d0e39715eb",
@@ -1110,6 +1748,7 @@
    "date": "2026-11-10T20:03:43+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1122,8 +1761,22 @@
    "date": "2026-11-10T19:56:20+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "f9fd43dfe7169bc3",
+   "title": "Dresden keeps up Ontario landfill battle",
+   "summary": "A town is pushing back on the latest step to advance a controversial landfill and transfer station project, as Premier Doug Ford's government ramps up a search for garbage space.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12144876/dresden-keeps-up-ontario-landfill-battle/",
+   "date": "2026-11-10T19:39:20+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "4d79f8dbd6d79d1a",
@@ -1134,8 +1787,35 @@
    "date": "2026-11-10T19:26:42+00:00",
    "topic": "asia",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "820522ce1dc65040",
+   "title": "Federal report offers 'first step' toward health strategy for men and boys: advocate",
+   "summary": "OTTAWA - The federal government has released a report outlining challenges related to boys' and men's health as it works toward a national strategy to be released next year.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/federal-report-offers-first-step-toward-health-strategy-for-men-and-boys-advocate/article_6d344d9f-9b9b-50c0-b47a-494ff7ad1750.html",
+   "date": "2026-11-10T19:26:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "5ab926c7aaa312e2",
+   "title": "Dresden keeps up landfill battle as project seeks Ontario approvals",
+   "summary": "A southwestern Ontario town is pushing back on the latest step to advance a controversial landfill and waste transfer station project, as Premier Doug Ford's government ramps up a search for garbage space.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/dresden-keeps-up-landfill-battle-as-project-seeks-ontario-approvals/article_490b0a68-9cfe-5a3c-9919-21b9c69cffe9.html",
+   "date": "2026-11-10T19:20:11+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "d255437752456179",
@@ -1146,6 +1826,7 @@
    "date": "2026-11-10T19:13:36+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1156,8 +1837,9 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
    "date": "2026-11-10T19:01:33+00:00",
-   "topic": "europe",
+   "topic": "latam",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1170,6 +1852,7 @@
    "date": "2026-11-10T19:00:56+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1182,8 +1865,76 @@
    "date": "2026-11-10T18:59:45+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "e976231e785095da",
+   "title": "UN chief urges Cop31 hosts Turkey and Australia to turn fossil fuel promises into action",
+   "summary": "António Guterres calls for ‘clear next steps’ as countries face pressure to agree concrete measures Turkey and Australia, the co-hosts of crucial climate talks, must urgently move from discussing the end of fossil fuels to delivering it, the UN chief has…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/10/un-antonio-guterres-cop31-fossil-fuels-turkey-australia",
+   "date": "2026-11-10T18:49:36+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "faaa1a6357decad0",
+   "title": "Carney government names companies that loaned staff to Major Projects Office",
+   "summary": "The government had previously declined to identify the companies providing employees.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/carney-government-names-companies-that-loaned-staff-to-major-projects-office/article_ee90e7c9-999c-4dae-9801-e75974e8f448.html",
+   "date": "2026-11-10T18:15:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "44d881b2a46c3121",
+   "title": "Ottawa ‘following the situation closely’ as spy scandal rocks chipmaker Nvidia",
+   "summary": "The federal government is keeping tabs on an internal investigation at Nvidia after its chief executive was linked to an alleged Chinese spy.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/ottawa-following-the-situation-closely-as-spy-scandal-rocks-chipmaker-nvidia/article_befab2bd-b1b8-416a-8dc9-8e25e3794006.html",
+   "date": "2026-11-10T18:15:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "defence"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "2f646ffd8460f16a",
+   "title": "Carney to raise issue of foreign interference with Chinese President Xi next week",
+   "summary": "OTTAWA - Prime Minister Mark Carney said Tuesday he will raise concerns about foreign interference in Canada when he meets next week with Chinese President Xi Jinping.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/carney-to-meet-with-chinese-president-xi-jinping-next-week/article_c3a9a75f-1573-5ad0-a8a9-802af3ca4943.html",
+   "date": "2026-11-10T18:08:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "22be6c429b1a194f",
+   "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+   "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-10T18:04:18+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "90e133c5fb69fece",
@@ -1194,6 +1945,9 @@
    "date": "2026-11-10T17:52:34+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [
+    "climate"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1206,8 +1960,24 @@
    "date": "2026-11-10T17:24:01+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "599d18e5bdfc8863",
+   "title": "Ottawa puts sharper focus on permanent residency for privately sponsored refugees",
+   "summary": "OTTAWA - The federal government is increasing the number of privately sponsored refugees eligible for permanent residency in the coming years as it reduces the number of eligible government-sponsored refugees.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/ottawa-puts-sharper-focus-on-permanent-residency-for-privately-sponsored-refugees/article_925cfe07-a77d-587e-8484-bba0bbc19f3f.html",
+   "date": "2026-11-10T17:21:10+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "immigration"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "4fd5182de40cb9c5",
@@ -1218,6 +1988,9 @@
    "date": "2026-11-10T17:15:54+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [
+    "economy"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1230,6 +2003,7 @@
    "date": "2026-11-10T17:03:16+00:00",
    "topic": "mideast",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1242,8 +2016,35 @@
    "date": "2026-11-10T17:02:56+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "3e564587b6f20b9c",
+   "title": "Ontario appoints regional council chairs, including outgoing Conservative MP",
+   "summary": "Ontario Premier Doug Ford's government has appointed eight regional heads of council, including outgoing Conservative MP Scott Aitchison.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12144461/ontario-regional-council-chair-appointments/",
+   "date": "2026-11-10T16:55:45+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "2571930e17297ecc",
+   "title": "Ontario appoints regional council chairs, including outgoing Conservative MP",
+   "summary": "TORONTO - Ontario Premier Doug Ford's government has appointed eight regional heads of council, including Conservative MP Scott Aitchison.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/ontario-appoints-regional-council-chairs-including-outgoing-conservative-mp/article_f466bcbc-d3e0-5057-95ee-1af452fd2721.html",
+   "date": "2026-11-10T16:15:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "e19decc81c4027e2",
@@ -1254,6 +2055,7 @@
    "date": "2026-11-10T15:59:49+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1266,8 +2068,22 @@
    "date": "2026-11-10T15:39:26+00:00",
    "topic": "mideast",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "f09b5d1991c50c63",
+   "title": "Doug Ford names hand-picked regional chairs with sweeping new powers, including Scott Aitchison",
+   "summary": "Ford's government announced Tuesday the long-awaited appointments of chairs in York, Peel, Durham, Halton, Niagara and Waterloo regions, as well as Muskoka District and Simcoe County.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/doug-ford-appoints-regional-chairs-including-scott-aitchison-and-steven-del-duca/article_20c9a5fc-f601-4c1a-901d-7046a8dcdd3a.html",
+   "date": "2026-11-10T15:30:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "51d70fb391baa8a3",
@@ -1278,6 +2094,7 @@
    "date": "2026-11-10T15:21:18+00:00",
    "topic": "mideast",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1290,8 +2107,35 @@
    "date": "2026-11-10T14:26:57+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "ce8b471c16bf3fcc",
+   "title": "A Trump proposal would punish single parents. Other wealthy countries have a different approach",
+   "summary": "Canada, the Netherlands and Sweden offer extra support to solo-parent households. In its latest pronatalist push, the Trump administration aims to shift funds away from them When news broke that the Trump administration planned to pay married couples to have…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-vance-parents-payment-analysis",
+   "date": "2026-11-10T13:00:53+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "feb0bc88cf778777",
+   "title": "Trump just lost Congress. Now U.S. policy on Israel, Ukraine and Iran is shifting overnight",
+   "summary": "The election delivered a strong message about voter anger over the war with Iran and about the rising cost of living.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/world/united-states/how-trump-s-election-thumping-could-shift-u-s-foreign-policy/article_23d057dc-7be7-4571-b710-33b0fd234f5a.html",
+   "date": "2026-11-10T12:39:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "5e88919a5f756e27",
@@ -1302,6 +2146,7 @@
    "date": "2026-11-10T12:08:23+00:00",
    "topic": "asia",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1314,8 +2159,22 @@
    "date": "2026-11-10T11:23:18+00:00",
    "topic": "mideast",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "df36250ae31e5b9f",
+   "title": "Ford government’s Bill 140 gutting Ontario’s environmental rights, experts warn",
+   "summary": "The sweeping new bill is drawing sharp warnings from environmental advocates who say it will reverse decades of progress on environmental issues.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12143847/ford-governments-bill-140-gutting-ontarios-environmental-rights-experts-warn/",
+   "date": "2026-11-10T11:00:59+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "b791ed4e8aa57b83",
@@ -1326,6 +2185,7 @@
    "date": "2026-11-10T10:57:51+00:00",
    "topic": "asia",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1338,6 +2198,7 @@
    "date": "2026-11-10T09:40:31+00:00",
    "topic": "mideast",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1350,6 +2211,10 @@
    "date": "2026-11-10T09:00:00+00:00",
    "topic": "ontario",
    "region": "local",
+   "tags": [
+    "economy",
+    "defence"
+   ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   },
@@ -1362,8 +2227,76 @@
    "date": "2026-11-10T09:00:00+00:00",
    "topic": "federal",
    "region": "local",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "076496a3478323bb",
+   "title": "'Things will never be the same': Wainwright prepares for Remembrance Day after fire",
+   "summary": "EDMONTON - The Alberta town of Wainwright is gearing up for what could be the most solemn Remembrance Day in its recent history, says Mayor Bruce Pugh.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/alberta/things-will-never-be-the-same-wainwright-prepares-for-remembrance-day-after-fire/article_50ecee6e-b816-5649-8a0b-c6a9201a464d.html",
+   "date": "2026-11-10T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "a5a5faa685969bc2",
+   "title": "'I can feel their heart': Silver Cross mother offers condolences over Wainwright",
+   "summary": "OTTAWA - Virginia Hicks did not know when the Royal Canadian Legion chose her as Canada's Silver Cross mother in June that a deadly training accident would soon cast a shadow over this year's Remembrance Day ceremonies.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/i-can-feel-their-heart-silver-cross-mother-offers-condolences-over-wainwright/article_2591f014-a106-561e-9031-71a09b6e9f69.html",
+   "date": "2026-11-10T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "5690e6c12373a5d2",
+   "title": "Ottawa says 4,306 Canadian veterans of Second World War, Korea still alive today",
+   "summary": "OTTAWA - The number of living Canadian veterans of the Second World War and the Korean War has fallen sharply since Remembrance Day last year.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/ottawa-says-4-306-canadian-veterans-of-second-world-war-korea-still-alive-today/article_9d78b6ae-205b-500d-aa4d-112e76cca4ab.html",
+   "date": "2026-11-10T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "0539f95afe6e92a2",
+   "title": "Environment minister defends Canada's climate record in advance of UN conference",
+   "summary": "Canada is likely to face criticism over its recent climate policy shifts at this week's United Nations climate conference, experts say.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/dabrusin-defends-canada-s-climate-record-in-advance-of-un-climate-conference/article_00156985-09c5-5ce3-8e0c-8dae5b6ed2f0.html",
+   "date": "2026-11-10T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "climate"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
+   "id": "0c0550822e9c1299",
+   "title": "Collaboration helps cybercrime fighters 'paint full picture,' event participants say",
+   "summary": "OTTAWA - A large video screen displays a running tally of statistics as dozens of people hunch over laptops, a freshly formed hivemind in the fight against cybercrime.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/collaboration-helps-cybercrime-fighters-paint-full-picture-event-participants-say/article_b072db9e-0680-59b9-af5d-9c588a23f61d.html",
+   "date": "2026-11-10T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "5aaf31bc68a0eed0",
@@ -1374,8 +2307,24 @@
    "date": "2026-11-10T07:30:31+00:00",
    "topic": "asia",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "a5a2e2d2b52e1d3f",
+   "title": "Tuesday briefing: The world is falling short on climate action. Can Cop31 change that?",
+   "summary": "In today’s newsletter: As global leaders gather in Turkey for the UN climate summit, both doubts and hope surround what the annual talks can achieve Good morning. After another year of unprecedented droughts, floods and wildfires driven by human-caused global…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/10/tuesday-briefing-the-world-is-falling-short-on-climate-action-can-cop31-change-that",
+   "date": "2026-11-10T06:45:39+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "bd0382d1c3586a96",
@@ -1386,8 +2335,24 @@
    "date": "2026-11-10T05:22:39+00:00",
    "topic": "asia",
    "region": "world",
+   "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "90898baefcd00e0c",
+   "title": "Australia's Chris Bowen tells Cop31 the world can still limit global heating to 1.5C – video",
+   "summary": "At the opening of Cop31 in Turkey, president of negotiations and Australia’s climate change minister, Chris Bowen, acknowledged the world would overshoot the Paris Agreement’s 1.5C warming limit but said 'we can return' if countries acted with urgency and…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/video/2026/nov/10/australias-chris-bowen-tells-cop31-the-world-can-still-limit-global-heating-to-15c-video",
+   "date": "2026-11-10T02:23:21+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   }
  ]
 }

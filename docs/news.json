@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T23:09:05+00:00",
+ "generatedAt": "2026-11-12T23:17:27+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -167,6 +167,19 @@
    ],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "e3a90c61c37ce601",
+   "title": "Confining kids in lockers as punishment 'unacceptable': Quebec education minister",
+   "summary": "QUÉBEC - Quebec Education Minister Joël Arseneau is speaking out about school personnel who allegedly confined unruly children in a locker north of Montreal.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/quebec/confining-kids-in-lockers-as-punishment-unacceptable-quebec-education-minister/article_c9b6a6c4-2eba-5170-b9b5-9058240ae210.html",
+   "date": "2026-11-12T22:54:32+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T23:17:27+00:00"
   },
   {
    "id": "77c871299b2b22a8",
@@ -639,7 +652,7 @@
   },
   {
    "id": "da298f3c00a12ba9",
-   "title": "Opposition parties slam Ontario's proposed OSAP oversight legislation, call it a 'cover your ass' bill",
+   "title": "Opposition parties slam Ontario's proposed OSAP oversight legislation",
    "summary": "The minister for colleges and universities announced the province's newest crackdown on potential abuse of the OSAP system by private post-secondary schools. Nolan Quinn is proposing new legislation for stronger oversight and enforcement, which comes amid…",
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/osap-ontario-private-postsecondary-institutions-propose-legislation-oversight-enforcement-9.7419113?cmp=rss",

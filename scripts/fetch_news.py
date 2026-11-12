@@ -39,6 +39,18 @@ FEEDS = [
     ("The Guardian", "https://www.theguardian.com/world/rss", "world", None, False),
     ("The Guardian", "https://www.theguardian.com/us-news/us-politics/rss", "world", "us", True),
     ("NPR", "https://feeds.npr.org/1014/rss.xml", "world", "us", True),
+    # Local politics, from topic pages that only carry political stories.
+    ("Global News", "https://globalnews.ca/tag/ontario-politics/feed/", "local", "ontario", True),
+    ("Global News", "https://globalnews.ca/tag/doug-ford/feed/", "local", "ontario", True),
+    ("Global News", "https://globalnews.ca/tag/toronto-city-council/feed/", "local", "toronto", True),
+    ("Global News", "https://globalnews.ca/tag/olivia-chow/feed/", "local", "toronto", True),
+    ("Toronto Star", "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc", "local", "federal", True),
+    # More world regions.
+    ("BBC News", "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml", "world", "latam", False),
+    ("BBC News", "https://feeds.bbci.co.uk/news/world/africa/rss.xml", "world", "africa", False),
+    ("The Guardian", "https://www.theguardian.com/world/turkey/rss", "world", "turkey", False),
+    ("The Guardian", "https://www.theguardian.com/world/americas/rss", "world", None, False),
+    ("The Guardian", "https://www.theguardian.com/world/africa/rss", "world", "africa", False),
 ]
 
 LOCAL_TOPICS = {"federal", "ontario", "toronto"}
@@ -58,7 +70,15 @@ TOPIC_WORDS = {
     "mideast": ["israel", "israeli", "gaza", "hamas", "hezbollah", "iran", "iranian", "tehran", "lebanon",
                 "syria", "west bank", "netanyahu", "saudi", "yemen", "houthi", "iraq", "qatar", "palestinian"],
     "us": ["trump", "white house", "congress", "senate", "republican", "republicans", "democrat", "democrats",
-           "vance", "supreme court", "hegseth", "rubio", "washington", "u.s. president", "us president"],
+           "vance", "supreme court", "hegseth", "rubio", "u.s. president", "us president", "capitol hill"],
+    "turkey": ["turkey", "türkiye", "turkiye", "turkish", "erdogan", "erdoğan", "ankara", "istanbul",
+               "imamoglu", "imamoğlu", "chp", "akp", "kurdish", "pkk"],
+    "latam": ["brazil", "lula", "mexico", "sheinbaum", "argentina", "milei", "venezuela", "maduro",
+              "colombia", "petro", "chile", "peru", "cuba", "ecuador", "bolivia", "latin america", "haiti",
+              "panama", "guatemala", "honduras", "nicaragua"],
+    "africa": ["africa", "african", "nigeria", "south africa", "ramaphosa", "kenya", "ethiopia", "sudan",
+               "egypt", "congo", "drc", "sahel", "mali", "niger", "somalia", "ghana", "uganda", "tanzania",
+               "morocco", "algeria", "libya", "tunisia", "zimbabwe", "senegal", "rwanda"],
     "europe": ["european union", "eu", "brussels", "nato", "starmer", "britain", "uk", "british", "france",
                "macron", "germany", "german", "merz", "spain", "italy", "meloni", "poland", "hungary",
                "orban", "netherlands", "europe", "european", "ireland", "greece", "sweden", "denmark"],
@@ -66,6 +86,36 @@ TOPIC_WORDS = {
              "pakistan", "korea", "taiwan", "philippines", "indonesia", "australia", "vietnam",
              "bangladesh", "myanmar", "thailand", "afghanistan"],
 }
+
+# Issue beats: a story can carry several of these on top of its region.
+ISSUE_WORDS = {
+    "trade": ["tariff", "tariffs", "trade deal", "trade war", "trade talks", "cusma", "usmca", "free trade",
+              "exports", "imports", "duties", "wto", "trade minister", "trade agreement"],
+    "elections": ["election", "elections", "by-election", "byelection", "referendum", "ballot", "polls",
+                  "poll", "campaign", "voters", "vote count", "runoff", "candidate", "candidates"],
+    "immigration": ["immigration", "immigrants", "migrants", "migrant", "asylum", "refugee", "refugees",
+                    "deportation", "deportations", "border", "visa", "visas", "international students",
+                    "temporary residents", "ice raids"],
+    "economy": ["budget", "deficit", "economy", "economic", "inflation", "interest rate", "interest rates",
+                "recession", "gdp", "jobs report", "unemployment", "taxes", "tax cut", "spending",
+                "bank of canada", "federal reserve", "fiscal"],
+    "defence": ["defence", "defense", "military", "nato", "troops", "army", "missile", "missiles", "drone",
+                "drones", "pentagon", "national security", "espionage", "spy", "warship", "ceasefire",
+                "armed forces"],
+    "climate": ["climate", "emissions", "carbon", "pipeline", "pipelines", "oil and gas", "renewable",
+                "clean energy", "net zero", "cop33", "cop32", "wildfire", "lng", "energy policy"],
+    "housing": ["housing", "rent", "rents", "renters", "homelessness", "affordability", "cost of living",
+                "home prices", "mortgage", "mortgages", "affordable homes", "encampment", "encampments"],
+}
+
+# Stories that are mostly crime, accidents or sport are dropped unless clearly political.
+NOISE_WORDS = ["shooting", "shot dead", "stabbing", "stabbed", "murder", "homicide", "crash", "collision",
+               "fire crews", "missing person", "arrested", "charged with", "hockey", "soccer", "football",
+               "basketball", "baseball", "world juniors", "tournament", "olympic", "olympics", "nhl", "nba",
+               "nfl", "concert", "celebrity", "weather warning", "snowfall"]
+
+STRONG_POLITICS = ["government", "minister", "president", "prime minister", "premier", "parliament",
+                   "legislature", "council", "mayor", "senator", "congress", "election", "policy", "bill"]
 
 POLITICS_WORDS = [
     "government", "minister", "president", "prime minister", "premier", "election", "elections", "vote",
@@ -86,7 +136,10 @@ def compile_words(words):
 
 
 TOPIC_RX = {t: compile_words(ws) for t, ws in TOPIC_WORDS.items()}
+ISSUE_RX = {t: compile_words(ws) for t, ws in ISSUE_WORDS.items()}
 POLITICS_RX = compile_words(POLITICS_WORDS)
+NOISE_RX = compile_words(NOISE_WORDS)
+STRONG_RX = compile_words(STRONG_POLITICS)
 
 
 def clean(text):
@@ -155,28 +208,44 @@ def count_hits(rxs, text):
     return sum(1 for rx in rxs if rx.search(text))
 
 
-def classify(title, summary, region_hint, topic_hint, politics_feed):
-    """Return (topic, region) or None if the story isn't political/relevant."""
+def issues_for(title, summary):
     text = title + " " + summary
-    if not politics_feed and count_hits(POLITICS_RX, text) == 0:
+    tags = []
+    for t, rxs in ISSUE_RX.items():
+        if count_hits(rxs, title) >= 1 or count_hits(rxs, summary) >= 2:
+            tags.append(t)
+    return tags
+
+
+def classify(title, summary, region_hint, topic_hint, politics_feed):
+    """Return (topic, region, issue_tags) or None if the story isn't political/relevant."""
+    text = title + " " + summary
+    politics_hits = count_hits(POLITICS_RX, text)
+    if not politics_feed and politics_hits == 0:
+        return None
+    if count_hits(NOISE_RX, title) and count_hits(STRONG_RX, text) == 0:
         return None
     candidates = LOCAL_TOPICS if region_hint == "local" else TOPIC_RX.keys()
-    best, best_score = None, 0
-    for t in candidates:
-        sc = count_hits(TOPIC_RX[t], title) * 2 + count_hits(TOPIC_RX[t], summary)
-        if sc > best_score:
-            best, best_score = t, sc
+    scores = {t: count_hits(TOPIC_RX[t], title) * 2 + count_hits(TOPIC_RX[t], summary) for t in candidates}
+    # A Canadian politician in the headline makes it a Canadian story, wherever it happens.
+    local_title = {t: count_hits(TOPIC_RX[t], title) for t in LOCAL_TOPICS if t in scores}
+    if any(local_title.values()):
+        best = max(local_title, key=lambda t: (local_title[t], scores[t]))
+        best_score = scores[best]
+    else:
+        best = max(scores, key=scores.get) if scores else None
+        best_score = scores.get(best, 0) if best else 0
+        if best_score == 0:
+            best = None
     if best is None:
-        if topic_hint and (politics_feed or region_hint == "local"):
-            best = topic_hint
-        elif topic_hint and region_hint == "world":
+        if topic_hint:
             best = topic_hint
         else:
             return None
-    # Local feeds: non-political-feed stories need a local signal to avoid crime/weather noise.
+    # Local feeds that aren't politics-only need a local politics signal to avoid crime/weather noise.
     if region_hint == "local" and not politics_feed and best_score == 0:
         return None
-    return best, ("local" if best in LOCAL_TOPICS else "world")
+    return best, ("local" if best in LOCAL_TOPICS else "world"), issues_for(title, summary)
 
 
 def tokens(title):
@@ -186,7 +255,7 @@ def tokens(title):
 def mark_breaking(items, now):
     for it in items:
         it["breaking"] = False
-    recent = [it for it in items if it["date"] and now - datetime.fromisoformat(it["date"]) < timedelta(hours=8)]
+    recent = [it for it in items if it["date"] and now - datetime.fromisoformat(it["date"]) < timedelta(hours=6)]
     toks = [tokens(it["title"]) for it in recent]
     clusters = []
     for i, it in enumerate(recent):
@@ -198,7 +267,7 @@ def mark_breaking(items, now):
             union = toks[i] | toks[j]
             if len(shared) >= 2 and union and len(shared) / len(union) >= 0.25:
                 sources.add(other["source"])
-        if len(sources) >= 3 or re.search(r"\bbreaking\b", it["title"], re.I):
+        if len(sources) >= 4 or re.search(r"\bbreaking\b", it["title"], re.I):
             clusters.append((len(sources), it))
     clusters.sort(key=lambda x: (x[0], x[1]["date"]), reverse=True)
     picked, seen = 0, []
@@ -230,7 +299,14 @@ def item_id(link):
 def build(feed_results, previous, now):
     """feed_results: list of (feed_tuple, parsed_items or None)."""
     prev_by_id = {it["id"]: it for it in previous}
-    merged = dict(prev_by_id)
+    merged = {}
+    for iid, it in prev_by_id.items():
+        # Re-check stories saved by older versions of this script.
+        if "tags" not in it:
+            if count_hits(NOISE_RX, it["title"]) and count_hits(STRONG_RX, it["title"] + " " + it["summary"]) == 0:
+                continue
+            it = dict(it, tags=issues_for(it["title"], it["summary"]))
+        merged[iid] = it
     report = []
     for (name, url, region_hint, topic_hint, politics_feed), parsed in feed_results:
         if parsed is None:
@@ -241,7 +317,7 @@ def build(feed_results, previous, now):
             c = classify(p["title"], p["summary"], region_hint, topic_hint, politics_feed)
             if not c:
                 continue
-            topic, region = c
+            topic, region, tags = c
             iid = item_id(p["link"])
             date = p["date"] or (datetime.fromisoformat(prev_by_id[iid]["date"]) if iid in prev_by_id and prev_by_id[iid].get("date") else now)
             if date > now + timedelta(hours=1):
@@ -255,6 +331,7 @@ def build(feed_results, previous, now):
                 "date": date.isoformat(),
                 "topic": topic,
                 "region": region,
+                "tags": tags,
                 "breaking": False,
                 "addedAt": prev_by_id.get(iid, {}).get("addedAt", now.isoformat()),
             }

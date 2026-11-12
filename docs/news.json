@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T23:02:49+00:00",
+ "generatedAt": "2026-11-12T23:09:05+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -154,6 +154,21 @@
  ],
  "items": [
   {
+   "id": "dc29cf3a466ca0c3",
+   "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
+   "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+   "date": "2026-11-12T23:00:54+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
    "id": "77c871299b2b22a8",
    "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
    "summary": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
@@ -165,21 +180,6 @@
    "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T23:02:00+00:00"
-  },
-  {
-   "id": "dc29cf3a466ca0c3",
-   "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
-   "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-   "date": "2026-11-12T22:48:55+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   },
   {
    "id": "4222657b99009790",

@@ -101,8 +101,21 @@ aside .note { font-size: 12.5px; color: var(--muted); margin: 0; }
   #beatsPanel.open { display: grid; }
 }
 .pill.issue { background: transparent; color: var(--muted); border: 1px dashed var(--rule); }
-body.view-local main.grid > aside { display: none; }
-body.view-local main.grid { grid-template-columns: 1fr; }
+body.view-full main.grid > aside { display: none; }
+body.view-full main.grid { grid-template-columns: 1fr; }
+.region + .region { border-top: 1px solid var(--rule); }
+.sec-head { margin: 0; padding: 12px 16px; background: var(--paper); border-bottom: 1px solid var(--rule); font: 600 12px/1 var(--font-mono); text-transform: uppercase; letter-spacing: .08em; color: var(--ink); }
+.sec-head span, .jump span { color: var(--muted); font-weight: 500; }
+.jump { display: flex; flex-wrap: wrap; gap: 6px; padding: 12px 14px; border-bottom: 1px solid var(--rule); }
+.jump button { border: 1px solid var(--rule); background: var(--paper); border-radius: 999px; padding: 6px 12px; font-size: 13px; font-weight: 500; }
+.jump button:hover { border-color: var(--accent); }
+.seeall { display: block; width: 100%; background: none; border: 0; border-top: 1px solid var(--rule); padding: 11px 16px; color: var(--accent); font-weight: 600; text-align: left; }
+.also { font-size: 13px; }
+.also summary { color: var(--accent); cursor: pointer; font-weight: 500; }
+.also ul { margin: 6px 0 0; padding-left: 18px; display: grid; gap: 4px; }
+.also a { text-decoration: none; }
+.also a:hover { text-decoration: underline; }
+.region > .item:last-of-type { border-bottom: 0; }
 
 .feed-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
 .feed-head h2 { margin: 0; }
@@ -237,6 +250,7 @@ const state = {
   saved: new Set(store.get("saved", [])),
   lastVisit: store.get("lastVisit", null),
   view: "foryou",
+  expanded: new Set(),
   sort: store.get("sort", "recommended"),
   q: ""
 };
@@ -281,6 +295,7 @@ function score(a) {
   if (followed(a)) s += 10;
   s += Math.min(6, Math.max(...beatsOf(a).map(b => state.clicks[b] || 0)) * 1.5);
   if (a.breaking) s += 6;
+  s += Math.min(6, (coverage(a) - 1) * 2);
   const ageHours = (Date.now() - new Date(a.date)) / 36e5;
   s += Math.max(0, 10 - ageHours / 4);
   if (state.read.has(a.id)) s -= 4;
@@ -290,7 +305,7 @@ function score(a) {
 function visible() {
   let list = state.articles.slice();
   if (state.view === "local") list = list.filter(a => a.region === "local");
-  else if (state.view === "world") list = list.filter(a => a.region === "world" && followed(a));
+  else if (state.view === "world") list = list.filter(a => a.region === "world");
   else if (state.view === "saved") list = list.filter(a => state.saved.has(a.id));
   else list = list.filter(followed);
   if (state.q) {
@@ -329,21 +344,47 @@ function coverage(a) {
 
 function isNew(a) { return state.lastVisit && a.addedAt && a.addedAt > state.lastVisit; }
 
-function renderFeed() {
-  const titles = { foryou: "For you", world: "World", local: "Local", saved: "Saved" };
-  $("#feedTitle").textContent = titles[state.view];
-  const list = visible();
-  const feed = $("#feed");
-  if (!state.articles.length) return;
-  if (!list.length) {
-    feed.innerHTML = `<div class="empty">${state.view === "saved" ? "Nothing saved yet. Use Save on any story to keep it here." : "No stories match. Follow more beats on the left or clear the search."}</div>`;
-    return;
+let clusterCache = null;
+function clusters() {
+  if (clusterCache) return clusterCache;
+  const arts = state.articles;
+  const toks = arts.map(x => words(x.title));
+  const parent = arts.map((_, i) => i);
+  const find = i => (parent[i] === i ? i : (parent[i] = find(parent[i])));
+  for (let i = 0; i < arts.length; i++) {
+    for (let j = i + 1; j < arts.length; j++) {
+      if (Math.abs(new Date(arts[i].date) - new Date(arts[j].date)) > 864e5) continue;
+      let shared = 0; toks[i].forEach(w => { if (toks[j].has(w)) shared++; });
+      const union = toks[i].size + toks[j].size - shared;
+      if (shared >= 2 && union && shared / union >= 0.25) parent[find(i)] = find(j);
+    }
   }
-  feed.innerHTML = list.map(a => {
-    const t = topicById[a.topic] || { label: a.topic, region: a.region };
-    const top = beatsOf(a).filter(b => topicById[b]).sort((x, y) => (state.clicks[y] || 0) - (state.clicks[x] || 0))[0];
-    const reason = state.view === "foryou" && top && (state.clicks[top] || 0) >= 2 ? `<span class="why">Because you read ${esc(topicById[top].label)}</span>` : "";
-    return `<article class="item${a.breaking ? " is-breaking" : ""}${state.read.has(a.id) ? " read" : ""}" data-id="${esc(a.id)}">
+  const groups = new Map();
+  arts.forEach((a, i) => { const r = find(i); if (!groups.has(r)) groups.set(r, []); groups.get(r).push(a); });
+  clusterCache = new Map();
+  groups.forEach(g => { g.sort((x, y) => String(y.date).localeCompare(String(x.date))); g.forEach(a => clusterCache.set(a.id, g)); });
+  return clusterCache;
+}
+
+function dedupe(list) {
+  const cl = clusters(); const seen = new Set(); const out = [];
+  for (const a of list) {
+    const g = cl.get(a.id) || [a];
+    if (seen.has(g[0].id)) continue;
+    seen.add(g[0].id);
+    const srcs = new Set([a.source]);
+    const others = g.filter(o => o !== a && !srcs.has(o.source) && srcs.add(o.source));
+    out.push({ a, others });
+  }
+  return out;
+}
+
+function cardHTML(a, others) {
+  const t = topicById[a.topic] || { label: a.topic, region: a.region };
+  const top = beatsOf(a).filter(b => topicById[b]).sort((x, y) => (state.clicks[y] || 0) - (state.clicks[x] || 0))[0];
+  const reason = state.view === "foryou" && top && (state.clicks[top] || 0) >= 2 ? `<span class="why">Because you read ${esc(topicById[top].label)}</span>` : "";
+  const also = others && others.length ? `<details class="also"><summary>Also covered by ${others.length} more outlet${others.length > 1 ? "s" : ""}</summary><ul>${others.map(o => `<li><a href="${esc(safeUrl(o.url))}" target="_blank" rel="noopener" data-open="${esc(o.id)}"><b>${esc(o.source)}</b> · ${esc(o.title)}</a></li>`).join("")}</ul></details>` : "";
+  return `<article class="item${a.breaking ? " is-breaking" : ""}${state.read.has(a.id) ? " read" : ""}" data-id="${esc(a.id)}">
       <div class="stripe"></div>
       <div class="body">
         <div class="meta">
@@ -360,9 +401,48 @@ function renderFeed() {
           <button data-save="${esc(a.id)}">${state.saved.has(a.id) ? "Saved ✓" : "Save"}</button>
           ${reason}
         </div>
+        ${also}
       </div>
     </article>`;
-  }).join("");
+}
+
+const section = (title, xs, id) => `<section class="region"${id ? ` id="sec-${id}"` : ""}><h3 class="sec-head">${esc(title)} <span>${xs.length}</span></h3>${xs.map(x => cardHTML(x.a, x.others)).join("")}</section>`;
+
+function renderFeed() {
+  const titles = { foryou: "For you", world: "World", local: "Local", saved: "Saved" };
+  $("#feedTitle").textContent = titles[state.view];
+  const feed = $("#feed");
+  if (!state.articles.length) return;
+  const list = visible();
+  if (!list.length) {
+    feed.innerHTML = `<div class="empty">${state.view === "saved" ? "Nothing saved yet. Use Save on any story to keep it here." : state.view === "foryou" ? "No stories match. Follow more beats or clear the search." : "No stories match your search."}</div>`;
+    return;
+  }
+  const items = dedupe(list);
+  let html = "";
+  if (state.view === "world" || state.view === "local") {
+    const groups = TOPICS.filter(t => t.region === state.view)
+      .map(t => ({ t, items: items.filter(x => x.a.topic === t.id) }))
+      .filter(g => g.items.length);
+    html += `<nav class="jump" aria-label="Jump to region">${groups.map(g => `<button data-jump="${g.t.id}">${esc(g.t.label)} <span>${g.items.length}</span></button>`).join("")}</nav>`;
+    html += groups.map(g => {
+      const open = state.expanded.has(g.t.id);
+      const shown = open ? g.items : g.items.slice(0, 4);
+      const more = g.items.length > 4 ? `<button class="seeall" data-expand="${g.t.id}">${open ? "Show less" : "See all " + g.items.length}</button>` : "";
+      return section(g.t.label, shown, g.t.id).replace(/<\/section>$/, more + "</section>").replace(/<span>\d+<\/span><\/h3>/, `<span>${g.items.length}</span></h3>`);
+    }).join("");
+  } else if (state.view === "foryou" && state.sort === "recommended" && !state.q) {
+    const top = items.slice(0, 5);
+    const rest = items.slice(5);
+    const fresh = rest.filter(x => isNew(x.a));
+    const more = rest.filter(x => !isNew(x.a));
+    html += section("Top stories for you", top);
+    if (fresh.length) html += section("New since your last visit", fresh);
+    if (more.length) html += section("More for you", more);
+  } else {
+    html += items.map(x => cardHTML(x.a, x.others)).join("");
+  }
+  feed.innerHTML = html;
 }
 
 function renderBreaking() {
@@ -380,6 +460,10 @@ function renderCounts() {
 function renderAll() { renderBeats(); renderBreaking(); renderCounts(); renderFeed(); }
 
 document.addEventListener("click", e => {
+  const jump = e.target.closest("[data-jump]");
+  if (jump) { const el = document.getElementById("sec-" + jump.dataset.jump); if (el) el.scrollIntoView({ behavior: "smooth", block: "start" }); return; }
+  const exp = e.target.closest("[data-expand]");
+  if (exp) { const id = exp.dataset.expand; state.expanded.has(id) ? state.expanded.delete(id) : state.expanded.add(id); renderFeed(); return; }
   const tog = e.target.closest("#beatsToggle");
   if (tog) {
     const open = $("#beatsPanel").classList.toggle("open");
@@ -389,7 +473,8 @@ document.addEventListener("click", e => {
   const tab = e.target.closest("nav.tabs button");
   if (tab) {
     state.view = tab.dataset.view;
-    document.body.classList.toggle("view-local", state.view === "local");
+    document.body.classList.toggle("view-full", state.view === "local" || state.view === "world");
+    window.scrollTo(0, 0);
     document.querySelectorAll("nav.tabs button").forEach(b => b.setAttribute("aria-pressed", b === tab));
     renderFeed(); return;
   }
@@ -441,7 +526,7 @@ async function load() {
     const data = await res.json();
     generatedAt = data.generatedAt;
     state.articles = data.items || [];
-    coverageCache = null;
+    coverageCache = null; clusterCache = null;
     renderSources(data.feeds || []);
     if (!state.articles.length) $("#feed").innerHTML = '<div class="empty">No stories yet. The first news check runs within 30 minutes.</div>';
     renderAll();

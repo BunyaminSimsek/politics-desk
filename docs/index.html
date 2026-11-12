@@ -82,6 +82,17 @@ aside .group-label { font: 700 15px var(--font-display); margin: 4px 0 2px; }
 .beat .n { font: 500 11px var(--font-mono); color: var(--muted); }
 .beats { display: grid; gap: 6px; }
 aside .note { font-size: 12.5px; color: var(--muted); margin: 0; }
+#beatsToggle { display: none; width: 100%; align-items: center; justify-content: space-between; gap: 10px; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 10px 14px; font-weight: 600; text-align: left; }
+#beatsToggle .sum { font: 500 12px var(--font-mono); color: var(--muted); }
+#beatsToggle .chev { transition: transform .15s; }
+#beatsToggle[aria-expanded="true"] .chev { transform: rotate(180deg); }
+@media (max-width: 800px) {
+  aside > h2 { display: none; }
+  #beatsToggle { display: flex; }
+  #beatsPanel { display: none; margin-top: 8px; }
+  #beatsPanel.open { display: grid; }
+}
+.pill.issue { background: transparent; color: var(--muted); border: 1px dashed var(--rule); }
 
 .feed-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
 .feed-head h2 { margin: 0; }
@@ -135,7 +146,8 @@ aside .note { font-size: 12.5px; color: var(--muted); margin: 0; }
 <main class="grid wrap">
   <aside>
     <h2>Beats you follow</h2>
-    <section>
+    <button id="beatsToggle" aria-expanded="false" aria-controls="beatsPanel"><span>Beats you follow <span class="sum" id="beatsSum"></span></span><span class="chev" aria-hidden="true">▾</span></button>
+    <section id="beatsPanel">
       <div>
         <div class="group-label">World</div>
         <div class="beats" id="beats-world"></div>
@@ -143,6 +155,10 @@ aside .note { font-size: 12.5px; color: var(--muted); margin: 0; }
       <div>
         <div class="group-label">Canada &amp; local</div>
         <div class="beats" id="beats-local"></div>
+      </div>
+      <div>
+        <div class="group-label">Issues</div>
+        <div class="beats" id="beats-issue"></div>
       </div>
       <p class="note">Your picks and reading history shape the For you view. They stay in this browser.</p>
       <p class="note">News is checked every 30 minutes. This page refreshes itself every 5.</p>
@@ -162,16 +178,28 @@ aside .note { font-size: 12.5px; color: var(--muted); margin: 0; }
 
 <script>
 const TOPICS = [
-  { id: "ukraine",  label: "Russia–Ukraine",         region: "world" },
-  { id: "mideast",  label: "Middle East & Iran",     region: "world" },
-  { id: "europe",   label: "Europe",                 region: "world" },
-  { id: "us",       label: "U.S. politics",          region: "world" },
-  { id: "asia",     label: "Asia-Pacific",           region: "world" },
-  { id: "federal",  label: "Ottawa (federal)",       region: "local" },
-  { id: "ontario",  label: "Queen's Park (Ontario)", region: "local" },
-  { id: "toronto",  label: "Toronto City Hall",      region: "local" }
+  { id: "ukraine",     label: "Russia–Ukraine",         region: "world" },
+  { id: "mideast",     label: "Middle East & Iran",     region: "world" },
+  { id: "europe",      label: "Europe",                 region: "world" },
+  { id: "us",          label: "U.S. politics",          region: "world" },
+  { id: "asia",        label: "Asia-Pacific",           region: "world" },
+  { id: "turkey",      label: "Türkiye",                region: "world" },
+  { id: "latam",       label: "Latin America",          region: "world" },
+  { id: "africa",      label: "Africa",                 region: "world" },
+  { id: "federal",     label: "Ottawa (federal)",       region: "local" },
+  { id: "ontario",     label: "Queen's Park (Ontario)", region: "local" },
+  { id: "toronto",     label: "Toronto City Hall",      region: "local" },
+  { id: "trade",       label: "Trade & tariffs",        region: "issue" },
+  { id: "elections",   label: "Elections",              region: "issue" },
+  { id: "economy",     label: "Economy & budgets",      region: "issue" },
+  { id: "immigration", label: "Immigration",            region: "issue" },
+  { id: "housing",     label: "Housing & cost of living", region: "issue" },
+  { id: "defence",     label: "Defence & security",     region: "issue" },
+  { id: "climate",     label: "Climate & energy",       region: "issue" }
 ];
+const DEFAULT_FOLLOW = ["ukraine", "mideast", "europe", "us", "asia", "federal", "ontario", "toronto"];
 const topicById = Object.fromEntries(TOPICS.map(t => [t.id, t]));
+const beatsOf = a => [a.topic, ...(a.tags || [])];
 
 const store = {
   get(k, d) { try { const v = localStorage.getItem("pd:" + k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
@@ -180,7 +208,7 @@ const store = {
 
 const state = {
   articles: [],
-  follow: new Set(store.get("follow", TOPICS.map(t => t.id))),
+  follow: new Set(store.get("follow", DEFAULT_FOLLOW)),
   clicks: store.get("clicks", {}),
   read: new Set(store.get("read", [])),
   saved: new Set(store.get("saved", [])),
@@ -210,11 +238,14 @@ function fmtDate(d) {
 
 $("#dateline").textContent = new Date().toLocaleDateString("en-CA", { weekday: "long", month: "long", day: "numeric", year: "numeric" }) + " · Toronto";
 
+const followed = a => beatsOf(a).some(b => state.follow.has(b));
+
 function renderBeats() {
-  for (const region of ["world", "local"]) {
+  $("#beatsSum").textContent = state.follow.size + " of " + TOPICS.length;
+  for (const region of ["world", "local", "issue"]) {
     const box = document.getElementById("beats-" + region);
     box.innerHTML = TOPICS.filter(t => t.region === region).map(t => {
-      const n = state.articles.filter(a => a.topic === t.id).length;
+      const n = state.articles.filter(a => beatsOf(a).includes(t.id)).length;
       const on = state.follow.has(t.id);
       return `<button class="beat" data-topic="${t.id}" aria-pressed="${on}"><span class="chk" aria-hidden="true">${on ? "✓" : ""}</span><span class="name">${esc(t.label)}</span><span class="n">${n}</span></button>`;
     }).join("");
@@ -223,8 +254,8 @@ function renderBeats() {
 
 function score(a) {
   let s = 0;
-  if (state.follow.has(a.topic)) s += 10;
-  s += Math.min(6, (state.clicks[a.topic] || 0) * 1.5);
+  if (followed(a)) s += 10;
+  s += Math.min(6, Math.max(...beatsOf(a).map(b => state.clicks[b] || 0)) * 1.5);
   if (a.breaking) s += 6;
   const ageHours = (Date.now() - new Date(a.date)) / 36e5;
   s += Math.max(0, 10 - ageHours / 4);
@@ -234,9 +265,9 @@ function score(a) {
 
 function visible() {
   let list = state.articles.slice();
-  if (state.view === "world" || state.view === "local") list = list.filter(a => a.region === state.view && state.follow.has(a.topic));
+  if (state.view === "world" || state.view === "local") list = list.filter(a => a.region === state.view && followed(a));
   else if (state.view === "saved") list = list.filter(a => state.saved.has(a.id));
-  else list = list.filter(a => state.follow.has(a.topic));
+  else list = list.filter(followed);
   if (state.q) {
     const q = state.q.toLowerCase();
     list = list.filter(a => (a.title + " " + a.summary + " " + a.source).toLowerCase().includes(q));
@@ -260,7 +291,8 @@ function renderFeed() {
   }
   feed.innerHTML = list.map(a => {
     const t = topicById[a.topic] || { label: a.topic, region: a.region };
-    const reason = state.view === "foryou" && (state.clicks[a.topic] || 0) >= 2 ? `<span class="why">Because you read ${esc(t.label)}</span>` : "";
+    const top = beatsOf(a).filter(b => topicById[b]).sort((x, y) => (state.clicks[y] || 0) - (state.clicks[x] || 0))[0];
+    const reason = state.view === "foryou" && top && (state.clicks[top] || 0) >= 2 ? `<span class="why">Because you read ${esc(topicById[top].label)}</span>` : "";
     return `<article class="item${a.breaking ? " is-breaking" : ""}${state.read.has(a.id) ? " read" : ""}" data-id="${esc(a.id)}">
       <div class="stripe"></div>
       <div class="body">
@@ -268,6 +300,7 @@ function renderFeed() {
           ${a.breaking ? '<span class="pill brk">Breaking</span>' : ""}
           ${isNew(a) ? '<span class="pill new">New</span>' : ""}
           <span class="pill${t.region === "local" ? " local" : ""}">${esc(t.label)}</span>
+          ${(a.tags || []).filter(x => topicById[x]).map(x => `<span class="pill issue">${esc(topicById[x].label)}</span>`).join("")}
           <span>${esc(a.source)}</span><span>${esc(fmtDate(a.date))}</span>
         </div>
         <h3><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener" data-open="${esc(a.id)}">${esc(a.title)}</a></h3>
@@ -297,6 +330,12 @@ function renderCounts() {
 function renderAll() { renderBeats(); renderBreaking(); renderCounts(); renderFeed(); }
 
 document.addEventListener("click", e => {
+  const tog = e.target.closest("#beatsToggle");
+  if (tog) {
+    const open = $("#beatsPanel").classList.toggle("open");
+    tog.setAttribute("aria-expanded", open);
+    return;
+  }
   const tab = e.target.closest("nav.tabs button");
   if (tab) {
     state.view = tab.dataset.view;
@@ -322,7 +361,7 @@ document.addEventListener("click", e => {
     const a = state.articles.find(x => x.id === open.dataset.open);
     if (a) {
       state.read.add(a.id); store.set("read", [...state.read]);
-      state.clicks[a.topic] = (state.clicks[a.topic] || 0) + 1; store.set("clicks", state.clicks);
+      beatsOf(a).forEach(b => { state.clicks[b] = (state.clicks[b] || 0) + 1; }); store.set("clicks", state.clicks);
       setTimeout(renderFeed, 50);
     }
   }

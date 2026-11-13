@@ -112,7 +112,8 @@ ISSUE_WORDS = {
 NOISE_WORDS = ["shooting", "shot dead", "stabbing", "stabbed", "murder", "homicide", "crash", "collision",
                "fire crews", "missing person", "arrested", "charged with", "hockey", "soccer", "football",
                "basketball", "baseball", "world juniors", "tournament", "olympic", "olympics", "nhl", "nba",
-               "nfl", "concert", "celebrity", "weather warning", "snowfall"]
+               "nfl", "concert", "celebrity", "weather warning", "snowfall", "second world war",
+               "first world war", "museum", "opens to public", "obituary", "dies aged", "recipe", "tourism"]
 
 STRONG_POLITICS = ["government", "minister", "president", "prime minister", "premier", "parliament",
                    "legislature", "council", "mayor", "senator", "congress", "election", "policy", "bill"]

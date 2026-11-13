@@ -17,6 +17,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "docs" / "news.json"
+EDITION = ROOT / "docs" / "edition.json"
+EDITION_HOUR = 7          # the daily briefing appears at 7:00 a.m. Toronto time
+EDITION_SIZE = 5
 KEEP_HOURS = 72
 MAX_ITEMS = 400
 SUMMARY_CHARS = 260
@@ -414,6 +417,107 @@ def build(feed_results, previous, now):
     return {"generatedAt": now.isoformat(), "feeds": report, "items": items}
 
 
+# ---------------------------------------------------------------- daily edition
+try:
+    from zoneinfo import ZoneInfo
+    TORONTO = ZoneInfo("America/Toronto")
+except Exception:  # pragma: no cover - zoneinfo data missing
+    TORONTO = timezone(timedelta(hours=-5))
+
+PLACE = {
+    "us": "US", "ukraine": "Ukraine", "mideast": "Middle East", "europe": "Europe",
+    "asia": "Asia", "africa": "Africa", "latam": "Latin America", "turkey": "Türkiye",
+    "federal": "Canada", "ontario": "Ontario", "toronto": "Toronto",
+}
+LOCAL_TOPICS = {"federal", "ontario", "toronto"}
+SKIP_RX = re.compile(r"\b(live|podcast|as it happened|video|watch|quiz|newsletter|in pictures)\b", re.I)
+
+
+def tidy_title(t):
+    t = re.sub(r"\s+[–—-]\s+(live|podcast|as it happened|video)$", "", t, flags=re.I)
+    return t.strip()
+
+
+def make_edition(items, now, old):
+    """Pick the day's five most-covered stories. Built once a day, at 7:00 Toronto time."""
+    local = now.astimezone(TORONTO)
+    today = local.date().isoformat()
+    after_seven = local.hour >= EDITION_HOUR
+    if old and old.get("date") == today and (not old.get("early") or not after_seven):
+        return None  # today's edition already exists; keep it fixed for the day
+    if old and old.get("date") != today and not after_seven:
+        return None  # before 7:00, keep showing yesterday's edition
+    pool = []
+    for it in items:
+        if it.get("kind") == "analysis" or SKIP_RX.search(it["title"]) or " | " in it["title"]:
+            continue
+        if not it.get("date") or now - datetime.fromisoformat(it["date"]) > timedelta(hours=24):
+            continue
+        pool.append(it)
+    pool.sort(key=lambda it: it["date"], reverse=True)
+    clusters = []
+    for it in pool:
+        t = tokens(it["title"])
+        for c in clusters:
+            shared = t & c["tokens"]
+            union = t | c["tokens"]
+            if len(shared) >= 2 and union and len(shared) / len(union) >= 0.25:
+                c["items"].append(it)
+                break
+        else:
+            clusters.append({"tokens": t, "items": [it]})
+    def score(c):
+        srcs = {i["source"] for i in c["items"]}
+        img = any(i.get("image") for i in c["items"])
+        newest = max(datetime.fromisoformat(i["date"]) for i in c["items"])
+        hours = (now - newest).total_seconds() / 3600
+        return len(srcs) * 3 + (1 if img else 0) - hours / 12
+    clusters.sort(key=score, reverse=True)
+    picked, per_topic = [], {}
+    for c in clusters:
+        topic = c["items"][0]["topic"]
+        if per_topic.get(topic, 0) >= (2 if topic == "us" else 1):
+            continue
+        picked.append(c)
+        per_topic[topic] = per_topic.get(topic, 0) + 1
+        if len(picked) == EDITION_SIZE:
+            break
+    if picked and not any(c["items"][0]["topic"] in LOCAL_TOPICS for c in picked):
+        best_local = next((c for c in clusters if c["items"][0]["topic"] in LOCAL_TOPICS and c not in picked), None)
+        if best_local:
+            picked[-1] = best_local
+    stories = []
+    for c in picked:
+        with_img = [i for i in c["items"] if i.get("image")]
+        rep = with_img[0] if with_img else c["items"][0]
+        best_summary = max((i["summary"] for i in c["items"]), key=len)
+        seen, sources = set(), []
+        for i in c["items"]:
+            if i["source"] not in seen:
+                seen.add(i["source"])
+                sources.append({"name": i["source"], "url": i["url"]})
+        stories.append({
+            "id": rep["id"],
+            "title": tidy_title(rep["title"]),
+            "summary": rep["summary"] if len(rep["summary"]) >= 80 else best_summary,
+            "place": PLACE.get(rep["topic"], "World"),
+            "topic": rep["topic"],
+            "url": rep["url"],
+            "image": rep.get("image"),
+            "sources": sources[:4],
+            "why": None,       # filled in by the AI editor in phase 2
+        })
+    if len(stories) < 3:
+        return None
+    return {
+        "date": today,
+        "publishedAt": now.isoformat(),
+        "early": not after_seven,
+        "stories": stories,
+        "question": None,  # phase 2
+    }
+
+
 def main():
     now = datetime.now(timezone.utc).replace(microsecond=0)
     previous = []
@@ -432,6 +536,16 @@ def main():
     data = build(results, previous, now)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+    old = None
+    if EDITION.exists():
+        try:
+            old = json.loads(EDITION.read_text(encoding="utf-8"))
+        except (ValueError, OSError):
+            old = None
+    edition = make_edition(data["items"], now, old)
+    if edition:
+        EDITION.write_text(json.dumps(edition, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"edition {edition['date']}: {len(edition['stories'])} stories")
     ok = sum(1 for r in data["feeds"] if r["ok"])
     print(f"{len(data['items'])} stories, {ok}/{len(data['feeds'])} feeds OK")
 

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T22:30:05+00:00",
+ "generatedAt": "2026-11-13T22:39:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,27 @@
   }
  ],
  "items": [
+  {
+   "id": "1f7cc3eaf8ba036e",
+   "title": "As Canada invests in oil and gas, environment minister boasts of 'warm welcome' at COP31",
+   "summary": "The Liberal government's recent investments in the oil-and-gas industry have raised the hackles of climate scientists and environmental advocates.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/radio/asithappens/julie-dabrusin-cop31-9.7421316?cmp=rss",
+   "date": "2026-11-13T22:28:49+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/c512b3d3-3f21-4d23-9a14-7284e959c624,1794603204444/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4308%2C2423%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T22:39:12+00:00"
+  },
   {
    "id": "190337eb6423d7b2",
    "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
@@ -616,6 +637,27 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T18:41:03+00:00"
+  },
+  {
+   "id": "f31f810fdf11c923",
+   "title": "Feds investing $200M in B.C.'s Woodfibre LNG over three years",
+   "summary": "The federal government is investing $200 million in British Columbia's Woodfibre LNG project over three years, funding that Energy Minister Tim Hodgson says will help diversify Canada's energy exports.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/business/feds-investing-200m-in-b-c-s-woodfibre-lng-over-three-years/article_7121e453-a1f1-54d7-91c4-80695b3e3d45.html",
+   "date": "2026-11-13T18:15:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/4f/74f67d91-b2fb-5685-9bed-f798930384d1/6af754d34ae6f.image.jpg?resize=300%2C200",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T22:39:12+00:00"
   },
   {
    "id": "14407ee9c5ee3cb8",

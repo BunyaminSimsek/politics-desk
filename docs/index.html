@@ -146,8 +146,8 @@ body.view-full #beatsToggle, body.view-full #beatsPanel { display: none; }
 .also a { text-decoration: none; }
 .also a:hover { text-decoration: underline; }
 
-/* Featured lead: spans two columns and two rows */
-.item.lead { grid-column: span 2; grid-row: span 2; border-top: 3px solid var(--ink); }
+/* Featured lead: spans two columns */
+.item.lead { grid-column: span 2; border-top: 3px solid var(--ink); }
 .item.lead.is-breaking { border-top-color: var(--signal); }
 .item.lead h3 { font-size: 34px; line-height: 1.12; letter-spacing: -0.01em; }
 .item.lead p { font-size: 17px; color: var(--ink); -webkit-line-clamp: 5; }
@@ -483,8 +483,8 @@ function renderFeed() {
       return section(g.t.label, shown, g.t.id, { total: g.items.length, after: more });
     }).join("");
   } else if (state.view === "foryou" && state.sort === "recommended" && !state.q) {
-    const top = items.slice(0, 6);
-    const rest = items.slice(6);
+    const top = items.slice(0, 5);
+    const rest = items.slice(5);
     const fresh = rest.filter(x => isNew(x.a));
     const more = rest.filter(x => !isNew(x.a));
     html += section("Top stories for you", top, null, { lead: true });

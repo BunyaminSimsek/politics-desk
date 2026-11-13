@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T03:09:07+00:00",
+ "generatedAt": "2026-11-13T03:18:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -167,16 +167,14 @@
  "items": [
   {
    "id": "dc29cf3a466ca0c3",
-   "title": "Chris Van Hollen says he will run for Senate majority leader, challenging fellow Democrat Chuck Schumer – live",
-   "summary": "Maryland senator’s announcement follows calls for new leadership from some prominent Democrats in response to sweeping midterm election victories Chris Van Hollen to challenge Chuck Schumer for Senate majority leader Sign up for the Breaking News US email…",
+   "title": "Chris Van Hollen says he will run for Senate majority leader, challenging fellow Democrat Chuck Schumer – as it happened",
+   "summary": "This live blog is now closed. Chris Van Hollen to challenge Chuck Schumer for Senate majority leader Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senator since…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
    "date": "2026-11-13T03:04:16+00:00",
    "topic": "us",
    "region": "world",
-   "tags": [
-    "elections"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/d151820dd96f644a510e876cd48686056cafc4e2/689_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=fbec931e8442f26a03eae42e9606a03f",
@@ -225,6 +223,21 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T03:09:07+00:00"
+  },
+  {
+   "id": "610351fa39864d56",
+   "title": "Chris Van Hollen to run for US Senate majority leader",
+   "summary": "Van Hollen's entry into the race follows Democratic sweeps in elections and challenges veteran leader Schumer.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss",
+   "date": "2026-11-13T02:42:41+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T03:18:17+00:00"
   },
   {
    "id": "2e10f08263206234",
@@ -392,11 +405,11 @@
   {
    "id": "295cb72b031847a9",
    "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
-   "summary": "Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.",
+   "summary": "Trump says Gulf countries asked him to hold off on further attacks against Iran as Tehran targets US radar in Bahrain.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
    "date": "2026-11-13T00:00:26+00:00",
-   "topic": "us",
+   "topic": "mideast",
    "region": "world",
    "tags": [],
    "kind": "news",

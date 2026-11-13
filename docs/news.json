@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T18:59:23+00:00",
+ "generatedAt": "2026-11-13T19:08:32+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -65,13 +65,13 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,31 @@
  ],
  "items": [
   {
+   "id": "adb8db7024412cdc",
+   "title": "Democratic Senate leader Schumer set to face leadership challenge",
+   "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T19:03:10+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T17:09:20+00:00"
+  },
+  {
    "id": "fa66eb00f7214b61",
    "title": "Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live",
    "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "date": "2026-11-13T18:42:32+00:00",
+   "date": "2026-11-13T18:59:31+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [],
@@ -551,25 +570,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-13T16:41:49+00:00"
-  },
-  {
-   "id": "adb8db7024412cdc",
-   "title": "Democratic Senate leader Schumer set to face leadership challenge",
-   "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T15:48:07+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T17:09:20+00:00"
   },
   {
    "id": "e06ab8319471733d",
@@ -4586,63 +4586,6 @@
    "kind": "news",
    "image": {
     "url": "https://i.cbc.ca/ais/dc731ddb-0b22-49c4-aacc-0da5e72bc360,1794333732458/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C354%2C6800%2C3825%29%3B",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "1080ea75cd5fd772",
-   "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
-   "summary": "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute The people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking development of its offshore oilfield, the attorney general…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-   "date": "2026-11-10T19:01:33+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=700&quality=85&auto=format&fit=max&s=801d6e7a295bce768e6cf6ef522dec8e",
-    "credit": "Photograph: Yara Nardi/Reuters",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "11725564bea17c6c",
-   "title": "Protesters denounce Ovechkin's support for Putin as Capitals visit Senators in Ottawa",
-   "summary": "\"Lots of protests going on around the world.\" the NHL star told reporters before his team's game against the Ottawa Senators on Tuesday. \"Nobody's using me,\" he added later.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/canada/ottawa/protesters-denounce-ovechkin-s-support-for-putin-as-capitals-visit-senators-in-ottawa-9.7416605?cmp=rss",
-   "date": "2026-11-10T19:00:56+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.cbc.ca/ais/7f3ae8c3-ad48-4f27-b89b-2651a4aeaebb,1794401999458/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5507%2C3097%29%3B",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "a5ec65862ad40d00",
-   "title": "Carney selects new ambassador to China, plans to announce 'in very short order'",
-   "summary": "Canadians will know the name of their new ambassador to China \"in very short order,\" said Prime Minister Mark Carney on Tuesday.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/carney-china-ambassador-picked-9.7416678?cmp=rss",
-   "date": "2026-11-10T18:59:45+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.cbc.ca/ais/5e1a1d69-d5b2-4635-b69c-a2a56a90028d,1794324473977/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "credit": "",
     "caption": ""
    },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T20:30:53+00:00",
+ "generatedAt": "2026-11-13T20:40:05+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,67 @@
  ],
  "items": [
   {
+   "id": "fa66eb00f7214b61",
+   "title": "Chris Van Hollen rules out 2028 presidential bid as his challenge to take Senate leadership gains support – US politics live",
+   "summary": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+   "date": "2026-11-13T20:27:06+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/969a8bd1521a0cfaf072fc67129aa13a81e3ba99/0_0_4840_3872/master/4840.jpg?width=700&quality=85&auto=format&fit=max&s=864198474a3fd422dee4c002d04ee005",
+    "credit": "Photograph: Kevin Mohatt/Reuters",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T11:21:34+00:00"
+  },
+  {
+   "id": "7128e6af0f67e06c",
+   "title": "Send us your questions about climate crisis and politics for the next Stateside guest: Bill McKibben",
+   "summary": "Kai Wright of the Guardian podcast Stateside will speak with author and environmentalist Bill McKibben – and we’d like to hear your questions Was the climate crisis one of your top political priorities during the midterm elections?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/13/climate-environment-questions-bill-mckibben",
+   "date": "2026-11-13T20:23:23+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f8070363836c2e5ee96e96e4c3d5b492cfeb3233/0_0_3000_2401/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=288c68195844da756a42497abbefa9c5",
+    "credit": "Illustration: Guardian Design/DeSean Mclinton-Holland",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T20:40:05+00:00"
+  },
+  {
+   "id": "9f4e721e07a89802",
+   "title": "Across racial lines, Americans celebrate Scott Colom’s historic election: ‘The times they are a-changin’",
+   "summary": "Six Americans on their hopes for Colom, 43, Mississippi’s first Black senator since Reconstruction Democrat Scott Colom made history this month, becoming Mississippi’s first Black senator since the Reconstruction era after defeating incumbent Republican…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippians-scott-colom-election",
+   "date": "2026-11-13T20:16:47+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/d44aa90d0059f02ead98da8901aa6963436e63ba/2_0_2624_2100/master/2624.jpg?width=700&quality=85&auto=format&fit=max&s=8e78bc139386ac0a658a621dddb49e55",
+    "credit": "Photograph: Brandon Bell/Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T19:17:36+00:00"
+  },
+  {
    "id": "039e29e21e9d7c7c",
    "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
    "summary": "Maryland senator’s bid against Chuck Schumer for leadership could decide direction of the Democratic party US politics live – latest updates Ever since Donald Trump returned to the White House, Democratic officeholders and voters alike have been divided over…",
@@ -183,25 +244,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T20:21:43+00:00"
-  },
-  {
-   "id": "fa66eb00f7214b61",
-   "title": "Chris Van Hollen rules out 2028 presidential bid as his challenge to take Senate leadership gains support – US politics live",
-   "summary": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "date": "2026-11-13T20:07:59+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/969a8bd1521a0cfaf072fc67129aa13a81e3ba99/0_0_4840_3872/master/4840.jpg?width=700&quality=85&auto=format&fit=max&s=864198474a3fd422dee4c002d04ee005",
-    "credit": "Photograph: Kevin Mohatt/Reuters",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T11:21:34+00:00"
   },
   {
    "id": "9884e09e3f3746b0",
@@ -358,27 +400,6 @@
    "addedAt": "2026-11-13T19:26:39+00:00"
   },
   {
-   "id": "9f4e721e07a89802",
-   "title": "Across racial lines, Americans celebrate Scott Colom’s historic election: ‘The times they are a-changin’",
-   "summary": "Six Americans on their hopes for Colom, 43, Mississippi’s first Black senator since Reconstruction Democrat Scott Colom made history this month, becoming Mississippi’s first Black senator since the Reconstruction era after defeating incumbent Republican…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippians-scott-colom-election",
-   "date": "2026-11-13T19:05:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/d44aa90d0059f02ead98da8901aa6963436e63ba/2_0_2624_2100/master/2624.jpg?width=700&quality=85&auto=format&fit=max&s=8e78bc139386ac0a658a621dddb49e55",
-    "credit": "Photograph: Brandon Bell/Getty Images",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T19:17:36+00:00"
-  },
-  {
    "id": "adb8db7024412cdc",
    "title": "Democratic Senate leader Schumer set to face leadership challenge",
    "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
@@ -472,7 +493,7 @@
   {
    "id": "14407ee9c5ee3cb8",
    "title": "Stelco recalling 175 laid-off workers at Hamilton steel plant",
-   "summary": "Hamilton steelmaker Stelco is recalling 175 workers that had been laid off earlier this fall.",
+   "summary": "Hamilton steelmaker Stelco is recalling its 175 workers that had been laid off earlier this fall.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/stelco-recalling-175-laid-off-workers-9.7420949?cmp=rss",
    "date": "2026-11-13T18:13:30+00:00",
@@ -1040,7 +1061,7 @@
   {
    "id": "b5cfc1dd913685fa",
    "title": "Democrats won big in the US midterms. Now, organizers want them to deliver",
-   "summary": "After Tuesday’s election, ‘everyone must have a Wednesday agenda,’ experts say The bright blue map that emerged on election night in the US was unthinkable two years ago. When Donald Trump won the 2024 presidential election, many Democratic voters curled up…",
+   "summary": "After Tuesday’s election, ‘everyone must have a Wednesday agenda,’ experts say The bright blue map that emerged on election night in the US was unthinkable two years ago.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/13/us-midterms-democrats-accountability",
    "date": "2026-11-13T14:00:22+00:00",
@@ -4624,25 +4645,6 @@
    "kind": "news",
    "image": {
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/15/315d9a4b-0499-5c08-8a5e-1b4b053ba911/6af3707dcb1e6.image.jpg?resize=300%2C200",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "01e5ec348fcd485b",
-   "title": "Ottawa releases list of companies lending staff to major projects office",
-   "summary": "OTTAWA - The major projects office has seconded employees from banks, oil and gas companies and mining firms as it pursues its mandate to improve Canada's review process and get shovels in the ground faster, a new document shows.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/ottawa-releases-list-of-companies-lending-staff-to-major-projects-office/article_b59cd0cb-0c0c-5a8f-9f6e-5585a817c962.html",
-   "date": "2026-11-10T20:38:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/53/4537857f-050f-5b09-bf86-2311fe30f01d/69fcf07273e9a.image.jpg?resize=300%2C205",
     "credit": "",
     "caption": ""
    },

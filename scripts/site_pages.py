@@ -92,6 +92,19 @@ p.sum{margin:10px 0 0;font-size:17px;line-height:1.55;color:var(--text)}
 .prose{background:#fff;border-radius:20px;padding:24px;font-size:17px;line-height:1.6;color:var(--text)}
 .prose h2{margin:22px 0 8px;font-size:22px}
 .prose h2:first-child{margin-top:0}
+.pk-kicker{margin:0 0 8px;font-size:12px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--flame)}
+.pk-meta{margin:14px 0 0;font-size:13px;color:#AFBBD0}
+.why{background:#fff;border-radius:20px;padding:20px 22px;margin:0 0 16px;font-size:17px;line-height:1.55;color:var(--text)}
+.why b{color:var(--ink)}
+.facts{background:#fff;border-radius:20px;padding:20px 22px 20px 44px;margin:0 0 16px;font-size:17px;line-height:1.55;color:var(--text)}
+.facts li{margin:0 0 8px}
+.ref{font-size:12px;vertical-align:super;line-height:0;text-decoration:none;color:var(--muted);margin-left:2px}
+.sec{background:#fff;border-radius:20px;padding:20px 22px;margin:0 0 16px}
+.sec p{margin:10px 0 0;font-size:17px;line-height:1.6;color:var(--text)}
+.h3{font-family:var(--sans);margin:0 0 4px;font-size:12px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+.srcs{background:#fff;border-radius:20px;padding:20px 22px 20px 44px;margin:0 0 16px;font-size:15px;line-height:1.5}
+.srcs li{margin:0 0 8px}
+.note{border:1px solid var(--pill);border-radius:16px;padding:14px 16px;font-size:14px;line-height:1.5;color:var(--muted)}
 footer{padding:0 0 40px;font-size:14px;color:var(--muted)}
 footer a{margin-right:14px}
 """
@@ -138,7 +151,7 @@ def page(*, path, title, description, hero, body, root="../", jsonld=None):
 <main class="wrap">
 {body}
 </main>
-<footer class="wrap"><a href="{root}">Today's briefing</a><a href="{root}briefing/">Past briefings</a><a href="{root}about/">About</a></footer>
+<footer class="wrap"><a href="{root}">Today's briefing</a><a href="{root}pick/">Editor's pick</a><a href="{root}briefing/">Past briefings</a><a href="{root}about/">About</a></footer>
 </body>
 </html>
 """
@@ -229,6 +242,87 @@ def about_page(feed_names):
                 hero=hero, body=body, root="../", jsonld=jsonld)
 
 
+# ---------------------------------------------------------------- editor's pick
+# docs/pick/<date>/pick.json is written by the nightly Editor's Pick task and merged
+# by the editor after review. Shape:
+# {date, topic, title, dek, why, readMinutes, reviewPasses,
+#  facts: [{text, sources: [1-based source numbers]}],
+#  sections: [{heading, paragraphs: [..]}],
+#  sources: [{name, title, url}]}
+def _refs(nums, n_sources):
+    return "".join(f'<a class="ref" href="#src-{i}">[{i}]</a>' for i in nums or [] if isinstance(i, int) and 1 <= i <= n_sources)
+
+
+def pick_page(pk, prev_date=None, next_date=None):
+    d = pk["date"]
+    srcs = [x for x in pk.get("sources") or [] if x.get("url")]
+    n = len(srcs)
+    topic = pk.get("topic") or "World"
+    hero = (f'<p class="pk-kicker">Today\'s Editor\'s Pick · {esc(topic)}</p><p class="kicker">{esc(long_date(d))}</p>'
+            f'<h1>{esc(pk["title"])}</h1><p class="lede">{esc(pk.get("dek"))}</p>'
+            f'<p class="pk-meta">AI-written report · based on {n} sources · reviewed {int(pk.get("reviewPasses") or 3)} times · approved by the editor</p>')
+    facts = "".join(f'<li>{esc(f["text"])}{_refs(f.get("sources"), n)}</li>' for f in pk.get("facts") or [])
+    secs = "".join(
+        f'<section class="sec"><h2 class="h3">{esc(sec.get("heading"))}</h2>'
+        + "".join(f"<p>{esc(p)}</p>" for p in sec.get("paragraphs") or []) + "</section>"
+        for sec in pk.get("sections") or [])
+    sources = "".join(
+        f'<li id="src-{i + 1}"><a href="{esc(safe_url(x["url"]))}" rel="noopener">{esc(x.get("title") or x["url"])}</a>'
+        f'{" — " + esc(x["name"]) if x.get("name") else ""}</li>' for i, x in enumerate(srcs))
+    pager = '<nav class="pager">' + (f'<a href="../{prev_date}/">← Previous pick</a>' if prev_date else "<span></span>") \
+        + (f'<a href="../{next_date}/">Next pick →</a>' if next_date else "<span></span>") + "</nav>"
+    body = (f'<div class="why"><b>Why we picked it.</b> {esc(pk.get("why"))}</div>'
+            + (f'<h2 class="h3" style="margin:0 0 8px 4px">Key facts</h2><ol class="facts">{facts}</ol>' if facts else "")
+            + secs
+            + f'<h2 class="h3" style="margin:0 0 8px 4px">Sources</h2><ol class="srcs">{sources}</ol>'
+            + '<p class="note">This report was researched and written by AI, checked several times against its sources, and approved by PoliDesk\'s editor before publishing. It can still contain mistakes, so follow the sources for the full picture. It is not medical, legal or financial advice.</p>'
+            + pager)
+    jsonld = {"@context": "https://schema.org", "@type": "Article", "headline": pk["title"], "description": pk.get("dek"),
+              "datePublished": pk.get("publishedAt") or d, "url": f"{SITE}/pick/{d}/",
+              "publisher": {"@type": "Organization", "name": NAME, "url": f"{SITE}/"},
+              "citation": [x["url"] for x in srcs]}
+    return page(path=f"pick/{d}/", title=f"{pk['title']} · Editor's Pick · {NAME}", description=(pk.get("dek") or "")[:300],
+                hero=hero, body=body, root="../../", jsonld=jsonld)
+
+
+def pick_index_page(picks):
+    items = "".join(f'<li><a href="{p["date"]}/"><b>{esc(p["title"])}</b><span>{esc(long_date(p["date"]))} · {esc(p.get("topic") or "")}</span></a></li>' for p in picks)
+    hero = ('<p class="pk-kicker">Editor\'s Pick</p><h1>The story that matters most</h1><p class="lede">Each day, one story with the widest impact on people\'s lives — '
+            'health, science, climate, the economy or anything else — researched across several sources.</p>')
+    body = f'<ul class="list">{items}</ul>' if items else '<p class="note">The first Editor\'s Pick is on its way.</p>'
+    return page(path="pick/", title=f"Editor's Pick · {NAME}",
+                description="PoliDesk's daily Editor's Pick: one story with the widest impact on people's lives, researched across several sources.",
+                hero=hero, body=body, root="../")
+
+
+def build_picks(docs):
+    """Pages for every approved pick, plus pick/latest.json for the app."""
+    changed, picks = [], []
+    folder = docs / "pick"
+    for f in sorted(folder.glob("*/pick.json"), reverse=True):
+        try:
+            pk = json.loads(f.read_text(encoding="utf-8"))
+            if pk.get("title") and pk.get("date") == f.parent.name:
+                picks.append(pk)
+        except (ValueError, OSError):
+            pass
+    dates = [p["date"] for p in picks]
+    for i, pk in enumerate(picks):
+        nxt = dates[i - 1] if i > 0 else None
+        prv = dates[i + 1] if i + 1 < len(dates) else None
+        if write_if_changed(folder / pk["date"] / "index.html", pick_page(pk, prv, nxt)):
+            changed.append(f"pick/{pk['date']}/")
+    if write_if_changed(folder / "index.html", pick_index_page(picks)):
+        changed.append("pick/")
+    if picks:
+        p = picks[0]
+        latest = {"date": p["date"], "topic": p.get("topic"), "title": p["title"], "dek": p.get("dek"),
+                  "readMinutes": p.get("readMinutes") or 4, "sources": len(p.get("sources") or []), "url": f"pick/{p['date']}/"}
+        if write_if_changed(folder / "latest.json", json.dumps(latest, ensure_ascii=False, indent=1)):
+            changed.append("pick/latest.json")
+    return changed, dates
+
+
 # ---------------------------------------------------------------- home page prerender
 def prerender_home(index_path, ed):
     """Write today's headlines into the app's start screen so they're in the HTML itself."""
@@ -279,8 +373,11 @@ def build(docs, ed, feed_names, items=None):
         changed.append("about/")
     if ed and ed.get("stories") and prerender_home(docs / "index.html", ed):
         changed.append("index.html")
+    pick_changed, pick_dates = build_picks(docs)
+    changed += pick_changed
     latest = dates[0] if dates else date.today().isoformat()
     urls = [("", latest), ("briefing/", latest), ("about/", "2026-11-13")] + [(f"briefing/{d}/", d) for d in dates]
+    urls += [("pick/", pick_dates[0] if pick_dates else latest)] + [(f"pick/{d}/", d) for d in pick_dates]
     if write_if_changed(docs / "sitemap.xml", sitemap(urls)):
         changed.append("sitemap.xml")
     return changed

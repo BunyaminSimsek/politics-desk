@@ -161,7 +161,32 @@ def clean(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
+NEWSLETTER_RX = re.compile(r"\s*\b(Sign up for|Sign up to|Subscribe to) [^.]*?(newsletter|email)\b.*$", re.I | re.S)
+SENTENCE_END_RX = re.compile(r"[.!?][\"'”’)]?(?=\s|$)")
+
+
+def whole_sentences(text, min_len=60):
+    """Text up to its last complete sentence, or None if that would be too short."""
+    ends = [m.end() for m in SENTENCE_END_RX.finditer(text)]
+    ends = [e for e in ends if e >= min_len]
+    return text[:ends[-1]].strip() if ends else None
+
+
 def shorten(text, n=SUMMARY_CHARS):
+    """Keep summaries to whole sentences, so a story never stops mid-thought.
+
+    Feeds often send summaries that are already cut ("…", "[…]"); those are
+    trimmed back to their last full sentence too. Only when no sentence of a
+    useful length exists do we fall back to a word cut with an ellipsis.
+    """
+    text = NEWSLETTER_RX.sub("", text).strip()
+    truncated = bool(re.search(r"(…|\.\.\.|\[…\]|\[\.\.\.\])$", text))
+    if len(text) <= n and not truncated:
+        return text
+    head = text[:n + 1] if len(text) > n else re.sub(r"\s*(…|\.\.\.|\[…\]|\[\.\.\.\])$", "", text)
+    sentences = whole_sentences(head)
+    if sentences:
+        return sentences
     if len(text) <= n:
         return text
     cut = text[:n].rsplit(" ", 1)[0]
@@ -507,7 +532,10 @@ def _pick_edition(items, now, today, after_seven, seen_before):
     for c in picked:
         with_img = [i for i in c["items"] if i.get("image")]
         rep = with_img[0] if with_img else c["items"][0]
-        best_summary = max((i["summary"] for i in c["items"]), key=len)
+        # Prefer the representative's own summary if it is complete; otherwise the
+        # longest complete summary in the cluster; only then a cut-off one.
+        complete = [i["summary"] for i in c["items"] if len(i["summary"]) >= 80 and not i["summary"].endswith("…")]
+        best_summary = max(complete, key=len) if complete else max((i["summary"] for i in c["items"]), key=len)
         seen, sources = set(), []
         for i in c["items"]:
             if i["source"] not in seen:
@@ -516,12 +544,13 @@ def _pick_edition(items, now, today, after_seven, seen_before):
         stories.append({
             "id": rep["id"],
             "title": tidy_title(rep["title"]),
-            "summary": rep["summary"] if len(rep["summary"]) >= 80 else best_summary,
+            "summary": rep["summary"] if len(rep["summary"]) >= 80 and not rep["summary"].endswith("…") else best_summary,
             "place": PLACE.get(rep["topic"], "World"),
             "topic": rep["topic"],
             "url": rep["url"],
             "image": rep.get("image"),
             "sources": sources[:4],
+            "coverage": len(sources),  # how many outlets reported it (shown on the card)
             "why": None,       # filled in by the AI editor in phase 2
         })
     if len(stories) < 3:

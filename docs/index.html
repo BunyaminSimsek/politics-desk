@@ -40,7 +40,7 @@
   --paper:#F6F5F1; --white:#FFFFFF; --text:#2B3545; --muted:#5B6577; --muted-dark:#AFBBD0;
   --soft:#EEF1F5; --pill:#D9DEE6; --signal:#B52A31; --flame:#E0646A;
   --serif:'Source Serif 4',Georgia,serif; --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; --sans:Inter,system-ui,-apple-system,'Segoe UI',sans-serif;
-  --ease:cubic-bezier(.2,.8,.2,1);
+  --ease:cubic-bezier(.2,.8,.2,1); --photo-h:clamp(180px,38dvh,360px);
 }
 *{box-sizing:border-box}
 html,body{margin:0;height:100%;background:#0E1828;overscroll-behavior:none}
@@ -73,6 +73,11 @@ a{color:inherit}
 .segs{display:flex;gap:6px;margin-top:10px}
 .segs i{flex:1;height:6px;border-radius:3px;background:var(--line-dark)}
 .goal{margin:0;font-size:15px;font-weight:600;color:var(--flame)}
+.goal.calm{color:#D3DAE6;font-weight:500}
+.places{display:flex;flex-wrap:wrap;gap:6px}
+.places span{padding:5px 11px;border-radius:999px;background:var(--ink-3);font-size:13px;font-weight:600;color:#E4E9F1}
+.lede-dark b{color:#fff;font-weight:600}
+.chip.off,.streak-chip.off{visibility:hidden}
 .cta{min-height:58px;border:0;border-radius:16px;background:#fff;color:var(--ink);font-weight:700;font-size:18px;cursor:pointer;width:100%}
 .ghost{min-height:52px;border:1px solid #5B6E8C;border-radius:16px;background:transparent;color:#fff;font-weight:600;font-size:16px;cursor:pointer;width:100%;display:flex;align-items:center;justify-content:center;text-decoration:none}
 .foot-dark{margin:12px 0 0;text-align:center;font-size:13px;color:var(--muted-dark)}
@@ -80,22 +85,27 @@ a{color:inherit}
 .today-list{margin:4px 0 0;padding:0;list-style:none;border-top:1px solid #2E3F5C}
 .today-list li{display:flex;gap:12px;padding:10px 0;border-bottom:1px solid #2E3F5C;font-size:15px;line-height:1.35;color:#E4E9F1}
 .today-list li span{font-family:var(--mono);font-size:12px;color:var(--muted-dark);width:14px;flex-shrink:0;padding-top:2px}
+.today-list li em{margin-left:auto;padding-left:8px;flex-shrink:0;font-style:normal;font-family:var(--mono);font-size:12px;color:var(--muted-dark);padding-top:2px}
 .today-list li b{font-weight:500;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 
 /* ---------- stories ---------- */
 #stories{background:var(--paper);touch-action:none;cursor:pointer;user-select:none;-webkit-user-select:none}
 .card{position:absolute;inset:0;background:var(--paper);transition:transform 320ms var(--ease)}
 .card.near{will-change:transform}
-.photo{position:absolute;left:0;right:0;top:0;height:clamp(220px,50dvh,460px);background:#C7D0DC;overflow:hidden}
+.photo{position:absolute;left:0;right:0;top:0;height:var(--photo-h);background:#C7D0DC;overflow:hidden}
 .photo img{width:100%;height:100%;object-fit:cover;display:block}
 .credit{position:absolute;left:12px;bottom:34px;max-width:62%;padding:3px 7px;border-radius:6px;background:rgba(20,34,56,.62);color:#fff;font-family:var(--mono);font-size:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.sheet{position:absolute;left:0;right:0;bottom:0;top:calc(clamp(220px,50dvh,460px) - 24px);background:#fff;border-radius:24px 24px 0 0;padding:20px 22px 0;display:flex;flex-direction:column;gap:10px}
+.sheet{position:absolute;left:0;right:0;bottom:0;top:calc(var(--photo-h) - 24px);background:#fff;border-radius:24px 24px 0 0;padding:20px 22px 0;display:flex;flex-direction:column;gap:10px}
 .meta{margin:0;font-size:13px;font-weight:600;color:var(--muted)}
 .title{margin:0;font-family:var(--serif);font-weight:700;font-size:clamp(22px,6.4vw,26px);line-height:1.14;letter-spacing:-.015em;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
-.summary{margin:0;font-size:15px;line-height:1.5;color:var(--text);display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
+.summary{margin:0;font-size:17px;line-height:1.5;color:var(--text);display:-webkit-box;-webkit-line-clamp:9;-webkit-box-orient:vertical;overflow:hidden}
 .why{display:flex;gap:10px;padding:12px 14px;background:var(--soft);border-radius:14px;font-size:15px;line-height:1.42}
 .why b{font-weight:700}
-.pills{display:flex;flex-wrap:wrap;gap:6px}
+.pills{display:flex;flex-wrap:wrap;align-items:center;gap:6px}
+.cover{margin:4px 0 0;display:flex;align-items:center;gap:6px;font-size:13px;font-weight:600;color:var(--muted)}
+.cover b{color:var(--ink)}
+.cover svg{width:15px;height:15px;flex-shrink:0}
+.pills .more{font-size:12px;font-weight:600;color:var(--muted);padding:0 4px}
 .pills a{padding:5px 10px;border-radius:999px;border:1px solid var(--pill);font-size:12px;font-weight:600;color:#3A4556;text-decoration:none}
 .grow{flex:1;min-height:4px}
 .next{display:flex;align-items:center;gap:8px;min-height:46px;padding-bottom:env(safe-area-inset-bottom);border-top:1px solid #EDEFF3;font-size:13px;color:var(--muted)}
@@ -105,7 +115,7 @@ a{color:inherit}
 .float{position:absolute;z-index:3}
 .streak-chip{right:14px;top:calc(14px + env(safe-area-inset-top));display:flex;align-items:center;gap:5px;padding:6px 10px;border-radius:999px;background:var(--ink);color:#fff;font-weight:600;font-size:14px;pointer-events:none}
 .streak-chip svg{width:14px;height:14px}
-.actions{right:14px;top:calc(clamp(220px,50dvh,460px) - 136px);display:flex;flex-direction:column;gap:10px}
+.actions{right:14px;top:calc(var(--photo-h) - 136px);display:flex;flex-direction:column;gap:10px}
 .round{width:46px;height:46px;border-radius:23px;border:0;background:rgba(255,255,255,.94);display:flex;align-items:center;justify-content:center;cursor:pointer;text-decoration:none}
 .round svg{width:20px;height:20px}
 /* Left rail: small and see-through so it guides without getting in the way. */
@@ -126,7 +136,7 @@ a{color:inherit}
 /* ---------- question ---------- */
 .light{background:#fff;color:var(--ink);flex-direction:column;padding:calc(22px + env(safe-area-inset-top)) 22px calc(24px + env(safe-area-inset-bottom))}
 .q-title{margin:28px 0 24px;font-family:var(--serif);font-weight:700;font-size:30px;line-height:1.12;letter-spacing:-.015em}
-.opt{display:flex;align-items:center;justify-content:space-between;width:100%;min-height:58px;padding:0 18px;margin-bottom:10px;border-radius:16px;border:1px solid var(--pill);background:#fff;color:var(--ink);font-weight:600;font-size:17px;text-align:left;cursor:pointer}
+.opt{display:flex;align-items:center;justify-content:space-between;gap:12px;width:100%;min-height:58px;padding:12px 18px;margin-bottom:10px;border-radius:16px;border:1px solid var(--pill);background:#fff;color:var(--ink);font-weight:600;font-size:16px;line-height:1.3;text-align:left;cursor:pointer}
 .opt.right{background:var(--ink);border-color:var(--ink);color:#fff}
 .opt.wrong{border:2px solid var(--muted);color:var(--muted)}
 .opt.fade{color:#8A93A3}
@@ -138,7 +148,8 @@ a{color:inherit}
 .count svg{width:56px;height:56px}
 .count b{font-weight:700;font-size:80px;line-height:1;letter-spacing:-.04em}
 .count svg{width:48px;height:48px}
-.shelf{width:100%;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 8px;margin-top:4px}
+.shelf{width:100%;display:flex;flex-wrap:wrap;justify-content:center;gap:10px 28px;margin-top:4px}
+.shelf .badge{width:84px}
 .badge{display:flex;flex-direction:column;align-items:center;gap:6px;font-size:12px;line-height:1.2;color:#D3DAE6}
 .medal{width:54px;height:54px;border-radius:27px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:16px;border:1px dashed #5B6E8C;color:#8A97AD;position:relative}
 .badge.got .medal{background:#fff;border:2px solid #fff;color:var(--ink)}
@@ -159,7 +170,12 @@ a{color:inherit}
 .row b{font-weight:600}
 .track{height:8px;border-radius:4px;background:var(--line-dark);overflow:hidden}
 .track i{display:block;height:8px;border-radius:4px;background:var(--flame);width:0;transition:width 500ms var(--ease)}
-.gain{color:var(--flame);font-weight:600}
+.recap-h{margin:0;font-size:13px;font-weight:600;color:var(--muted-dark)}
+.recap{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.recap div{display:flex;flex-direction:column;align-items:center;gap:2px;padding:10px 4px;border-radius:12px;background:var(--ink-3)}
+.recap b{font-size:26px;font-weight:700;line-height:1.1}
+.recap span{font-size:12px;color:#D3DAE6}
+.quiz-ok{color:var(--flame);font-weight:600}
 
 /* ---------- all stories (news.json) ---------- */
 #all{background:var(--paper);color:var(--ink);flex-direction:column}
@@ -204,19 +220,20 @@ a{color:inherit}
   .light{padding:32px 56px 36px}
 
   /* start: headline + button on the left, today's list on the right */
-  #start.on{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:72px;grid-template-rows:auto 1fr auto auto auto auto auto auto auto 1fr}
+  #start.on{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:72px;grid-template-rows:auto 1fr repeat(8,auto) 1fr}
   #start .bar{grid-column:1/-1;grid-row:1}
   #start.on:has(#startList:empty){grid-template-columns:minmax(0,1fr)}
   #start:has(#startList:empty) #startTitle{font-size:clamp(52px,4.4vw,72px)}
   #start .start-body{display:contents}
   #startDate{grid-column:1;grid-row:3}
   #startTitle{grid-column:1;grid-row:4;margin:14px 0}
-  #startLede{grid-column:1;grid-row:5}
-  #startGoal{grid-column:1;grid-row:6;margin-top:18px}
-  #startBtn{grid-column:1;grid-row:7;margin-top:28px;max-width:420px}
-  #startFoot{grid-column:1;grid-row:8;text-align:left;max-width:420px}
-  #start .js-all{grid-column:1;grid-row:9;justify-self:start;margin:8px 0 0;padding:6px 0}
-  #startList{grid-column:2;grid-row:3/10;align-self:center;margin:0}
+  #startPlaces{grid-column:1;grid-row:5;margin-bottom:14px}
+  #startLede{grid-column:1;grid-row:6}
+  #startGoal{grid-column:1;grid-row:7;margin-top:18px}
+  #startBtn{grid-column:1;grid-row:8;margin-top:28px;max-width:420px}
+  #startFoot{grid-column:1;grid-row:9;text-align:left;max-width:420px}
+  #start .js-all{grid-column:1;grid-row:10;justify-self:start;margin:8px 0 0;padding:6px 0}
+  #startList{grid-column:2;grid-row:3/11;align-self:center;margin:0}
   .big.topic{font-size:clamp(44px,3.6vw,60px)}
   .kicker-dark{font-size:17px}
   .lede-dark{font-size:20px}
@@ -229,7 +246,9 @@ a{color:inherit}
   .sheet{top:0;left:calc(56% - 24px);border-radius:24px 0 0 24px;padding:64px 52px 0;gap:16px}
   .meta{font-size:14px}
   .title{font-size:clamp(30px,2.5vw,40px);-webkit-line-clamp:5}
-  .summary{font-size:18px;line-height:1.55;-webkit-line-clamp:8}
+  .summary{font-size:19px;line-height:1.55;-webkit-line-clamp:10}
+  .places span{font-size:14px}
+  .recap b{font-size:30px}
   .why{font-size:16px;padding:16px 18px}
   .pills a{font-size:13px;padding:6px 12px}
   .next{font-size:14px;min-height:56px;padding-bottom:12px}
@@ -264,6 +283,15 @@ a{color:inherit}
   .empty{grid-column:1/-1;background:var(--paper)}
 }
 
+@media (max-width:1099px) and (max-height:720px){
+  :root{--photo-h:clamp(150px,30dvh,260px)}
+  .summary{font-size:16px;-webkit-line-clamp:7}
+  .title{font-size:21px}
+  .rail{top:calc(10px + env(safe-area-inset-top));gap:4px}
+  .rail button{width:30px;height:30px}
+  .hint{top:calc(70px + env(safe-area-inset-top))}
+}
+
 @media (prefers-reduced-motion:reduce){
   .card,.count,.track i,.rail i{transition:none}
   .phone i{animation:none;opacity:1}
@@ -292,7 +320,8 @@ a{color:inherit}
     </div>
     <div class="start-body">
       <p class="kicker-dark" id="startDate"></p>
-      <h1 class="big topic" id="startTitle" tabindex="-1">Your daily briefing.</h1>
+      <h1 class="big topic" id="startTitle" tabindex="-1">Today's briefing.</h1>
+      <div class="places" id="startPlaces"></div>
       <p class="lede-dark" id="startLede">5 stories. Then you're done for today.</p>
       <ol class="today-list" id="startList"></ol>
       <p class="goal" id="startGoal"></p>
@@ -320,12 +349,12 @@ a{color:inherit}
   <section class="screen light" id="question">
     <div class="bar">
       <button class="round" id="qBack" aria-label="Back to the last story" style="border:1px solid #D9DEE6"><svg viewBox="0 0 24 24" fill="none" stroke="#142238" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 15l6-6 6 6"/></svg></button>
-      <span style="font-size:14px;font-weight:600;color:#5B6577">Question · last step</span>
+      <span style="font-size:14px;font-weight:600;color:#5B6577">Quick check · last step</span>
       <span style="width:46px"></span>
     </div>
     <h1 class="q-title" id="qTitle" tabindex="-1"></h1>
     <div id="qOpts"></div>
-    <p id="qNote" style="margin:8px 0 0;font-size:16px;line-height:1.4"></p>
+    <p id="qNote" style="margin-top:8px;margin-bottom:0;font-size:16px;line-height:1.4"></p>
     <div class="grow"></div>
     <button class="cta" id="qFinish" style="background:#142238;color:#fff;display:none">Finish today</button>
   </section>
@@ -342,7 +371,12 @@ a{color:inherit}
         <div class="row"><b id="badgeName">Next badge</b><span id="badgeLeft" style="color:#AFBBD0"></span></div>
         <div class="track"><i id="badgeBar"></i></div>
         <div class="shelf" id="shelf"></div>
-        <div class="row" style="padding-top:4px;border-top:1px solid #2E3F5C;padding-top:10px"><b>Informed score</b><span><span id="score">0</span> <span class="gain" id="gain"></span></span></div>
+        <div style="border-top:1px solid #2E3F5C;padding-top:12px;display:flex;flex-direction:column;gap:8px">
+          <p class="recap-h">Today you read</p>
+          <div class="recap"><div><b id="rStories">0</b><span>stories</span></div><div><b id="rOutlets">0</b><span>outlets</span></div><div><b id="rRegions">0</b><span>regions</span></div></div>
+          <p id="rWeek" style="margin:0;font-size:14px;color:#D3DAE6"></p>
+          <p id="rQuiz" style="margin:0;font-size:14px"></p>
+        </div>
       </div>
     </div>
     <div class="grow"></div>
@@ -438,6 +472,8 @@ a{color:inherit}
     const gained = 50 + (bonus || 0);
     s.score += gained;
     s.days = [...new Set([...s.days, day])].slice(-60);
+    s.counts = Object.assign({}, s.counts); s.counts[day] = total;
+    Object.keys(s.counts).forEach((d) => { if (dayNum(d) < dayNum(day) - 60) delete s.counts[d]; });
     // Only the last few weeks of shields matter; drop older ones so storage doesn't grow forever.
     Object.keys(s.shields).forEach((wk) => { if (dayNum(wk) < dayNum(day) - 56) delete s.shields[wk]; });
     store.set('pd:streak', s);
@@ -491,14 +527,28 @@ a{color:inherit}
     return changed;
   }
   const announce = (t) => { $('status').textContent = ''; setTimeout(() => { $('status').textContent = t; }, 30); };
-  function setStreakChips(n) { document.querySelectorAll('.js-streak').forEach((el) => { el.textContent = n; }); }
+  // A zero streak isn't shown at all: research on logged streaks finds that highlighting a broken one
+  // makes people less likely to come back (Silverman & Barasch, J. Consumer Research 2023).
+  function setStreakChips(n) { document.querySelectorAll('.js-streak').forEach((el) => { el.textContent = n; el.parentElement.classList.toggle('off', !n); }); }
   const esc = (t) => String(t ?? '').replace(/[&<>"']/g, (c) => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'}[c]));
   const safeUrl = (u) => /^https?:\/\//i.test(u || '') ? u : '#';
-  function readTime(st) {
+  function readSecs(st) {
     const words = `${st.title || ''} ${st.summary || ''} ${st.why || ''}`.trim().split(/\s+/).length;
-    const secs = Math.max(10, Math.round((words / 230) * 60 / 5) * 5); // ~230 words a minute
-    return secs < 60 ? `${secs} sec read` : `${Math.round(secs / 60)} min read`;
+    return Math.max(10, Math.round((words / 230) * 60 / 5) * 5); // ~230 words a minute
   }
+  const secsLabel = (secs) => secs < 60 ? `${secs} sec` : `${Math.round(secs / 60)} min`;
+  const readTime = (st) => `${secsLabel(readSecs(st))} read`;
+  // Feeds often cut summaries mid-sentence ("…"). Show whole sentences only, so a story never stops mid-thought.
+  function tidySummary(t) {
+    t = String(t || '').replace(/\s*\b(Sign up for|Sign up to|Subscribe to) [^.]*?(newsletter|email)\b[\s\S]*$/i, '').trim();
+    if (!/(…|\.\.\.)$/.test(t)) return t;
+    const body = t.replace(/\s*(…|\.\.\.)$/, '');
+    let end = -1; const rx = /[.!?]["'”’)]?(?=\s|$)/g; let m;
+    while ((m = rx.exec(body))) { if (m.index + m[0].length >= 60) end = m.index + m[0].length; }
+    return end > 0 ? body.slice(0, end) : t;
+  }
+  const coverageOf = (st) => Math.max(Number(st.coverage) || 0, (st.sources || []).length);
+  const COVER_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="#5B6577" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h12v14H6a2 2 0 0 1-2-2zM16 9h4v8a2 2 0 0 1-2 2h-2M8 9h4M8 13h4"/></svg>';
 
   async function getJSON(url) {
     const ctl = new AbortController();
@@ -519,12 +569,17 @@ a{color:inherit}
     const isToday = ed.date === now.date;
     const doneToday = s.lastEd === ed.publishedAt; // finished THIS edition (not just this date)
     const countedToday = s.last === ed.date;
-    $('startDate').textContent = isToday ? `${longDate(ed.date)} · 3‑minute briefing` : `${longDate(ed.date)} · new briefing at ${hourLabel(editionHour)}`;
-    const places = [...new Set(ed.stories.map((x) => PLACE_NAME[x.place] || x.place).filter(Boolean))];
-    $('startTitle').textContent = doneToday ? "You're all caught up." : places.length ? `Your daily briefing on ${listJoin(places)}.` : 'Your daily briefing.';
-    $('startLede').textContent = doneToday ? `Your next briefing arrives at ${hourLabel(editionHour)}` : `${total} stories${hasQ ? ', 1 question' : ''}. Then you're done for today.`;
-    $('startList').innerHTML = doneToday ? '' : ed.stories.map((x, i) => `<li><span>${i + 1}</span><b>${esc(x.title)}</b></li>`).join('');
-    $('startGoal').textContent = doneToday ? '' : countedToday ? 'Today already counts toward your streak' : (live > 0 ? `Finish today to reach a ${live + 1}‑day streak` : 'Finish today to start your streak');
+    $('startDate').textContent = isToday ? longDate(ed.date) : `${longDate(ed.date)} · new briefing at ${hourLabel(editionHour)}`;
+    const places = [...new Set(ed.stories.map((x) => x.place).filter(Boolean))];
+    $('startTitle').textContent = doneToday ? "You're all caught up." : "Today's briefing.";
+    $('startPlaces').innerHTML = doneToday ? '' : places.map((x) => `<span>${esc(x)}</span>`).join('');
+    const totalSecs = ed.stories.reduce((a, x) => a + readSecs(x), 0) + (hasQ ? 20 : 0);
+    const mins = Math.max(1, Math.round(totalSecs / 60));
+    $('startLede').innerHTML = doneToday ? `Your next briefing arrives at ${hourLabel(editionHour)}` : `<b>${total} stories${hasQ ? ' + a quick check' : ''} · about ${mins} min.</b> Then you're done for today.`;
+    $('startList').innerHTML = doneToday ? '' : ed.stories.map((x, i) => `<li><span>${i + 1}</span><b>${esc(x.title)}</b><em>${secsLabel(readSecs(x))}</em></li>`).join('');
+    const broken = !live && (s.best || 0) > 0 && !countedToday;
+    $('startGoal').classList.toggle('calm', broken);
+    $('startGoal').textContent = doneToday ? '' : countedToday ? 'Today already counts toward your streak' : live > 0 ? `Finish today to reach a ${live + 1}‑day streak` : broken ? `Start a new streak today · your best is ${s.best} days` : 'Finish today to start your streak';
     $('startBtn').textContent = doneToday ? 'See my streak' : 'Start';
     $('startFoot').style.display = doneToday ? 'none' : '';
 
@@ -535,9 +590,18 @@ a{color:inherit}
       const creditText = !hasImg ? '' : st.image.credit ? 'Photo: ' + st.image.credit : sources[0] ? 'Image via ' + sources[0].name : '';
       const credit = creditText ? `<span class="credit">${esc(creditText)}</span>` : '';
       const why = st.why ? `<div class="why"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#142238" stroke-width="2" stroke-linecap="round" aria-hidden="true" style="flex-shrink:0;margin-top:1px"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg><p style="margin:0"><b>Why it matters. </b>${esc(st.why)}</p></div>` : '';
-      const pills = sources.map((x) => `<a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener" data-nopan>${esc(x.name)}</a>`).join('');
+      const cov = coverageOf(st);
+      const pills = sources.map((x) => `<a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener" data-nopan>${esc(x.name)}</a>`).join('') + (cov > sources.length ? `<span class="more">+${cov - sources.length} more</span>` : '');
+      const cover = cov > 1 ? `<p class="cover">${COVER_ICON}<span>Reported by <b>${cov} outlets</b></span></p>` : '';
       const nextText = i < total - 1 ? `<b>Up next: </b>${esc(ed.stories[i + 1].title)}` : (hasQ ? '<b>Up next: </b>today’s question — then you’re done' : `<b>That’s all ${total === 5 ? 'five' : total}.</b> Swipe up to finish today`);
-      const summary = st.summary ? `<p class="summary">${esc(st.summary)}</p>` : '';
+      let sumText = tidySummary(st.summary);
+      if (/(…|\.\.\.)$/.test(sumText) && news) {
+        // Another outlet's version of the same story may have a complete summary.
+        const urls = new Set([st.url, ...sources.map((x) => x.url)]);
+        const alt = news.items.filter((it) => urls.has(it.url)).map((it) => tidySummary(it.summary)).filter((t) => t.length >= 80 && !/(…|\.\.\.)$/.test(t));
+        if (alt.length) sumText = alt.sort((a, b) => b.length - a.length)[0];
+      }
+      const summary = sumText ? `<p class="summary">${esc(sumText)}</p>` : '';
       return `<article class="card" aria-roledescription="slide" aria-label="Story ${i + 1} of ${total}" aria-hidden="true" style="transform:translateY(${(i + 1) * 100}%)">
         <div class="photo" style="background:${TONES[i % 5]}">${img}${credit}</div>
         <div class="sheet">
@@ -545,6 +609,7 @@ a{color:inherit}
           <h2 class="title" tabindex="-1">${esc(st.title)}</h2>
           ${summary}
           ${why}
+          ${cover}
           <div class="pills">${pills}</div>
           <div class="grow"></div>
           <div class="next"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5B6577" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 15l6-6 6 6"/></svg><span>${nextText}</span></div>
@@ -629,7 +694,8 @@ a{color:inherit}
     const best = Math.max(s.best, live);
     const nextBadge = BADGES.find((b) => b > live);
     const prevBadge = [...BADGES].reverse().find((b) => b <= live) || 0;
-    $('shelf').innerHTML = BADGES.map((b) => {
+    // Only earned badges and the next one: far-off goals don't motivate (goal-gradient; Kivetz et al. 2006).
+    $('shelf').innerHTML = BADGES.filter((b) => best >= b || b === nextBadge).map((b) => {
       const cls = best >= b ? 'got' : b === nextBadge ? 'upnext' : 'locked';
       return `<div class="badge ${cls}"><div class="medal">${b}</div><span>${BADGE_NAMES[b]}</span><small>${best >= b ? 'Earned' : b + ' days'}</small></div>`;
     }).join('');
@@ -650,8 +716,14 @@ a{color:inherit}
     pct = Math.max(0, Math.min(100, pct || 0));
     $('badgeBar').style.width = '0%';
     setTimeout(() => { $('badgeBar').style.width = pct + '%'; }, 500);
-    $('score').textContent = s.score.toLocaleString('en-CA');
-    $('gain').textContent = gained ? `+${gained}` : '';
+    // Informational feedback instead of points (Deci, Koestner & Ryan 1999).
+    $('rStories').textContent = total;
+    $('rOutlets').textContent = new Set(ed.stories.flatMap((x) => (x.sources || []).map((y) => y.name))).size;
+    $('rRegions').textContent = new Set(ed.stories.map((x) => x.place)).size;
+    const weekDays = [...Array(7)].map((_, i) => isoOf(mon + i)).filter((d) => days.has(d));
+    const weekCount = weekDays.reduce((a, d) => a + ((s.counts || {})[d] || 5), 0);
+    $('rWeek').textContent = `This week: ${weekCount} stories on ${weekDays.length} day${weekDays.length === 1 ? '' : 's'}`;
+    $('rQuiz').innerHTML = hasQ && answer !== null ? (answer === ed.question.answer ? '<span class="quiz-ok">✓ You got today’s quick check right</span>' : '<span style="color:#AFBBD0">Quick check: not this time</span>') : '';
     tick();
   }
 
@@ -798,8 +870,9 @@ a{color:inherit}
     const dx = e.clientX - sx, dy = e.clientY - sy; sx = null;
     if (dy < -40 && Math.abs(dy) > Math.abs(dx)) return go(step + 1);
     if (dy > 40 && Math.abs(dy) > Math.abs(dx)) return go(step - 1);
-    if (Math.abs(dx) < 12 && Math.abs(dy) < 12) {
-      const r = stage.getBoundingClientRect();
+    // Taps move between stories only on the photo; the text area is for reading.
+    if (Math.abs(dx) < 12 && Math.abs(dy) < 12 && e.target.closest('.photo')) {
+      const r = e.target.closest('.photo').getBoundingClientRect();
       go(e.clientX - r.left < r.width / 3 ? step - 1 : step + 1);
     }
   });
@@ -820,16 +893,49 @@ a{color:inherit}
   });
 
   // ---------- load ----------
+  // ---------- quick check (retrieval practice) ----------
+  // When the edition has no question of its own, ask which headline was in today's briefing.
+  // The other options are real headlines from the same days that were NOT in the briefing,
+  // chosen from the same beat when possible so the check isn't trivial.
+  // A short recall test improves retention a week later (Roediger & Karpicke 2006).
+  const STOP = new Set('the and for with from that this into over after about says said will have has its are was were their they what more than amid says new news live'.split(' '));
+  const words = (t) => new Set(String(t).toLowerCase().replace(/[^a-z0-9à-ÿ\s]/g, ' ').split(/\s+/).filter((w) => w.length > 3 && !STOP.has(w)));
+  const cleanHeadline = (t) => String(t).replace(/\s+[–—-]\s+(live|podcast|as it happened|video|the latest|us politics live|.* live)$/i, '').trim();
+  function seeded(str) { let h = 2166136261; for (const c of str) { h ^= c.charCodeAt(0); h = Math.imul(h, 16777619); } return () => { h = Math.imul(h ^ (h >>> 15), 2246822507); h = Math.imul(h ^ (h >>> 13), 3266489909); h ^= h >>> 16; return (h >>> 0) / 4294967296; }; }
+  function makeQuestion(edition, items) {
+    const rnd = seeded(edition.publishedAt || edition.date || 'pd');
+    const stories = edition.stories;
+    const target = stories[Math.floor(rnd() * stories.length)];
+    const used = new Set(); const sw = stories.map((x) => words(x.title));
+    stories.forEach((x) => { used.add(x.id); used.add(x.url); (x.sources || []).forEach((y) => used.add(y.url)); });
+    const sameStory = (t) => { const w = words(t); return sw.some((x) => [...w].filter((y) => x.has(y)).length >= 2); };
+    const pool = items.filter((it) => !used.has(it.id) && !used.has(it.url) && it.kind !== 'analysis' && !/ \| /.test(it.title)
+      && it.title.length >= 30 && it.title.length <= 130 && !/\b(live|podcast|video|quiz|newsletter)\b/i.test(it.title) && !sameStory(it.title));
+    const pick = (list, n) => { const out = []; const l = list.slice(); while (out.length < n && l.length) out.push(l.splice(Math.floor(rnd() * l.length), 1)[0]); return out; };
+    const near = pool.filter((it) => it.topic === target.topic);
+    let decoys = pick(near, 3);
+    if (decoys.length < 3) decoys = decoys.concat(pick(pool.filter((it) => !decoys.includes(it)), 3 - decoys.length));
+    if (decoys.length < 2) return null;
+    const opts = [cleanHeadline(target.title), ...decoys.map((d) => cleanHeadline(d.title))];
+    const order = opts.map((_, i) => i).sort(() => rnd() - .5);
+    const n = stories.indexOf(target) + 1;
+    return {text: 'Which of these was in today’s briefing?', options: order.map((i) => opts[i]), answer: order.indexOf(0), explain: `It was story ${n}${target.place ? ', from ' + target.place : ''}. The others are real headlines from the last few days that didn’t make the cut.`};
+  }
+
   async function load() {
     show('loading');
     announce("Loading today's briefing");
     try {
-      ed = await getJSON('edition.json');
+      const [edRes, newsRes] = await Promise.allSettled([getJSON('edition.json'), news ? Promise.resolve(news) : getJSON('news.json')]);
+      if (edRes.status !== 'fulfilled') throw edRes.reason;
+      ed = edRes.value;
+      if (newsRes.status === 'fulfilled' && newsRes.value && Array.isArray(newsRes.value.items) && !news) { news = newsRes.value; newsAt = Date.now(); }
       if (!ed || !Array.isArray(ed.stories) || !ed.stories.length) throw new Error('empty');
       ed.stories = ed.stories.filter((x) => x && x.title);
       if (!ed.stories.length) throw new Error('empty');
       if (Number.isInteger(ed.editionHour) && ed.editionHour >= 0 && ed.editionHour < 24) { editionHour = ed.editionHour; store.set('pd:hour', editionHour); }
       total = ed.stories.length;
+      if (!(ed.question && ed.question.text) && news) { try { ed.question = makeQuestion(ed, news.items); } catch (e) { ed.question = null; } }
       hasQ = !!(ed.question && ed.question.text && Array.isArray(ed.question.options) && ed.question.options.length > 1);
       step = 0;
       adoptLegacy(ed.stories.map(metaOfStory));

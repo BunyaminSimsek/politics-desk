@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T04:31:12+00:00",
+ "generatedAt": "2026-11-13T04:40:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,27 +166,12 @@
  ],
  "items": [
   {
-   "id": "c1376462665d6aad",
-   "title": "US envoys shuttle between Putin and Zelenskyy",
-   "summary": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
-   "date": "2026-11-13T04:12:01+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-13T04:22:07+00:00"
-  },
-  {
    "id": "f4e83571e3a82c8f",
    "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
    "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-   "date": "2026-11-13T03:59:56+00:00",
+   "date": "2026-11-13T04:15:57+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [
@@ -200,6 +185,21 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T00:52:05+00:00"
+  },
+  {
+   "id": "c1376462665d6aad",
+   "title": "US envoys shuttle between Putin and Zelenskyy",
+   "summary": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
+   "date": "2026-11-13T04:12:01+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T04:22:07+00:00"
   },
   {
    "id": "daff2696e62e3670",

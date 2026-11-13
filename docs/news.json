@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T19:45:03+00:00",
+ "generatedAt": "2026-11-13T19:54:11+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -167,22 +167,43 @@
  "items": [
   {
    "id": "fa66eb00f7214b61",
-   "title": "Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live",
-   "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other…",
+   "title": "Chris Van Hollen rules out 2028 presidential bid as challenge to take Senate leadership gains support – US politics live",
+   "summary": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Microsoft…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "date": "2026-11-13T19:27:06+00:00",
-   "topic": "asia",
+   "date": "2026-11-13T19:40:15+00:00",
+   "topic": "us",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/e19db10acdf9eb2e9d6a55f68aad687b6e2dd221/962_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=bde41159131fff0163f0d674748fa524",
-    "credit": "Photograph: Nathan Howard/Reuters",
+    "url": "https://i.guim.co.uk/img/media/969a8bd1521a0cfaf072fc67129aa13a81e3ba99/0_0_4840_3872/master/4840.jpg?width=700&quality=85&auto=format&fit=max&s=864198474a3fd422dee4c002d04ee005",
+    "credit": "Photograph: Kevin Mohatt/Reuters",
     "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-13T11:21:34+00:00"
+  },
+  {
+   "id": "27f8311cf126a9bd",
+   "title": "US supreme court agrees to consider Trump’s ban on asylum at US-Mexico border",
+   "summary": "Trump officials seek to overturn lower court rulings that found executive order banning asylum applications illegal The US supreme court agreed on Friday to consider Donald Trump’s ban on asylum at the US-Mexico border , a pillar of the Republican president’s…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum",
+   "date": "2026-11-13T19:38:35+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/150c1c16519482804cc57015729e0faf8b093d89/247_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=aaf8acc044537a844f615ce3161a6087",
+    "credit": "Photograph: VCG/Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T19:54:11+00:00"
   },
   {
    "id": "7a37cc01c839cd57",
@@ -224,7 +245,7 @@
   },
   {
    "id": "9f4e721e07a89802",
-   "title": "Across racial lines, Mississippians celebrate Scott Colom’s historic election: ‘The times they are a-changin’",
+   "title": "Across racial lines, Americans celebrate Scott Colom’s historic election: ‘The times they are a-changin’",
    "summary": "Six Americans on their hopes for Colom, 43, Mississippi’s first Black senator since Reconstruction Democrat Scott Colom made history this month, becoming Mississippi’s first Black senator since the Reconstruction era after defeating incumbent Republican…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippians-scott-colom-election",
@@ -666,12 +687,12 @@
   },
   {
    "id": "e06ab8319471733d",
-   "title": "Europe seeks seat at Ukraine peace talks but lacks unified voice",
-   "summary": "EU leaders believe a US-backed process will allow Moscow and Washington to decide the fate of a conflict.",
+   "title": "EU agrees on five countries to represent Europe in Ukraine peace talks",
+   "summary": "European leaders believe a US-backed process will allow Moscow and Washington to decide the fate of the conflict.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
    "date": "2026-11-13T15:43:39+00:00",
-   "topic": "ukraine",
+   "topic": "europe",
    "region": "world",
    "tags": [],
    "kind": "news",

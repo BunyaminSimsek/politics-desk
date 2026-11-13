@@ -51,7 +51,17 @@ FEEDS = [
     ("The Guardian", "https://www.theguardian.com/world/turkey/rss", "world", "turkey", False),
     ("The Guardian", "https://www.theguardian.com/world/americas/rss", "world", None, False),
     ("The Guardian", "https://www.theguardian.com/world/africa/rss", "world", "africa", False),
+    # Analysis and explainers.
+    ("The Conversation", "https://theconversation.com/ca/politics/articles.atom", "local", "federal", True),
+    ("Policy Options", "https://policyoptions.irpp.org/feed/", "local", "federal", True),
 ]
+
+ANALYSIS_SOURCES = {"The Conversation", "Policy Options"}
+ANALYSIS_RX = re.compile(r"\b(analysis|explainer|explained|what it means|what to know|why it matters|opinion|column|commentary|fact check)\b", re.I)
+
+
+def kind_of(source, title):
+    return "analysis" if source in ANALYSIS_SOURCES or ANALYSIS_RX.search(title or "") else "news"
 
 LOCAL_TOPICS = {"federal", "ontario", "toronto"}
 
@@ -355,11 +365,13 @@ def build(feed_results, previous, now):
     prev_by_id = {it["id"]: it for it in previous}
     merged = {}
     for iid, it in prev_by_id.items():
-        # Re-check stories saved by older versions of this script.
+        # Re-check saved stories against the current filters each run.
+        if count_hits(NOISE_RX, it["title"]) and count_hits(STRONG_RX, it["title"] + " " + it["summary"]) == 0:
+            continue
         if "tags" not in it:
-            if count_hits(NOISE_RX, it["title"]) and count_hits(STRONG_RX, it["title"] + " " + it["summary"]) == 0:
-                continue
             it = dict(it, tags=issues_for(it["title"], it["summary"]))
+        if "kind" not in it:
+            it = dict(it, kind=kind_of(it["source"], it["title"]))
         merged[iid] = it
     report = []
     for (name, url, region_hint, topic_hint, politics_feed), parsed in feed_results:
@@ -386,6 +398,7 @@ def build(feed_results, previous, now):
                 "topic": topic,
                 "region": region,
                 "tags": tags,
+                "kind": kind_of(name, p["title"]),
                 "image": p.get("image") or prev_by_id.get(iid, {}).get("image"),
                 "breaking": False,
                 "addedAt": prev_by_id.get(iid, {}).get("addedAt", now.isoformat()),

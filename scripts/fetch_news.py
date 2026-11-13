@@ -623,6 +623,15 @@ def main():
     if edition:
         EDITION.write_text(json.dumps(edition, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"edition {edition['date']}: {len(edition['stories'])} stories")
+    # Static pages for search engines (briefing archive, about, sitemap, headlines in index.html).
+    try:
+        import site_pages
+        current = edition or old
+        changed = site_pages.build(ROOT / "docs", current, [f[0] for f in FEEDS], data["items"])
+        if changed:
+            print("pages updated: " + ", ".join(changed))
+    except Exception as e:  # pages are a bonus; never let them break the news update
+        print(f"[warn] static pages: {e}", file=sys.stderr)
     ok = sum(1 for r in data["feeds"] if r["ok"])
     print(f"{len(data['items'])} stories, {ok}/{len(data['feeds'])} feeds OK")
 

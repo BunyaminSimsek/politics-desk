@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T11:21:34+00:00",
+ "generatedAt": "2026-11-13T11:30:39+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,40 @@
  ],
  "items": [
   {
+   "id": "145063038f329d59",
+   "title": "Rural Canada is not an innovation desert. It’s a blind spot",
+   "summary": "In October, the federal government added $500 million over five years to its regional artificial intelligence initiative, bringing the program’s total to $700 million. A month earlier, it launched a $13-million national AI literacy initiative with Amii, the…",
+   "source": "Policy Options",
+   "url": "https://policyoptions.irpp.org/2026/11/rural-canada-ai-funding/",
+   "date": "2026-11-13T11:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "analysis",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T11:30:39+00:00"
+  },
+  {
+   "id": "478e654a1bfe41ef",
+   "title": "Man charged after seven women sexually assaulted in 30 minutes on UK campus",
+   "summary": "Police called to Huddersfield University on Tuesday after women reported being ‘approached and grabbed’ A 29-year-old man has been charged after seven women reported being sexually assaulted on the Huddersfield University campus over a 30 minute period. West…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/13/man-charged-women-sexually-assaulted-huddersfield-university",
+   "date": "2026-11-13T11:17:35+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/80b08cb463150f8c38e5fb011a3a40f573e008be/1099_0_5371_4297/master/5371.jpg?width=700&quality=85&auto=format&fit=max&s=95cc18cf086d598d1a1ba58c328409ee",
+    "credit": "Photograph: Christopher Thomond/The Guardian",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T11:30:39+00:00"
+  },
+  {
    "id": "01e16ef627937021",
    "title": "Cop31 live: Climate crisis negotiations heat up on fifth day of talks",
    "summary": "Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit ‘I want governments to put human rights at the centre of decisions’ During this first week of Cop31 I’ve…",
@@ -185,6 +219,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T07:33:23+00:00"
+  },
+  {
+   "id": "0b3759f8bed346b2",
+   "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+   "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+   "date": "2026-11-13T11:12:22+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/af859fd146834e1d6c80eb74390e4e88d8a15446/268_0_2668_2135/master/2668.jpg?width=700&quality=85&auto=format&fit=max&s=ea37b4d3c3e6708b600d980f1c2a9075",
+    "credit": "Photograph: Stefan Rousseau/Reuters",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T09:13:24+00:00"
   },
   {
    "id": "fa66eb00f7214b61",
@@ -281,25 +334,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T10:26:29+00:00"
-  },
-  {
-   "id": "0b3759f8bed346b2",
-   "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-   "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries Luxembourg’s PM Luc Frieden is in a slightly unusual position this morning as he is representing as many as three countries at today’s meeting in Dublin. Belgian…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-   "date": "2026-11-13T10:52:16+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/af859fd146834e1d6c80eb74390e4e88d8a15446/268_0_2668_2135/master/2668.jpg?width=700&quality=85&auto=format&fit=max&s=ea37b4d3c3e6708b600d980f1c2a9075",
-    "credit": "Photograph: Stefan Rousseau/Reuters",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T09:13:24+00:00"
   },
   {
    "id": "45ad344362a213e7",
@@ -4291,40 +4325,6 @@
    "image": {
     "url": "https://i.guim.co.uk/img/media/e9e70c1f9aafbf60fe3b65bb1b0c30528284d52f/0_747_2932_2345/master/2932.jpg?width=700&quality=85&auto=format&fit=max&s=548bed328dc2917570e0eee88e768ae5",
     "credit": "Photograph: Go Nakamura/Reuters",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "88c7675d8ea7ca36",
-   "title": "Ontario’s online gambling boom is reaching children",
-   "summary": "We told them this would happen. In April 2021, a year before a single legal bet was placed on a privately operated gambling website in Ontario, the Mississaugas of Scugog Island First Nation submitted our concerns to the province. We said that the new iGaming…",
-   "source": "Policy Options",
-   "url": "https://policyoptions.irpp.org/2026/11/ontario-teen-gambling/",
-   "date": "2026-11-10T11:30:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "analysis",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-13T02:14:27+00:00"
-  },
-  {
-   "id": "4e7da90deb2ca500",
-   "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-   "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T11:23:18+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cbd6/live/72504f00-dcf5-11f1-93e1-3b657b665bcf.jpg",
-    "credit": "",
     "caption": ""
    },
    "breaking": false,

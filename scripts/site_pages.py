@@ -357,6 +357,11 @@ def build_picks(docs):
                   "readMinutes": p.get("quickMinutes") or p.get("readMinutes") or 4, "sources": len(p.get("sources") or []), "url": f"pick/{p['date']}/"}
         if write_if_changed(folder / "latest.json", json.dumps(latest, ensure_ascii=False, indent=1)):
             changed.append("pick/latest.json")
+        # Every pick, for the app's Keep exploring feed.
+        allp = [{"date": q["date"], "topic": q.get("topic"), "title": q["title"], "dek": q.get("dek"),
+                 "readMinutes": q.get("quickMinutes") or q.get("readMinutes") or 4, "url": f"pick/{q['date']}/"} for q in picks]
+        if write_if_changed(folder / "index.json", json.dumps({"picks": allp}, ensure_ascii=False, indent=1)):
+            changed.append("pick/index.json")
     return changed, dates
 
 

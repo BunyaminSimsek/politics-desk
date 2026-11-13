@@ -243,6 +243,42 @@ a{color:inherit}
 .noscript{position:fixed;inset:0;z-index:9;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;padding:24px;text-align:center;background:var(--ink);color:#fff;font-size:17px;line-height:1.45}
 .noscript a{color:#fff;font-weight:700}
 
+/* ---------- keep exploring: an opt-in feed of the past 30 days, 10 stories per chapter ---------- */
+.explore-cta{background:var(--signal);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;margin-top:18px;padding:8px 16px}
+.explore-cta small{font-size:13px;font-weight:500;opacity:.92}
+#explore{background:var(--paper);color:var(--ink);flex-direction:column}
+.ex-prog{display:flex;align-items:center;gap:10px;font-size:12px;font-weight:600;color:var(--muted)}
+.ex-prog .trk{flex:1;height:6px;border-radius:3px;background:var(--soft);overflow:hidden}
+.ex-prog .trk i{display:block;height:100%;width:0;background:var(--signal);border-radius:3px;transition:width .4s var(--ease)}
+.ex-list{flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:12px 12px calc(28px + env(safe-area-inset-bottom));display:flex;flex-direction:column;gap:12px}
+.ex-card{background:#fff;border-radius:18px;overflow:hidden;border:1px solid #E3E7ED;display:flex;flex-direction:column;flex-shrink:0}
+.ex-card.lite{border-color:#EFD3D0}
+.ex-photo{position:relative;aspect-ratio:16/9;background:#C7D0DC;flex-shrink:0}
+.ex-photo img{width:100%;height:100%;object-fit:cover;display:block}
+.ex-photo .credit{bottom:10px;left:10px}
+.ex-body{padding:14px 16px 12px;display:flex;flex-direction:column;gap:6px}
+.ex-meta{margin:0;font-size:12px;font-weight:600;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 8px;align-items:center}
+.ex-tag{padding:2px 8px;border-radius:999px;background:#FBE9E7;color:var(--signal);font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase}
+.ex-card h2{margin:0;font-family:var(--serif);font-weight:700;font-size:20px;line-height:1.22;letter-spacing:-.01em}
+.ex-card .sum{margin:0;font-size:15px;line-height:1.45;color:var(--text)}
+.ex-cov{margin:0;font-size:12px;color:var(--muted)}
+.ex-act{display:flex;align-items:center;gap:8px;margin-top:4px}
+.ex-act .read{flex:1;font-size:14px;font-weight:600;color:var(--ink);text-underline-offset:3px}
+.ex-act button{width:40px;height:40px;border-radius:20px;border:1px solid var(--pill);background:#fff;display:flex;align-items:center;justify-content:center;cursor:pointer;padding:0;flex-shrink:0}
+.ex-act svg{width:18px;height:18px}
+.ex-pick{background:var(--ink);color:#fff;border-radius:18px;padding:18px;text-decoration:none;display:flex;flex-direction:column;gap:6px;flex-shrink:0}
+.ex-pick .pk{margin:0;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--flame)}
+.ex-pick .pt{margin:0;font-family:var(--serif);font-weight:700;font-size:21px;line-height:1.22}
+.ex-pick .pd{margin:0;font-size:14px;line-height:1.4;color:#D3DAE6}
+.ex-pick b{font-size:14px;margin-top:2px}
+.ex-end{background:var(--ink);color:#fff;border-radius:18px;padding:22px 18px;text-align:center;display:flex;flex-direction:column;gap:8px;align-items:center;flex-shrink:0}
+.ex-end h3{margin:0;font-family:var(--serif);font-size:24px;line-height:1.2}
+.ex-end p{margin:0;font-size:14px;color:#D3DAE6;line-height:1.45}
+.ex-end .btns{display:grid;grid-template-columns:1fr 1fr;gap:10px;width:100%;margin-top:8px}
+.ex-end .go{min-height:52px;border:0;border-radius:14px;background:var(--signal);color:#fff;font-weight:700;font-size:16px;cursor:pointer}
+.ex-end .stop{min-height:52px;border:1px solid #5B6E8C;border-radius:14px;background:transparent;color:#fff;font-weight:600;font-size:16px;cursor:pointer}
+.ex-note{margin:4px 0 0;text-align:center;font-size:12px;color:var(--muted);flex-shrink:0}
+
 /* ---------- loading / error ---------- */
 #start,#done{overflow-y:auto}
 .center{flex-direction:column;align-items:center;justify-content:center;gap:16px;text-align:center;padding:24px}
@@ -324,6 +360,15 @@ a{color:inherit}
   .item .thumb{width:96px;height:96px}
   .item h2{font-size:19px}
   .empty{grid-column:1/-1;background:var(--paper)}
+
+  /* keep exploring: two columns, chapter breaks across both */
+  #done .explore-cta{max-width:440px;margin-top:22px}
+  .ex-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));grid-auto-rows:max-content;align-content:start;align-items:start;gap:18px;padding:22px 40px 36px}
+  .ex-end,.ex-note,.ex-list>.empty{grid-column:1/-1}
+  .ex-end{padding:28px;max-width:720px;width:100%;justify-self:center}
+  .ex-end .btns{max-width:460px}
+  .ex-card h2{font-size:22px}
+  .ex-card .sum{font-size:16px}
 }
 
 @media (max-width:1099px) and (max-height:720px){
@@ -371,7 +416,7 @@ a{color:inherit}
     </div>
     <button class="cta" id="startBtn">Start</button>
     <p class="foot-dark" id="startFoot">Swipe up, or use the arrows on the left</p>
-    <div class="start-links"><button class="linkish js-all" type="button">Browse all stories</button><a class="linkish" href="pick/" id="pickLink">Editor's pick</a><a class="linkish" href="briefing/">Past briefings</a><a class="linkish" href="about/">About</a></div>
+    <div class="start-links"><button class="linkish" id="streakLink" type="button" hidden>See my streak</button><button class="linkish js-all" type="button">Browse all stories</button><a class="linkish" href="pick/" id="pickLink">Editor's pick</a><a class="linkish" href="briefing/">Past briefings</a><a class="linkish" href="about/">About</a></div>
   </section>
 
   <section class="screen" id="stories" aria-roledescription="carousel" aria-label="Today's stories">
@@ -416,6 +461,7 @@ a{color:inherit}
       <p style="margin:4px 0 0;font-size:18px;font-weight:600">day streak</p>
       <div class="week" id="week"></div>
       <p class="foot-dark" id="shieldNote" style="margin:0">One missed day a week is protected automatically</p>
+      <button class="cta explore-cta js-explore" type="button">Keep exploring →<small>Stories from the past 30 days, 10 at a time</small></button>
       <div class="panel">
         <div class="row"><b id="badgeName">Next badge</b><span id="badgeLeft" style="color:#AFBBD0"></span></div>
         <div class="track"><i id="badgeBar"></i></div>
@@ -429,7 +475,7 @@ a{color:inherit}
       </div>
     </div>
     <div class="grow"></div>
-    <p style="margin:0;text-align:center;font-size:13px;color:#AFBBD0">Your next briefing</p>
+    <p style="margin:16px 0 0;text-align:center;font-size:13px;color:#AFBBD0">Your next briefing</p>
     <p style="margin:2px 0 0;text-align:center;font-size:22px;font-weight:700;color:#fff" id="nextWhen">Tomorrow at 7:00 a.m.</p>
     <p style="margin:2px 0 0;text-align:center;font-size:14px;color:#D3DAE6" id="countdownLine">in <b id="countdown" style="color:#fff"></b></p>
     <div class="done-actions">
@@ -437,6 +483,18 @@ a{color:inherit}
       <button class="ghost js-all" type="button">All stories</button>
     </div>
     <p class="reread-note">Reading again doesn’t change your streak. · <a href="briefing/">Past briefings</a></p>
+  </section>
+
+  <section class="screen" id="explore" aria-labelledby="exTitle">
+    <div class="all-head">
+      <div class="all-top">
+        <button class="back" id="exBack" type="button" aria-label="Back"><svg viewBox="0 0 24 24" fill="none" stroke="#142238" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 6l-6 6 6 6"/></svg></button>
+        <h1 id="exTitle" tabindex="-1">Keep exploring</h1>
+      </div>
+      <div class="ex-prog"><span id="exStep">Chapter 1 · 0 of 10</span><div class="trk" aria-hidden="true"><i id="exBar"></i></div></div>
+      <div class="filters" id="exFilters" role="group" aria-label="Choose your mix"></div>
+    </div>
+    <div class="ex-list" id="exList" role="feed" aria-label="Stories from the past 30 days"></div>
   </section>
 
   <section class="screen" id="all" aria-labelledby="allTitle">
@@ -628,12 +686,13 @@ a{color:inherit}
     $('startPlaces').innerHTML = doneToday ? '' : places.map((x) => `<span>${esc(x)}</span>`).join('');
     const totalSecs = ed.stories.reduce((a, x) => a + readSecs(x), 0) + (hasQ ? 20 : 0);
     const mins = Math.max(1, Math.round(totalSecs / 60));
-    $('startLede').innerHTML = doneToday ? `Your next briefing arrives at ${hourLabel(editionHour)}` : `<b>${total} stories${hasQ ? ' + a quick check' : ''} · about ${mins} min.</b> Then you're done for today.`;
+    $('startLede').innerHTML = doneToday ? `Your next briefing arrives at ${hourLabel(editionHour)} Until then, explore the past 30 days, 10 stories at a time.` : `<b>${total} stories${hasQ ? ' + a quick check' : ''} · about ${mins} min.</b> Then you're done for today.`;
     $('startList').innerHTML = doneToday ? '' : ed.stories.map((x, i) => `<li><span>${i + 1}</span><b>${esc(x.title)}</b><em>${secsLabel(readSecs(x))}</em></li>`).join('');
     const broken = !live && (s.best || 0) > 0 && !countedToday;
     $('startGoal').classList.toggle('calm', broken);
     $('startGoal').textContent = doneToday ? '' : countedToday ? 'Today already counts toward your streak' : live > 0 ? `Finish today to reach a ${live + 1}‑day streak` : broken ? `Start a new streak today · your best is ${s.best} days` : 'Finish today to start your streak';
-    $('startBtn').textContent = doneToday ? 'See my streak' : 'Start';
+    $('startBtn').textContent = doneToday ? 'Keep exploring →' : 'Start';
+    $('streakLink').hidden = !doneToday;
     $('startFoot').style.display = doneToday ? 'none' : '';
 
     $('cards').innerHTML = ed.stories.map((st, i) => {
@@ -743,6 +802,7 @@ a{color:inherit}
     const {s, gained, used} = complete(before, ed.date, bonus, ed.publishedAt);
     const now = torontoParts();
     const live = liveStreak(s, now.date) || s.streak;
+    if (!already) track('briefing-done');
     $('doneKicker').textContent = already ? "You've already finished this briefing" : "You're done for today";
     show('done');
     const count = $('count');
@@ -810,6 +870,7 @@ a{color:inherit}
   // ---------- all stories (news.json) ----------
   let news = null, newsAt = 0, newsLoading = false, filter = 'all', query = '', backTo = 'start';
   function openAll() {
+    track('all-stories');
     backTo = current;
     show('all');
     renderAll();
@@ -905,8 +966,217 @@ a{color:inherit}
   // Broken images just disappear (no inline handlers, so a strict CSP stays possible).
   document.addEventListener('error', (e) => { if (e.target && e.target.tagName === 'IMG') e.target.remove(); }, true);
 
+  // ---------- measurement: counts only, no cookies, nothing that identifies a person ----------
+  // GoatCounter keeps no personal data and sets no cookies. Until the site code is set, track() does nothing.
+  const GC_CODE = '';
+  if (GC_CODE && location.hostname.endsWith('polidesk.ca')) {
+    const sc = document.createElement('script');
+    sc.async = true; sc.src = 'https://gc.zgo.at/count.js';
+    sc.dataset.goatcounter = `https://${GC_CODE}.goatcounter.com/count`;
+    document.head.appendChild(sc);
+  }
+  function track(name) {
+    try { if (window.goatcounter && window.goatcounter.count) window.goatcounter.count({path: 'event/' + name, title: name, event: true}); } catch (e) { /* never break the app */ }
+  }
+
+  // ---------- keep exploring: the past 30 days, 10 stories a chapter ----------
+  // Opt-in, chaptered, with a real stopping point after every 10 stories: endless feeds keep people
+  // longer but leave them regretting the time (Rixen et al. 2023); paging and no autoplay restore a sense
+  // of control (Monge Roffarello et al., CHI 2026). Progress toward the end of a chapter motivates
+  // (goal gradient, Kivetz et al. 2006). Lighter stories are mixed in so the feed doesn't wear people out.
+  const CHAPTER = 10, LIGHT_AT = [3, 8];
+  const HEAVY_RX = /\b(kill\w*|dead|death\w*|dies|died|war|wars|attack\w*|strikes?|bomb\w*|shoot\w*|massacre\w*|genocide|famine|hostage\w*|terror\w*|crash\w*|invasion)\b/i;
+  const SHARE_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="#142238" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"/><path d="M16 6l-4-4-4 4"/><path d="M12 2v13"/></svg>';
+  const MIXES = [['all', 'All'], ['canada', 'Canada'], ['world', 'World'], ['light', 'Lighter side']];
+  const ex = {index: null, picks: [], dayAt: 0, pol: [], lit: [], cards: [], chapter: 0, inChapter: 0, mix: 'all', loading: false, ended: false, backTo: 'start', titles: []};
+  let seen = new Set(store.get('pd:seen', []));
+  function markSeen(id) {
+    if (seen.has(id)) return;
+    seen.add(id);
+    const arr = [...seen]; store.set('pd:seen', arr.slice(-3000));
+  }
+  function excluded() { // today's briefing stories are already read
+    const urls = new Set();
+    (ed ? ed.stories : []).forEach((st) => { urls.add(st.url); (st.sources || []).forEach((x) => urls.add(x.url)); });
+    return urls;
+  }
+  const fitsMix = (it) => ex.mix === 'all' || (ex.mix === 'canada' ? it.region === 'local' : ex.mix === 'world' ? it.region !== 'local' : false);
+  async function exLoadMore() { // pull in more days until there are enough stories for the next chapter
+    if (!ex.index) {
+      const [ix, pk] = await Promise.allSettled([getJSON('archive/index.json'), getJSON('pick/index.json')]);
+      if (ix.status !== 'fulfilled' || !ix.value || !Array.isArray(ix.value.days)) throw new Error('no archive');
+      ex.index = ix.value.days;
+      ex.picks = pk.status === 'fulfilled' && pk.value && Array.isArray(pk.value.picks) ? pk.value.picks.filter((p) => !(ed && p.date === ed.date)) : [];
+    }
+    const skip = excluded();
+    while (ex.dayAt < ex.index.length && (ex.pol.length < CHAPTER || (ex.mix !== 'light' && ex.lit.length < 2) || (ex.mix === 'light' && ex.lit.length < CHAPTER))) {
+      const day = ex.index[ex.dayAt++];
+      let data;
+      try { data = await getJSON(`archive/${day.date}.json`); } catch (e) { continue; }
+      (data.items || []).forEach((it) => {
+        if (!it || !it.title || seen.has(it.id) || skip.has(it.url)) return;
+        if (it.kind === 'light') ex.lit.push(it);
+        else if (fitsMix(it)) ex.pol.push(it);
+      });
+    }
+  }
+  function sameAsShown(it) {
+    const w = words(it.title);
+    return ex.titles.some((t) => [...w].filter((x) => t.has(x)).length >= 4);
+  }
+  function takePolitics(prevHeavy) {
+    // Keep variety: not three stories in a row from one place.
+    const last2 = ex.cards.slice(-2).filter((c) => c.kind !== 'light' && c.kind !== 'pick').map((c) => c.topic);
+    for (let pass = 0; pass < 2; pass++) {
+      for (let i = 0; i < Math.min(ex.pol.length, 8); i++) {
+        const it = ex.pol[i];
+        if (seen.has(it.id) || sameAsShown(it)) { ex.pol.splice(i--, 1); continue; }
+        if (pass === 0 && last2.length === 2 && last2[0] === last2[1] && it.topic === last2[0]) continue;
+        if (pass === 0 && prevHeavy === 'need-calm' && HEAVY_RX.test(it.title)) continue;
+        return ex.pol.splice(i, 1)[0];
+      }
+    }
+    return null;
+  }
+  function takeLight() {
+    while (ex.lit.length) { const it = ex.lit.shift(); if (!seen.has(it.id) && !sameAsShown(it)) return it; }
+    return null;
+  }
+  function buildChapter() {
+    const out = [];
+    if (ex.chapter === 0 && ex.mix === 'all') { const p = ex.picks.find((x) => !seen.has('pick:' + x.date)); if (p) out.push(Object.assign({kind: 'pick', id: 'pick:' + p.date}, p)); }
+    while (out.length < CHAPTER) {
+      let it = null;
+      if (ex.mix === 'light') it = takeLight();
+      else if (LIGHT_AT.includes(out.length)) {
+        // Never a joke straight after a tragedy: put a calm story in between first.
+        const prev = out[out.length - 1];
+        if (prev && prev.kind !== 'light' && HEAVY_RX.test(prev.title)) it = takePolitics('need-calm');
+        else it = takeLight();
+      }
+      if (!it && ex.mix !== 'light') it = takePolitics(out.length && HEAVY_RX.test(out[out.length - 1].title || '') ? 'need-calm' : '');
+      if (!it && ex.mix !== 'light') it = takeLight();
+      if (!it) break;
+      out.push(it);
+      ex.titles.push(words(it.title));
+    }
+    return out;
+  }
+  function exCard(it) {
+    if (it.kind === 'pick') {
+      return `<a class="ex-pick" href="${esc(it.url)}" data-id="${esc(it.id)}" data-ev="explore-pick"><p class="pk">Editor’s Pick${it.topic ? ' · ' + esc(it.topic) : ''}</p><p class="pt">${esc(it.title)}</p>${it.dek ? `<p class="pd">${esc(it.dek)}</p>` : ''}<b>Read · ${it.readMinutes || 1} min →</b></a>`;
+    }
+    const img = it.image && it.image.url ? it.image.url : '';
+    const light = it.kind === 'light';
+    const place = light ? '' : (PLACE_OF[it.topic] || TOPIC_LABEL[it.topic] || '');
+    const others = (it.also || []).length;
+    const on = isSaved(it.id);
+    return `<article class="ex-card${light ? ' lite' : ''}" data-id="${esc(it.id)}" aria-label="${esc(it.title)}">
+      ${img ? `<div class="ex-photo"><img src="${esc(safeUrl(img))}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">${it.image.credit ? `<span class="credit">${esc('Photo: ' + it.image.credit)}</span>` : ''}</div>` : ''}
+      <div class="ex-body">
+        <p class="ex-meta">${light ? '<span class="ex-tag">Lighter side</span>' : ''}${place ? `<span>${esc(place)}</span><span aria-hidden="true">·</span>` : ''}<span>${esc(it.source)}</span><span aria-hidden="true">·</span><span>${esc(ago(it.date))}</span></p>
+        <h2>${esc(it.title)}</h2>
+        ${it.summary ? `<p class="sum">${esc(tidySummary(it.summary))}</p>` : ''}
+        ${others ? `<p class="ex-cov">Also reported by ${esc(it.also.slice(0, 3).join(', '))}${others > 3 ? ` and ${others - 3} more` : ''}</p>` : ''}
+        <div class="ex-act">
+          <a class="read" href="${esc(safeUrl(it.url))}" target="_blank" rel="noopener" data-ev="explore-read">Read at ${esc(it.source)} ↗</a>
+          <button type="button" class="ex-share" aria-label="Share: ${esc(it.title)}">${SHARE_ICON}</button>
+          <button type="button" class="ex-save" aria-pressed="${on}" aria-label="${on ? 'Remove from saved' : 'Save story'}: ${esc(it.title)}">${BOOKMARK(on)}</button>
+        </div>
+      </div>
+    </article>`;
+  }
+  const PLACE_OF = {us: 'US', federal: 'Canada', ontario: 'Ontario', toronto: 'Toronto', ukraine: 'Ukraine', mideast: 'Middle East', europe: 'Europe', asia: 'Asia', africa: 'Africa', latam: 'Latin America', turkey: 'Türkiye'};
+  function exProgress() {
+    $('exStep').textContent = ex.ended && !ex.inChapterTotal ? 'All caught up' : `Chapter ${ex.chapter} · ${Math.min(ex.inChapter, ex.inChapterTotal)} of ${ex.inChapterTotal}`;
+    $('exBar').style.width = ex.inChapterTotal ? Math.round(Math.min(ex.inChapter, ex.inChapterTotal) / ex.inChapterTotal * 100) + '%' : '100%';
+  }
+  const exObs = 'IntersectionObserver' in window ? new IntersectionObserver((entries) => {
+    entries.forEach((en) => {
+      if (!en.isIntersecting) return;
+      const el = en.target; exObs.unobserve(el);
+      markSeen(el.dataset.id);
+      if (+el.dataset.ch === ex.chapter) { ex.inChapter++; exProgress(); }
+    });
+  }, {root: null, threshold: 0.6}) : null;
+  async function exChapter() {
+    if (ex.loading || ex.ended) return;
+    ex.loading = true;
+    const list = $('exList');
+    list.querySelectorAll('.ex-end,.ex-note').forEach((el) => el.remove());
+    try { await exLoadMore(); } catch (e) {
+      ex.loading = false;
+      if (!ex.cards.length) list.innerHTML = `<p class="empty">${navigator.onLine === false ? "You're offline." : "Couldn't load more stories."}<br><button class="cta" type="button" id="exRetry" style="margin-top:14px;max-width:200px;background:var(--ink);color:#fff">Try again</button></p>`;
+      return;
+    }
+    const items = buildChapter();
+    ex.loading = false;
+    if (!items.length) {
+      ex.ended = true; ex.inChapterTotal = 0; exProgress();
+      list.insertAdjacentHTML('beforeend', `<div class="ex-end"><h3>${ex.cards.length ? 'That’s everything for now' : 'Nothing new here yet'}</h3><p>You’ve seen every story from the past 30 days${ex.mix === 'all' ? '' : ' in this mix'}. New ones arrive all day.</p><div class="btns" style="grid-template-columns:1fr"><button type="button" class="stop js-exstop">Back to PoliDesk</button></div></div>`);
+      return;
+    }
+    ex.chapter++; ex.inChapter = 0; ex.inChapterTotal = items.length;
+    track('explore-chapter-' + Math.min(ex.chapter, 10));
+    const first = ex.cards.length;
+    ex.cards.push(...items);
+    list.insertAdjacentHTML('beforeend', items.map(exCard).join(''));
+    const els = [...list.querySelectorAll('[data-id]')].slice(first);
+    els.forEach((el) => { el.dataset.ch = ex.chapter; if (exObs) exObs.observe(el); else markSeen(el.dataset.id); });
+    if (!exObs) ex.inChapter = items.length;
+    exProgress();
+    // The stopping point: a clear end to every chapter.
+    list.insertAdjacentHTML('beforeend', `<div class="ex-end" role="group" aria-label="End of chapter ${ex.chapter}"><h3>Chapter ${ex.chapter} done</h3><p>${ex.cards.filter((c) => c.kind !== 'pick').length} stories explored. Keep going, or call it a day — your next briefing is ${$('nextWhen').textContent.toLowerCase().startsWith('today') ? 'later today' : 'tomorrow morning'}.</p><div class="btns"><button type="button" class="go js-exmore">Keep going</button><button type="button" class="stop js-exstop">Done for now</button></div></div>`);
+    if (ex.chapter === 1) list.insertAdjacentHTML('beforeend', '<p class="ex-note">Stories stay here for 30 days. What you’ve seen won’t show up again.</p>');
+  }
+  function exReset() {
+    Object.assign(ex, {dayAt: 0, pol: [], lit: [], cards: [], chapter: 0, inChapter: 0, inChapterTotal: 0, loading: false, ended: false, titles: []});
+    $('exList').innerHTML = '';
+    $('exFilters').innerHTML = MIXES.map(([k, l]) => `<button type="button" data-mix="${k}" aria-pressed="${k === ex.mix}">${esc(l)}</button>`).join('');
+    exProgress();
+  }
+  function openExplore() {
+    if (current !== 'explore') ex.backTo = current;
+    tick();
+    show('explore');
+    track('explore-open-' + ex.backTo);
+    if (!ex.cards.length || ex.ended) { exReset(); exChapter(); }
+  }
+  document.querySelectorAll('.js-explore').forEach((b) => b.addEventListener('click', openExplore));
+  $('exBack').addEventListener('click', () => show(ex.backTo === 'explore' ? 'start' : ex.backTo));
+  $('exFilters').addEventListener('click', (e) => {
+    const b = e.target.closest('[data-mix]'); if (!b || b.dataset.mix === ex.mix) return;
+    ex.mix = b.dataset.mix; track('explore-mix-' + ex.mix);
+    exReset(); exChapter(); $('exList').scrollTop = 0;
+  });
+  $('exList').addEventListener('click', async (e) => {
+    if (e.target.closest('#exRetry')) { exReset(); exChapter(); return; }
+    if (e.target.closest('.js-exmore')) { track('explore-keep-going'); exChapter(); return; }
+    if (e.target.closest('.js-exstop')) { track('explore-done-for-now'); show(ex.backTo === 'explore' ? 'start' : ex.backTo); announce('See you at your next briefing.'); return; }
+    const ev = e.target.closest('[data-ev]'); if (ev) track(ev.dataset.ev);
+    const card = e.target.closest('.ex-card'); if (!card) return;
+    const it = ex.cards.find((c) => c.id === card.dataset.id); if (!it) return;
+    const sv = e.target.closest('.ex-save');
+    if (sv) {
+      const on = toggleSaved(metaOfItem(it));
+      sv.setAttribute('aria-pressed', on); sv.setAttribute('aria-label', `${on ? 'Remove from saved' : 'Save story'}: ${it.title}`); sv.innerHTML = BOOKMARK(on);
+      announce(on ? 'Saved. Find it under All stories, Saved.' : 'Removed from saved.');
+      track('explore-save');
+      return;
+    }
+    if (e.target.closest('.ex-share')) {
+      track('explore-share');
+      try {
+        if (navigator.share) await navigator.share({title: it.title, url: it.url});
+        else { await navigator.clipboard.writeText(it.url); announce('Link copied.'); }
+      } catch (err) { /* share sheet closed */ }
+    }
+  });
+
   // ---------- input ----------
-  $('startBtn').addEventListener('click', () => { const s = loadStreak(); if (s.lastEd === ed.publishedAt) { step = total + (hasQ ? 1 : 0) + 1; finish(); } else go(1); });
+  const seeStreak = () => { step = total + (hasQ ? 1 : 0) + 1; finish(); };
+  $('startBtn').addEventListener('click', () => { const s = loadStreak(); if (s.lastEd === ed.publishedAt) openExplore(); else { track('briefing-start'); go(1); } });
+  $('streakLink').addEventListener('click', seeStreak);
   $('upBtn').addEventListener('click', () => go(step - 1));
   $('downBtn').addEventListener('click', () => go(step + 1));
   $('qBack').addEventListener('click', () => go(total));

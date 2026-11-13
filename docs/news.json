@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T17:09:20+00:00",
+ "generatedAt": "2026-11-13T17:18:28+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 19
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "fa576b987fcbb609",
+   "title": "Who is Chris Van Hollen? The senator challenging Schumer as a progressive voice for Democrats",
+   "summary": "Senator Chris Van Hollen’s policy credentials allowed his quick rise to roles usually reserved for the more tenured US politics live – latest updates US senator Chris Van Hollen’s challenge to Chuck Schumer ’s leadership of Senate Democrats presents an…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/13/chuck-schumer-democrat-party-control-ideology",
+   "date": "2026-11-13T17:15:05+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/19662f21a15579907c78e129a749b78b5dab0bd6/239_0_2591_2073/master/2591.jpg?width=700&quality=85&auto=format&fit=max&s=b78adbc90ae8d9ddb70bb9f5f727c7d9",
+    "credit": "Photograph: Eric Lee/Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T16:51:00+00:00"
+  },
+  {
+   "id": "fa66eb00f7214b61",
+   "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
+   "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+   "date": "2026-11-13T17:03:20+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=700&quality=85&auto=format&fit=max&s=1e6e5641950fef18e184d22f966ec0f0",
+    "credit": "Photograph: Leila Navidi/Minnesota Star Tribune/AP",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T11:21:34+00:00"
+  },
+  {
    "id": "c525c341d288a543",
    "title": "The Trump administration's voter roll crusade could continue",
    "summary": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
@@ -202,25 +242,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T17:09:20+00:00"
-  },
-  {
-   "id": "fa66eb00f7214b61",
-   "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
-   "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "date": "2026-11-13T16:47:02+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=700&quality=85&auto=format&fit=max&s=1e6e5641950fef18e184d22f966ec0f0",
-    "credit": "Photograph: Leila Navidi/Minnesota Star Tribune/AP",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T11:21:34+00:00"
   },
   {
    "id": "139a1145e72fe53e",
@@ -260,12 +281,12 @@
   },
   {
    "id": "0b3759f8bed346b2",
-   "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live",
-   "summary": "Kaja Kallas warns against agreeing to Russia’s proposed sequence of events on talks on Ukraine Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour…",
+   "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – as it happened",
+   "summary": "This blog is now closed Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour a perfect pint of Guinness. Continue reading...",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
    "date": "2026-11-13T16:39:34+00:00",
-   "topic": "ukraine",
+   "topic": "europe",
    "region": "world",
    "tags": [],
    "kind": "news",
@@ -276,27 +297,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T09:13:24+00:00"
-  },
-  {
-   "id": "fa576b987fcbb609",
-   "title": "Chuck Schumer’s challenger for party control underscores Democrats’ ideological rift",
-   "summary": "Senator Chris Van Hollen’s policy credentials allowed his quick rise to roles usually reserved for the more tenured US politics live – latest updates US senator Chris Van Hollen’s challenge to Chuck Schumer ’s leadership of Senate Democrats presents an…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/chuck-schumer-democrat-party-control-ideology",
-   "date": "2026-11-13T16:36:45+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/19662f21a15579907c78e129a749b78b5dab0bd6/239_0_2591_2073/master/2591.jpg?width=700&quality=85&auto=format&fit=max&s=b78adbc90ae8d9ddb70bb9f5f727c7d9",
-    "credit": "Photograph: Eric Lee/Getty Images",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T16:51:00+00:00"
   },
   {
    "id": "9519d78de0e4d5e3",
@@ -403,6 +403,25 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-13T16:14:16+00:00"
+  },
+  {
+   "id": "5659d244156ae8cf",
+   "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+   "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T15:40:08+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T17:18:28+00:00"
   },
   {
    "id": "046d5253f4f3db30",
@@ -4605,27 +4624,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "4fd5182de40cb9c5",
-   "title": "Calgary budget proposes 15% property tax increase in 2027",
-   "summary": "If approved as proposed, Calgary's budget could result in a 37 per cent increase to city property taxes over the next four years.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12144269/calgary-budget-proposes-15-property-tax-increase/",
-   "date": "2026-11-10T17:15:54+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/city-hall-budget00000001.png?w=720&h=480&crop=1",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   }
  ]
 }

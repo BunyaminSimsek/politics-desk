@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T05:25:45+00:00",
+ "generatedAt": "2026-11-13T05:34:48+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-   "date": "2026-11-13T05:05:47+00:00",
+   "date": "2026-11-13T05:22:37+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [
@@ -272,6 +272,21 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-13T04:58:38+00:00"
+  },
+  {
+   "id": "f268344471f29955",
+   "title": "US Senator Chris Van Hollen seeks to lead Democrats: Who is he?",
+   "summary": "Van Hollen is known for his anti-war positions and championing progressive causes.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
+   "date": "2026-11-13T04:28:45+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T05:34:48+00:00"
   },
   {
    "id": "c1376462665d6aad",

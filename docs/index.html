@@ -152,6 +152,21 @@ body.view-full #beatsToggle, body.view-full #beatsPanel { display: none; }
 .item.lead h3 { font-size: 34px; line-height: 1.12; letter-spacing: -0.01em; }
 .item.lead p { font-size: 17px; color: var(--ink); -webkit-line-clamp: 5; }
 
+/* Photos: the outlet's own image, consistent crops, credit always shown */
+.ph-wrap { margin: 0 0 4px; }
+.ph { overflow: hidden; background: var(--tint); border-radius: 2px; }
+.ph img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
+.ph.r169 { aspect-ratio: 16 / 9; }
+.ph.r43 { aspect-ratio: 4 / 3; }
+.ph.r11 { aspect-ratio: 1 / 1; }
+.ph-wrap figcaption { margin-top: 6px; font: 400 12.5px/1.45 var(--font-body); color: var(--slate-text); }
+.ph-wrap .credit { font: 500 11px var(--font-mono); letter-spacing: .02em; }
+.region.compact .item.has-photo .body { grid-template-columns: minmax(0, 1fr) 88px; column-gap: 14px; }
+.region.compact .item.has-photo .ph-wrap { grid-column: 2; grid-row: 1 / span 4; margin: 0; }
+.region.compact .item.has-photo .body > :not(.ph-wrap) { grid-column: 1; }
+.region.compact .ph-wrap figcaption .cap { display: none; }
+.region.compact .ph-wrap figcaption { font-size: 10px; line-height: 1.3; }
+
 /* Compact headline lists */
 .region.compact .item p, .region.compact .item .actions, .region.compact .item .dek { display: none; }
 .region.compact .item h3 { font-size: 18px; }
@@ -429,15 +444,41 @@ function dedupe(list) {
   return out;
 }
 
-function cardHTML(a, others, lead) {
+function photoHTML(a, kind) {
+  if (!kind || !a.image || !a.image.url) return "";
+  const im = a.image;
+  const credit = im.credit ? (/^(photo|photograph|image)/i.test(im.credit) ? im.credit : "Photo: " + im.credit) : "Image via " + a.source;
+  return `<figure class="ph-wrap"><div class="ph ${kind}"><img src="${esc(safeUrl(im.url))}" alt="${esc(im.caption || "")}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.closest('figure').remove()"></div><figcaption>${im.caption ? `<span class="cap">${esc(im.caption)}</span> ` : ""}<span class="credit">${esc(credit)}</span></figcaption></figure>`;
+}
+
+// Roughly 45% of cards in a group get a photo: the lead first, then spread evenly; never the same image twice on a page.
+let seenImgs = new Set();
+function photoKinds(xs, opts) {
+  const kinds = xs.map(() => null);
+  const cands = xs.map((x, k) => k).filter(k => xs[k].a.image && xs[k].a.image.url && !seenImgs.has(xs[k].a.image.url));
+  let need = Math.round(xs.length * 0.45);
+  if (opts.lead && cands[0] === 0) { kinds[0] = "r169"; seenImgs.add(xs[0].a.image.url); cands.shift(); need--; }
+  if (need > 0 && cands.length) {
+    const step = Math.max(1, cands.length / need);
+    for (let i = 0; i < need && Math.floor(i * step) < cands.length; i++) {
+      const k = cands[Math.floor(i * step)];
+      if (seenImgs.has(xs[k].a.image.url)) continue;
+      kinds[k] = opts.compact ? "r11" : "r43"; seenImgs.add(xs[k].a.image.url);
+    }
+  }
+  return kinds;
+}
+
+function cardHTML(a, others, lead, photo) {
   const t = topicById[a.topic] || { label: a.topic, region: a.region };
   const top = beatsOf(a).filter(b => topicById[b]).sort((x, y) => (state.clicks[y] || 0) - (state.clicks[x] || 0))[0];
   const reason = state.view === "foryou" && top && (state.clicks[top] || 0) >= 2 ? `<span class="why">Because you read ${esc(topicById[top].label)}</span>` : "";
   const also = others && others.length ? `<details class="also"><summary>Also covered by ${others.length} more outlet${others.length > 1 ? "s" : ""}</summary><ul>${others.map(o => `<li><a href="${esc(safeUrl(o.url))}" target="_blank" rel="noopener" data-open="${esc(o.id)}"><b>${esc(o.source)}</b> · ${esc(cleanTitle(o.title))}</a></li>`).join("")}</ul></details>` : "";
   const flags = (a.breaking ? '<span class="pill brk">Breaking</span>' : "") + (isNew(a) ? '<span class="pill new">New</span>' : "");
-  return `<article class="item${lead ? " lead" : ""}${a.breaking ? " is-breaking" : ""}${state.read.has(a.id) ? " read" : ""}" data-id="${esc(a.id)}">
+  return `<article class="item${lead ? " lead" : ""}${photo ? " has-photo" : ""}${a.breaking ? " is-breaking" : ""}${state.read.has(a.id) ? " read" : ""}" data-id="${esc(a.id)}">
       <div class="stripe"></div>
       <div class="body">
+        ${photoHTML(a, photo)}
         ${flags ? `<div class="flags">${flags}</div>` : ""}
         <h3><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener" data-open="${esc(a.id)}">${esc(cleanTitle(a.title))}</a></h3>
         ${!lead && isVague(a) && dek(a) ? `<div class="dek">${esc(dek(a))}</div>` : ""}
@@ -456,7 +497,7 @@ function cardHTML(a, others, lead) {
     </article>`;
 }
 
-const section = (title, xs, id, opts = {}) => `<section class="region${opts.compact ? " compact" : ""}"${id ? ` id="sec-${id}"` : ""}><h3 class="sec-head">${esc(title)} <span>${opts.total ?? xs.length}</span></h3><div class="cards">${xs.map((x, k) => cardHTML(x.a, x.others, opts.lead && k === 0)).join("")}</div>${opts.after || ""}</section>`;
+const section = (title, xs, id, opts = {}) => `<section class="region${opts.compact ? " compact" : ""}"${id ? ` id="sec-${id}"` : ""}><h3 class="sec-head">${esc(title)} <span>${opts.total ?? xs.length}</span></h3><div class="cards">${((kinds) => xs.map((x, k) => cardHTML(x.a, x.others, opts.lead && k === 0, kinds[k])).join(""))(photoKinds(xs, opts))}</div>${opts.after || ""}</section>`;
 
 function renderFeed() {
   const titles = { foryou: "For you", world: "World", local: "Local", saved: "Saved" };
@@ -470,6 +511,7 @@ function renderFeed() {
     return;
   }
   const items = dedupe(list);
+  seenImgs = new Set();
   let html = "";
   if (state.view === "world" || state.view === "local") {
     const groups = TOPICS.filter(t => t.region === state.view)
@@ -491,7 +533,8 @@ function renderFeed() {
     if (fresh.length) html += section("New since your last visit", fresh);
     if (more.length) html += section("More for you", more, null, { compact: true });
   } else {
-    html += `<div class="cards">${items.map(x => cardHTML(x.a, x.others)).join("")}</div>`;
+    const kinds = photoKinds(items, {});
+    html += `<div class="cards">${items.map((x, k) => cardHTML(x.a, x.others, false, kinds[k])).join("")}</div>`;
   }
   feed.innerHTML = html;
 }

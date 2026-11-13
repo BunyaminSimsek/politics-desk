@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T15:09:32+00:00",
+ "generatedAt": "2026-11-13T15:18:48+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 19
+   "kept": 20
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,44 @@
  ],
  "items": [
   {
+   "id": "fa66eb00f7214b61",
+   "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
+   "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+   "date": "2026-11-13T15:08:31+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=700&quality=85&auto=format&fit=max&s=1e6e5641950fef18e184d22f966ec0f0",
+    "credit": "Photograph: Leila Navidi/Minnesota Star Tribune/AP",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T11:21:34+00:00"
+  },
+  {
+   "id": "046d5253f4f3db30",
+   "title": "Right to make green challenges to planning decisions under threat, say UK lawyers",
+   "summary": "Exclusive: Government in ‘private meetings’ about removing cost cap protections under Aarhus convention UK politics live – latest updates The government is considering stripping back legal protections that limit the costs community groups face when…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/13/right-to-make-green-challenges-planning-decisions-under-threat-aarhus-convention",
+   "date": "2026-11-13T15:05:18+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ec50144c076be6077edaa5281a910ff5e7a69163/281_0_4269_3415/master/4269.jpg?width=700&quality=85&auto=format&fit=max&s=5d9540dc8db649f2f7b5a5b1353a4c9b",
+    "credit": "Photograph: Mark Kerrison/Alamy Stock Photo/Alamy Live News.",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T15:18:48+00:00"
+  },
+  {
    "id": "01e16ef627937021",
    "title": "Cop31 live: ‘You cannot build peace on a burning planet’, warns UN chief Guterres in final climate summit speech",
    "summary": "Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit Far away from the conference centre, Norway’s supreme court has declared the state’s decision to award…",
@@ -187,12 +225,48 @@
    "addedAt": "2026-11-13T07:33:23+00:00"
   },
   {
+   "id": "9620d0913ac773d7",
+   "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+   "summary": "Midterm gains give party room to overhaul NDAA funding, including provision to integrate US-Israeli military industries.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+   "date": "2026-11-13T15:02:16+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T15:18:48+00:00"
+  },
+  {
+   "id": "f8b56170157a68e1",
+   "title": "Row breaks out between Tories and Reform at Piddington news conference – UK politics live",
+   "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and cameras Archbishop of Canterbury Sarah Mullally has said “people are seeking meaning, connection and hope in a turbulent world” as new statistics reveal Church of…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+   "date": "2026-11-13T15:01:13+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=700&quality=85&auto=format&fit=max&s=b5874302dea07c19ab4a9d320b0e798b",
+    "credit": "Photograph: Christopher Furlong/Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T10:26:29+00:00"
+  },
+  {
    "id": "0b3759f8bed346b2",
    "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live",
    "summary": "Kaja Kallas warns against agreeing to Russia’s proposed sequence of events on talks on Ukraine Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-   "date": "2026-11-13T14:57:37+00:00",
+   "date": "2026-11-13T15:00:52+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [],
@@ -206,23 +280,23 @@
    "addedAt": "2026-11-13T09:13:24+00:00"
   },
   {
-   "id": "f8b56170157a68e1",
-   "title": "Row breaks out between Tories and Reform at Piddington news conference – UK politics live",
-   "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and cameras Archbishop of Canterbury Sarah Mullally has said “people are seeking meaning, connection and hope in a turbulent world” as new statistics reveal Church of…",
+   "id": "ce1e2bdee87875d1",
+   "title": "Young men were key to the blue wave. Our research offers a reason why | Brigid Schulte and Haley Swenson",
+   "summary": "Amid concerns over the influence of the manosphere, our findings show that young men are concerned about caregiving When young men helped propel Donald Trump into the White House in 2024, the administration doubled down on a brand of toxic masculinity popular…",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-   "date": "2026-11-13T14:39:18+00:00",
-   "topic": "europe",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/13/young-men-us-midterms-democrats",
+   "date": "2026-11-13T15:00:21+00:00",
+   "topic": "us",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=700&quality=85&auto=format&fit=max&s=b5874302dea07c19ab4a9d320b0e798b",
-    "credit": "Photograph: Christopher Furlong/Getty Images",
+    "url": "https://i.guim.co.uk/img/media/990b4dd21a755d253f61427028ca9470b3b96491/908_0_4541_3633/master/4541.jpg?width=700&quality=85&auto=format&fit=max&s=13cdd2e65b94e0ac775c2d5c02e911f1",
+    "credit": "Photograph: Lindsey Wasson/AP",
     "caption": ""
    },
    "breaking": false,
-   "addedAt": "2026-11-13T10:26:29+00:00"
+   "addedAt": "2026-11-13T15:18:48+00:00"
   },
   {
    "id": "c3939474cbddc7ec",
@@ -261,25 +335,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "fa66eb00f7214b61",
-   "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
-   "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Sign up for the Breaking News US email As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "date": "2026-11-13T14:32:14+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=700&quality=85&auto=format&fit=max&s=1e6e5641950fef18e184d22f966ec0f0",
-    "credit": "Photograph: Leila Navidi/Minnesota Star Tribune/AP",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T11:21:34+00:00"
   },
   {
    "id": "80ea855e4de70678",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T00:24:40+00:00",
+ "generatedAt": "2026-11-13T00:33:48+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -234,6 +234,19 @@
    "tags": [],
    "breaking": false,
    "addedAt": "2026-11-13T00:24:40+00:00"
+  },
+  {
+   "id": "ab2ed82485002af5",
+   "title": "Ford government unveils big changes to OSAP. Critics say it offers no help for struggling students",
+   "summary": "Private colleges will be held financially liable for OSAP misuse under proposed legislation to address fraud concerns.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/ford-government-announces-sweeping-changes-to-prevent-osap-misuse/article_d8a1ec43-f2e5-4917-a2f0-1e5759dd44d1.html",
+   "date": "2026-11-12T23:31:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "2cabd5e10d6d2ee0",
@@ -742,19 +755,6 @@
    "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "ab2ed82485002af5",
-   "title": "Ford government announces sweeping changes to prevent OSAP misuse",
-   "summary": "Private career colleges will be held financially liable for OSAP misuse under the Ontario government's new legislation to address fraud concerns.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/ford-government-announces-sweeping-changes-to-prevent-osap-misuse/article_d8a1ec43-f2e5-4917-a2f0-1e5759dd44d1.html",
-   "date": "2026-11-12T16:00:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "3c4d151294ba5e2c",

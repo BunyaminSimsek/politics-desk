@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T16:41:49+00:00",
+ "generatedAt": "2026-11-13T16:51:00+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,29 @@
  ],
  "items": [
   {
+   "id": "139a1145e72fe53e",
+   "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+   "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
+   "date": "2026-11-13T16:44:56+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T16:51:00+00:00"
+  },
+  {
    "id": "fa66eb00f7214b61",
    "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
    "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "date": "2026-11-13T16:24:50+00:00",
+   "date": "2026-11-13T16:43:24+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [],
@@ -185,12 +202,33 @@
    "addedAt": "2026-11-13T11:21:34+00:00"
   },
   {
+   "id": "fa576b987fcbb609",
+   "title": "Chuck Schumer’s challenger for party control underscores Democrats’ ideological rift",
+   "summary": "Senator Chris Van Hollen’s policy credentials allowed his quick rise to roles usually reserved for the more tenured US politics live – latest updates US senator Chris Van Hollen’s challenge to Chuck Schumer ’s leadership of Senate Democrats presents an…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/13/chuck-schumer-democrat-party-control-ideology",
+   "date": "2026-11-13T16:36:45+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/19662f21a15579907c78e129a749b78b5dab0bd6/239_0_2591_2073/master/2591.jpg?width=700&quality=85&auto=format&fit=max&s=b78adbc90ae8d9ddb70bb9f5f727c7d9",
+    "credit": "Photograph: Eric Lee/Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T16:51:00+00:00"
+  },
+  {
    "id": "0b3759f8bed346b2",
    "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live",
    "summary": "Kaja Kallas warns against agreeing to Russia’s proposed sequence of events on talks on Ukraine Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-   "date": "2026-11-13T16:24:34+00:00",
+   "date": "2026-11-13T16:32:57+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [],
@@ -202,6 +240,27 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T09:13:24+00:00"
+  },
+  {
+   "id": "9519d78de0e4d5e3",
+   "title": "California governor Gavin Newsom endorses global fossil fuel phaseout",
+   "summary": "Newsom is the most prominent US politician at Cop31, a process the Trump administration continues to boycott The leader of the world’s fourth biggest economy, California governor Gavin Newsom, has explicitly endorsed a global phase out of the fossil fuels…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/13/california-gavin-newsom-endorses-fossil-fuel-phaseout",
+   "date": "2026-11-13T16:31:28+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/26464f4e00e14d77b322aee1301790796f53c09a/913_0_5921_4738/master/5921.jpg?width=700&quality=85&auto=format&fit=max&s=cc5b83cc68959964f2d5f280cb907f6a",
+    "credit": "Photograph: Chris McGrath/Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T16:51:00+00:00"
   },
   {
    "id": "81c5942015c92fc7",
@@ -240,7 +299,7 @@
   {
    "id": "79db383c394c2f1f",
    "title": "Turkiye and Qatar sign mutual defence agreement",
-   "summary": "The pact was signed after ​President met Qatari Emir Sheikh Tamim ‌bin Hamad ​al-Thani in Istanbul on ⁠Friday.",
+   "summary": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌bin Hamad ​Al Thani in Istanbul on ⁠Friday.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
    "date": "2026-11-13T15:49:51+00:00",

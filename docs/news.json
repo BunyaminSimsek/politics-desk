@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T01:46:59+00:00",
+ "generatedAt": "2026-11-13T01:56:08+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -154,6 +154,54 @@
  ],
  "items": [
   {
+   "id": "47428d78d77c300d",
+   "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
+   "summary": "Longtime Sunni politician and Iran critic was reportedly strangled in Beirut, sparking investigation.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects?traffic_source=rss",
+   "date": "2026-11-13T01:44:55+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T01:56:08+00:00"
+  },
+  {
+   "id": "352810ed479c4243",
+   "title": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+   "summary": "Albania has faced criticism over low defence spending, as Rama is under pressure at home amid months of protests.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
+   "date": "2026-11-13T01:43:17+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T01:56:08+00:00"
+  },
+  {
+   "id": "dc29cf3a466ca0c3",
+   "title": "Trump defends Iran war with familiar lies and deflects blame for midterm losses – US politics live",
+   "summary": "President repeats claims contradicted by US intelligence reports in new interview with sports pundit Stephen A Smith Trump says no deal needed on Iran war and orders Vance to focus on domestic issues Sign up for the Breaking News US email Perhaps you saw this…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+   "date": "2026-11-13T01:35:48+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b73f4b21e6f1cf9caa7aeebef9fcaf3e385aee67/463_0_3595_2875/master/3595.jpg?width=700&quality=85&auto=format&fit=max&s=dd031b5881a7cb91b85393bc15bcba24",
+    "credit": "Photograph: Kevin Dietsch/Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
    "id": "f4e83571e3a82c8f",
    "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
    "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s…",
@@ -172,26 +220,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T00:52:05+00:00"
-  },
-  {
-   "id": "dc29cf3a466ca0c3",
-   "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
-   "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-   "date": "2026-11-13T01:28:40+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=cf35dde3c053ca5edbc3cae059c04a73",
-    "credit": "Photograph: Mark Schiefelbein/AP",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   },
   {
    "id": "8d70abcf1472ecf3",
@@ -606,8 +634,8 @@
   },
   {
    "id": "0574d162f795762e",
-   "title": "Industry minister 'fed up' after meeting with Stellantis, says automaker breached contract",
-   "summary": "Industry Minister Mélanie Joly says she is \"fed up\" with automaker Stellantis after meeting with company representatives on Thursday. The company this week announced its intention to sell its Brampton, Ont., plant to an armoured vehicle manufacturer.",
+   "title": "Feds say Stellantis owes 'hundreds of millions' in subsidies, company offers $24M",
+   "summary": "Automaker Stellantis says it will pay back $24 million in federal subsidies after it announced plans to sell its Brampton, Ont. assembly plant — but Industry Minister Mélanie Joly says the company owes far more than what it is offering.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/resolution-process-terminated-government-stellantis-brampton-plant-9.7419553?cmp=rss",
    "date": "2026-11-12T21:00:00+00:00",

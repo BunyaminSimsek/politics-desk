@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T06:29:38+00:00",
+ "generatedAt": "2026-11-13T06:38:42+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,48 @@
   }
  ],
  "items": [
+  {
+   "id": "de06bec5ec8071c8",
+   "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
+   "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk Nvidia scandal – latest updates Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+   "date": "2026-11-13T06:34:59+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0d3df019313f519170bba84980c64edd12ee84bc/377_159_2717_2174/master/2717.jpg?width=700&quality=85&auto=format&fit=max&s=6e8b65188ea1c948f00426379e855b06",
+    "credit": "Photograph: Manuel Orbegozo/Reuters",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T06:38:42+00:00"
+  },
+  {
+   "id": "f0ede4ad34ecf30a",
+   "title": "Victoria election 2026: Labor and Greens trade accusations of ‘dodgy deals’ as preferences squabble puts key seats on the line",
+   "summary": "Greens retaliate against Labor’s move to run an open ticket in Prahran by leaving the party off how-to-vote cards in 15 seats The Greens have retaliated against Labor’s decision to run an open ticket in a key inner-city seat by refusing to direct preferences…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats",
+   "date": "2026-11-13T06:16:06+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/299ca057bd2e7758beac23346a48b6968734c813/460_0_4600_3680/master/4600.jpg?width=700&quality=85&auto=format&fit=max&s=4501983503b3174a05a69bf74994670a",
+    "credit": "Photograph: Con Chronis/AAP",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T06:38:42+00:00"
+  },
   {
    "id": "f4e83571e3a82c8f",
    "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
@@ -503,7 +545,7 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f44f/live/57b45570-df06-11f1-9f71-7d0084202c8a.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9462/live/a60e9f80-df2b-11f1-a701-fddedf244c16.jpg",
     "credit": "",
     "caption": ""
    },
@@ -1537,6 +1579,25 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-13T02:14:27+00:00"
+  },
+  {
+   "id": "25bb34bd6dbb88b3",
+   "title": "Gun rights groups plot new ties with ‘gun owners who vote Democrat’ after midterms verdict",
+   "summary": "Some advocates say it no longer makes sense for their movement to be so intertwined with the Republican party After the Democrats’ huge wins in the US midterm elections last week, gun rights advocates are updating their strategies in an attempt to cross the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/12/gun-rights-us-midterms-democrats",
+   "date": "2026-11-12T14:00:44+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ed9175b72afe7c2f62d304da75fa5a82bd88bcef/171_0_1707_1366/master/1707.jpg?width=700&quality=85&auto=format&fit=max&s=38b841f87fb06c6ba526b74bb935efc4",
+    "credit": "Photograph: Carlos Barría/Reuters",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T06:38:42+00:00"
   },
   {
    "id": "a32b6f0c29455309",

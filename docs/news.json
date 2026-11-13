@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T10:26:29+00:00",
+ "generatedAt": "2026-11-13T10:35:34+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "59143f34f02f8619",
+   "title": "Hegseth awards medal to soldier who chastised him",
+   "summary": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has given him a medal.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
+   "date": "2026-11-13T10:27:08+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3744+0+0/resize/5616x3744!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2Fed%2F99596a544995adf1bc8bbcbf049e%2Fap26315585433326.jpg",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T10:35:34+00:00"
+  },
+  {
    "id": "01e16ef627937021",
    "title": "Cop31 live: Climate crisis negotiations heat up on fifth day of talks",
    "summary": "Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit The race to electrification has emerged as a key theme of this year’s Cop. Fatih Birol , the executive…",
@@ -185,6 +204,21 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T07:33:23+00:00"
+  },
+  {
+   "id": "2abed8a35a5f6a8d",
+   "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
+   "summary": "Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss",
+   "date": "2026-11-13T10:11:38+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T10:35:34+00:00"
   },
   {
    "id": "0b3759f8bed346b2",

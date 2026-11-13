@@ -182,6 +182,57 @@ def child_text(el, *names):
     return ""
 
 
+MEDIA_NS = "{http://search.yahoo.com/mrss/}"
+
+
+def find_image(el, raw_html):
+    """The outlet's own photo for this item, with credit and caption when the feed gives them."""
+    best = None
+    item_credit = ""
+
+    def consider(url, w=0, credit="", caption=""):
+        nonlocal best
+        url = (url or "").strip()
+        if not url.startswith("http") or re.search(r"logo|\.gif(\?|$)|pixel|1x1", url, re.I):
+            return
+        w = int(w) if str(w).isdigit() else 0
+        if 0 < w < 200:
+            return
+        if best is None or w > best["w"]:
+            best = {"url": url, "w": w, "credit": credit, "caption": caption}
+
+    for c in el:
+        if c.tag.startswith(MEDIA_NS) and local_name(c.tag) == "credit" and (c.text or "").strip():
+            item_credit = clean(c.text)
+    for c in el.iter():
+        name = local_name(c.tag)
+        if c.tag.startswith(MEDIA_NS) and name in ("content", "thumbnail"):
+            typ, medium = c.get("type", ""), c.get("medium", "")
+            if name == "content" and (typ or medium) and not (typ.startswith("image") or medium == "image"):
+                continue
+            credit = caption = ""
+            for g in c:
+                ln = local_name(g.tag)
+                if ln == "credit":
+                    credit = clean(g.text)
+                elif ln in ("description", "title") and not caption:
+                    caption = clean(g.text)
+            consider(c.get("url"), c.get("width", 0), credit, caption)
+        elif name == "enclosure" and c.get("type", "").startswith("image"):
+            consider(c.get("url"))
+    if best is None:
+        m = re.search(r"<img[^>]+src=[\"']([^\"']+)", raw_html or "")
+        if m:
+            consider(html.unescape(m.group(1)))
+    if best is None:
+        return None
+    url = re.sub(r"(ichef\.bbci\.co\.uk/(?:ace|news)/(?:standard|ws)/)\d+/", r"\g<1>800/", best["url"])
+    caption = best["caption"]
+    if caption and len(caption) > 160:
+        caption = shorten(caption, 160)
+    return {"url": url, "credit": best["credit"] or item_credit, "caption": caption}
+
+
 def parse_feed(xml_bytes):
     """Return list of dicts with title, link, summary, date from RSS or Atom."""
     root = ET.fromstring(xml_bytes)
@@ -198,10 +249,12 @@ def parse_feed(xml_bytes):
                     if c.get("rel", "alternate") == "alternate":
                         link = c.get("href")
                         break
+        raw = child_text(el, "description", "summary", "content") + " " + child_text(el, "encoded")
         summary = clean(child_text(el, "description", "summary", "content"))
         date = parse_date(child_text(el, "pubDate", "published", "updated", "date"))
         if title and link.startswith("http"):
-            out.append({"title": title, "link": link, "summary": summary, "date": date})
+            out.append({"title": title, "link": link, "summary": summary, "date": date,
+                        "image": find_image(el, raw)})
     return out
 
 
@@ -333,6 +386,7 @@ def build(feed_results, previous, now):
                 "topic": topic,
                 "region": region,
                 "tags": tags,
+                "image": p.get("image") or prev_by_id.get(iid, {}).get("image"),
                 "breaking": False,
                 "addedAt": prev_by_id.get(iid, {}).get("addedAt", now.isoformat()),
             }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T17:00:12+00:00",
+ "generatedAt": "2026-11-13T17:09:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -89,7 +89,7 @@
    "source": "NPR",
    "url": "https://feeds.npr.org/1014/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,63 @@
  ],
  "items": [
   {
+   "id": "c525c341d288a543",
+   "title": "The Trump administration's voter roll crusade could continue",
+   "summary": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+   "date": "2026-11-13T17:00:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6903x4560+0+0/resize/6903x4560!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fdd%2F1b4c60f94f53a919c64962a66656%2Fgettyimages-2303720039.jpg",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T17:09:20+00:00"
+  },
+  {
+   "id": "4dd60471ad16d8b0",
+   "title": "Quebec won't talk independence at Francophonie summit, minister says",
+   "summary": "PHNOM PENH - The new Parti Québécois government won't be discussing independence at the Francophonie Summit which starts Sunday in Phnom Penh, Cambodia.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/quebec/quebec-won-t-talk-independence-at-francophonie-summit-minister-says/article_9da3f53c-49f1-5209-a495-86c346d3acf1.html",
+   "date": "2026-11-13T16:56:09+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/aa/8aac8e54-c0fd-512f-8b65-2bc6c27112f4/6af742247b8fa.image.jpg?resize=300%2C224",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T17:09:20+00:00"
+  },
+  {
+   "id": "fa66eb00f7214b61",
+   "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
+   "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+   "date": "2026-11-13T16:47:02+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=700&quality=85&auto=format&fit=max&s=1e6e5641950fef18e184d22f966ec0f0",
+    "credit": "Photograph: Leila Navidi/Minnesota Star Tribune/AP",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T11:21:34+00:00"
+  },
+  {
    "id": "139a1145e72fe53e",
    "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
    "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
@@ -181,25 +238,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-13T16:51:00+00:00"
-  },
-  {
-   "id": "fa66eb00f7214b61",
-   "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
-   "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "date": "2026-11-13T16:43:24+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=700&quality=85&auto=format&fit=max&s=1e6e5641950fef18e184d22f966ec0f0",
-    "credit": "Photograph: Leila Navidi/Minnesota Star Tribune/AP",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T11:21:34+00:00"
   },
   {
    "id": "d52444b99fb9fa3e",
@@ -331,6 +369,25 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-13T16:41:49+00:00"
+  },
+  {
+   "id": "adb8db7024412cdc",
+   "title": "Democratic Senate leader Schumer set to face leadership challenge",
+   "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T15:48:07+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T17:09:20+00:00"
   },
   {
    "id": "e06ab8319471733d",
@@ -4564,44 +4621,6 @@
    "kind": "news",
    "image": {
     "url": "https://globalnews.ca/wp-content/uploads/2026/11/city-hall-budget00000001.png?w=720&h=480&crop=1",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "ef57a426da2eaa60",
-   "title": "Israel's new parliament sworn in as leaders compete to form government",
-   "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T17:03:16+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "8fcaa884ba299d2e",
-   "title": "Stellantis auto plant closure in Brampton a 'betrayal' to all Canadians, Carney says",
-   "summary": "Prime Minister Mark Carney said automaker Stellantis shuttering its plant in Brampton, Ont., is \"unacceptable\" and a betrayal to the country.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/stellantis-poilievre-joly-job-fire-9.7416427?cmp=rss",
-   "date": "2026-11-10T17:02:56+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.cbc.ca/ais/ac5e79bb-6e1f-4a61-aa97-85c873b6840f,1794334779062/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C64%2C3800%2C2137%29%3B",
     "credit": "",
     "caption": ""
    },

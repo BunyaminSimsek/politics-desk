@@ -195,6 +195,75 @@ a{color:inherit}
 #start,#done{overflow-y:auto}
 .center{flex-direction:column;align-items:center;justify-content:center;gap:16px;text-align:center;padding:24px}
 
+.today-list:empty{display:none}
+
+/* ---------- wide screens: same stage, same parts, about two thirds of the screen ---------- */
+@media (min-width:1100px){
+  #app{width:clamp(900px,66.6vw,1400px);max-width:none;height:min(940px,94dvh)}
+  .navy{padding:32px 56px 36px}
+  .light{padding:32px 56px 36px}
+
+  /* start: headline + button on the left, today's list on the right */
+  #start.on{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:72px;grid-template-rows:auto 1fr auto auto auto auto auto auto auto 1fr}
+  #start .bar{grid-column:1/-1;grid-row:1}
+  #start.on:has(#startList:empty){grid-template-columns:minmax(0,1fr)}
+  #start:has(#startList:empty) #startTitle{font-size:clamp(52px,4.4vw,72px)}
+  #start .start-body{display:contents}
+  #startDate{grid-column:1;grid-row:3}
+  #startTitle{grid-column:1;grid-row:4;margin:14px 0}
+  #startLede{grid-column:1;grid-row:5}
+  #startGoal{grid-column:1;grid-row:6;margin-top:18px}
+  #startBtn{grid-column:1;grid-row:7;margin-top:28px;max-width:420px}
+  #startFoot{grid-column:1;grid-row:8;text-align:left;max-width:420px}
+  #start .js-all{grid-column:1;grid-row:9;justify-self:start;margin:8px 0 0;padding:6px 0}
+  #startList{grid-column:2;grid-row:3/10;align-self:center;margin:0}
+  .big.topic{font-size:clamp(44px,3.6vw,60px)}
+  .kicker-dark{font-size:17px}
+  .lede-dark{font-size:20px}
+  .goal{font-size:17px}
+  .today-list li{font-size:18px;padding:16px 0;gap:16px}
+  .today-list li span{font-size:13px;padding-top:4px}
+
+  /* stories: photo on the left, the white sheet on the right */
+  .photo{right:auto;bottom:0;width:56%;height:100%}
+  .sheet{top:0;left:calc(56% - 24px);border-radius:24px 0 0 24px;padding:64px 52px 0;gap:16px}
+  .meta{font-size:14px}
+  .title{font-size:clamp(30px,2.5vw,40px);-webkit-line-clamp:5}
+  .summary{font-size:18px;line-height:1.55;-webkit-line-clamp:8}
+  .why{font-size:16px;padding:16px 18px}
+  .pills a{font-size:13px;padding:6px 12px}
+  .next{font-size:14px;min-height:56px;padding-bottom:12px}
+  .credit{bottom:18px;left:18px;font-size:11px}
+  .actions{top:auto;bottom:18px;right:calc(44% + 42px);flex-direction:row}
+  .sheet::before{content:"";flex:.55}
+  .rail{left:18px;top:24px}
+  .hint{left:70px;top:90px}
+  .streak-chip{right:22px;top:22px}
+
+  /* question: centred column */
+  #question .q-title,#qOpts,#qNote,#qFinish{width:100%;max-width:680px;margin-left:auto;margin-right:auto}
+  #question .q-title{font-size:38px;margin-top:56px}
+
+  /* done: streak on the left, badges on the right */
+  #done .done-body{flex:1;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:64px;align-content:center;align-items:center;justify-items:center;padding-top:0}
+  #done .done-body>*{grid-column:1}
+  #done .panel{grid-column:2;grid-row:1/span 7;margin-top:0;padding:22px 24px;gap:14px}
+  #done .grow{flex:0}
+  #done .ghost{max-width:360px;margin-left:auto;margin-right:auto}
+  .count b{font-size:104px}
+  .week{max-width:420px}
+
+  /* all stories: wider header, two columns of stories */
+  .all-head{padding:28px 40px 14px}
+  .all-top h1{font-size:30px}
+  .filters{margin:0 -40px;padding:0 40px 2px}
+  .all-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-content:start;gap:1px;background:#E7EAEF;padding:1px 0 24px}
+  .item{border-bottom:0;padding:18px 24px}
+  .item .thumb{width:96px;height:96px}
+  .item h2{font-size:19px}
+  .empty{grid-column:1/-1;background:var(--paper)}
+}
+
 @media (prefers-reduced-motion:reduce){
   .card,.count,.track i,.rail i{transition:none}
   .phone i{animation:none;opacity:1}

@@ -267,8 +267,9 @@ a{color:inherit}
     if (gap === 2) { const missed = isoOf(dayNum(today) - 1); if (!s.shields[weekKey(missed)]) return s.streak; }
     return 0;
   }
-  function complete(s, day, bonus) {
-    if (s.last === day) return {s, gained: 0, used: false};
+  function complete(s, day, bonus, edKey) {
+    // A day counts once for the streak; a second edition on the same day is still marked as read.
+    if (s.last === day) { s.lastEd = edKey; store.set('pd:streak', s); return {s, gained: 0, used: false}; }
     let used = false;
     const gap = s.last ? dayNum(day) - dayNum(s.last) : 99;
     if (gap === 1) s.streak += 1;
@@ -276,6 +277,7 @@ a{color:inherit}
     else if (gap > 0) s.streak = 1;
     else return {s, gained: 0, used: false}; // an older edition: no change
     s.last = day;
+    s.lastEd = edKey;
     s.best = Math.max(s.best, s.streak);
     const gained = 50 + (bonus || 0);
     s.score += gained;
@@ -302,13 +304,14 @@ a{color:inherit}
     const live = liveStreak(s, now.date);
     setStreakChips(live);
     const isToday = ed.date === now.date;
-    const doneToday = s.last === ed.date;
+    const doneToday = s.lastEd === ed.publishedAt; // finished THIS edition (not just this date)
+    const countedToday = s.last === ed.date;
     $('startDate').textContent = isToday ? `${longDate(ed.date)} · 3‑minute briefing` : `${longDate(ed.date)} · new briefing at 7:00`;
     const places = [...new Set(ed.stories.map((x) => PLACE_NAME[x.place] || x.place))];
     $('startTitle').textContent = doneToday ? "You're all caught up." : `Your daily briefing on ${listJoin(places)}.`;
     $('startLede').textContent = doneToday ? 'Your next briefing arrives at 7:00 a.m.' : `${total} stories${hasQ ? ', 1 question' : ''}. Then you're done for today.`;
     $('startList').innerHTML = doneToday ? '' : ed.stories.map((x, i) => `<li><span>${i + 1}</span><b>${esc(x.title)}</b></li>`).join('');
-    $('startGoal').textContent = doneToday ? '' : (live > 0 ? `Finish today to reach a ${live + 1}‑day streak` : 'Finish today to start your streak');
+    $('startGoal').textContent = doneToday ? '' : countedToday ? 'Today already counts toward your streak' : (live > 0 ? `Finish today to reach a ${live + 1}‑day streak` : 'Finish today to start your streak');
     $('startBtn').textContent = doneToday ? 'See my streak' : 'Start';
 
     $('cards').innerHTML = ed.stories.map((st, i) => {
@@ -370,8 +373,9 @@ a{color:inherit}
   function finish() {
     const bonus = hasQ && answer === ed.question.answer ? 20 : 0;
     const before = loadStreak();
+    const already = before.lastEd === ed.publishedAt;
     const beforeLive = liveStreak(before, torontoParts().date);
-    const {s, gained, used} = complete(before, ed.date, bonus);
+    const {s, gained, used} = complete(before, ed.date, bonus, ed.publishedAt);
     const now = torontoParts();
     const live = liveStreak(s, now.date) || s.streak;
     show('done');
@@ -379,7 +383,7 @@ a{color:inherit}
     count.classList.remove('pop');
     $('countNum').textContent = gained ? beforeLive : live;
     setTimeout(() => { $('countNum').textContent = live; count.classList.add('pop'); setStreakChips(live); }, gained ? 450 : 0);
-    $('doneKicker').textContent = gained ? "You're done for today" : "You've already finished this briefing";
+    $('doneKicker').textContent = already ? "You've already finished this briefing" : "You're done for today";
     // week strip, Monday first
     const mon = dayNum(weekKey(now.date));
     const days = new Set(s.days);
@@ -420,7 +424,7 @@ a{color:inherit}
   setInterval(() => { if ($('done').classList.contains('on')) tick(); }, 30000);
 
   // ---------- input ----------
-  $('startBtn').addEventListener('click', () => { const s = loadStreak(); if (s.last === ed.date) { step = total + (hasQ ? 1 : 0) + 1; finish(); } else go(1); });
+  $('startBtn').addEventListener('click', () => { const s = loadStreak(); if (s.lastEd === ed.publishedAt) { step = total + (hasQ ? 1 : 0) + 1; finish(); } else go(1); });
   $('upBtn').addEventListener('click', () => go(step - 1));
   $('downBtn').addEventListener('click', () => go(step + 1));
   $('qBack').addEventListener('click', () => go(total));

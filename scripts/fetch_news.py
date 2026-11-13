@@ -529,6 +529,7 @@ def _pick_edition(items, now, today, after_seven, seen_before):
     return {
         "date": today,
         "publishedAt": now.isoformat(),
+        "editionHour": EDITION_HOUR,  # the page reads this for its "next briefing at" times
         "early": not after_seven,
         "stories": stories,
         "question": None,  # phase 2

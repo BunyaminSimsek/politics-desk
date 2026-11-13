@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T05:16:43+00:00",
+ "generatedAt": "2026-11-13T05:25:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,27 @@
  ],
  "items": [
   {
+   "id": "f4e83571e3a82c8f",
+   "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
+   "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+   "date": "2026-11-13T05:05:47+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=700&quality=85&auto=format&fit=max&s=af29a36258830b2a92a63428efe21d1d",
+    "credit": "Photograph: Chesnot/Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T00:52:05+00:00"
+  },
+  {
    "id": "32abfda572c1f8c3",
    "title": "More than 60% of Germany’s female soldiers report harassment or abuse",
    "summary": "Defence minister says extent of sexual misconduct found by study is ‘unacceptable’, as military tries to attract more recruits Germany’s defence minister has promised a “zero tolerance” approach to sexual abuse in the armed forces after a study found…",
@@ -185,27 +206,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T05:07:40+00:00"
-  },
-  {
-   "id": "f4e83571e3a82c8f",
-   "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
-   "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-   "date": "2026-11-13T04:53:23+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=700&quality=85&auto=format&fit=max&s=af29a36258830b2a92a63428efe21d1d",
-    "credit": "Photograph: Chesnot/Getty Images",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T00:52:05+00:00"
   },
   {
    "id": "3e54cb131938df2a",
@@ -3942,25 +3942,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "bd0382d1c3586a96",
-   "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-   "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T05:22:39+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c11d/live/472ca6e0-dcc6-11f1-a594-d13718d7f889.jpg",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   }
  ]
 }

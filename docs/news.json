@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T21:16:36+00:00",
+ "generatedAt": "2026-11-13T21:25:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "Global News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 19
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,23 @@
  ],
  "items": [
   {
+   "id": "ce102f8369e93f4f",
+   "title": "Latino voters help fuel Kansas' blue wave",
+   "summary": "In southwest Kansas, three majority-Latino counties shocked the political establishment by going blue for the first time in decades. Voters and activists say immigration enforcement was a big factor.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6037541/latino-voters-help-fuel-kansas-blue-wave",
+   "date": "2026-11-13T21:13:38+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T21:25:50+00:00"
+  },
+  {
    "id": "b1c0300955a89384",
    "title": "DEM SENATE LEADER FIGHT",
    "summary": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.",
@@ -186,7 +203,7 @@
    "summary": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "date": "2026-11-13T20:57:46+00:00",
+   "date": "2026-11-13T21:02:42+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -1547,6 +1564,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T10:08:15+00:00"
+  },
+  {
+   "id": "07709d63df238726",
+   "title": "Rachel Maddow says the Justice Department is collapsing. Can it be saved?",
+   "summary": "Was the Justice Department ever really above politics? Rachel Maddow digs into its surprising past to explain why she believes its future is at stake.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-5826935/rachel-maddow-department-of-fate",
+   "date": "2026-11-13T09:43:57+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4823x3156+0+0/resize/4823x3156!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2Ff4%2F67aab4a34204b2196c8b39dc7484%2Fap25316041198641.jpg",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T21:25:50+00:00"
   },
   {
    "id": "4074c4bb1876b45a",
@@ -4627,44 +4663,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "70b57ef97c80babd",
-   "title": "First day of Ukraine peace talks constructive, Zelensky says",
-   "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T21:21:55+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "d9054120cc6785e3",
-   "title": "Why Canada is budgeting for extreme earthquake preparedness",
-   "summary": "Prime Minister Mark Carney's second budget proposal aims to help Canadians prepare for the possibility of a major earthquake.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/extreme-earthquake-insurance-canada-budget-9.7415611?cmp=rss",
-   "date": "2026-11-10T21:16:39+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.cbc.ca/ais/b9c206d3-4193-4197-b299-39a89bacac0c,1794344395553/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C338%2C6500%2C3656%29%3B",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   }
  ]
 }

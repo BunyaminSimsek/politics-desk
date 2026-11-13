@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T17:55:08+00:00",
+ "generatedAt": "2026-11-13T18:04:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,44 @@
  ],
  "items": [
   {
+   "id": "37ba6d071f77ab7b",
+   "title": "The Guardian view on press freedom: authoritarians target journalism because it matters | Editorial",
+   "summary": "From Cairo to Moscow to Washington, governments are turning up the pressure on media workers Lina Attalah is an influential Egyptian journalist. Yet until last month, even she was unaware of a major and concerning piece of news: her own conviction. In 2024, a…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-press-freedom-authoritarians-target-journalism-because-it-matters",
+   "date": "2026-11-13T18:01:46+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/62938400271e1c2d5fb9106df866448f00e04d07/404_0_4038_3230/master/4038.jpg?width=700&quality=85&auto=format&fit=max&s=6efe95018a7ed3324d8533d51266ba56",
+    "credit": "Photograph: AP",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T18:04:17+00:00"
+  },
+  {
+   "id": "fa66eb00f7214b61",
+   "title": "Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live",
+   "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+   "date": "2026-11-13T17:55:03+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=700&quality=85&auto=format&fit=max&s=1e6e5641950fef18e184d22f966ec0f0",
+    "credit": "Photograph: Leila Navidi/Minnesota Star Tribune/AP",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T11:21:34+00:00"
+  },
+  {
    "id": "8d4419d1ea64b657",
    "title": "Why the Nvidia scandal is far from over – The Latest",
    "summary": "Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism…",
@@ -183,25 +221,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T17:55:08+00:00"
-  },
-  {
-   "id": "fa66eb00f7214b61",
-   "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
-   "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "date": "2026-11-13T17:43:10+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=700&quality=85&auto=format&fit=max&s=1e6e5641950fef18e184d22f966ec0f0",
-    "credit": "Photograph: Leila Navidi/Minnesota Star Tribune/AP",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T11:21:34+00:00"
   },
   {
    "id": "8e5bdb4fe467df5c",

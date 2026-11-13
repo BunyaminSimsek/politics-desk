@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T18:04:17+00:00",
+ "generatedAt": "2026-11-13T18:13:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,25 @@
   }
  ],
  "items": [
+  {
+   "id": "c6b7d9e4f92cb9d7",
+   "title": "Feds, Ontario offering Stellantis 'aggressive package' to keep Brampton auto plant open",
+   "summary": "The federal and Ontario governments are mounting a last-ditch effort to save the Stellantis auto plant in Brampton by pitching the company possible survival \"scenarios\" and offering an \"aggressive package\" of support to make it happen.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/joly-fedeli-stellantis-brampton-plant-package-9.7420849?cmp=rss",
+   "date": "2026-11-13T18:04:27+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/d39dd66c-98b9-496d-b996-d5d9ca6b97b0,1794591992850/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C104%2C3500%2C1968%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T18:13:25+00:00"
+  },
   {
    "id": "37ba6d071f77ab7b",
    "title": "The Guardian view on press freedom: authoritarians target journalism because it matters | Editorial",
@@ -225,7 +244,7 @@
   {
    "id": "8e5bdb4fe467df5c",
    "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
-   "summary": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptions Microsoft outage – live updates Vital UK services including hospitals and police have been hit by a global Microsoft outage that left NHS…",
+   "summary": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptions Microsoft outage – live updates Vital UK services have been hit by a global Microsoft outage that left hospital staff resorting to paper…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
    "date": "2026-11-13T17:37:44+00:00",
@@ -4611,44 +4630,6 @@
    "kind": "news",
    "image": {
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/c2/ac22f4f6-e65d-57d4-9088-ac51d544586e/6af354d66f159.image.jpg?resize=300%2C200",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "2f646ffd8460f16a",
-   "title": "Carney to raise issue of foreign interference with Chinese President Xi next week",
-   "summary": "OTTAWA - Prime Minister Mark Carney said Tuesday he will raise concerns about foreign interference in Canada when he meets next week with Chinese President Xi Jinping.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/carney-to-meet-with-chinese-president-xi-jinping-next-week/article_c3a9a75f-1573-5ad0-a8a9-802af3ca4943.html",
-   "date": "2026-11-10T18:08:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/12/d12e84a0-7fff-5cb4-80e1-9b7f65f38afd/6af35e087ff03.image.jpg?resize=300%2C229",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "22be6c429b1a194f",
-   "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
-   "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T18:04:18+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d932/live/81424720-dd2c-11f1-ab46-9fae224bbf6f.jpg",
     "credit": "",
     "caption": ""
    },

@@ -2,8 +2,8 @@ name: Update news
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes (GitHub may start it a few minutes late)
-  workflow_dispatch:          # lets you run it by hand from the Actions tab
+    - cron: "4-59/10 * * * *"   # backup timer, every 10 minutes (GitHub may run it late)
+  workflow_dispatch:            # also how each run starts the next one
   push:
     branches: [main]
 
@@ -11,6 +11,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  actions: write
 
 concurrency:
   group: update-news
@@ -51,3 +52,17 @@ jobs:
 
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  next:
+    # Starts the next update about 10 minutes from now, so updates keep coming
+    # even when GitHub's own timer is late. Runs even if the update above failed.
+    needs: update
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait, then start the next update
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 510
+          gh workflow run update-news.yml --repo "$GITHUB_REPOSITORY" --ref main

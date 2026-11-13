@@ -136,6 +136,13 @@ a{color:inherit}
 .start-links{display:flex;justify-content:center;gap:4px 16px;flex-wrap:wrap}
 .start-links .linkish{margin:0}
 .reread-note a{color:inherit}
+.pick-card{display:block;width:100%;margin:0 0 18px;padding:14px 16px;border-radius:16px;background:#fff;color:var(--ink);text-decoration:none;text-align:left}
+.pick-card[hidden]{display:none}
+.pick-card .pk{margin:0;font-size:11px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:var(--signal)}
+.pick-card .pt{margin:6px 0 0;font-family:var(--serif);font-weight:700;font-size:19px;line-height:1.2}
+.pick-card .pd{margin:6px 0 0;font-size:14px;line-height:1.4;color:var(--muted)}
+.pick-card .pm{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:10px;font-size:12px;color:var(--muted)}
+.pick-card .pm b{font-size:14px;color:var(--ink)}
 .reread-note{margin:8px 0 0;text-align:center;font-size:12px;color:var(--muted-dark)}
 .next{display:flex;align-items:center;gap:8px;min-height:46px;padding-bottom:env(safe-area-inset-bottom);border-top:1px solid #EDEFF3;font-size:13px;color:var(--muted)}
 .next span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -296,6 +303,9 @@ a{color:inherit}
   /* done: streak on the left, badges on the right */
   #done .done-body{flex:1;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:64px;align-content:center;align-items:center;justify-items:center;padding-top:0}
   #done .done-body>*{grid-column:1}
+  #done .pick-card{grid-column:1/-1;grid-row:1;max-width:720px;justify-self:center;margin-bottom:28px}
+  #done .pick-card:not([hidden]) ~ .panel{grid-row:2/span 7}
+  .pick-card .pt{font-size:22px}
   #done .panel{grid-column:2;grid-row:1/span 7;margin-top:0;padding:22px 24px;gap:14px}
   #done .grow{flex:0}
   #done .done-actions{max-width:560px;margin-left:auto;margin-right:auto}
@@ -361,7 +371,7 @@ a{color:inherit}
     </div>
     <button class="cta" id="startBtn">Start</button>
     <p class="foot-dark" id="startFoot">Swipe up, or use the arrows on the left</p>
-    <div class="start-links"><button class="linkish js-all" type="button">Browse all stories</button><a class="linkish" href="briefing/">Past briefings</a><a class="linkish" href="about/">About</a></div>
+    <div class="start-links"><button class="linkish js-all" type="button">Browse all stories</button><a class="linkish" href="pick/" id="pickLink">Editor's pick</a><a class="linkish" href="briefing/">Past briefings</a><a class="linkish" href="about/">About</a></div>
   </section>
 
   <section class="screen" id="stories" aria-roledescription="carousel" aria-label="Today's stories">
@@ -394,6 +404,12 @@ a{color:inherit}
 
   <section class="screen navy" id="done">
     <div class="done-body">
+      <a class="pick-card" id="pickCard" href="pick/" hidden>
+        <p class="pk">Today’s Editor’s Pick<span id="pickTopic"></span></p>
+        <p class="pt" id="pickTitle"></p>
+        <p class="pd" id="pickDek"></p>
+        <div class="pm"><span id="pickMeta">AI-written report</span><b>Read →</b></div>
+      </a>
       <p class="unlock" id="unlock"></p>
       <p class="kicker-dark" id="doneKicker" tabindex="-1" style="margin-bottom:10px">You're done for today</p>
       <div class="count" id="count"><svg viewBox="0 0 24 24" fill="#E0646A" aria-hidden="true"><path d="M12 3c1 3 5 5 5 10a5 5 0 0 1-10 0c0-2 1-3.5 2-4.5.3 1.5 1.2 2.5 2.2 2.5C11 8 11.5 5.5 12 3z"/></svg><b id="countNum">0</b></div>
@@ -969,6 +985,21 @@ a{color:inherit}
     if (['ArrowUp', 'ArrowLeft', 'PageUp'].includes(e.key)) { e.preventDefault(); go(step - 1); }
   });
 
+  // ---------- Editor's Pick ----------
+  // Shown at the end of the briefing when the approved pick is for the same day as the edition.
+  let pick = null;
+  function showPick() {
+    const on = !!(pick && ed && pick.date === ed.date);
+    $('pickCard').hidden = !on;
+    if (pick) $('pickLink').href = pick.url;
+    if (!on) return;
+    $('pickCard').href = pick.url;
+    $('pickTopic').textContent = pick.topic ? ' · ' + pick.topic : '';
+    $('pickTitle').textContent = pick.title;
+    $('pickDek').textContent = pick.dek || '';
+    $('pickMeta').textContent = `AI-written · ${pick.sources || 0} sources · ${pick.readMinutes || 4} min`;
+  }
+
   // ---------- load ----------
   // ---------- quick check (retrieval practice) ----------
   // When the edition has no question of its own, ask which headline was in today's briefing.
@@ -1003,7 +1034,8 @@ a{color:inherit}
     show('loading');
     announce("Loading today's briefing");
     try {
-      const [edRes, newsRes] = await Promise.allSettled([getJSON('edition.json'), news ? Promise.resolve(news) : getJSON('news.json')]);
+      const [edRes, newsRes, pickRes] = await Promise.allSettled([getJSON('edition.json'), news ? Promise.resolve(news) : getJSON('news.json'), getJSON('pick/latest.json')]);
+      pick = pickRes.status === 'fulfilled' && pickRes.value && pickRes.value.title ? pickRes.value : null;
       if (edRes.status !== 'fulfilled') throw edRes.reason;
       ed = edRes.value;
       if (newsRes.status === 'fulfilled' && newsRes.value && Array.isArray(newsRes.value.items) && !news) { news = newsRes.value; newsAt = Date.now(); }
@@ -1016,7 +1048,7 @@ a{color:inherit}
       hasQ = !!(ed.question && ed.question.text && Array.isArray(ed.question.options) && ed.question.options.length > 1);
       step = 0;
       adoptLegacy(ed.stories.map(metaOfStory));
-      render(); show('start');
+      render(); showPick(); show('start');
     } catch (err) {
       $('errorText').textContent = navigator.onLine === false
         ? "You're offline, and today's briefing isn't saved on this device yet."

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T09:40:51+00:00",
+ "generatedAt": "2026-11-13T09:50:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 19
   },
   {
    "source": "The Guardian",
@@ -166,32 +166,28 @@
  ],
  "items": [
   {
-   "id": "0b3759f8bed346b2",
-   "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-   "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries European Commission president Ursula von der Leyen insisted it is “self-explanatory” that Europe should be included in the peace talks on Ukraine “to safeguard…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-   "date": "2026-11-13T09:21:16+00:00",
-   "topic": "europe",
+   "id": "4074c4bb1876b45a",
+   "title": "Newly elected lawmakers come to D.C. for freshmen orientation",
+   "summary": "Newly elected lawmakers are in Washington, D.C., this week for orientation, where members learn everything from committees and ethics rules to where the bathrooms are.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6037311/newly-elected-lawmakers-come-to-d-c-for-freshmen-orientation",
+   "date": "2026-11-13T09:43:34+00:00",
+   "topic": "us",
    "region": "world",
    "tags": [],
    "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=700&quality=85&auto=format&fit=max&s=aef12c946805749f84ade3e90bd5be6e",
-    "credit": "Photograph: Charles McQuillan/Getty Images",
-    "caption": ""
-   },
+   "image": null,
    "breaking": false,
-   "addedAt": "2026-11-13T09:13:24+00:00"
+   "addedAt": "2026-11-13T09:50:01+00:00"
   },
   {
    "id": "01e16ef627937021",
    "title": "Cop31 live: Climate crisis negotiations heat up on fifth day of talks",
-   "summary": "Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit Greenpeace has unveiled a 6-metre tall Trojan horse next to a town hall in Antalya to draw attention to…",
+   "summary": "Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit The world has left behind the age of coal, oil and gas and is now firmly in “the age of electricity”, the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-13T09:09:24+00:00",
-   "topic": "turkey",
+   "date": "2026-11-13T09:43:27+00:00",
+   "topic": "mideast",
    "region": "world",
    "tags": [
     "climate"
@@ -204,6 +200,42 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T07:33:23+00:00"
+  },
+  {
+   "id": "be1169483af38bce",
+   "title": "These swing voters have low expectations for divided government",
+   "summary": "Key voters in North Carolina are pessimistic the blue wave flipping control of Congress will solve their economic woes. Many say President Trump will be the chief obstacle.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6035826/these-swing-voters-have-low-expectations-for-divided-government",
+   "date": "2026-11-13T09:42:37+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T09:50:01+00:00"
+  },
+  {
+   "id": "0b3759f8bed346b2",
+   "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+   "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries Today’s host, Ireland’s Micheál Martin, said discussions will focus on what Europe needs to consider any future Ukraine settlement a just and sustainable peace…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+   "date": "2026-11-13T09:39:57+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=700&quality=85&auto=format&fit=max&s=aef12c946805749f84ade3e90bd5be6e",
+    "credit": "Photograph: Charles McQuillan/Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T09:13:24+00:00"
   },
   {
    "id": "a20dca1952534f81",

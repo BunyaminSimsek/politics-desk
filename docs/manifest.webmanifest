@@ -1,21 +1,21 @@
 {
- "name": "PoliDesk",
+ "name": "PoliDesk · Your daily briefing",
  "short_name": "PoliDesk",
- "description": "World and local politics, updated every 30 minutes.",
+ "description": "Five political stories a day, in about three minutes. World, Canada, Ontario and Toronto.",
+ "id": "./",
  "start_url": "./",
+ "scope": "./",
  "display": "standalone",
- "background_color": "#15191f",
- "theme_color": "#15191f",
+ "orientation": "portrait",
+ "background_color": "#142238",
+ "theme_color": "#142238",
+ "lang": "en-CA",
+ "categories": ["news"],
  "icons": [
-  {
-   "src": "favicon.svg",
-   "sizes": "any",
-   "type": "image/svg+xml"
-  },
-  {
-   "src": "apple-touch-icon.png",
-   "sizes": "180x180",
-   "type": "image/png"
-  }
+  {"src": "favicon.svg", "sizes": "any", "type": "image/svg+xml"},
+  {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+  {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+  {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
+  {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
  ]
 }

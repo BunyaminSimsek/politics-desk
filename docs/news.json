@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T20:40:05+00:00",
+ "generatedAt": "2026-11-13T20:49:15+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,44 @@
   }
  ],
  "items": [
+  {
+   "id": "07c3fc0778fe92d3",
+   "title": "Mamdani and Trump agree to 90-day delay on new food assistance rules for corner stores",
+   "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply Zohran Mamdani, the New York City mayor, has struck a deal with Donald Trump to secure a 90-day delay on new rules for the Supplemental Nutrition…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
+   "date": "2026-11-13T20:33:12+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=700&quality=85&auto=format&fit=max&s=30cf423877b8a992f15c640a2e1baa50",
+    "credit": "Photograph: Adam Gray/AP",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T20:49:15+00:00"
+  },
+  {
+   "id": "0c685c22d387e8b3",
+   "title": "Joly puts 'aggressive package' to Stellantis in bid to stop sale of Brampton plant",
+   "summary": "The federal government has put an “aggressive package” before Stellantis in an effort to prevent the company from selling its Brampton assembly plant, Industry Minister Melanie Joly says.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/joly-puts-aggressive-package-to-stellantis-in-bid-to-stop-sale-of-brampton-plant/article_6fbd2eec-e3ad-44be-b332-94f7644a6b33.html",
+   "date": "2026-11-13T20:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/8d/18df8bcd-1bbc-5fce-aa7b-20f4c89eaeaa/6af742135a73e.image.jpg?resize=300%2C200",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T19:17:36+00:00"
+  },
   {
    "id": "fa66eb00f7214b61",
    "title": "Chris Van Hollen rules out 2028 presidential bid as his challenge to take Senate leadership gains support – US politics live",
@@ -436,25 +474,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T17:55:08+00:00"
-  },
-  {
-   "id": "0c685c22d387e8b3",
-   "title": "Joly puts 'aggressive package' to Stellantis in bid to stop sale of Brampton plant",
-   "summary": "The federal government has put an “aggressive package” before Stellantis in an effort to prevent the company from selling its Brampton assembly plant, Industry Minister Melanie Joly says.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/joly-puts-aggressive-package-to-stellantis-in-bid-to-stop-sale-of-brampton-plant/article_6fbd2eec-e3ad-44be-b332-94f7644a6b33.html",
-   "date": "2026-11-13T19:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/8d/18df8bcd-1bbc-5fce-aa7b-20f4c89eaeaa/6af742135a73e.image.jpg?resize=300%2C200",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T19:17:36+00:00"
   },
   {
    "id": "30c1eb160e5d302d",
@@ -4631,25 +4650,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "057c0aad0c74b6fc",
-   "title": "Carney government wants more leeway for national interest projects that kill protected birds",
-   "summary": "The federal government wants to allow Prime Minister Mark Carney's \"national interest projects\" to kill or harm protected birds as collateral damage in otherwise legal activities, as long as builders take \"reasonable\" steps to limit the impacts.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/carney-government-wants-more-leeway-for-national-interest-projects-that-kill-protected-birds/article_d13ab483-5f52-4a94-8e11-2e411b880e29.html",
-   "date": "2026-11-10T20:45:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/15/315d9a4b-0499-5c08-8a5e-1b4b053ba911/6af3707dcb1e6.image.jpg?resize=300%2C200",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   }
  ]
 }

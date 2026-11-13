@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T06:20:31+00:00",
+ "generatedAt": "2026-11-13T06:29:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,27 @@
  ],
  "items": [
   {
+   "id": "f4e83571e3a82c8f",
+   "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
+   "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+   "date": "2026-11-13T06:07:54+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=700&quality=85&auto=format&fit=max&s=af29a36258830b2a92a63428efe21d1d",
+    "credit": "Photograph: Chesnot/Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T00:52:05+00:00"
+  },
+  {
    "id": "7fa28dbc2f9624ee",
    "title": "Progressives are still so pessimistic, but why? The populist right can and will be defeated | Andy Beckett",
    "summary": "From the US midterms to Brazil and Hungary, extremists are floundering yet the left still overestimates their power. Reality is on our side From Brazil to Hungary and Britain to the US, why are so many people so surprised by the right’s election defeats?…",
@@ -204,27 +225,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T06:11:23+00:00"
-  },
-  {
-   "id": "f4e83571e3a82c8f",
-   "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
-   "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-   "date": "2026-11-13T05:54:23+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=700&quality=85&auto=format&fit=max&s=af29a36258830b2a92a63428efe21d1d",
-    "credit": "Photograph: Chesnot/Getty Images",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T00:52:05+00:00"
   },
   {
    "id": "32abfda572c1f8c3",

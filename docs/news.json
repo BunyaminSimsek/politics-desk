@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T13:56:22+00:00",
+ "generatedAt": "2026-11-13T14:05:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "CBC World",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,12 +166,33 @@
  ],
  "items": [
   {
+   "id": "bdd0e45929053361",
+   "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+   "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+   "date": "2026-11-13T13:52:11+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=700&quality=85&auto=format&fit=max&s=ebed40767ce71ed098a16a5c8113d385",
+    "credit": "Photograph: Majid Asgaripour/Reuters",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T12:25:02+00:00"
+  },
+  {
    "id": "f8b56170157a68e1",
    "title": "Row breaks out between Tories and Reform at Piddington news conference – UK politics live",
-   "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and cameras Earlier today, Downing Street said the government was seeking to establish “the full picture” of Microsoft outages as it urged people too follow advice on…",
+   "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and cameras Earlier today, Downing Street said the government was seeking to establish “the full picture” of Microsoft outages as it urged people to follow advice on…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-   "date": "2026-11-13T13:49:44+00:00",
+   "date": "2026-11-13T13:51:45+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -335,27 +356,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T12:15:55+00:00"
-  },
-  {
-   "id": "bdd0e45929053361",
-   "title": "Iran says it destroyed US military radar in Bahrain in retaliatory strike",
-   "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
-   "date": "2026-11-13T12:07:13+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=700&quality=85&auto=format&fit=max&s=ebed40767ce71ed098a16a5c8113d385",
-    "credit": "Photograph: Majid Asgaripour/Reuters",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T12:25:02+00:00"
   },
   {
    "id": "61212767e0948e38",

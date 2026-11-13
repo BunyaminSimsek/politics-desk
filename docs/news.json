@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T22:48:19+00:00",
+ "generatedAt": "2026-11-13T22:57:27+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -4719,46 +4719,6 @@
    "kind": "news",
    "image": {
     "url": "https://globalnews.ca/wp-content/uploads/2025/09/2aca7a726bb13988e487c10363d3e2ee21a7dfaa7f68ed7a806c778489a6ecf9.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "1b6e910df5dbd48f",
-   "title": "Schumer confident on Senate leadership role despite dwindling votes – video",
-   "summary": "New York senator Chuck Schumer expressed confidence that he would become the majority leader after the Democratic party gained at least 54 seats in the Senate during the midterm elections. Schumer's remarks came after Vermont senator Bernie Sanders announced…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/video/2026/nov/10/chuck-schumer-confident-on-senate-leadership-role-bernie-sanders-video",
-   "date": "2026-11-10T22:53:51+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/7fd06b505f1256e7b0e1ed77418f6103865efc1a/557_0_5076_4061/master/5076.jpg?width=700&quality=85&auto=format&fit=max&s=1d13c8f73cd207989385244a0481de52",
-    "credit": "Photograph: EPA",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "69130c6a859c4a07",
-   "title": "Climate activists award Carney, other absent world leaders 'fossil of the day' title",
-   "summary": "OTTAWA - Prime Minister Mark Carney and several other world leaders who failed to attend the UN Climate Conference in Turkey have been awarded the \"fossil of the day\" title.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/climate-activists-award-carney-other-absent-world-leaders-fossil-of-the-day-title/article_d6faef60-be3e-5541-9610-dc59cba170d3.html",
-   "date": "2026-11-10T22:48:51+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/5c/65c0965c-8a8e-58d8-b139-4c591af8f2c3/6af39f9d2781f.image.jpg?resize=300%2C200",
     "credit": "",
     "caption": ""
    },

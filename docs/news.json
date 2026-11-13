@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T10:54:04+00:00",
+ "generatedAt": "2026-11-13T11:03:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 19
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,65 @@
   }
  ],
  "items": [
+  {
+   "id": "d1de17ddcd5cf2bd",
+   "title": "Ontario career college forced into layoffs as student funding stalls",
+   "summary": "A school that says it plays by the rules warns that continuing to withhold student funding hurts Ontario’s workforce and could put good actors out of business.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12148797/ontario-career-college-funding-stalls/",
+   "date": "2026-11-13T11:00:13+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T11:03:10+00:00"
+  },
+  {
+   "id": "45ad344362a213e7",
+   "title": "Planned asylum centre near Oxfordshire village to face legal challenge",
+   "summary": "Parish council of village that declared independence from UK over centre says it will ‘absolutely’ launch legal action UK politics – live updates Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
+   "date": "2026-11-13T10:47:54+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/c06718debdca7ff78851cb74ac0be786981aebe3/777_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=1f9c89497a4dcdd05748de93f7332436",
+    "credit": "Photograph: PA Images/Alamy Stock Photo/Alamy Live News.",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T11:03:10+00:00"
+  },
+  {
+   "id": "5e06d7a8695a8569",
+   "title": "Former NSW Liberal MP Rory Amon found guilty of raping 13-year-old boy",
+   "summary": "The 37-year-old was convicted in the state’s supreme court months after a different jury failed to reach a verdict on the same charges Get our breaking news email , free app or daily news podcast A former NSW Liberal politician is facing the possibility of a…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/13/former-nsw-liberal-mp-rory-amon-found-guilty-of-raping-13-year-old-boy",
+   "date": "2026-11-13T10:45:48+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/d4c40932b33c6886f4f157bb1f96a159b2933a0e/396_0_7857_6286/master/7857.jpg?width=700&quality=85&auto=format&fit=max&s=be5580ba7fd102b32dfbe172deac63f4",
+    "credit": "Photograph: Bianca de Marchi/AAP",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T11:03:10+00:00"
+  },
   {
    "id": "01e16ef627937021",
    "title": "Cop31 live: Climate crisis negotiations heat up on fifth day of talks",
@@ -244,6 +303,21 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T10:35:34+00:00"
+  },
+  {
+   "id": "b8dc660e11b8b38e",
+   "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
+   "summary": "The US-Iran war is trapped in an ongoing 'no war, no peace' situation, analysts say.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
+   "date": "2026-11-13T10:26:22+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T11:03:10+00:00"
   },
   {
    "id": "2abed8a35a5f6a8d",
@@ -450,7 +524,7 @@
   },
   {
    "id": "aa502b1739c7c057",
-   "title": "Nvidia’s Huang, Lutnick summoned to testify to US Senate",
+   "title": "US Senate summons Nvidia’s Huang, Lutnick to testify",
    "summary": "The Banking Committee says the ex-tech CEO and the commerce secretary could face legal action if they fail to appear.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
@@ -4176,44 +4250,6 @@
    "image": {
     "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cbd6/live/72504f00-dcf5-11f1-93e1-3b657b665bcf.jpg",
     "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "df36250ae31e5b9f",
-   "title": "Ford government’s Bill 140 gutting Ontario’s environmental rights, experts warn",
-   "summary": "The sweeping new bill is drawing sharp warnings from environmental advocates who say it will reverse decades of progress on environmental issues.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12143847/ford-governments-bill-140-gutting-ontarios-environmental-rights-experts-warn/",
-   "date": "2026-11-10T11:00:59+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/08/48537ff07189bd6f9b6ab02ec3b1f22f3a8f9ed6da7b5fce6c560f9653341eb4.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "b791ed4e8aa57b83",
-   "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile",
-   "summary": "Former prime minister faces death penalty upon return after being sentenced in absentia over deaths in 2024 uprising Sheikh Hasina is “confident” she will return to Bangladesh in December, according to exiled members of her party, after the disgraced former…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile",
-   "date": "2026-11-10T10:57:51+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/b0c25ec744c32078682701261636188a517bf078/42_0_1989_1592/master/1989.jpg?width=700&quality=85&auto=format&fit=max&s=7d58dfc3b3b3c57f85babdfb7b872a4f",
-    "credit": "Photograph: AM Ahad/AP",
     "caption": ""
    },
    "breaking": false,

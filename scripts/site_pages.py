@@ -260,7 +260,7 @@ def pick_page(pk, prev_date=None, next_date=None):
     topic = pk.get("topic") or "World"
     hero = (f'<p class="pk-kicker">Today\'s Editor\'s Pick · {esc(topic)}</p><p class="kicker">{esc(long_date(d))}</p>'
             f'<h1>{esc(pk["title"])}</h1><p class="lede">{esc(pk.get("dek"))}</p>'
-            f'<p class="pk-meta">AI-written report · based on {n} sources · reviewed {int(pk.get("reviewPasses") or 3)} times · approved by the editor</p>')
+            f'<p class="pk-meta">AI-written report · based on {n} sources · checked {int(pk.get("reviewPasses") or 3)} times against its sources</p>')
     facts = "".join(f'<li>{esc(f["text"])}{_refs(f.get("sources"), n)}</li>' for f in pk.get("facts") or [])
     secs = "".join(
         f'<section class="sec"><h2 class="h3">{esc(sec.get("heading"))}</h2>'
@@ -275,7 +275,7 @@ def pick_page(pk, prev_date=None, next_date=None):
             + (f'<h2 class="h3" style="margin:0 0 8px 4px">Key facts</h2><ol class="facts">{facts}</ol>' if facts else "")
             + secs
             + f'<h2 class="h3" style="margin:0 0 8px 4px">Sources</h2><ol class="srcs">{sources}</ol>'
-            + '<p class="note">This report was researched and written by AI, checked several times against its sources, and approved by PoliDesk\'s editor before publishing. It can still contain mistakes, so follow the sources for the full picture. It is not medical, legal or financial advice.</p>'
+            + '<p class="note">This report was researched and written by AI and checked several times against its sources before publishing. It can still contain mistakes, so follow the sources for the full picture. It is not medical, legal or financial advice.</p>'
             + pager)
     jsonld = {"@context": "https://schema.org", "@type": "Article", "headline": pk["title"], "description": pk.get("dek"),
               "datePublished": pk.get("publishedAt") or d, "url": f"{SITE}/pick/{d}/",

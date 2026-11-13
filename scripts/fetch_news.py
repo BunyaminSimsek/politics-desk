@@ -23,6 +23,7 @@ EDITION_SIZE = 5
 KEEP_HOURS = 72
 MAX_ITEMS = 400
 SUMMARY_CHARS = 260
+DETAIL_CHARS = 700        # longest text kept for a briefing story's "More detail" view
 
 # (source name, feed url, region hint, topic hint, politics_feed)
 # politics_feed=True means every story in the feed is already political.
@@ -420,6 +421,9 @@ def build(feed_results, previous, now):
                 "id": iid,
                 "title": p["title"],
                 "summary": shorten(p["summary"]),
+                # Longer text for the briefing's "More detail" view. Kept in memory only:
+                # it is used to build edition.json and stripped before news.json is written.
+                "_detail": shorten(p["summary"], DETAIL_CHARS),
                 "source": name,
                 "url": p["link"],
                 "date": date.isoformat(),
@@ -484,6 +488,29 @@ def make_edition(items, now, old):
         if edition:
             return edition
     return None
+
+
+def _complete(t):
+    return bool(t) and len(t) >= 60 and not t.endswith("…")
+
+
+def _detail_for(cluster, rep):
+    """The longest complete text any outlet gave for this story (for "More detail")."""
+    texts = [i.get("_detail") or i["summary"] for i in [rep] + cluster]
+    good = [t for t in texts if _complete(t)]
+    best = max(good or texts, key=len)
+    return best if len(best) > len(rep["summary"]) + 40 else None
+
+
+def _outlet_takes(cluster):
+    """One short, complete summary per outlet, so readers can see how each covered it."""
+    seen, out = set(), []
+    for i in cluster:
+        if i["source"] in seen or not _complete(i["summary"]):
+            continue
+        seen.add(i["source"])
+        out.append({"source": i["source"], "url": i["url"], "summary": i["summary"]})
+    return out[:4]
 
 
 def _pick_edition(items, now, today, after_seven, seen_before):
@@ -551,6 +578,8 @@ def _pick_edition(items, now, today, after_seven, seen_before):
             "image": rep.get("image"),
             "sources": sources[:4],
             "coverage": len(sources),  # how many outlets reported it (shown on the card)
+            "detail": _detail_for(c["items"], rep),
+            "details": _outlet_takes(c["items"]),
             "why": None,       # filled in by the AI editor in phase 2
         })
     if len(stories) < 3:
@@ -582,7 +611,8 @@ def main():
             results.append((feed, None))
     data = build(results, previous, now)
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+    public = dict(data, items=[{k: v for k, v in it.items() if not k.startswith("_")} for it in data["items"]])
+    OUT.write_text(json.dumps(public, ensure_ascii=False, indent=1), encoding="utf-8")
     old = None
     if EDITION.exists():
         try:

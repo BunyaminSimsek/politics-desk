@@ -108,6 +108,29 @@ a{color:inherit}
 .pills .more{font-size:12px;font-weight:600;color:var(--muted);padding:0 4px}
 .pills a{padding:5px 10px;border-radius:999px;border:1px solid var(--pill);font-size:12px;font-weight:600;color:#3A4556;text-decoration:none}
 .grow{flex:1;min-height:4px}
+.sheet{transition:top 320ms var(--ease)}
+.expand{align-self:flex-start;display:inline-flex;align-items:center;gap:6px;min-height:38px;padding:0 14px;border-radius:999px;border:1px solid var(--pill);background:#fff;font-size:14px;font-weight:600;color:var(--ink);cursor:pointer}
+.expand svg{width:16px;height:16px;transition:transform 240ms var(--ease)}
+.card.open .expand svg{transform:rotate(180deg)}
+.more{display:none;flex-direction:column;gap:12px}
+.card.open .more{display:flex}
+.card.open .sheet{top:calc(52px + env(safe-area-inset-top));overflow-y:auto;overscroll-behavior:contain;touch-action:pan-y;padding-bottom:0}
+.card.open .title,.card.open .summary{display:block;-webkit-line-clamp:unset;overflow:visible}
+.card.open .summary.has-detail{display:none}
+.detail{margin:0;font-size:17px;line-height:1.55;color:var(--text)}
+.more h3{margin:6px 0 0;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.takes{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.takes li{padding:12px 14px;border-radius:14px;background:var(--soft)}
+.takes b{font-size:13px;font-weight:700;color:var(--ink)}
+.takes p{margin:4px 0 6px;font-size:15px;line-height:1.45;color:var(--text)}
+.takes a,.full-link{font-size:13px;font-weight:600;color:var(--ink);text-underline-offset:3px}
+.full-link{display:inline-block;padding:4px 0}
+.done-actions{width:100%;display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:16px}
+.done-actions .ghost{font-size:15px;gap:6px;padding:0 10px}
+.done-actions .ghost svg{width:16px;height:16px;flex-shrink:0}
+.rail,.actions{transition:opacity 200ms ease}
+@media (max-width:1099px){ #stories.reading .rail,#stories.reading .actions,#stories.reading .hint{opacity:0;pointer-events:none} }
+.reread-note{margin:8px 0 0;text-align:center;font-size:12px;color:var(--muted-dark)}
 .next{display:flex;align-items:center;gap:8px;min-height:46px;padding-bottom:env(safe-area-inset-bottom);border-top:1px solid #EDEFF3;font-size:13px;color:var(--muted)}
 .next span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .next b{color:var(--ink);font-weight:600}
@@ -268,7 +291,10 @@ a{color:inherit}
   #done .done-body>*{grid-column:1}
   #done .panel{grid-column:2;grid-row:1/span 7;margin-top:0;padding:22px 24px;gap:14px}
   #done .grow{flex:0}
-  #done .ghost{max-width:360px;margin-left:auto;margin-right:auto}
+  #done .done-actions{max-width:560px;margin-left:auto;margin-right:auto}
+  .card.open .sheet{top:0}
+  .detail{font-size:19px}
+  .takes p{font-size:16px}
   .count b{font-size:104px}
   .week{max-width:420px}
 
@@ -383,7 +409,11 @@ a{color:inherit}
     <p style="margin:0;text-align:center;font-size:13px;color:#AFBBD0">Your next briefing</p>
     <p style="margin:2px 0 0;text-align:center;font-size:22px;font-weight:700;color:#fff" id="nextWhen">Tomorrow at 7:00 a.m.</p>
     <p style="margin:2px 0 0;text-align:center;font-size:14px;color:#D3DAE6" id="countdownLine">in <b id="countdown" style="color:#fff"></b></p>
-    <button class="ghost js-all" type="button" style="margin-top:16px">Browse all stories</button>
+    <div class="done-actions">
+      <button class="ghost" id="againBtn" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></svg>Today’s briefing</button>
+      <button class="ghost js-all" type="button">All stories</button>
+    </div>
+    <p class="reread-note">Reading again doesn’t change your streak.</p>
   </section>
 
   <section class="screen" id="all" aria-labelledby="allTitle">
@@ -601,7 +631,24 @@ a{color:inherit}
         const alt = news.items.filter((it) => urls.has(it.url)).map((it) => tidySummary(it.summary)).filter((t) => t.length >= 80 && !/(…|\.\.\.)$/.test(t));
         if (alt.length) sumText = alt.sort((a, b) => b.length - a.length)[0];
       }
-      const summary = sumText ? `<p class="summary">${esc(sumText)}</p>` : '';
+      // "More detail": the longest complete text for this story, plus how each outlet summed it up.
+      const detail = st.detail && tidySummary(st.detail).length > sumText.length + 40 ? tidySummary(st.detail) : '';
+      let takes = Array.isArray(st.details) ? st.details.map((x) => ({source: x.source, url: x.url, summary: tidySummary(x.summary)})) : [];
+      if (!takes.length && news) {
+        const urls = new Set([st.url, ...sources.map((x) => x.url)]);
+        takes = news.items.filter((it) => urls.has(it.url)).map((it) => ({source: it.source, url: it.url, summary: tidySummary(it.summary)}));
+      }
+      const seenSrc = new Set();
+      takes = takes.filter((t) => t.summary && t.summary.length >= 60 && !/(…|\.\.\.)$/.test(t.summary) && t.summary !== sumText && t.summary !== detail && !seenSrc.has(t.source) && seenSrc.add(t.source)).slice(0, 4);
+      const lead = sources[0] || {name: '', url: st.url};
+      const more = (detail || takes.length) ? `
+          <button class="expand" type="button" data-nopan aria-expanded="false"><span>More detail</span><svg viewBox="0 0 24 24" fill="none" stroke="#142238" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button>
+          <div class="more">
+            ${detail ? `<p class="detail">${esc(detail)}</p>` : ''}
+            ${takes.length ? `<h3>How outlets covered it</h3><ul class="takes">${takes.map((t) => `<li><b>${esc(t.source)}</b><p>${esc(t.summary)}</p><a href="${esc(safeUrl(t.url))}" target="_blank" rel="noopener" data-nopan>Read at ${esc(t.source)} ↗</a></li>`).join('')}</ul>` : ''}
+            ${lead.name ? `<a class="full-link" href="${esc(safeUrl(st.url))}" target="_blank" rel="noopener" data-nopan>Read the full story at ${esc(lead.name)} ↗</a>` : ''}
+          </div>` : '';
+      const summary = (sumText ? `<p class="summary${detail ? ' has-detail' : ''}">${esc(sumText)}</p>` : '') + more;
       return `<article class="card" aria-roledescription="slide" aria-label="Story ${i + 1} of ${total}" aria-hidden="true" style="transform:translateY(${(i + 1) * 100}%)">
         <div class="photo" style="background:${TONES[i % 5]}">${img}${credit}</div>
         <div class="sheet">
@@ -641,6 +688,7 @@ a{color:inherit}
         c.style.transform = `translateY(${(i + 1 - step) * 100}%)`;
         c.setAttribute('aria-hidden', i + 1 === step ? 'false' : 'true');
         c.classList.toggle('near', Math.abs(i + 1 - step) <= 1);
+        if (c.classList.contains('open')) setOpen(c, false);
       });
       [...$('dots').children].forEach((d, i) => { d.className = i + 1 === step ? 'now' : i + 1 < step ? 'done' : ''; });
       const up = $('upBtn');
@@ -861,6 +909,27 @@ a{color:inherit}
   });
   $('qFinish').addEventListener('click', () => go(total + 2));
 
+  // ---------- "More detail" on a card ----------
+  function setOpen(card, open) {
+    card.classList.toggle('open', open);
+    const b = card.querySelector('.expand'), sh = card.querySelector('.sheet');
+    if (b) { b.setAttribute('aria-expanded', open); b.firstElementChild.textContent = open ? 'Show less' : 'More detail'; }
+    // An open sheet scrolls; swipes on it shouldn't change the story.
+    if (open) sh.setAttribute('data-nopan', ''); else { sh.removeAttribute('data-nopan'); sh.scrollTop = 0; }
+    // On phones the floating buttons would sit on top of the text while reading; hide them until "Show less".
+    $('stories').classList.toggle('reading', !!$('cards').querySelector('.card.open'));
+  }
+  $('cards').addEventListener('click', (e) => {
+    const b = e.target.closest('.expand'); if (!b) return;
+    const card = b.closest('.card');
+    const open = !card.classList.contains('open');
+    setOpen(card, open);
+    announce(open ? 'More detail shown' : 'Showing the short version');
+  });
+
+  // ---------- read today's briefing again (no effect on the streak) ----------
+  $('againBtn').addEventListener('click', () => { hinted = true; render(); step = 0; go(1); });
+
   // swipe + tap on the story stage
   let sx = null, sy = null;
   const stage = $('stories');
@@ -879,6 +948,7 @@ a{color:inherit}
   // mouse wheel / trackpad on desktop
   let wheelLock = 0;
   stage.addEventListener('wheel', (e) => {
+    if (e.target.closest('.card.open .sheet') || e.target.closest('.sheet[data-nopan]')) return; // let an open card scroll
     e.preventDefault();
     const t = Date.now(); if (t < wheelLock || Math.abs(e.deltaY) < 20) return;
     wheelLock = t + 600; go(step + (e.deltaY > 0 ? 1 : -1));

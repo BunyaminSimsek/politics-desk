@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T23:24:45+00:00",
+ "generatedAt": "2026-11-13T00:24:40+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 4
+   "kept": 6
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -154,6 +154,88 @@
  ],
  "items": [
   {
+   "id": "5c866d204f0bc428",
+   "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+   "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T00:20:24+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-13T00:24:40+00:00"
+  },
+  {
+   "id": "dc29cf3a466ca0c3",
+   "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
+   "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+   "date": "2026-11-13T00:19:48+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-12T22:16:01+00:00"
+  },
+  {
+   "id": "e780ce5da452556a",
+   "title": "Second world war ‘brain’ bunker in cliffs of Dover opens to public",
+   "summary": "Hidden bunker, entered via a hatch in a field, controlled a gun battery used to attack German ships in Channel It has been kept secret for decades, buried four metres deep into the white cliffs of Dover. But from Friday, members of the public will finally be…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/13/fan-bay-plotting-room-national-trust-white-cliffs-dover",
+   "date": "2026-11-13T00:01:03+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-13T00:24:40+00:00"
+  },
+  {
+   "id": "295cb72b031847a9",
+   "title": "Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks",
+   "summary": "Saudi-led coalition intercepts Houthi drones heading for Riyadh as the rebel group claims attacks on energy facilities.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
+   "date": "2026-11-13T00:00:26+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-13T00:24:40+00:00"
+  },
+  {
+   "id": "668b909e49836b28",
+   "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+   "summary": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+   "date": "2026-11-12T23:52:38+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "breaking": false,
+   "addedAt": "2026-11-13T00:24:40+00:00"
+  },
+  {
+   "id": "963b7e75e1f84fb5",
+   "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+   "summary": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
+   "date": "2026-11-12T23:36:19+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "breaking": false,
+   "addedAt": "2026-11-13T00:24:40+00:00"
+  },
+  {
    "id": "2cabd5e10d6d2ee0",
    "title": "Russian court jails rights lawyer for 12 years on treason charge",
    "summary": "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.",
@@ -165,21 +247,6 @@
    "tags": [],
    "breaking": false,
    "addedAt": "2026-11-12T23:24:45+00:00"
-  },
-  {
-   "id": "dc29cf3a466ca0c3",
-   "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
-   "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-   "date": "2026-11-12T23:08:28+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   },
   {
    "id": "e3a90c61c37ce601",
@@ -717,7 +784,7 @@
   },
   {
    "id": "b34d4ae988697221",
-   "title": "U.S. envoys head to Dublin to talk to Zelenskyy, after prior sitdown with Putin",
+   "title": "U.S. envoys talk to Zelenskyy in Dublin, after prior sitdown with Putin in Moscow",
    "summary": "U.S. envoys met Thursday with Russian President Vladimir Putin in the Kremlin before heading to Ireland for talks with Ukrainian President Volodymyr Zelenskyy as Washington sought new momentum for its peace efforts.",
    "source": "CBC World",
    "url": "https://www.cbc.ca/news/world/us-witkoff-kushner-putin-zelenskyy-talks-9.7418799?cmp=rss",

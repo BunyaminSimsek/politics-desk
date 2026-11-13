@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T22:20:54+00:00",
+ "generatedAt": "2026-11-13T22:30:05+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,42 @@
   }
  ],
  "items": [
+  {
+   "id": "190337eb6423d7b2",
+   "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+   "summary": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
+   "date": "2026-11-13T22:18:55+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T22:30:05+00:00"
+  },
+  {
+   "id": "968e6c7500c84fdd",
+   "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
+   "summary": "Anti-corruption agency carried out searches as part of investigation into Orbán-era minister accused of taking bribes Hungary’s anti-corruption agency said on Friday it had seized cash worth $19.5m (£14.8m) buried in forests and hidden elsewhere while…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
+   "date": "2026-11-13T22:12:54+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/6461a8e9e85b3a0f988ecc183b0798b784a32524/512_0_2566_2052/master/2566.jpg?width=700&quality=85&auto=format&fit=max&s=2682fe132af002aa768cc8b6b617216e",
+    "credit": "Photograph: Dénes Erdős/AP",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T22:30:05+00:00"
+  },
   {
    "id": "fa66eb00f7214b61",
    "title": "Flights grounded at all US airports due to air traffic control ‘communication issue’, transport secretary says – live",

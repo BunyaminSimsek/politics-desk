@@ -408,7 +408,7 @@ a{color:inherit}
         <p class="pk">Today’s Editor’s Pick<span id="pickTopic"></span></p>
         <p class="pt" id="pickTitle"></p>
         <p class="pd" id="pickDek"></p>
-        <div class="pm"><span id="pickMeta">AI-written report</span><b>Read →</b></div>
+        <div class="pm"><span id="pickMeta"></span><b>Read →</b></div>
       </a>
       <p class="unlock" id="unlock"></p>
       <p class="kicker-dark" id="doneKicker" tabindex="-1" style="margin-bottom:10px">You're done for today</p>
@@ -997,7 +997,7 @@ a{color:inherit}
     $('pickTopic').textContent = pick.topic ? ' · ' + pick.topic : '';
     $('pickTitle').textContent = pick.title;
     $('pickDek').textContent = pick.dek || '';
-    $('pickMeta').textContent = `AI-written · ${pick.sources || 0} sources · ${pick.readMinutes || 4} min`;
+    $('pickMeta').textContent = `${pick.readMinutes || 1} min · ${pick.sources || 0} sources`;
   }
 
   // ---------- load ----------

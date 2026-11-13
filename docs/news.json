@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T11:03:10+00:00",
+ "generatedAt": "2026-11-13T11:12:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 14
+   "kept": 15
   },
   {
    "source": "Global News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -185,6 +185,44 @@
    "addedAt": "2026-11-13T11:03:10+00:00"
   },
   {
+   "id": "f8b56170157a68e1",
+   "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
+   "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next week Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire village of Piddington into accommodation for more than 1,200 detained…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+   "date": "2026-11-13T10:56:24+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=700&quality=85&auto=format&fit=max&s=f3f2f67421002d229791d0c0ff6c5fb1",
+    "credit": "Photograph: Andy Rain/EPA",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T10:26:29+00:00"
+  },
+  {
+   "id": "0b3759f8bed346b2",
+   "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+   "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries Luxembourg’s PM Luc Frieden is in a slightly unusual position this morning as he is representing as many as three countries at today’s meeting in Dublin. Belgian…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+   "date": "2026-11-13T10:52:16+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/af859fd146834e1d6c80eb74390e4e88d8a15446/268_0_2668_2135/master/2668.jpg?width=700&quality=85&auto=format&fit=max&s=ea37b4d3c3e6708b600d980f1c2a9075",
+    "credit": "Photograph: Stefan Rousseau/Reuters",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T09:13:24+00:00"
+  },
+  {
    "id": "45ad344362a213e7",
    "title": "Planned asylum centre near Oxfordshire village to face legal challenge",
    "summary": "Parish council of village that declared independence from UK over centre says it will ‘absolutely’ launch legal action UK politics – live updates Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire…",
@@ -244,46 +282,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T07:33:23+00:00"
-  },
-  {
-   "id": "0b3759f8bed346b2",
-   "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-   "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries There’s also a bit of national news on the side, with Sweden’s Ulf Kristersson confirming he will send his proposal to the Swedish Centre party later today in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-   "date": "2026-11-13T10:35:31+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=700&quality=85&auto=format&fit=max&s=aef12c946805749f84ade3e90bd5be6e",
-    "credit": "Photograph: Charles McQuillan/Getty Images",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T09:13:24+00:00"
-  },
-  {
-   "id": "f8b56170157a68e1",
-   "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
-   "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next week The food and farming deal alone could generate at least 780 pieces of in-scope EU law every year, the committee said. “This may sound like a technical issue, but the rules in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-   "date": "2026-11-13T10:33:52+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=700&quality=85&auto=format&fit=max&s=f3f2f67421002d229791d0c0ff6c5fb1",
-    "credit": "Photograph: Andy Rain/EPA",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T10:26:29+00:00"
   },
   {
    "id": "59143f34f02f8619",
@@ -521,6 +519,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T09:13:24+00:00"
+  },
+  {
+   "id": "2f5cca7f0666a342",
+   "title": "What the Jensen Huang scandal means for Trump and his administration",
+   "summary": "Jensen Huang's 33-year tenure as the CEO of chip-making giant Nvidia is now finished, but the political repercussions of his affair with an alleged Chinese spy are only just beginning.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/jensen-huang-nvidia-trump-congress-investigations-9.7419755?cmp=rss",
+   "date": "2026-11-13T09:00:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/4ea72b27-0c25-4541-be09-934be154c587,1794531180019/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C2468%2C1388%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T11:12:26+00:00"
   },
   {
    "id": "aa502b1739c7c057",

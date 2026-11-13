@@ -105,6 +105,29 @@ p.sum{margin:10px 0 0;font-size:17px;line-height:1.55;color:var(--text)}
 .srcs{background:#fff;border-radius:20px;padding:20px 22px 20px 44px;margin:0 0 16px;font-size:15px;line-height:1.5}
 .srcs li{margin:0 0 8px}
 .note{border:1px solid var(--pill);border-radius:16px;padding:14px 16px;font-size:14px;line-height:1.5;color:var(--muted)}
+.quick{background:#fff;border-radius:20px;padding:20px 22px 8px;margin:0 0 12px}
+.tldr{list-style:none;margin:10px 0 0;padding:0}
+.tldr li{display:flex;gap:14px;align-items:flex-start;padding:0 0 14px}
+.tldr li span{flex-shrink:0;width:28px;height:28px;border-radius:14px;background:var(--ink);color:#fff;font-weight:700;font-size:14px;display:flex;align-items:center;justify-content:center;margin-top:1px}
+.tldr li p{margin:0;font-size:18px;line-height:1.45;color:var(--ink);font-weight:500}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:0 0 12px}
+.stat{background:var(--ink);color:#fff;border-radius:18px;padding:16px 16px 14px;display:flex;flex-direction:column;gap:6px}
+.stat b{font-family:var(--serif);font-size:30px;line-height:1;letter-spacing:-.02em}
+.stat span{font-size:13px;line-height:1.35;color:#D3DAE6}
+.stat .ref{color:#AFBBD0}
+.foryou{background:#fff;border-radius:20px;padding:18px 22px 6px;margin:0 0 12px;border-left:0}
+.foryou p{margin:8px 0 12px;font-size:16px;line-height:1.55;color:var(--text)}
+.more-h{margin:22px 0 8px 4px}
+.fold{background:#fff;border-radius:16px;margin:0 0 8px;overflow:hidden}
+.fold summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:16px 20px;font-weight:700;font-size:16px;color:var(--ink)}
+.fold summary::-webkit-details-marker{display:none}
+.fold summary i{width:10px;height:10px;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(45deg);transition:transform 200ms ease;margin-top:-4px;flex-shrink:0}
+.fold[open] summary i{transform:rotate(-135deg);margin-top:4px}
+.fold-body{padding:0 20px 16px}
+.fold-body p{margin:0 0 12px;font-size:16px;line-height:1.6;color:var(--text)}
+.facts-in,.srcs-in{margin:0;padding:0 0 0 20px;font-size:15px;line-height:1.55;color:var(--text)}
+.facts-in li,.srcs-in li{margin:0 0 8px}
+.why{font-size:16px}
 footer{padding:0 0 40px;font-size:14px;color:var(--muted)}
 footer a{margin-right:14px}
 """
@@ -254,28 +277,42 @@ def _refs(nums, n_sources):
 
 
 def pick_page(pk, prev_date=None, next_date=None):
+    """Quick format first (short version, key numbers, why it matters, what it means for you);
+    the longer sections and sources fold away for readers who want more."""
     d = pk["date"]
     srcs = [x for x in pk.get("sources") or [] if x.get("url")]
     n = len(srcs)
     topic = pk.get("topic") or "World"
-    hero = (f'<p class="pk-kicker">Today\'s Editor\'s Pick · {esc(topic)}</p><p class="kicker">{esc(long_date(d))}</p>'
+    secs = pk.get("sections") or []
+    find = lambda word: next((x for x in secs if word in (x.get("heading") or "").lower()), None)
+    for_you = find("for you")
+    # The short version: 3 lines. Older picks without "tldr" fall back to their first facts.
+    tldr = pk.get("tldr") or [f["text"] for f in (pk.get("facts") or [])[:3]]
+    tldr_html = "".join(f"<li><span>{i + 1}</span><p>{esc(t)}</p></li>" for i, t in enumerate(tldr[:3]))
+    stats = "".join(f'<div class="stat"><b>{esc(x.get("value"))}</b><span>{esc(x.get("label"))}{_refs(x.get("sources"), n)}</span></div>'
+                    for x in (pk.get("numbers") or [])[:4])
+    hero = (f'<p class="pk-kicker">Today\'s Editor\'s Pick · {esc(topic)}</p>'
             f'<h1>{esc(pk["title"])}</h1><p class="lede">{esc(pk.get("dek"))}</p>'
-            f'<p class="pk-meta">AI-written report · based on {n} sources · checked {int(pk.get("reviewPasses") or 3)} times against its sources</p>')
+            f'<p class="pk-meta">{esc(long_date(d))} · {int(pk.get("quickMinutes") or 1)} min · {n} sources</p>')
+    fold = lambda title, inner, open_=False: (f'<details class="fold"{" open" if open_ else ""}><summary>{esc(title)}<i aria-hidden="true"></i></summary>'
+                                              f'<div class="fold-body">{inner}</div></details>')
+    paras = lambda sec: "".join(f"<p>{esc(p)}</p>" for p in sec.get("paragraphs") or [])
+    more = "".join(fold(sec.get("heading"), paras(sec)) for sec in secs if sec is not for_you)
     facts = "".join(f'<li>{esc(f["text"])}{_refs(f.get("sources"), n)}</li>' for f in pk.get("facts") or [])
-    secs = "".join(
-        f'<section class="sec"><h2 class="h3">{esc(sec.get("heading"))}</h2>'
-        + "".join(f"<p>{esc(p)}</p>" for p in sec.get("paragraphs") or []) + "</section>"
-        for sec in pk.get("sections") or [])
+    if facts:
+        more = fold("Key facts", f'<ol class="facts-in">{facts}</ol>') + more
     sources = "".join(
         f'<li id="src-{i + 1}"><a href="{esc(safe_url(x["url"]))}" rel="noopener">{esc(x.get("title") or x["url"])}</a>'
         f'{" — " + esc(x["name"]) if x.get("name") else ""}</li>' for i, x in enumerate(srcs))
     pager = '<nav class="pager">' + (f'<a href="../{prev_date}/">← Previous pick</a>' if prev_date else "<span></span>") \
         + (f'<a href="../{next_date}/">Next pick →</a>' if next_date else "<span></span>") + "</nav>"
-    body = (f'<div class="why"><b>Why we picked it.</b> {esc(pk.get("why"))}</div>'
-            + (f'<h2 class="h3" style="margin:0 0 8px 4px">Key facts</h2><ol class="facts">{facts}</ol>' if facts else "")
-            + secs
-            + f'<h2 class="h3" style="margin:0 0 8px 4px">Sources</h2><ol class="srcs">{sources}</ol>'
-            + '<p class="note">This report was researched and written by AI and checked several times against its sources before publishing. It can still contain mistakes, so follow the sources for the full picture. It is not medical, legal or financial advice.</p>'
+    body = (f'<section class="quick"><h2 class="h3">The short version</h2><ol class="tldr">{tldr_html}</ol></section>'
+            + (f'<div class="stats">{stats}</div>' if stats else "")
+            + f'<div class="why"><b>Why it matters.</b> {esc(pk.get("why"))}</div>'
+            + (f'<div class="foryou"><h2 class="h3">What it means for you</h2>{paras(for_you)}</div>' if for_you else "")
+            + (f'<h2 class="h3 more-h">Want the full story?</h2>{more}' if more else "")
+            + fold(f"Sources ({n})", f'<ol class="srcs-in">{sources}</ol>')
+            + '<p class="note">Researched and written by AI and checked several times against its sources before publishing. It can still contain mistakes, so follow the sources for the full picture. Not medical, legal or financial advice.</p>'
             + pager)
     jsonld = {"@context": "https://schema.org", "@type": "Article", "headline": pk["title"], "description": pk.get("dek"),
               "datePublished": pk.get("publishedAt") or d, "url": f"{SITE}/pick/{d}/",
@@ -317,7 +354,7 @@ def build_picks(docs):
     if picks:
         p = picks[0]
         latest = {"date": p["date"], "topic": p.get("topic"), "title": p["title"], "dek": p.get("dek"),
-                  "readMinutes": p.get("readMinutes") or 4, "sources": len(p.get("sources") or []), "url": f"pick/{p['date']}/"}
+                  "readMinutes": p.get("quickMinutes") or p.get("readMinutes") or 4, "sources": len(p.get("sources") or []), "url": f"pick/{p['date']}/"}
         if write_if_changed(folder / "latest.json", json.dumps(latest, ensure_ascii=False, indent=1)):
             changed.append("pick/latest.json")
     return changed, dates

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T21:34:55+00:00",
+ "generatedAt": "2026-11-13T21:44:05+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "CBC World",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 19
+   "kept": 18
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,65 @@
  ],
  "items": [
   {
+   "id": "039e29e21e9d7c7c",
+   "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
+   "summary": "Maryland senator’s bid against Chuck Schumer for leadership could decide direction of the Democratic party US politics live – latest updates Ever since Donald Trump returned to the White House, Democratic officeholders and voters alike have been divided over…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
+   "date": "2026-11-13T21:29:51+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/48fa66a20eacc798793f8c3b942b6715a99fe639/394_0_3929_3145/master/3929.jpg?width=700&quality=85&auto=format&fit=max&s=ab49394fc2d9f2a59c393f9c4079c026",
+    "credit": "Photograph: Drew Angerer/Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T20:21:43+00:00"
+  },
+  {
+   "id": "2324ffb80b41a1ad",
+   "title": "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
+   "summary": "This is not a personality contest. This is a debate about the future of the Democratic party The election for Democratic Senate leader between Chuck Schumer and Chris Van Hollen must be understood for what it is. This is not a personality contest.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
+   "date": "2026-11-13T21:28:45+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/32f188a30f2e68b00efd5a26988a9c0cfc1fc7e5/232_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=9014599af3a99c449d4165a5a923b83c",
+    "credit": "Photograph: Eric Lee/Bloomberg via Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T21:44:05+00:00"
+  },
+  {
+   "id": "fa66eb00f7214b61",
+   "title": "Chris Van Hollen rules out 2028 presidential bid as his challenge to take Senate leadership gains support – US politics live",
+   "summary": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+   "date": "2026-11-13T21:25:30+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/969a8bd1521a0cfaf072fc67129aa13a81e3ba99/0_0_4840_3872/master/4840.jpg?width=700&quality=85&auto=format&fit=max&s=864198474a3fd422dee4c002d04ee005",
+    "credit": "Photograph: Kevin Mohatt/Reuters",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T11:21:34+00:00"
+  },
+  {
    "id": "ce102f8369e93f4f",
    "title": "Latino voters help fuel Kansas' blue wave",
    "summary": "In southwest Kansas, three majority-Latino counties shocked the political establishment by going blue for the first time in decades. Voters and activists say immigration enforcement was a big factor.",
@@ -196,25 +255,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-13T21:16:36+00:00"
-  },
-  {
-   "id": "fa66eb00f7214b61",
-   "title": "Chris Van Hollen rules out 2028 presidential bid as his challenge to take Senate leadership gains support – US politics live",
-   "summary": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "date": "2026-11-13T21:02:42+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/969a8bd1521a0cfaf072fc67129aa13a81e3ba99/0_0_4840_3872/master/4840.jpg?width=700&quality=85&auto=format&fit=max&s=864198474a3fd422dee4c002d04ee005",
-    "credit": "Photograph: Kevin Mohatt/Reuters",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T11:21:34+00:00"
   },
   {
    "id": "c22c9f451b1ae85d",
@@ -314,25 +354,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T20:40:05+00:00"
-  },
-  {
-   "id": "039e29e21e9d7c7c",
-   "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
-   "summary": "Maryland senator’s bid against Chuck Schumer for leadership could decide direction of the Democratic party US politics live – latest updates Ever since Donald Trump returned to the White House, Democratic officeholders and voters alike have been divided over…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
-   "date": "2026-11-13T20:08:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/48fa66a20eacc798793f8c3b942b6715a99fe639/394_0_3929_3145/master/3929.jpg?width=700&quality=85&auto=format&fit=max&s=ab49394fc2d9f2a59c393f9c4079c026",
-    "credit": "Photograph: Drew Angerer/Getty Images",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T20:21:43+00:00"
   },
   {
    "id": "9884e09e3f3746b0",
@@ -3232,7 +3253,7 @@
    "id": "18dbf43fb7e25418",
    "title": "Carney aware of 'some aspects' of Stellantis auto plant sale, but says company still broke deal",
    "summary": "Prime Minister Mark Carney says he had been informed of \"some aspects\" of Stellantis's plan to sell an idled Brampton, Ont., auto plant to Canadian armoured vehicle maker Roshel Inc., before the deal was announced.",
-   "source": "CBC Toronto",
+   "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/stellantis-carney-deal-plant-9.7418797?cmp=rss",
    "date": "2026-11-12T13:46:47+00:00",
    "topic": "federal",

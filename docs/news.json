@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T11:48:45+00:00",
+ "generatedAt": "2026-11-13T11:57:49+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,67 @@
   }
  ],
  "items": [
+  {
+   "id": "01e16ef627937021",
+   "title": "Cop31 live: Climate crisis negotiations heat up on fifth day of talks",
+   "summary": "Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit My colleagues Fiona Harve y and Oliver Milman spoke today with Al Gore , the former US vice-president who…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-13T11:52:31+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/8a5f636992a4066c88a9a0a48c1326c5603c8898/668_0_6679_5346/master/6679.jpg?width=700&quality=85&auto=format&fit=max&s=7cf532c62d6613ade4678658a0b9e8de",
+    "credit": "Photograph: Tolga Akmen/EPA",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T07:33:23+00:00"
+  },
+  {
+   "id": "0b3759f8bed346b2",
+   "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+   "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+   "date": "2026-11-13T11:49:56+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/af859fd146834e1d6c80eb74390e4e88d8a15446/268_0_2668_2135/master/2668.jpg?width=700&quality=85&auto=format&fit=max&s=ea37b4d3c3e6708b600d980f1c2a9075",
+    "credit": "Photograph: Stefan Rousseau/Reuters",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T09:13:24+00:00"
+  },
+  {
+   "id": "f8b56170157a68e1",
+   "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
+   "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next week The Home Office underspent its Prevent counter-terror scheme budget by nearly a third last year, despite the number of referrals reaching record levels, the public spending…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+   "date": "2026-11-13T11:47:47+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=700&quality=85&auto=format&fit=max&s=f3f2f67421002d229791d0c0ff6c5fb1",
+    "credit": "Photograph: Andy Rain/EPA",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T10:26:29+00:00"
+  },
   {
    "id": "69564038c20d3cab",
    "title": "Nigerian university in mourning after four students die at post-exam party",
@@ -217,46 +278,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T11:30:39+00:00"
-  },
-  {
-   "id": "01e16ef627937021",
-   "title": "Cop31 live: Climate crisis negotiations heat up on fifth day of talks",
-   "summary": "Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit ‘I want governments to put human rights at the centre of decisions’ During this first week of Cop31 I’ve…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-13T11:15:30+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/8a5f636992a4066c88a9a0a48c1326c5603c8898/668_0_6679_5346/master/6679.jpg?width=700&quality=85&auto=format&fit=max&s=7cf532c62d6613ade4678658a0b9e8de",
-    "credit": "Photograph: Tolga Akmen/EPA",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T07:33:23+00:00"
-  },
-  {
-   "id": "0b3759f8bed346b2",
-   "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-   "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-   "date": "2026-11-13T11:12:22+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/af859fd146834e1d6c80eb74390e4e88d8a15446/268_0_2668_2135/master/2668.jpg?width=700&quality=85&auto=format&fit=max&s=ea37b4d3c3e6708b600d980f1c2a9075",
-    "credit": "Photograph: Stefan Rousseau/Reuters",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T09:13:24+00:00"
   },
   {
    "id": "fa66eb00f7214b61",
@@ -334,25 +355,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-13T11:21:34+00:00"
-  },
-  {
-   "id": "f8b56170157a68e1",
-   "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
-   "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next week Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire village of Piddington into accommodation for more than 1,200 detained…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-   "date": "2026-11-13T10:56:24+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=700&quality=85&auto=format&fit=max&s=f3f2f67421002d229791d0c0ff6c5fb1",
-    "credit": "Photograph: Andy Rain/EPA",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T10:26:29+00:00"
   },
   {
    "id": "45ad344362a213e7",
@@ -943,8 +945,8 @@
   },
   {
    "id": "0764f4e7ef07babc",
-   "title": "Pope Leo gets rapturous welcome in Peru: ‘This visit is like a big party’",
-   "summary": "Pope Leo XIV is visiting the country, where he spent nearly a decade as bishop, during an 11-day South American tour The walls in Chiclayo have been painted with colourful murals and banners welcoming Pope Leo XIV , but he is better known to residents of this…",
+   "title": "Pope Leo gets rapturous welcome on return to Peru: ‘This visit is like a big party’",
+   "summary": "Pontiff is visiting the country, where he spent nearly a decade as bishop, during an 11-day South American tour The walls in Chiclayo have been painted with colourful murals and banners welcoming Pope Leo XIV , but he is better known to residents of this city…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/12/pope-leo-peru-visit",
    "date": "2026-11-13T03:53:40+00:00",

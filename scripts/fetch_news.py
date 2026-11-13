@@ -60,6 +60,15 @@ FEEDS = [
     ("Policy Options", "https://policyoptions.irpp.org/feed/", "local", "federal", True),
 ]
 
+# "Lighter side" feeds for the Keep exploring feed: odd, good and curious news.
+# They never enter news.json or the daily briefing; they only go to the 30-day archive.
+LIGHT_FEEDS = [
+    ("UPI Odd News", "https://rss.upi.com/news/odd_news.rss", "odd"),
+    ("Good News Network", "https://www.goodnewsnetwork.org/feed/", "good"),
+    ("The Guardian", "https://www.theguardian.com/world/series/the-upside/rss", "good"),
+    ("BBC News", "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "curious"),
+]
+
 ANALYSIS_SOURCES = {"The Conversation", "Policy Options"}
 ANALYSIS_RX = re.compile(r"\b(analysis|explainer|explained|what it means|what to know|why it matters|opinion|column|commentary|fact check)\b", re.I)
 
@@ -623,6 +632,21 @@ def main():
     if edition:
         EDITION.write_text(json.dumps(edition, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"edition {edition['date']}: {len(edition['stories'])} stories")
+    # Rolling 30-day archive for the "Keep exploring" feed (old days are deleted).
+    try:
+        import archive
+        light_results = []
+        for feed in LIGHT_FEEDS:
+            try:
+                light_results.append((feed, parse_feed(fetch(feed[1]))))
+            except Exception as e:
+                print(f"[warn] light {feed[0]} {feed[1]}: {e}", file=sys.stderr)
+                light_results.append((feed, None))
+        lighter = archive.light_items(light_results, now, shorten, item_id)
+        changed = archive.update(ROOT / "docs", data["items"], lighter, now)
+        print(f"archive: {len(lighter)} lighter stories; {len(changed)} files changed")
+    except Exception as e:  # the archive is a bonus; never let it break the news update
+        print(f"[warn] archive: {e}", file=sys.stderr)
     # Static pages for search engines (briefing archive, about, sitemap, headlines in index.html).
     try:
         import site_pages

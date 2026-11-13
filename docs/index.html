@@ -142,6 +142,8 @@ body.view-full main.grid { grid-template-columns: 1fr; }
 .item.lead p { -webkit-line-clamp: 4; color: var(--ink); font-size: 16px; }
 .flags { display: flex; gap: 6px; font: 600 11px var(--font-mono); text-transform: uppercase; letter-spacing: .04em; }
 .meta .src { color: var(--ink); font-weight: 600; }
+.dek { font-size: 15px; line-height: 1.4; color: var(--ink); max-width: 68ch; }
+.region.compact .dek { font-size: 14px; color: var(--muted); }
 .region.compact .item p, .region.compact .item .actions { display: none; }
 .region.compact .item .body { padding-block: 11px; gap: 4px; }
 .region.compact .item h3 { font-size: 17px; }
@@ -375,12 +377,29 @@ function clusters() {
   return clusterCache;
 }
 
+const VAGUE = /\b(announcement|update|updates|latest|live|what we know|watch|video|explainer|here's|heres|this week|in brief|briefing|reaction|responds|statement|speaks|says)\b/i;
+function cleanTitle(t) {
+  return String(t || "").replace(/\s+[-–—|]\s+(the latest|([\w.' ]+ )?live( updates| blog)?|latest updates|as it happened|live news)\s*$/i, "").replace(/\s+\|\s+[A-Z][\w .]+$/, "").trim();
+}
+function scent(a) {
+  const t = cleanTitle(a.title); const w = t.split(/\s+/);
+  let s = Math.min(w.length, 16) / 2;
+  s += w.slice(1).filter(x => /^[A-Z][a-z]/.test(x)).length;
+  s += (t.match(/\d/g) ? 1.5 : 0);
+  if (VAGUE.test(t)) s -= 3;
+  if (w.length > 22) s -= 3;
+  if (t.endsWith("?")) s -= 2;
+  return s;
+}
+function isVague(a) { const t = cleanTitle(a.title); return t.split(/\s+/).length < 7 || VAGUE.test(t); }
+function dek(a) { const m = String(a.summary || "").match(/^(.{40,220}?[.!?])(\s|$)/); return m ? m[1] : ""; }
 function dedupe(list) {
   const cl = clusters(); const seen = new Set(); const out = [];
-  for (const a of list) {
-    const g = cl.get(a.id) || [a];
+  for (const first of list) {
+    const g = cl.get(first.id) || [first];
     if (seen.has(g[0].id)) continue;
     seen.add(g[0].id);
+    const a = g.reduce((best, x) => (scent(x) > scent(best) ? x : best), first);
     const srcs = new Set([a.source]);
     const others = g.filter(o => o !== a && !srcs.has(o.source) && srcs.add(o.source));
     out.push({ a, others });
@@ -392,13 +411,14 @@ function cardHTML(a, others, lead) {
   const t = topicById[a.topic] || { label: a.topic, region: a.region };
   const top = beatsOf(a).filter(b => topicById[b]).sort((x, y) => (state.clicks[y] || 0) - (state.clicks[x] || 0))[0];
   const reason = state.view === "foryou" && top && (state.clicks[top] || 0) >= 2 ? `<span class="why">Because you read ${esc(topicById[top].label)}</span>` : "";
-  const also = others && others.length ? `<details class="also"><summary>Also covered by ${others.length} more outlet${others.length > 1 ? "s" : ""}</summary><ul>${others.map(o => `<li><a href="${esc(safeUrl(o.url))}" target="_blank" rel="noopener" data-open="${esc(o.id)}"><b>${esc(o.source)}</b> · ${esc(o.title)}</a></li>`).join("")}</ul></details>` : "";
+  const also = others && others.length ? `<details class="also"><summary>Also covered by ${others.length} more outlet${others.length > 1 ? "s" : ""}</summary><ul>${others.map(o => `<li><a href="${esc(safeUrl(o.url))}" target="_blank" rel="noopener" data-open="${esc(o.id)}"><b>${esc(o.source)}</b> · ${esc(cleanTitle(o.title))}</a></li>`).join("")}</ul></details>` : "";
   const flags = (a.breaking ? '<span class="pill brk">Breaking</span>' : "") + (isNew(a) ? '<span class="pill new">New</span>' : "");
   return `<article class="item${lead ? " lead" : ""}${a.breaking ? " is-breaking" : ""}${state.read.has(a.id) ? " read" : ""}" data-id="${esc(a.id)}">
       <div class="stripe"></div>
       <div class="body">
         ${flags ? `<div class="flags">${flags}</div>` : ""}
-        <h3><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener" data-open="${esc(a.id)}">${esc(a.title)}</a></h3>
+        <h3><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener" data-open="${esc(a.id)}">${esc(cleanTitle(a.title))}</a></h3>
+        ${!lead && isVague(a) && dek(a) ? `<div class="dek">${esc(dek(a))}</div>` : ""}
         <div class="meta">
           <span class="src">${esc(a.source)}</span><span>${esc(fmtDate(a.date))}</span>
           <span class="pill${t.region === "local" ? " local" : ""}">${esc(t.label)}</span>

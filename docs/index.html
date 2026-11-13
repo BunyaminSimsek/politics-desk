@@ -48,7 +48,7 @@ a{color:inherit}
 .brand{display:flex;align-items:center;gap:8px;font-family:var(--serif);font-weight:700;font-size:22px;text-decoration:none}
 .chip{display:inline-flex;align-items:center;gap:5px;padding:6px 10px;border-radius:999px;background:var(--ink-3);font-weight:600;font-size:15px;color:#fff}
 .chip svg{width:16px;height:16px}
-.start-body{flex:1;display:flex;flex-direction:column;justify-content:center;gap:16px}
+.start-body{flex:1;display:flex;flex-direction:column;justify-content:center;gap:14px}
 .kicker-dark{margin:0;font-size:15px;font-weight:500;color:var(--muted-dark)}
 .big{margin:0;font-family:var(--serif);font-weight:700;font-size:clamp(40px,12vw,52px);line-height:1;letter-spacing:-.025em}
 .lede-dark{margin:0;font-size:18px;line-height:1.4;color:#D3DAE6}
@@ -58,6 +58,11 @@ a{color:inherit}
 .cta{min-height:58px;border:0;border-radius:16px;background:#fff;color:var(--ink);font-weight:700;font-size:18px;cursor:pointer;width:100%}
 .ghost{min-height:52px;border:1px solid #5B6E8C;border-radius:16px;background:transparent;color:#fff;font-weight:600;font-size:16px;cursor:pointer;width:100%;display:flex;align-items:center;justify-content:center;text-decoration:none}
 .foot-dark{margin:12px 0 0;text-align:center;font-size:13px;color:var(--muted-dark)}
+.big.topic{font-size:clamp(30px,9vw,40px);line-height:1.06}
+.today-list{margin:4px 0 0;padding:0;list-style:none;border-top:1px solid #2E3F5C}
+.today-list li{display:flex;gap:12px;padding:10px 0;border-bottom:1px solid #2E3F5C;font-size:15px;line-height:1.35;color:#E4E9F1}
+.today-list li span{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--muted-dark);width:14px;flex-shrink:0;padding-top:2px}
+.today-list li b{font-weight:500;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 
 /* ---------- stories ---------- */
 #stories{background:var(--paper);touch-action:none;cursor:pointer;user-select:none;-webkit-user-select:none}
@@ -107,19 +112,29 @@ a{color:inherit}
 .opt.fade{color:#8A93A3}
 
 /* ---------- done ---------- */
-.done-body{display:flex;flex-direction:column;align-items:center;text-align:center;padding-top:36px}
+.done-body{display:flex;flex-direction:column;align-items:center;text-align:center;padding-top:8px}
 .count{display:flex;align-items:center;gap:6px;transform:scale(.8);transition:transform 360ms cubic-bezier(.3,1.6,.5,1)}
 .count.pop{transform:scale(1)}
 .count svg{width:56px;height:56px}
-.count b{font-weight:700;font-size:96px;line-height:1;letter-spacing:-.04em}
-.week{width:100%;display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:6px;margin:26px 0 10px}
+.count b{font-weight:700;font-size:80px;line-height:1;letter-spacing:-.04em}
+.count svg{width:48px;height:48px}
+.shelf{width:100%;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 8px;margin-top:4px}
+.badge{display:flex;flex-direction:column;align-items:center;gap:6px;font-size:12px;line-height:1.2;color:#D3DAE6}
+.medal{width:54px;height:54px;border-radius:27px;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:16px;border:1px dashed #5B6E8C;color:#8A97AD;position:relative}
+.badge.got .medal{background:#fff;border:2px solid #fff;color:var(--ink)}
+.badge.next .medal{border:2px solid var(--flame);color:#fff}
+.badge.locked{color:#8A97AD}
+.badge small{font-size:11px;color:var(--muted-dark)}
+.unlock{margin:0 0 10px;padding:8px 12px;border-radius:12px;background:#fff;color:var(--ink);font-size:14px;font-weight:600;display:none}
+.unlock.on{display:block}
+.week{width:100%;display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:6px;margin:16px 0 8px}
 .day{display:flex;flex-direction:column;align-items:center;gap:6px;font-size:12px;font-weight:500;color:var(--muted-dark)}
-.dot{width:36px;height:36px;border-radius:18px;border:1px solid var(--line-dark);display:flex;align-items:center;justify-content:center}
+.dot{width:32px;height:32px;border-radius:16px;border:1px solid var(--line-dark);display:flex;align-items:center;justify-content:center}
 .dot.done{background:#fff;border-color:#fff}
 .dot.today{border:2px solid var(--flame)}
 .dot.shield{border:1px dashed #5B6E8C}
 .dot svg{width:16px;height:16px}
-.panel{width:100%;padding:16px;border-radius:16px;background:var(--ink-2);text-align:left;display:flex;flex-direction:column;gap:10px;margin-top:18px}
+.panel{width:100%;padding:14px 16px;border-radius:16px;background:var(--ink-2);text-align:left;display:flex;flex-direction:column;gap:10px;margin-top:14px}
 .row{display:flex;justify-content:space-between;gap:12px;font-size:15px}
 .row b{font-weight:600}
 .track{height:8px;border-radius:4px;background:var(--line-dark);overflow:hidden}
@@ -145,7 +160,6 @@ a{color:inherit}
   <section class="screen navy center" id="error">
     <p class="lede-dark" id="errorText">Couldn't load today's briefing.</p>
     <button class="cta" id="retry" style="max-width:240px">Try again</button>
-    <a class="foot-dark" href="latest.html">See the latest headlines instead</a>
   </section>
 
   <section class="screen navy" id="start">
@@ -155,9 +169,9 @@ a{color:inherit}
     </div>
     <div class="start-body">
       <p class="kicker-dark" id="startDate"></p>
-      <h1 class="big" id="startTitle">Your 3‑minute briefing.</h1>
+      <h1 class="big topic" id="startTitle">Your daily briefing.</h1>
       <p class="lede-dark" id="startLede">5 stories. Then you're done for today.</p>
-      <div class="segs" id="startSegs" aria-hidden="true"></div>
+      <ol class="today-list" id="startList"></ol>
       <p class="goal" id="startGoal"></p>
     </div>
     <button class="cta" id="startBtn">Start</button>
@@ -194,21 +208,23 @@ a{color:inherit}
 
   <section class="screen navy" id="done">
     <div class="done-body">
-      <p class="kicker-dark" id="doneKicker" style="margin-bottom:18px">You're done for today</p>
+      <p class="unlock" id="unlock"></p>
+      <p class="kicker-dark" id="doneKicker" style="margin-bottom:10px">You're done for today</p>
       <div class="count" id="count"><svg viewBox="0 0 24 24" fill="#E0646A" aria-hidden="true"><path d="M12 3c1 3 5 5 5 10a5 5 0 0 1-10 0c0-2 1-3.5 2-4.5.3 1.5 1.2 2.5 2.2 2.5C11 8 11.5 5.5 12 3z"/></svg><b id="countNum">0</b></div>
-      <p style="margin:6px 0 0;font-size:20px;font-weight:600">day streak</p>
+      <p style="margin:4px 0 0;font-size:18px;font-weight:600">day streak</p>
       <div class="week" id="week"></div>
       <p class="foot-dark" id="shieldNote" style="margin:0">One missed day a week is protected automatically</p>
       <div class="panel">
         <div class="row"><b id="badgeName">Next badge</b><span id="badgeLeft" style="color:#AFBBD0"></span></div>
         <div class="track"><i id="badgeBar"></i></div>
-        <div class="row" style="padding-top:4px"><b>Informed score</b><span><span id="score">0</span> <span class="gain" id="gain"></span></span></div>
+        <div class="shelf" id="shelf"></div>
+        <div class="row" style="padding-top:4px;border-top:1px solid #2E3F5C;padding-top:10px"><b>Informed score</b><span><span id="score">0</span> <span class="gain" id="gain"></span></span></div>
       </div>
     </div>
     <div class="grow"></div>
-    <p style="margin:0 0 14px;text-align:center;font-size:15px;color:#D3DAE6">Next briefing in <b id="countdown" style="color:#fff"></b> · 7:00 a.m.</p>
-    <a class="ghost" href="latest.html">Browse the latest headlines</a>
-    <button class="foot-dark" id="review" style="background:none;border:0;cursor:pointer;min-height:44px">Review today's stories</button>
+    <p style="margin:0;text-align:center;font-size:13px;color:#AFBBD0">Your next briefing</p>
+    <p style="margin:2px 0 0;text-align:center;font-size:22px;font-weight:700;color:#fff" id="nextWhen">Tomorrow at 7:00 a.m.</p>
+    <p style="margin:2px 0 0;text-align:center;font-size:14px;color:#D3DAE6">in <b id="countdown" style="color:#fff"></b></p>
   </section>
 </main>
 
@@ -217,7 +233,9 @@ a{color:inherit}
   'use strict';
   const $ = (id) => document.getElementById(id);
   const BADGES = [3, 7, 14, 30, 100, 365];
-  const BADGE_NAMES = {3: '3‑day badge', 7: '1‑week badge', 14: '2‑week badge', 30: '1‑month badge', 100: '100‑day badge', 365: '1‑year badge'};
+  const BADGE_NAMES = {3: 'Cub Reporter', 7: 'Beat Reporter', 14: 'Correspondent', 30: 'Bureau Chief', 100: 'Editor‑in‑Chief', 365: 'Elder Statesman'};
+  const PLACE_NAME = {'US': 'the US', 'Middle East': 'the Middle East', 'World': 'world affairs'};
+  const listJoin = (xs) => xs.length < 2 ? xs.join('') : xs.slice(0, -1).join(', ') + ' and ' + xs[xs.length - 1];
   const FLAME = '<svg viewBox="0 0 24 24" fill="none" stroke="#142238" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l4 4 10-10"/></svg>';
   const SHIELD = '<svg viewBox="0 0 24 24" fill="none" stroke="#AFBBD0" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5c0 5-3 8-7 10-4-2-7-5-7-10V6z"/></svg>';
   const TONES = ['#C7D0DC', '#D6D2C8', '#D5CCC1', '#C7D0DC', '#D0D6C9'];
@@ -269,7 +287,8 @@ a{color:inherit}
   // ---------- state ----------
   let ed = null, step = 0, total = 0, answer = null, hasQ = false;
   const saved = new Set(store.get('pd:bsaved', []));
-  let hinted = store.get('pd:hinted', false);
+  let hinted = false; // the swipe hint shows on the first story until you move, during your first streak only
+  let hintTimer = 0;
 
   function show(id) { document.querySelectorAll('.screen').forEach((el) => el.classList.toggle('on', el.id === id)); }
   function setStreakChips(n) { document.querySelectorAll('.js-streak').forEach((el) => { el.textContent = n; }); }
@@ -284,11 +303,12 @@ a{color:inherit}
     setStreakChips(live);
     const isToday = ed.date === now.date;
     const doneToday = s.last === ed.date;
-    $('startDate').textContent = isToday ? longDate(ed.date) : `${longDate(ed.date)} · new briefing at 7:00`;
-    $('startTitle').textContent = doneToday ? "You're all caught up." : 'Your 3‑minute briefing.';
-    $('startLede').textContent = doneToday ? 'Come back at 7:00 for tomorrow’s five.' : `${total} stories${hasQ ? '. 1 question' : ''}. Then you're done for today.`;
+    $('startDate').textContent = isToday ? `${longDate(ed.date)} · 3‑minute briefing` : `${longDate(ed.date)} · new briefing at 7:00`;
+    const places = [...new Set(ed.stories.map((x) => PLACE_NAME[x.place] || x.place))];
+    $('startTitle').textContent = doneToday ? "You're all caught up." : `Your daily briefing on ${listJoin(places)}.`;
+    $('startLede').textContent = doneToday ? 'Your next briefing arrives at 7:00 a.m.' : `${total} stories${hasQ ? ', 1 question' : ''}. Then you're done for today.`;
+    $('startList').innerHTML = doneToday ? '' : ed.stories.map((x, i) => `<li><span>${i + 1}</span><b>${esc(x.title)}</b></li>`).join('');
     $('startGoal').textContent = doneToday ? '' : (live > 0 ? `Finish today to reach a ${live + 1}‑day streak` : 'Finish today to start your streak');
-    $('startSegs').innerHTML = '<i></i>'.repeat(total) + (hasQ ? '<i style="flex:0 0 22px"></i>' : '');
     $('startBtn').textContent = doneToday ? 'See my streak' : 'Start';
 
     $('cards').innerHTML = ed.stories.map((st, i) => {
@@ -323,7 +343,7 @@ a{color:inherit}
     const last = total + (hasQ ? 1 : 0) + 1; // done screen
     n = Math.max(0, Math.min(last, n));
     if (n === step) return;
-    if (step >= 1 && n !== step && !hinted) { hinted = true; store.set('pd:hinted', true); }
+    if (step >= 1 && n !== step) hinted = true;
     step = n;
     if (step === 0) { render(); show('start'); return; }
     if (step <= total) {
@@ -331,7 +351,11 @@ a{color:inherit}
       [...$('cards').children].forEach((c, i) => { c.style.transform = `translateY(${(i + 1 - step) * 100}%)`; c.setAttribute('aria-hidden', i + 1 === step ? 'false' : 'true'); });
       [...$('dots').children].forEach((d, i) => { d.className = i + 1 === step ? 'now' : i + 1 < step ? 'done' : ''; });
       $('upBtn').style.opacity = step === 1 ? '.35' : '1';
-      $('hint').classList.toggle('on', step === 1 && !hinted);
+      const firstStreak = !loadStreak().days.length;
+      const showHint = step === 1 && !hinted && firstStreak;
+      $('hint').classList.toggle('on', showHint);
+      clearTimeout(hintTimer);
+      if (showHint) hintTimer = setTimeout(() => $('hint').classList.remove('on'), 4500);
       const st = ed.stories[step - 1];
       $('openBtn').href = safeUrl(st.url);
       const on = saved.has(st.id);
@@ -369,7 +393,15 @@ a{color:inherit}
     $('shieldNote').textContent = used ? 'Your weekly shield covered the day you missed' : (s.shields[weekKey(now.date)] ? 'This week’s shield is used — don’t miss tomorrow' : 'One missed day a week is protected automatically');
     const nextBadge = BADGES.find((b) => b > live) || 365;
     const prevBadge = [...BADGES].reverse().find((b) => b <= live) || 0;
+    const best = Math.max(s.best, live);
     $('badgeName').textContent = `Next: ${BADGE_NAMES[nextBadge]}`;
+    $('shelf').innerHTML = BADGES.map((b) => {
+      const cls = best >= b ? 'got' : b === nextBadge ? 'next' : 'locked';
+      return `<div class="badge ${cls}"><div class="medal">${b}</div><span>${BADGE_NAMES[b]}</span><small>${best >= b ? 'Earned' : b + ' days'}</small></div>`;
+    }).join('');
+    const newBadge = gained && BADGES.includes(live) && live === s.streak;
+    $('unlock').textContent = newBadge ? `New badge unlocked: ${BADGE_NAMES[live]}` : '';
+    $('unlock').classList.toggle('on', !!newBadge);
     const left = nextBadge - live;
     $('badgeLeft').textContent = `${left} day${left === 1 ? '' : 's'} to go`;
     $('badgeBar').style.width = '0%';
@@ -383,6 +415,7 @@ a{color:inherit}
     const {h, m} = torontoParts();
     const mins = (h < 7 ? (7 - h) * 60 : (31 - h) * 60) - m;
     $('countdown').textContent = `${Math.floor(mins / 60)} h ${mins % 60} min`;
+    $('nextWhen').textContent = h < 7 ? 'Today at 7:00 a.m.' : 'Tomorrow at 7:00 a.m.';
   }
   setInterval(() => { if ($('done').classList.contains('on')) tick(); }, 30000);
 
@@ -391,7 +424,6 @@ a{color:inherit}
   $('upBtn').addEventListener('click', () => go(step - 1));
   $('downBtn').addEventListener('click', () => go(step + 1));
   $('qBack').addEventListener('click', () => go(total));
-  $('review').addEventListener('click', () => { step = 0; go(1); });
   $('retry').addEventListener('click', load);
   $('saveBtn').addEventListener('click', () => {
     const st = ed.stories[step - 1]; if (!st) return;

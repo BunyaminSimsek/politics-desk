@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T04:49:37+00:00",
+ "generatedAt": "2026-11-13T04:58:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,61 @@
  ],
  "items": [
   {
+   "id": "045e9e0aed975267",
+   "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
+   "summary": "Despite knowing a war with Iran would be manufactured for Netanyahu's survival, many would still rally behind it.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss",
+   "date": "2026-11-13T04:48:40+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T04:58:38+00:00"
+  },
+  {
+   "id": "7a3c0cfff71572bd",
+   "title": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
+   "summary": "Government services and schools impacted by Outlook and Teams issue as company says fix not ‘taking as expected’ Microsoft struggles to fix huge outage affecting Outlook and Teams Australian schools, courts and government services have been hurled back in…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
+   "date": "2026-11-13T04:40:14+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f0ae4d035807e736dec6925a910e633298856938/354_12_2900_2321/master/2900.jpg?width=700&quality=85&auto=format&fit=max&s=a4e8a63dcd001d313e4b3db89f088da3",
+    "credit": "Photograph: Mike Blake/Reuters",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T04:58:38+00:00"
+  },
+  {
+   "id": "9d8d07b195198d4a",
+   "title": "Talarico appeals to Trump’s legacy in bid for bipartisan reforms",
+   "summary": "Texas Democrat Senator-elect James Talarico has urged his party to work with President Trump.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/talarico-appeals-to-trumps-legacy-in-bid-for-bipartisan-reforms?traffic_source=rss",
+   "date": "2026-11-13T04:36:45+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-13T04:58:38+00:00"
+  },
+  {
    "id": "f4e83571e3a82c8f",
    "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
    "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-   "date": "2026-11-13T04:15:57+00:00",
+   "date": "2026-11-13T04:36:24+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [

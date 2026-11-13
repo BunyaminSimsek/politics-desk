@@ -448,8 +448,24 @@ def make_edition(items, now, old):
         return None  # today's edition already exists; keep it fixed for the day
     if old and old.get("date") != today and not after_seven:
         return None  # before 7:00, keep showing yesterday's edition
+    # Never repeat an article from the previous edition, so every day brings new reading.
+    seen_before = set()
+    for st in (old or {}).get("stories", []):
+        seen_before.add(st.get("id"))
+        seen_before.add(st.get("url"))
+        seen_before.update(x.get("url") for x in st.get("sources", []))
+    for fresh_only in (True, False):
+        edition = _pick_edition(items, now, today, after_seven, seen_before if fresh_only else set())
+        if edition:
+            return edition
+    return None
+
+
+def _pick_edition(items, now, today, after_seven, seen_before):
     pool = []
     for it in items:
+        if it["id"] in seen_before or it["url"] in seen_before:
+            continue
         if it.get("kind") == "analysis" or SKIP_RX.search(it["title"]) or " | " in it["title"] or MEDIA_URL_RX.search(it["url"]):
             continue
         if not it.get("date") or now - datetime.fromisoformat(it["date"]) > timedelta(hours=24):

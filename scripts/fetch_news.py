@@ -430,11 +430,12 @@ PLACE = {
     "federal": "Canada", "ontario": "Ontario", "toronto": "Toronto",
 }
 LOCAL_TOPICS = {"federal", "ontario", "toronto"}
+MEDIA_URL_RX = re.compile(r"/(video|videos|audio|live|podcasts?)/", re.I)
 SKIP_RX = re.compile(r"\b(live|podcast|as it happened|video|watch|quiz|newsletter|in pictures)\b", re.I)
 
 
 def tidy_title(t):
-    t = re.sub(r"\s+[–—-]\s+(live|podcast|as it happened|video)$", "", t, flags=re.I)
+    t = re.sub(r"\s+[–—-]\s+(live|podcast|as it happened|video|the latest)$", "", t, flags=re.I)
     return t.strip()
 
 
@@ -449,7 +450,7 @@ def make_edition(items, now, old):
         return None  # before 7:00, keep showing yesterday's edition
     pool = []
     for it in items:
-        if it.get("kind") == "analysis" or SKIP_RX.search(it["title"]) or " | " in it["title"]:
+        if it.get("kind") == "analysis" or SKIP_RX.search(it["title"]) or " | " in it["title"] or MEDIA_URL_RX.search(it["url"]):
             continue
         if not it.get("date") or now - datetime.fromisoformat(it["date"]) > timedelta(hours=24):
             continue

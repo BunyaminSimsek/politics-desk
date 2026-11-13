@@ -221,7 +221,7 @@ def about_page(feed_names):
 <h2>Why it's short</h2>
 <p>Many people avoid the news because it feels endless and draining. A briefing with a clear end, a streak for showing up, and a one-question check at the end is meant to keep you informed without the doom-scrolling.</p>
 <h2>More</h2>
-<p>Browse every story from the last three days under “All stories” in the app, or read <a href="../briefing/">past briefings</a>. The code is open on <a href="https://github.com/BunyaminSimsek/politics-desk" rel="noopener">GitHub</a>.</p>
+<p>Browse every story from the last three days under “All stories” in the app, or read <a href="../briefing/">past briefings</a>.</p>
 </div>"""
     jsonld = {"@context": "https://schema.org", "@type": "AboutPage", "name": f"About {NAME}", "url": f"{SITE}/about/"}
     return page(path="about/", title=f"About · {NAME}",

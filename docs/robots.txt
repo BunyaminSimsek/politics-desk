@@ -1,0 +1,30 @@
+# PoliDesk: everyone is welcome to crawl the site.
+User-agent: *
+Allow: /
+
+# Search and AI-answer crawlers, listed explicitly so the intent is clear.
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# ChatGPT search
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# Claude search
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+Sitemap: https://polidesk.ca/sitemap.xml

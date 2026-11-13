@@ -4,8 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>PoliDesk · Your daily briefing</title>
-<meta name="description" content="Five political stories a day, in about three minutes. Keep your streak.">
+<meta name="description" content="A free daily political briefing: the five most-covered political stories each morning from Canada, Ontario, Toronto and the world. A few minutes, then you're done.">
+<meta name="robots" content="max-image-preview:large">
 <link rel="canonical" href="https://polidesk.ca/">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://polidesk.ca/#website","name":"PoliDesk","alternateName":["Polidesk","polidesk.ca","PoliDesk daily briefing"],"url":"https://polidesk.ca/","description":"A free daily political briefing: the five most-covered political stories each morning from Canada, Ontario, Toronto and the world.","inLanguage":"en-CA","publisher":{"@id":"https://polidesk.ca/#org"}},{"@type":"Organization","@id":"https://polidesk.ca/#org","name":"PoliDesk","url":"https://polidesk.ca/","logo":"https://polidesk.ca/icon-512.png","sameAs":["https://github.com/BunyaminSimsek/politics-desk"]}]}</script>
 <meta name="google-site-verification" content="hT2tY545Z9MrgVsNnf3r3NJMgxWsLqAfInLAjSgkfUg">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="PoliDesk">
@@ -131,6 +133,9 @@ a{color:inherit}
 .done-actions .ghost svg{width:16px;height:16px;flex-shrink:0}
 .rail,.actions{transition:opacity 200ms ease}
 @media (max-width:1099px){ #stories.reading .rail,#stories.reading .actions,#stories.reading .hint{opacity:0;pointer-events:none} }
+.start-links{display:flex;justify-content:center;gap:4px 16px;flex-wrap:wrap}
+.start-links .linkish{margin:0}
+.reread-note a{color:inherit}
 .reread-note{margin:8px 0 0;text-align:center;font-size:12px;color:var(--muted-dark)}
 .next{display:flex;align-items:center;gap:8px;min-height:46px;padding-bottom:env(safe-area-inset-bottom);border-top:1px solid #EDEFF3;font-size:13px;color:var(--muted)}
 .next span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -256,7 +261,8 @@ a{color:inherit}
   #startGoal{grid-column:1;grid-row:7;margin-top:18px}
   #startBtn{grid-column:1;grid-row:8;margin-top:28px;max-width:420px}
   #startFoot{grid-column:1;grid-row:9;text-align:left;max-width:420px}
-  #start .js-all{grid-column:1;grid-row:10;justify-self:start;margin:8px 0 0;padding:6px 0}
+  #start .start-links{grid-column:1;grid-row:10;justify-content:flex-start;margin-top:8px}
+  #start .start-links .linkish{padding:6px 0}
   #startList{grid-column:2;grid-row:3/11;align-self:center;margin:0}
   .big.topic{font-size:clamp(44px,3.6vw,60px)}
   .kicker-dark{font-size:17px}
@@ -346,16 +352,16 @@ a{color:inherit}
       <span class="chip"><svg viewBox="0 0 24 24" fill="#E0646A" aria-hidden="true"><path d="M12 3c1 3 5 5 5 10a5 5 0 0 1-10 0c0-2 1-3.5 2-4.5.3 1.5 1.2 2.5 2.2 2.5C11 8 11.5 5.5 12 3z"/></svg><span class="js-streak">0</span><span class="sr"> day streak</span></span>
     </div>
     <div class="start-body">
-      <p class="kicker-dark" id="startDate"></p>
+      <p class="kicker-dark" id="startDate">Friday, November 13, 2026</p>
       <h1 class="big topic" id="startTitle" tabindex="-1">Today's briefing.</h1>
-      <div class="places" id="startPlaces"></div>
+      <div class="places" id="startPlaces"><span>US</span><span>Canada</span><span>Ukraine</span><span>Africa</span></div>
       <p class="lede-dark" id="startLede">5 stories. Then you're done for today.</p>
-      <ol class="today-list" id="startList"></ol>
+      <ol class="today-list" id="startList"><li><span>1</span><b>Hegseth awards medal to soldier who chastised him</b></li><li><span>2</span><b>Trump says no deal needed on Iran war and orders Vance to focus on domestic issues</b></li><li><span>3</span><b>Carney wraps meetings on security, trade with European leaders in Ireland</b></li><li><span>4</span><b>US envoys meet Zelensky in Dublin after talks with Putin in Moscow</b></li><li><span>5</span><b>Nigerian university in mourning after four students die at post-exam party</b></li></ol>
       <p class="goal" id="startGoal"></p>
     </div>
     <button class="cta" id="startBtn">Start</button>
     <p class="foot-dark" id="startFoot">Swipe up, or use the arrows on the left</p>
-    <button class="linkish js-all" type="button">Browse all stories</button>
+    <div class="start-links"><button class="linkish js-all" type="button">Browse all stories</button><a class="linkish" href="briefing/">Past briefings</a><a class="linkish" href="about/">About</a></div>
   </section>
 
   <section class="screen" id="stories" aria-roledescription="carousel" aria-label="Today's stories">
@@ -414,7 +420,7 @@ a{color:inherit}
       <button class="ghost" id="againBtn" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></svg>Today’s briefing</button>
       <button class="ghost js-all" type="button">All stories</button>
     </div>
-    <p class="reread-note">Reading again doesn’t change your streak.</p>
+    <p class="reread-note">Reading again doesn’t change your streak. · <a href="briefing/">Past briefings</a></p>
   </section>
 
   <section class="screen" id="all" aria-labelledby="allTitle">

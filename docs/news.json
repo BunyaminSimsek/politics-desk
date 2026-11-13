@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T16:51:00+00:00",
+ "generatedAt": "2026-11-13T17:00:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -202,6 +202,44 @@
    "addedAt": "2026-11-13T11:21:34+00:00"
   },
   {
+   "id": "d52444b99fb9fa3e",
+   "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+   "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T16:40:31+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T17:00:12+00:00"
+  },
+  {
+   "id": "0b3759f8bed346b2",
+   "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live",
+   "summary": "Kaja Kallas warns against agreeing to Russia’s proposed sequence of events on talks on Ukraine Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+   "date": "2026-11-13T16:39:34+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e308c3f7bef8218a6a291d8a4a13b3ac9c676166/1128_254_3855_3084/master/3855.jpg?width=700&quality=85&auto=format&fit=max&s=91c000d8e320f21d165dccb1cf8b3803",
+    "credit": "Photograph: Liam McBurney/PA",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T09:13:24+00:00"
+  },
+  {
    "id": "fa576b987fcbb609",
    "title": "Chuck Schumer’s challenger for party control underscores Democrats’ ideological rift",
    "summary": "Senator Chris Van Hollen’s policy credentials allowed his quick rise to roles usually reserved for the more tenured US politics live – latest updates US senator Chris Van Hollen’s challenge to Chuck Schumer ’s leadership of Senate Democrats presents an…",
@@ -221,25 +259,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T16:51:00+00:00"
-  },
-  {
-   "id": "0b3759f8bed346b2",
-   "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live",
-   "summary": "Kaja Kallas warns against agreeing to Russia’s proposed sequence of events on talks on Ukraine Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-   "date": "2026-11-13T16:32:57+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/e308c3f7bef8218a6a291d8a4a13b3ac9c676166/1128_254_3855_3084/master/3855.jpg?width=700&quality=85&auto=format&fit=max&s=91c000d8e320f21d165dccb1cf8b3803",
-    "credit": "Photograph: Liam McBurney/PA",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T09:13:24+00:00"
   },
   {
    "id": "9519d78de0e4d5e3",
@@ -4588,25 +4607,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "3e564587b6f20b9c",
-   "title": "Ontario appoints regional council chairs, including outgoing Conservative MP",
-   "summary": "Ontario Premier Doug Ford's government has appointed eight regional heads of council, including outgoing Conservative MP Scott Aitchison.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12144461/ontario-regional-council-chair-appointments/",
-   "date": "2026-11-10T16:55:45+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/4fe8d6f6e865bf5e90649f23d139b43a5614ade5a0d12ea600d4b458af77af32.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   }
  ]
 }

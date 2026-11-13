@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T03:54:47+00:00",
+ "generatedAt": "2026-11-13T04:03:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,13 +41,13 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "BBC News",
@@ -165,6 +165,25 @@
   }
  ],
  "items": [
+  {
+   "id": "daff2696e62e3670",
+   "title": "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
+   "summary": "US lawmakers want to question him over whether one of his alleged relationships was with a Chinese spy.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T03:57:01+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T04:03:53+00:00"
+  },
   {
    "id": "0764f4e7ef07babc",
    "title": "Pope Leo gets rapturous welcome in Peru: ‘This visit is like a big party’",

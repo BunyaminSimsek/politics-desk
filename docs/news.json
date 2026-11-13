@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T13:47:13+00:00",
+ "generatedAt": "2026-11-13T13:56:22+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "CBC World",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 19
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,12 +166,31 @@
  ],
  "items": [
   {
+   "id": "f8b56170157a68e1",
+   "title": "Row breaks out between Tories and Reform at Piddington news conference – UK politics live",
+   "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and cameras Earlier today, Downing Street said the government was seeking to establish “the full picture” of Microsoft outages as it urged people too follow advice on…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+   "date": "2026-11-13T13:49:44+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=700&quality=85&auto=format&fit=max&s=b5874302dea07c19ab4a9d320b0e798b",
+    "credit": "Photograph: Christopher Furlong/Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T10:26:29+00:00"
+  },
+  {
    "id": "01e16ef627937021",
    "title": "Cop31 live: ‘I will never give up’ UN chief tells climate summit ahead of last address",
    "summary": "Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit Far away from the conference centre, Norway’s supreme court has declared the state’s decision to award…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-13T13:47:03+00:00",
+   "date": "2026-11-13T13:48:47+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -208,23 +227,23 @@
    "addedAt": "2026-11-13T11:21:34+00:00"
   },
   {
-   "id": "f8b56170157a68e1",
-   "title": "Row breaks out between Tories and Reform at Piddington news conference – UK politics live",
-   "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and cameras Meanwhile, Downing Street has defended plans to convert the site at MoD Bicester near Piddington into asylum seeker accommodation. Responding to questions around…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-   "date": "2026-11-13T13:29:36+00:00",
-   "topic": "europe",
-   "region": "world",
+   "id": "2a300245a14376d6",
+   "title": "Ontario's minister of transportation to speak to reporters in Brampton",
+   "summary": "Prabmeet Sarkaria, Ontario's minister of transportation, is set to hold a news conference in Brampton, Ont. at 8:30 a.m. ET Friday.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/player/play/9.7419674?cmp=rss",
+   "date": "2026-11-13T13:30:00+00:00",
+   "topic": "ontario",
+   "region": "local",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=700&quality=85&auto=format&fit=max&s=b5874302dea07c19ab4a9d320b0e798b",
-    "credit": "Photograph: Christopher Furlong/Getty Images",
+    "url": "https://i.cbc.ca/ais/b122e2e6-6862-4052-9055-750a961048f3,1794514169557/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "credit": "",
     "caption": ""
    },
    "breaking": false,
-   "addedAt": "2026-11-13T10:26:29+00:00"
+   "addedAt": "2026-11-13T13:56:22+00:00"
   },
   {
    "id": "0b3759f8bed346b2",

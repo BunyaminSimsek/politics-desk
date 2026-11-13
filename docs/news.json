@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T14:32:48+00:00",
+ "generatedAt": "2026-11-13T14:41:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "0764f4e7ef07babc",
+   "title": "Pope Leo gets rapturous welcome on return to Peru: ‘This visit is like a big party’",
+   "summary": "Pontiff is visiting the country, where he spent nearly a decade as bishop, during an 11-day South American tour The walls in Chiclayo have been painted with colourful murals and banners welcoming Pope Leo XIV , but he is better known to residents of this city…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/12/pope-leo-peru-visit",
+   "date": "2026-11-13T14:36:51+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0740bfa7a485eee34a3164214111d52aff641ab6/1120_0_5768_4615/master/5768.jpg?width=700&quality=85&auto=format&fit=max&s=bb15f2473498fb4a4f5b252ee3c52c3e",
+    "credit": "Photograph: Ernesto Benavides/AFP/Getty Images",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-12T22:23:46+00:00"
+  },
+  {
    "id": "0b3759f8bed346b2",
    "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live",
    "summary": "Kaja Kallas warns against agreeing to Russia’s proposed sequence of events on talks on Ukraine Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour…",
@@ -205,7 +224,7 @@
   },
   {
    "id": "01e16ef627937021",
-   "title": "Cop31 live: ‘I will never give up’ UN chief tells climate summit ahead of last address",
+   "title": "Cop31 live: ‘You cannot build peace on a burning planet’, warns UN chief Guterres in final climate summit speech",
    "summary": "Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summit Far away from the conference centre, Norway’s supreme court has declared the state’s decision to award…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
@@ -217,8 +236,8 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/6335a1eb2dced487864545ae8f3ecc63fd276554/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=1c050b1060111b1a879ced2704561f21",
-    "credit": "Photograph: Lukas Coch/AAP",
+    "url": "https://i.guim.co.uk/img/media/c9462ab20a09626a7291b1ebf3990cc61fe5fa94/1161_956_4882_3906/master/4882.jpg?width=700&quality=85&auto=format&fit=max&s=c2eec490a71217039afb0913f10dbbd4",
+    "credit": "Photograph: Tolga Akmen/EPA",
     "caption": ""
    },
    "breaking": false,
@@ -1224,25 +1243,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T04:03:53+00:00"
-  },
-  {
-   "id": "0764f4e7ef07babc",
-   "title": "Pope Leo gets rapturous welcome on return to Peru: ‘This visit is like a big party’",
-   "summary": "Pontiff is visiting the country, where he spent nearly a decade as bishop, during an 11-day South American tour The walls in Chiclayo have been painted with colourful murals and banners welcoming Pope Leo XIV , but he is better known to residents of this city…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/12/pope-leo-peru-visit",
-   "date": "2026-11-13T03:53:40+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/0740bfa7a485eee34a3164214111d52aff641ab6/1120_0_5768_4615/master/5768.jpg?width=700&quality=85&auto=format&fit=max&s=bb15f2473498fb4a4f5b252ee3c52c3e",
-    "credit": "Photograph: Ernesto Benavides/AFP/Getty Images",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   },
   {
    "id": "6c48175ae0bc8c53",

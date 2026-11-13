@@ -2,739 +2,464 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>PoliDesk</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>PoliDesk · Your daily briefing</title>
+<meta name="description" content="Five political stories a day, in about three minutes. Keep your streak.">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="manifest" href="manifest.webmanifest">
 <meta name="theme-color" content="#142238">
+<meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="PoliDesk">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&family=Source+Sans+3:wght@500;600;700&family=Inter:wght@400;500&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
 <style>
-/* PoliDesk visual system: Ink Navy on Paper, serif headlines over sans text, ruled editorial grid.
-   Layout: centred masthead, 1160px column, 3/2/1-column story grid with a featured lead. */
-:root {
-  --ink: #142238;          /* Ink Navy */
-  --paper: #F6F5F1;        /* Paper */
-  --signal: #B52A31;       /* Signal Red */
-  --slate: #64748B;        /* Slate: rules, icons, large text */
-  --slate-text: #5B6577;   /* Slate tuned for small text on Paper (5.4:1) */
-  --white: #FFFFFF;
-  --rule: #D9D6CC;
-  --tint: #E9ECF2;
-  --font-head: "Source Serif 4", Georgia, "Times New Roman", serif;
-  --font-sub: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
-  --font-body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
-  --gap: 24px;
-  --radius: 4px;
-  color-scheme: light;
+/* PoliDesk daily briefing.
+   Reading surfaces are dark text on white (positive polarity reads better at every age).
+   Colour stays low-saturation: ink navy + paper; red only marks the streak and "you are here". */
+:root{
+  --ink:#142238; --ink-2:#1C2C48; --ink-3:#24365A; --line-dark:#3A4B66;
+  --paper:#F6F5F1; --white:#FFFFFF; --text:#2B3545; --muted:#5B6577; --muted-dark:#AFBBD0;
+  --soft:#EEF1F5; --pill:#D9DEE6; --signal:#B52A31; --flame:#E0646A;
+  --serif:'Source Serif 4',Georgia,serif; --sans:Inter,system-ui,-apple-system,'Segoe UI',sans-serif;
+  --ease:cubic-bezier(.2,.8,.2,1);
 }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --ink: #EDEFF4; --paper: #0E1626; --white: #152035; --slate: #8A97AB; --slate-text: #A3AEC0;
-    --signal: #E0575D; --rule: #26334A; --tint: #1E2A40; color-scheme: dark;
-  }
+*{box-sizing:border-box}
+html,body{margin:0;height:100%;background:#0E1828;overscroll-behavior:none}
+body{font-family:var(--sans);color:var(--ink);-webkit-font-smoothing:antialiased;-webkit-tap-highlight-color:transparent}
+button{font:inherit;color:inherit}
+a{color:inherit}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* The app is one phone-shaped stage; on wide screens it sits centred. */
+#app{position:relative;width:100%;max-width:480px;height:100dvh;margin:0 auto;overflow:hidden;background:var(--ink)}
+@media (min-width:700px){
+  body{display:flex;align-items:center;justify-content:center;background:#0B1422}
+  #app{height:min(900px,96dvh);border-radius:28px;box-shadow:0 0 0 1px #24365A}
 }
-:root[data-theme="dark"] {
-  --ink: #EDEFF4; --paper: #0E1626; --white: #152035; --slate: #8A97AB; --slate-text: #A3AEC0;
-  --signal: #E0575D; --rule: #26334A; --tint: #1E2A40; color-scheme: dark;
-}
-* { box-sizing: border-box; }
-html, body { margin: 0; }
-body { background: var(--paper); color: var(--ink); font: 16px/1.55 var(--font-body); }
-a { color: inherit; }
-button, select, input { font: inherit; color: inherit; }
-button { cursor: pointer; }
-:focus-visible { outline: 2px solid var(--signal); outline-offset: 2px; border-radius: 2px; }
-.skip { position: absolute; left: -9999px; top: 8px; background: var(--ink); color: var(--paper); padding: 8px 12px; border-radius: var(--radius); z-index: 10; }
-.skip:focus { left: 16px; }
-.wrap { max-width: 1160px; margin: 0 auto; padding: 0 20px; }
+.screen{position:absolute;inset:0;display:none}
+.screen.on{display:flex}
+:focus-visible{outline:3px solid #7FA7E8;outline-offset:2px}
 
-/* Masthead */
-header.mast { background: var(--paper); border-bottom: 1px solid var(--ink); }
-.mast-top { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 16px; padding-top: 18px; padding-bottom: 14px; border-bottom: 3px double var(--ink); }
-.dateline, .live { font: 500 12px/1.4 var(--font-mono); color: var(--slate-text); letter-spacing: .04em; }
-.dateline { text-transform: uppercase; }
-.brand { display: flex; align-items: center; gap: 12px; text-decoration: none; justify-self: center; }
-.brand img { width: 44px; height: 44px; border-radius: 8px; }
-.brand .word { font: 700 44px/1 var(--font-head); letter-spacing: -0.025em; }
-.idot { position: relative; }
-.idot::after { content: ""; position: absolute; left: 50%; top: 0.02em; width: 0.2em; height: 0.2em; margin-left: -0.1em; border-radius: 50%; background: var(--signal); }
-.live { justify-self: end; display: inline-flex; align-items: center; gap: 8px; }
-.live .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--slate); }
-.live.on .dot { background: var(--signal); }
-nav.tabs { display: flex; justify-content: center; gap: 4px; flex-wrap: wrap; }
-nav.tabs button { background: none; border: 0; border-bottom: 3px solid transparent; padding: 10px 14px 9px; font: 600 15px var(--font-sub); color: var(--slate-text); }
-nav.tabs button[aria-pressed="true"] { color: var(--ink); border-bottom: 4px solid var(--ink); font-weight: 700; }
-nav.tabs .count { font: 500 11px var(--font-mono); color: var(--slate-text); margin-left: 4px; }
+/* ---------- start + done (navy) ---------- */
+.navy{background:var(--ink);color:#fff;flex-direction:column;padding:calc(18px + env(safe-area-inset-top)) 24px calc(24px + env(safe-area-inset-bottom))}
+.bar{display:flex;align-items:center;justify-content:space-between}
+.brand{display:flex;align-items:center;gap:8px;font-family:var(--serif);font-weight:700;font-size:22px;text-decoration:none}
+.chip{display:inline-flex;align-items:center;gap:5px;padding:6px 10px;border-radius:999px;background:var(--ink-3);font-weight:600;font-size:15px;color:#fff}
+.chip svg{width:16px;height:16px}
+.start-body{flex:1;display:flex;flex-direction:column;justify-content:center;gap:16px}
+.kicker-dark{margin:0;font-size:15px;font-weight:500;color:var(--muted-dark)}
+.big{margin:0;font-family:var(--serif);font-weight:700;font-size:clamp(40px,12vw,52px);line-height:1;letter-spacing:-.025em}
+.lede-dark{margin:0;font-size:18px;line-height:1.4;color:#D3DAE6}
+.segs{display:flex;gap:6px;margin-top:10px}
+.segs i{flex:1;height:6px;border-radius:3px;background:var(--line-dark)}
+.goal{margin:0;font-size:15px;font-weight:600;color:var(--flame)}
+.cta{min-height:58px;border:0;border-radius:16px;background:#fff;color:var(--ink);font-weight:700;font-size:18px;cursor:pointer;width:100%}
+.ghost{min-height:52px;border:1px solid #5B6E8C;border-radius:16px;background:transparent;color:#fff;font-weight:600;font-size:16px;cursor:pointer;width:100%;display:flex;align-items:center;justify-content:center;text-decoration:none}
+.foot-dark{margin:12px 0 0;text-align:center;font-size:13px;color:var(--muted-dark)}
 
-/* Breaking strip */
-.breaking { background: var(--white); border-bottom: 3px solid var(--signal); }
-.breaking .wrap { display: grid; grid-template-columns: auto 1fr; gap: 14px; padding-top: 10px; padding-bottom: 10px; align-items: start; }
-.breaking .tag { background: var(--signal); color: #fff; font: 600 11px/1 var(--font-mono); letter-spacing: .08em; padding: 6px 8px; border-radius: 2px; text-transform: uppercase; margin-top: 2px; }
-.breaking ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
-.breaking a { font: 600 16px/1.35 var(--font-sub); text-decoration: none; }
-.breaking a:hover { text-decoration: underline; }
-.breaking .src { color: var(--slate-text); font: 500 12px var(--font-mono); }
+/* ---------- stories ---------- */
+#stories{background:var(--paper);touch-action:none;cursor:pointer;user-select:none;-webkit-user-select:none}
+.card{position:absolute;inset:0;background:var(--paper);transition:transform 320ms var(--ease);will-change:transform}
+.photo{position:absolute;left:0;right:0;top:0;height:clamp(220px,50dvh,460px);background:#C7D0DC;overflow:hidden}
+.photo img{width:100%;height:100%;object-fit:cover;display:block}
+.credit{position:absolute;right:12px;bottom:34px;max-width:70%;padding:3px 7px;border-radius:6px;background:rgba(20,34,56,.62);color:#fff;font-family:'IBM Plex Mono',monospace;font-size:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sheet{position:absolute;left:0;right:0;bottom:0;top:calc(clamp(220px,50dvh,460px) - 24px);background:#fff;border-radius:24px 24px 0 0;padding:20px 22px 0;display:flex;flex-direction:column;gap:10px}
+.meta{margin:0;font-size:13px;font-weight:600;color:var(--muted)}
+.title{margin:0;font-family:var(--serif);font-weight:700;font-size:clamp(22px,6.4vw,26px);line-height:1.14;letter-spacing:-.015em;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.summary{margin:0;font-size:15px;line-height:1.5;color:var(--text);display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
+.why{display:flex;gap:10px;padding:12px 14px;background:var(--soft);border-radius:14px;font-size:15px;line-height:1.42}
+.why b{font-weight:700}
+.pills{display:flex;flex-wrap:wrap;gap:6px}
+.pills a{padding:5px 10px;border-radius:999px;border:1px solid var(--pill);font-size:12px;font-weight:600;color:#3A4556;text-decoration:none}
+.grow{flex:1;min-height:4px}
+.next{display:flex;align-items:center;gap:8px;min-height:46px;padding-bottom:env(safe-area-inset-bottom);border-top:1px solid #EDEFF3;font-size:13px;color:var(--muted)}
+.next span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.next b{color:var(--ink);font-weight:600}
 
-/* Feed header and controls */
-main.wrap { padding-top: 24px; padding-bottom: 64px; }
-.feed-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px; }
-.feed-head h2 { margin: 0; font: 700 14px var(--font-sub); text-transform: uppercase; letter-spacing: .1em; color: var(--slate-text); }
-.controls { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; flex: 1; justify-content: flex-end; }
-.controls label { font: 500 12px var(--font-mono); color: var(--slate-text); }
-#sort, #q, #beatsToggle { border: 1px solid var(--rule); background: var(--white); border-radius: var(--radius); padding: 8px 10px; min-height: 40px; font-size: 14px; }
-#q { min-width: 180px; flex: 0 1 240px; }
-#beatsToggle { display: inline-flex; align-items: center; gap: 8px; font: 600 14px var(--font-sub); }
-#beatsToggle .sum { font: 500 12px var(--font-mono); color: var(--slate-text); }
-#beatsToggle[aria-expanded="true"] .chev { transform: rotate(180deg); }
+.float{position:absolute;z-index:3}
+.streak-chip{right:14px;top:calc(14px + env(safe-area-inset-top));display:flex;align-items:center;gap:5px;padding:6px 10px;border-radius:999px;background:var(--ink);color:#fff;font-weight:600;font-size:14px;pointer-events:none}
+.streak-chip svg{width:14px;height:14px}
+.actions{right:14px;top:calc(clamp(220px,50dvh,460px) - 136px);display:flex;flex-direction:column;gap:10px}
+.round{width:46px;height:46px;border-radius:23px;border:0;background:rgba(255,255,255,.94);display:flex;align-items:center;justify-content:center;cursor:pointer;text-decoration:none}
+.round svg{width:20px;height:20px}
+/* Left rail: small and see-through so it guides without getting in the way. */
+.rail{left:10px;top:calc(58px + env(safe-area-inset-top));display:flex;flex-direction:column;align-items:center;gap:6px;padding:3px;border-radius:20px;background:rgba(255,255,255,.55);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);opacity:.85}
+.rail button{width:34px;height:34px;border-radius:17px;border:0;background:transparent;display:flex;align-items:center;justify-content:center;cursor:pointer;padding:0}
+.rail button svg{width:18px;height:18px}
+.rail .down{background:rgba(20,34,56,.78)}
+.rail i{display:block;width:5px;height:5px;border-radius:3px;background:rgba(20,34,56,.25);transition:height 240ms ease,background-color 240ms ease}
+.rail i.done{background:rgba(20,34,56,.7)}
+.rail i.now{height:18px;background:var(--signal)}
+.hint{left:58px;top:calc(120px + env(safe-area-inset-top));width:190px;padding:14px;border-radius:16px;background:var(--ink);color:#fff;display:none;gap:12px;align-items:center;font-size:14px;line-height:1.35;pointer-events:none}
+.hint.on{display:flex}
+.phone{width:30px;height:42px;flex-shrink:0;border-radius:9px;border:2px solid #5B6E8C;position:relative;overflow:hidden}
+.phone i{position:absolute;left:50%;top:50%;width:11px;height:11px;margin:-5px 0 0 -5px;border-radius:6px;background:#fff;animation:nudge 1.6s ease-in-out infinite}
+@keyframes nudge{0%{transform:translateY(12px);opacity:0}25%{opacity:1}75%{transform:translateY(-12px);opacity:1}100%{transform:translateY(-16px);opacity:0}}
 
-/* Beats panel (collapsed until asked for) */
-#beatsPanel { display: none; background: var(--white); border: 1px solid var(--rule); border-radius: var(--radius); padding: 18px; margin: 8px 0 20px; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; }
-#beatsPanel.open { display: grid; }
-.group-label { font: 700 16px var(--font-sub); margin: 0 0 8px; }
-.beats { display: grid; gap: 6px; }
-.beat { display: flex; align-items: center; gap: 8px; padding: 7px 9px; min-height: 40px; border-radius: var(--radius); border: 1px solid var(--rule); background: var(--paper); text-align: left; width: 100%; font: 500 14px var(--font-sub); }
-.beat[aria-pressed="true"] { background: var(--tint); border-color: var(--ink); }
-.beat .chk { width: 16px; height: 16px; border-radius: 2px; border: 1.5px solid var(--slate); display: grid; place-items: center; font-size: 11px; flex: none; }
-.beat[aria-pressed="true"] .chk { background: var(--ink); border-color: var(--ink); color: var(--paper); }
-.beat .name { flex: 1; }
-.beat .n { font: 500 11px var(--font-mono); color: var(--slate-text); }
-.notes { grid-column: 1 / -1; display: grid; gap: 4px; border-top: 1px solid var(--rule); padding-top: 12px; }
-.note { font-size: 13px; color: var(--slate-text); margin: 0; }
-body.view-full #beatsToggle, body.view-full #beatsPanel { display: none; }
+/* ---------- question ---------- */
+.light{background:#fff;color:var(--ink);flex-direction:column;padding:calc(22px + env(safe-area-inset-top)) 22px calc(24px + env(safe-area-inset-bottom))}
+.q-title{margin:28px 0 24px;font-family:var(--serif);font-weight:700;font-size:30px;line-height:1.12;letter-spacing:-.015em}
+.opt{display:flex;align-items:center;justify-content:space-between;width:100%;min-height:58px;padding:0 18px;margin-bottom:10px;border-radius:16px;border:1px solid var(--pill);background:#fff;color:var(--ink);font-weight:600;font-size:17px;text-align:left;cursor:pointer}
+.opt.right{background:var(--ink);border-color:var(--ink);color:#fff}
+.opt.wrong{border:2px solid var(--muted);color:var(--muted)}
+.opt.fade{color:#8A93A3}
 
-/* Sections and the editorial grid */
-.region { margin-top: 28px; }
-.sec-head { margin: 0 0 16px; padding-bottom: 8px; border-bottom: 2px solid var(--ink); font: 700 22px/1.2 var(--font-sub); display: flex; align-items: baseline; gap: 10px; text-wrap: balance; }
-.sec-head span, .jump span { font: 500 12px var(--font-mono); color: var(--slate-text); }
-.cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--gap); }
-.jump { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 4px; }
-.jump button { border: 1px solid var(--rule); background: var(--white); border-radius: var(--radius); padding: 8px 12px; min-height: 40px; font: 600 14px var(--font-sub); }
-.jump button:hover { border-color: var(--ink); }
-.seeall { margin-top: 16px; background: none; border: 1px solid var(--ink); border-radius: var(--radius); padding: 9px 14px; min-height: 40px; font: 600 14px var(--font-sub); color: var(--ink); }
-.seeall:hover { background: var(--ink); color: var(--paper); }
+/* ---------- done ---------- */
+.done-body{display:flex;flex-direction:column;align-items:center;text-align:center;padding-top:36px}
+.count{display:flex;align-items:center;gap:6px;transform:scale(.8);transition:transform 360ms cubic-bezier(.3,1.6,.5,1)}
+.count.pop{transform:scale(1)}
+.count svg{width:56px;height:56px}
+.count b{font-weight:700;font-size:96px;line-height:1;letter-spacing:-.04em}
+.week{width:100%;display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:6px;margin:26px 0 10px}
+.day{display:flex;flex-direction:column;align-items:center;gap:6px;font-size:12px;font-weight:500;color:var(--muted-dark)}
+.dot{width:36px;height:36px;border-radius:18px;border:1px solid var(--line-dark);display:flex;align-items:center;justify-content:center}
+.dot.done{background:#fff;border-color:#fff}
+.dot.today{border:2px solid var(--flame)}
+.dot.shield{border:1px dashed #5B6E8C}
+.dot svg{width:16px;height:16px}
+.panel{width:100%;padding:16px;border-radius:16px;background:var(--ink-2);text-align:left;display:flex;flex-direction:column;gap:10px;margin-top:18px}
+.row{display:flex;justify-content:space-between;gap:12px;font-size:15px}
+.row b{font-weight:600}
+.track{height:8px;border-radius:4px;background:var(--line-dark);overflow:hidden}
+.track i{display:block;height:8px;border-radius:4px;background:var(--flame);width:0;transition:width 500ms var(--ease)}
+.gain{color:var(--flame);font-weight:600}
 
-/* Story cards: ruled, not boxed */
-.item { border-top: 1px solid var(--rule); padding-top: 14px; min-width: 0; }
-.item .stripe { display: none; }
-.item.is-breaking { border-top: 3px solid var(--signal); }
-.item .body { display: grid; gap: 8px; align-content: start; }
-.flags { display: flex; gap: 6px; }
-.pill { font: 600 10.5px/1.6 var(--font-mono); text-transform: uppercase; letter-spacing: .05em; padding: 1px 6px; border-radius: 2px; background: var(--tint); color: var(--ink); }
-.pill.local { background: transparent; border: 1px solid var(--ink); }
-.pill.issue { background: transparent; color: var(--slate-text); border: 1px solid var(--rule); }
-.pill.new { background: var(--ink); color: var(--paper); }
-.pill.brk { background: var(--signal); color: #fff; }
-.item h3 { font: 600 21px/1.25 var(--font-head); margin: 0; text-wrap: balance; }
-.item h3 a { text-decoration: none; }
-.item h3 a:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
-.item.read h3 { color: var(--slate-text); }
-.dek { font: 500 16px/1.4 var(--font-sub); color: var(--ink); }
-.meta { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; font: 500 12px var(--font-mono); color: var(--slate-text); }
-.meta .src { color: var(--ink); font-weight: 600; }
-.item p { margin: 0; font-size: 15px; line-height: 1.55; color: var(--slate-text); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-.item .actions { display: flex; gap: 14px; align-items: center; font-size: 13px; }
-.item .actions button { background: none; border: 0; padding: 4px 0; color: var(--ink); font: 600 13px var(--font-sub); text-decoration: underline; text-underline-offset: 3px; }
-.why { font-size: 12.5px; color: var(--slate-text); }
-.also { font-size: 14px; }
-.also summary { cursor: pointer; font: 600 13px var(--font-sub); color: var(--ink); }
-.also ul { margin: 6px 0 0; padding-left: 18px; display: grid; gap: 4px; }
-.also a { text-decoration: none; }
-.also a:hover { text-decoration: underline; }
+/* ---------- loading / error ---------- */
+.center{flex-direction:column;align-items:center;justify-content:center;gap:16px;text-align:center;padding:24px}
 
-/* Featured lead: spans two columns */
-.item.lead { grid-column: span 2; border-top: 3px solid var(--ink); }
-.item.lead.is-breaking { border-top-color: var(--signal); }
-.item.lead h3 { font-size: 34px; line-height: 1.12; letter-spacing: -0.01em; }
-.item.lead p { font-size: 17px; color: var(--ink); -webkit-line-clamp: 5; }
-
-/* Photos: the outlet's own image, consistent crops, credit always shown */
-.ph-wrap { margin: 0 0 4px; }
-.ph { overflow: hidden; background: var(--tint); border-radius: 2px; }
-.ph img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
-.ph.r169 { aspect-ratio: 16 / 9; }
-.ph.r43 { aspect-ratio: 4 / 3; }
-.ph.r11 { aspect-ratio: 1 / 1; }
-.ph-wrap figcaption { margin-top: 6px; font: 400 12.5px/1.45 var(--font-body); color: var(--slate-text); }
-.ph-wrap .credit { font: 500 11px var(--font-mono); letter-spacing: .02em; }
-.region.compact .item.has-photo .body { grid-template-columns: minmax(0, 1fr) 88px; column-gap: 14px; }
-.region.compact .item.has-photo .ph-wrap { grid-column: 2; grid-row: 1 / span 4; margin: 0; }
-.region.compact .item.has-photo .body > :not(.ph-wrap) { grid-column: 1; }
-.region.compact .ph-wrap figcaption .cap { display: none; }
-.region.compact .ph-wrap figcaption { font-size: 10px; line-height: 1.3; }
-
-/* Loading, errors and the new-stories bar */
-.skeleton .sk-head { height: 26px; width: 220px; background: var(--tint); border-radius: 2px; margin: 28px 0 16px; }
-.sk-card { border-top: 1px solid var(--rule); padding-top: 14px; display: grid; gap: 10px; }
-.sk-card.sk-lead { grid-column: span 2; }
-.sk-img { aspect-ratio: 4 / 3; background: var(--tint); border-radius: 2px; }
-.sk-lead .sk-img { aspect-ratio: 16 / 9; }
-.sk-line { height: 14px; background: var(--tint); border-radius: 2px; }
-.w90 { width: 90%; } .w70 { width: 70%; } .w40 { width: 40%; }
-.error-box { margin: 40px auto; max-width: 520px; text-align: center; border-top: 3px solid var(--ink); padding-top: 20px; }
-.error-box h3 { font: 600 26px/1.2 var(--font-head); margin: 0 0 8px; }
-.error-box p { margin: 0 0 16px; color: var(--slate-text); }
-.btn { background: var(--ink); color: var(--paper); border: 1px solid var(--ink); border-radius: var(--radius); padding: 9px 16px; min-height: 40px; font: 600 14px var(--font-sub); }
-.btn.ghost { background: transparent; color: var(--ink); }
-.newbar { position: sticky; top: 8px; z-index: 5; display: flex; justify-content: center; align-items: center; gap: 12px; margin: 8px auto 0; width: fit-content; background: var(--white); border: 1px solid var(--ink); border-radius: var(--radius); padding: 6px 8px 6px 16px; font: 600 14px var(--font-sub); box-shadow: 0 2px 10px rgba(20, 34, 56, .12); }
-.newbar[hidden] { display: none; }
-.intro { margin: 4px 0 0; font: 400 14px/1.5 var(--font-body); color: var(--slate-text); }
-.linkbtn { background: none; border: 0; padding: 0; color: var(--ink); font: inherit; font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
-.panel-intro { grid-column: 1 / -1; }
-.panel-intro h3 { margin: 0 0 4px; font: 700 20px var(--font-head); }
-.panel-intro p { margin: 0; color: var(--slate-text); font-size: 14px; }
-.how h4 { margin: 0 0 6px; font: 700 15px var(--font-sub); }
-.how ul { margin: 0 0 10px; padding-left: 18px; display: grid; gap: 4px; font-size: 14px; color: var(--ink); }
-.reset-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 8px; }
-.sec-head span { text-transform: none; }
-
-/* Compact headline lists */
-.region.compact .item p, .region.compact .item .actions, .region.compact .item .dek { display: none; }
-.region.compact .item h3 { font-size: 18px; }
-.region.compact .cards { row-gap: 18px; }
-
-.empty { padding: 32px 0; color: var(--slate-text); }
-
-/* Tablet: two columns */
-@media (max-width: 1023px) {
-  .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .item.lead { grid-row: auto; }
-  .item.lead h3 { font-size: 30px; }
-  #beatsPanel { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-}
-/* Phone: one column, still a newspaper */
-@media (max-width: 640px) {
-  .wrap { padding: 0 16px; }
-  .mast-top { grid-template-columns: 1fr; justify-items: center; text-align: center; gap: 6px; }
-  .live { justify-self: center; }
-  .brand .word { font-size: 36px; }
-  .brand img { width: 36px; height: 36px; }
-  .sk-card.sk-lead { grid-column: auto; }
-  nav.tabs { justify-content: space-between; }
-  nav.tabs button { padding: 10px 6px 9px; }
-  .cards { grid-template-columns: 1fr; gap: 20px; }
-  .item.lead { grid-column: auto; }
-  .item.lead h3 { font-size: 28px; }
-  .controls { justify-content: stretch; }
-  #q { flex: 1 1 100%; }
-  #beatsPanel { grid-template-columns: 1fr; }
-}
-@media (prefers-reduced-motion: no-preference) {
-  html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion:reduce){
+  .card,.count,.track i,.rail i{transition:none}
+  .phone i{animation:none;opacity:1}
 }
 </style>
 </head>
 <body>
-<a class="skip" href="#feed">Skip to stories</a>
-<header class="mast">
-  <div class="wrap mast-top">
-    <div class="dateline" id="dateline">Toronto</div>
-    <a class="brand" href="./"><img src="favicon.svg" alt="" width="44" height="44"><span class="word">PoliDesk</span></a>
-    <div class="live" id="live" aria-live="polite"><span class="dot"></span><span id="liveText"></span></div>
-  </div>
-  <nav class="tabs wrap" aria-label="Feed views">
-    <button data-view="foryou" aria-pressed="true">For you</button>
-    <button data-view="world" aria-pressed="false">World <span class="count" id="c-world"></span></button>
-    <button data-view="local" aria-pressed="false">Local <span class="count" id="c-local"></span></button>
-    <button data-view="saved" aria-pressed="false">Saved <span class="count" id="c-saved"></span></button>
-  </nav>
-</header>
+<main id="app" aria-live="polite">
 
-<div class="breaking" id="breaking" hidden>
-  <div class="wrap"><span class="tag">Breaking news</span><ul id="breakingList"></ul></div>
-</div>
-
-<main class="wrap">
-  <div class="feed-head">
-    <h2 id="feedTitle">For you</h2>
-    <div class="controls">
-      <button id="beatsToggle" aria-expanded="false" aria-controls="beatsPanel">Your topics <span class="sum" id="beatsSum"></span> <span class="chev" aria-hidden="true">▾</span></button>
-      <label for="sort">Sort by</label>
-      <select id="sort">
-        <option value="recommended">Recommended</option>
-        <option value="newest">Newest</option>
-        <option value="oldest">Oldest</option>
-        <option value="covered">Most covered</option>
-        <option value="source">Source A–Z</option>
-      </select>
-      <label for="q" class="skip">Search headlines</label>
-      <input id="q" type="search" placeholder="Search headlines">
-    </div>
-  </div>
-  <section id="beatsPanel" aria-label="Your topics">
-    <div class="panel-intro"><h3>Your topics</h3><p>Pick what shapes your For you page. World and Local always show everything.</p></div>
-    <div>
-      <div class="group-label">World regions</div>
-      <div class="beats" id="beats-world"></div>
-    </div>
-    <div>
-      <div class="group-label">Canada &amp; local</div>
-      <div class="beats" id="beats-local"></div>
-    </div>
-    <div>
-      <div class="group-label">Issues</div>
-      <div class="beats" id="beats-issue"></div>
-    </div>
-    <div class="notes how">
-      <h4>How For you works</h4>
-      <ul>
-        <li>Stories from the topics you tick come first.</li>
-        <li>Big stories covered by many outlets rank higher.</li>
-        <li>Opening a story nudges similar topics up a little.</li>
-        <li>Your topics and reading history are saved only in this browser. Nothing is sent anywhere, and each device keeps its own.</li>
-        <li>News is checked about every 10 minutes. New stories wait for you to show them, so the page never jumps while you read.</li>
-      </ul>
-      <div class="reset-row"><button class="btn ghost" data-reset>Reset my preferences</button><span id="resetMsg" class="note" role="status"></span></div>
-      <p class="note" id="sources"></p>
-    </div>
+  <section class="screen navy center on" id="loading">
+    <p class="kicker-dark">Loading today's briefing…</p>
   </section>
-  <div class="newbar" id="newBar" hidden><span id="newCount">New stories</span> <button class="btn" data-shownew>Show</button></div>
-  <div class="feed" id="feed"><div class="skeleton" aria-hidden="true"><div class="sk-head"></div><div class="cards"><div class="sk-card sk-lead"><div class="sk-img"></div><div class="sk-line w90"></div><div class="sk-line w70"></div><div class="sk-line w40"></div></div><div class="sk-card"><div class="sk-img"></div><div class="sk-line w90"></div><div class="sk-line w70"></div><div class="sk-line w40"></div></div><div class="sk-card"><div class="sk-img"></div><div class="sk-line w90"></div><div class="sk-line w70"></div><div class="sk-line w40"></div></div><div class="sk-card"><div class="sk-img"></div><div class="sk-line w90"></div><div class="sk-line w70"></div><div class="sk-line w40"></div></div></div></div><span class="skip" role="status">Loading the latest stories</span></div>
+
+  <section class="screen navy center" id="error">
+    <p class="lede-dark" id="errorText">Couldn't load today's briefing.</p>
+    <button class="cta" id="retry" style="max-width:240px">Try again</button>
+    <a class="foot-dark" href="latest.html">See the latest headlines instead</a>
+  </section>
+
+  <section class="screen navy" id="start">
+    <div class="bar">
+      <a class="brand" href="./"><svg width="28" height="28" viewBox="0 0 160 160" aria-hidden="true"><rect width="160" height="160" rx="36" fill="#fff"/><path transform="translate(45.60 118) scale(0.09987 -0.09987)" d="M45 708 140 699C141 597 141 496 141 394V346C141 243 141 141 140 42L45 33V0H395V33L285 43L284 299H329C557 299 644 398 644 522C644 660 555 741 341 741H45ZM284 335V394C284 498 284 602 285 704H339C453 704 510 642 510 523C510 412 453 335 326 335Z" fill="#15191f"/><circle cx="118" cy="44" r="13" fill="#c0262d"/></svg>PoliDesk</a>
+      <span class="chip"><svg viewBox="0 0 24 24" fill="#E0646A" aria-hidden="true"><path d="M12 3c1 3 5 5 5 10a5 5 0 0 1-10 0c0-2 1-3.5 2-4.5.3 1.5 1.2 2.5 2.2 2.5C11 8 11.5 5.5 12 3z"/></svg><span class="js-streak">0</span><span class="sr"> day streak</span></span>
+    </div>
+    <div class="start-body">
+      <p class="kicker-dark" id="startDate"></p>
+      <h1 class="big" id="startTitle">Your 3‑minute briefing.</h1>
+      <p class="lede-dark" id="startLede">5 stories. Then you're done for today.</p>
+      <div class="segs" id="startSegs" aria-hidden="true"></div>
+      <p class="goal" id="startGoal"></p>
+    </div>
+    <button class="cta" id="startBtn">Start</button>
+    <p class="foot-dark">Swipe up, or use the arrows on the left</p>
+  </section>
+
+  <section class="screen" id="stories" aria-roledescription="carousel" aria-label="Today's stories">
+    <div id="cards"></div>
+    <div class="float streak-chip"><svg viewBox="0 0 24 24" fill="#E0646A" aria-hidden="true"><path d="M12 3c1 3 5 5 5 10a5 5 0 0 1-10 0c0-2 1-3.5 2-4.5.3 1.5 1.2 2.5 2.2 2.5C11 8 11.5 5.5 12 3z"/></svg><span class="js-streak">0</span></div>
+    <div class="float actions" data-nopan>
+      <button class="round" id="saveBtn" aria-label="Save story" aria-pressed="false"><svg viewBox="0 0 24 24" fill="none" stroke="#142238" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path id="saveIcon" d="M6 3h12v18l-6-4-6 4z"/></svg></button>
+      <a class="round" id="openBtn" href="#" target="_blank" rel="noopener" aria-label="Read the original story"><svg viewBox="0 0 24 24" fill="none" stroke="#142238" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></a>
+    </div>
+    <nav class="float rail" aria-label="Move between stories" data-nopan>
+      <button id="upBtn" aria-label="Previous story"><svg viewBox="0 0 24 24" fill="none" stroke="#142238" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 15l6-6 6 6"/></svg></button>
+      <div id="dots" style="display:flex;flex-direction:column;align-items:center;gap:6px"></div>
+      <button id="downBtn" class="down" aria-label="Next story"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></button>
+    </nav>
+    <div class="float hint" id="hint"><div class="phone" aria-hidden="true"><i></i></div><div><b>Swipe up</b> for the next story, or tap the arrows.</div></div>
+  </section>
+
+  <section class="screen light" id="question">
+    <div class="bar">
+      <button class="round" id="qBack" aria-label="Back to the last story" style="border:1px solid #D9DEE6"><svg viewBox="0 0 24 24" fill="none" stroke="#142238" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 15l6-6 6 6"/></svg></button>
+      <span style="font-size:14px;font-weight:600;color:#5B6577">Question · last step</span>
+      <span style="width:46px"></span>
+    </div>
+    <h1 class="q-title" id="qTitle"></h1>
+    <div id="qOpts"></div>
+    <p id="qNote" style="margin:8px 0 0;font-size:16px;line-height:1.4"></p>
+    <div class="grow"></div>
+    <button class="cta" id="qFinish" style="background:#142238;color:#fff;display:none">Finish today</button>
+  </section>
+
+  <section class="screen navy" id="done">
+    <div class="done-body">
+      <p class="kicker-dark" id="doneKicker" style="margin-bottom:18px">You're done for today</p>
+      <div class="count" id="count"><svg viewBox="0 0 24 24" fill="#E0646A" aria-hidden="true"><path d="M12 3c1 3 5 5 5 10a5 5 0 0 1-10 0c0-2 1-3.5 2-4.5.3 1.5 1.2 2.5 2.2 2.5C11 8 11.5 5.5 12 3z"/></svg><b id="countNum">0</b></div>
+      <p style="margin:6px 0 0;font-size:20px;font-weight:600">day streak</p>
+      <div class="week" id="week"></div>
+      <p class="foot-dark" id="shieldNote" style="margin:0">One missed day a week is protected automatically</p>
+      <div class="panel">
+        <div class="row"><b id="badgeName">Next badge</b><span id="badgeLeft" style="color:#AFBBD0"></span></div>
+        <div class="track"><i id="badgeBar"></i></div>
+        <div class="row" style="padding-top:4px"><b>Informed score</b><span><span id="score">0</span> <span class="gain" id="gain"></span></span></div>
+      </div>
+    </div>
+    <div class="grow"></div>
+    <p style="margin:0 0 14px;text-align:center;font-size:15px;color:#D3DAE6">Next briefing in <b id="countdown" style="color:#fff"></b> · 7:00 a.m.</p>
+    <a class="ghost" href="latest.html">Browse the latest headlines</a>
+    <button class="foot-dark" id="review" style="background:none;border:0;cursor:pointer;min-height:44px">Review today's stories</button>
+  </section>
 </main>
 
 <script>
-const TOPICS = [
-  { id: "ukraine",     label: "Russia–Ukraine",         region: "world" },
-  { id: "mideast",     label: "Middle East & Iran",     region: "world" },
-  { id: "europe",      label: "Europe",                 region: "world" },
-  { id: "us",          label: "U.S. politics",          region: "world" },
-  { id: "asia",        label: "Asia-Pacific",           region: "world" },
-  { id: "turkey",      label: "Türkiye",                region: "world" },
-  { id: "latam",       label: "Latin America",          region: "world" },
-  { id: "africa",      label: "Africa",                 region: "world" },
-  { id: "federal",     label: "Ottawa (federal)",       region: "local" },
-  { id: "ontario",     label: "Queen's Park (Ontario)", region: "local" },
-  { id: "toronto",     label: "Toronto City Hall",      region: "local" },
-  { id: "trade",       label: "Trade & tariffs",        region: "issue" },
-  { id: "elections",   label: "Elections",              region: "issue" },
-  { id: "economy",     label: "Economy & budgets",      region: "issue" },
-  { id: "immigration", label: "Immigration",            region: "issue" },
-  { id: "housing",     label: "Housing & cost of living", region: "issue" },
-  { id: "defence",     label: "Defence & security",     region: "issue" },
-  { id: "climate",     label: "Climate & energy",       region: "issue" }
-];
-const DEFAULT_FOLLOW = ["ukraine", "mideast", "europe", "us", "asia", "federal", "ontario", "toronto"];
-const topicById = Object.fromEntries(TOPICS.map(t => [t.id, t]));
-const beatsOf = a => [a.topic, ...(a.tags || [])];
+(() => {
+  'use strict';
+  const $ = (id) => document.getElementById(id);
+  const BADGES = [3, 7, 14, 30, 100, 365];
+  const BADGE_NAMES = {3: '3‑day badge', 7: '1‑week badge', 14: '2‑week badge', 30: '1‑month badge', 100: '100‑day badge', 365: '1‑year badge'};
+  const FLAME = '<svg viewBox="0 0 24 24" fill="none" stroke="#142238" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12l4 4 10-10"/></svg>';
+  const SHIELD = '<svg viewBox="0 0 24 24" fill="none" stroke="#AFBBD0" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v5c0 5-3 8-7 10-4-2-7-5-7-10V6z"/></svg>';
+  const TONES = ['#C7D0DC', '#D6D2C8', '#D5CCC1', '#C7D0DC', '#D0D6C9'];
 
-const store = {
-  get(k, d) { try { const v = localStorage.getItem("pd:" + k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
-  set(k, v) { try { localStorage.setItem("pd:" + k, JSON.stringify(v)); } catch (e) {} }
-};
+  // ---------- storage (wrapped: private mode can throw) ----------
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+  };
 
-const state = {
-  articles: [],
-  follow: new Set(store.get("follow", DEFAULT_FOLLOW)),
-  clicks: store.get("clicks", {}),
-  read: new Set(store.get("read", [])),
-  saved: new Set(store.get("saved", [])),
-  lastVisit: store.get("lastVisit", null),
-  view: "foryou",
-  expanded: new Set(),
-  sort: store.get("sort", "recommended"),
-  q: ""
-};
-store.set("lastVisit", new Date().toISOString());
-
-const $ = s => document.querySelector(s);
-const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
-const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "#";
-
-function fmtDate(d) {
-  if (!d) return "";
-  const dt = new Date(d.length <= 10 ? d + "T12:00:00" : d);
-  if (isNaN(dt)) return d;
-  const today = new Date(); const y = new Date(); y.setDate(today.getDate() - 1);
-  const same = (a, b) => a.toDateString() === b.toDateString();
-  const time = d.length > 10 ? dt.toLocaleTimeString("en-CA", { hour: "numeric", minute: "2-digit" }) : "";
-  const mins = Math.round((Date.now() - dt) / 60000);
-  if (d.length > 10 && mins >= 0 && mins < 60) return mins <= 1 ? "Just now" : mins + " min ago";
-  if (same(dt, today)) return time ? time : "Today";
-  if (same(dt, y)) return "Yesterday" + (time ? ", " + time : "");
-  return dt.toLocaleDateString("en-CA", { month: "short", day: "numeric" }) + (time ? ", " + time : "");
-}
-
-$("#dateline").textContent = new Date().toLocaleDateString("en-CA", { weekday: "long", month: "long", day: "numeric", year: "numeric" }) + " · Toronto";
-
-const followed = a => beatsOf(a).some(b => state.follow.has(b));
-
-function renderBeats() {
-  $("#beatsSum").textContent = state.follow.size + " of " + TOPICS.length;
-  for (const region of ["world", "local", "issue"]) {
-    const box = document.getElementById("beats-" + region);
-    box.innerHTML = TOPICS.filter(t => t.region === region).map(t => {
-      const n = state.articles.filter(a => beatsOf(a).includes(t.id)).length;
-      const on = state.follow.has(t.id);
-      return `<button class="beat" data-topic="${t.id}" aria-pressed="${on}"><span class="chk" aria-hidden="true">${on ? "✓" : ""}</span><span class="name">${esc(t.label)}</span><span class="n">${n}</span></button>`;
-    }).join("");
+  // ---------- dates in Toronto time ----------
+  function torontoParts(d = new Date()) {
+    const p = new Intl.DateTimeFormat('en-CA', {timeZone: 'America/Toronto', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23'}).formatToParts(d);
+    const o = {}; p.forEach((x) => { o[x.type] = x.value; });
+    return {date: `${o.year}-${o.month}-${o.day}`, h: +o.hour, m: +o.minute};
   }
-}
+  const dayNum = (iso) => Math.round(Date.UTC(+iso.slice(0, 4), +iso.slice(5, 7) - 1, +iso.slice(8, 10)) / 864e5);
+  const isoOf = (n) => new Date(n * 864e5).toISOString().slice(0, 10);
+  const weekKey = (iso) => { const n = dayNum(iso); const dow = (new Date(n * 864e5).getUTCDay() + 6) % 7; return isoOf(n - dow); }; // Monday of that week
+  const longDate = (iso) => new Date(iso + 'T12:00:00Z').toLocaleDateString('en-CA', {weekday: 'long', month: 'long', day: 'numeric', timeZone: 'UTC'});
 
-function score(a) {
-  let s = 0;
-  if (followed(a)) s += 10;
-  s += Math.min(6, Math.max(...beatsOf(a).map(b => state.clicks[b] || 0)) * 1.5);
-  if (a.breaking) s += 6;
-  s += Math.min(6, (coverage(a) - 1) * 2);
-  const ageHours = (Date.now() - new Date(a.date)) / 36e5;
-  s += Math.max(0, 10 - ageHours / 4);
-  if (state.read.has(a.id)) s -= 4;
-  return s;
-}
-
-function visible() {
-  let list = state.articles.slice();
-  if (state.view === "local") list = list.filter(a => a.region === "local");
-  else if (state.view === "world") list = list.filter(a => a.region === "world");
-  else if (state.view === "saved") list = list.filter(a => state.saved.has(a.id));
-  else list = list.filter(followed);
-  if (state.q) {
-    const q = state.q.toLowerCase();
-    list = list.filter(a => (a.title + " " + a.summary + " " + a.source).toLowerCase().includes(q));
+  // ---------- streak model ----------
+  // s = {last, streak, best, score, days:[iso], shields:{weekMonday: coveredIso}}
+  function loadStreak() { return Object.assign({last: null, streak: 0, best: 0, score: 0, days: [], shields: {}}, store.get('pd:streak', {})); }
+  function liveStreak(s, today) {
+    if (!s.last) return 0;
+    const gap = dayNum(today) - dayNum(s.last);
+    if (gap <= 1) return s.streak;
+    if (gap === 2) { const missed = isoOf(dayNum(today) - 1); if (!s.shields[weekKey(missed)]) return s.streak; }
+    return 0;
   }
-  const newest = (a, b) => String(b.date).localeCompare(String(a.date));
-  if (state.sort === "newest") list.sort(newest);
-  else if (state.sort === "oldest") list.sort((a, b) => newest(b, a));
-  else if (state.sort === "covered") list.sort((a, b) => coverage(b) - coverage(a) || newest(a, b));
-  else if (state.sort === "source") list.sort((a, b) => a.source.localeCompare(b.source) || newest(a, b));
-  else list.sort((a, b) => score(b) - score(a));
-  return list;
-}
+  function complete(s, day, bonus) {
+    if (s.last === day) return {s, gained: 0, used: false};
+    let used = false;
+    const gap = s.last ? dayNum(day) - dayNum(s.last) : 99;
+    if (gap === 1) s.streak += 1;
+    else if (gap === 2 && !s.shields[weekKey(isoOf(dayNum(day) - 1))]) { s.shields[weekKey(isoOf(dayNum(day) - 1))] = isoOf(dayNum(day) - 1); s.streak += 1; used = true; }
+    else if (gap > 0) s.streak = 1;
+    else return {s, gained: 0, used: false}; // an older edition: no change
+    s.last = day;
+    s.best = Math.max(s.best, s.streak);
+    const gained = 50 + (bonus || 0);
+    s.score += gained;
+    s.days = [...new Set([...s.days, day])].slice(-60);
+    store.set('pd:streak', s);
+    return {s, gained, used};
+  }
 
-const STOP = new Set("a an the of to in on for and or but with at by from as is are was were be been it its this that these those after over into about amid says said say new will would could can may more than up out not no his her their they he she we you our us before what who how why when where".split(" "));
-const words = t => new Set((t.toLowerCase().match(/[a-z0-9']+/g) || []).filter(w => w.length > 2 && !STOP.has(w)));
-let coverageCache = null;
-function coverage(a) {
-  if (!coverageCache) {
-    coverageCache = new Map();
-    const toks = state.articles.map(x => words(x.title));
-    state.articles.forEach((x, i) => {
-      const outlets = new Set([x.source]);
-      state.articles.forEach((y, j) => {
-        if (i === j || Math.abs(new Date(x.date) - new Date(y.date)) > 864e5) return;
-        let shared = 0; toks[i].forEach(w => { if (toks[j].has(w)) shared++; });
-        const union = toks[i].size + toks[j].size - shared;
-        if (shared >= 2 && union && shared / union >= 0.25) outlets.add(y.source);
-      });
-      coverageCache.set(x.id, outlets.size);
+  // ---------- state ----------
+  let ed = null, step = 0, total = 0, answer = null, hasQ = false;
+  const saved = new Set(store.get('pd:bsaved', []));
+  let hinted = store.get('pd:hinted', false);
+
+  function show(id) { document.querySelectorAll('.screen').forEach((el) => el.classList.toggle('on', el.id === id)); }
+  function setStreakChips(n) { document.querySelectorAll('.js-streak').forEach((el) => { el.textContent = n; }); }
+  const esc = (t) => String(t ?? '').replace(/[&<>"']/g, (c) => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'}[c]));
+  const safeUrl = (u) => /^https?:\/\//i.test(u || '') ? u : '#';
+
+  // ---------- render ----------
+  function render() {
+    const now = torontoParts();
+    const s = loadStreak();
+    const live = liveStreak(s, now.date);
+    setStreakChips(live);
+    const isToday = ed.date === now.date;
+    const doneToday = s.last === ed.date;
+    $('startDate').textContent = isToday ? longDate(ed.date) : `${longDate(ed.date)} · new briefing at 7:00`;
+    $('startTitle').textContent = doneToday ? "You're all caught up." : 'Your 3‑minute briefing.';
+    $('startLede').textContent = doneToday ? 'Come back at 7:00 for tomorrow’s five.' : `${total} stories${hasQ ? '. 1 question' : ''}. Then you're done for today.`;
+    $('startGoal').textContent = doneToday ? '' : (live > 0 ? `Finish today to reach a ${live + 1}‑day streak` : 'Finish today to start your streak');
+    $('startSegs').innerHTML = '<i></i>'.repeat(total) + (hasQ ? '<i style="flex:0 0 22px"></i>' : '');
+    $('startBtn').textContent = doneToday ? 'See my streak' : 'Start';
+
+    $('cards').innerHTML = ed.stories.map((st, i) => {
+      const img = st.image && st.image.url ? `<img src="${esc(safeUrl(st.image.url))}" alt="" loading="${i < 2 ? 'eager' : 'lazy'}" referrerpolicy="no-referrer" onerror="this.remove()">` : '';
+      const credit = st.image && st.image.url ? `<span class="credit">${esc(st.image.credit ? 'Photo: ' + st.image.credit : 'Image via ' + (st.sources[0] || {}).name)}</span>` : '';
+      const why = st.why ? `<div class="why"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#142238" stroke-width="2" stroke-linecap="round" aria-hidden="true" style="flex-shrink:0;margin-top:1px"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg><p style="margin:0"><b>Why it matters. </b>${esc(st.why)}</p></div>` : '';
+      const pills = st.sources.map((x) => `<a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener" data-nopan>${esc(x.name)}</a>`).join('');
+      const nextText = i < total - 1 ? `<b>Up next: </b>${esc(ed.stories[i + 1].title)}` : (hasQ ? '<b>Up next: </b>today’s question — then you’re done' : '<b>That’s all five.</b> Swipe up to finish today');
+      const mins = Math.max(20, Math.round((st.title.length + st.summary.length + (st.why || '').length) / 15 / 5) * 5);
+      return `<article class="card" aria-roledescription="slide" aria-label="Story ${i + 1} of ${total}" style="transform:translateY(${(i + 1) * 100}%)">
+        <div class="photo" style="background:${TONES[i % 5]}">${img}${credit}</div>
+        <div class="sheet">
+          <p class="meta">${esc(st.place)} · ${mins} sec</p>
+          <h2 class="title">${esc(st.title)}</h2>
+          <p class="summary">${esc(st.summary)}</p>
+          ${why}
+          <div class="pills">${pills}</div>
+          <div class="grow"></div>
+          <div class="next"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#5B6577" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 15l6-6 6 6"/></svg><span>${nextText}</span></div>
+        </div>
+      </article>`;
+    }).join('');
+    $('dots').innerHTML = '<i></i>'.repeat(total + (hasQ ? 1 : 0));
+
+    if (hasQ) {
+      $('qTitle').textContent = ed.question.text;
+      $('qOpts').innerHTML = ed.question.options.map((o, i) => `<button class="opt" data-i="${i}">${esc(o)}<span></span></button>`).join('');
+    }
+  }
+
+  function go(n) {
+    const last = total + (hasQ ? 1 : 0) + 1; // done screen
+    n = Math.max(0, Math.min(last, n));
+    if (n === step) return;
+    if (step >= 1 && n !== step && !hinted) { hinted = true; store.set('pd:hinted', true); }
+    step = n;
+    if (step === 0) { render(); show('start'); return; }
+    if (step <= total) {
+      show('stories');
+      [...$('cards').children].forEach((c, i) => { c.style.transform = `translateY(${(i + 1 - step) * 100}%)`; c.setAttribute('aria-hidden', i + 1 === step ? 'false' : 'true'); });
+      [...$('dots').children].forEach((d, i) => { d.className = i + 1 === step ? 'now' : i + 1 < step ? 'done' : ''; });
+      $('upBtn').style.opacity = step === 1 ? '.35' : '1';
+      $('hint').classList.toggle('on', step === 1 && !hinted);
+      const st = ed.stories[step - 1];
+      $('openBtn').href = safeUrl(st.url);
+      const on = saved.has(st.id);
+      $('saveBtn').setAttribute('aria-pressed', on);
+      $('saveIcon').setAttribute('fill', on ? '#142238' : 'none');
+      return;
+    }
+    if (hasQ && step === total + 1) { show('question'); return; }
+    finish();
+  }
+
+  function finish() {
+    const bonus = hasQ && answer === ed.question.answer ? 20 : 0;
+    const before = loadStreak();
+    const beforeLive = liveStreak(before, torontoParts().date);
+    const {s, gained, used} = complete(before, ed.date, bonus);
+    const now = torontoParts();
+    const live = liveStreak(s, now.date) || s.streak;
+    show('done');
+    const count = $('count');
+    count.classList.remove('pop');
+    $('countNum').textContent = gained ? beforeLive : live;
+    setTimeout(() => { $('countNum').textContent = live; count.classList.add('pop'); setStreakChips(live); }, gained ? 450 : 0);
+    $('doneKicker').textContent = gained ? "You're done for today" : "You've already finished this briefing";
+    // week strip, Monday first
+    const mon = dayNum(weekKey(now.date));
+    const days = new Set(s.days);
+    const covered = new Set(Object.values(s.shields));
+    $('week').innerHTML = ['M', 'T', 'W', 'T', 'F', 'S', 'S'].map((l, i) => {
+      const iso = isoOf(mon + i);
+      const cls = days.has(iso) ? 'dot done' : covered.has(iso) ? 'dot shield' : iso === now.date ? 'dot today' : 'dot';
+      const icon = days.has(iso) ? FLAME : covered.has(iso) ? SHIELD : '';
+      return `<div class="day"><div class="${cls}">${icon}</div>${l}</div>`;
+    }).join('');
+    $('shieldNote').textContent = used ? 'Your weekly shield covered the day you missed' : (s.shields[weekKey(now.date)] ? 'This week’s shield is used — don’t miss tomorrow' : 'One missed day a week is protected automatically');
+    const nextBadge = BADGES.find((b) => b > live) || 365;
+    const prevBadge = [...BADGES].reverse().find((b) => b <= live) || 0;
+    $('badgeName').textContent = `Next: ${BADGE_NAMES[nextBadge]}`;
+    const left = nextBadge - live;
+    $('badgeLeft').textContent = `${left} day${left === 1 ? '' : 's'} to go`;
+    $('badgeBar').style.width = '0%';
+    setTimeout(() => { $('badgeBar').style.width = Math.round(((live - prevBadge) / (nextBadge - prevBadge)) * 100) + '%'; }, 500);
+    $('score').textContent = s.score.toLocaleString('en-CA');
+    $('gain').textContent = gained ? `+${gained}` : '';
+    tick();
+  }
+
+  function tick() {
+    const {h, m} = torontoParts();
+    const mins = (h < 7 ? (7 - h) * 60 : (31 - h) * 60) - m;
+    $('countdown').textContent = `${Math.floor(mins / 60)} h ${mins % 60} min`;
+  }
+  setInterval(() => { if ($('done').classList.contains('on')) tick(); }, 30000);
+
+  // ---------- input ----------
+  $('startBtn').addEventListener('click', () => { const s = loadStreak(); if (s.last === ed.date) { step = total + (hasQ ? 1 : 0) + 1; finish(); } else go(1); });
+  $('upBtn').addEventListener('click', () => go(step - 1));
+  $('downBtn').addEventListener('click', () => go(step + 1));
+  $('qBack').addEventListener('click', () => go(total));
+  $('review').addEventListener('click', () => { step = 0; go(1); });
+  $('retry').addEventListener('click', load);
+  $('saveBtn').addEventListener('click', () => {
+    const st = ed.stories[step - 1]; if (!st) return;
+    saved.has(st.id) ? saved.delete(st.id) : saved.add(st.id);
+    store.set('pd:bsaved', [...saved]);
+    const on = saved.has(st.id);
+    $('saveBtn').setAttribute('aria-pressed', on);
+    $('saveIcon').setAttribute('fill', on ? '#142238' : 'none');
+  });
+  $('qOpts').addEventListener('click', (e) => {
+    const b = e.target.closest('.opt'); if (!b || answer !== null) return;
+    answer = +b.dataset.i;
+    [...$('qOpts').children].forEach((el, i) => {
+      if (i === ed.question.answer) { el.classList.add('right'); el.lastChild.textContent = 'Correct'; }
+      else if (i === answer) { el.classList.add('wrong'); el.lastChild.textContent = 'Your answer'; }
+      else el.classList.add('fade');
     });
-  }
-  return coverageCache.get(a.id) || 1;
-}
+    $('qNote').innerHTML = `<b>${answer === ed.question.answer ? 'Correct.' : 'Not quite.'}</b> ${esc(ed.question.explain || '')}`;
+    $('qFinish').style.display = 'block';
+  });
+  $('qFinish').addEventListener('click', () => go(total + 2));
 
-function isNew(a) { return state.lastVisit && a.addedAt && a.addedAt > state.lastVisit; }
+  // swipe + tap on the story stage
+  let sx = null, sy = null;
+  const stage = $('stories');
+  stage.addEventListener('pointerdown', (e) => { if (e.target.closest('[data-nopan]')) { sx = null; return; } sx = e.clientX; sy = e.clientY; });
+  stage.addEventListener('pointerup', (e) => {
+    if (sx === null) return;
+    const dx = e.clientX - sx, dy = e.clientY - sy; sx = null;
+    if (dy < -40 && Math.abs(dy) > Math.abs(dx)) return go(step + 1);
+    if (dy > 40 && Math.abs(dy) > Math.abs(dx)) return go(step - 1);
+    if (Math.abs(dx) < 12 && Math.abs(dy) < 12) {
+      const r = stage.getBoundingClientRect();
+      go(e.clientX - r.left < r.width / 3 ? step - 1 : step + 1);
+    }
+  });
+  // mouse wheel / trackpad on desktop
+  let wheelLock = 0;
+  stage.addEventListener('wheel', (e) => {
+    e.preventDefault();
+    const t = Date.now(); if (t < wheelLock || Math.abs(e.deltaY) < 20) return;
+    wheelLock = t + 600; go(step + (e.deltaY > 0 ? 1 : -1));
+  }, {passive: false});
+  document.addEventListener('keydown', (e) => {
+    if (!$('stories').classList.contains('on')) return;
+    if (['ArrowDown', 'ArrowRight', 'PageDown', ' '].includes(e.key)) { e.preventDefault(); go(step + 1); }
+    if (['ArrowUp', 'ArrowLeft', 'PageUp'].includes(e.key)) { e.preventDefault(); go(step - 1); }
+  });
 
-let clusterCache = null;
-function clusters() {
-  if (clusterCache) return clusterCache;
-  const arts = state.articles;
-  const toks = arts.map(x => words(x.title));
-  const parent = arts.map((_, i) => i);
-  const find = i => (parent[i] === i ? i : (parent[i] = find(parent[i])));
-  for (let i = 0; i < arts.length; i++) {
-    for (let j = i + 1; j < arts.length; j++) {
-      if (Math.abs(new Date(arts[i].date) - new Date(arts[j].date)) > 864e5) continue;
-      let shared = 0; toks[i].forEach(w => { if (toks[j].has(w)) shared++; });
-      const union = toks[i].size + toks[j].size - shared;
-      if (shared >= 2 && union && shared / union >= 0.25) parent[find(i)] = find(j);
+  // ---------- load ----------
+  async function load() {
+    show('loading');
+    try {
+      const r = await fetch('edition.json?t=' + Date.now(), {cache: 'no-store'});
+      if (!r.ok) throw new Error(r.status);
+      ed = await r.json();
+      if (!ed || !Array.isArray(ed.stories) || !ed.stories.length) throw new Error('empty');
+      total = ed.stories.length;
+      hasQ = !!(ed.question && Array.isArray(ed.question.options));
+      step = 0; answer = null;
+      render(); show('start');
+    } catch (err) {
+      $('errorText').textContent = "Today's briefing isn't ready yet. It appears every morning at 7:00.";
+      show('error');
     }
   }
-  const groups = new Map();
-  arts.forEach((a, i) => { const r = find(i); if (!groups.has(r)) groups.set(r, []); groups.get(r).push(a); });
-  clusterCache = new Map();
-  groups.forEach(g => { g.sort((x, y) => String(y.date).localeCompare(String(x.date))); g.forEach(a => clusterCache.set(a.id, g)); });
-  return clusterCache;
-}
-
-const VAGUE = /\b(announcement|update|updates|latest|live|what we know|watch|video|explainer|here's|heres|this week|in brief|briefing|reaction|responds|statement|speaks|says)\b/i;
-function cleanTitle(t) {
-  return String(t || "").replace(/\s+[-–—|]\s+(the latest|([\w.' ]+ )?live( updates| blog)?|latest updates|as it happened|live news)\s*$/i, "").replace(/\s+\|\s+[A-Z][\w .]+$/, "").trim();
-}
-function scent(a) {
-  const t = cleanTitle(a.title); const w = t.split(/\s+/);
-  let s = Math.min(w.length, 16) / 2;
-  s += w.slice(1).filter(x => /^[A-Z][a-z]/.test(x)).length;
-  s += (t.match(/\d/g) ? 1.5 : 0);
-  if (VAGUE.test(t)) s -= 3;
-  if (w.length > 22) s -= 3;
-  if (t.endsWith("?")) s -= 2;
-  return s;
-}
-function isVague(a) { const t = cleanTitle(a.title); return t.split(/\s+/).length < 7 || VAGUE.test(t); }
-function dek(a) { const m = String(a.summary || "").match(/^(.{40,220}?[.!?])(\s|$)/); return m ? m[1] : ""; }
-function dedupe(list) {
-  const cl = clusters(); const seen = new Set(); const out = [];
-  for (const first of list) {
-    const g = cl.get(first.id) || [first];
-    if (seen.has(g[0].id)) continue;
-    seen.add(g[0].id);
-    const a = g.reduce((best, x) => (scent(x) > scent(best) ? x : best), first);
-    const srcs = new Set([a.source]);
-    const others = g.filter(o => o !== a && !srcs.has(o.source) && srcs.add(o.source));
-    out.push({ a, others });
-  }
-  return out;
-}
-
-function photoHTML(a, kind) {
-  if (!kind || !a.image || !a.image.url) return "";
-  const im = a.image;
-  const credit = im.credit ? (/^(photo|photograph|image)/i.test(im.credit) ? im.credit : "Photo: " + im.credit) : "Image via " + a.source;
-  return `<figure class="ph-wrap"><div class="ph ${kind}"><img src="${esc(safeUrl(im.url))}" alt="${esc(im.caption || "")}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.closest('figure').remove()"></div><figcaption>${im.caption ? `<span class="cap">${esc(im.caption)}</span> ` : ""}<span class="credit">${esc(credit)}</span></figcaption></figure>`;
-}
-
-// Roughly 45% of cards in a group get a photo: the lead first, then spread evenly; never the same image twice on a page.
-let seenImgs = new Set();
-function photoKinds(xs, opts) {
-  const kinds = xs.map(() => null);
-  const cands = xs.map((x, k) => k).filter(k => xs[k].a.image && xs[k].a.image.url && !seenImgs.has(xs[k].a.image.url));
-  let need = Math.round(xs.length * 0.45);
-  if (opts.lead && cands[0] === 0) { kinds[0] = "r169"; seenImgs.add(xs[0].a.image.url); cands.shift(); need--; }
-  if (need > 0 && cands.length) {
-    const step = Math.max(1, cands.length / need);
-    for (let i = 0; i < need && Math.floor(i * step) < cands.length; i++) {
-      const k = cands[Math.floor(i * step)];
-      if (seenImgs.has(xs[k].a.image.url)) continue;
-      kinds[k] = opts.compact ? "r11" : "r43"; seenImgs.add(xs[k].a.image.url);
-    }
-  }
-  return kinds;
-}
-
-function cardHTML(a, others, lead, photo) {
-  const t = topicById[a.topic] || { label: a.topic, region: a.region };
-  const top = beatsOf(a).filter(b => topicById[b]).sort((x, y) => (state.clicks[y] || 0) - (state.clicks[x] || 0))[0];
-  const reason = state.view === "foryou" && top && (state.clicks[top] || 0) >= 2 ? `<span class="why">Because you read ${esc(topicById[top].label)}</span>` : "";
-  const also = others && others.length ? `<details class="also"><summary>Also covered by ${others.length} more outlet${others.length > 1 ? "s" : ""}</summary><ul>${others.map(o => `<li><a href="${esc(safeUrl(o.url))}" target="_blank" rel="noopener" data-open="${esc(o.id)}"><b>${esc(o.source)}</b> · ${esc(cleanTitle(o.title))}</a></li>`).join("")}</ul></details>` : "";
-  const flags = (a.breaking ? '<span class="pill brk">Breaking</span>' : "") + (isNew(a) ? '<span class="pill new">New</span>' : "");
-  return `<article class="item${lead ? " lead" : ""}${photo ? " has-photo" : ""}${a.breaking ? " is-breaking" : ""}${state.read.has(a.id) ? " read" : ""}" data-id="${esc(a.id)}">
-      <div class="stripe"></div>
-      <div class="body">
-        ${photoHTML(a, photo)}
-        ${flags ? `<div class="flags">${flags}</div>` : ""}
-        <h3><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener" data-open="${esc(a.id)}">${esc(cleanTitle(a.title))}</a></h3>
-        ${!lead && isVague(a) && dek(a) ? `<div class="dek">${esc(dek(a))}</div>` : ""}
-        <div class="meta">
-          <span class="src">${esc(a.source)}</span><span>${esc(fmtDate(a.date))}</span>
-          <span class="pill${t.region === "local" ? " local" : ""}">${esc(t.label)}</span>
-          ${(a.tags || []).filter(x => topicById[x]).map(x => `<span class="pill issue">${esc(topicById[x].label)}</span>`).join("")}
-        </div>
-        <p>${esc(a.summary)}</p>
-        <div class="actions">
-          <button data-save="${esc(a.id)}">${state.saved.has(a.id) ? "Saved ✓" : "Save"}</button>
-          ${reason}
-        </div>
-        ${also}
-      </div>
-    </article>`;
-}
-
-const section = (title, xs, id, opts = {}) => `<section class="region${opts.compact ? " compact" : ""}"${id ? ` id="sec-${id}"` : ""}><h3 class="sec-head">${esc(title)} <span>${opts.desc ? esc(opts.desc) : (opts.total ?? xs.length)}</span></h3><div class="cards">${((kinds) => xs.map((x, k) => cardHTML(x.a, x.others, opts.lead && k === 0, kinds[k])).join(""))(photoKinds(xs, opts))}</div>${opts.after || ""}</section>`;
-
-function renderFeed() {
-  const titles = { foryou: "For you", world: "World", local: "Local", saved: "Saved" };
-  $("#feedTitle").textContent = titles[state.view];
-  const feed = $("#feed");
-  if (!state.articles.length) return;
-  const list = visible();
-  feed.classList.toggle("flat", !(state.view === "world" || state.view === "local" || (state.view === "foryou" && state.sort === "recommended" && !state.q)));
-  if (!list.length) {
-    feed.innerHTML = `<div class="empty">${state.view === "saved" ? "Nothing saved yet. Use Save on any story to keep it here." : state.view === "foryou" ? "No stories match. Follow more beats or clear the search." : "No stories match your search."}</div>`;
-    return;
-  }
-  const items = dedupe(list);
-  seenImgs = new Set();
-  let html = "";
-  if (state.view === "world" || state.view === "local") {
-    const groups = TOPICS.filter(t => t.region === state.view)
-      .map(t => ({ t, items: items.filter(x => x.a.topic === t.id) }))
-      .filter(g => g.items.length);
-    html += `<nav class="jump" aria-label="Jump to region">${groups.map(g => `<button data-jump="${g.t.id}">${esc(g.t.label)} <span>${g.items.length}</span></button>`).join("")}</nav>`;
-    html += groups.map(g => {
-      const open = state.expanded.has(g.t.id);
-      const shown = open ? g.items : g.items.slice(0, 3);
-      const more = g.items.length > 3 ? `<button class="seeall" data-expand="${g.t.id}">${open ? "Show less" : "See all " + g.items.length}</button>` : "";
-      return section(g.t.label, shown, g.t.id, { total: g.items.length, after: more });
-    }).join("");
-  } else if (state.view === "foryou" && state.sort === "recommended" && !state.q) {
-    const top = items.slice(0, 5);
-    const used = new Set(top.map(x => x.a.id));
-    const isAnalysis = x => x.a.kind === "analysis";
-    const analysis = items.filter(x => isAnalysis(x) && !used.has(x.a.id)).slice(0, 6);
-    analysis.forEach(x => used.add(x.a.id));
-    const latest = items.filter(x => !used.has(x.a.id)).sort((p, q) => String(q.a.date).localeCompare(String(p.a.date))).slice(0, 9);
-    latest.forEach(x => used.add(x.a.id));
-    const more = items.filter(x => !used.has(x.a.id));
-    html += `<p class="intro">Ranked from <button class="linkbtn" data-topics>your topics</button>, how widely each story is covered, and what you read.</p>`;
-    html += section("Top stories", top, null, { lead: true, desc: "The most important developments right now" });
-    if (latest.length) html += section("Latest", latest, null, { compact: true, desc: "Newest first" });
-    if (analysis.length) html += section("Analysis", analysis, null, { desc: "Explainers, analysis and opinion" });
-    if (more.length) html += section("More for you", more, null, { compact: true });
-  } else {
-    const kinds = photoKinds(items, {});
-    html += `<div class="cards">${items.map((x, k) => cardHTML(x.a, x.others, false, kinds[k])).join("")}</div>`;
-  }
-  feed.innerHTML = html;
-}
-
-function renderBreaking() {
-  const items = state.articles.filter(a => a.breaking).sort((a, b) => String(b.date).localeCompare(String(a.date))).slice(0, 3);
-  $("#breaking").hidden = !items.length;
-  $("#breakingList").innerHTML = items.map(a => `<li><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener" data-open="${esc(a.id)}">${esc(a.title)}</a> <span class="src">— ${esc(a.source)}</span></li>`).join("");
-}
-
-function renderCounts() {
-  $("#c-world").textContent = state.articles.filter(a => a.region === "world").length || "";
-  $("#c-local").textContent = state.articles.filter(a => a.region === "local").length || "";
-  $("#c-saved").textContent = state.saved.size || "";
-}
-
-function renderAll() { renderBeats(); renderBreaking(); renderCounts(); renderFeed(); }
-
-document.addEventListener("click", e => {
-  if (e.target.closest("[data-retry]")) { $("#feed").innerHTML = '<div class="empty">Trying again…</div>'; load(); return; }
-  if (e.target.closest("[data-shownew]")) { if (pending) apply(pending); pending = null; $("#newBar").hidden = true; return; }
-  const rs = e.target.closest("[data-reset]");
-  if (rs) {
-    if (rs.dataset.armed !== "1") { rs.dataset.armed = "1"; rs.textContent = "Tap again to confirm"; setTimeout(() => { rs.dataset.armed = ""; rs.textContent = "Reset my preferences"; }, 4000); return; }
-    state.follow = new Set(DEFAULT_FOLLOW); state.clicks = {}; state.read = new Set();
-    store.set("follow", DEFAULT_FOLLOW); store.set("clicks", {}); store.set("read", []);
-    rs.dataset.armed = ""; rs.textContent = "Reset my preferences"; $("#resetMsg").textContent = "Done. Your topics are back to the defaults.";
-    renderBeats(); renderFeed(); return;
-  }
-  if (e.target.closest("[data-topics]")) { const t = $("#beatsToggle"); if (t.getAttribute("aria-expanded") !== "true") t.click(); t.scrollIntoView({ block: "center" }); t.focus(); return; }
-  const jump = e.target.closest("[data-jump]");
-  if (jump) { const el = document.getElementById("sec-" + jump.dataset.jump); if (el) { el.scrollIntoView({ block: "start" }); el.querySelector("h3").setAttribute("tabindex", "-1"); el.querySelector("h3").focus({ preventScroll: true }); } return; }
-  const exp = e.target.closest("[data-expand]");
-  if (exp) { const id = exp.dataset.expand; state.expanded.has(id) ? state.expanded.delete(id) : state.expanded.add(id); renderFeed(); return; }
-  const tog = e.target.closest("#beatsToggle");
-  if (tog) {
-    const open = $("#beatsPanel").classList.toggle("open");
-    tog.setAttribute("aria-expanded", open);
-    return;
-  }
-  const tab = e.target.closest("nav.tabs button");
-  if (tab) {
-    state.view = tab.dataset.view;
-    document.body.classList.toggle("view-full", state.view === "local" || state.view === "world");
-    window.scrollTo(0, 0);
-    document.querySelectorAll("nav.tabs button").forEach(b => { b.setAttribute("aria-pressed", b === tab); if (b === tab) b.setAttribute("aria-current", "page"); else b.removeAttribute("aria-current"); });
-    renderFeed(); return;
-  }
-  const beat = e.target.closest(".beat");
-  if (beat) {
-    const id = beat.dataset.topic;
-    state.follow.has(id) ? state.follow.delete(id) : state.follow.add(id);
-    store.set("follow", [...state.follow]);
-    renderBeats(); renderFeed(); return;
-  }
-  const save = e.target.closest("[data-save]");
-  if (save) {
-    const id = save.dataset.save;
-    state.saved.has(id) ? state.saved.delete(id) : state.saved.add(id);
-    store.set("saved", [...state.saved]);
-    renderCounts(); renderFeed(); return;
-  }
-  const open = e.target.closest("[data-open]");
-  if (open) {
-    const a = state.articles.find(x => x.id === open.dataset.open);
-    if (a) {
-      state.read.add(a.id); store.set("read", [...state.read]);
-      beatsOf(a).forEach(b => { state.clicks[b] = (state.clicks[b] || 0) + 1; }); store.set("clicks", state.clicks);
-      setTimeout(renderFeed, 50);
-    }
-  }
-});
-$("#q").addEventListener("input", e => { state.q = e.target.value.trim(); renderFeed(); });
-$("#sort").value = state.sort;
-$("#sort").addEventListener("change", e => { state.sort = e.target.value; store.set("sort", state.sort); renderFeed(); });
-
-function setLive(on, text) {
-  $("#live").classList.toggle("on", on);
-  $("#liveText").textContent = text;
-}
-
-let generatedAt = null;
-let pending = null;
-function showUpdated() {
-  if (!generatedAt) return;
-  const mins = Math.round((Date.now() - new Date(generatedAt)) / 60000);
-  const ago = mins <= 1 ? "just now" : mins < 60 ? mins + " min ago" : fmtDate(generatedAt);
-  setLive(mins < 75, "Updated " + ago);
-}
-
-function apply(data) {
-  generatedAt = data.generatedAt;
-  state.articles = data.items || [];
-  coverageCache = null; clusterCache = null;
-  renderSources(data.feeds || []);
-  if (!state.articles.length) $("#feed").innerHTML = '<div class="empty">No stories yet. The first news check is on its way.</div>';
-  renderAll();
-  showUpdated();
-}
-
-async function fetchNews() {
-  const res = await fetch("news.json?t=" + Date.now(), { cache: "no-store" });
-  if (!res.ok) throw new Error(res.status);
-  return res.json();
-}
-
-function showError() {
-  if (state.articles.length) {
-    setLive(false, "Couldn't update");
-    return;
-  }
-  $("#feed").innerHTML = '<div class="error-box" role="alert"><h3>We couldn’t load the news.</h3><p>Check your internet connection, then try again.</p><button class="btn" data-retry>Retry</button></div>';
-  setLive(false, "Offline");
-}
-
-async function load() {
-  if (!state.articles.length) {
-    const cached = store.get("cache", null);
-    if (cached && cached.items && cached.items.length) apply(cached);
-  }
-  try {
-    const data = await fetchNews();
-    try { localStorage.setItem("pd:cache", JSON.stringify(data)); } catch (e) {}
-    apply(data);
-  } catch (e) {
-    showError();
-  }
-}
-
-// Background check: never re-renders on its own; offers new stories instead.
-async function checkNew() {
-  try {
-    const data = await fetchNews();
-    if (!data.generatedAt || data.generatedAt === generatedAt) return;
-    try { localStorage.setItem("pd:cache", JSON.stringify(data)); } catch (e) {}
-    const known = new Set(state.articles.map(a => a.id));
-    const fresh = (data.items || []).filter(a => !known.has(a.id)).length;
-    pending = data;
-    if (fresh) {
-      $("#newBar").hidden = false;
-      $("#newCount").textContent = fresh === 1 ? "1 new story" : fresh + " new stories";
-    } else {
-      generatedAt = data.generatedAt;
-      showUpdated();
-    }
-  } catch (e) { /* stay quiet; try again next time */ }
-}
-
-function renderSources(feeds) {
-  const ok = [...new Set(feeds.filter(f => f.ok && f.kept).map(f => f.source))];
-  $("#sources").textContent = ok.length ? "Sources right now: " + ok.join(", ") + "." : "";
-}
-
-renderBeats();
-load();
-setInterval(checkNew, 3 * 60 * 1000);
-setInterval(showUpdated, 60 * 1000);
-document.addEventListener("visibilitychange", () => { if (!document.hidden && state.articles.length) checkNew(); });
+  load();
+})();
 </script>
 </body>
 </html>

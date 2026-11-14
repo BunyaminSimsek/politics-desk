@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T17:20:52+00:00",
+ "generatedAt": "2026-11-14T17:30:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Mark-Carney-2-e1794676778879.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Mark-Carney-2-e1794676778879.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Mark-Carney-2-e1794676778879.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Mark-Carney-2-e1794676778879.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T17:20:52+00:00"
@@ -1015,9 +1015,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/057ce3f2-d3ad-40dd-8455-8b97e0c07338,1792491539832/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C278%2C5331%2C2998%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/057ce3f2-d3ad-40dd-8455-8b97e0c07338,1792491539832/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C278%2C5331%2C2998%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T10:06:47+00:00"
@@ -6032,26 +6032,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "2aee41ed39110889",
-   "title": "Cop31 as it happened: ‘Fossil fuels must go the way of the dinosaurs’ - UN chief hits out at industry lobbying",
-   "summary": "Third day of UN talks begin but leaders of many big polluting nations absent After a couple of hosts provide us a bit of background on Antalya (founded in 200BC, apparently) it is time to hear from António Guterres, the outgoing secretary-general of the UN…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-11T17:26:42+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Metin Aktas/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8cd6e42545e74ffa374a74fec29a4d9c8df470eb/919_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=04402d09f6e8023b4d21a4576d305512",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   }
  ]
 }

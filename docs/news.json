@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T11:01:56+00:00",
+ "generatedAt": "2026-11-14T11:11:13+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 17
+   "kept": 20
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,90 @@
  ],
  "items": [
   {
+   "id": "5d65e92e58ffb523",
+   "title": "SpaceX not being honest about ‘political’ reasons for slowing Starshield, says Zelenskyy",
+   "summary": "Throttling of Elon Musk’s military-grade satellite system affecting whole frontline, says Ukraine’s president Volodymyr Zelenskyy has accused SpaceX of not telling the truth over restrictions to Ukraine’s Starshield satellite system , saying that the decision…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy",
+   "date": "2026-11-14T11:05:33+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0c851b720e1e7b42b0599a203354650de1b25fc1/708_0_4278_3422/master/4278.jpg?width=700&quality=85&auto=format&fit=max&s=f6decf880233d16d5c8bbf4aca682d29",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Peter Morrison/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T11:11:13+00:00"
+  },
+  {
+   "id": "1276f893961d3a18",
+   "title": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
+   "summary": "At party’s ‘What’s Next’ conference, consensus is they need to act quickly, but over affordability or accountability is the question What’s next for Democrats?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/democrats-denver-whats-next-conference",
+   "date": "2026-11-14T11:00:44+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/49616fdddb7670ad07a58b77da3692da986ee822/333_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=b3f80948d5ab7b3627ea6420660d6a79",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Bloomberg/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T11:11:13+00:00"
+  },
+  {
+   "id": "7357cd35a59d20af",
+   "title": "Will Trump’s lame duck presidency push him further beyond constraints of the law?",
+   "summary": "Midterm elections have defanged the US president – leaving critics to worry about his next move in his ‘fat Elvis’ stage It was just before 3am when Donald Trump entered a crowded Manhattan ballroom, greeted by chants of “USA!",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/14/trump-lame-duck-presidency-outcome",
+   "date": "2026-11-14T11:00:43+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f850cba9168bff3c2fc933bd2b10aa840d98f1b2/0_216_2109_1686/master/2109.jpg?width=700&quality=85&auto=format&fit=max&s=296536c4499cf2ee3a56472ffc15c5dd",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Evan Vucci/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T11:11:13+00:00"
+  },
+  {
+   "id": "d75c2ba6aa48bfc6",
+   "title": "Pathways carbon capture agreement faces deadline delay, but talks remain on track",
+   "summary": "Getting the agreement by Nov. 15 \"doesn't really matter,\" the federal environment minister now says.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/pathways-carbon-capture-agreement-faces-deadline-delay-but-talks-remain-on-track/article_97c6160c-c553-495a-b05a-53decae9ffb7.html",
+   "date": "2026-11-14T11:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/c1/6c137aaf-1695-5bdd-bf2d-8ae7cdcc49b4/6af7b59e0f4fc.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 798,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/c1/6c137aaf-1695-5bdd-bf2d-8ae7cdcc49b4/6af7b59e0f4fc.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T11:11:13+00:00"
+  },
+  {
    "id": "c8e675553281d032",
    "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
    "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
@@ -177,10 +261,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T11:01:56+00:00"
@@ -366,9 +450,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/54f6f536-b4f1-4791-8b28-77a42867301c,1794609137028/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4800%2C2700%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/54f6f536-b4f1-4791-8b28-77a42867301c,1794609137028/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4800%2C2700%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"
@@ -387,9 +471,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/ce870e57-4d25-4bcb-b670-fc79850dc32b,1794510495936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C270%2C5184%2C2916%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/ce870e57-4d25-4bcb-b670-fc79850dc32b,1794510495936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C270%2C5184%2C2916%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"
@@ -406,9 +490,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/bd49e383-901a-4a70-8398-b6b0fde6d995,1794617494392/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4096%2C2304%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/bd49e383-901a-4a70-8398-b6b0fde6d995,1794617494392/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4096%2C2304%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T13:11:06+00:00",
+ "generatedAt": "2026-11-14T13:20:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 19
+   "kept": 18
   },
   {
    "source": "The Guardian",
@@ -119,7 +119,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
    "ok": true,
-   "kept": 49
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -179,13 +179,115 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5191x3461+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F04%2F692982c643afb52e86b590ea8647%2Fap26307845117065.jpg",
-    "w": 1200,
     "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5191x3461+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F04%2F692982c643afb52e86b590ea8647%2Fap26307845117065.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5191x3461+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F04%2F692982c643afb52e86b590ea8647%2Fap26307845117065.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5191x3461+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F04%2F692982c643afb52e86b590ea8647%2Fap26307845117065.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T13:11:06+00:00"
+  },
+  {
+   "id": "60ee7f0602dabbf2",
+   "title": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’",
+   "summary": "Members of Congress and advocates warn that returning people to their home countries could be a death sentence Dozens of Afghans who are currently in the US but fear being deported back to Afghanistan along with a larger group and possibly killed by the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration",
+   "date": "2026-11-14T13:00:47+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/864ffb50bade3319fe14e785391a8da94a174334/0_0_4501_3600/master/4501.jpg?width=700&quality=85&auto=format&fit=max&s=da2b4cb29db07ccbe63675c370a51e6d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T13:20:16+00:00"
+  },
+  {
+   "id": "07f2bdbe09991db6",
+   "title": "Corporate Democrats are weaponizing identity politics to smear progressives | Arwa Mahdawi",
+   "summary": "House members have responded to legitimate criticism with cynicism. Let’s not have another ‘Bernie bros’ moment Before we get started, some ground rules. You are, of course, completely free to disagree with everything I have to say here.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/14/corporate-democrats-identity-politics-progressives",
+   "date": "2026-11-14T13:00:46+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e1aca4984df86a8649a6a559faefbc340d902ea1/399_0_4002_3201/master/4002.jpg?width=700&quality=85&auto=format&fit=max&s=faf8d490ed4ea9253dbd053ce434a02f",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: J Scott Applewhite/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T13:20:16+00:00"
+  },
+  {
+   "id": "3a003d95a5f3b3a7",
+   "title": "Grey Cup game bids farewell for now to iconic Snowbirds aerial team",
+   "summary": "CALGARY - The national anthem is set to ring through McMahon Stadium on Sunday and herald across the sky nine Snowbirds jets, in a fitting show retiring the planes of Canada's military aerial ambassadors.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/grey-cup-game-bids-farewell-for-now-to-iconic-snowbirds-aerial-team/article_e2d2716a-ba91-5e59-81b3-4cd4eb0ea8fc.html",
+   "date": "2026-11-14T13:00:08+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/16/416b4e8d-6bf5-534e-af12-dd98b940d2fe/6af85c81838c3.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 755,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/16/416b4e8d-6bf5-534e-af12-dd98b940d2fe/6af85c81838c3.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T13:20:16+00:00"
+  },
+  {
+   "id": "033ca184cc062a90",
+   "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
+   "summary": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
+   "date": "2026-11-14T12:57:36+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af8433adf-1794655034.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af8433adf-1794655034.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T13:20:16+00:00"
+  },
+  {
+   "id": "88054482daef7879",
+   "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
+   "summary": "The SAF successes in Kordofan are seeing the battle against the RSF turn in favour of the Sudanese government.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf?traffic_source=rss",
+   "date": "2026-11-14T12:49:17+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/1000289121-1794657366.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/1000289121-1794657366.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T13:20:16+00:00"
   },
   {
    "id": "7e75777f2a36bf29",
@@ -752,9 +854,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/54f6f536-b4f1-4791-8b28-77a42867301c,1794609137028/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4800%2C2700%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/54f6f536-b4f1-4791-8b28-77a42867301c,1794609137028/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4800%2C2700%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"
@@ -773,9 +875,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/ce870e57-4d25-4bcb-b670-fc79850dc32b,1794510495936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C270%2C5184%2C2916%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/ce870e57-4d25-4bcb-b670-fc79850dc32b,1794510495936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C270%2C5184%2C2916%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"
@@ -792,9 +894,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/bd49e383-901a-4a70-8398-b6b0fde6d995,1794617494392/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4096%2C2304%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/bd49e383-901a-4a70-8398-b6b0fde6d995,1794617494392/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4096%2C2304%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"

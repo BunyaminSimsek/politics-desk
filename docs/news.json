@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T23:38:57+00:00",
+ "generatedAt": "2026-11-14T23:48:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -341,9 +341,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0b445307-3812-446b-9e80-b62d4ecf585b,1794677219777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C271%2C4122%2C2318%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0b445307-3812-446b-9e80-b62d4ecf585b,1794677219777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C271%2C4122%2C2318%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T19:21:26+00:00"
@@ -2225,6 +2225,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T20:21:43+00:00"
+  },
+  {
+   "id": "97236c08548e86c3",
+   "title": "Lauren Boebert, once a MAGA star, loses her Colorado seat",
+   "summary": "Boebert, who rose to fame as one of Donald Trump's biggest cheerleaders, will not serve a fourth term in Congress.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6j9mlldgpgjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T20:06:46+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e243/live/c2a31670-dd56-11f1-acd1-a78ce9f5fae0.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e243/live/c2a31670-dd56-11f1-acd1-a78ce9f5fae0.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T23:48:31+00:00"
   },
   {
    "id": "5659d244156ae8cf",

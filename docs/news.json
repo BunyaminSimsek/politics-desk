@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T00:01:54+00:00",
+ "generatedAt": "2026-11-14T00:11:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 18
+   "kept": 19
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,44 @@
   }
  ],
  "items": [
+  {
+   "id": "34ad3f88571e67fb",
+   "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+   "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T00:03:52+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T00:11:02+00:00"
+  },
+  {
+   "id": "07c3fc0778fe92d3",
+   "title": "Mamdani and Trump agree to delay on food stamp rules that put benefit at risk for millions",
+   "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply Zohran Mamdani, the New York City mayor, has struck a deal with Donald Trump to secure a 90-day delay on new rules for the Supplemental Nutrition…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
+   "date": "2026-11-13T23:53:43+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=700&quality=85&auto=format&fit=max&s=30cf423877b8a992f15c640a2e1baa50",
+    "credit": "Photograph: Adam Gray/AP",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T20:49:15+00:00"
+  },
   {
    "id": "09a77b01bd58f358",
    "title": "DHS head Mark Waye Mullin says there is not a threat to the U.S. amid FAA ground stop",
@@ -422,25 +460,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T19:17:36+00:00"
-  },
-  {
-   "id": "07c3fc0778fe92d3",
-   "title": "Mamdani and Trump agree to 90-day delay on new food assistance rules for corner stores",
-   "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply Zohran Mamdani, the New York City mayor, has struck a deal with Donald Trump to secure a 90-day delay on new rules for the Supplemental Nutrition…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
-   "date": "2026-11-13T20:33:12+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=700&quality=85&auto=format&fit=max&s=30cf423877b8a992f15c640a2e1baa50",
-    "credit": "Photograph: Adam Gray/AP",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T20:49:15+00:00"
   },
   {
    "id": "0c685c22d387e8b3",

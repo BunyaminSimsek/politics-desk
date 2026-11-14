@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T18:25:07+00:00",
+ "generatedAt": "2026-11-14T18:34:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -169,7 +169,7 @@
    "id": "105bd5f2eba6a4f0",
    "title": "Carney says he will not boycott APEC 'family photo' with Putin",
    "summary": "Prime Minister Mark Carney says he will participate in an upcoming group photo with Russian President Vladimir Putin at the APEC summit out of respect for the host, Chinese President Xi Jinping.",
-   "source": "CBC News",
+   "source": "CBC World",
    "url": "https://www.cbc.ca/news/politics/carney-apec-boycott-photo-putin-9.7422267?cmp=rss",
    "date": "2026-11-14T18:18:59+00:00",
    "topic": "federal",
@@ -177,9 +177,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d4239b67-946d-4f43-b1be-c5568fabe406,1794676799408/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C366%2C8067%2C4537%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d4239b67-946d-4f43-b1be-c5568fabe406,1794676799408/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C366%2C8067%2C4537%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T18:25:07+00:00"
@@ -6029,28 +6029,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "9a4fab6bfc76abda",
-   "title": "The Guardian view on Maga after the midterms: doubling down on Trumpism | Editorial",
-   "summary": "Republicans know that the president’s folly and excesses cost them the elections. That doesn’t mean they’re ready to challenge him Shortly after polls closed last Tuesday, with the scale of the Republican trouncing in the midterms still becoming apparent…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/11/the-guardian-view-on-maga-after-the-midterms-doubling-down-on-trumpism",
-   "date": "2026-11-11T18:25:56+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Alex Wong/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c49fb68e16b6a7ae88561816da5a2e30fc8105f1/285_0_2850_2280/master/2850.jpg?width=700&quality=85&auto=format&fit=max&s=541a6bc94d262235ecfb55ae6e30349e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T15:11:50+00:00",
+ "generatedAt": "2026-11-14T15:20:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "e5072da40f8a4501",
+   "title": "Lawyers unsure if extra funding can reduce massive caseload at Federal Court",
+   "summary": "The Federal Court asked for additional resources to handle a caseload that's ballooned to nearly 31,000 proceedings commenced as of Sept. 30 — up from about 7,600 in all of 2020.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12151047/federal-court-funding/",
+   "date": "2026-11-14T15:20:40+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/courtroom-e1794669622939.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/courtroom-e1794669622939.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T15:20:59+00:00"
+  },
+  {
+   "id": "aad3d60bc47e7730",
+   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T15:15:57+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T10:43:34+00:00"
+  },
+  {
    "id": "264cf2242a78c69c",
    "title": "CFB Wainwright incident casts spotlight on reserve pay disparities: former bureaucrat",
    "summary": "Four soldiers died and 39 others — including several reservists — were injured when a fire suddenly overtook a training area at CFB Wainwright last month.",
@@ -177,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Wainwright-e1794668957140.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Wainwright-e1794668957140.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Wainwright-e1794668957140.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Wainwright-e1794668957140.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T15:11:50+00:00"
@@ -197,13 +239,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/dd871a986aabb7abca5224af03caccf474d981ca/468_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=ddd690ae300a2b3f31761b598ecad960",
-    "w": 700,
+    "credit": "Photograph: Chedly Ben Ibrahim/NurPhoto/Getty Images",
     "h": 560,
-    "credit": "Photograph: Chedly Ben Ibrahim/NurPhoto/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/dd871a986aabb7abca5224af03caccf474d981ca/468_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=ddd690ae300a2b3f31761b598ecad960",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-14T15:11:50+00:00"
+  },
+  {
+   "id": "39e39c0d617f750a",
+   "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
+   "summary": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss",
+   "date": "2026-11-14T14:57:04+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7329927488-1794585241.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7329927488-1794585241.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T15:20:59+00:00"
   },
   {
    "id": "063184dfb2b71db9",
@@ -478,28 +540,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T12:15:39+00:00"
-  },
-  {
-   "id": "aad3d60bc47e7730",
-   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-14T11:41:20+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T10:43:34+00:00"
   },
   {
    "id": "fcc1899af9d52bc9",

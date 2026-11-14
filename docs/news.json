@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T11:30:06+00:00",
+ "generatedAt": "2026-11-14T11:39:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -201,10 +201,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d7e0d1bd6474ed59bfd6fbe1b933acc0db8c76da/0_0_3937_3150/master/3937.jpg?width=700&quality=85&auto=format&fit=max&s=24330ff4058d34754a8864cf3ddd0c66",
-    "w": 700,
+    "credit": "Photograph: Peter Morrison/AP",
     "h": 560,
-    "credit": "Photograph: Peter Morrison/AP"
+    "url": "https://i.guim.co.uk/img/media/d7e0d1bd6474ed59bfd6fbe1b933acc0db8c76da/0_0_3937_3150/master/3937.jpg?width=700&quality=85&auto=format&fit=max&s=24330ff4058d34754a8864cf3ddd0c66",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-14T11:11:13+00:00"
@@ -5798,46 +5798,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T02:14:27+00:00"
-  },
-  {
-   "id": "daca68b5a7f5ac38",
-   "title": "Transport workers in Chile block highways in protest over surging fuel prices",
-   "summary": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T11:34:50+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0d32/live/746c37d0-ddbe-11f1-a50f-85eebf9e50e5.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/0d32/live/746c37d0-ddbe-11f1-a50f-85eebf9e50e5.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "49fd977ed9793125",
-   "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-   "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T11:33:24+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a10f/live/ec975ef0-dd88-11f1-994d-0d0f033add01.png",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a10f/live/ec975ef0-dd88-11f1-994d-0d0f033add01.png",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   }
  ]
 }

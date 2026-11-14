@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T16:15:56+00:00",
+ "generatedAt": "2026-11-14T16:25:07+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -177,13 +177,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/4201cd9b78233899e96ef783c9851310bd58683b/619_0_6164_4934/master/6164.jpg?width=700&quality=85&auto=format&fit=max&s=e9c1a055fb17c80607880edfb4511d71",
-    "w": 700,
+    "credit": "Photograph: Tolga Akmen/EPA",
     "h": 560,
-    "credit": "Photograph: Tolga Akmen/EPA"
+    "url": "https://i.guim.co.uk/img/media/4201cd9b78233899e96ef783c9851310bd58683b/619_0_6164_4934/master/6164.jpg?width=700&quality=85&auto=format&fit=max&s=e9c1a055fb17c80607880edfb4511d71",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-14T16:15:56+00:00"
+  },
+  {
+   "id": "16a42dd50374abb2",
+   "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+   "summary": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+   "date": "2026-11-14T16:13:43+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794672722.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794672722.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T16:25:07+00:00"
   },
   {
    "id": "10bdccdf58640905",

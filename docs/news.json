@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T14:24:52+00:00",
+ "generatedAt": "2026-11-14T14:34:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 18
+   "kept": 17
   },
   {
    "source": "The Guardian",
@@ -769,9 +769,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.4540635,1518884211000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2997%2C1685%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.4540635,1518884211000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2997%2C1685%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T10:06:47+00:00"
@@ -920,6 +920,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"
+  },
+  {
+   "id": "41c29c3fb9354caf",
+   "title": "Canadian judge decries U.S. sanctions of International Criminal Court as 'attack in favour of impunity'",
+   "summary": "Kimberly Prost, a Canadian judge at the International Criminal Court, was sanctioned by the Trump administration last August.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/us-icc-sanctions-canadian-judge-kimberly-prost-9.7415128?cmp=rss",
+   "date": "2026-11-14T09:00:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/d4a07724-5913-4de9-84d6-22ce3b71362d,1794323760202/full/max/0/default.jpg?im=Crop%2Crect%3D%28411%2C604%2C2893%2C1627%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T14:34:33+00:00"
   },
   {
    "id": "fb59a5094775310a",

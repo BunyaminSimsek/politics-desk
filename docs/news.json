@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T10:06:47+00:00",
+ "generatedAt": "2026-11-14T10:16:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -177,9 +177,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.4540635,1518884211000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2997%2C1685%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.4540635,1518884211000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2997%2C1685%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T10:06:47+00:00"
@@ -198,10 +198,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2Ff7%2F97f674e0403bb49b1401fda0ff98%2Fgettyimages-2303426754.jpg",
-    "w": 1200,
     "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2Ff7%2F97f674e0403bb49b1401fda0ff98%2Fgettyimages-2303426754.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2Ff7%2F97f674e0403bb49b1401fda0ff98%2Fgettyimages-2303426754.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F10%2Ff7%2F97f674e0403bb49b1401fda0ff98%2Fgettyimages-2303426754.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T10:06:47+00:00"
@@ -218,10 +218,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1599+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F7f%2F1e1751c144f1bd74d4bf72ab16e1%2Fgettyimages-2244508651.jpg",
-    "w": 1200,
     "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1599+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F7f%2F1e1751c144f1bd74d4bf72ab16e1%2Fgettyimages-2244508651.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1599+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F7f%2F1e1751c144f1bd74d4bf72ab16e1%2Fgettyimages-2244508651.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1599+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F7f%2F1e1751c144f1bd74d4bf72ab16e1%2Fgettyimages-2244508651.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T10:06:47+00:00"

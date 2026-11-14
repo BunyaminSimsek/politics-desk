@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T03:23:25+00:00",
+ "generatedAt": "2026-11-14T03:32:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 17
+   "kept": 16
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,27 @@
   }
  ],
  "items": [
+  {
+   "id": "97d4316513143a4a",
+   "title": "Canada, Philippines wrap talks for free-trade agreement, expected to be signed in 2027",
+   "summary": "Canada and the Philippines have concluded talks for a free-trade agreement, which is expected to be formally signed next year.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/canada-philippines-free-trade-agreement-talks-9.7422009?cmp=rss",
+   "date": "2026-11-14T03:27:16+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/efe910e0-a91a-4c20-807d-c58b6ad03d36,1794626341489/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C14%2C8011%2C4506%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T03:32:41+00:00"
+  },
   {
    "id": "1883b75a28cf062a",
    "title": "Mark Carney signs Philippines trade agreement as Canada expands Asia trade push",
@@ -608,6 +629,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T20:40:05+00:00"
+  },
+  {
+   "id": "0265671b9dfa7e74",
+   "title": "Alberta implementing new oil royalty payment system to encourage production",
+   "summary": "CALGARY - Alberta's government unveiled a new royalty payment program Friday that it says is aimed at incentivizing development in the oil industry.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/alberta/alberta-implementing-new-oil-royalty-payment-system-to-encourage-production/article_2448f610-4c42-540e-95ca-89a14f69cb80.html",
+   "date": "2026-11-13T20:19:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/ce/1cec8f99-3ca4-5621-a1a9-a75d652db0aa/6af77220369f0.image.jpg?resize=300%2C196",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T03:32:41+00:00"
   },
   {
    "id": "9884e09e3f3746b0",
@@ -1928,25 +1968,6 @@
    "addedAt": "2026-11-13T09:50:01+00:00"
   },
   {
-   "id": "a20dca1952534f81",
-   "title": "Career college saw OSAP usage rise 6,000 per cent, but wasn't cut off this spring",
-   "summary": "TORONTO - An Ontario career college with four campuses saw the amount of students receiving financial aid explode over a few years, including an increase of nearly 6,000 per cent at one campus, but it was not one of the…",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/ontario/career-college-saw-osap-usage-rise-6-000-per-cent-but-wasn-t-cut-off-this-spring/article_3bbd5daa-afb9-58ea-8522-d61288aa2a2b.html",
-   "date": "2026-11-13T09:00:06+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/68/16845ddc-c9d8-569b-aa3a-24f2e93556f8/6af6d2d022d30.image.jpg?resize=300%2C200",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T09:13:24+00:00"
-  },
-  {
    "id": "0c6fb848a895773d",
    "title": "British spy tale about Cold War defection sheds new light on Canadian mole hunt",
    "summary": "OTTAWA - There is new evidence that a Soviet spy who defected to Britain in the early 1980s played a key role in helping Canada unravel the mystery of a mole who passed secrets to Russian intelligence.",
@@ -1961,6 +1982,25 @@
    "kind": "news",
    "image": {
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/08/b08781a5-f419-5241-9831-ceb818096d67/6af6d2c2b6f49.image.jpg?resize=300%2C200",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T09:13:24+00:00"
+  },
+  {
+   "id": "a20dca1952534f81",
+   "title": "Career college saw OSAP usage rise 6,000 per cent, but wasn't cut off this spring",
+   "summary": "TORONTO - An Ontario career college with four campuses saw the amount of students receiving financial aid explode over a few years, including an increase of nearly 6,000 per cent at one campus, but it was not one of the…",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/career-college-saw-osap-usage-rise-6-000-per-cent-but-wasn-t-cut-off-this-spring/article_3bbd5daa-afb9-58ea-8522-d61288aa2a2b.html",
+   "date": "2026-11-13T09:00:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/68/16845ddc-c9d8-569b-aa3a-24f2e93556f8/6af6d2d022d30.image.jpg?resize=300%2C200",
     "credit": "",
     "caption": ""
    },

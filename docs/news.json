@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T11:20:50+00:00",
+ "generatedAt": "2026-11-14T11:30:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "fcc1899af9d52bc9",
+   "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
+   "summary": "Prime ministerial hopeful calls Arab minority ‘an integral part of the Israeli story’ as he seeks to form government Israeli prime ministerial hopeful Gadi Eisenkot condemned a “racist and aggressive campaign of delegitimisation” against the country’s Arab…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+   "date": "2026-11-14T11:11:03+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Abir Sultan/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=700&quality=85&auto=format&fit=max&s=5fd49fdc7d95d7fc81dfa75a7d810f1e",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T22:48:19+00:00"
+  },
+  {
    "id": "5d65e92e58ffb523",
    "title": "SpaceX not being honest about ‘political’ reasons for slowing Starshield, says Zelenskyy",
    "summary": "Throttling of Elon Musk’s military-grade satellite system affecting whole frontline, says Ukraine’s president Volodymyr Zelenskyy has accused SpaceX of not telling the truth over restrictions to Ukraine’s Starshield satellite system , saying that the decision…",
@@ -179,10 +201,10 @@
    ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Peter Morrison/AP",
+    "url": "https://i.guim.co.uk/img/media/d7e0d1bd6474ed59bfd6fbe1b933acc0db8c76da/0_0_3937_3150/master/3937.jpg?width=700&quality=85&auto=format&fit=max&s=24330ff4058d34754a8864cf3ddd0c66",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0c851b720e1e7b42b0599a203354650de1b25fc1/708_0_4278_3422/master/4278.jpg?width=700&quality=85&auto=format&fit=max&s=f6decf880233d16d5c8bbf4aca682d29",
-    "w": 700
+    "credit": "Photograph: Peter Morrison/AP"
    },
    "breaking": false,
    "addedAt": "2026-11-14T11:11:13+00:00"
@@ -241,10 +263,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/93fd6bcf40df0382e7baaa98cee8ae3758d204d9/345_0_3455_2764/master/3455.jpg?width=700&quality=85&auto=format&fit=max&s=862b6f8ea1e2079e46bef073634d92ca",
-    "w": 700,
+    "credit": "Photograph: Chip Somodevilla/Getty Images",
     "h": 560,
-    "credit": "Photograph: Chip Somodevilla/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/93fd6bcf40df0382e7baaa98cee8ae3758d204d9/345_0_3455_2764/master/3455.jpg?width=700&quality=85&auto=format&fit=max&s=862b6f8ea1e2079e46bef073634d92ca",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-14T11:20:50+00:00"
@@ -263,10 +285,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ea7d82d3437dc73bde2f1b8aafa50b01d7dad2ed/514_0_5139_4112/master/5139.jpg?width=700&quality=85&auto=format&fit=max&s=60e4f0f350372013811c85bec1656791",
-    "w": 700,
+    "credit": "Photograph: Los Angeles Times/Getty Images",
     "h": 560,
-    "credit": "Photograph: Los Angeles Times/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/ea7d82d3437dc73bde2f1b8aafa50b01d7dad2ed/514_0_5139_4112/master/5139.jpg?width=700&quality=85&auto=format&fit=max&s=60e4f0f350372013811c85bec1656791",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-14T11:20:50+00:00"
@@ -285,10 +307,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af838772b-1794652279.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af838772b-1794652279.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af838772b-1794652279.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af838772b-1794652279.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T11:20:50+00:00"
@@ -305,10 +327,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/d5/bd51239d-39e7-55db-abde-fd6bfe0ba3df/6af8406333d8c.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 889,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/d5/bd51239d-39e7-55db-abde-fd6bfe0ba3df/6af8406333d8c.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/d5/bd51239d-39e7-55db-abde-fd6bfe0ba3df/6af8406333d8c.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/d5/bd51239d-39e7-55db-abde-fd6bfe0ba3df/6af8406333d8c.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T11:20:50+00:00"
@@ -327,10 +349,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/5c/d5c25ff4-991b-5327-a710-e149e7c3d74c/6af8405fcdf66.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 799,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/5c/d5c25ff4-991b-5327-a710-e149e7c3d74c/6af8405fcdf66.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/5c/d5c25ff4-991b-5327-a710-e149e7c3d74c/6af8405fcdf66.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/5c/d5c25ff4-991b-5327-a710-e149e7c3d74c/6af8405fcdf66.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T11:20:50+00:00"
@@ -349,10 +371,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/ff/1ff7708c-f4b0-5d14-b184-1d10c4505361/6af5f0f9d3f50.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/ff/1ff7708c-f4b0-5d14-b184-1d10c4505361/6af5f0f9d3f50.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/ff/1ff7708c-f4b0-5d14-b184-1d10c4505361/6af5f0f9d3f50.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/ff/1ff7708c-f4b0-5d14-b184-1d10c4505361/6af5f0f9d3f50.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T11:20:50+00:00"
@@ -369,10 +391,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/92/a92a9f9c-3e5d-5268-9879-d40e9427e353/6af84061608d8.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 804,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/92/a92a9f9c-3e5d-5268-9879-d40e9427e353/6af84061608d8.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/92/a92a9f9c-3e5d-5268-9879-d40e9427e353/6af84061608d8.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/92/a92a9f9c-3e5d-5268-9879-d40e9427e353/6af84061608d8.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T11:20:50+00:00"
@@ -1191,28 +1213,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-13T23:34:14+00:00"
-  },
-  {
-   "id": "fcc1899af9d52bc9",
-   "title": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
-   "summary": "Statement is rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab Israelis Israeli prime ministerial hopeful Gadi Eisenkot accused caretaker premier Benjamin Netanyahu on Friday of fuelling a “racist” campaign against…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-   "date": "2026-11-13T22:36:38+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Abir Sultan/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=700&quality=85&auto=format&fit=max&s=5fd49fdc7d95d7fc81dfa75a7d810f1e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T22:48:19+00:00"
   },
   {
    "id": "1f7cc3eaf8ba036e",
@@ -5838,26 +5838,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "2a6f45037a977c28",
-   "title": "Indigenous sentencing law in Canada has come full circle",
-   "summary": "In October, the Supreme Court of Canada released a historic decision in R v Cope that affirms the need for judges to carefully consider two interrelated social crises in their sentencing decisions.",
-   "source": "Policy Options",
-   "url": "https://policyoptions.irpp.org/2026/11/indigenous-sentencing-cope/",
-   "date": "2026-11-11T11:30:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "analysis",
-   "image": {
-    "h": 1299,
-    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/sentencing-circles.jpg?resize=640%2C427",
-    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/sentencing-circles.jpg?resize=1200%2C800",
-    "w": 2309
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T02:14:27+00:00"
   }
  ]
 }

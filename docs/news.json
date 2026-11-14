@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T23:02:33+00:00",
+ "generatedAt": "2026-11-14T23:11:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "a63c8e4b57f47d9d",
+   "title": "Netanyahu says only a unity government can guarantee Israel’s security",
+   "summary": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
+   "date": "2026-11-14T23:01:30+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af59859b365e-1794480217.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af59859b365e-1794480217.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T23:11:37+00:00"
+  },
   {
    "id": "aad3d60bc47e7730",
    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
@@ -6066,27 +6086,6 @@
     "caption": "",
     "credit": "",
     "url": "https://i.cbc.ca/ais/fb6c2f77-3bea-4704-b802-9f5417a4ddcb,1794435542893/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C432%2C8301%2C4669%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "bf442136a9a8d07e",
-   "title": "Canada says Russian hockey players with visas will still be barred from world junior championship",
-   "summary": "The federal government says Russian hockey players will not be permitted to compete at next month's world junior championship in Alberta, even if they already hold valid Canadian visas.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/sports/hockey/secretary-of-sport-says-canada-will-not-allow-russians-world-juniors-9.7418528?cmp=rss",
-   "date": "2026-11-11T23:09:18+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/93afb7d9-70b1-45cf-93d0-032938ab5bf2,1794438551864/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C288%2C5518%2C3103%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T08:59:11+00:00",
+ "generatedAt": "2026-11-14T09:08:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "CBC World",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 16
+   "kept": 17
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,67 @@
   }
  ],
  "items": [
+  {
+   "id": "4ba6e71bdac381d4",
+   "title": "Can the Carney government end homelessness? (Not on its own)",
+   "summary": "Homelessness is hardly a new problem. But in the wake of the pandemic, homelessness has come to the fore as a visible and salient concern in communities across Canada.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/carney-budget-homelessness-analysis-9.7421243?cmp=rss",
+   "date": "2026-11-14T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/54f6f536-b4f1-4791-8b28-77a42867301c,1794609137028/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4800%2C2700%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T09:08:17+00:00"
+  },
+  {
+   "id": "dc932b25f28368a5",
+   "title": "With 1 candidate on the ballot, federal Green Party chooses its next leader",
+   "summary": "In any other party, Mike Morrice would be acclaimed as leader. But the Green Party of Canada prides itself on doing things differently than the political mainstream.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/green-party-of-canada-mike-morrice-9.7419567?cmp=rss",
+   "date": "2026-11-14T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/ce870e57-4d25-4bcb-b670-fc79850dc32b,1794510495936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C270%2C5184%2C2916%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T09:08:17+00:00"
+  },
+  {
+   "id": "e80f7d40ad5eda1b",
+   "title": "Ontario's Bill 140 raises concerns over landfill approvals, groundwater protection in Caledon, Ont.",
+   "summary": "Ontario's proposed Bill 140 would remove a municipal support requirement for certain large landfills, prompting concerns about groundwater and the time available for Caledon's incoming council to respond.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/caledon-bill-140-landfills-groundwater-9.7421849?cmp=rss",
+   "date": "2026-11-14T09:00:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/bd49e383-901a-4a70-8398-b6b0fde6d995,1794617494392/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4096%2C2304%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T09:08:17+00:00"
+  },
   {
    "id": "fb59a5094775310a",
    "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
@@ -288,6 +349,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T06:02:32+00:00"
+  },
+  {
+   "id": "c7472632cbc6b1e2",
+   "title": "Airport chaos continues after US ground stop lifted – as it happened",
+   "summary": "This blog is now closed. See our full reports: US aviation agency lifts nationwide ground stop affecting all air travel Chaos at US airports as flight stoppage grinds travel plans to a halt",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/13/us-flight-outage-live-updates-faa-lifts-nationwide-ground-stop-as-airport-chaos-continues",
+   "date": "2026-11-14T05:55:53+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/5c7b1147ac82c381b261de23a5d62f705015ec6b/0_0_4466_3575/master/4466.jpg?width=700&quality=85&auto=format&fit=max&s=d123fa38a42a5104d245b9dfcc4dc17d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Mehmet Eser/Anadolu/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T09:08:17+00:00"
   },
   {
    "id": "10bdccdf58640905",
@@ -5376,126 +5457,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/0ced3955c0750d8f1cf9d1f67e4680851d019011/848_0_4240_3392/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=fb4c9decd24a80a320a763ee0c6205b9",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "a85c28bfc3a7b389",
-   "title": "Economies are improving, but rule of law is slipping. The buck now stops with Africa’s leaders | Kenneth Mohammed",
-   "summary": "The west has spent decades judging Africa’s governance and colonialism is much to blame. But Mo Ibrahim’s latest index offers a different perspective – and some uncomfortable truths The west has never been short of advice on how Africa should govern itself.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/global-development/2026/nov/11/mo-ibrahim-africa-governance-colonialism-power-development-corruption-buck-stops",
-   "date": "2026-11-11T09:00:34+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Illustration: Joe Plimmer/Guardian Pictures/AP/Getty",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/37a027f1c5682261e003605e84b8a1ce593fb4d0/0_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=f28edcc3a219430264e18f15be58f3ce",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "7aafbee54eaa71df",
-   "title": "Budget 2026 shifts Liberal government's language on home construction targets",
-   "summary": "OTTAWA - The federal housing minister's office is reasserting Ottawa's goal of doubling the pace of home construction — even though references to the Liberals' hallmark affordability pledge were missing from Budget 2026.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/budget-2026-shifts-liberal-government-s-language-on-home-construction-targets/article_d3cc3e20-613d-59be-96b4-17647fbf0b93.html",
-   "date": "2026-11-11T09:00:07+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy",
-    "housing"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/a8/ea8c6796-7f19-5171-99d0-5a6a7cb8caf8/6af42fc044c71.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/a8/ea8c6796-7f19-5171-99d0-5a6a7cb8caf8/6af42fc044c71.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "c81fd1e6fcae3556",
-   "title": "Canadians fought a war in Afghanistan. Why do we struggle to talk about it?",
-   "summary": "Is Afghanistan in danger of becoming Canada's forgotten war? Parliament is struggling with a bill that would designate the 13-year conflict — where more than 40,000 Canadians served — as a war.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/afghan-war-canada-trump-soldiers-remembrance-9.7417195?cmp=rss",
-   "date": "2026-11-11T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/5f9c0e3d-778f-4d16-b7a6-80ed18533cb8,1794348833653/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C246%2C4928%2C2772%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "6dec2e20d9195c56",
-   "title": "Canadian family finds long-lost WW II baby in England after 80 years",
-   "summary": "Rod Anderson grew up in the United Kingdom always wondering who his father was. At 81 years old, he received a call out of the blue this year that stunned him. It turns out his father was a Canadian soldier stationed in Britain during the Second World War.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/dna-test-british-canadian-families-wwii-war-babies-9.7414750?cmp=rss",
-   "date": "2026-11-11T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/27cb6148-8a51-4078-818c-9d7cdf8172c3,1794360057842/full/max/0/default.jpg?im=Crop%2Crect%3D%28201%2C35%2C1862%2C1047%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "cee0fd65d3b5ccf7",
-   "title": "Carney embarks on a worldwide summit tour to build bridges with Europe and Asia",
-   "summary": "Prime Minister Mark Carney will travel around the world over the next week as he attends the summits of the European Political Community, the Association of Southeast Asian Nations, the Francophonie and Asia-Pacific Economic Cooperation.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/carney-apec-asean-francophonie-trip-9.7416895?cmp=rss",
-   "date": "2026-11-11T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/4cbf67e3-41bb-4355-9eed-496730002683,1794345464496/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C504%2C8057%2C4532%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "ea442483174a75e3",
-   "title": "Carney arrives in Dublin to begin four-country trip",
-   "summary": "DUBLIN - Prime Minister Mark Carney arrived in Dublin late Wednesday as he gets set to attend summits in Ireland and Asia where he'll look to advance trade and security ties.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/carney-takes-off-wednesday-for-summits-in-ireland-philippines-cambodia-and-china/article_f087576d-67f3-5dc3-8fc2-16486c47f19e.html",
-   "date": "2026-11-11T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 766,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/28/8282f748-31d9-5f82-9a9e-a375074011d1/6af42fc0d1cef.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/28/8282f748-31d9-5f82-9a9e-a375074011d1/6af42fc0d1cef.image.jpg?resize=1200%2C",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"

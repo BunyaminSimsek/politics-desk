@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T15:02:46+00:00",
+ "generatedAt": "2026-11-14T15:11:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 17
+   "kept": 18
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "264cf2242a78c69c",
+   "title": "CFB Wainwright incident casts spotlight on reserve pay disparities: former bureaucrat",
+   "summary": "Four soldiers died and 39 others — including several reservists — were injured when a fire suddenly overtook a training area at CFB Wainwright last month.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12151043/cfb-wainwright-reserve-pay-disparities/",
+   "date": "2026-11-14T15:09:50+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Wainwright-e1794668957140.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Wainwright-e1794668957140.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T15:11:50+00:00"
+  },
+  {
+   "id": "801c9b4463cfcb9f",
+   "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+   "summary": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas A two-hour hearing in Spain’s high court Friday on the US extradition request of wealthy leftwing activist and philanthropist James “Fergie” Chambers…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
+   "date": "2026-11-14T15:00:47+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/dd871a986aabb7abca5224af03caccf474d981ca/468_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=ddd690ae300a2b3f31761b598ecad960",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Chedly Ben Ibrahim/NurPhoto/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T15:11:50+00:00"
+  },
   {
    "id": "063184dfb2b71db9",
    "title": "Former environment minister says Canada’s commitment to climate targets ‘factually untrue’",

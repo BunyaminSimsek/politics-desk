@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T21:30:12+00:00",
+ "generatedAt": "2026-11-14T21:39:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "04bba7831efd4f7b",
+   "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+   "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+   "date": "2026-11-14T21:10:26+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8c810ac51-1794689040.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8c810ac51-1794689040.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T21:39:44+00:00"
+  },
   {
    "id": "aad3d60bc47e7730",
    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
@@ -301,9 +321,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0b445307-3812-446b-9e80-b62d4ecf585b,1794677219777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C271%2C4122%2C2318%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0b445307-3812-446b-9e80-b62d4ecf585b,1794677219777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C271%2C4122%2C2318%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T19:21:26+00:00"
@@ -729,10 +749,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/16/416b4e8d-6bf5-534e-af12-dd98b940d2fe/6af85c81838c3.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 755,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/16/416b4e8d-6bf5-534e-af12-dd98b940d2fe/6af85c81838c3.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/16/416b4e8d-6bf5-534e-af12-dd98b940d2fe/6af85c81838c3.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/16/416b4e8d-6bf5-534e-af12-dd98b940d2fe/6af85c81838c3.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T21:30:12+00:00"

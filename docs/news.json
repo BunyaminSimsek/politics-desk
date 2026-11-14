@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T23:11:37+00:00",
+ "generatedAt": "2026-11-14T23:20:49+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af59859b365e-1794480217.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af59859b365e-1794480217.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af59859b365e-1794480217.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af59859b365e-1794480217.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T23:11:37+00:00"
@@ -6047,45 +6047,6 @@
     "caption": "",
     "credit": "",
     "url": "https://i.cbc.ca/ais/d717e7e7-e1ce-4957-a49c-1a7885cb205c,1794439060822/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C432%2C5610%2C3155%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "8e824ebfd5e9ff68",
-   "title": "How Scott Colom won deep-red Mississippi with little help from Democrats",
-   "summary": "Democrat chatted up people at hair salons, colleges and at Trump rallies to become Mississippi’s first Black senator since Reconstruction Promises and pride: Scott Colom rejoices with young and old on historic night in Mississippi The ad is simple, less than…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-democrat-senate-midterms",
-   "date": "2026-11-11T23:18:36+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ellen Schmidt/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0728f93eac7ea8e8a004e047f0567355399d181e/448_0_4476_3581/master/4476.jpg?width=700&quality=85&auto=format&fit=max&s=a6e98cc78a948b1ffdbad09bdddf507a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "6a76b66f2cc713fa",
-   "title": "Mississippi's Scott Colom secures Senate seat in another midterm win for Democrats",
-   "summary": "Mississippi Democrat Scott Colom will be the state's first Black senator since the post-Civil War Reconstruction era. Colom's victory also offers Democrats an unexpected boost in their effort to win control of the U.S. Senate.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/scott-colom-mississippi-senate-democrats-9.7418482?cmp=rss",
-   "date": "2026-11-11T23:14:39+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/fb6c2f77-3bea-4704-b802-9f5417a4ddcb,1794435542893/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C432%2C8301%2C4669%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"

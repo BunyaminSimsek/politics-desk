@@ -1,7 +1,7 @@
 // PoliDesk service worker: lets the briefing open without a connection.
 // Page and data: try the network first, fall back to the last saved copy.
 // Fonts are served by the site itself and come from the cache.
-const CACHE = 'polidesk-v2';
+const CACHE = 'polidesk-v3';
 const SHELL = ['./', 'index.html', 'favicon.svg', 'icon-192.png', 'manifest.webmanifest', 'edition.json', 'fonts/inter.woff', 'fonts/source-serif-4.woff'];
 
 self.addEventListener('install', (e) => {

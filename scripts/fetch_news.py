@@ -18,6 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "docs" / "news.json"
 EDITION = ROOT / "docs" / "edition.json"
+IMAGE_CACHE = ROOT / "data" / "images.json"
 EDITION_HOUR = 7          # the daily briefing appears at 7:00 a.m. Toronto time
 EDITION_SIZE = 5
 KEEP_HOURS = 72
@@ -441,6 +442,7 @@ def build(feed_results, previous, now):
                 "tags": tags,
                 "kind": kind_of(name, p["title"]),
                 "image": p.get("image") or prev_by_id.get(iid, {}).get("image"),
+                "_feed": p.get("image"),  # the feed's own photo this run, for images.enrich
                 "breaking": False,
                 "addedAt": prev_by_id.get(iid, {}).get("addedAt", now.isoformat()),
             }
@@ -603,6 +605,18 @@ def _pick_edition(items, now, today, after_seven, seen_before):
     }
 
 
+def refresh_edition_images(edition, items):
+    """Today's stories stay fixed, but their photos follow the image pipeline's latest choice."""
+    by_id = {it["id"]: it for it in items}
+    changed = False
+    for st in edition.get("stories", []):
+        it = by_id.get(st.get("id"))
+        if it is not None and it.get("image") != st.get("image") and (it.get("image") or st.get("image")):
+            st["image"] = it.get("image")
+            changed = True
+    return changed
+
+
 def main():
     now = datetime.now(timezone.utc).replace(microsecond=0)
     previous = []
@@ -619,6 +633,28 @@ def main():
             print(f"[warn] {feed[0]} {feed[1]}: {e}", file=sys.stderr)
             results.append((feed, None))
     data = build(results, previous, now)
+    # Lighter-side stories for the Keep exploring feed (archive only).
+    lighter = []
+    try:
+        import archive
+        light_results = []
+        for feed in LIGHT_FEEDS:
+            try:
+                light_results.append((feed, parse_feed(fetch(feed[1]))))
+            except Exception as e:
+                print(f"[warn] light {feed[0]} {feed[1]}: {e}", file=sys.stderr)
+                light_results.append((feed, None))
+        lighter = archive.light_items(light_results, now, shorten, item_id)
+        for it in lighter:
+            it["_feed"] = it.get("image")
+    except Exception as e:
+        print(f"[warn] lighter feeds: {e}", file=sys.stderr)
+    # Photos: same size and quality everywhere, and a photo for stories whose feed has none.
+    try:
+        import images
+        images.enrich(data["items"] + lighter, IMAGE_CACHE, now)
+    except Exception as e:  # photos are a bonus; never let them break the news update
+        print(f"[warn] images: {e}", file=sys.stderr)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     public = dict(data, items=[{k: v for k, v in it.items() if not k.startswith("_")} for it in data["items"]])
     OUT.write_text(json.dumps(public, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -632,17 +668,12 @@ def main():
     if edition:
         EDITION.write_text(json.dumps(edition, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"edition {edition['date']}: {len(edition['stories'])} stories")
+    elif old and refresh_edition_images(old, data["items"] + lighter):
+        EDITION.write_text(json.dumps(old, ensure_ascii=False, indent=1), encoding="utf-8")
+        print("edition photos refreshed")
     # Rolling 30-day archive for the "Keep exploring" feed (old days are deleted).
     try:
         import archive
-        light_results = []
-        for feed in LIGHT_FEEDS:
-            try:
-                light_results.append((feed, parse_feed(fetch(feed[1]))))
-            except Exception as e:
-                print(f"[warn] light {feed[0]} {feed[1]}: {e}", file=sys.stderr)
-                light_results.append((feed, None))
-        lighter = archive.light_items(light_results, now, shorten, item_id)
         changed = archive.update(ROOT / "docs", data["items"], lighter, now)
         print(f"archive: {len(lighter)} lighter stories; {len(changed)} files changed")
     except Exception as e:  # the archive is a bonus; never let it break the news update

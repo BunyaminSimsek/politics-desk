@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T02:00:52+00:00",
+ "generatedAt": "2026-11-14T02:10:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "Global News",
@@ -165,6 +165,25 @@
   }
  ],
  "items": [
+  {
+   "id": "fa66eb00f7214b61",
+   "title": "US flight outage live updates: FAA lifts nationwide ground stop as Trump officials holds press briefing",
+   "summary": "Sean Duffy says ‘it’s going to take us some time to unwind what’s happened’ but also points finger at Congress, claiming lack of funding for systems upgrades",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+   "date": "2026-11-14T01:56:30+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=700&quality=85&auto=format&fit=max&s=11f48d3a170fee791c19f53d3db29cc4",
+    "credit": "Photograph: Caroline Brehman/EPA",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-13T11:21:34+00:00"
+  },
   {
    "id": "9737ca0031189780",
    "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
@@ -378,25 +397,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T22:30:05+00:00"
-  },
-  {
-   "id": "fa66eb00f7214b61",
-   "title": "Flights grounded at all US airports due to air traffic control ‘communication issue’, transport secretary says – live",
-   "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating the issue",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "date": "2026-11-13T21:44:08+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=700&quality=85&auto=format&fit=max&s=11f48d3a170fee791c19f53d3db29cc4",
-    "credit": "Photograph: Caroline Brehman/EPA",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T11:21:34+00:00"
   },
   {
    "id": "039e29e21e9d7c7c",

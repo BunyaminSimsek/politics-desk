@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T10:16:17+00:00",
+ "generatedAt": "2026-11-14T10:25:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "cd93fd318c075407",
+   "title": "\"A positive step\" — National Council of Canadian Muslims hopeful after Jays meeting",
+   "summary": "TORONTO - A National Council of Canadian Muslims spokesman said he was feeling hopeful after an initial meeting with the Toronto Blue Jays this week in the wake of the Anthony Santander controversy.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/a-positive-step-national-council-of-canadian-muslims-hopeful-after-jays-meeting/article_8e3c2e05-eb2c-593b-8beb-c17eee4169af.html",
+   "date": "2026-11-14T10:00:08+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/0b/f0b7f732-6f51-5362-bf0a-c2f663722b7b/686312558513d.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/0b/f0b7f732-6f51-5362-bf0a-c2f663722b7b/686312558513d.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T10:25:24+00:00"
+  },
   {
    "id": "a715b7a705a1441a",
    "title": "Ford government spent nearly $46M on 2 ad campaigns, FOI docs reveal",

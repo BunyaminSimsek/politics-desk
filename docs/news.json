@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T20:16:35+00:00",
+ "generatedAt": "2026-11-14T20:25:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -320,9 +320,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/d4239b67-946d-4f43-b1be-c5568fabe406,1794676799408/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C366%2C8067%2C4537%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/d4239b67-946d-4f43-b1be-c5568fabe406,1794676799408/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C366%2C8067%2C4537%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-14T18:25:07+00:00"
@@ -6069,26 +6069,6 @@
     "caption": "",
     "credit": "",
     "url": "https://i.cbc.ca/ais/43d19cc9-7991-4222-afdc-6cbe247b2f4a,1794430033400/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C145%2C2793%2C1571%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "379e0d76c544c9f9",
-   "title": "Muskoka regional chair ‘deeply disappointed’ after being ousted by Ford government",
-   "summary": "Muskoka’s outgoing regional chair says he’s “deeply disappointed” after the Ford government ousted him from the role in favour of Scott Aitchison, a current Conservative MP who plans to step away from Parliament Hill.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12146710/muskoka-regional-chair-deeply-disappointed-after-being-ousted-by-ford-government/",
-   "date": "2026-11-11T20:20:02+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 480,
-    "small": "https://globalnews.ca/wp-content/uploads/2014/10/barrie-jeff-lehman.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2014/10/barrie-jeff-lehman.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 720
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"

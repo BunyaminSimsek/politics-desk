@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T12:43:22+00:00",
+ "generatedAt": "2026-11-14T12:52:56+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -226,9 +226,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/6a62c499-08c1-414d-9d12-88b2fb333bbe,1794644593956/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C486%2C7247%2C4076%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/6a62c499-08c1-414d-9d12-88b2fb333bbe,1794644593956/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C486%2C7247%2C4076%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T12:43:22+00:00"
@@ -245,10 +245,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabdae2-1789647586_0fb93c-1789656369.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabdae2-1789647586_0fb93c-1789656369.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabdae2-1789647586_0fb93c-1789656369.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabdae2-1789647586_0fb93c-1789656369.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T12:43:22+00:00"

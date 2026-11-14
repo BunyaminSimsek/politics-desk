@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T17:02:46+00:00",
+ "generatedAt": "2026-11-14T17:11:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 19
+   "kept": 20
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "ccc8bc82f7980e00",
+   "title": "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
+   "summary": "Civil society campaigners form protective cordon around LGBTQ+ campaigners as they unfurl flags and placards Queer and gay protesters defied a crackdown on LGBTQ+ rights in Turkey to lead a civil society climate march on Saturday in the city hosting this…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
+   "date": "2026-11-14T17:08:18+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/2360917dd51507c7f6ca3ce098e46dcad8fc2062/678_0_5004_4005/master/5004.jpg?width=700&quality=85&auto=format&fit=max&s=99eee30913423bcf7526a0d6cbcd62b5",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Burak Kara/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T16:15:56+00:00"
+  },
+  {
    "id": "5be441503d9fe860",
    "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
    "summary": "Jonathan Kreiss-Tomkins’ victory means Democrats will now hold 30 US governorships after midterm blowout Democrats have captured Alaska ’s governor’s seat for the first time in nearly three decades, marking another major victory for their party in a midterm…",
@@ -179,33 +199,13 @@
    ],
    "kind": "news",
    "image": {
+    "credit": "Photograph: Emily Mesner/Reuters",
+    "h": 560,
     "url": "https://i.guim.co.uk/img/media/0e83e7d08933409bcc15b86d35740272644b415a/0_0_4305_3444/master/4305.jpg?width=700&quality=85&auto=format&fit=max&s=18fe8df04a58512d362fc7ed5e2919fb",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Emily Mesner/Reuters"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T17:02:46+00:00"
-  },
-  {
-   "id": "ccc8bc82f7980e00",
-   "title": "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
-   "summary": "Civil society campaigners form protective cordon around LGBTQ+ campaigners as they unfurl flags and placards Queer and gay protesters defied a crackdown on LGBTQ+ rights in Turkey to lead a civil society climate march on Saturday in the city hosting this…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
-   "date": "2026-11-14T16:13:58+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tolga Akmen/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4201cd9b78233899e96ef783c9851310bd58683b/619_0_6164_4934/master/6164.jpg?width=700&quality=85&auto=format&fit=max&s=e9c1a055fb17c80607880edfb4511d71",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-14T16:15:56+00:00"
+   "addedAt": "2026-11-14T17:02:46+00:00"
   },
   {
    "id": "16a42dd50374abb2",
@@ -6027,46 +6027,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/8cd6e42545e74ffa374a74fec29a4d9c8df470eb/919_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=04402d09f6e8023b4d21a4576d305512",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "64c04077df49b3ae",
-   "title": "'Tragedy befell this small town': Soldiers killed in fire honoured on Remembrance Day",
-   "summary": "Four soldiers killed in a fire during a training exercise are among those being honoured today at a Remembrance Day ceremony in Wainwright, Alta.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/alberta/remembrance-day-ceremonies-to-honour-cfb-wainwright-fire-victims/article_bb7b187d-8196-5eaf-b89b-90c05b24bef8.html",
-   "date": "2026-11-11T17:05:05+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/b2/0b2cbf8f-1a15-4c7e-b7c2-42134288da0d/6af49516daa8d.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/b2/0b2cbf8f-1a15-4c7e-b7c2-42134288da0d/6af49516daa8d.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "43367a0acef57cee",
-   "title": "This school’s students are caught in the OSAP freeze. It responded with financial aid, and a free pantry",
-   "summary": "At Redeemer University, students can defer tuition and on-campus housing payments. 'In the long run, it's not sustainable.'",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/this-school-s-students-are-caught-in-the-osap-freeze-it-responded-with-financial-aid-and-a-free-pantry/article_745488f5-668b-4311-80bb-95d5621854e3.html",
-   "date": "2026-11-11T17:05:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/28/528c586c-e719-519d-8204-710c9d500610/6aee3eb482ed3.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/28/528c586c-e719-519d-8204-710c9d500610/6aee3eb482ed3.image.jpg?resize=1200%2C",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"

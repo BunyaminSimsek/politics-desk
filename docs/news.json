@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T13:20:16+00:00",
+ "generatedAt": "2026-11-14T13:29:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "CBC World",
@@ -201,10 +201,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/864ffb50bade3319fe14e785391a8da94a174334/0_0_4501_3600/master/4501.jpg?width=700&quality=85&auto=format&fit=max&s=da2b4cb29db07ccbe63675c370a51e6d",
-    "w": 700,
+    "credit": "Photograph: AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/864ffb50bade3319fe14e785391a8da94a174334/0_0_4501_3600/master/4501.jpg?width=700&quality=85&auto=format&fit=max&s=da2b4cb29db07ccbe63675c370a51e6d",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-14T13:20:16+00:00"
@@ -221,10 +221,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/e1aca4984df86a8649a6a559faefbc340d902ea1/399_0_4002_3201/master/4002.jpg?width=700&quality=85&auto=format&fit=max&s=faf8d490ed4ea9253dbd053ce434a02f",
-    "w": 700,
+    "credit": "Photograph: J Scott Applewhite/AP",
     "h": 560,
-    "credit": "Photograph: J Scott Applewhite/AP"
+    "url": "https://i.guim.co.uk/img/media/e1aca4984df86a8649a6a559faefbc340d902ea1/399_0_4002_3201/master/4002.jpg?width=700&quality=85&auto=format&fit=max&s=faf8d490ed4ea9253dbd053ce434a02f",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-14T13:20:16+00:00"
@@ -241,10 +241,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/16/416b4e8d-6bf5-534e-af12-dd98b940d2fe/6af85c81838c3.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 755,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/16/416b4e8d-6bf5-534e-af12-dd98b940d2fe/6af85c81838c3.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/16/416b4e8d-6bf5-534e-af12-dd98b940d2fe/6af85c81838c3.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/16/416b4e8d-6bf5-534e-af12-dd98b940d2fe/6af85c81838c3.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T13:20:16+00:00"
@@ -261,10 +261,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af8433adf-1794655034.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af8433adf-1794655034.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af8433adf-1794655034.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af8433adf-1794655034.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T13:20:16+00:00"
@@ -281,10 +281,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/1000289121-1794657366.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/1000289121-1794657366.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/1000289121-1794657366.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/1000289121-1794657366.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T13:20:16+00:00"
@@ -854,9 +854,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/54f6f536-b4f1-4791-8b28-77a42867301c,1794609137028/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4800%2C2700%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/54f6f536-b4f1-4791-8b28-77a42867301c,1794609137028/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4800%2C2700%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"
@@ -875,9 +875,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/ce870e57-4d25-4bcb-b670-fc79850dc32b,1794510495936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C270%2C5184%2C2916%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/ce870e57-4d25-4bcb-b670-fc79850dc32b,1794510495936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C270%2C5184%2C2916%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"
@@ -894,9 +894,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/bd49e383-901a-4a70-8398-b6b0fde6d995,1794617494392/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4096%2C2304%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/bd49e383-901a-4a70-8398-b6b0fde6d995,1794617494392/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4096%2C2304%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"
@@ -5966,26 +5966,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "f0c7e434f652ff9f",
-   "title": "Carney heading for summits in Ireland, Asia after Remembrance Day ceremony",
-   "summary": "Prime Minister Mark Carney takes off Wednesday for summits in Asia and Ireland where he'll look to advance trade and security ties.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12146059/carney-summits-asia-ireland/",
-   "date": "2026-11-11T13:22:22+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 747,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP176463437-e1794403160890.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP176463437-e1794403160890.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1120
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   }
  ]
 }

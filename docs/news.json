@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T15:20:59+00:00",
+ "generatedAt": "2026-11-14T15:30:07+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/courtroom-e1794669622939.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/courtroom-e1794669622939.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/courtroom-e1794669622939.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/courtroom-e1794669622939.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T15:20:59+00:00"
@@ -259,10 +259,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7329927488-1794585241.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7329927488-1794585241.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7329927488-1794585241.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7329927488-1794585241.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T15:20:59+00:00"
@@ -6048,26 +6048,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "754dadcf004382f6",
-   "title": "Bryan Adams sensed a political shift when red states cheered his anti-Trump song",
-   "summary": "Last week's U.S. midterm elections may have cut like a knife through Donald Trump's political agenda, but Bryan Adams says he saw the backlash coming.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/entertainment/music/bryan-adams-sensed-a-political-shift-when-red-states-cheered-his-anti-trump-song/article_e203d119-70e5-5d6e-bfee-e59c9612106e.html",
-   "date": "2026-11-11T15:26:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/ff/bff4a717-d66c-5324-bf0f-1240727e06fb/6af48a037da69.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/ff/bff4a717-d66c-5324-bf0f-1240727e06fb/6af48a037da69.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   }
  ]
 }

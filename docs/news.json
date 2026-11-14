@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T18:43:59+00:00",
+ "generatedAt": "2026-11-14T18:53:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -1218,9 +1218,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d4a07724-5913-4de9-84d6-22ce3b71362d,1794323760202/full/max/0/default.jpg?im=Crop%2Crect%3D%28411%2C604%2C2893%2C1627%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d4a07724-5913-4de9-84d6-22ce3b71362d,1794323760202/full/max/0/default.jpg?im=Crop%2Crect%3D%28411%2C604%2C2893%2C1627%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T14:34:33+00:00"
@@ -6007,28 +6007,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "84cf2bb3d1fe8f36",
-   "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
-   "summary": "Marshall Islands president warns of worsening floods as UN chief calls for a windfall tax on oil and gas firms Failure to provide an overwhelming response to the climate crisis means “the world we know is over”, the president of the embattled Marshall Islands…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
-   "date": "2026-11-11T18:52:08+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chewy Lin/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e8fccf9b5435bc3b341f2de6392ce34e6cc2cb45/152_0_4331_3466/master/4331.jpg?width=700&quality=85&auto=format&fit=max&s=613377641a62eaaa8b5d63835c2cbebe",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   }
  ]
 }

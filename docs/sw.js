@@ -1,8 +1,8 @@
 // PoliDesk service worker: lets the briefing open without a connection.
 // Page and data: try the network first, fall back to the last saved copy.
-// Fonts: serve the saved copy and refresh it in the background.
-const CACHE = 'polidesk-v1';
-const SHELL = ['./', 'index.html', 'favicon.svg', 'icon-192.png', 'manifest.webmanifest', 'edition.json'];
+// Fonts are served by the site itself and come from the cache.
+const CACHE = 'polidesk-v2';
+const SHELL = ['./', 'index.html', 'favicon.svg', 'icon-192.png', 'manifest.webmanifest', 'edition.json', 'fonts/inter.woff', 'fonts/source-serif-4.woff'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
@@ -43,7 +43,6 @@ self.addEventListener('fetch', (e) => {
   const req = e.request;
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
-  if (url.origin === self.location.origin) { e.respondWith(networkFirst(req)); return; }
-  if (url.hostname === 'fonts.googleapis.com' || url.hostname === 'fonts.gstatic.com') { e.respondWith(staleWhileRevalidate(req)); return; }
+  if (url.origin === self.location.origin) { e.respondWith(url.pathname.startsWith('/fonts/') ? staleWhileRevalidate(req) : networkFirst(req)); return; }
   // News photos come from many sites; let the browser handle them normally.
 });

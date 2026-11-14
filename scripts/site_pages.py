@@ -15,6 +15,8 @@ Files are only rewritten when their content changes, so the repository
 doesn't get a commit every ten minutes.
 Uses only the Python standard library.
 """
+import base64
+import hashlib
 import html
 import json
 import re
@@ -132,6 +134,34 @@ footer{padding:0 0 40px;font-size:14px;color:var(--muted)}
 footer a{margin-right:14px}
 """
 
+# Fonts are served from the site itself (no requests to Google): docs/fonts, SIL Open Font License.
+FONTFACE = ("@font-face{font-family:'Source Serif 4';src:url(/fonts/source-serif-4.woff) format('woff');font-weight:600 700;font-display:swap}"
+            "@font-face{font-family:Inter;src:url(/fonts/inter.woff) format('woff');font-weight:400 700;font-display:swap}")
+
+# Content Security Policy. Static pages run no scripts at all (JSON-LD is data, not code).
+PAGE_CSP = ("default-src 'self'; script-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; "
+            "font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'; upgrade-insecure-requests")
+# The app: only its own inline script (by hash), same-origin files and the GoatCounter counter may run.
+APP_CSP = ("default-src 'self'; script-src 'self' __HASHES__ https://gc.zgo.at; style-src 'self' 'unsafe-inline'; "
+           "img-src 'self' https: data:; font-src 'self'; connect-src 'self' https://*.goatcounter.com; manifest-src 'self'; "
+           "worker-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests")
+
+
+def apply_app_csp(html_text):
+    """Put the SHA-256 of every inline script that runs into the app's CSP, so any other script is blocked.
+    Run on every build, so editing the app's script never leaves a stale hash behind."""
+    hashes = []
+    for m in re.finditer(r"<script(?P<attrs>[^>]*)>(?P<body>.*?)</script>", html_text, flags=re.S):
+        attrs = m.group("attrs")
+        if "src=" in attrs or "application/ld+json" in attrs:
+            continue
+        digest = base64.b64encode(hashlib.sha256(m.group("body").encode("utf-8")).digest()).decode()
+        hashes.append(f"'sha256-{digest}'")
+    policy = APP_CSP.replace("__HASHES__", " ".join(hashes))
+    return re.sub(r'(<meta http-equiv="Content-Security-Policy" content=")[^"]*(">)',
+                  lambda m: m.group(1) + policy + m.group(2), html_text, count=1)
+
+
 LOGO = ('<svg width="28" height="28" viewBox="0 0 160 160" aria-hidden="true"><rect width="160" height="160" rx="36" fill="#fff"/>'
         '<path transform="translate(45.60 118) scale(0.09987 -0.09987)" d="M45 708 140 699C141 597 141 496 141 394V346C141 243 141 141 140 42L45 33V0H395V33L285 43L284 299H329C557 299 644 398 644 522C644 660 555 741 341 741H45ZM284 335V394C284 498 284 602 285 704H339C453 704 510 642 510 523C510 412 453 335 326 335Z" fill="#15191f"/>'
         '<circle cx="118" cy="44" r="13" fill="#c0262d"/></svg>')
@@ -145,6 +175,8 @@ def page(*, path, title, description, hero, body, root="../", jsonld=None):
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="{PAGE_CSP}">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(description)}">
@@ -159,10 +191,8 @@ def page(*, path, title, description, hero, body, root="../", jsonld=None):
 <link rel="icon" href="{root}favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="{root}apple-touch-icon.png">
 <meta name="theme-color" content="#142238">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-<style>{STYLE}</style>
+<link rel="preload" href="/fonts/inter.woff" as="font" type="font/woff" crossorigin>
+<style>{FONTFACE}{STYLE}</style>
 {ld}</head>
 <body>
 <header>
@@ -256,6 +286,8 @@ def about_page(feed_names):
 <p>{esc(sources)}. Every card links to the original articles; PoliDesk shows only headlines and short summaries.</p>
 <h2>Why it's short</h2>
 <p>Many people avoid the news because it feels endless and draining. A briefing with a clear end, a streak for showing up, and a one-question check at the end is meant to keep you informed without the doom-scrolling.</p>
+<h2>Privacy</h2>
+<p>PoliDesk sets no cookies and has no accounts. Your streak, saved stories and settings stay in your own browser. Fonts are served by PoliDesk itself. News photos are loaded straight from the outlets that published them, so those sites can see that a browser requested the image, but not which PoliDesk page you were on.</p>
 <h2>More</h2>
 <p>Browse every story from the last three days under “All stories” in the app, or read <a href="../briefing/">past briefings</a>.</p>
 </div>"""
@@ -374,7 +406,7 @@ def prerender_home(index_path, ed):
     s2 = re.sub(r'(<ol class="today-list" id="startList">).*?(</ol>)', lambda m: m.group(1) + items + m.group(2), s, count=1, flags=re.S)
     s2 = re.sub(r'(<div class="places" id="startPlaces">).*?(</div>)', lambda m: m.group(1) + places + m.group(2), s2, count=1, flags=re.S)
     s2 = re.sub(r'(<p class="kicker-dark" id="startDate">).*?(</p>)', lambda m: m.group(1) + esc(long_date(ed["date"])) + m.group(2), s2, count=1, flags=re.S)
-    return write_if_changed(index_path, s2)
+    return write_if_changed(index_path, apply_app_csp(s2))
 
 
 # ---------------------------------------------------------------- sitemap

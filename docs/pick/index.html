@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'; upgrade-insecure-requests">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Editor&#x27;s Pick · PoliDesk</title>
 <meta name="description" content="PoliDesk&#x27;s daily Editor&#x27;s Pick: one story with the widest impact on people&#x27;s lives, researched across several sources.">
@@ -16,10 +18,8 @@
 <link rel="icon" href="../favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
 <meta name="theme-color" content="#142238">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-<style>
+<link rel="preload" href="/fonts/inter.woff" as="font" type="font/woff" crossorigin>
+<style>@font-face{font-family:'Source Serif 4';src:url(/fonts/source-serif-4.woff) format('woff');font-weight:600 700;font-display:swap}@font-face{font-family:Inter;src:url(/fonts/inter.woff) format('woff');font-weight:400 700;font-display:swap}
 :root{--ink:#142238;--paper:#F6F5F1;--text:#2B3545;--muted:#5B6577;--soft:#EEF1F5;--pill:#D9DEE6;--flame:#E0646A;
 --serif:'Source Serif 4',Georgia,serif;--sans:Inter,system-ui,-apple-system,'Segoe UI',sans-serif}
 *{box-sizing:border-box}

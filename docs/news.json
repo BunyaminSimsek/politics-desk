@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T09:37:11+00:00",
+ "generatedAt": "2026-11-14T09:46:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "6cf7e23feab67901",
+   "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+   "summary": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+   "date": "2026-11-14T09:19:43+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af72f87-1794584455.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af72f87-1794584455.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T09:46:46+00:00"
+  },
+  {
    "id": "2d7865bf36e49460",
    "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
    "summary": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule.",
@@ -177,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af81fec4b902-1794645996.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af81fec4b902-1794645996.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af81fec4b902-1794645996.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af81fec4b902-1794645996.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:37:11+00:00"
@@ -3198,9 +3220,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/ac46503c-9392-473a-b3df-24c651074dfb,1794529006739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C374%2C5083%2C2859%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/ac46503c-9392-473a-b3df-24c651074dfb,1794529006739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C374%2C5083%2C2859%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-13T00:42:58+00:00"
@@ -3529,9 +3551,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/aa0a8430-7fc9-49ea-8388-1cb0469e421a,1794518130753/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C390%2C7488%2C4212%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/aa0a8430-7fc9-49ea-8388-1cb0469e421a,1794518130753/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C390%2C7488%2C4212%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
@@ -3548,9 +3570,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/627887fe-e1cb-4c5d-aa34-c26789bdbe68,1794518194949/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C28%2C5098%2C2867%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/627887fe-e1cb-4c5d-aa34-c26789bdbe68,1794518194949/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C28%2C5098%2C2867%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
@@ -3650,9 +3672,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0c82abd2-7142-4e99-8140-83321731d4fb,1794525452592/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C45%2C3584%2C2016%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0c82abd2-7142-4e99-8140-83321731d4fb,1794525452592/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C45%2C3584%2C2016%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
@@ -3751,9 +3773,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f6e92dd4-6106-4039-9915-b2a1c62465b1,1794513768698/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C346%2C5281%2C2970%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f6e92dd4-6106-4039-9915-b2a1c62465b1,1794513768698/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C346%2C5281%2C2970%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
@@ -3794,9 +3816,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/bd3e0cdf-9ea1-42c3-93e7-f94fb8e68df5,1794510671097/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4933%2C2774%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/bd3e0cdf-9ea1-42c3-93e7-f94fb8e68df5,1794510671097/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4933%2C2774%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
@@ -3955,9 +3977,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/c4755284-bb97-4f6c-946f-a1edd5ed186c,1794510354041/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/c4755284-bb97-4f6c-946f-a1edd5ed186c,1794510354041/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
@@ -4189,9 +4211,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/e1756611-daf1-4c11-a669-0d6e2f04c3af,1794492045675/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5258%2C2957%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/e1756611-daf1-4c11-a669-0d6e2f04c3af,1794492045675/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5258%2C2957%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
@@ -4305,9 +4327,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/619d93a8-c1f7-40a1-89fa-4b16d054b224,1794508537872/full/max/0/default.jpg?im=Crop%2Crect%3D%28701%2C0%2C4689%2C2637%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/619d93a8-c1f7-40a1-89fa-4b16d054b224,1794508537872/full/max/0/default.jpg?im=Crop%2Crect%3D%28701%2C0%2C4689%2C2637%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
@@ -4640,9 +4662,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/3a840d87-433a-4cb1-a76b-562ca86638af,1794465518816/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C384%2C5500%2C3093%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/3a840d87-433a-4cb1-a76b-562ca86638af,1794465518816/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C384%2C5500%2C3093%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
@@ -4702,9 +4724,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/7e96e5f3-1502-44a7-836e-923d0db155c4,1794282575087/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C319%2C3561%2C2003%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/7e96e5f3-1502-44a7-836e-923d0db155c4,1794282575087/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C319%2C3561%2C2003%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"

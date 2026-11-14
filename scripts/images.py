@@ -35,6 +35,8 @@ RETRY_AFTER = timedelta(hours=2)
 MAX_TRIES = 3
 KEEP_DAYS = 35
 UA = "Mozilla/5.0 (compatible; PoliDesk/1.0; +https://polidesk.ca/about/)"
+PAGE_UA = "Mozilla/5.0 (PoliticsDesk personal news reader)"  # same as the feed reader, which every outlet accepts
+PAGE_ERRORS = {}  # host -> last error, reported once per run
 BAD_URL = re.compile(r"logo|placeholder|default[-_]?(image|share|og)|1x1|pixel|spacer|\.gif(\?|$)|\.svg(\?|$)|overlay-", re.I)
 
 
@@ -85,8 +87,11 @@ def sized(url, w):
 
 
 # ---------------------------------------------------------------- reading images and pages
-def _get(url, limit, accept, timeout=8):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": accept, "Range": f"bytes=0-{limit - 1}"})
+def _get(url, limit, accept, timeout=8, page=False):
+    headers = {"User-Agent": PAGE_UA if page else UA, "Accept": accept}
+    if not page:
+        headers["Range"] = f"bytes=0-{limit - 1}"
+    req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read(limit), r.headers.get("Content-Type", "")
 
@@ -148,8 +153,9 @@ LD_RX = re.compile(r"\"image\"\s*:\s*(?:\[\s*)?(?:\{[^{}]*?\"url\"\s*:\s*)?\"(ht
 def page_images(url):
     """Share images the article page itself declares, best first."""
     try:
-        data, ctype = _get(url, 400 * 1024, "text/html,application/xhtml+xml", timeout=10)
-    except Exception:
+        data, ctype = _get(url, 400 * 1024, "text/html,application/xhtml+xml;q=0.9,*/*;q=0.8", timeout=10, page=True)
+    except Exception as e:
+        PAGE_ERRORS[urllib.parse.urlsplit(url).netloc] = str(e)[:80]
         return []
     text = data.decode("utf-8", "replace")
     head = text.split("</head>", 1)[0] if "</head>" in text else text
@@ -303,6 +309,8 @@ def enrich(items, cache_path, now, log=print):
         log(f"[warn] file photos: {e}")
     have = sum(1 for i in items if i.get("image"))
     log(f"images: {done} checked this run, {found} with a photo; {have}/{len(items)} stories have one")
+    for host, err in sorted(PAGE_ERRORS.items()):
+        log(f"[warn] images: article pages at {host} failed: {err}")
     return cache
 
 

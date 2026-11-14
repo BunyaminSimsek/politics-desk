@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T08:22:35+00:00",
+ "generatedAt": "2026-11-14T08:31:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -1332,6 +1332,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T18:04:17+00:00"
+  },
+  {
+   "id": "2d4206f233c24427",
+   "title": "Estonia bans Russian athletes as backlash intensifies",
+   "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-13T17:54:33+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1c85/live/160022d0-df88-11f1-93e1-3b657b665bcf.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1c85/live/160022d0-df88-11f1-93e1-3b657b665bcf.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T08:31:41+00:00"
   },
   {
    "id": "26b15d5c6ad5b31f",

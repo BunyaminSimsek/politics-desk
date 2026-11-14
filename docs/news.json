@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T12:34:14+00:00",
+ "generatedAt": "2026-11-14T12:43:22+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,94 @@
   }
  ],
  "items": [
+  {
+   "id": "7e75777f2a36bf29",
+   "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
+   "summary": "The battle over the next majority leader in the U.S. Senate reflects the turnout by younger and independent voters in the midterm elections.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout",
+   "date": "2026-11-14T12:40:26+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-14T12:43:22+00:00"
+  },
+  {
+   "id": "bb040972dab25a19",
+   "title": "Legal scholar Stephen Vladeck on Texas' new Democratic AG and federal litigation",
+   "summary": "NPR's Scott Simon speaks with legal scholar and Georgetown professor Stephen Vladeck about Texas Attorney General-elect Nathan Johnson, a Democrat, and what that could mean for federal litigation.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6039286/legal-scholar-stephen-vladeck-on-texas-new-democratic-ag-and-federal-litigation",
+   "date": "2026-11-14T12:40:25+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-14T12:43:22+00:00"
+  },
+  {
+   "id": "0005bbafc421d930",
+   "title": "Trump faces bipartisan backlash over plan to sell public lands to states and tribes",
+   "summary": "The Trump administration wants to sell some federal public lands to states, local governments and tribes, a plan that's once again drawing swift bi-partisan opposition.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6039155/trump-faces-bipartisan-backlash-over-plan-to-sell-public-lands-to-states-and-tribes",
+   "date": "2026-11-14T12:40:22+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-14T12:43:22+00:00"
+  },
+  {
+   "id": "136fdaf37dfdccb3",
+   "title": "Carney says Canada will only sign a U.S. trade deal that includes viable auto sector",
+   "summary": "Prime Minister Mark Carney was speaking at a news conference, three months after Canada pulled out of trade talks with the U.S., saying there had been last-minute demands from Washington that included a hit to Canada's auto sector.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/canada-us-trade-deal-must-include-viable-auto-sector-9.7422076?cmp=rss",
+   "date": "2026-11-14T12:35:33+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/6a62c499-08c1-414d-9d12-88b2fb333bbe,1794644593956/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C486%2C7247%2C4076%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T12:43:22+00:00"
+  },
+  {
+   "id": "d98d77e8e411864e",
+   "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+   "summary": "A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
+   "date": "2026-11-14T12:14:14+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabdae2-1789647586_0fb93c-1789656369.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabdae2-1789647586_0fb93c-1789656369.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T12:43:22+00:00"
+  },
   {
    "id": "2a3ae86b48e175e9",
    "title": "‘Enough is enough’: rising number of deadly ebike battery fires spark fear in New York City",

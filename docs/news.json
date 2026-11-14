@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T16:53:11+00:00",
+ "generatedAt": "2026-11-14T17:02:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "5be441503d9fe860",
+   "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+   "summary": "Jonathan Kreiss-Tomkins’ victory means Democrats will now hold 30 US governorships after midterm blowout Democrats have captured Alaska ’s governor’s seat for the first time in nearly three decades, marking another major victory for their party in a midterm…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+   "date": "2026-11-14T16:58:33+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0e83e7d08933409bcc15b86d35740272644b415a/0_0_4305_3444/master/4305.jpg?width=700&quality=85&auto=format&fit=max&s=18fe8df04a58512d362fc7ed5e2919fb",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Emily Mesner/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T17:02:46+00:00"
+  },
   {
    "id": "ccc8bc82f7980e00",
    "title": "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
@@ -594,9 +616,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/6a62c499-08c1-414d-9d12-88b2fb333bbe,1794644593956/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C486%2C7247%2C4076%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/6a62c499-08c1-414d-9d12-88b2fb333bbe,1794644593956/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C486%2C7247%2C4076%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T12:43:22+00:00"
@@ -6048,66 +6070,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "91e25dd5c054895a",
-   "title": "Did Stellantis violate its deals with the feds? Funding contract provided exceptions around Brampton",
-   "summary": "On Tuesday, Prime Minister Mark Carney called Stellantis' now-confirmed plans to sell an automotive assembly plant in Brampton, Ont., \"a betrayal\" of the global automaker's \"obligations to Canada and by extension to all Canadians.\"",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/canada/windsor/stellantis-brampton-carney-federal-government-funding-deals-9.7417238?cmp=rss",
-   "date": "2026-11-11T17:01:59+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/5e1a1d69-d5b2-4635-b69c-a2a56a90028d,1794324473977/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "4165e17d500c390c",
-   "title": "Jim Jordan, once called a 'legislative terrorist' by a top Republican, will now lead the party in U.S. House",
-   "summary": "The Republicans may have just lost control of the House of Representatives in resounding fashion, but they signalled Tuesday they may not be in a conciliatory mood with Democrats, picking combative Ohio Rep. Jim Jordan as their leader in the chamber.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/us-house-republicans-leader-jordan-9.7417743?cmp=rss",
-   "date": "2026-11-11T17:01:02+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/742f937f-bf12-4137-a43a-80b5b4370332,1794413386123/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8640%2C4860%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "880493af709d045f",
-   "title": "It’s impeachment season! After the attempt on Pete Hegseth, will Donald Trump be next? | Arwa Mahdawi",
-   "summary": "Trump has already made history as the only president to be impeached twice. After the Republicans’ thrashing in the midterms, could there be a third attempt? The days are getting shorter, the nights are getting longer and some Republicans are getting nervous…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/11/impeachment-pete-hegseth-donald-trump",
-   "date": "2026-11-11T17:00:55+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kevin Lamarque/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3ef4aba55bf2269e2b5615407bb595fe9e4e27d8/422_0_3643_2915/master/3643.jpg?width=700&quality=85&auto=format&fit=max&s=f86fc7d3bb3c57216886e785da5f50dd",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   }
  ]
 }

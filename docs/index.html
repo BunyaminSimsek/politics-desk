@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-vO3zoAFJnfC0V9qeSB3ZZG53Vm00opKJYMiQ28OfiPg=' https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; font-src 'self'; connect-src 'self' https://*.goatcounter.com; manifest-src 'self'; worker-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-udU9N+PF5p6iJ+au/SNWBtyJAQosBvc+fu+HhYWAmYk=' https://gc.zgo.at; style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; font-src 'self'; connect-src 'self' https://*.goatcounter.com; manifest-src 'self'; worker-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>PoliDesk · Your daily briefing</title>
@@ -109,7 +109,7 @@ img.tall{object-position:50% 22%}
 .fb s{display:block;width:34px;height:4px;border-radius:2px;background:var(--flame);text-decoration:none}
 .fb b{font-family:var(--serif);font-weight:700;font-size:clamp(30px,8.5vw,52px);line-height:1.05;letter-spacing:-.02em}
 .fb i{font-style:normal;font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#AFBBD0}
-.credit{position:absolute;z-index:2;left:12px;bottom:34px;max-width:62%;padding:3px 7px;border-radius:6px;background:rgba(20,34,56,.62);color:#fff;font-family:var(--mono);font-size:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.credit{position:absolute;z-index:2;text-decoration:none;left:12px;bottom:34px;max-width:62%;padding:3px 7px;border-radius:6px;background:rgba(20,34,56,.62);color:#fff;font-family:var(--mono);font-size:10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .sheet{position:absolute;left:0;right:0;bottom:0;top:calc(var(--photo-h) - 24px);background:#fff;border-radius:24px 24px 0 0;padding:20px 22px 0;display:flex;flex-direction:column;gap:10px}
 .meta{margin:0;font-size:13px;font-weight:600;color:var(--muted)}
 .title{margin:0;font-family:var(--serif);font-weight:700;font-size:clamp(22px,6.4vw,26px);line-height:1.14;letter-spacing:-.015em;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
@@ -694,6 +694,16 @@ img.tall{object-position:50% 22%}
     const klass = (cls + tall).trim();
     return `<img${klass ? ` class="${klass}"` : ''} src="${esc(safeUrl(src))}"${thumb ? '' : set}${dims} alt="" loading="${eager ? 'eager' : 'lazy'}" decoding="async" referrerpolicy="no-referrer">`;
   }
+  // Photo credit. File photos (Wikimedia Commons) say so and link to the licence page, as their licences require.
+  function creditHtml(im, sourceName) {
+    if (!im || typeof im !== 'object' || !im.url) return '';
+    if (im.file) {
+      const text = 'File photo' + (im.credit ? ' · ' + im.credit : '');
+      return im.page ? `<a class="credit" href="${esc(safeUrl(im.page))}" target="_blank" rel="noopener" data-nopan>${esc(text)}</a>` : `<span class="credit">${esc(text)}</span>`;
+    }
+    const text = im.credit ? 'Photo: ' + im.credit : sourceName ? 'Image via ' + sourceName : '';
+    return text ? `<span class="credit">${esc(text)}</span>` : '';
+  }
   const fallback = (label, source) => `<div class="fb" aria-hidden="true"><s></s><b>${esc(label || 'World')}</b>${source ? `<i>${esc(source)}</i>` : ''}</div>`;
   const initials = (name) => {
     const words = String(name || '').replace(/^the\s+/i, '').split(/\s+/).filter(Boolean);
@@ -756,8 +766,7 @@ img.tall{object-position:50% 22%}
       const sources = Array.isArray(st.sources) ? st.sources.filter((x) => x && x.name) : [];
       const hasImg = !!imgUrl(st.image);
       const img = hasImg ? pic(st.image, {eager: i < 2, sizes: '(min-width:1100px) 56vw, 100vw'}) : '';
-      const creditText = !hasImg ? '' : st.image.credit ? 'Photo: ' + st.image.credit : sources[0] ? 'Image via ' + sources[0].name : '';
-      const credit = creditText ? `<span class="credit">${esc(creditText)}</span>` : '';
+      const credit = hasImg ? creditHtml(st.image, sources[0] && sources[0].name) : '';
       const why = st.why ? `<div class="why"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#142238" stroke-width="2" stroke-linecap="round" aria-hidden="true" style="flex-shrink:0;margin-top:1px"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg><p style="margin:0"><b>Why it matters. </b>${esc(st.why)}</p></div>` : '';
       const cov = coverageOf(st);
       const pills = sources.map((x) => `<a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener" data-nopan>${esc(x.name)}</a>`).join('') + (cov > sources.length ? `<span class="more">+${cov - sources.length} more</span>` : '');
@@ -1138,7 +1147,7 @@ img.tall{object-position:50% 22%}
     const others = (it.also || []).length;
     const first = ex.chapter === 1 && n === 0;
     return `<article class="ex-card${light ? ' lite' : ''}" data-id="${esc(it.id)}" aria-label="${esc(it.title)}">
-      ${fallback(light ? 'Lighter side' : (place || 'World'), it.source)}${img ? pic(it.image, {eager: n < 2, sizes: '100vw'}) + (it.image.credit ? `<span class="credit">${esc('Photo: ' + it.image.credit)}</span>` : '') : ''}
+      ${fallback(light ? 'Lighter side' : (place || 'World'), it.source)}${img ? pic(it.image, {eager: n < 2, sizes: '100vw'}) + creditHtml(it.image, '') : ''}
       <div class="ex-body">
         <p class="ex-meta">${light ? '<span class="ex-tag">Lighter side</span>' : ''}${place ? `<span>${esc(place)}</span><span aria-hidden="true">·</span>` : ''}<span>${esc(it.source)}</span><span aria-hidden="true">·</span><span>${esc(ago(it.date))}</span></p>
         <h2>${esc(it.title)}</h2>

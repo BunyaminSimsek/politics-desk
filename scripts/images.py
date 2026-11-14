@@ -246,6 +246,8 @@ def save_cache(path, cache, now):
 def _feed(it):
     """The photo the feed itself gave this run ("_feed"), falling back to the stored one."""
     im = it["_feed"] if "_feed" in it else it.get("image")
+    if isinstance(im, dict) and im.get("file"):
+        return None  # our own file photo from an earlier run, not the outlet's
     if isinstance(im, str):
         im = {"url": im}
     return im or None
@@ -295,6 +297,98 @@ def enrich(items, cache_path, now, log=print):
         elif c.get("ok"):
             it["image"] = None  # checked: no usable photo (tiny, a logo, or none anywhere)
     save_cache(cache_path, cache, now)
+    try:
+        add_file_photos(items, cache_path.parent / "commons.json", now, log)
+    except Exception as e:  # file photos are a bonus
+        log(f"[warn] file photos: {e}")
     have = sum(1 for i in items if i.get("image"))
     log(f"images: {done} checked this run, {found} with a photo; {have}/{len(items)} stories have one")
     return cache
+
+
+# ---------------------------------------------------------------- layer 2: file photos (Wikimedia Commons)
+COMMONS_API = "https://commons.wikimedia.org/w/api.php"
+COMMONS_REFRESH = timedelta(days=30)
+
+
+def _strip_tags(s):
+    s = re.sub(r"<[^>]+>", " ", s or "")
+    return re.sub(r"\s+", " ", html.unescape(s)).strip()
+
+
+def _short_artist(a):
+    a = _strip_tags(a)
+    a = re.sub(r"^(No machine-readable author provided\.\s*)?", "", a)
+    a = re.sub(r"\s*assumed \(based on.*$", "", a)
+    a = re.sub(r"^(Autor:|Immediate source:)\s*", "", a)
+    a = re.sub(r"^This image or media was taken or created by ([^.]+)\..*$", r"\1", a)
+    a = re.sub(r"~commonswiki\b", "", a)
+    return a[:60].rstrip(" ,;") if a else ""
+
+
+def commons_info(files, log=print):
+    """Size, thumbnail URLs, author and licence for Commons files: {file: info}. One API call per 40 files."""
+    out = {}
+    for i in range(0, len(files), 40):
+        chunk = files[i:i + 40]
+        for width in (1280, 960):
+            q = urllib.parse.urlencode({"action": "query", "format": "json", "prop": "imageinfo", "iiurlwidth": width,
+                                        "iiprop": "url|size|extmetadata", "iiextmetadatafilter": "Artist|LicenseShortName|LicenseUrl",
+                                        "titles": "|".join("File:" + f for f in chunk)})
+            req = urllib.request.Request(f"{COMMONS_API}?{q}", headers={"User-Agent": UA, "Accept": "application/json"})
+            with urllib.request.urlopen(req, timeout=20) as r:
+                data = json.loads(r.read())
+            back = {n["to"]: n["from"] for n in data.get("query", {}).get("normalized", [])}
+            for page in data.get("query", {}).get("pages", {}).values():
+                name = back.get(page.get("title"), page.get("title", ""))[5:]
+                ii = (page.get("imageinfo") or [None])[0]
+                if name not in chunk or not ii:
+                    continue
+                o = out.setdefault(name, {})
+                thumb = (ii.get("thumburl") or ii.get("url") or "").split("?")[0]
+                meta = ii.get("extmetadata") or {}
+                if width == 1280:
+                    o.update({"url": thumb, "w": ii.get("thumbwidth") or ii.get("width"), "h": ii.get("thumbheight") or ii.get("height"),
+                              "page": ii.get("descriptionurl", ""),
+                              "artist": _short_artist((meta.get("Artist") or {}).get("value")),
+                              "license": _strip_tags((meta.get("LicenseShortName") or {}).get("value"))})
+                else:
+                    o["small"] = thumb
+    return out
+
+
+def add_file_photos(items, cache_path, now, log=print):
+    """Stories still without a photo get a labelled file photo of the person or place in their headline."""
+    import entities
+    try:
+        cache = json.loads(cache_path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        cache = {}
+    files = sorted(set(entities.FILES.values()))
+    fresh = cache.get("at") and now - datetime.fromisoformat(cache["at"]) < COMMONS_REFRESH
+    if not fresh or any(f not in cache.get("files", {}) for f in files):
+        try:
+            info = commons_info(files, log)
+            if info:
+                cache = {"at": now.isoformat(), "files": info}
+                cache_path.parent.mkdir(parents=True, exist_ok=True)
+                cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=0, sort_keys=True), encoding="utf-8")
+        except Exception as e:  # keep using the old list; try again next run
+            log(f"[warn] commons: {e}")
+    info = cache.get("files", {})
+    added = 0
+    for it in items:
+        if it.get("image") or it.get("kind") == "light":
+            continue
+        key = entities.match(it.get("title", ""), it.get("topic"))
+        f = entities.FILES.get(key)
+        c = info.get(f) if f else None
+        if not c or not c.get("url") or not c.get("license"):
+            continue
+        img = {"url": c["url"], "w": c["w"], "h": c["h"], "file": True, "page": c.get("page", ""),
+               "credit": " · ".join(x for x in (c.get("artist"), c.get("license")) if x)}
+        if c.get("small") and c["small"] != c["url"]:
+            img["small"] = c["small"]
+        it["image"] = img
+        added += 1
+    log(f"file photos: {added} stories")

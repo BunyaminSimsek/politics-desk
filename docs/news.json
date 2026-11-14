@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T09:08:17+00:00",
+ "generatedAt": "2026-11-14T09:17:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -179,9 +179,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/54f6f536-b4f1-4791-8b28-77a42867301c,1794609137028/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4800%2C2700%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/54f6f536-b4f1-4791-8b28-77a42867301c,1794609137028/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4800%2C2700%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"
@@ -200,9 +200,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/ce870e57-4d25-4bcb-b670-fc79850dc32b,1794510495936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C270%2C5184%2C2916%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/ce870e57-4d25-4bcb-b670-fc79850dc32b,1794510495936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C270%2C5184%2C2916%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"
@@ -219,9 +219,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/bd49e383-901a-4a70-8398-b6b0fde6d995,1794617494392/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4096%2C2304%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/bd49e383-901a-4a70-8398-b6b0fde6d995,1794617494392/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4096%2C2304%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"
@@ -362,10 +362,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/5c7b1147ac82c381b261de23a5d62f705015ec6b/0_0_4466_3575/master/4466.jpg?width=700&quality=85&auto=format&fit=max&s=d123fa38a42a5104d245b9dfcc4dc17d",
-    "w": 700,
+    "credit": "Photograph: Mehmet Eser/Anadolu/Getty Images",
     "h": 560,
-    "credit": "Photograph: Mehmet Eser/Anadolu/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/5c7b1147ac82c381b261de23a5d62f705015ec6b/0_0_4466_3575/master/4466.jpg?width=700&quality=85&auto=format&fit=max&s=d123fa38a42a5104d245b9dfcc4dc17d",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:08:17+00:00"
@@ -550,9 +550,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/efe910e0-a91a-4c20-807d-c58b6ad03d36,1794626341489/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C14%2C8011%2C4506%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/efe910e0-a91a-4c20-807d-c58b6ad03d36,1794626341489/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C14%2C8011%2C4506%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-14T03:32:41+00:00"
@@ -807,9 +807,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/c512b3d3-3f21-4d23-9a14-7284e959c624,1794603204444/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4308%2C2423%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/c512b3d3-3f21-4d23-9a14-7284e959c624,1794603204444/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4308%2C2423%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-13T22:39:12+00:00"
@@ -1324,9 +1324,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/ecd90d56-59d6-401a-855a-b536bf2ad287,1794593249919/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C735%2C7062%2C3972%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/ecd90d56-59d6-401a-855a-b536bf2ad287,1794593249919/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C735%2C7062%2C3972%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-13T18:22:37+00:00"
@@ -1385,9 +1385,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/d39dd66c-98b9-496d-b996-d5d9ca6b97b0,1794597165432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3500%2C1968%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/d39dd66c-98b9-496d-b996-d5d9ca6b97b0,1794597165432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3500%2C1968%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-13T18:13:25+00:00"
@@ -5437,29 +5437,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T02:14:27+00:00"
-  },
-  {
-   "id": "cad48f4e5f60d93b",
-   "title": "National security of all countries at risk due to climate crisis, UK foreign secretary warns",
-   "summary": "Exclusive: Ed Miliband says sci-fi scenarios of destruction ‘now regular occurrences’, as he prepares to address Cop31 The national security of all countries is at risk from the climate crisis, as “science fiction” scenarios of widespread destruction are…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31",
-   "date": "2026-11-11T09:09:47+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "defence",
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Stefanos Rapanis/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0ced3955c0750d8f1cf9d1f67e4680851d019011/848_0_4240_3392/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=fb4c9decd24a80a320a763ee0c6205b9",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   }
  ]
 }

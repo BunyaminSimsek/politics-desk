@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T01:06:00+00:00",
+ "generatedAt": "2026-11-14T01:15:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "9737ca0031189780",
+   "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+   "summary": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ FAA grounds thousands of flights – live The Federal Aviation Administration (FAA) issued a nationwide ground stop for…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+   "date": "2026-11-14T01:01:12+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=64f96d22aca31182e54d2c536d85a6c2",
+    "credit": "Photograph: Ethan Swope/AP",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T00:29:25+00:00"
+  },
+  {
    "id": "6d734011618a9afd",
    "title": "UK police open sex offence probe into comedian and author David Walliams",
    "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
@@ -179,25 +198,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-14T00:47:49+00:00"
-  },
-  {
-   "id": "9737ca0031189780",
-   "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
-   "summary": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ FAA grounds thousands of flights – live The Federal Aviation Administration (FAA) has issued a nationwide ground stop…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-   "date": "2026-11-14T00:09:06+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=64f96d22aca31182e54d2c536d85a6c2",
-    "credit": "Photograph: Ethan Swope/AP",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T00:29:25+00:00"
   },
   {
    "id": "d3f331f47ec0afe3",

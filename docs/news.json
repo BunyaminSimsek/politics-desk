@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T09:27:36+00:00",
+ "generatedAt": "2026-11-14T09:37:11+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "2d7865bf36e49460",
+   "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
+   "summary": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
+   "date": "2026-11-14T09:08:21+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af81fec4b902-1794645996.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af81fec4b902-1794645996.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T09:37:11+00:00"
+  },
   {
    "id": "4ba6e71bdac381d4",
    "title": "Can the Carney government end homelessness? (Not on its own)",
@@ -2064,9 +2084,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f76443ef-a6b2-4205-97cf-3ff20845ee79,1794571270134/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C423%2C6190%2C3481%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f76443ef-a6b2-4205-97cf-3ff20845ee79,1794571270134/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C423%2C6190%2C3481%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-13T12:25:02+00:00"
@@ -2598,9 +2618,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/4ea72b27-0c25-4541-be09-934be154c587,1794531180019/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C2468%2C1388%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/4ea72b27-0c25-4541-be09-934be154c587,1794531180019/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C2468%2C1388%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-13T11:12:26+00:00"
@@ -3178,9 +3198,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/ac46503c-9392-473a-b3df-24c651074dfb,1794529006739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C374%2C5083%2C2859%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/ac46503c-9392-473a-b3df-24c651074dfb,1794529006739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C374%2C5083%2C2859%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-13T00:42:58+00:00"
@@ -3509,9 +3529,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/aa0a8430-7fc9-49ea-8388-1cb0469e421a,1794518130753/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C390%2C7488%2C4212%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/aa0a8430-7fc9-49ea-8388-1cb0469e421a,1794518130753/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C390%2C7488%2C4212%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
@@ -3528,9 +3548,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/627887fe-e1cb-4c5d-aa34-c26789bdbe68,1794518194949/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C28%2C5098%2C2867%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/627887fe-e1cb-4c5d-aa34-c26789bdbe68,1794518194949/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C28%2C5098%2C2867%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
@@ -3630,9 +3650,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/0c82abd2-7142-4e99-8140-83321731d4fb,1794525452592/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C45%2C3584%2C2016%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/0c82abd2-7142-4e99-8140-83321731d4fb,1794525452592/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C45%2C3584%2C2016%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
@@ -3731,9 +3751,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/f6e92dd4-6106-4039-9915-b2a1c62465b1,1794513768698/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C346%2C5281%2C2970%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/f6e92dd4-6106-4039-9915-b2a1c62465b1,1794513768698/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C346%2C5281%2C2970%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"

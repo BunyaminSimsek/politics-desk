@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T20:35:15+00:00",
+ "generatedAt": "2026-11-14T20:44:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "aad3d60bc47e7730",
+   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T20:41:45+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T10:43:34+00:00"
+  },
+  {
    "id": "fe56b5bc74721f04",
    "title": "Quebec ready to vote independently from Canada for Francophonie leadership: premier",
    "summary": "PHNOM PENH - Quebec Premier Paul St-Pierre Plamondon is further distancing himself from the Canadian government in his first international outing since winning last month's provincial election.",
@@ -177,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/5c/f5cdd57e-ef3a-521d-9146-b232d9879f77/6af8c3a120f2d.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 900,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/5c/f5cdd57e-ef3a-521d-9146-b232d9879f77/6af8c3a120f2d.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/5c/f5cdd57e-ef3a-521d-9146-b232d9879f77/6af8c3a120f2d.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/5c/f5cdd57e-ef3a-521d-9146-b232d9879f77/6af8c3a120f2d.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-14T20:35:15+00:00"
@@ -246,28 +268,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T19:58:18+00:00"
-  },
-  {
-   "id": "aad3d60bc47e7730",
-   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-14T19:21:10+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T10:43:34+00:00"
   },
   {
    "id": "c7adac91d88e4c2f",

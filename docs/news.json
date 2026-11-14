@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T18:16:05+00:00",
+ "generatedAt": "2026-11-14T18:25:07+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,25 @@
   }
  ],
  "items": [
+  {
+   "id": "105bd5f2eba6a4f0",
+   "title": "Carney says he will not boycott APEC 'family photo' with Putin",
+   "summary": "Prime Minister Mark Carney says he will participate in an upcoming group photo with Russian President Vladimir Putin at the APEC summit out of respect for the host, Chinese President Xi Jinping.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/carney-apec-boycott-photo-putin-9.7422267?cmp=rss",
+   "date": "2026-11-14T18:18:59+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/d4239b67-946d-4f43-b1be-c5568fabe406,1794676799408/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C366%2C8067%2C4537%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T18:25:07+00:00"
+  },
   {
    "id": "d9b75a3c4c118404",
    "title": "Rising costs and arrests fuel protests in Central African Republic",

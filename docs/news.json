@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T19:58:18+00:00",
+ "generatedAt": "2026-11-14T20:07:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "c69b9f0de38e1cf9",
+   "title": "Can being ‘non-Western’ cost you your home in Denmark?",
+   "summary": "Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
+   "date": "2026-11-14T19:52:49+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794685914.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794685914.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T20:07:25+00:00"
+  },
+  {
+   "id": "fab467c9e8e86404",
+   "title": "More than 100,000 rally across France in new Yellow Vest protests",
+   "summary": "Protesters chanted against declining affordability, the Macron government, police violence and poor school conditions.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
+   "date": "2026-11-14T19:46:24+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af8b0272660-1794682919.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af8b0272660-1794682919.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T20:07:25+00:00"
+  },
+  {
    "id": "9f7eaa994be997d7",
    "title": "Mike Johnson: ‘Leaders have to take responsibility when things go wrong’",
    "summary": "Republican House speaker not running for re-election contrasts sharply with president who avoids accountability In his first interview since the midterm elections , the US House speaker, Mike Johnson , said that the Republican party’s crushing losses during…",
@@ -179,10 +219,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/00f91b8f8a739aa2a76aef4c0d3aa7f5a131e279/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=254601f7cec3b7e29945d0b7d1759d3d",
-    "w": 700,
+    "credit": "Photograph: Alex Wong/Getty Images",
     "h": 560,
-    "credit": "Photograph: Alex Wong/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/00f91b8f8a739aa2a76aef4c0d3aa7f5a131e279/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=254601f7cec3b7e29945d0b7d1759d3d",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-14T19:58:18+00:00"

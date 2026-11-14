@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T12:15:39+00:00",
+ "generatedAt": "2026-11-14T12:25:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 19
   },
   {
    "source": "The Guardian",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/23c25d71e33c11c509144a78a32f53c9cb09a57d/300_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=870a3421b6740b7b472f73b0b7b3c617",
-    "w": 700,
+    "credit": "Photograph: New York Daily News/NY Daily News/Getty Images",
     "h": 560,
-    "credit": "Photograph: New York Daily News/NY Daily News/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/23c25d71e33c11c509144a78a32f53c9cb09a57d/300_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=870a3421b6740b7b472f73b0b7b3c617",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-14T12:15:39+00:00"
@@ -537,9 +537,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.4540635,1518884211000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2997%2C1685%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.4540635,1518884211000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2997%2C1685%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T10:06:47+00:00"

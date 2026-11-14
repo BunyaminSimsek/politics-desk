@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T05:04:10+00:00",
+ "generatedAt": "2026-11-14T05:13:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "46dae1d1c0d267b7",
+   "title": "Trump, Xi and Putin to hold first three-way summit in China",
+   "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+   "date": "2026-11-14T04:55:58+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7e44a439aa-1794630730.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7e44a439aa-1794630730.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T05:13:12+00:00"
+  },
+  {
+   "id": "9718614233cacfc8",
+   "title": "German spies granted sweeping new powers",
+   "summary": "Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+   "date": "2026-11-14T04:41:11+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7c9c3f187d-1794623939.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7c9c3f187d-1794623939.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T05:13:12+00:00"
+  },
+  {
    "id": "6be61a5308424d42",
    "title": "ICC stops probe into alleged crimes by US troops in Afghanistan",
    "summary": "The decision follows feuds between the United States and the Hague-based International Criminal Court.",
@@ -178,7 +218,12 @@
     "defence"
    ],
    "kind": "news",
-   "image": null,
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7b6292b83-1794618921.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7b6292b83-1794618921.jpg?resize=640%2C427"
+   },
    "breaking": false,
    "addedAt": "2026-11-14T04:18:31+00:00"
   },
@@ -196,9 +241,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/2d5a8cb1797081da08c85efd347cf9dc480df876e35d9b7f2df0ad207f53def2.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-    "credit": "",
-    "caption": ""
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/2d5a8cb1797081da08c85efd347cf9dc480df876e35d9b7f2df0ad207f53def2.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 579,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/2d5a8cb1797081da08c85efd347cf9dc480df876e35d9b7f2df0ad207f53def2.jpg?w=640&h=427&crop=1&quality=70&strip=all"
    },
    "breaking": false,
    "addedAt": "2026-11-14T03:41:52+00:00"
@@ -238,9 +284,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/67/d67a85cd-10a8-5337-ad72-01cde40dba16/6af7ca3e1dfa0.image.jpg?resize=300%2C231",
-    "credit": "",
-    "caption": ""
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/67/d67a85cd-10a8-5337-ad72-01cde40dba16/6af7ca3e1dfa0.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 925,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/67/d67a85cd-10a8-5337-ad72-01cde40dba16/6af7ca3e1dfa0.image.jpg?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-14T03:05:13+00:00"
@@ -258,8 +305,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/7ed43949a5180577da723e2bf8cbe9c1ff30a73b/116_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=6d35399e062401ae1b9f3740527b635b",
-    "credit": "Photograph: Olga Fedorova/EPA",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Olga Fedorova/EPA"
    },
    "breaking": false,
    "addedAt": "2026-11-14T02:56:04+00:00"
@@ -277,8 +325,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/b253768714365e4818d3fcf51ed796d8355c4e6d/278_0_2096_1677/master/2096.jpg?width=700&quality=85&auto=format&fit=max&s=2cb8ae24085427dcf56f605680c6981e",
-    "credit": "Photograph: Alex Brandon/AP",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Alex Brandon/AP"
    },
    "breaking": false,
    "addedAt": "2026-11-13T11:21:34+00:00"
@@ -296,8 +345,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=64f96d22aca31182e54d2c536d85a6c2",
-    "credit": "Photograph: Ethan Swope/AP",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Ethan Swope/AP"
    },
    "breaking": false,
    "addedAt": "2026-11-14T00:29:25+00:00"
@@ -313,7 +363,12 @@
    "region": "world",
    "tags": [],
    "kind": "news",
-   "image": null,
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7941c1aac-1794610204.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7941c1aac-1794610204.jpg?resize=640%2C427"
+   },
    "breaking": false,
    "addedAt": "2026-11-14T00:47:49+00:00"
   },
@@ -330,7 +385,12 @@
     "immigration"
    ],
    "kind": "news",
-   "image": null,
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af78e3b3f194-1794608699.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af78e3b3f194-1794608699.jpg?resize=640%2C427"
+   },
    "breaking": false,
    "addedAt": "2026-11-14T00:29:25+00:00"
   },
@@ -346,27 +406,31 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg",
-    "credit": "",
-    "caption": ""
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-14T00:11:02+00:00"
   },
   {
    "id": "c8f96e817256b9ec",
-   "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
-   "summary": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
+   "title": "Iran war live: Tehran says tanker hit naval mine, caught fire",
+   "summary": "Tehran has said that a tanker hit a naval mine and caught fire, accusing the vessel of operating in a prohibited area.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
    "date": "2026-11-14T00:00:25+00:00",
    "topic": "mideast",
    "region": "world",
-   "tags": [
-    "defence"
-   ],
+   "tags": [],
    "kind": "news",
-   "image": null,
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af7a35f-1794614111.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af7a35f-1794614111.jpg?resize=640%2C427"
+   },
    "breaking": false,
    "addedAt": "2026-11-14T00:20:14+00:00"
   },
@@ -383,8 +447,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=700&quality=85&auto=format&fit=max&s=30cf423877b8a992f15c640a2e1baa50",
-    "credit": "Photograph: Adam Gray/AP",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Adam Gray/AP"
    },
    "breaking": false,
    "addedAt": "2026-11-13T20:49:15+00:00"
@@ -434,8 +499,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=700&quality=85&auto=format&fit=max&s=5fd49fdc7d95d7fc81dfa75a7d810f1e",
-    "credit": "Photograph: Abir Sultan/EPA",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Abir Sultan/EPA"
    },
    "breaking": false,
    "addedAt": "2026-11-13T22:48:19+00:00"
@@ -491,8 +557,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/6461a8e9e85b3a0f988ecc183b0798b784a32524/512_0_2566_2052/master/2566.jpg?width=700&quality=85&auto=format&fit=max&s=2682fe132af002aa768cc8b6b617216e",
-    "credit": "Photograph: Dénes Erdős/AP",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Dénes Erdős/AP"
    },
    "breaking": false,
    "addedAt": "2026-11-13T22:30:05+00:00"
@@ -510,8 +577,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/48fa66a20eacc798793f8c3b942b6715a99fe639/394_0_3929_3145/master/3929.jpg?width=700&quality=85&auto=format&fit=max&s=ab49394fc2d9f2a59c393f9c4079c026",
-    "credit": "Photograph: Drew Angerer/Getty Images",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Drew Angerer/Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-13T20:21:43+00:00"
@@ -531,8 +599,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/ac0ddd7ad657bd5a2e35035d09809eebce24312a/2410_459_3590_2871/master/3590.jpg?width=700&quality=85&auto=format&fit=max&s=92b21ddf952f775d1c207dcd5238f923",
-    "credit": "Photograph: Drew Angerer/Getty Images",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Drew Angerer/Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-13T21:44:05+00:00"
@@ -581,9 +650,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/516x923+0+0/resize/516x923!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff9%2F49%2Fe3a4814044d480c0da75473df668%2Fscreenshot-2026-11-13-100635.png",
-    "credit": "",
-    "caption": ""
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/516x923+0+0/resize/516/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff9%2F49%2Fe3a4814044d480c0da75473df668%2Fscreenshot-2026-11-13-100635.png",
+    "w": 516,
+    "h": 923
    },
    "breaking": false,
    "addedAt": "2026-11-13T23:34:14+00:00"
@@ -601,8 +670,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/d169429d7a6f7e570a871b03d7a39e581e77f265/1443_446_3976_3181/master/3976.jpg?width=700&quality=85&auto=format&fit=max&s=274186fa9c3558adb11b60de976b5042",
-    "credit": "Photograph: Liam McBurney/PA",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Liam McBurney/PA"
    },
    "breaking": false,
    "addedAt": "2026-11-13T14:23:43+00:00"
@@ -622,8 +692,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/d44aa90d0059f02ead98da8901aa6963436e63ba/2_0_2624_2100/master/2624.jpg?width=700&quality=85&auto=format&fit=max&s=8e78bc139386ac0a658a621dddb49e55",
-    "credit": "Photograph: Brandon Bell/Getty Images",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Brandon Bell/Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-13T19:17:36+00:00"
@@ -640,9 +711,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/8d/18df8bcd-1bbc-5fce-aa7b-20f4c89eaeaa/6af742135a73e.image.jpg?resize=300%2C200",
-    "credit": "",
-    "caption": ""
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/8d/18df8bcd-1bbc-5fce-aa7b-20f4c89eaeaa/6af742135a73e.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/8d/18df8bcd-1bbc-5fce-aa7b-20f4c89eaeaa/6af742135a73e.image.jpg?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-13T19:17:36+00:00"
@@ -662,8 +734,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/f8070363836c2e5ee96e96e4c3d5b492cfeb3233/0_0_3000_2401/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=288c68195844da756a42497abbefa9c5",
-    "credit": "Illustration: Guardian Design/DeSean Mclinton-Holland",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Illustration: Guardian Design/DeSean Mclinton-Holland"
    },
    "breaking": false,
    "addedAt": "2026-11-13T20:40:05+00:00"
@@ -680,9 +753,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/ce/1cec8f99-3ca4-5621-a1a9-a75d652db0aa/6af77220369f0.image.jpg?resize=300%2C196",
-    "credit": "",
-    "caption": ""
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/ce/1cec8f99-3ca4-5621-a1a9-a75d652db0aa/6af77220369f0.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 783,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/ce/1cec8f99-3ca4-5621-a1a9-a75d652db0aa/6af77220369f0.image.jpg?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-14T03:32:41+00:00"
@@ -700,8 +774,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/037c74e8214b09b69d8aab6f4fa054c30fdc3095/361_0_3591_2874/master/3591.jpg?width=700&quality=85&auto=format&fit=max&s=7ab9ae892984135a6685a26cf25b8ebb",
-    "credit": "Photograph: Kevin Dietsch/Getty Images",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Kevin Dietsch/Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-13T20:21:43+00:00"
@@ -718,9 +793,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-    "credit": "",
-    "caption": ""
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-13T17:18:28+00:00"
@@ -737,9 +813,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/00/60052b8e-c1de-5f02-9d55-3f92461f4af1/6af76b197be38.image.jpg?resize=300%2C200",
-    "credit": "",
-    "caption": ""
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/00/60052b8e-c1de-5f02-9d55-3f92461f4af1/6af76b197be38.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 799,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/00/60052b8e-c1de-5f02-9d55-3f92461f4af1/6af76b197be38.image.jpg?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-13T20:03:20+00:00"
@@ -757,8 +834,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/5534caea091e39afe776168281e50dd327c8be8e/563_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=d37605075250f78266914b0061ace318",
-    "credit": "Photograph: Cornell Watson/Bloomberg via Getty Images",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Cornell Watson/Bloomberg via Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-13T06:38:42+00:00"
@@ -775,9 +853,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/82/0827d714-2f02-5473-b371-8c217a5017cd/6af7622df371b.image.jpg?resize=300%2C200",
-    "credit": "",
-    "caption": ""
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/82/0827d714-2f02-5473-b371-8c217a5017cd/6af7622df371b.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/82/0827d714-2f02-5473-b371-8c217a5017cd/6af7622df371b.image.jpg?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-13T20:03:20+00:00"
@@ -797,8 +876,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/150c1c16519482804cc57015729e0faf8b093d89/247_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=aaf8acc044537a844f615ce3161a6087",
-    "credit": "Photograph: VCG/Getty Images",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: VCG/Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-13T19:54:11+00:00"
@@ -816,8 +896,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/efda49c642dc93a6160523af97a8890ea5f8d2b2/0_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=fece1ea032d1bb2841b134c934950fce",
-    "credit": "Photograph: guardian",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: guardian"
    },
    "breaking": false,
    "addedAt": "2026-11-13T19:35:48+00:00"
@@ -835,8 +916,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/5d5bae65dfe648ee0640fe44d78bbefc78d94a15/69_0_2057_1645/master/2057.jpg?width=700&quality=85&auto=format&fit=max&s=e153c7864ba462638a524695e17d033e",
-    "credit": "Photograph: Evan Vucci/Reuters",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Evan Vucci/Reuters"
    },
    "breaking": false,
    "addedAt": "2026-11-13T19:26:39+00:00"
@@ -853,9 +935,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
-    "credit": "",
-    "caption": ""
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png"
    },
    "breaking": false,
    "addedAt": "2026-11-13T17:09:20+00:00"
@@ -873,8 +956,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/75bf5eb8de343b0ea6f988499ae792221dcaae08/383_0_6160_4927/master/6160.jpg?width=700&quality=85&auto=format&fit=max&s=261f3e8c42fe98d0eacb4e6d55084708",
-    "credit": "Photograph: Evelyn Hockstein/Reuters",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Evelyn Hockstein/Reuters"
    },
    "breaking": false,
    "addedAt": "2026-11-13T17:55:08+00:00"
@@ -890,7 +974,12 @@
    "region": "world",
    "tags": [],
    "kind": "news",
-   "image": null,
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-12T202931Z_419656292_RC2KMOA0WBF6_RTRMADP_3_NVIDIA-CEO-1794553361.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-12T202931Z_419656292_RC2KMOA0WBF6_RTRMADP_3_NVIDIA-CEO-1794553361.jpg?resize=640%2C427"
+   },
    "breaking": false,
    "addedAt": "2026-11-13T19:17:36+00:00"
   },
@@ -907,8 +996,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/e38bb3728105c5d43c48c890dbafe4ef3e75d70d/185_0_3099_2480/master/3099.jpg?width=700&quality=85&auto=format&fit=max&s=3233aca1a4cec7668e775d32ef585a9a",
-    "credit": "Photograph: Getty Images",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-13T18:41:03+00:00"
@@ -927,9 +1017,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/4f/74f67d91-b2fb-5685-9bed-f798930384d1/6af754d34ae6f.image.jpg?resize=300%2C200",
-    "credit": "",
-    "caption": ""
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/4f/74f67d91-b2fb-5685-9bed-f798930384d1/6af754d34ae6f.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 798,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/4f/74f67d91-b2fb-5685-9bed-f798930384d1/6af754d34ae6f.image.jpg?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-13T22:39:12+00:00"
@@ -966,8 +1057,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/2c228d770bc36da0b6ae784dc3d2be62613a6e18/210_0_2579_2065/master/2579.jpg?width=700&quality=85&auto=format&fit=max&s=b5ce6ba72cbf0bd564c99d086f6f5477",
-    "credit": "Photograph: Jeff Moore/PA",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jeff Moore/PA"
    },
    "breaking": false,
    "addedAt": "2026-11-13T17:55:08+00:00"
@@ -985,7 +1077,12 @@
     "defence"
    ],
    "kind": "news",
-   "image": null,
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794593305.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794593305.jpg?quality=80&resize=640%2C427"
+   },
    "breaking": false,
    "addedAt": "2026-11-13T18:31:45+00:00"
   },
@@ -1021,7 +1118,12 @@
     "elections"
    ],
    "kind": "news",
-   "image": null,
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af2f17c00fe-1794306428.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af2f17c00fe-1794306428.jpg?resize=640%2C427"
+   },
    "breaking": false,
    "addedAt": "2026-11-13T18:31:45+00:00"
   },
@@ -1038,8 +1140,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/62938400271e1c2d5fb9106df866448f00e04d07/404_0_4038_3230/master/4038.jpg?width=700&quality=85&auto=format&fit=max&s=6efe95018a7ed3324d8533d51266ba56",
-    "credit": "Photograph: AP",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: AP"
    },
    "breaking": false,
    "addedAt": "2026-11-13T18:04:17+00:00"
@@ -1056,9 +1159,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c96a/live/f21e98f0-dee3-11f1-9bb0-8de7754c4db5.jpg",
-    "credit": "",
-    "caption": ""
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c96a/live/f21e98f0-dee3-11f1-9bb0-8de7754c4db5.jpg",
+    "w": 1200,
+    "h": 673,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c96a/live/f21e98f0-dee3-11f1-9bb0-8de7754c4db5.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-13T17:55:08+00:00"
@@ -1078,8 +1182,9 @@
    "kind": "news",
    "image": {
     "url": "https://i.guim.co.uk/img/media/19662f21a15579907c78e129a749b78b5dab0bd6/239_0_2591_2073/master/2591.jpg?width=700&quality=85&auto=format&fit=max&s=b78adbc90ae8d9ddb70bb9f5f727c7d9",
-    "credit": "Photograph: Eric Lee/Getty Images",
-    "caption": ""
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Eric Lee/Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-13T16:51:00+00:00"
@@ -1095,7 +1200,12 @@
    "region": "world",
    "tags": [],
    "kind": "news",
-   "image": null,
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20250604__49948G2__v1__HighRes__50TariffsOnSteelAndAluminumComeIntoForce-1793302472.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20250604__49948G2__v1__HighRes__50TariffsOnSteelAndAluminumComeIntoForce-1793302472.jpg?resize=640%2C427"
+   },
    "breaking": false,
    "addedAt": "2026-11-13T17:36:49+00:00"
   },
@@ -1111,9 +1221,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6903x4560+0+0/resize/6903x4560!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fdd%2F1b4c60f94f53a919c64962a66656%2Fgettyimages-2303720039.jpg",
-    "credit": "",
-    "caption": ""
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6903x4560+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fdd%2F1b4c60f94f53a919c64962a66656%2Fgettyimages-2303720039.jpg",
+    "w": 1200,
+    "h": 793,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6903x4560+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fdd%2F1b4c60f94f53a919c64962a66656%2Fgettyimages-2303720039.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-13T17:09:20+00:00"

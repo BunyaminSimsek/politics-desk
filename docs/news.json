@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T15:39:13+00:00",
+ "generatedAt": "2026-11-14T15:48:22+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/5cb9c07dc0365f409c0acd494adfaec5bafdb713/823_0_6899_5520/master/6899.jpg?width=700&quality=85&auto=format&fit=max&s=50fca302ab186228407f068103897339",
-    "w": 700,
+    "credit": "Photograph: Julia Demaree Nikhinson/AP",
     "h": 560,
-    "credit": "Photograph: Julia Demaree Nikhinson/AP"
+    "url": "https://i.guim.co.uk/img/media/5cb9c07dc0365f409c0acd494adfaec5bafdb713/823_0_6899_5520/master/6899.jpg?width=700&quality=85&auto=format&fit=max&s=50fca302ab186228407f068103897339",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-14T15:39:13+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T22:34:25+00:00",
+ "generatedAt": "2026-11-14T22:44:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "aad3d60bc47e7730",
+   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-14T22:37:25+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-14T10:43:34+00:00"
+  },
+  {
    "id": "04bba7831efd4f7b",
    "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
    "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
@@ -184,28 +206,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T21:39:44+00:00"
-  },
-  {
-   "id": "aad3d60bc47e7730",
-   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-14T20:41:45+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T10:43:34+00:00"
   },
   {
    "id": "fe56b5bc74721f04",
@@ -360,9 +360,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d4239b67-946d-4f43-b1be-c5568fabe406,1794676799408/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C366%2C8067%2C4537%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d4239b67-946d-4f43-b1be-c5568fabe406,1794676799408/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C366%2C8067%2C4537%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-14T18:25:07+00:00"

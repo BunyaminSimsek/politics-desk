@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T14:46:05+00:00",
+ "generatedAt": "2026-11-15T14:55:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -6299,25 +6299,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "b34d4ae988697221",
-   "title": "U.S. envoys talk to Zelenskyy in Dublin, after prior sitdown with Putin in Moscow",
-   "summary": "U.S. envoys met Thursday with Russian President Vladimir Putin in the Kremlin before heading to Ireland for talks with Ukrainian President Volodymyr Zelenskyy as Washington sought new momentum for its peace efforts.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/us-witkoff-kushner-putin-zelenskyy-talks-9.7418799?cmp=rss",
-   "date": "2026-11-12T14:48:39+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/e1756611-daf1-4c11-a669-0d6e2f04c3af,1794492045675/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5258%2C2957%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   }
  ]
 }

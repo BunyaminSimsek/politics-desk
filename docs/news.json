@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T08:39:46+00:00",
+ "generatedAt": "2026-11-15T08:48:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -6312,26 +6312,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "f57f8322ed7afed7",
-   "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-   "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T08:46:57+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ddfe/live/c33427d0-de93-11f1-9afe-1f03bfe02283.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ddfe/live/c33427d0-de93-11f1-9afe-1f03bfe02283.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   }
  ]
 }

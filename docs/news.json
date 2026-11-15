@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T06:31:42+00:00",
+ "generatedAt": "2026-11-15T06:40:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=700&quality=85&auto=format&fit=max&s=2daf616594a166d9b7441320f79f7a61",
-    "w": 700,
+    "credit": "Photograph: Olga Maltseva/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Olga Maltseva/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=700&quality=85&auto=format&fit=max&s=2daf616594a166d9b7441320f79f7a61",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T06:31:42+00:00"

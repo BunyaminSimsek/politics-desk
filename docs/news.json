@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T01:10:35+00:00",
+ "generatedAt": "2026-11-15T01:19:42+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -6129,25 +6129,6 @@
     "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/54a1/live/51564b90-de3c-11f1-b441-2b33b063138f.jpg",
     "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/54a1/live/51564b90-de3c-11f1-b441-2b33b063138f.jpg",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "2ddcd8346c8212e1",
-   "title": "Hegseth, wife and aides spark scolding from guard at Tomb of the Unknown Soldier",
-   "summary": "A soldier guarding the Tomb of the Unknown Soldier at Arlington National Cemetery issued a verbal reprimand to a group of advisers and staffers with U.S. War Secretary Pete Hegseth following a Veterans Day ceremony.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/hegseth-veterans-day-arlington-tomb-laughter-guard-yells-9.7418661?cmp=rss",
-   "date": "2026-11-12T01:14:10+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/bc0e07d8-d4d4-4770-8bb2-483f9f3f7176,1794443832717/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"

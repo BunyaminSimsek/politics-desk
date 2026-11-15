@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T22:56:45+00:00",
+ "generatedAt": "2026-11-15T23:06:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -243,10 +243,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3f27/live/38d2f5c0-e132-11f1-a204-d95dd4dbb76b.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3f27/live/38d2f5c0-e132-11f1-a204-d95dd4dbb76b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3f27/live/38d2f5c0-e132-11f1-a204-d95dd4dbb76b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3f27/live/38d2f5c0-e132-11f1-a204-d95dd4dbb76b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-15T22:56:45+00:00"
@@ -484,9 +484,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/a72f00f9-417e-467b-86f4-6cb54435e4cf,1794766503372/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C158%2C8192%2C4608%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/a72f00f9-417e-467b-86f4-6cb54435e4cf,1794766503372/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C158%2C8192%2C4608%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-15T19:04:46+00:00"
@@ -582,9 +582,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/a2274a0c-7a7a-44f9-91e9-0050c8622a4c,1794764810023/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5381%2C3026%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/a2274a0c-7a7a-44f9-91e9-0050c8622a4c,1794764810023/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5381%2C3026%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T18:55:11+00:00"
@@ -802,7 +802,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

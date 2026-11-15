@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T13:32:35+00:00",
+ "generatedAt": "2026-11-15T13:42:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "12b449161b783754",
+   "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
+   "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+   "date": "2026-11-15T13:34:32+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Mazen Mahdi/EPA/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=700&quality=85&auto=format&fit=max&s=2f0d65607416fe8fe74941d3c4c56dfe",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T12:28:25+00:00"
+  },
+  {
    "id": "27745ce7623e6938",
    "title": "Senior Hamas commander who helped oversee Oct. 7 attack killed in Israeli strike in Gaza",
    "summary": "Hamas said on Sunday that a senior commander who helped plan and oversee the Oct. 7, 2023, attack on Israel had been killed in an Israeli airstrike, with the Israeli military confirming his death.",
@@ -177,9 +199,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f1a84f79-683b-42e8-acc2-dbd47cd5ee5d,1794745139501/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f1a84f79-683b-42e8-acc2-dbd47cd5ee5d,1794745139501/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T13:32:35+00:00"
@@ -213,28 +235,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-15T13:23:17+00:00"
-  },
-  {
-   "id": "12b449161b783754",
-   "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
-   "summary": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet The state-run Bahrain News Agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-   "date": "2026-11-15T13:07:15+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mazen Mahdi/EPA/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=700&quality=85&auto=format&fit=max&s=2f0d65607416fe8fe74941d3c4c56dfe",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T12:28:25+00:00"
   },
   {
    "id": "a0e17e8eed2cac70",

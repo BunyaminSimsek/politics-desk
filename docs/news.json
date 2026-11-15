@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T12:28:25+00:00",
+ "generatedAt": "2026-11-15T12:37:34+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -179,13 +179,35 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=700&quality=85&auto=format&fit=max&s=2f0d65607416fe8fe74941d3c4c56dfe",
-    "w": 700,
+    "credit": "Photograph: Mazen Mahdi/EPA/Shutterstock",
     "h": 560,
-    "credit": "Photograph: Mazen Mahdi/EPA/Shutterstock"
+    "url": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=700&quality=85&auto=format&fit=max&s=2f0d65607416fe8fe74941d3c4c56dfe",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:28:25+00:00"
+  },
+  {
+   "id": "a28f988fe14c78c8",
+   "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+   "summary": "Iran’s IRGC says six drones were launched at a US radar installation at an air base in Bahrain.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
+   "date": "2026-11-15T12:15:51+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794744924.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794744924.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T12:37:34+00:00"
   },
   {
    "id": "e2c24991db38b9de",
@@ -199,10 +221,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f5e678146cc65995b5212627db9370abe77833fe/487_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=a29c767c34245eb017477969c9d03e8b",
-    "w": 700,
+    "credit": "Photograph: POphot Barry Wheeler/PA",
     "h": 560,
-    "credit": "Photograph: POphot Barry Wheeler/PA"
+    "url": "https://i.guim.co.uk/img/media/f5e678146cc65995b5212627db9370abe77833fe/487_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=a29c767c34245eb017477969c9d03e8b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:28:25+00:00"
@@ -261,10 +283,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/208466e37890210b61c6218af791b07a065ebe46/0_20_1240_991/master/1240.jpg?width=700&quality=85&auto=format&fit=max&s=271f7499ea393ad7d679689aa26e0a37",
-    "w": 700,
+    "credit": "Photograph: Shepard Fairey/Big Issue",
     "h": 559,
-    "credit": "Photograph: Shepard Fairey/Big Issue"
+    "url": "https://i.guim.co.uk/img/media/208466e37890210b61c6218af791b07a065ebe46/0_20_1240_991/master/1240.jpg?width=700&quality=85&auto=format&fit=max&s=271f7499ea393ad7d679689aa26e0a37",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:28:25+00:00"
@@ -330,26 +352,6 @@
    "addedAt": "2026-11-15T12:10:06+00:00"
   },
   {
-   "id": "3b3a2c5fa2731383",
-   "title": "PM Carney in Cambodia for Francophonie summit, will meet Quebec premier Plamondon",
-   "summary": "PHNOM PENH - Prime Minister Mark Carney will meet shortly with Quebec Premier Paul St-Pierre Plamondon at a summit in Cambodia, after the province elected a sovereigntist government.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/pm-carney-in-cambodia-for-francophonie-summit-will-meet-quebec-premier-plamondon/article_9cc49735-2d9a-51e7-99e8-dbdad6c3f96f.html",
-   "date": "2026-11-15T11:00:15+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 848,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/c6/6c69f115-0531-5cad-a3ae-34e8766521d2/6af991e2d8795.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/c6/6c69f115-0531-5cad-a3ae-34e8766521d2/6af991e2d8795.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T11:15:16+00:00"
-  },
-  {
    "id": "66a391e1da6f1601",
    "title": "Freshwater supply challenges threaten Canada's security, internal federal memo says",
    "summary": "OTTAWA - Pressures on the supply of fresh water pose challenges that will affect Canada's \"long-term security and prosperity\" if left unaddressed, an internal government memo warns.",
@@ -364,6 +366,26 @@
     "h": 800,
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/2d/b2dc80c0-3bec-5a46-bfab-42cab952c3cd/6af991e0aac2d.image.jpg?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/2d/b2dc80c0-3bec-5a46-bfab-42cab952c3cd/6af991e0aac2d.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T11:15:16+00:00"
+  },
+  {
+   "id": "3b3a2c5fa2731383",
+   "title": "PM Carney in Cambodia for Francophonie summit, will meet Quebec premier Plamondon",
+   "summary": "Both leaders are in Phnom Penh to attend a summit of the Francophonie, an international body of mostly French-speaking states and governments.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/quebec/pm-carney-in-cambodia-for-francophonie-summit-will-meet-quebec-premier-plamondon/article_9cc49735-2d9a-51e7-99e8-dbdad6c3f96f.html",
+   "date": "2026-11-15T11:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 848,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/c6/6c69f115-0531-5cad-a3ae-34e8766521d2/6af991e2d8795.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/c6/6c69f115-0531-5cad-a3ae-34e8766521d2/6af991e2d8795.image.jpg?resize=1200%2C",
     "w": 1200
    },
    "breaking": false,
@@ -418,7 +440,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

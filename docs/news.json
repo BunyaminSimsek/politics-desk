@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T09:53:14+00:00",
+ "generatedAt": "2026-11-15T10:02:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "4c0557da6e6f2b1b",
+   "title": "Protesters condemn US policies as ASEAN summit begins in Manila",
+   "summary": "Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss",
+   "date": "2026-11-15T09:49:43+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794736177.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794736177.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T10:02:20+00:00"
+  },
   {
    "id": "5430714d670ada0c",
    "title": "UK government to consider changing age of consent after allegations against Russell Brand",
@@ -6047,184 +6067,6 @@
     "small": "https://globalnews.ca/wp-content/uploads/2026/11/255e08547eab410434d5b7bc92058cd469c13bc42794edd14a3c522e0c23a4cd.jpg?w=640&h=427&crop=1&quality=70&strip=all",
     "url": "https://globalnews.ca/wp-content/uploads/2026/11/255e08547eab410434d5b7bc92058cd469c13bc42794edd14a3c522e0c23a4cd.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
     "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "81f15f1ca642aaf1",
-   "title": "Senators don't always share bill text online before votes. They should, advocates say",
-   "summary": "The text of what lawmakers are considering isn't always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review",
-   "date": "2026-11-12T10:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4533x3023+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2F3f%2Fa146a5c849b3b3a4269fb15cbf1e%2Fgettyimages-2222437745.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4533x3023+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2F3f%2Fa146a5c849b3b3a4269fb15cbf1e%2Fgettyimages-2222437745.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "4ef25a39ade58da7",
-   "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
-   "summary": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
-   "date": "2026-11-12T10:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 797,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1328+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F6a%2F353ed641433c848011d9892cde0a%2F2026-05-16t221611z-364652352-mt1usatoday28978004-rtrmadp-3-u-s-rep-terri-sewell-and-u-s-rep-shomari-figures-speak.JPG",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1328+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F6a%2F353ed641433c848011d9892cde0a%2F2026-05-16t221611z-364652352-mt1usatoday28978004-rtrmadp-3-u-s-rep-terri-sewell-and-u-s-rep-shomari-figures-speak.JPG",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "984d23b5f616d3fb",
-   "title": "How Scott Colom defied the odds to go from DA to Mississippi's Democratic U.S. senator",
-   "summary": "In a state that hasn't had a Democrat in office since 1980 and hasn't sent a Black senator to Washington since the 1870s, Colom's win represents a massive upset in state politics.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
-   "date": "2026-11-12T10:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5691x3794+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F25%2F1303b95b4baab6e90f92ff3ca35d%2Fgettyimages-2303031468.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5691x3794+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2F25%2F1303b95b4baab6e90f92ff3ca35d%2Fgettyimages-2303031468.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "8dd2945531cfad20",
-   "title": "At least 23 states considered laws governing ICE and schools this year",
-   "summary": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
-   "date": "2026-11-12T10:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F0f%2F0536f3a34457ac5593ccdf46160b%2Fhkim-ice-schools-final.jpeg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F0f%2F0536f3a34457ac5593ccdf46160b%2Fhkim-ice-schools-final.jpeg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "1c32157a1e39ba8e",
-   "title": "Here’s how Mark Carney could harness even more of corporate Canada’s talent",
-   "summary": "Maybe it's time to loosen the restrictions of the Harper-era Accountability Act, Susan Delacourt writes.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/political-opinion/here-s-how-mark-carney-could-harness-even-more-of-corporate-canada-s-talent/article_194cac55-92ca-43ce-8014-191ba8763a87.html",
-   "date": "2026-11-12T10:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 690,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/97/697706df-6829-50c4-adff-06b219924429/6af4cb9ae4c4c.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/97/697706df-6829-50c4-adff-06b219924429/6af4cb9ae4c4c.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "ff08acd3005445c0",
-   "title": "Carney set to sign two Asian trade deals on nine-day, four-summit trip that tests his middle-power pitch",
-   "summary": "Carney has meetings in Ireland, the Phillipines, Cambodia and China to expand markets for Canadian exports and strengthen security alliances.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/carney-set-to-sign-two-asian-trade-deals-on-nine-day-four-summit-trip-that-tests-his-middle-power-pitch/article_e38f9129-af57-4c82-ae73-3cc23ac1606a.html",
-   "date": "2026-11-12T10:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 787,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/33/133d6cfe-fc30-5213-876a-0140c06b0cb4/6af511ae1401d.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/33/133d6cfe-fc30-5213-876a-0140c06b0cb4/6af511ae1401d.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "999c680cbd85f02a",
-   "title": "NDP Leader Avi Lewis receives RCMP protection",
-   "summary": "Lewis was observed by the Star on at least three occasions last week being escorted by officers in Ottawa.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/ndp-leader-avi-lewis-receives-rcmp-protection/article_b895167c-48be-420f-ba91-04df5859b588.html",
-   "date": "2026-11-12T10:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/30/1306d4d7-eb0a-53ca-8fbc-8a43ed8ff5dd/6af4b51a86e17.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/30/1306d4d7-eb0a-53ca-8fbc-8a43ed8ff5dd/6af4b51a86e17.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "8c18eadae62d12f2",
-   "title": "Indonesia's vice-president resigns after academic credentials questioned",
-   "summary": "The Constitutional Court and the Supreme Court ruled last month that the documents Gibran Rakabuming Raka submitted regarding his overseas education didn't meet election requirements.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/indonesia-vice-president-resigns-9.7418723?cmp=rss",
-   "date": "2026-11-12T09:57:39+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/c64db74c-c978-460e-bcbf-b377141c0150,1794460330912/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C433%2C8307%2C4672%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "ec2c2ab097714825",
-   "title": "Israeli strike on a Gaza hospital kills 6 people, including surgeon, health authorities say",
-   "summary": "An Israeli airstrike on southern Gaza's main hospital overnight killed at least six Palestinians, including a surgeon and a teenage boy, medics said, the latest Israeli attack to undermine a year-old ceasefire in the war-shattered territory.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/israeli-strike-on-gaza-hospital-kills-six-people-9.7418729?cmp=rss",
-   "date": "2026-11-12T09:53:34+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/3a840d87-433a-4cb1-a76b-562ca86638af,1794465518816/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C384%2C5500%2C3093%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"

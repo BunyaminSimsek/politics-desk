@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T04:59:41+00:00",
+ "generatedAt": "2026-11-15T05:08:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/52f9c92ccc5c888555d84f9e9f0d23bcefc8dc7f/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=db9657205ac9df3b41bb191c09a6628a",
-    "w": 700,
+    "credit": "Photograph: Chip Somodevilla/Getty Images",
     "h": 560,
-    "credit": "Photograph: Chip Somodevilla/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/52f9c92ccc5c888555d84f9e9f0d23bcefc8dc7f/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=db9657205ac9df3b41bb191c09a6628a",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T04:59:41+00:00"
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26254425908327-1794714537.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26254425908327-1794714537.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26254425908327-1794714537.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26254425908327-1794714537.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-15T04:59:41+00:00"
@@ -6296,28 +6296,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "60b69ab4d379f476",
-   "title": "Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç",
-   "summary": "Selahattin Demirtaş lit up the Turkish left in 2014, but was imprisoned for ‘terrorist propaganda’. His freedom would mark a new political era A decade and a half ago, a promising figure emerged on Turkey’s political scene: Selahattin Demirtaş.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/12/erdogan-release-turkey-brightest-opposition-leader-selahattin-demirtas",
-   "date": "2026-11-12T05:00:11+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Huseyin Aldemir/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9ba5d77a81961d6bbb2b150afadd866fc69a631c/622_134_2230_1784/master/2230.jpg?width=700&quality=85&auto=format&fit=max&s=d3c9a18e029e6f9739e2e49af2a00ed6",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   }
  ]
 }

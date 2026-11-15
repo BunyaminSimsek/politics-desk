@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T16:27:23+00:00",
+ "generatedAt": "2026-11-15T16:36:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a09839dd38148bdd17475e10c93caf952fd6b7f0/557_0_6663_5330/master/6663.jpg?width=700&quality=85&auto=format&fit=max&s=830c35505a52988b235fe24f297865e2",
-    "w": 700,
+    "credit": "Photograph: Aaron Schwartz/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Aaron Schwartz/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/a09839dd38148bdd17475e10c93caf952fd6b7f0/557_0_6663_5330/master/6663.jpg?width=700&quality=85&auto=format&fit=max&s=830c35505a52988b235fe24f297865e2",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T16:27:23+00:00"
@@ -239,7 +239,7 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/8be88a35e78423265047f8391033c6d4a25ba9db/755_0_4216_3373/master/4216.jpg?width=700&quality=85&auto=format&fit=max&s=5ea94d86538939dfcfef8ceadfb57be0",
+    "url": "https://i.guim.co.uk/img/media/2268d8ddd3bcce1ac57e4531e97ad0d576a953b9/386_0_2367_1893/master/2367.jpg?width=700&quality=85&auto=format&fit=max&s=7acfabc4e9d4b98db85c1598fe9fc3cd",
     "w": 700,
     "h": 560,
     "credit": "Photograph: Marco Bello/Reuters"
@@ -283,9 +283,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/435d3638-a380-4803-88b5-4ddc84260735,1794750009710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C7983%2C4490%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/435d3638-a380-4803-88b5-4ddc84260735,1794750009710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C7983%2C4490%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T16:27:23+00:00"
@@ -776,7 +776,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

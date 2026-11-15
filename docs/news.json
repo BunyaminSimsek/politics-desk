@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T19:33:01+00:00",
+ "generatedAt": "2026-11-15T19:42:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 26
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -400,9 +400,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/d49b063c-7c41-4665-9d64-881decb35651,1794761230469/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C272%2C5224%2C2938%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/d49b063c-7c41-4665-9d64-881decb35651,1794761230469/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C272%2C5224%2C2938%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:41:14+00:00"
@@ -578,7 +578,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -1096,7 +1096,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6283,30 +6283,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "96cf9e28104fde92",
-   "title": "What the Nvidia allegations mean for Canada’s growing engagement with China",
-   "summary": "Jensen Huang, the CEO of Nvidia — an American tech giant that designs and manufactures graphics processing units — has resigned following a controversy that exposed an uncomfortable question for western democracies: Can they pursue economic engagement with…",
-   "source": "The Conversation",
-   "url": "https://theconversation.com/what-the-nvidia-allegations-mean-for-canadas-growing-engagement-with-china-296388",
-   "date": "2026-11-12T19:40:36+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade",
-    "elections",
-    "defence"
-   ],
-   "kind": "analysis",
-   "image": {
-    "h": 600,
-    "small": "https://images.theconversation.com/files/771673/original/file-20261112-64-23ue3p.jpg?ixlib=rb-4.1.1&rect=0%2C219%2C2248%2C1124&q=45&auto=format&h=668&w=640&fit=clip",
-    "url": "https://images.theconversation.com/files/771673/original/file-20261112-64-23ue3p.jpg?ixlib=rb-4.1.1&rect=0%2C219%2C2248%2C1124&q=45&auto=format&h=668&w=1200&fit=clip",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T02:14:27+00:00"
   }
  ]
 }

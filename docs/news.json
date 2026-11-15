@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T21:15:17+00:00",
+ "generatedAt": "2026-11-15T21:24:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -177,9 +177,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/b64475a1-382a-4615-9c78-6eb0ec5724d6,1794768900564/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C464%2C7964%2C4479%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/b64475a1-382a-4615-9c78-6eb0ec5724d6,1794768900564/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C464%2C7964%2C4479%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T21:15:17+00:00"
@@ -386,6 +386,25 @@
    "addedAt": "2026-11-15T18:55:11+00:00"
   },
   {
+   "id": "dfac25a14a0d5e1e",
+   "title": "IIHF confirms Russia not competing at world juniors next month in Alberta",
+   "summary": "The International Ice Hockey Federation has confirmed that Russia will not compete at the 2027 world junior hockey championship in Alberta due to restrictions imposed by the Canadian government.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/sports/hockey/iihf-world-juniors-russia-not-competing-9.7422880?cmp=rss",
+   "date": "2026-11-15T18:39:06+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/ec4d5996-8483-4276-8fd1-66e44b91dfa7,1794770400722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C201%2C3854%2C2167%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T21:24:55+00:00"
+  },
+  {
    "id": "2089f2fd368ae872",
    "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
    "summary": "Total of 75 have already signed letter to Burnham opposing plans as discontent also grows over Europe and welfare changes As many as 100 Labour MPs could sign a letter opposing the giant Rosebank oilfield, as discontent among backbenchers looks likely to…",
@@ -508,25 +527,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:31:57+00:00"
-  },
-  {
-   "id": "e53aa4c11c238d8a",
-   "title": "Trump breaks silence on nationwide ground stop, demands more money for FAA infrastructure from Congress",
-   "summary": "U.S. President Donald Trump on Sunday broke his silence on the nationwide ground stop that snarled airline travel this weekend, using the incident to push Congress on money to fully upgrade America’s air traffic control system.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/trump-faa-ground-stop-9.7422814?cmp=rss",
-   "date": "2026-11-15T17:27:08+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/d49b063c-7c41-4665-9d64-881decb35651,1794761230469/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C272%2C5224%2C2938%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T17:41:14+00:00"
   },
   {
    "id": "e0955fd7534487b8",
@@ -729,9 +729,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/faae74ea-cfac-4e72-9216-e4a294d58f36,1794692777947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C7445%2C4187%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/faae74ea-cfac-4e72-9216-e4a294d58f36,1794692777947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C7445%2C4187%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:13:23+00:00"
@@ -3459,6 +3459,25 @@
    "addedAt": "2026-11-13T22:30:05+00:00"
   },
   {
+   "id": "e53aa4c11c238d8a",
+   "title": "Trump breaks silence on nationwide ground stop, demands more money for FAA infrastructure from Congress",
+   "summary": "",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/trump-faa-ground-stop-9.7422814?cmp=rss",
+   "date": "2026-11-13T22:18:32+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/9b1888da-3753-4706-9398-488e9825ff56,1794777614667/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T17:41:14+00:00"
+  },
+  {
    "id": "968e6c7500c84fdd",
    "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
    "summary": "Anti-corruption agency carried out searches as part of investigation into Orbán-era minister accused of taking bribes Hungary’s anti-corruption agency said on Friday it had seized cash worth $19.5m (£14.8m) buried in forests and hidden elsewhere while…",
@@ -6143,67 +6162,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "d340bfd40898d1ad",
-   "title": "Carney wraps meetings on security, trade with European leaders in Ireland",
-   "summary": "Prime Minister Mark Carney heard from Ukrainian President Volodymyr Zelenskyy on Thursday about the state of negotiations with Russia as the two discussed continental security with European leaders.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/carney-europe-ireland-meetings-9.7419715?cmp=rss",
-   "date": "2026-11-12T21:22:04+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/aa0a8430-7fc9-49ea-8388-1cb0469e421a,1794518130753/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C390%2C7488%2C4212%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "c8d9a2e0d9596feb",
-   "title": "Russian federation head Tretiak says it will seek compensation if barred from world juniors in Alberta",
-   "summary": "Russian hockey federation president Vladislav Tretiak is threatening to seek compensation from Canada and push for the relocation or cancellation of next month's world junior championship in Alberta if Russia is barred from competing.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/sports/hockey/world-juniors-russia-valdislav-tretiak-9.7419768?cmp=rss",
-   "date": "2026-11-12T21:21:01+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/627887fe-e1cb-4c5d-aa34-c26789bdbe68,1794518194949/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C28%2C5098%2C2867%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "7d20d26a2690a64c",
-   "title": "Why Canada has a moral imperative to address homelessness",
-   "summary": "Prime Minister Mark Carney has announced a plan in the 2026 federal budget aimed at eliminating homelessness in the next decade. A statement about the plan says homelessness “strikes at the heart of Canadian values of fairness, solidarity, and human dignity.”",
-   "source": "The Conversation",
-   "url": "https://theconversation.com/why-canada-has-a-moral-imperative-to-address-homelessness-296188",
-   "date": "2026-11-12T21:18:55+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy",
-    "housing"
-   ],
-   "kind": "analysis",
-   "image": {
-    "h": 600,
-    "small": "https://images.theconversation.com/files/771417/original/file-20261111-64-5ypw8y.JPG?ixlib=rb-4.1.1&rect=0%2C512%2C3066%2C1533&q=45&auto=format&h=668&w=640&fit=clip",
-    "url": "https://images.theconversation.com/files/771417/original/file-20261111-64-5ypw8y.JPG?ixlib=rb-4.1.1&rect=0%2C512%2C3066%2C1533&q=45&auto=format&h=668&w=1200&fit=clip",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T02:14:27+00:00"
   }
  ]
 }

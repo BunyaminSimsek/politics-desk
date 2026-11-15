@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T11:06:11+00:00",
+ "generatedAt": "2026-11-15T11:15:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "3b3a2c5fa2731383",
+   "title": "PM Carney in Cambodia for Francophonie summit, will meet Quebec premier Plamondon",
+   "summary": "PHNOM PENH - Prime Minister Mark Carney will meet shortly with Quebec Premier Paul St-Pierre Plamondon at a summit in Cambodia, after the province elected a sovereigntist government.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/quebec/pm-carney-in-cambodia-for-francophonie-summit-will-meet-quebec-premier-plamondon/article_9cc49735-2d9a-51e7-99e8-dbdad6c3f96f.html",
+   "date": "2026-11-15T11:00:15+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/c6/6c69f115-0531-5cad-a3ae-34e8766521d2/6af991e2d8795.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 848,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/c6/6c69f115-0531-5cad-a3ae-34e8766521d2/6af991e2d8795.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T11:15:16+00:00"
+  },
+  {
+   "id": "66a391e1da6f1601",
+   "title": "Freshwater supply challenges threaten Canada's security, internal federal memo says",
+   "summary": "OTTAWA - Pressures on the supply of fresh water pose challenges that will affect Canada's \"long-term security and prosperity\" if left unaddressed, an internal government memo warns.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/freshwater-supply-challenges-threaten-canada-s-security-internal-federal-memo-says/article_c88faf80-54c8-5530-b895-955633471ee8.html",
+   "date": "2026-11-15T11:00:09+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/2d/b2dc80c0-3bec-5a46-bfab-42cab952c3cd/6af991e0aac2d.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/2d/b2dc80c0-3bec-5a46-bfab-42cab952c3cd/6af991e0aac2d.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T11:15:16+00:00"
+  },
   {
    "id": "ee9e0bf7d4069353",
    "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
@@ -214,7 +254,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

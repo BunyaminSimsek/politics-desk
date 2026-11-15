@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T17:04:15+00:00",
+ "generatedAt": "2026-11-15T17:13:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "e8c339acc76cfeba",
+   "title": "‘No such thing as a free lunch,’ says Milburn as he warns it will take a decade for UK benefits bill to come down",
+   "summary": "Author of major review into youth unemployment rejects ‘crude cuts’ to payments and downplays opposition to his proposals within Labour Andy Burnham has pledged to intervene as early as childhood to tackle youth unemployment before a watershed review…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+   "date": "2026-11-15T17:04:55+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Jeff Moore/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c641e402d808f00f61489b84a29a01069fdf14bf/732_0_3668_2934/master/3668.jpg?width=700&quality=85&auto=format&fit=max&s=c4f952aea6893d63203fa318bae4245c",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T13:14:12+00:00"
+  },
+  {
+   "id": "4f8ab4def119ba01",
+   "title": "Czechs rally against plan to switch funding of public media",
+   "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T16:36:42+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d10d/live/fe22eed0-e10e-11f1-b441-2b33b063138f.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d10d/live/fe22eed0-e10e-11f1-b441-2b33b063138f.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T17:13:23+00:00"
+  },
   {
    "id": "77828ca2a56f6add",
    "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
@@ -289,6 +329,27 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T16:27:23+00:00"
+  },
+  {
+   "id": "323de527da9a1a8a",
+   "title": "Carney cites her award-winning book on encampments. She's eyeing his plan to end homelessness",
+   "summary": "One of Canada's leading authors on homelessness says the prime minister’s plan to end it within 10 years is an \"ambitious goal\" that has potential, but won't actually go all the way.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/what-does-carney-s-influence-think-of-homelessness-plan-9.7422419?cmp=rss",
+   "date": "2026-11-15T15:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/faae74ea-cfac-4e72-9216-e4a294d58f36,1794692777947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C7445%2C4187%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T17:13:23+00:00"
   },
   {
    "id": "fae8ab3593688cda",
@@ -482,26 +543,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T13:05:02+00:00"
-  },
-  {
-   "id": "e8c339acc76cfeba",
-   "title": "‘No such thing as a free lunch,’ says Milburn as he warns it will take a decade for UK benefits bill to come down",
-   "summary": "Author of major review into youth unemployment rejects ‘crude cuts’ to payments and downplays opposition to his proposals within Labour Alan Milburn has said “there is no such thing as a free lunch”, in response to critics who believe the government should…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
-   "date": "2026-11-15T12:52:50+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jeff Moore/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c641e402d808f00f61489b84a29a01069fdf14bf/732_0_3668_2934/master/3668.jpg?width=700&quality=85&auto=format&fit=max&s=c4f952aea6893d63203fa318bae4245c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T13:14:12+00:00"
   },
   {
    "id": "f3486dbf09edcc74",
@@ -6267,20 +6308,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "9f7ef5c71e5784ea",
-   "title": "New Democratic lawmakers bring first-day-of-school energy to Capitol Hill",
-   "summary": "And a politics editor, freshly returned to work after parental leave, can relate This was originally published in the Stakes 2026, a newsletter about the midterm elections. Sign up to get it in your inbox Most of us probably remember that feeling we had as…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/12/the-stakes-new-democrats-congress-orientation",
-   "date": "2026-11-12T17:05:55+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00",
-   "kind": "news"
   }
  ]
 }

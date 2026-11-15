@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T21:43:39+00:00",
+ "generatedAt": "2026-11-15T21:52:52+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -309,7 +309,7 @@
   {
    "id": "542b5ebf64de7475",
    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-   "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+   "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T19:32:39+00:00",

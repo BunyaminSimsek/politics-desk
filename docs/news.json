@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T17:13:23+00:00",
+ "generatedAt": "2026-11-15T17:22:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "e0955fd7534487b8",
+   "title": "Greens elect former MP Mike Morrice, the sole candidate, to lead party",
+   "summary": "OTTAWA - The Green Party of Canada has elected former MP Mike Morrice to lead the party -- the sole candidate running in the leadership race.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/greens-elect-former-mp-mike-morrice-the-sole-candidate-to-lead-party/article_f18b573d-36ec-5961-8dd6-ec6db32dbb9c.html",
+   "date": "2026-11-15T17:16:21+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/d7/cd749736-ece4-5fa5-961c-bbee6a27c6d7/6af9e9c3d0f53.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 821,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/d7/cd749736-ece4-5fa5-961c-bbee6a27c6d7/6af9e9c3d0f53.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T17:22:59+00:00"
+  },
+  {
    "id": "e8c339acc76cfeba",
    "title": "‘No such thing as a free lunch,’ says Milburn as he warns it will take a decade for UK benefits bill to come down",
    "summary": "Author of major review into youth unemployment rejects ‘crude cuts’ to payments and downplays opposition to his proposals within Labour Andy Burnham has pledged to intervene as early as childhood to tackle youth unemployment before a watershed review…",
@@ -186,6 +208,26 @@
    "addedAt": "2026-11-15T13:14:12+00:00"
   },
   {
+   "id": "69108f79f000421d",
+   "title": "Somalia: We would not have recovered without the international community",
+   "summary": "Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss",
+   "date": "2026-11-15T16:47:36+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794761249.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794761249.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T17:22:59+00:00"
+  },
+  {
    "id": "4f8ab4def119ba01",
    "title": "Czechs rally against plan to switch funding of public media",
    "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
@@ -197,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d10d/live/fe22eed0-e10e-11f1-b441-2b33b063138f.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d10d/live/fe22eed0-e10e-11f1-b441-2b33b063138f.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d10d/live/fe22eed0-e10e-11f1-b441-2b33b063138f.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d10d/live/fe22eed0-e10e-11f1-b441-2b33b063138f.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:13:23+00:00"
@@ -344,9 +386,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/faae74ea-cfac-4e72-9216-e4a294d58f36,1794692777947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C7445%2C4187%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/faae74ea-cfac-4e72-9216-e4a294d58f36,1794692777947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C7445%2C4187%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:13:23+00:00"
@@ -817,7 +859,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6265,46 +6307,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/6da014ce1ff9a74d0c95194d57c659ad02c869c7/292_0_2917_2333/master/2917.jpg?width=700&quality=85&auto=format&fit=max&s=ecc9f8dbaa9f49452e4a6209b6fa1491",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "6703ae356b8031fd",
-   "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
-   "summary": "This blog is now closed Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises. “I have the privilege…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-   "date": "2026-11-12T17:17:55+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Vyacheslav Prokofyev/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=700&quality=85&auto=format&fit=max&s=3ed15b68a5053009411d97868ebfe46d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "68db99753eb8a865",
-   "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
-   "summary": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
-   "date": "2026-11-12T17:13:54+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7886x5257+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2F00%2F45ae5e5c4173a2bbdfc2feb574d7%2Fgettyimages-2303515786.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7886x5257+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2F00%2F45ae5e5c4173a2bbdfc2feb574d7%2Fgettyimages-2303515786.jpg",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"

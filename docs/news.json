@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T17:31:57+00:00",
+ "generatedAt": "2026-11-15T17:41:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,18 +177,37 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/165c7b34ce2a2c015ffffa474500c94165a9ea1a/182_0_3445_2756/master/3445.jpg?width=700&quality=85&auto=format&fit=max&s=7ff8e5886d411bf7cf3a2c4a1e16ed71",
-    "w": 700,
+    "credit": "Photograph: Mehmet Emin Menguarslan/Anadolu/Getty Images",
     "h": 560,
-    "credit": "Photograph: Mehmet Emin Menguarslan/Anadolu/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/165c7b34ce2a2c015ffffa474500c94165a9ea1a/182_0_3445_2756/master/3445.jpg?width=700&quality=85&auto=format&fit=max&s=7ff8e5886d411bf7cf3a2c4a1e16ed71",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:31:57+00:00"
   },
   {
+   "id": "e53aa4c11c238d8a",
+   "title": "Trump breaks silence on nationwide ground stop, demands more money for FAA infrastructure from Congress",
+   "summary": "U.S. President Donald Trump on Sunday broke his silence on the nationwide ground stop that snarled airline travel this weekend, using the incident to push Congress on money to fully upgrade America’s air traffic control system.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/trump-faa-ground-stop-9.7422814?cmp=rss",
+   "date": "2026-11-15T17:27:08+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/d49b063c-7c41-4665-9d64-881decb35651,1794761230469/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C272%2C5224%2C2938%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T17:41:14+00:00"
+  },
+  {
    "id": "4f8ab4def119ba01",
    "title": "Czechs rally against plan to switch funding of public media",
-   "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
+   "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T17:23:40+00:00",
@@ -197,10 +216,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6233/live/1841dbb0-e118-11f1-a7db-d90284d21c62.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6233/live/1841dbb0-e118-11f1-a7db-d90284d21c62.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6233/live/1841dbb0-e118-11f1-a7db-d90284d21c62.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6233/live/1841dbb0-e118-11f1-a7db-d90284d21c62.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:13:23+00:00"
@@ -239,10 +258,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/b9948bd228b02aa56a0356f2a3f2713b85d83833/290_0_4473_3579/master/4473.jpg?width=700&quality=85&auto=format&fit=max&s=0fb6d45417b97365cf3515989a3692e1",
-    "w": 700,
+    "credit": "Photograph: Temilade Adelaja/Reuters Pool/AP",
     "h": 560,
-    "credit": "Photograph: Temilade Adelaja/Reuters Pool/AP"
+    "url": "https://i.guim.co.uk/img/media/b9948bd228b02aa56a0356f2a3f2713b85d83833/290_0_4473_3579/master/4473.jpg?width=700&quality=85&auto=format&fit=max&s=0fb6d45417b97365cf3515989a3692e1",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T13:14:12+00:00"
@@ -356,7 +375,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -373,8 +392,8 @@
   },
   {
    "id": "6a200cb896d390a0",
-   "title": "Quebec Premier and PM Carney discuss U.S. trade, homelessness at first meeting in Cambodia",
-   "summary": "St-Pierre Plamondon said the meeting ended with federal support for the province's fight against homelessness, and the exchange of personal phone numbers.",
+   "title": "Carney, Quebec premier discuss U.S. trade, homelessness at first meeting in Cambodia",
+   "summary": "Premier Paul St-Pierre Plamondon said the meeting ended with federal support for the province's fight against homelessness, and the exchange of personal phone numbers.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/canada/montreal/paul-st-pierre-plamondon-mark-carney-sommet-de-la-francophonie-9.7422688?cmp=rss",
    "date": "2026-11-15T15:19:25+00:00",
@@ -549,9 +568,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/f1a84f79-683b-42e8-acc2-dbd47cd5ee5d,1794745139501/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/f1a84f79-683b-42e8-acc2-dbd47cd5ee5d,1794745139501/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-15T13:32:35+00:00"

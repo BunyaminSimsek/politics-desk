@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T20:10:07+00:00",
+ "generatedAt": "2026-11-15T20:19:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "80f31c83a773a5c4",
+   "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
+   "summary": "Professor calls on ministers to use awareness triggered by Russell Brand conviction to examine use of rape myths in trials The debate triggered by high profile cases must “pull back the curtain” on the treatment of people making allegations of sexual offences…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
+   "date": "2026-11-15T19:40:23+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/70da16c077d52bf4ba97063e669ba34a16329c85/645_0_2907_2326/master/2907.jpg?width=700&quality=85&auto=format&fit=max&s=0e6a7cf42f23b1a27d4f035857c17825",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Thomas Krych/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T20:19:17+00:00"
+  },
   {
    "id": "542b5ebf64de7475",
    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -6221,46 +6241,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/7e2735b1107647acbe5536f99ccf2d7bb3460cb3/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=c9ff3a16293009b9dcbe3c91e212b67c",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "632e255a45ecb83e",
-   "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
-   "summary": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
-   "date": "2026-11-12T20:12:21+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af6151d6657e-1794512157.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af6151d6657e-1794512157.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "3a60c271307cb7f7",
-   "title": "Democrats gather in Denver to debate party’s future after US midterm wins",
-   "summary": "Majority Democrats’ What’s Next conference brings lawmakers and potential 2028 contenders to Denver.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/12/democrats-gather-in-denver-to-debate-partys-future-after-us-midterm-wins?traffic_source=rss",
-   "date": "2026-11-12T20:10:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af60ba6a291-1794509734.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af60ba6a291-1794509734.jpg?resize=1200%2C800",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"

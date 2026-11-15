@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T12:55:53+00:00",
+ "generatedAt": "2026-11-15T13:05:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "a0e17e8eed2cac70",
+   "title": "‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes",
+   "summary": "Courts have issued stinging rebukes to president’s ‘blatant’ financial ploys as pro-democracy groups defend ‘government of laws, not of men’ pillar Donald Trump’s legal and political ploys to increase his wealth and boost Republican electoral prospects have…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/15/trump-self-enrichment-lawsuits",
+   "date": "2026-11-15T13:00:15+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b8fb44b5eed4db68cd19eb902eec5bae57865a99/0_404_6118_4894/master/6118.jpg?width=700&quality=85&auto=format&fit=max&s=b19b2a4b42231cb6f6c413367c5f0c36",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T13:05:02+00:00"
+  },
   {
    "id": "f3486dbf09edcc74",
    "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
@@ -6237,26 +6257,6 @@
     "h": 800,
     "small": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Ireland-visit.jpg?w=640&h=427&crop=1&quality=70&strip=all",
     "url": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Ireland-visit.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "b492a23bee05e448",
-   "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-   "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T12:56:55+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
     "w": 1200
    },
    "breaking": false,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T05:36:28+00:00",
+ "generatedAt": "2026-11-15T05:45:42+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -307,7 +307,7 @@
   },
   {
    "id": "5bd9f80ca24a46c4",
-   "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+   "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
    "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",

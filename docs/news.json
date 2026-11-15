@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T22:29:26+00:00",
+ "generatedAt": "2026-11-15T22:38:34+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "284b42719cffceaa",
+   "title": "Police ban protests near 10 schools and five universities in Paris",
+   "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T22:28:54+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ff1f/live/556dd490-e13a-11f1-9d9b-d15c0ae9fc2e.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ff1f/live/556dd490-e13a-11f1-9d9b-d15c0ae9fc2e.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T22:38:34+00:00"
+  },
   {
    "id": "e56b32999ec6cd1e",
    "title": "Estonia to close all border crossings with Russia after attack on drone maker",
@@ -335,7 +355,7 @@
    "summary": "OTTAWA - An aviation management expert says Canada is less likely than the United States to ground flights nationwide as that country did on Friday afternoon, calling the Canadian system a model its southern neighbours should look to.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/flight-ground-stop-in-canada-like-the-faa-s-on-friday-unlikely-aviation-expert/article_d6e0a6ff-bc7c-5aaa-9806-9d1f304ffd96.html",
-   "date": "2026-11-15T20:18:27+00:00",
+   "date": "2026-11-15T20:18:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -1257,7 +1277,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T21:24:55+00:00",
+ "generatedAt": "2026-11-15T21:34:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "Global News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 26
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "9f1c366e6251cf4f",
+   "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+   "summary": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+   "date": "2026-11-15T21:19:08+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794777486.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794777486.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T21:34:23+00:00"
+  },
   {
    "id": "f9aea1ae981ba04e",
    "title": "Carney sets out to deepen ties with China. Has the threat landscape changed?",
@@ -397,9 +417,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/ec4d5996-8483-4276-8fd1-66e44b91dfa7,1794770400722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C201%2C3854%2C2167%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/ec4d5996-8483-4276-8fd1-66e44b91dfa7,1794770400722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C201%2C3854%2C2167%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T21:24:55+00:00"
@@ -679,7 +699,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -3460,7 +3480,7 @@
   },
   {
    "id": "e53aa4c11c238d8a",
-   "title": "Trump breaks silence on nationwide ground stop, demands more money for FAA infrastructure from Congress",
+   "title": "Trump breaks silence on U.S. ground stop, demands more money for FAA upgrades from Congress",
    "summary": "",
    "source": "CBC World",
    "url": "https://www.cbc.ca/news/world/trump-faa-ground-stop-9.7422814?cmp=rss",
@@ -3470,9 +3490,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9b1888da-3753-4706-9398-488e9825ff56,1794777614667/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9b1888da-3753-4706-9398-488e9825ff56,1794777614667/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:41:14+00:00"
@@ -6142,26 +6162,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "30422336e57e781b",
-   "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
-   "summary": "Ghana kick-start their Afcon 2027 qualifying campaign despite Jordan Ayew having a penalty saved, while Cameroon, Ivory Coast and Senegal register wins.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T21:28:06+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4161/live/c73c90e0-deb8-11f1-8fb5-a771a656a227.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4161/live/c73c90e0-deb8-11f1-8fb5-a771a656a227.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   }
  ]
 }

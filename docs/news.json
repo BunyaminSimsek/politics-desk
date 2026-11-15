@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T03:55:42+00:00",
+ "generatedAt": "2026-11-15T04:04:56+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "75769902a23d6ada",
+   "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
+   "summary": "Prime minister says he and Chris Bowen were having ‘light-hearted banter’ when they were caught discussing where they keep their phones Anthony Albanese has apologised for a hot-mic gaffe at the UN climate talks in Turkey, saying he regretted being overheard…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
+   "date": "2026-11-15T03:49:21+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/4234ff2cadfb5b400fae76732ca4c673a2b713e6/639_0_6877_5501/master/6877.jpg?width=700&quality=85&auto=format&fit=max&s=c91af5ba67a35d9fe9e9e4d7b747cc79",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lukas Coch/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T04:04:56+00:00"
+  },
   {
    "id": "bfaf045cc0ef69f3",
    "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",

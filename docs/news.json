@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T15:31:56+00:00",
+ "generatedAt": "2026-11-15T15:41:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -345,9 +345,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/f1a84f79-683b-42e8-acc2-dbd47cd5ee5d,1794745139501/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/f1a84f79-683b-42e8-acc2-dbd47cd5ee5d,1794745139501/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-15T13:32:35+00:00"

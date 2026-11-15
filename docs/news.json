@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T22:38:34+00:00",
+ "generatedAt": "2026-11-15T22:47:42+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 26
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,29 @@
  ],
  "items": [
   {
+   "id": "e250b731f69f6bf3",
+   "title": "Canadians aren’t sold on the budget or a trade deal with Trump: Ipsos",
+   "summary": "A new Ipsos poll for Global News found Canadians believe the federal budget will have a greater impact than the U.S. midterms, but most remain indifferent toward the budget.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12151989/canadians-arent-sold-on-budget-or-trade-deal-with-trump-ipsos/",
+   "date": "2026-11-15T22:45:25+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade",
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-and-Trump-e1793819265438.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-and-Trump-e1793819265438.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T22:47:42+00:00"
+  },
+  {
    "id": "284b42719cffceaa",
    "title": "Police ban protests near 10 schools and five universities in Paris",
    "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
@@ -177,10 +200,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ff1f/live/556dd490-e13a-11f1-9d9b-d15c0ae9fc2e.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ff1f/live/556dd490-e13a-11f1-9d9b-d15c0ae9fc2e.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ff1f/live/556dd490-e13a-11f1-9d9b-d15c0ae9fc2e.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ff1f/live/556dd490-e13a-11f1-9d9b-d15c0ae9fc2e.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-15T22:38:34+00:00"
@@ -759,7 +782,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

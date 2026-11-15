@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T09:16:21+00:00",
+ "generatedAt": "2026-11-15T09:25:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -529,16 +529,14 @@
   },
   {
    "id": "2fcbbe5c71bc9a55",
-   "title": "Iran war live: Saudi-led coalition strikes down 3 drones",
-   "summary": "Saudi-led coalition says it shot down three Houthi drones in as many hours; Iran says it targeted US base in Bahrain.",
+   "title": "Iran war live: Bahrain targeted as Gulf nations warned against US support",
+   "summary": "Bahrain says it intercepted 'treacherous' Iranian attacks as tensions rise over heightened strikes in the Gulf.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
    "date": "2026-11-15T00:00:08+00:00",
    "topic": "mideast",
    "region": "world",
-   "tags": [
-    "defence"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
     "h": 800,

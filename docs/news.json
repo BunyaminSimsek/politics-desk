@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T09:43:54+00:00",
+ "generatedAt": "2026-11-15T09:53:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "5430714d670ada0c",
+   "title": "UK government to consider changing age of consent after allegations against Russell Brand",
+   "summary": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman waived her right to anonymity to publicly claim she was raped…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+   "date": "2026-11-15T09:31:32+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Brook Mitchell/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/238_0_2742_2194/master/2742.jpg?width=700&quality=85&auto=format&fit=max&s=0d792b817c61d35470c5201de168cd53",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T00:34:11+00:00"
+  },
   {
    "id": "df7ed9871a575bc8",
    "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
@@ -466,26 +486,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T02:14:41+00:00"
-  },
-  {
-   "id": "5430714d670ada0c",
-   "title": "UK government to consider changing age of consent after allegations against Russell Brand",
-   "summary": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman waived her right to anonymity to publicly claim she was raped…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
-   "date": "2026-11-15T00:17:14+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brook Mitchell/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/238_0_2742_2194/master/2742.jpg?width=700&quality=85&auto=format&fit=max&s=0d792b817c61d35470c5201de168cd53",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T00:34:11+00:00"
   },
   {
    "id": "e7e42593e733e6bb",

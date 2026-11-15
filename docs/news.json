@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T14:18:47+00:00",
+ "generatedAt": "2026-11-15T14:27:51+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "fae8ab3593688cda",
+   "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+   "summary": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+   "date": "2026-11-15T14:02:08+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9a12272f26-1794744610.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9a12272f26-1794744610.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T14:27:51+00:00"
+  },
+  {
    "id": "bb8244e474ffb673",
    "title": "‘We gotta do something’: the coalition that helped elect Scott Colom to Senate",
    "summary": "Behind the Mississippi senator-elect’s victory is a coalition of groups that didn’t have a lot of money, but had collective power and post-Callais anger Long before national political leaders and media were paying any attention, long before the Louisiana v…",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9a8eb652e4a76165df6393bca4f6d5dc04003a64/275_0_2802_2241/master/2802.jpg?width=700&quality=85&auto=format&fit=max&s=717ff035ee1d6599a10dceb390ec4f7f",
-    "w": 700,
+    "credit": "Photograph: Ellen Schmidt/AP",
     "h": 560,
-    "credit": "Photograph: Ellen Schmidt/AP"
+    "url": "https://i.guim.co.uk/img/media/9a8eb652e4a76165df6393bca4f6d5dc04003a64/275_0_2802_2241/master/2802.jpg?width=700&quality=85&auto=format&fit=max&s=717ff035ee1d6599a10dceb390ec4f7f",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T14:18:47+00:00"
@@ -199,10 +219,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a8ffd0f4a6649fa47da73c0c7e9820fde6e754cc/198_0_4099_3280/master/4099.jpg?width=700&quality=85&auto=format&fit=max&s=f3397a1f742fd82e90f5cb078a91cd99",
-    "w": 700,
+    "credit": "Photograph: Dan Himbrechts/AAP",
     "h": 560,
-    "credit": "Photograph: Dan Himbrechts/AAP"
+    "url": "https://i.guim.co.uk/img/media/a8ffd0f4a6649fa47da73c0c7e9820fde6e754cc/198_0_4099_3280/master/4099.jpg?width=700&quality=85&auto=format&fit=max&s=f3397a1f742fd82e90f5cb078a91cd99",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T14:18:47+00:00"
@@ -653,7 +673,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T20:00:58+00:00",
+ "generatedAt": "2026-11-15T20:10:07+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "BBC News",
@@ -118,14 +118,14 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/092370dd24a52c58bc3c62c308a112aa0c5eccdc/426_0_2757_2206/master/2757.jpg?width=700&quality=85&auto=format&fit=max&s=e7113e4e6f4aa78de2544bee6370ba3e",
-    "w": 700,
+    "credit": "Photograph: LPhot Jaden Lovelady/UK MOD Crown copyright",
     "h": 560,
-    "credit": "Photograph: LPhot Jaden Lovelady/UK MOD Crown copyright"
+    "url": "https://i.guim.co.uk/img/media/092370dd24a52c58bc3c62c308a112aa0c5eccdc/426_0_2757_2206/master/2757.jpg?width=700&quality=85&auto=format&fit=max&s=e7113e4e6f4aa78de2544bee6370ba3e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:28:25+00:00"
@@ -6261,25 +6261,6 @@
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af60ba6a291-1794509734.jpg?resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af60ba6a291-1794509734.jpg?resize=1200%2C800",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "928e3df917efe396",
-   "title": "Feds won't appeal Alberta court ruling that Impact Assessment Act is unconstitutional",
-   "summary": "The Alberta Court of Appeal said parts of the law still infringe on provincial jurisdiction, despite modifications made by Ottawa after the Supreme Court struck down much of the law in 2023.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/canada/calgary/feds-not-appealing-impact-assessment-act-alberta-9.7419625?cmp=rss",
-   "date": "2026-11-12T20:07:52+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/f6e92dd4-6106-4039-9915-b2a1c62465b1,1794513768698/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C346%2C5281%2C2970%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"

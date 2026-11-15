@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T14:09:39+00:00",
+ "generatedAt": "2026-11-15T14:18:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "bb8244e474ffb673",
+   "title": "‘We gotta do something’: the coalition that helped elect Scott Colom to Senate",
+   "summary": "Behind the Mississippi senator-elect’s victory is a coalition of groups that didn’t have a lot of money, but had collective power and post-Callais anger Long before national political leaders and media were paying any attention, long before the Louisiana v…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/15/coalition-scott-colom-mississippi-senate-win",
+   "date": "2026-11-15T14:00:20+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9a8eb652e4a76165df6393bca4f6d5dc04003a64/275_0_2802_2241/master/2802.jpg?width=700&quality=85&auto=format&fit=max&s=717ff035ee1d6599a10dceb390ec4f7f",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Ellen Schmidt/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T14:18:47+00:00"
+  },
+  {
+   "id": "13d9bad496d7dcd2",
+   "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
+   "summary": "Defence briefing released under freedom of information laws shows ADF beholden to US directives when in training Get our breaking news email , free app or daily news podcast Aukus is effectively forcing the Australian navy to comply with a US ban on…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
+   "date": "2026-11-15T14:00:19+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/a8ffd0f4a6649fa47da73c0c7e9820fde6e754cc/198_0_4099_3280/master/4099.jpg?width=700&quality=85&auto=format&fit=max&s=f3397a1f742fd82e90f5cb078a91cd99",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Dan Himbrechts/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T14:18:47+00:00"
+  },
+  {
    "id": "365c61c687d5e337",
    "title": "Iran targets US military base in Bahrain with drone attack",
    "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
@@ -179,10 +221,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/adcc/live/783de3c0-e0f4-11f1-b441-2b33b063138f.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/adcc/live/783de3c0-e0f4-11f1-b441-2b33b063138f.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/adcc/live/783de3c0-e0f4-11f1-b441-2b33b063138f.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/adcc/live/783de3c0-e0f4-11f1-b441-2b33b063138f.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-15T14:09:39+00:00"
@@ -611,7 +653,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

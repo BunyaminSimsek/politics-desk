@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T19:04:46+00:00",
+ "generatedAt": "2026-11-15T19:14:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "e2c24991db38b9de",
+   "title": "Trident nuclear submarine concludes record underwater deployment",
+   "summary": "HMS Vengeance’s seven-month patrol prompts concerns about slow pace of maintenance of ageing fleet and impact on crew A Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland where its crew was…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
+   "date": "2026-11-15T18:50:33+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: POphot Barry Wheeler/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f5e678146cc65995b5212627db9370abe77833fe/487_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=a29c767c34245eb017477969c9d03e8b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T12:28:25+00:00"
+  },
+  {
    "id": "1a494e829a22de51",
    "title": "Satellite limitations imposed by Musk's SpaceX pose danger for Ukraine, Zelenskyy says",
    "summary": "Ukraine President Volodymyr Zelenskyy warned that limitations on the Starshield satellite system, operated by Elon Musk's SpaceX, could weaken defences around Ukraine's energy infrastructure ahead of the winter months, when Moscow has repeatedly targeted the…",
@@ -177,9 +197,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/a72f00f9-417e-467b-86f4-6cb54435e4cf,1794766503372/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C158%2C8192%2C4608%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/a72f00f9-417e-467b-86f4-6cb54435e4cf,1794766503372/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C158%2C8192%2C4608%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T19:04:46+00:00"
@@ -558,7 +578,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -608,9 +628,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/faae74ea-cfac-4e72-9216-e4a294d58f36,1794692777947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C7445%2C4187%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/faae74ea-cfac-4e72-9216-e4a294d58f36,1794692777947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C7445%2C4187%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:13:23+00:00"
@@ -866,26 +886,6 @@
    "addedAt": "2026-11-15T12:37:34+00:00"
   },
   {
-   "id": "e2c24991db38b9de",
-   "title": "Trident nuclear submarine concludes record underwater deployment",
-   "summary": "HMS Vengeance’s seven-month patrol prompts concerns about slow pace of maintenance of ageing fleet and impact on crew A Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland, where its crew…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
-   "date": "2026-11-15T12:09:32+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: POphot Barry Wheeler/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f5e678146cc65995b5212627db9370abe77833fe/487_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=a29c767c34245eb017477969c9d03e8b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T12:28:25+00:00"
-  },
-  {
    "id": "d0987560f0569a77",
    "title": "Black voters helped Democrats win in Georgia. Now they expect to be heard",
    "summary": "Activists have been shouting about economic issues for years – in January they will expect lawmakers to respond Stonecrest is resolutely middle class.",
@@ -1096,7 +1096,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

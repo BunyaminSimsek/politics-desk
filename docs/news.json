@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T19:14:18+00:00",
+ "generatedAt": "2026-11-15T19:23:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "The Guardian",
@@ -578,7 +578,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -628,9 +628,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/faae74ea-cfac-4e72-9216-e4a294d58f36,1794692777947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C7445%2C4187%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/faae74ea-cfac-4e72-9216-e4a294d58f36,1794692777947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C7445%2C4187%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:13:23+00:00"
@@ -1096,7 +1096,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6326,26 +6326,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "81bafa2c40e58071",
-   "title": "Feds won't appeal Alberta court ruling that Impact Assessment Act is unconstitutional",
-   "summary": "OTTAWA - The federal government says it won't appeal a recent court decision which declared some of the Impact Assessment Act unconstitutional.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/feds-won-t-appeal-alberta-court-ruling-that-impact-assessment-act-is-unconstitutional/article_fb461718-98fc-5f9b-824c-20c7237fefae.html",
-   "date": "2026-11-12T19:22:21+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/38/c38b5260-420e-5c06-869f-d48e2b3af433/6af6128f3ef8a.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/38/c38b5260-420e-5c06-869f-d48e2b3af433/6af6128f3ef8a.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   }
  ]
 }

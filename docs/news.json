@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T22:02:00+00:00",
+ "generatedAt": "2026-11-15T22:11:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -699,7 +699,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -6076,28 +6076,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "d53a88383be04f3e",
-   "title": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
-   "summary": "Home Office sign-off also needed for site that would house 1,200 asylum seekers near Oxfordshire village that voted to leave UK The communities secretary, Angela Rayner, has approved full planning permission for an asylum centre at a Ministry of Defence site…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
-   "date": "2026-11-12T22:09:20+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Joe Giddens/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/695a6431fe2e7b78ffe681e171e15126f6ac3fee/195_0_4120_3296/master/4120.jpg?width=700&quality=85&auto=format&fit=max&s=23b1bb492b47993999fe0d4a6915ccd2",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   }
  ]
 }

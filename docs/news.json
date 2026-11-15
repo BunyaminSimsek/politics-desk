@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T12:37:34+00:00",
+ "generatedAt": "2026-11-15T12:46:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "f3486dbf09edcc74",
+   "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+   "summary": "Tehran says its air attacks on countries cooperating with the US are justified under international law.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
+   "date": "2026-11-15T12:36:19+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-06-10T064710Z_1848366708_RC2UQLAHVGZK_RTRMADP_3_IRAN-CRISIS-MISSILE-1794739589.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-06-10T064710Z_1848366708_RC2UQLAHVGZK_RTRMADP_3_IRAN-CRISIS-MISSILE-1794739589.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T12:46:44+00:00"
+  },
+  {
    "id": "12b449161b783754",
    "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
    "summary": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet Iranian media are reporting that their Foreign Minister Abbas Araqchi will be in Oman on Tuesday for talks with his Omani counterpart.",
@@ -201,10 +221,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794744924.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794744924.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794744924.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794744924.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:37:34+00:00"

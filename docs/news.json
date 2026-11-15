@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T08:03:03+00:00",
+ "generatedAt": "2026-11-15T08:12:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "df7ed9871a575bc8",
+   "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
+   "summary": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
+   "date": "2026-11-15T08:07:08+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315082167925-1794647864.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315082167925-1794647864.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T08:12:09+00:00"
+  },
   {
    "id": "9794cb09693ea3e8",
    "title": "ASEAN summit: Who’s attending and what’s at stake?",

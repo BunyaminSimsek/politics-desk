@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T19:23:50+00:00",
+ "generatedAt": "2026-11-15T19:33:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "542b5ebf64de7475",
+   "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+   "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-15T19:32:39+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T18:08:59+00:00"
+  },
   {
    "id": "e2c24991db38b9de",
    "title": "Trident nuclear submarine concludes record underwater deployment",
@@ -305,26 +325,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T18:55:11+00:00"
-  },
-  {
-   "id": "542b5ebf64de7475",
-   "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-   "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-15T18:08:20+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T18:08:59+00:00"
   },
   {
    "id": "b1bff789f70395db",
@@ -578,7 +578,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -6307,25 +6307,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T02:14:27+00:00"
-  },
-  {
-   "id": "ce88e63efc60fb82",
-   "title": "Will U.S. travel pick up after midterm 'blue wave'? Not so fast, say these Canadians",
-   "summary": "Travel from Canada to the U.S. dropped amid President Donald Trump's threats and trade war. While many Canadians view the Democratic Party's midterm election victory as an 'encouraging' sign, they say it's too soon to visit the U.S.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/world/us-travel-midterms-9.7417876?cmp=rss",
-   "date": "2026-11-12T19:24:05+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/bd3e0cdf-9ea1-42c3-93e7-f94fb8e68df5,1794510671097/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4933%2C2774%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   }
  ]
 }

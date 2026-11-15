@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T15:22:49+00:00",
+ "generatedAt": "2026-11-15T15:31:56+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,34 +166,12 @@
  ],
  "items": [
   {
-   "id": "17115dd308c864fe",
-   "title": "Was a kinder fate possible for Marineland’s animals? How the planning process failed them",
-   "summary": "Peekachu, Rain, Osiris, Caspian, Jellybean and Cyprus are dead . They were six of the 30 beluga whales removed from Marineland in Niagara Falls earlier this year. Echo is dead too. She was one of the four dolphins who were also removed around the same time.",
-   "source": "The Conversation",
-   "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
-   "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [
-    "housing"
-   ],
-   "kind": "analysis",
-   "image": {
-    "url": "https://images.theconversation.com/files/771208/original/file-20261110-78-bun75t.JPG?ixlib=rb-4.1.1&rect=0%2C835%2C5000%2C2500&q=45&auto=format&h=668&w=1200&fit=clip",
-    "w": 1200,
-    "h": 600,
-    "small": "https://images.theconversation.com/files/771208/original/file-20261110-78-bun75t.JPG?ixlib=rb-4.1.1&rect=0%2C835%2C5000%2C2500&q=45&auto=format&h=668&w=640&fit=clip"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T15:22:49+00:00"
-  },
-  {
    "id": "12b449161b783754",
    "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
    "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-   "date": "2026-11-15T15:16:41+00:00",
+   "date": "2026-11-15T15:24:35+00:00",
    "topic": "mideast",
    "region": "world",
    "tags": [
@@ -208,6 +186,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:28:25+00:00"
+  },
+  {
+   "id": "17115dd308c864fe",
+   "title": "Was a kinder fate possible for Marineland’s animals? How the planning process failed them",
+   "summary": "Peekachu, Rain, Osiris, Caspian, Jellybean and Cyprus are dead . They were six of the 30 beluga whales removed from Marineland in Niagara Falls earlier this year. Echo is dead too. She was one of the four dolphins who were also removed around the same time.",
+   "source": "The Conversation",
+   "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
+   "date": "2026-11-15T15:20:51+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [
+    "housing"
+   ],
+   "kind": "analysis",
+   "image": {
+    "h": 600,
+    "small": "https://images.theconversation.com/files/771208/original/file-20261110-78-bun75t.JPG?ixlib=rb-4.1.1&rect=0%2C835%2C5000%2C2500&q=45&auto=format&h=668&w=640&fit=clip",
+    "url": "https://images.theconversation.com/files/771208/original/file-20261110-78-bun75t.JPG?ixlib=rb-4.1.1&rect=0%2C835%2C5000%2C2500&q=45&auto=format&h=668&w=1200&fit=clip",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T15:22:49+00:00"
   },
   {
    "id": "fae8ab3593688cda",
@@ -950,7 +950,7 @@
   },
   {
    "id": "bfaf045cc0ef69f3",
-   "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+   "title": "Trump barred from closing 'Trash Island' golf course on Sunday",
    "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",

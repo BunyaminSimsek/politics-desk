@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T06:40:45+00:00",
+ "generatedAt": "2026-11-15T06:49:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -6314,48 +6314,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "4cfb083805a2cda7",
-   "title": "Mississippians rejoice after Scott Colom victory: ‘God came back and gave us all the marvels’",
-   "summary": "When he finally arrived at his victory party, Colom walked out to TI’s Let ‘Em Know. The audience, still galvanized even after hours of standing, roared How Scott Colom won deep-red Mississippi with little help from Democrats About a thousand people gathered…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/12/scott-colom-celebrates-mississippi-senate-win-victory-party-speech",
-   "date": "2026-11-12T06:47:20+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brandon Bell/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/84dd1f38b6ef8c044c97ea4a9e9d68308683b77d/0_0_6446_5157/master/6446.jpg?width=700&quality=85&auto=format&fit=max&s=d8fcfc251fcc1d70b9b77188f09ac402",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "2d88c88109c5c9e2",
-   "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-   "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-   "date": "2026-11-12T06:43:31+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ritchie B Tongo/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=700&quality=85&auto=format&fit=max&s=a2a630c0071a95bec0507a351eb3a467",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
   }
  ]
 }

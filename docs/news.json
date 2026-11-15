@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T18:55:11+00:00",
+ "generatedAt": "2026-11-15T19:04:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "Global News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "1a494e829a22de51",
+   "title": "Satellite limitations imposed by Musk's SpaceX pose danger for Ukraine, Zelenskyy says",
+   "summary": "Ukraine President Volodymyr Zelenskyy warned that limitations on the Starshield satellite system, operated by Elon Musk's SpaceX, could weaken defences around Ukraine's energy infrastructure ahead of the winter months, when Moscow has repeatedly targeted the…",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/ukraine-russia-energy-winter-zelenskyy-musk-spacex-starshield-9.7422871?cmp=rss",
+   "date": "2026-11-15T18:49:18+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/a72f00f9-417e-467b-86f4-6cb54435e4cf,1794766503372/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C158%2C8192%2C4608%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T19:04:46+00:00"
+  },
+  {
    "id": "31f9953a2058ee85",
    "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
    "summary": "Mississippi Democrat points to commitments Trump made: lower prices, halt endless wars and release Epstein files After recently becoming the first Mississippi Democrat elected to the US Senate in more than four decades, Scott Colom pledged to try to ensure…",
@@ -177,10 +196,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/4abbdc3b45c3f90c56abf04023eb18752ef75fce/750_0_6515_5212/master/6515.jpg?width=700&quality=85&auto=format&fit=max&s=26179ae3599f9e7c4782fa378d0785a4",
-    "w": 700,
+    "credit": "Photograph: Brandon Bell/Getty Images",
     "h": 560,
-    "credit": "Photograph: Brandon Bell/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/4abbdc3b45c3f90c56abf04023eb18752ef75fce/750_0_6515_5212/master/6515.jpg?width=700&quality=85&auto=format&fit=max&s=26179ae3599f9e7c4782fa378d0785a4",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T18:55:11+00:00"
@@ -197,10 +216,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/6e0a2c263ff4be7091b975eef0135a62230b8800/0_103_4566_3653/master/4566.jpg?width=700&quality=85&auto=format&fit=max&s=b15b3ca0318527658a27d4606a88a4d9",
-    "w": 700,
+    "credit": "Photograph: Kevin Mohatt/Reuters",
     "h": 560,
-    "credit": "Photograph: Kevin Mohatt/Reuters"
+    "url": "https://i.guim.co.uk/img/media/6e0a2c263ff4be7091b975eef0135a62230b8800/0_103_4566_3653/master/4566.jpg?width=700&quality=85&auto=format&fit=max&s=b15b3ca0318527658a27d4606a88a4d9",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T18:55:11+00:00"
@@ -260,9 +279,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/a2274a0c-7a7a-44f9-91e9-0050c8622a4c,1794764810023/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5381%2C3026%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/a2274a0c-7a7a-44f9-91e9-0050c8622a4c,1794764810023/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5381%2C3026%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T18:55:11+00:00"
@@ -6323,68 +6342,6 @@
     "h": 800,
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/38/c38b5260-420e-5c06-869f-d48e2b3af433/6af6128f3ef8a.image.jpg?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/38/c38b5260-420e-5c06-869f-d48e2b3af433/6af6128f3ef8a.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
-  },
-  {
-   "id": "633d5f2300bbfb2e",
-   "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
-   "summary": "President says vice-president will focus on supposed ‘Massive Corruption and Crime taking place in Democrat run Cities and States’ US politics live – latest updates Donald Trump has said that the US is no longer seeking a deal to end the war with Iran and…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
-   "date": "2026-11-12T19:01:16+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kylie Cooper/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b6079a2bff857f65facec7ffe5790f80f7acf1cd/387_0_4197_3357/master/4197.jpg?width=700&quality=85&auto=format&fit=max&s=7435b03da3f157cdd59544793195c093",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "9d091952c713aca6",
-   "title": "Mississippi makes history with Democrat Scott Colom’s Senate win - The Latest",
-   "summary": "Mississippi has elected the Democrat Scott Colom in a historic race in the traditionally deep-red state, making him its first Black senator since shortly after the US civil war.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/video/2026/nov/12/mississippi-makes-history-with-democrat-scott-coloms-senate-win-the-latest",
-   "date": "2026-11-12T19:00:53+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brandon Bell/Getty",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/71ef2a037533b72a7f025ad8b1424b22a76c02d9/0_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=e3ff37d9e8e9e5fdb77b5418d1aeac51",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "a01eb9159d0833a9",
-   "title": "Ex-minister Bailey calls B.C. election drubbing a 'harsh judgment' of inauthentic Eby",
-   "summary": "VICTORIA - One of David Eby's former top lieutenants said he came across as inauthentic during the BC NDP's failed election campaign, calling last month's crushing defeat a \"harsh judgment\" on the outgoing premier's leadership and his decision to call…",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/british-columbia/former-b-c-minister-bailey-says-david-eby-was-inauthentic-during-failed-campaign/article_7c8282f5-4869-5411-918d-d477da6ef812.html",
-   "date": "2026-11-12T18:59:21+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 789,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/ee/bee472af-bd73-5f88-aaa2-1a22674797b0/6a7a17812cb77.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/ee/bee472af-bd73-5f88-aaa2-1a22674797b0/6a7a17812cb77.image.jpg?resize=1200%2C",
     "w": 1200
    },
    "breaking": false,

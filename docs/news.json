@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T13:51:25+00:00",
+ "generatedAt": "2026-11-15T14:00:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -168,7 +168,7 @@
   {
    "id": "50802ce12c20c7d7",
    "title": "Poundland pins rescue hopes on Yorkshire Tea, Pot Noodle and Gloria Gaynor",
-   "summary": "Chain restocks stores in operation named after singer of I will Survive after US owners release funds Poundland’s under-fire US owners have released funds to help the stricken discount chain restock shelves temporarily, keeping hopes of a rescue deal alive in…",
+   "summary": "Chain restocks stores in operation named after singer of I Will Survive after US owners release funds Poundland’s under-fire US owners have released funds to help the stricken discount chain restock shelves temporarily, keeping hopes of a rescue deal alive in…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/15/poundland-pins-rescue-hopes-on-yorkshire-tea-pot-noodle-and-gloria-gaynor",
    "date": "2026-11-15T13:41:01+00:00",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/0d2f7534afa128e24bf7652d723765d65c52efcc/536_430_3761_3012/master/3761.jpg?width=700&quality=85&auto=format&fit=max&s=6cfe1b97af9427cd2670cbc4c199bed9",
-    "w": 700,
+    "credit": "Photograph: Hannah McKay/Reuters",
     "h": 561,
-    "credit": "Photograph: Hannah McKay/Reuters"
+    "url": "https://i.guim.co.uk/img/media/0d2f7534afa128e24bf7652d723765d65c52efcc/536_430_3761_3012/master/3761.jpg?width=700&quality=85&auto=format&fit=max&s=6cfe1b97af9427cd2670cbc4c199bed9",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T13:51:25+00:00"
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af715a9cd6a9-1794577833.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af715a9cd6a9-1794577833.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af715a9cd6a9-1794577833.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af715a9cd6a9-1794577833.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-15T13:51:25+00:00"
@@ -6311,26 +6311,6 @@
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00",
    "kind": "news"
-  },
-  {
-   "id": "d3df9bf62cbca22d",
-   "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-   "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T13:58:49+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6cf6/live/b6195780-de9a-11f1-a701-fddedf244c16.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6cf6/live/b6195780-de9a-11f1-a701-fddedf244c16.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   }
  ]
 }

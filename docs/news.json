@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T01:56:21+00:00",
+ "generatedAt": "2026-11-15T02:05:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "41dd9117e0fa7c73",
+   "title": "Carney awarded ‘Democracy Medal’ by global group of political strategists",
+   "summary": "A group of global political consultants and strategists say Prime Minister Mark Carney's \"clarity\" and \"calm and clear thinking\" was worthy of international recognition.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12151482/carney-awarded-democracy-medal-by-global-group-of-political-strategists/",
+   "date": "2026-11-15T01:58:16+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/01/CP175653730-e1768927793200.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/01/CP175653730-e1768927793200.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T02:05:37+00:00"
+  },
   {
    "id": "00eede577e4b59fd",
    "title": "Netanyahu sends plea to Eisenkot for unity government",
@@ -6129,26 +6149,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/edaf20607ad86d1eaeb652f3e3941f4f2ea5bc51/193_0_5785_4627/master/5785.jpg?width=700&quality=85&auto=format&fit=max&s=e7b803366ebaae2b79bc593842e27c69",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "a894d2e08a8d02f2",
-   "title": "Why Democrat Scott Colom’s win in Mississippi Senate race is so significant",
-   "summary": "Colom's victory makes him the first black person from the state to be elected to the US Senate in more than 140 years.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cjy5x42p3qzko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T02:02:37+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/54a1/live/51564b90-de3c-11f1-b441-2b33b063138f.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/54a1/live/51564b90-de3c-11f1-b441-2b33b063138f.jpg",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"

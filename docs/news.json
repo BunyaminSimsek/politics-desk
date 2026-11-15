@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T17:41:14+00:00",
+ "generatedAt": "2026-11-15T17:50:48+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 3
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "2b743f026fc35e84",
+   "title": "Iran launches drone attacks against US military base in Bahrain",
+   "summary": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+   "date": "2026-11-15T17:36:09+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=700&quality=85&auto=format&fit=max&s=2f0d65607416fe8fe74941d3c4c56dfe",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Mazen Mahdi/EPA/Shutterstock"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T17:50:48+00:00"
+  },
+  {
    "id": "7f58595b876a1403",
    "title": "The Guardian view on Cop31: the green transition must not be derailed | Editorial",
    "summary": "Renewed commitments to electrification and climate science are vital outcomes from the latest round of UN talks The Cop31 climate talks have acquired something their delegates scarcely expected: a little political breathing space.",
@@ -197,9 +219,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d49b063c-7c41-4665-9d64-881decb35651,1794761230469/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C272%2C5224%2C2938%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d49b063c-7c41-4665-9d64-881decb35651,1794761230469/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C272%2C5224%2C2938%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:41:14+00:00"
@@ -375,7 +397,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -568,9 +590,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f1a84f79-683b-42e8-acc2-dbd47cd5ee5d,1794745139501/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f1a84f79-683b-42e8-acc2-dbd47cd5ee5d,1794745139501/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T13:32:35+00:00"
@@ -913,7 +935,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6340,26 +6362,6 @@
     "credit": "Photograph: Kylie Cooper/Reuters",
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/79757adb826f69461c2e82c8b5fb08b11c578c41/809_0_4055_3243/master/4055.jpg?width=700&quality=85&auto=format&fit=max&s=cd474a6994141c8d917b31ed242aaf28",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "0470363cd19cb5df",
-   "title": "Mississippi makes history with Democrat Senate win - The Latest",
-   "summary": "Mississippi has elected the Democrat Scott Colom in a historic race in the traditionally deep-red state, making him its first Black senator since shortly after the US civil war. The closely contested race was called more than a week after the US midterms…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/audio/2026/nov/12/scott-colom-senate-victory-mississippi-the-latest",
-   "date": "2026-11-12T17:42:03+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lauren Witte/Clarion Ledger/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6da014ce1ff9a74d0c95194d57c659ad02c869c7/292_0_2917_2333/master/2917.jpg?width=700&quality=85&auto=format&fit=max&s=ecc9f8dbaa9f49452e4a6209b6fa1491",
     "w": 700
    },
    "breaking": false,

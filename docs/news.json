@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T18:08:59+00:00",
+ "generatedAt": "2026-11-15T18:18:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -168,7 +168,7 @@
   {
    "id": "542b5ebf64de7475",
    "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-   "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian missiles.",
+   "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T18:08:20+00:00",
@@ -177,13 +177,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-15T18:08:59+00:00"
+  },
+  {
+   "id": "b1bff789f70395db",
+   "title": "Mark Carney defuses tensions with Quebec premier before facing Xi, Putin and Trump at APEC",
+   "summary": "The prime minister described his conversation with Paul St-Pierre Plamondon as 'fun,' constructive and respectful.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/analysis/mark-carney-defuses-tensions-with-quebec-premier-before-facing-xi-putin-and-trump-at-apec/article_542059a7-b82f-44b9-ba50-e429245c2213.html",
+   "date": "2026-11-15T18:08:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/0d/c0d76bb9-e965-5cdb-be53-940836d4cf6c/6af9eb660964e.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 776,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/0d/c0d76bb9-e965-5cdb-be53-940836d4cf6c/6af9eb660964e.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T18:18:06+00:00"
   },
   {
    "id": "2b743f026fc35e84",
@@ -199,10 +219,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/90f87dd962175485473368db89ae4da6cfcd0981/425_0_4577_3662/master/4577.jpg?width=700&quality=85&auto=format&fit=max&s=a21aca2a20c9c2a1ce8d54fe9a1b72df",
-    "w": 700,
+    "credit": "Photograph: Xinhua/Shutterstock",
     "h": 560,
-    "credit": "Photograph: Xinhua/Shutterstock"
+    "url": "https://i.guim.co.uk/img/media/90f87dd962175485473368db89ae4da6cfcd0981/425_0_4577_3662/master/4577.jpg?width=700&quality=85&auto=format&fit=max&s=a21aca2a20c9c2a1ce8d54fe9a1b72df",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:50:48+00:00"
@@ -955,7 +975,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6327,45 +6347,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "a41a32a53ec906dc",
-   "title": "Hegseth awards medal to Arlington soldier who scolded his group on decorum",
-   "summary": "U.S. War Secretary Pete Hegseth has given a top award to the service member who scolded him and his staff at the Tomb of the Unknown Soldier following a Veterans Day ceremony at Arlington National Cemetery.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/us-pentagon-hegseth-arlington-controversy-medal-9.7419227?cmp=rss",
-   "date": "2026-11-12T18:14:30+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/c4755284-bb97-4f6c-946f-a1edd5ed186c,1794510354041/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "5f78dda7a96bb824",
-   "title": "Ontario to cap OSAP growth at career colleges following massive increases",
-   "summary": "The legislation is set to include the as-yet undefined cap, limit OSAP funding to in-person and hybrid programs at those institutions and require them to have a physical location.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12148094/ontario-to-cap-osap-growth-at-career-colleges-following-massive-increases/",
-   "date": "2026-11-12T18:13:04+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/10/Nolan-Quinn-e1792272070517.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/10/Nolan-Quinn-e1792272070517.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:23:46+00:00"
   }
  ]
 }

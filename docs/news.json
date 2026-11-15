@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T12:10:06+00:00",
+ "generatedAt": "2026-11-15T12:19:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/965398d86ac792d2522a2a4d356cb2d6b2d3f207/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=7c3a2ec95500982d12cb096400f5a8a8",
-    "w": 700,
+    "credit": "Photograph: Bloomberg/Getty Images",
     "h": 560,
-    "credit": "Photograph: Bloomberg/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/965398d86ac792d2522a2a4d356cb2d6b2d3f207/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=7c3a2ec95500982d12cb096400f5a8a8",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:10:06+00:00"
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/c0c7f0aaf91798e69f80201767197e8e4968f58b/801_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=be08bbc0e3d3d8c87b14c8857ddcb436",
-    "w": 700,
+    "credit": "Photograph: Jim Watson/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Jim Watson/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/c0c7f0aaf91798e69f80201767197e8e4968f58b/801_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=be08bbc0e3d3d8c87b14c8857ddcb436",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:10:06+00:00"
@@ -219,13 +219,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/44/644bd7f5-8920-5246-9a15-dcb35618d3d4/6af5eba634250.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/44/644bd7f5-8920-5246-9a15-dcb35618d3d4/6af5eba634250.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/44/644bd7f5-8920-5246-9a15-dcb35618d3d4/6af5eba634250.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/44/644bd7f5-8920-5246-9a15-dcb35618d3d4/6af5eba634250.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:10:06+00:00"
+  },
+  {
+   "id": "7289db84bbe56a93",
+   "title": "Israel coalition talks put Arab party leader under pressure over Hamas",
+   "summary": "Mansour Abbas faces mounting pressure from Israel’s change bloc to denounce Hamas as a prerequisite for coalition role.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/israel-coalition-talks-put-arab-party-leader-under-pressure-over-hamas?traffic_source=rss",
+   "date": "2026-11-15T11:56:26+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad4cda62ddbe-1792331174.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad4cda62ddbe-1792331174.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T12:19:21+00:00"
   },
   {
    "id": "30503268397897db",
@@ -239,10 +259,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/69519d357913a1109b72cce7c6bab8d6e86cd732/164_166_2096_1676/master/2096.jpg?width=700&quality=85&auto=format&fit=max&s=10662cba18ee75d09986da753cc08c05",
-    "w": 700,
+    "credit": "Photograph: Zeynep Demir/Anadolu/Getty Images",
     "h": 560,
-    "credit": "Photograph: Zeynep Demir/Anadolu/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/69519d357913a1109b72cce7c6bab8d6e86cd732/164_166_2096_1676/master/2096.jpg?width=700&quality=85&auto=format&fit=max&s=10662cba18ee75d09986da753cc08c05",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:10:06+00:00"
@@ -336,7 +356,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6135,41 +6155,6 @@
     "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
     "w": 1200
    },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "7cf80c14f947f13b",
-   "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-   "summary": "Hospital director says 28 wounded in attack on one of few remaining medical facilities in the strip An Israeli airstrike on Nasser hospital in southern Gaza killed six people, including a surgeon and a disabled man, and wounded 28 others, according to the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
-   "date": "2026-11-12T12:19:01+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Abed Rahim Khatib/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cc960bc22a7c7d203df22f0e132ed334f1daa1b3/252_0_3780_3024/master/3780.jpg?width=700&quality=85&auto=format&fit=max&s=add519d4642d0371c1d89bdc4cc7dddb",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-12T22:16:01+00:00"
-  },
-  {
-   "id": "4a32187e9aeb9620",
-   "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
-   "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
-   "date": "2026-11-12T12:15:48+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
    "breaking": false,
    "addedAt": "2026-11-12T22:16:01+00:00"
   }

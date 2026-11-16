@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T15:04:58+00:00",
+ "generatedAt": "2026-11-16T15:14:30+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -188,6 +188,48 @@
    "addedAt": "2026-11-16T07:32:36+00:00"
   },
   {
+   "id": "797d00ec636ba3b4",
+   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
+   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+   "date": "2026-11-16T14:59:10+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Toby Shepheard/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=700&quality=85&auto=format&fit=max&s=4332c7412e9cc4c7c4aef3a94d966559",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T09:29:24+00:00"
+  },
+  {
+   "id": "ae3ce3c8b807d4c0",
+   "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+   "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T14:58:12+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T15:14:30+00:00"
+  },
+  {
    "id": "c656e17c3cca6bff",
    "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
    "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success",
@@ -206,26 +248,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:29:03+00:00"
-  },
-  {
-   "id": "797d00ec636ba3b4",
-   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "date": "2026-11-16T14:45:27+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Toby Shepheard/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=700&quality=85&auto=format&fit=max&s=4332c7412e9cc4c7c4aef3a94d966559",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T09:29:24+00:00"
   },
   {
    "id": "b5a71cc8da8f4148",
@@ -272,7 +294,7 @@
   {
    "id": "40b384f11ceaea2f",
    "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
-   "summary": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The unprecedented meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of…",
+   "summary": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
    "date": "2026-11-16T14:29:55+00:00",
@@ -334,7 +356,7 @@
   },
   {
    "id": "7cdf637596563951",
-   "title": "Milton, Ont. to replace Canada's longest-serving mayor",
+   "title": "Milton, Ont., to replace Canada's longest-serving mayor",
    "summary": "The town of Milton is set to swear in a new mayor for the first time since 1980. George Minakakis and eight regional and town councillors will take their oaths of office at the council's inaugural meeting Monday night.",
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/milton-first-new-mayor-46-years-9.7423333?cmp=rss",
@@ -424,9 +446,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/6dbb47e3-b956-4123-ae91-6aed08a000de,1794835926733/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C532%2C6589%2C3706%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/6dbb47e3-b956-4123-ae91-6aed08a000de,1794835926733/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C532%2C6589%2C3706%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T15:04:58+00:00"
@@ -723,10 +745,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5032x3355+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F05%2F7f6a1f3e41a89d8061f70224b69a%2Fgettyimages-2305000048-1.jpg",
-    "w": 1200,
     "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5032x3355+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F05%2F7f6a1f3e41a89d8061f70224b69a%2Fgettyimages-2305000048-1.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5032x3355+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F05%2F7f6a1f3e41a89d8061f70224b69a%2Fgettyimages-2305000048-1.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5032x3355+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F05%2F7f6a1f3e41a89d8061f70224b69a%2Fgettyimages-2305000048-1.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T15:04:58+00:00"

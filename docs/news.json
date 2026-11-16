@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T19:25:10+00:00",
+ "generatedAt": "2026-11-16T19:35:07+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 20
   },
   {
    "source": "The Guardian",
@@ -177,12 +177,32 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d9272fdb-c08b-4c37-a668-0bd8977ff4b5,1794856339624/full/max/0/default.jpg?im=Crop%2Crect%3D%281683%2C525%2C5758%2C3238%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d9272fdb-c08b-4c37-a668-0bd8977ff4b5,1794856339624/full/max/0/default.jpg?im=Crop%2Crect%3D%281683%2C525%2C5758%2C3238%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:25:10+00:00"
+  },
+  {
+   "id": "92c410dade2d7347",
+   "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+   "summary": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+   "date": "2026-11-16T19:19:21+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T051408Z_91414459_RC28RNAB5C5M_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1790501339.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T051408Z_91414459_RC28RNAB5C5M_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1790501339.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:35:07+00:00"
   },
   {
    "id": "325059606130af6e",
@@ -205,6 +225,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T17:01:10+00:00"
+  },
+  {
+   "id": "ea8b306d739dd2a5",
+   "title": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
+   "summary": "An Israeli government without PM Netanyahu may be close, but a government without his politics is far less certain.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss",
+   "date": "2026-11-16T19:09:09+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2153281784-1-3-1791989772.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2153281784-1-3-1791989772.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:35:07+00:00"
   },
   {
    "id": "3a910931f160ac9f",
@@ -852,6 +892,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
+  },
+  {
+   "id": "7953ff575be7b302",
+   "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+   "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T15:40:16+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7e49/live/adff9c60-e11c-11f1-a7a2-7bb21fac8f0b.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7e49/live/adff9c60-e11c-11f1-a7a2-7bb21fac8f0b.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:35:07+00:00"
   },
   {
    "id": "62be9210c10e1bcb",
@@ -3065,7 +3125,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

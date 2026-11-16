@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T00:39:03+00:00",
+ "generatedAt": "2026-11-16T00:48:13+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -65,7 +65,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "Al Jazeera",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "aabdfa8f2b504166",
+   "title": "Is India rethinking its short-term military recruitment scheme?",
+   "summary": "India has softened its recruitment scheme, giving young soldiers a longer military stint and another shot at permanent service.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c8ly0yr7wv1no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T00:41:42+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/cc56/live/ce11ba80-de59-11f1-9b47-0919bf7329d1.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cc56/live/ce11ba80-de59-11f1-9b47-0919bf7329d1.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T00:48:13+00:00"
+  },
   {
    "id": "e8c339acc76cfeba",
    "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
@@ -1362,7 +1384,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

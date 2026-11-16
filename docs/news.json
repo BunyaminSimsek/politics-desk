@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T09:38:30+00:00",
+ "generatedAt": "2026-11-16T09:47:39+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "CBC World",
@@ -166,6 +166,43 @@
  ],
  "items": [
   {
+   "id": "6d20cf86caf8c989",
+   "title": "Democratic strategists think Montana House race could hold the secret to future wins",
+   "summary": "Montana is sending a Democrat to the U.S. House for the first time in three decades. Many in the party think Sam Forstag's campaign may be a playbook for how Democrats can win again in rural America",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/16/nx-s1-6032798/democratic-strategists-think-montana-house-race-could-hold-the-secret-to-future-wins",
+   "date": "2026-11-16T09:44:30+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-16T09:47:39+00:00"
+  },
+  {
+   "id": "797d00ec636ba3b4",
+   "title": "Ed Miliband defends doing 2015 election interview with Russell Brand, saying he was ‘taking him on’ not endorsing him – UK politics live",
+   "summary": "Ed Balls, shadow chancellor at the time, said he had warned Labour leader not to go ahead with ‘ridiculous’ interview Good morning.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+   "date": "2026-11-16T09:33:03+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/d2f5d9d4be7e963d08092bc1490513cbd95613fb/547_0_5475_4382/master/5475.jpg?width=700&quality=85&auto=format&fit=max&s=91bb970101cf5f8aaeda6aa32b88da4b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Bloomberg/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T09:29:24+00:00"
+  },
+  {
    "id": "9509ced9ef14cbf3",
    "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
    "summary": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.",
@@ -177,10 +214,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794821462.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794821462.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794821462.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794821462.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:38:30+00:00"
@@ -226,28 +263,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T02:20:50+00:00"
-  },
-  {
-   "id": "797d00ec636ba3b4",
-   "title": "Ed Miliband defends doing 2015 election interview with Russell Brand, saying he was ‘taking him on’ not endorsing him – UK politics live",
-   "summary": "Ed Balls, shadow chancellor at the time, said he had warned Labour leader not to go ahead with ‘ridiculous’ interview Good morning.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "date": "2026-11-16T09:15:50+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brendan Smialowski/Pool AFP/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5abef6272b524d031e88e996ddb75818ad7ddf73/0_0_3417_2735/master/3417.jpg?width=700&quality=85&auto=format&fit=max&s=f3e686a1d70f65548f48299a9a12d91c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T09:29:24+00:00"
   },
   {
    "id": "1ebeac0f80181a2b",
@@ -1984,7 +1999,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5888,73 +5903,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T10:08:15+00:00"
-  },
-  {
-   "id": "07709d63df238726",
-   "title": "Rachel Maddow says the Justice Department is collapsing. Can it be saved?",
-   "summary": "Was the Justice Department ever really above politics? Rachel Maddow digs into its surprising past to explain why she believes its future is at stake.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-5826935/rachel-maddow-department-of-fate",
-   "date": "2026-11-13T09:43:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 785,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4823x3156+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2Ff4%2F67aab4a34204b2196c8b39dc7484%2Fap25316041198641.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4823x3156+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2Ff4%2F67aab4a34204b2196c8b39dc7484%2Fap25316041198641.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T21:25:50+00:00"
-  },
-  {
-   "id": "4074c4bb1876b45a",
-   "title": "Newly elected lawmakers come to D.C. for freshmen orientation",
-   "summary": "Newly elected lawmakers are in Washington, D.C., this week for orientation, where members learn everything from committees and ethics rules to where the bathrooms are.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6037311/newly-elected-lawmakers-come-to-d-c-for-freshmen-orientation",
-   "date": "2026-11-13T09:43:34+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-13T09:50:01+00:00"
-  },
-  {
-   "id": "3581918ecdc8dd68",
-   "title": "Trump redirects Vance from Iran to focus on combatting fraud in Democratic-led states",
-   "summary": "President Trump now says there is no need for an Iran deal, pushing Vice President Vance to instead focus on battling corruption.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6039160/trump-redirects-vance-from-iran-to-focus-on-combatting-fraud-in-democratic-led-states",
-   "date": "2026-11-13T09:43:04+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-13T09:59:08+00:00"
-  },
-  {
-   "id": "be1169483af38bce",
-   "title": "These swing voters have low expectations for divided government",
-   "summary": "Key voters in North Carolina are pessimistic the blue wave flipping control of Congress will solve their economic woes. Many say President Trump will be the chief obstacle.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6035826/these-swing-voters-have-low-expectations-for-divided-government",
-   "date": "2026-11-13T09:42:37+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-13T09:50:01+00:00"
   }
  ]
 }

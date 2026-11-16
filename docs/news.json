@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T09:47:39+00:00",
+ "generatedAt": "2026-11-16T09:56:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "CBC World",
@@ -194,10 +194,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d2f5d9d4be7e963d08092bc1490513cbd95613fb/547_0_5475_4382/master/5475.jpg?width=700&quality=85&auto=format&fit=max&s=91bb970101cf5f8aaeda6aa32b88da4b",
-    "w": 700,
+    "credit": "Photograph: Bloomberg/Getty Images",
     "h": 560,
-    "credit": "Photograph: Bloomberg/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/d2f5d9d4be7e963d08092bc1490513cbd95613fb/547_0_5475_4382/master/5475.jpg?width=700&quality=85&auto=format&fit=max&s=91bb970101cf5f8aaeda6aa32b88da4b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:29:24+00:00"
@@ -1481,7 +1481,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"

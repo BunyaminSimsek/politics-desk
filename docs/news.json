@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T16:01:41+00:00",
+ "generatedAt": "2026-11-16T16:10:51+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "Global News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 20
   },
   {
    "source": "The Guardian",
@@ -137,7 +137,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/turkey/rss",
    "ok": true,
-   "kept": 19
+   "kept": 18
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "date": "2026-11-16T15:49:19+00:00",
+   "date": "2026-11-16T15:59:57+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -184,6 +184,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:29:24+00:00"
+  },
+  {
+   "id": "0e930dbd08b09444",
+   "title": "DoJ warns Elizabeth Warren of ‘consequences’ unless she preserves Trump records",
+   "summary": "Letter to Warren, likely to chair Senate banking committee, echoes warnings to Democrats moving to investigate Trump The Trump administration has warned Elizabeth Warren , the senior Democratic senator expected to chair the powerful Senate banking committee…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/16/doj-elizabeth-warren-trump-investigation-records",
+   "date": "2026-11-16T15:50:59+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e9abfc9d38fb847951ac25392dcdc53fcf6a2701/430_0_4292_3434/master/4292.jpg?width=700&quality=85&auto=format&fit=max&s=c6eed3537980cf5ad2aaaf9c465a8904",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Heather Diehl/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T16:10:51+00:00"
+  },
+  {
+   "id": "c656e17c3cca6bff",
+   "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
+   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-16T15:48:36+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evelyn Hockstein/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
    "id": "c84119ada43b07b9",
@@ -226,26 +266,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T07:32:36+00:00"
-  },
-  {
-   "id": "c656e17c3cca6bff",
-   "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
-   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T15:14:19+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evelyn Hockstein/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
    "id": "33e3b5f68af72ad0",
@@ -2960,7 +2980,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3582,7 +3602,7 @@
    "id": "105bd5f2eba6a4f0",
    "title": "Carney says he will not boycott APEC 'family photo' with Putin",
    "summary": "Prime Minister Mark Carney says he will participate in an upcoming group photo with Russian President Vladimir Putin at the APEC summit out of respect for the host, Chinese President Xi Jinping.",
-   "source": "CBC World",
+   "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/carney-apec-boycott-photo-putin-9.7422267?cmp=rss",
    "date": "2026-11-14T18:18:59+00:00",
    "topic": "federal",

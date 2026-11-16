@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T23:49:05+00:00",
+ "generatedAt": "2026-11-16T23:58:40+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,31 +166,12 @@
  ],
  "items": [
   {
-   "id": "60e1bc5a43fb8862",
-   "title": "How Ontario proposes to change OSAP rules for career colleges",
-   "summary": "Ontario Premier Doug Ford's government tabled a bill Monday reforming rules for how the student assistance program OSAP will work at career colleges. CBC’s Lorenda Reddekopp breaks down the changes.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/player/play/9.7424409?cmp=rss",
-   "date": "2026-11-16T23:46:42+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T23:49:05+00:00"
-  },
-  {
    "id": "c656e17c3cca6bff",
    "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
    "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T23:23:57+00:00",
+   "date": "2026-11-16T23:48:07+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -205,9 +186,48 @@
    "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
+   "id": "60e1bc5a43fb8862",
+   "title": "How Ontario proposes to change OSAP rules for career colleges",
+   "summary": "Ontario Premier Doug Ford's government tabled a bill Monday reforming rules for how the student assistance program OSAP will work at career colleges. CBC’s Lorenda Reddekopp breaks down the changes.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/player/play/9.7424409?cmp=rss",
+   "date": "2026-11-16T23:46:42+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "caption": "",
+    "credit": "",
+    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T23:49:05+00:00"
+  },
+  {
+   "id": "393be579022b445e",
+   "title": "Trump departs for ASEAN on summit with Xi and Putin",
+   "summary": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+   "date": "2026-11-16T23:42:03+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794872451.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794872451.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T23:58:40+00:00"
+  },
+  {
    "id": "52a941d4d7398150",
-   "title": "Labor to announce policy backflip and allow more backpackers to stay in Australia",
-   "summary": "Number of people allowed to stay for third year on holiday maker visa expected to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government is backpedaling on its plan to cut…",
+   "title": "Labor announces policy backflip to allow more backpackers to work in regional Australia",
+   "summary": "Number of people allowed to stay for third year on holiday maker visa to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government is backpedaling on its plan to cut backpacker…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
    "date": "2026-11-16T23:21:46+00:00",
@@ -229,7 +249,7 @@
   {
    "id": "8e072ec9275400b4",
    "title": "Military's No. 2 defends GlobalEye surveillance jets despite capability concerns",
-   "summary": "Canada's second-in-command is standing behind the proposed purchase of six Saab GlobalEye surveillance jets despite air force concerns about their capabilities.",
+   "summary": "Vice-Admiral Angus Topshee told MPs on Monday that he's satisfied with the procurement process for Saab's GlobalEye surveillance jets, arguing the aircraft will contribute to an integrated continental defence network.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/surveillance-jets-global-eye-canada-saab-9.7424260?cmp=rss",
    "date": "2026-11-16T23:15:35+00:00",
@@ -339,10 +359,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/c4/fc441bec-b33c-5afd-8336-20668d16c214/6afb8cd1b7b37.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/c4/fc441bec-b33c-5afd-8336-20668d16c214/6afb8cd1b7b37.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/c4/fc441bec-b33c-5afd-8336-20668d16c214/6afb8cd1b7b37.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/c4/fc441bec-b33c-5afd-8336-20668d16c214/6afb8cd1b7b37.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:49:05+00:00"
@@ -866,9 +886,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/cf928dd0-cdfc-4ebc-8512-424d2b6fe65d,1794850952207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4995%2C2809%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/cf928dd0-cdfc-4ebc-8512-424d2b6fe65d,1794850952207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4995%2C2809%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:44:24+00:00"
@@ -1047,9 +1067,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/34624e6f-3ba7-4141-887c-9e5e97c61534,1794854488780/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/34624e6f-3ba7-4141-887c-9e5e97c61534,1794854488780/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:49:05+00:00"
@@ -6460,26 +6480,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T00:20:14+00:00"
-  },
-  {
-   "id": "07c3fc0778fe92d3",
-   "title": "Mamdani and Trump agree to delay on food stamp rules that put benefit at risk for millions",
-   "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply Zohran Mamdani, the New York City mayor, has struck a deal with Donald Trump to secure a 90-day delay on new rules for the Supplemental Nutrition…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
-   "date": "2026-11-13T23:53:43+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Adam Gray/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=700&quality=85&auto=format&fit=max&s=30cf423877b8a992f15c640a2e1baa50",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T20:49:15+00:00"
   }
  ]
 }

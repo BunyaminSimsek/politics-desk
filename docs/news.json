@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T19:35:07+00:00",
+ "generatedAt": "2026-11-16T19:44:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -166,6 +166,67 @@
  ],
  "items": [
   {
+   "id": "ec3f9ec8dface42e",
+   "title": "Here are the 3 major immigration cases U.S. Supreme Court will hear in coming months",
+   "summary": "The U.S. Supreme Court made at least two significant rulings to shape immigration policy last year. In the coming months, there will at least three more opinions that could be impactful, as U.S.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/us-scotus-major-immigration-cases-9.7423295?cmp=rss",
+   "date": "2026-11-16T19:39:34+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/cf928dd0-cdfc-4ebc-8512-424d2b6fe65d,1794850952207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4995%2C2809%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:44:24+00:00"
+  },
+  {
+   "id": "5fd325fbc77a4a01",
+   "title": "People behind Leave.EU and Vote Leave launch new incarnations of pro-Brexit campaigns",
+   "summary": "Andy Wigmore says he wants his Enough Official group to join forces with Michael Gove-backed Stay Out movement The Brexit wars were a bitter period in political history, fraught with tension and badmouthing – and that was just between the different Leave…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit",
+   "date": "2026-11-16T19:38:45+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f3c3c6f70f587ec003b3db770a4f62ade49142c9/80_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=886fafabcd5b45640316f4d75fddb782",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Peter Byrne/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:44:24+00:00"
+  },
+  {
+   "id": "c656e17c3cca6bff",
+   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-16T19:32:06+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Yuri Gripas/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
+  },
+  {
    "id": "980c8e52747ac854",
    "title": "Carney arrives in China for meeting with Xi Jinping, Asia-Pacific summit",
    "summary": "Prime Minister Mark Carney arrived in China on Monday, where he is set to meet with Chinese President Xi Jinping and leaders from across the Pacific Rim.",
@@ -196,10 +257,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T051408Z_91414459_RC28RNAB5C5M_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1790501339.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T051408Z_91414459_RC28RNAB5C5M_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1790501339.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T051408Z_91414459_RC28RNAB5C5M_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1790501339.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T051408Z_91414459_RC28RNAB5C5M_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1790501339.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:35:07+00:00"
@@ -238,18 +299,18 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2153281784-1-3-1791989772.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2153281784-1-3-1791989772.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2153281784-1-3-1791989772.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2153281784-1-3-1791989772.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:35:07+00:00"
   },
   {
    "id": "3a910931f160ac9f",
-   "title": "Saudi Arabia challenged by Yemeni allies over ceding ground to Houthis",
-   "summary": "Strategy of redeploying forces to try to relieve siege of Taiz and protect Aden comes as Islamist group makes steady gains Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the…",
+   "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
+   "summary": "Accusations of incompetence follow retreat of Riyadh-backed forces in effort to relieve siege of Taiz and protect Aden Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
    "date": "2026-11-16T19:04:07+00:00",
@@ -328,26 +389,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
-  },
-  {
-   "id": "c656e17c3cca6bff",
-   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T18:41:29+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yuri Gripas/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
    "id": "3eacafeb2a9548a7",
@@ -905,10 +946,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7e49/live/adff9c60-e11c-11f1-a7a2-7bb21fac8f0b.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7e49/live/adff9c60-e11c-11f1-a7a2-7bb21fac8f0b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7e49/live/adff9c60-e11c-11f1-a7a2-7bb21fac8f0b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7e49/live/adff9c60-e11c-11f1-a7a2-7bb21fac8f0b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:35:07+00:00"
@@ -3125,7 +3166,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -6260,28 +6301,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T20:03:20+00:00"
-  },
-  {
-   "id": "27f8311cf126a9bd",
-   "title": "US supreme court agrees to consider Trump’s ban on asylum at US-Mexico border",
-   "summary": "Trump officials seek to overturn lower court rulings that found executive order banning asylum applications illegal The US supreme court agreed on Friday to consider Donald Trump’s ban on asylum at the US-Mexico border , a pillar of the Republican president’s…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum",
-   "date": "2026-11-13T19:38:35+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: VCG/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/150c1c16519482804cc57015729e0faf8b093d89/247_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=aaf8acc044537a844f615ce3161a6087",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T19:54:11+00:00"
   }
  ]
 }

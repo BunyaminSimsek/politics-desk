@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T12:53:09+00:00",
+ "generatedAt": "2026-11-16T13:02:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -143,7 +143,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/americas/rss",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "The Guardian",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Tolga Akmen/EPA",
+    "url": "https://i.guim.co.uk/img/media/764096349924a217692acd2f13488727c9cba566/792_0_6641_5312/master/6641.jpg?width=700&quality=85&auto=format&fit=max&s=3aa42636a87e4870ef21087f788c059f",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c23430a7c80647ec8d6367b442f7b732c326074b/776_0_6120_4896/master/6120.jpg?width=700&quality=85&auto=format&fit=max&s=09e441b46ca9d3f9687f6365ce9191ad",
-    "w": 700
+    "credit": "Photograph: Murad Sezer/Reuters"
    },
    "breaking": false,
    "addedAt": "2026-11-16T07:32:36+00:00"
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=700&quality=85&auto=format&fit=max&s=4332c7412e9cc4c7c4aef3a94d966559",
-    "w": 700,
+    "credit": "Photograph: Toby Shepheard/Reuters",
     "h": 560,
-    "credit": "Photograph: Toby Shepheard/Reuters"
+    "url": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=700&quality=85&auto=format&fit=max&s=4332c7412e9cc4c7c4aef3a94d966559",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:29:24+00:00"
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/da54/live/f1263820-e1b5-11f1-9a3f-99aca912798e.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/da54/live/f1263820-e1b5-11f1-9a3f-99aca912798e.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/da54/live/f1263820-e1b5-11f1-9a3f-99aca912798e.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/da54/live/f1263820-e1b5-11f1-9a3f-99aca912798e.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T12:53:09+00:00"
@@ -673,6 +673,29 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T10:06:05+00:00"
+  },
+  {
+   "id": "000c850e55be43bb",
+   "title": "Affordability was a key issue for midterm voters. It helped make childcare one, too",
+   "summary": "Childcare costs have surged, putting a major financial burden on U.S. families. Advocates say the subject once on the fringes of political debate became a major issue during the midterms.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6034941/affordability-childcare-midterms",
+   "date": "2026-11-16T09:45:55+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections",
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5726x3880+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F54%2Ffc603ad34f11b43b0bba6c24727b%2Fgettyimages-2303336899.jpg",
+    "w": 1200,
+    "h": 813,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5726x3880+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F54%2Ffc603ad34f11b43b0bba6c24727b%2Fgettyimages-2303336899.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T13:02:26+00:00"
   },
   {
    "id": "6d20cf86caf8c989",
@@ -1966,7 +1989,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -2484,7 +2507,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5985,26 +6008,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T13:47:13+00:00"
-  },
-  {
-   "id": "0ba7ec38435605b2",
-   "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
-   "summary": "Israel's move came after France banned a prominent Israeli settler from entering the country.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
-   "date": "2026-11-13T12:57:08+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T101028Z_1944391379_RC2XL8A0RTK9_RTRMADP_3_ISRAEL-PALESTINIANS-FRANCE-1794568872.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T101028Z_1944391379_RC2XL8A0RTK9_RTRMADP_3_ISRAEL-PALESTINIANS-FRANCE-1794568872.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T13:10:45+00:00"
   }
  ]
 }

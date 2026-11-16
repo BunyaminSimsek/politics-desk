@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T06:55:40+00:00",
+ "generatedAt": "2026-11-16T07:04:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/6e2cfa54b348df466a21d5a1c4d2bce3e5b12346/1359_0_2742_2194/master/2742.jpg?width=700&quality=85&auto=format&fit=max&s=cb50b6b18303f0a3cd5b923fb789bb5f",
-    "w": 700,
+    "credit": "Photograph: Stefan Rousseau/Pool PA/AP",
     "h": 560,
-    "credit": "Photograph: Stefan Rousseau/Pool PA/AP"
+    "url": "https://i.guim.co.uk/img/media/6e2cfa54b348df466a21d5a1c4d2bce3e5b12346/1359_0_2742_2194/master/2742.jpg?width=700&quality=85&auto=format&fit=max&s=cb50b6b18303f0a3cd5b923fb789bb5f",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T06:55:40+00:00"
@@ -541,8 +541,8 @@
   },
   {
    "id": "197f8749ec7d77fa",
-   "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
-   "summary": "The USS Theodore Roosevelt has arrived in the Middle East, while Iran warned it would not simply wait for an attack.",
+   "title": "Iran war live: Third US carrier arrives, Iran says oil tankers hit mines",
+   "summary": "The USS Theodore Roosevelt arrives in the Middle East, while IRGC says mines struck tankers in Strait of Hormuz.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
    "date": "2026-11-16T00:00:00+00:00",
@@ -697,10 +697,10 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/545f/live/c6cd0f20-e18a-11f1-b441-2b33b063138f.jpg",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ba3f/live/22cfe9d0-e115-11f1-a7db-d90284d21c62.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ba3f/live/22cfe9d0-e115-11f1-a7db-d90284d21c62.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/545f/live/c6cd0f20-e18a-11f1-b441-2b33b063138f.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-16T02:20:50+00:00"
@@ -1215,7 +1215,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -5849,26 +5849,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T07:15:12+00:00"
-  },
-  {
-   "id": "08035fd6054eb1c4",
-   "title": "A new song gives Cop31 Eurovision vibes – but how should we score progress so far?",
-   "summary": "In this week’s newsletter: The climate summit has a new floor-filler to ‘bring down the heat’, but it may struggle to get countries to sing a different environmental tune • Don’t get Down to Earth delivered to your inbox?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/12/down-to-earth-eurovision-cop31-turkey-scotland",
-   "date": "2026-11-13T07:00:13+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mehmet Emin Menguarslan/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/04163e7478dcd78e3718f08ec5790173abea9f42/375_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=c9f714ca991e5553c25cb37081a3bfc1",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T07:06:08+00:00"
   }
  ]
 }

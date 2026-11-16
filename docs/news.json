@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T21:27:25+00:00",
+ "generatedAt": "2026-11-16T21:37:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 5
+   "kept": 7
   },
   {
    "source": "CBC World",
@@ -166,6 +166,66 @@
  ],
  "items": [
   {
+   "id": "e327745263096d11",
+   "title": "Oshawa’s new mayor promises 'new era' at inauguration ceremony",
+   "summary": "Oshawa’s new mayor Tito-Dante Marimpietri and the rest of city council were sworn in at a ceremony on Monday, held at Tribute Communities Centre, an arena owned by the city in the downtown core.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/oshawa-tito-dante-marimpietri-inauguration-9.7424091?cmp=rss",
+   "date": "2026-11-16T21:35:27+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/20b7dae8-7148-4e31-a6d1-f149d80dfaf0,1794863568899/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T21:37:06+00:00"
+  },
+  {
+   "id": "1612bf4edbd85e09",
+   "title": "Ontario tables new law introducing stronger legal protections for victims of intimate image abuse",
+   "summary": "Ontario Premier Doug Ford's government tabled a bill Monday that would create a new legal pathway for victims of intimate image abuse to have those images deleted.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/ford-government-omnibus-bill-queens-park-image-abuse-9.7424114?cmp=rss",
+   "date": "2026-11-16T21:23:19+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T21:37:06+00:00"
+  },
+  {
+   "id": "934ab703da027bf9",
+   "title": "Explainer: Understanding what's in Canada's Immigration Levels Plan",
+   "summary": "OTTAWA - The federal government's updated immigration levels plan was published in the federal budget on Nov. 5, setting out Canada's targets for admitting new residents — both permanent and temporary — for the next three years.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/explainer-understanding-what-s-in-canada-s-immigration-levels-plan/article_2eeabb81-c1d9-5ebf-bf4c-3b6d843df1eb.html",
+   "date": "2026-11-16T21:20:44+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "analysis",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/85/4854f772-d46d-548f-93d7-87cc933322fb/6af2125977645.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/85/4854f772-d46d-548f-93d7-87cc933322fb/6af2125977645.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T21:37:06+00:00"
+  },
+  {
    "id": "c656e17c3cca6bff",
    "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
    "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
@@ -197,10 +257,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
-    "w": 1200,
     "h": 1200,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T21:27:25+00:00"
@@ -219,10 +279,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f8920d7c62e46771a24c52857d1e30a2b7a5ef2d/494_0_4935_3948/master/4935.jpg?width=700&quality=85&auto=format&fit=max&s=10d825b46faea50e36100baafb5ea09a",
-    "w": 700,
+    "credit": "Photograph: US NAVY/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: US NAVY/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/f8920d7c62e46771a24c52857d1e30a2b7a5ef2d/494_0_4935_3948/master/4935.jpg?width=700&quality=85&auto=format&fit=max&s=10d825b46faea50e36100baafb5ea09a",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T21:27:25+00:00"
@@ -541,9 +601,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d9272fdb-c08b-4c37-a668-0bd8977ff4b5,1794856339624/full/max/0/default.jpg?im=Crop%2Crect%3D%281683%2C525%2C5758%2C3238%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d9272fdb-c08b-4c37-a668-0bd8977ff4b5,1794856339624/full/max/0/default.jpg?im=Crop%2Crect%3D%281683%2C525%2C5758%2C3238%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:25:10+00:00"
@@ -3409,7 +3469,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -6227,48 +6287,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T22:30:05+00:00"
-  },
-  {
-   "id": "039e29e21e9d7c7c",
-   "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
-   "summary": "Maryland senator’s bid against Chuck Schumer for leadership could decide direction of the Democratic party US politics live – latest updates Ever since Donald Trump returned to the White House, Democratic officeholders and voters alike have been divided over…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
-   "date": "2026-11-13T21:34:14+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Drew Angerer/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/48fa66a20eacc798793f8c3b942b6715a99fe639/394_0_3929_3145/master/3929.jpg?width=700&quality=85&auto=format&fit=max&s=ab49394fc2d9f2a59c393f9c4079c026",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T20:21:43+00:00"
-  },
-  {
-   "id": "2324ffb80b41a1ad",
-   "title": "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
-   "summary": "This is not a personality contest. This is a debate about the future of the Democratic party The election for Democratic Senate leader between Chuck Schumer and Chris Van Hollen must be understood for what it is. This is not a personality contest.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
-   "date": "2026-11-13T21:28:45+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Drew Angerer/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ac0ddd7ad657bd5a2e35035d09809eebce24312a/2410_459_3590_2871/master/3590.jpg?width=700&quality=85&auto=format&fit=max&s=92b21ddf952f775d1c207dcd5238f923",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T21:44:05+00:00"
   }
  ]
 }

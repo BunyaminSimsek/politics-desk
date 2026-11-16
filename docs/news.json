@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T22:33:34+00:00",
+ "generatedAt": "2026-11-16T22:42:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 19
+   "kept": 20
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "c656e17c3cca6bff",
+   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-16T22:33:02+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Yuri Gripas/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
+  },
+  {
+   "id": "6d43752056618ddd",
+   "title": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
+   "summary": "Report on Britain’s youth jobs crisis calls for welfare, education, health and employment policy shake-up Andy Burnham is being urged to spend billions of pounds on a “new deal” for the next generation that would fund guaranteed jobs support for young people…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment",
+   "date": "2026-11-16T22:30:55+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/a86708b5e4debf383f4b49fc72cc08d1c91043ac/869_0_4344_3475/master/4344.jpg?width=700&quality=85&auto=format&fit=max&s=fc28f64014732c4ff1ddf712d7ee9e66",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Teri Pengilley/The Guardian"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T22:42:45+00:00"
+  },
+  {
    "id": "325059606130af6e",
    "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
    "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
@@ -186,26 +226,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T17:01:10+00:00"
-  },
-  {
-   "id": "c656e17c3cca6bff",
-   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T22:19:14+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yuri Gripas/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
    "id": "2f3e3028b5a9d2c9",
@@ -441,9 +461,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/96a6c4f3-0227-43d3-a227-c80505aa5cb5,1794868426388/full/max/0/default.jpg?im=Crop%2Crect%3D%28695%2C308%2C4787%2C2692%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/96a6c4f3-0227-43d3-a227-c80505aa5cb5,1794858732271/full/max/0/default.jpg?im=Crop%2Crect%3D%28697%2C309%2C4854%2C2730%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:58:48+00:00"
@@ -755,7 +775,7 @@
   {
    "id": "37dfcf2265b37a3e",
    "title": "Surveillance pricing could lead to more expensive groceries for some, MPs hear",
-   "summary": "OTTAWA - People with religious or health-based food restrictions could end up paying more for groceries with the use of algorithmic pricing, an expert told MPs on a Parliamentary committee Monday.",
+   "summary": "OTTAWA - People with religious or health-based food restrictions could end up paying more for groceries with the use of algorithmic pricing, an expert told MPs at a Parliamentary committee Monday.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/surveillance-pricing-could-lead-to-more-expensive-groceries-for-some-mps-hear/article_6831f6d6-2cc8-5c55-bd75-487ac41a00b4.html",
    "date": "2026-11-16T19:02:31+00:00",
@@ -3529,7 +3549,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -6259,36 +6279,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T20:49:15+00:00"
-  },
-  {
-   "id": "09a77b01bd58f358",
-   "title": "DHS head Mark Waye Mullin says there is not a threat to the U.S. amid FAA ground stop",
-   "summary": "Department of Homeland Security Secretary Mark Waye Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-mark-waye-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
-   "date": "2026-11-13T22:36:46+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-13T23:25:07+00:00"
-  },
-  {
-   "id": "9fcd846bc3c855e3",
-   "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
-   "summary": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
-   "date": "2026-11-13T22:36:46+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-13T23:34:14+00:00"
   }
  ]
 }

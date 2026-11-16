@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T10:06:05+00:00",
+ "generatedAt": "2026-11-16T10:15:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "8011f752aeb1d116",
+   "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
+   "summary": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+   "date": "2026-11-16T10:03:11+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af349e95bbe-1794329065.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af349e95bbe-1794329065.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T10:15:12+00:00"
+  },
+  {
    "id": "d01ce23ff84361d9",
    "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
    "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
@@ -179,10 +201,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1903+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F43%2Fa1078a164917808b90cb7d9ece17%2Fgettyimages-2304645424.jpg",
-    "w": 1200,
     "h": 761,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1903+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F43%2Fa1078a164917808b90cb7d9ece17%2Fgettyimages-2304645424.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1903+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F43%2Fa1078a164917808b90cb7d9ece17%2Fgettyimages-2304645424.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1903+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F43%2Fa1078a164917808b90cb7d9ece17%2Fgettyimages-2304645424.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T10:06:05+00:00"
@@ -199,10 +221,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/65/a65e1365-9d8e-5f89-911a-f963205a8878/6af5f1bf33d8d.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 779,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/65/a65e1365-9d8e-5f89-911a-f963205a8878/6af5f1bf33d8d.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/65/a65e1365-9d8e-5f89-911a-f963205a8878/6af5f1bf33d8d.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/65/a65e1365-9d8e-5f89-911a-f963205a8878/6af5f1bf33d8d.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T10:06:05+00:00"
@@ -231,22 +253,20 @@
   },
   {
    "id": "797d00ec636ba3b4",
-   "title": "Ed Miliband defends doing 2015 election interview with Russell Brand, saying he was ‘taking him on’ not endorsing him – UK politics live",
-   "summary": "Ed Balls, shadow chancellor at the time, said he had warned Labour leader not to go ahead with ‘ridiculous’ interview The Tories have pledged to halt “screen-based” exams and cut coursework in a bid to limit the use of AI by schoolchildren if the party…",
+   "title": "Miliband defends 2015 interview with Russell Brand, saying he was ‘taking him on’ not endorsing him – UK politics live",
+   "summary": "Then Labour leader says he wanted to counter comedian’s call for people not to vote in general election The Tories have pledged to halt “screen-based” exams and cut coursework in a bid to limit the use of AI by schoolchildren if the party returns to power…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
    "date": "2026-11-16T09:50:31+00:00",
    "topic": "europe",
    "region": "world",
-   "tags": [
-    "elections"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/15533b940574bf8a1c0f8c7044d13b411b628032/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=1089ea256a84c5f65ad2878f219797b1",
-    "w": 700,
+    "credit": "Composite: Neil Mockford/Getty Images; Phil Lewis/SOPA Images/Shutterstock",
     "h": 560,
-    "credit": "Composite: Neil Mockford/Getty Images; Phil Lewis/SOPA Images/Shutterstock"
+    "url": "https://i.guim.co.uk/img/media/15533b940574bf8a1c0f8c7044d13b411b628032/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=1089ea256a84c5f65ad2878f219797b1",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:29:24+00:00"
@@ -278,10 +298,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=700&quality=85&auto=format&fit=max&s=fe86b6044b3302a726aa13e51c1062e8",
-    "w": 700,
+    "credit": "Photograph: Lukas Coch/EPA",
     "h": 560,
-    "credit": "Photograph: Lukas Coch/EPA"
+    "url": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=700&quality=85&auto=format&fit=max&s=fe86b6044b3302a726aa13e51c1062e8",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T10:06:05+00:00"
@@ -804,7 +824,7 @@
   {
    "id": "bd44e24fea90ff17",
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
-   "summary": "PHNOM PENH, Cambodia (AP) — Canadian Prime Minister Mark Carney said that Canada could turn to Chinese automakers if trade negotiations with U.S. President Donald Trump fail to preserve an integrated North American auto industry.",
+   "summary": "Carney said Saturday in Manila, Philippines, that any trade agreement with Washington must leave Canada with a viable auto industry.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/world/asia/carney-says-canada-could-turn-to-chinese-automakers-if-trump-trade-talks-fail/article_7d0c30dc-7d8d-5cc6-a69f-fe6534ec4119.html",
    "date": "2026-11-16T02:30:00+00:00",
@@ -815,10 +835,10 @@
    ],
    "kind": "news",
    "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/2d/42d955db-5730-5727-bce3-c918f3fb20cc/6afa6bd72ec2b.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/2d/42d955db-5730-5727-bce3-c918f3fb20cc/6afa6bd72ec2b.image.jpg?resize=1200%2C",
-    "w": 1200
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/3e/73ee9c99-355b-4a69-ac2b-5d7e34719973/6afad65455a23.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 805,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/3e/73ee9c99-355b-4a69-ac2b-5d7e34719973/6afad65455a23.image.jpg?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-16T02:57:23+00:00"
@@ -2061,7 +2081,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5881,26 +5901,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T11:03:10+00:00"
-  },
-  {
-   "id": "2abed8a35a5f6a8d",
-   "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-   "summary": "Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss",
-   "date": "2026-11-13T10:11:38+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26316520987093-1794558218.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26316520987093-1794558218.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T10:35:34+00:00"
   }
  ]
 }

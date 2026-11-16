@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T19:53:57+00:00",
+ "generatedAt": "2026-11-16T20:03:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "BBC News",
@@ -603,9 +603,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/eb72a19d-56fc-47a7-8e99-61648965aa93,1794847664933/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C564%2C5400%2C3037%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/eb72a19d-56fc-47a7-8e99-61648965aa93,1794847664933/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C564%2C5400%2C3037%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T17:48:58+00:00"
@@ -1023,7 +1023,7 @@
   {
    "id": "1b1c2b79a2a82c36",
    "title": "Mamdani disbands NYPD unit accused of using excessive force",
-   "summary": "Mayor axes strategic response group that cracked down on protesters and announces new community safety division Zohran Mamdani, New York City’s mayor, announced Monday that he was disbanding a controversial city police unit that has faced criticism over the…",
+   "summary": "Mayor axes strategic response group that cracked down on protesters and announces new community safety division Zohran Mamdani, New York City’s mayor, announced Monday that he was disbanding a city police unit that has faced criticism over the years from…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani",
    "date": "2026-11-16T14:57:26+00:00",
@@ -3166,7 +3166,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -3684,7 +3684,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6221,26 +6221,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T23:48:31+00:00"
-  },
-  {
-   "id": "5659d244156ae8cf",
-   "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-   "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T19:53:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T17:18:28+00:00"
   }
  ]
 }

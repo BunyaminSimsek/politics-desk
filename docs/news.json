@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T20:12:42+00:00",
+ "generatedAt": "2026-11-16T20:21:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "CTV News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 11
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,108 @@
  ],
  "items": [
   {
+   "id": "1d4cc0267292caf8",
+   "title": "Ontario tables law to more quickly deal with intimate image abuse",
+   "summary": "The proposed new statutory tort giving those victims access to civil remedies is contained in an omnibus bill introduced on Monday.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12153377/ontario-tables-law-to-more-quickly-deal-with-intimate-image-abuse/",
+   "date": "2026-11-16T20:16:53+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2018/09/cell-phone-internet-social-media.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 720,
+    "h": 422,
+    "small": "https://globalnews.ca/wp-content/uploads/2018/09/cell-phone-internet-social-media.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T20:21:58+00:00"
+  },
+  {
+   "id": "542b5ebf64de7475",
+   "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+   "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T20:16:15+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T18:08:59+00:00"
+  },
+  {
+   "id": "f48c12af75722bcb",
+   "title": "Bat with rabies gets inside a long-term care facility northeast of Montreal",
+   "summary": "MONTRÉAL - Health authorities say a resident at a long-term care facility northeast of Montreal is being treated after coming into contact with a bat infected with rabies.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/quebec/bat-with-rabies-gets-inside-a-long-term-care-facility-northeast-of-montreal/article_5861678f-c14d-5991-810f-f564215f5a5c.html",
+   "date": "2026-11-16T20:11:46+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/a3/4a332689-38f7-5acd-8cf8-be23ba805a2d/6afb6457db78a.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 841,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/a3/4a332689-38f7-5acd-8cf8-be23ba805a2d/6afb6457db78a.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T20:21:58+00:00"
+  },
+  {
+   "id": "e71d5a80692062c4",
+   "title": "Failed UK asylum seekers to lose five-day grace period and face immediate removal",
+   "summary": "Home Office plans condemned as ‘distressing’ by refugee charities Asylum seekers who have exhausted the formal appeals process will be stripped of a five-day grace period and become eligible for immediate removal under Home Office plans condemned as…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal",
+   "date": "2026-11-16T20:06:24+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/26d456813260a71cc5a24d0234d78199c8f8c003/535_59_1388_1110/master/1388.jpg?width=700&quality=85&auto=format&fit=max&s=ddecc20df3d1172d38281c4e77f49178",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Wiktor Szymanowicz/Future Publishing/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T20:21:58+00:00"
+  },
+  {
+   "id": "bc8a8d2602bd4928",
+   "title": "Nationwide ground stop could cost US airlines hundreds of millions",
+   "summary": "Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
+   "date": "2026-11-16T20:05:06+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T020833Z_1696795389_RC2DNOANX3MH_RTRMADP_3_USA-FAA-GROUND-STOP-1794844657.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T020833Z_1696795389_RC2DNOANX3MH_RTRMADP_3_USA-FAA-GROUND-STOP-1794844657.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T20:21:58+00:00"
+  },
+  {
    "id": "c65dcfb0d2ddf49e",
    "title": "Ontario tables law to more quickly deal with intimate image abuse",
    "summary": "TORONTO - Ontario Premier Doug Ford's government has tabled a bill that would create a new legal pathway for victims of intimate image abuse to have those images deleted.",
@@ -177,13 +279,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/b3/db3ec526-9d66-5fe9-a12d-00a275110837/6afb61ffde1d6.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/b3/db3ec526-9d66-5fe9-a12d-00a275110837/6afb61ffde1d6.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/b3/db3ec526-9d66-5fe9-a12d-00a275110837/6afb61ffde1d6.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/b3/db3ec526-9d66-5fe9-a12d-00a275110837/6afb61ffde1d6.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:12:42+00:00"
+  },
+  {
+   "id": "65caae2cd770f6b3",
+   "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+   "summary": "Rivals call for investigation into reports that PM's office tried to frame Arab parties.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+   "date": "2026-11-16T20:00:07+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9a12272f26-1794744610.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9a12272f26-1794744610.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T20:21:58+00:00"
   },
   {
    "id": "c656e17c3cca6bff",
@@ -352,7 +474,7 @@
   {
    "id": "37dfcf2265b37a3e",
    "title": "Surveillance pricing could lead to more expensive groceries for some, MPs hear",
-   "summary": "OTTAWA - An expert says people with religious or health-based food restrictions could end up paying more for groceries with the use of algorithmic pricing.",
+   "summary": "OTTAWA - People with religious or health-based food restrictions could end up paying more for groceries with the use of algorithmic pricing, an expert told MPs on a Parliamentary committee Monday.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/surveillance-pricing-could-lead-to-more-expensive-groceries-for-some-mps-hear/article_6831f6d6-2cc8-5c55-bd75-487ac41a00b4.html",
    "date": "2026-11-16T19:02:31+00:00",
@@ -2818,26 +2940,6 @@
    "addedAt": "2026-11-15T20:28:27+00:00"
   },
   {
-   "id": "542b5ebf64de7475",
-   "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-   "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-15T19:32:39+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T18:08:59+00:00"
-  },
-  {
    "id": "e2c24991db38b9de",
    "title": "Trident nuclear submarine concludes record underwater deployment",
    "summary": "HMS Vengeance’s seven-month patrol prompts fears over slow pace of maintenance of ageing fleet and strain on crew A Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland where its crew was…",
@@ -3186,7 +3288,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -6181,26 +6283,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T20:40:05+00:00"
-  },
-  {
-   "id": "0265671b9dfa7e74",
-   "title": "Alberta implementing new oil royalty payment system to encourage production",
-   "summary": "CALGARY - Alberta's government unveiled a new royalty payment program Friday that it says is aimed at incentivizing development in the oil industry.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/alberta/alberta-implementing-new-oil-royalty-payment-system-to-encourage-production/article_2448f610-4c42-540e-95ca-89a14f69cb80.html",
-   "date": "2026-11-13T20:19:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 783,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/ce/1cec8f99-3ca4-5621-a1a9-a75d652db0aa/6af77220369f0.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/ce/1cec8f99-3ca4-5621-a1a9-a75d652db0aa/6af77220369f0.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T03:32:41+00:00"
   }
  ]
 }

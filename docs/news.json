@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T07:14:00+00:00",
+ "generatedAt": "2026-11-16T07:23:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -22,8 +22,8 @@
   {
    "source": "Global News",
    "url": "https://globalnews.ca/politics/feed/",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 10
   },
   {
    "source": "Global News Toronto",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "ce624516788d43d4",
+   "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+   "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T07:19:52+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T03:15:41+00:00"
+  },
+  {
    "id": "bca39723b925640d",
    "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
    "summary": "Prime minister is to meet European leaders at summit this week and secure agreements that ‘could raise GDP by 0.4%’ Andy Burnham will say on Monday that Brexit “has not worked” and that he will sign a new deal with the EU.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a9167ab535ad3f6ea97ad5092601ebdb54f5d261/247_0_6155_4927/master/6155.jpg?width=700&quality=85&auto=format&fit=max&s=028c02653091abcb6fbb27728fc7ab65",
-    "w": 700,
+    "credit": "Photograph: Kin Cheung/Reuters",
     "h": 560,
-    "credit": "Photograph: Kin Cheung/Reuters"
+    "url": "https://i.guim.co.uk/img/media/a9167ab535ad3f6ea97ad5092601ebdb54f5d261/247_0_6155_4927/master/6155.jpg?width=700&quality=85&auto=format&fit=max&s=028c02653091abcb6fbb27728fc7ab65",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T07:14:00+00:00"
@@ -410,26 +430,6 @@
     "h": 673,
     "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
     "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T03:15:41+00:00"
-  },
-  {
-   "id": "ce624516788d43d4",
-   "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
-   "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T03:08:31+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
     "w": 1200
    },
    "breaking": false,
@@ -1753,7 +1753,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

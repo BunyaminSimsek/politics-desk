@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T23:20:05+00:00",
+ "generatedAt": "2026-11-16T23:29:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "c656e17c3cca6bff",
+   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-16T23:23:57+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Yuri Gripas/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
+  },
+  {
    "id": "8e072ec9275400b4",
    "title": "Military's No. 2 defends GlobalEye surveillance jets despite capability concerns",
    "summary": "Canada's second-in-command is standing behind the proposed purchase of six Saab GlobalEye surveillance jets despite air force concerns about their capabilities.",
@@ -179,9 +199,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/57279b25-dcf5-4875-b5e0-db63883c0d0c,1794869763623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C824%2C7914%2C4451%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/57279b25-dcf5-4875-b5e0-db63883c0d0c,1794869763623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C824%2C7914%2C4451%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:20:05+00:00"
@@ -205,26 +225,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:10:53+00:00"
-  },
-  {
-   "id": "c656e17c3cca6bff",
-   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T23:07:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yuri Gripas/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
    "id": "c84119ada43b07b9",
@@ -824,9 +824,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/d9272fdb-c08b-4c37-a668-0bd8977ff4b5,1794856339624/full/max/0/default.jpg?im=Crop%2Crect%3D%281683%2C525%2C5758%2C3238%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/d9272fdb-c08b-4c37-a668-0bd8977ff4b5,1794856339624/full/max/0/default.jpg?im=Crop%2Crect%3D%281683%2C525%2C5758%2C3238%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:25:10+00:00"
@@ -927,9 +927,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/4576c1a9-b984-480d-b930-f0b193a64600,1794852306643/full/max/0/default.jpg?im=Crop%2Crect%3D%28160%2C0%2C1759%2C989%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/4576c1a9-b984-480d-b930-f0b193a64600,1794852306643/full/max/0/default.jpg?im=Crop%2Crect%3D%28160%2C0%2C1759%2C989%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
@@ -1026,9 +1026,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/c9a3d2dc-2019-41d4-93aa-c6326d16104e,1794851429024/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/c9a3d2dc-2019-41d4-93aa-c6326d16104e,1794851429024/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
@@ -1451,9 +1451,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d8192021-bc8b-4308-921d-6c616744a019,1794855422679/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d8192021-bc8b-4308-921d-6c616744a019,1794855422679/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
@@ -3650,7 +3650,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

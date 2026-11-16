@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T23:29:47+00:00",
+ "generatedAt": "2026-11-16T23:39:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -186,6 +186,28 @@
    "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
+   "id": "52a941d4d7398150",
+   "title": "Labor to announce policy backflip and allow more backpackers to stay in Australia",
+   "summary": "Number of people allowed to stay for third year on holiday maker visa expected to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government is backpedaling on its plan to cut…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
+   "date": "2026-11-16T23:21:46+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0dd2eeed61e663cd491ab565b48f5786bc1785f5/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=a5cc52027fe81a339af9a70cf9c04dda",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Hilary Wardhaugh/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T23:39:29+00:00"
+  },
+  {
    "id": "8e072ec9275400b4",
    "title": "Military's No. 2 defends GlobalEye surveillance jets despite capability concerns",
    "summary": "Canada's second-in-command is standing behind the proposed purchase of six Saab GlobalEye surveillance jets despite air force concerns about their capabilities.",
@@ -205,6 +227,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:20:05+00:00"
+  },
+  {
+   "id": "9582dc8744fcd0ae",
+   "title": "Liberals move to extend foreign-buyer ban, with possible carve-out for new builds",
+   "summary": "A spokesperson for builders and developers praised the move and said with the current market, it wouldn't drive up prices.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/liberals-move-to-extend-foreign-buyer-ban-with-possible-carve-out-for-new-builds/article_196e77ac-101b-4681-ab4c-5b7cc1e4cc8a.html",
+   "date": "2026-11-16T23:15:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/d0/3d0e65d9-83e1-597e-9150-a5e0f15f2233/6afb85caa318c.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 853,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/d0/3d0e65d9-83e1-597e-9150-a5e0f15f2233/6afb85caa318c.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T23:39:29+00:00"
   },
   {
    "id": "721563772a276c7d",
@@ -420,9 +462,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/20b7dae8-7148-4e31-a6d1-f149d80dfaf0,1794863568899/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/20b7dae8-7148-4e31-a6d1-f149d80dfaf0,1794863568899/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T21:37:06+00:00"
@@ -439,9 +481,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T21:37:06+00:00"
@@ -470,8 +512,8 @@
   },
   {
    "id": "b566a5b10defc581",
-   "title": "Vancouver officer tells Gray hearing he shouldn’t have said officer was assaulted",
-   "summary": "VANCOUVER - A Vancouver police officer involved in the fatal altercation with Myles Gray says testimony he gave during an earlier coroner's inquest into the death was inaccurate and he agreed it was \"misleading\" to have stated that Gray had…",
+   "title": "Vancouver officer tells Gray hearing that union told him not to make notes",
+   "summary": "VANCOUVER - A Vancouver police officer involved in the fatal altercation with Myles Gray testified on Monday that a union representative told him not to make notes about the incident, but that he couldn't remember who gave him that advice.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/british-columbia/vancouver-officer-tells-gray-hearing-he-shouldn-t-have-said-officer-was-assaulted/article_1d78c712-b5fc-551d-9949-f1191300b596.html",
    "date": "2026-11-16T21:15:20+00:00",
@@ -573,7 +615,7 @@
   {
    "id": "849fc6e738b9fc6c",
    "title": "Exodus in Poilievre's office as 5 staffers plan departures",
-   "summary": "Sources tell CBC News five members of the Opposition leader's office have informed Conservative Leader Pierre Poilievre they plan to quit. The departures will leave big gaps in Poilievre's office, particularly in communications and policy.",
+   "summary": "Five members of the Opposition leader's office have informed Conservative Leader Pierre Poilievre they plan to quit. The departures will leave big gaps in Poilievre's office, particularly in communications and policy.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/olo-poilievre-staff-exodus-9.7423944?cmp=rss",
    "date": "2026-11-16T20:52:10+00:00",
@@ -824,9 +866,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d9272fdb-c08b-4c37-a668-0bd8977ff4b5,1794856339624/full/max/0/default.jpg?im=Crop%2Crect%3D%281683%2C525%2C5758%2C3238%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d9272fdb-c08b-4c37-a668-0bd8977ff4b5,1794856339624/full/max/0/default.jpg?im=Crop%2Crect%3D%281683%2C525%2C5758%2C3238%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:25:10+00:00"
@@ -3650,7 +3692,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"

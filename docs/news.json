@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T21:17:31+00:00",
+ "generatedAt": "2026-11-16T21:27:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T21:05:58+00:00",
+   "date": "2026-11-16T21:19:45+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -184,6 +184,68 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:29:03+00:00"
+  },
+  {
+   "id": "b566a5b10defc581",
+   "title": "Vancouver officer tells Gray hearing he shouldn’t have said officer was assaulted",
+   "summary": "VANCOUVER - A Vancouver police officer involved in the fatal altercation with Myles Gray says testimony he gave during an earlier coroner's inquest into the death was inaccurate and he agreed it was \"misleading\" to have stated that Gray had…",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/british-columbia/vancouver-officer-tells-gray-hearing-he-shouldn-t-have-said-officer-was-assaulted/article_1d78c712-b5fc-551d-9949-f1191300b596.html",
+   "date": "2026-11-16T21:15:20+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
+    "w": 1200,
+    "h": 1200,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T21:27:25+00:00"
+  },
+  {
+   "id": "607d35342c8ae09f",
+   "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+   "summary": "The US president oscillates between strike threats on Iran and insisting the war ‘militarily is effectively over’ A third US aircraft carrier has arrived in the Middle East, US Central Command said in a social media post on Monday, making a dramatic show of…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+   "date": "2026-11-16T21:13:02+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f8920d7c62e46771a24c52857d1e30a2b7a5ef2d/494_0_4935_3948/master/4935.jpg?width=700&quality=85&auto=format&fit=max&s=10d825b46faea50e36100baafb5ea09a",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: US NAVY/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T21:27:25+00:00"
+  },
+  {
+   "id": "5662fcc9d6b2e2f6",
+   "title": "English Catholic teachers vote overwhelmingly for strike if no deal with Ford government",
+   "summary": "Ontario English Catholic Teachers' Association released the results. Talks with the province are to resume next week.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/english-catholic-teachers-vote-overwhelmingly-for-strike-if-no-deal-with-ford-government/article_dec7f21f-6744-4344-a236-2fba6436df3a.html",
+   "date": "2026-11-16T21:03:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 801,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/61/c6157c8f-b2a2-5309-afd0-c27375522fde/6a9b33325f548.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/61/c6157c8f-b2a2-5309-afd0-c27375522fde/6a9b33325f548.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T17:20:24+00:00"
   },
   {
    "id": "9406c455a5e51d9e",
@@ -247,7 +309,7 @@
   {
    "id": "33e91c7e0035594f",
    "title": "Former CRA employee sentenced after pleading guilty to fraud, breach of trust",
-   "summary": "VANCOUVER - Police say a former Canada Revenue Agency employee who pleaded guilty to three breach of trust and fraud-related charges will be serving his sentence in the community.",
+   "summary": "The employee was given a conditional sentence to be served in the community as long as he follows the supervision orders of the court.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/british-columbia/former-cra-employee-sentenced-after-pleading-guilty-to-fraud-breach-of-trust/article_8f901e34-b535-5d4f-8daf-228c69500138.html",
    "date": "2026-11-16T20:42:00+00:00",
@@ -479,9 +541,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/d9272fdb-c08b-4c37-a668-0bd8977ff4b5,1794856339624/full/max/0/default.jpg?im=Crop%2Crect%3D%281683%2C525%2C5758%2C3238%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/d9272fdb-c08b-4c37-a668-0bd8977ff4b5,1794856339624/full/max/0/default.jpg?im=Crop%2Crect%3D%281683%2C525%2C5758%2C3238%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:25:10+00:00"
@@ -604,9 +666,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/4576c1a9-b984-480d-b930-f0b193a64600,1794852306643/full/max/0/default.jpg?im=Crop%2Crect%3D%28160%2C0%2C1759%2C989%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/4576c1a9-b984-480d-b930-f0b193a64600,1794852306643/full/max/0/default.jpg?im=Crop%2Crect%3D%28160%2C0%2C1759%2C989%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
@@ -703,9 +765,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/c9a3d2dc-2019-41d4-93aa-c6326d16104e,1794851429024/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/c9a3d2dc-2019-41d4-93aa-c6326d16104e,1794851429024/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
@@ -929,26 +991,6 @@
    "addedAt": "2026-11-16T17:29:46+00:00"
   },
   {
-   "id": "5662fcc9d6b2e2f6",
-   "title": "English Catholic teachers vote overwhelmingly for strike if no deal with Ford government",
-   "summary": "Ontario English Catholic Teachers' Association released the results. Talks with the province are to resume next week.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/english-catholic-teachers-vote-overwhelmingly-for-strike-if-no-deal-with-ford-government/article_dec7f21f-6744-4344-a236-2fba6436df3a.html",
-   "date": "2026-11-16T17:10:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 801,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/61/c6157c8f-b2a2-5309-afd0-c27375522fde/6a9b33325f548.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/61/c6157c8f-b2a2-5309-afd0-c27375522fde/6a9b33325f548.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T17:20:24+00:00"
-  },
-  {
    "id": "671a411f4b0d1fe5",
    "title": "Even Hawaiʻi’s most Republican island can’t escape the blue wave",
    "summary": "During the midterm elections, Ni‘ihau backed Democrats for their governors, casting 14 of their 21 votes for Josh Green and Derek Kawakami The secluded island of Ni‘ihau has long been a Republican stronghold in deep blue Hawai‘i.",
@@ -1168,9 +1210,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d8192021-bc8b-4308-921d-6c616744a019,1794855422679/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d8192021-bc8b-4308-921d-6c616744a019,1794855422679/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"

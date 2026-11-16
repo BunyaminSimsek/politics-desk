@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T03:06:38+00:00",
+ "generatedAt": "2026-11-16T03:15:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "BBC News",
@@ -65,7 +65,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "Al Jazeera",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "1c5c7ee1c6b2da78",
+   "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+   "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T03:09:49+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
+    "w": 1200,
+    "h": 673,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T03:15:41+00:00"
+  },
+  {
+   "id": "ce624516788d43d4",
+   "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+   "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T03:08:31+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T03:15:41+00:00"
+  },
   {
    "id": "f42f6afbcabb441a",
    "title": "ASEAN, China fall short of agreeing on South China Sea code",
@@ -755,8 +795,8 @@
   },
   {
    "id": "b1bff789f70395db",
-   "title": "Mark Carney defuses tensions with Quebec premier before facing Xi, Putin and Trump at APEC",
-   "summary": "The prime minister described his conversation with Paul St-Pierre Plamondon as 'fun,' constructive and respectful.",
+   "title": "Mark Carney sets terms for Chinese auto investment as he heads to Asia-Pacific summit in China",
+   "summary": "Prime minister says outcome of talks with Washington will shape how much foreign carmaking money Canada accepts, while his first preference remains a unified continental industry.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/analysis/mark-carney-defuses-tensions-with-quebec-premier-before-facing-xi-putin-and-trump-at-apec/article_542059a7-b82f-44b9-ba50-e429245c2213.html",
    "date": "2026-11-15T18:08:00+00:00",
@@ -765,10 +805,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "h": 776,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/0d/c0d76bb9-e965-5cdb-be53-940836d4cf6c/6af9eb660964e.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/0d/c0d76bb9-e965-5cdb-be53-940836d4cf6c/6af9eb660964e.image.jpg?resize=1200%2C",
-    "w": 1200
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/8b/08ba797f-d7a4-546e-a768-e6d84f6a947e/6af9eb67ef524.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 777,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/8b/08ba797f-d7a4-546e-a768-e6d84f6a947e/6af9eb67ef524.image.jpg?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-15T18:18:06+00:00"
@@ -1483,7 +1523,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T08:33:31+00:00",
+ "generatedAt": "2026-11-16T08:42:42+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Russia and Saudi Arabia among countries objecting to the traditional output text common in previous summits What happens when the world, as expected, hurtles dangerously past agreed temperature thresholds?",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-16T08:28:25+00:00",
+   "date": "2026-11-16T08:34:04+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [
@@ -201,10 +201,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-09-13T010659Z_675633451_RC2S9GAHDNCJ_RTRMADP_3_ECUADOR-ECONOMY-1759872890.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-09-13T010659Z_675633451_RC2S9GAHDNCJ_RTRMADP_3_ECUADOR-ECONOMY-1759872890.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-09-13T010659Z_675633451_RC2S9GAHDNCJ_RTRMADP_3_ECUADOR-ECONOMY-1759872890.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-09-13T010659Z_675633451_RC2S9GAHDNCJ_RTRMADP_3_ECUADOR-ECONOMY-1759872890.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T08:33:31+00:00"
@@ -332,7 +332,7 @@
   {
    "id": "861e0c85bddf9a58",
    "title": "Home Office accused of trying to cancel online talk by Andreas Malm",
-   "summary": "Hackney mayor decries ‘assault’ on free speech over event featuring academic who is banned from entering UK Shabana Mahmood has been accused of an “assault” on free speech over claims her officials tried to cancel an online talk by the climate academic…",
+   "summary": "Hackney mayor decries ‘assault’ on free speech over event featuring Swedish academic who is banned from entering UK Shabana Mahmood has been accused of an “assault” on free speech over claims her officials tried to cancel an online talk by the climate…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/2026/nov/16/home-office-andreas-malm-climate-academic-online-talk",
    "date": "2026-11-16T06:00:37+00:00",

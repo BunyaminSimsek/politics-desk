@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T20:58:48+00:00",
+ "generatedAt": "2026-11-16T21:08:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "9406c455a5e51d9e",
+   "title": "How Carney’s China visit highlights the stakes—and risks—of closer ties",
+   "summary": "It’s not a question of 'if' but 'how' Canada wants to deepen economic cooperation with China, experts say, as Carney continues push for trade diversification.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12153426/mark-carney-china-visit-2026/",
+   "date": "2026-11-16T21:02:29+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1a66470ca8d87815ad5b38525c7814b4458d532d163ad5ad71332ca5f5a89b25_6e1785.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 621,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1a66470ca8d87815ad5b38525c7814b4458d532d163ad5ad71332ca5f5a89b25_6e1785.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T21:08:20+00:00"
+  },
+  {
    "id": "c656e17c3cca6bff",
    "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
    "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
@@ -197,9 +217,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/96a6c4f3-0227-43d3-a227-c80505aa5cb5,1794858732271/full/max/0/default.jpg?im=Crop%2Crect%3D%28697%2C309%2C4854%2C2730%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/96a6c4f3-0227-43d3-a227-c80505aa5cb5,1794858732271/full/max/0/default.jpg?im=Crop%2Crect%3D%28697%2C309%2C4854%2C2730%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:58:48+00:00"
@@ -216,10 +236,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
-    "w": 1200,
     "h": 1200,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:58:48+00:00"
@@ -3865,7 +3885,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6224,40 +6244,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-13T21:25:50+00:00"
-  },
-  {
-   "id": "b1c0300955a89384",
-   "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
-   "summary": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
-   "date": "2026-11-13T21:06:09+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-13T21:16:36+00:00"
-  },
-  {
-   "id": "024193fce3305e25",
-   "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
-   "summary": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
-   "date": "2026-11-13T21:06:05+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 923,
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/516x923+0+0/resize/516/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff9%2F49%2Fe3a4814044d480c0da75473df668%2Fscreenshot-2026-11-13-100635.png",
-    "w": 516
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T23:34:14+00:00"
   }
  ]
 }

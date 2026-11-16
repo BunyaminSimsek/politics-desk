@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T12:07:10+00:00",
+ "generatedAt": "2026-11-16T12:16:19+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,12 +166,27 @@
  ],
  "items": [
   {
+   "id": "dd0fd43506cb1b69",
+   "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+   "summary": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+   "date": "2026-11-16T12:08:14+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-16T12:16:19+00:00"
+  },
+  {
    "id": "62be9210c10e1bcb",
    "title": "Cop31 live: diplomats divided as climate crisis talks enter second week",
    "summary": "Russia and Saudi Arabia among countries objecting to the traditional output text common in previous summits Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference by saying it “is a given” that parties will…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-16T11:58:04+00:00",
+   "date": "2026-11-16T12:07:29+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [
@@ -186,6 +201,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T07:32:36+00:00"
+  },
+  {
+   "id": "db6cded58baa6c99",
+   "title": "Flying blind: inside the decline of the EPA’s chemical-detection plane",
+   "summary": "Agency’s Aspect plane once was a key part of tracking toxic chemicals during disasters – why is it now often grounded?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/16/epa-chemical-detection-plane",
+   "date": "2026-11-16T12:00:58+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/17ab1c4bad64148a5e104f5bef4f00be6e91167a/66_0_1917_1534/master/1917.jpg?width=700&quality=85&auto=format&fit=max&s=b422bd18b10ec2e94a994006b71e97d7",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Rob Lehman / Air One Drones"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T12:16:19+00:00"
+  },
+  {
+   "id": "6b8a3d787cc99aa8",
+   "title": "Great Britain’s oldest renewables projects could rake in nearly £9bn next year",
+   "summary": "Subsidy scheme, which is paid via taxes and energy bills, must be reformed, ECU analysis finds Business live – latest updates Great Britain’s oldest renewable energy projects are likely to rake in an almost £9bn windfall next year because of soaring market…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/16/great-britain-renewable-energy-subsidies-wind-solar",
+   "date": "2026-11-16T11:56:20+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/fadc2a753a2ca35482613659f6d980ad0a106850/141_0_3512_2809/master/3512.jpg?width=700&quality=85&auto=format&fit=max&s=d72e9ddca454821761d654efe4bbdf54",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Murdo Macleod/The Guardian"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T12:16:19+00:00"
   },
   {
    "id": "c656e17c3cca6bff",
@@ -1853,7 +1908,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -5911,41 +5966,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T12:25:02+00:00"
-  },
-  {
-   "id": "0509ac57927a6a36",
-   "title": "More than 100 companies and groups linked to fossil fuels represented at Cop31, study says",
-   "summary": "Delegations outnumber those of some countries most vulnerable to climate impacts, such as Nepal, which suffered glacier collapse Cop31 live – latest updates More than 100 corporations and industry groups linked to fossil fuel interests have sent delegations…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/13/cop31-companies-and-groups-linked-to-fossil-fuels-delegations",
-   "date": "2026-11-13T12:13:29+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Osmancan Gurdogan/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9ed7c5b3d662143fb76fe1e358511d14a7192d8f/514_0_3729_2985/master/3729.jpg?width=700&quality=85&auto=format&fit=max&s=3a3f5cb0bbb5672bd543ecd09b6d70c0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T12:15:55+00:00"
-  },
-  {
-   "id": "61212767e0948e38",
-   "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
-   "summary": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
-   "date": "2026-11-13T12:07:12+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-13T12:15:55+00:00"
   }
  ]
 }

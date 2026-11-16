@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T15:14:30+00:00",
+ "generatedAt": "2026-11-16T15:23:51+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -221,13 +221,33 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T15:14:30+00:00"
+  },
+  {
+   "id": "1b1c2b79a2a82c36",
+   "title": "Mamdani disbands controversial NYPD unit accused of using excessive force",
+   "summary": "Mayor axes strategic response group that cracked down on protesters and announces new community safety division Zohran Mamdani, New York City’s mayor, announced Monday that he was disbanding a controversial city police unit that has faced criticism over the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani",
+   "date": "2026-11-16T14:57:26+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/273f35e243f22b1c02cb8c86f61c99bd5a80cf15/644_681_2479_1983/master/2479.jpg?width=700&quality=85&auto=format&fit=max&s=15a53db4c95c840bcf6927a9d8e69cef",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Julius Constantine Motal/The Guardian"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T15:23:51+00:00"
   },
   {
    "id": "c656e17c3cca6bff",
@@ -549,9 +569,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/b1605774-714e-4952-910d-ad4d2158c69a,1794832393847/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C119%2C2811%2C1581%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/b1605774-714e-4952-910d-ad4d2158c69a,1794832393847/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C119%2C2811%2C1581%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T13:20:48+00:00"
@@ -6154,26 +6174,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T11:03:10+00:00"
-  },
-  {
-   "id": "f8b56170157a68e1",
-   "title": "Row breaks out between Tories and Reform at Piddington news conference – UK politics live",
-   "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and cameras Archbishop of Canterbury Sarah Mullally has said “people are seeking meaning, connection and hope in a turbulent world” as new statistics reveal Church of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-   "date": "2026-11-13T15:22:42+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Christopher Furlong/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=700&quality=85&auto=format&fit=max&s=b5874302dea07c19ab4a9d320b0e798b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T10:26:29+00:00"
   }
  ]
 }

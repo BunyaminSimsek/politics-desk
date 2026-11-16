@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T02:39:01+00:00",
+ "generatedAt": "2026-11-16T02:48:11+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "3109e8224befb977",
+   "title": "Houthis advance in Yemen as government forces move to defend Aden",
+   "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+   "date": "2026-11-16T02:22:29+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794795723.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794795723.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T02:48:11+00:00"
+  },
   {
    "id": "aabdfa8f2b504166",
    "title": "Is India rethinking its short-term military recruitment scheme?",
@@ -903,7 +923,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -1421,7 +1441,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5872,26 +5892,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T03:09:07+00:00"
-  },
-  {
-   "id": "610351fa39864d56",
-   "title": "Chris Van Hollen launches bid to lead Democrats in US Senate",
-   "summary": "Van Hollen's leadership drive follows Democratic sweeps in elections and challenges veteran leader Schumer.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader?traffic_source=rss",
-   "date": "2026-11-13T02:42:41+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af6788f7d-1794537615.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af6788f7d-1794537615.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T03:18:17+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T00:11:35+00:00",
+ "generatedAt": "2026-11-16T00:20:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,68 @@
   }
  ],
  "items": [
+  {
+   "id": "e8c339acc76cfeba",
+   "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
+   "summary": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s young people is politicians’ fault.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+   "date": "2026-11-16T00:06:13+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Temilade Adelaja/Reuters Pool/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b9948bd228b02aa56a0356f2a3f2713b85d83833/290_0_4473_3579/master/4473.jpg?width=700&quality=85&auto=format&fit=max&s=0fb6d45417b97365cf3515989a3692e1",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T13:14:12+00:00"
+  },
+  {
+   "id": "a19517b4b642f49d",
+   "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+   "summary": "Arab party members were reportedly arrested before Israeli elections based on unfounded evidence from the PM's office.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+   "date": "2026-11-16T00:01:45+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afa3343e7b0-1794782019.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afa3343e7b0-1794782019.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T00:20:46+00:00"
+  },
+  {
+   "id": "197f8749ec7d77fa",
+   "title": "Iran war live: Tehran warns it may strike first before another US attack",
+   "summary": "Yemeni army says it is 'repositioning' troops away from the Bab al-Mandeb strait and other key coastal areas.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+   "date": "2026-11-16T00:00:00+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afa3cfe-1794784510.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afa3cfe-1794784510.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T00:20:46+00:00"
+  },
   {
    "id": "80f31c83a773a5c4",
    "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
@@ -674,26 +736,6 @@
    "addedAt": "2026-11-15T17:22:59+00:00"
   },
   {
-   "id": "e8c339acc76cfeba",
-   "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
-   "summary": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s young people is politicians’ fault.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
-   "date": "2026-11-15T17:04:55+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Temilade Adelaja/Reuters Pool/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b9948bd228b02aa56a0356f2a3f2713b85d83833/290_0_4473_3579/master/4473.jpg?width=700&quality=85&auto=format&fit=max&s=0fb6d45417b97365cf3515989a3692e1",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T13:14:12+00:00"
-  },
-  {
    "id": "69108f79f000421d",
    "title": "Somalia: We would not have recovered without the international community",
    "summary": "Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.",
@@ -716,7 +758,7 @@
   {
    "id": "77828ca2a56f6add",
    "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
-   "summary": "Democratic senator Chris Van Hollen says Trump administration hasn’t properly invested existing funds Donald Trump’s administration on Sunday blamed the travel chaos stemming from Friday’s four-hour nationwide flight stoppage on prior presidents as well as a…",
+   "summary": "Democratic senator Chris Van Hollen says Trump administration has not properly invested existing funds Donald Trump’s administration on Sunday blamed the travel chaos stemming from Friday’s four-hour nationwide flight stoppage on prior presidents as well as a…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
    "date": "2026-11-15T16:18:49+00:00",
@@ -1320,7 +1362,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5973,26 +6015,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T00:42:58+00:00"
-  },
-  {
-   "id": "5c866d204f0bc428",
-   "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-   "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T00:20:24+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T00:24:40+00:00"
   }
  ]
 }

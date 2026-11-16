@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T17:48:58+00:00",
+ "generatedAt": "2026-11-16T17:58:39+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,66 @@
  ],
  "items": [
   {
+   "id": "c17c82f28656180d",
+   "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
+   "summary": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
+   "date": "2026-11-16T17:49:16+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/08/Ghassan-Najjar-1788196487.jpeg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/08/Ghassan-Najjar-1788196487.jpeg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T17:58:39+00:00"
+  },
+  {
+   "id": "797d00ec636ba3b4",
+   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
+   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+   "date": "2026-11-16T17:43:39+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Toby Shepheard/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=700&quality=85&auto=format&fit=max&s=4332c7412e9cc4c7c4aef3a94d966559",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T09:29:24+00:00"
+  },
+  {
+   "id": "c656e17c3cca6bff",
+   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-16T17:43:16+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Yuri Gripas/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
+  },
+  {
    "id": "e4402eb32934947e",
    "title": "U.S. further restricts China's access to AI chips in wake of Nvidia scandal",
    "summary": "The Trump administration on Monday issued a rule that will further restrict China's access to the best AI chips from companies like Nvidia, just as U.S. President Donald Trump began a trip to China to meet with President Xi Jinping.",
@@ -177,9 +237,29 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/eb72a19d-56fc-47a7-8e99-61648965aa93,1794847664933/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C564%2C5400%2C3037%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/eb72a19d-56fc-47a7-8e99-61648965aa93,1794847664933/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C564%2C5400%2C3037%29%3B"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T17:48:58+00:00"
+  },
+  {
+   "id": "21d8d76d09ce873d",
+   "title": "Beckham firm sues after fragrance found for sale in discount store",
+   "summary": "Brand reacted with ‘shock and dismay’ after products were also found in a ‘bargain bin inside a gas station’ Business live – latest updates David Beckham’s company reacted with “shock and dismay” after discovering his branded fragrance range was on sale in…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
+   "date": "2026-11-16T17:35:59+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Jayce Illman/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b545f9d7a790ea86d7c205a1aa43db5a001f1e42/1779_175_2064_1652/master/2064.jpg?width=700&quality=85&auto=format&fit=max&s=3f18bdcf9703cc4974b217da2b9f5ef1",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T17:48:58+00:00"
@@ -222,26 +302,6 @@
    "addedAt": "2026-11-16T17:39:34+00:00"
   },
   {
-   "id": "c656e17c3cca6bff",
-   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T17:24:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yuri Gripas/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
-  },
-  {
    "id": "f078e08e109b0fc5",
    "title": "Ontario Catholic teachers vote strongly in favour of strike mandate",
    "summary": "The union representing Catholic teachers says educators are dealing with chronic classroom underfunding by the Ford government.",
@@ -260,26 +320,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T17:29:46+00:00"
-  },
-  {
-   "id": "797d00ec636ba3b4",
-   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "date": "2026-11-16T17:11:21+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Toby Shepheard/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=700&quality=85&auto=format&fit=max&s=4332c7412e9cc4c7c4aef3a94d966559",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T09:29:24+00:00"
   },
   {
    "id": "5662fcc9d6b2e2f6",
@@ -408,7 +448,7 @@
   {
    "id": "49a1ce094a2bb655",
    "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
-   "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, as he joined Silicon Valley heavyweights in demanding the…",
+   "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, joining Silicon Valley heavyweights in demanding the reinstatement…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
    "date": "2026-11-16T16:48:47+00:00",
@@ -689,10 +729,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Maxim Shipenkov/EPA",
+    "url": "https://i.guim.co.uk/img/media/1314ca56ea87a76eb19c89d8d928610638be91b9/145_0_1491_1193/master/1491.jpg?width=700&quality=85&auto=format&fit=max&s=7c15ff3ce857b870fa9abdd901989cd7",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/1ed1c93d730d4466d6341a132b8d2b1761b7b08f/937_0_4862_3888/master/4862.jpg?width=700&quality=85&auto=format&fit=max&s=8b41070b17015b92060981fb31bda487",
-    "w": 700
+    "credit": "Photograph: Carlos Barría/Reuters"
    },
    "breaking": false,
    "addedAt": "2026-11-16T14:08:33+00:00"
@@ -920,26 +960,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T13:49:44+00:00"
-  },
-  {
-   "id": "21d8d76d09ce873d",
-   "title": "Beckham firm sues after fragrance found for sale in discount store",
-   "summary": "Brand reacted with ‘shock and dismay’ after products were also found in a ‘bargain bin inside a gas station’ Business live – latest updates David Beckham’s company reacted with “shock and dismay” after discovering his branded fragrance range was on sale in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
-   "date": "2026-11-16T13:26:35+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/b545f9d7a790ea86d7c205a1aa43db5a001f1e42/1779_175_2064_1652/master/2064.jpg?width=700&quality=85&auto=format&fit=max&s=3f18bdcf9703cc4974b217da2b9f5ef1",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Jayce Illman/Getty Images"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T17:48:58+00:00"
   },
   {
    "id": "496fb6cbe7bf5d6d",
@@ -2786,7 +2806,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -6207,26 +6227,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T18:04:17+00:00"
-  },
-  {
-   "id": "2d4206f233c24427",
-   "title": "Estonia bans Russian athletes as backlash intensifies",
-   "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T17:54:33+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1c85/live/160022d0-df88-11f1-93e1-3b657b665bcf.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1c85/live/160022d0-df88-11f1-93e1-3b657b665bcf.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T08:31:41+00:00"
   }
  ]
 }

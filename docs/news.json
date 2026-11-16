@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T23:01:39+00:00",
+ "generatedAt": "2026-11-16T23:10:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "Global News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "CTV News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,86 @@
   }
  ],
  "items": [
+  {
+   "id": "721563772a276c7d",
+   "title": "Ford holds off on new cash for Stellantis plant, contradicting minister",
+   "summary": "Doug Ford's minister responsible for the tariffs response said the province is willing to offer Stellantis additional financial support to stay in Brampton.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12153708/ford-holds-off-on-new-cash-for-stellantis-plant-contradicting-minister/",
+   "date": "2026-11-16T23:08:27+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/6a2dc3cbe21db4d917bf8632bcbb48a1d78265950d2906c1af5c0db37ab5ac41_7fed37.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/6a2dc3cbe21db4d917bf8632bcbb48a1d78265950d2906c1af5c0db37ab5ac41_7fed37.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T23:10:53+00:00"
+  },
+  {
+   "id": "c84119ada43b07b9",
+   "title": "Bahrain court sentences dozens of Shia Muslims to life in prison, activists say",
+   "summary": "Most of those jailed on Iran-linked terrorism charges are clerics, a UK-based human rights group, claiming confessions were forced. Bahraini authorities accused the 69 unnamed defendants of establishing a terrorist group linked to Iran's Revolutionary Guards.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx20pyew3zxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T23:01:47+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/84f2/live/aa54a570-e1cf-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/84f2/live/aa54a570-e1cf-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T15:52:31+00:00"
+  },
+  {
+   "id": "74afa2fff9f43f1e",
+   "title": "EU agrees to resurrect cooperation deal with Syria",
+   "summary": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+   "date": "2026-11-16T23:00:36+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260929__C9MY8HN__v1__HighRes__SyriaEuPoliticsDiplomacy-1794866375.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260929__C9MY8HN__v1__HighRes__SyriaEuPoliticsDiplomacy-1794866375.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T23:10:53+00:00"
+  },
+  {
+   "id": "0e03517220d2e57b",
+   "title": "Liberals' 'lawful access' bill vulnerable to constitutional challenge: professor",
+   "summary": "OTTAWA - A law professor says a Liberal government bill that would make it easier for police and spies to navigate the online world could be found unconstitutional due to a provision on retaining metadata.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/liberals-lawful-access-bill-vulnerable-to-constitutional-challenge-professor/article_fe966acf-396c-5874-809e-d27fe2f73640.html",
+   "date": "2026-11-16T22:52:51+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/03/80311970-faa3-558f-9038-eae99c1d8528/6afb89c91e6ff.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/03/80311970-faa3-558f-9038-eae99c1d8528/6afb89c91e6ff.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T23:10:53+00:00"
+  },
   {
    "id": "c656e17c3cca6bff",
    "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
@@ -1335,26 +1415,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T16:10:51+00:00"
-  },
-  {
-   "id": "c84119ada43b07b9",
-   "title": "Bahrain court sentences dozens of Shia Muslims to life in prison, activists say",
-   "summary": "Most of those jailed on Iran-linked terrorism charges are clerics, a UK-based human rights group, claiming confessions were forced. Bahraini authorities accused the 69 unnamed defendants of establishing a terrorist group linked to Iran's Revolutionary Guards.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmx20pyew3zxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T15:46:21+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/84f2/live/aa54a570-e1cf-11f1-99a1-253766e7ad8b.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/84f2/live/aa54a570-e1cf-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T15:52:31+00:00"
   },
   {
    "id": "0dafb49aafe1a21d",
@@ -3123,7 +3183,7 @@
    "id": "f9aea1ae981ba04e",
    "title": "Carney sets out to deepen ties with China. Has the threat landscape changed?",
    "summary": "On the sidelines of the APEC summit this coming week, Prime Minister Mark Carney is set to meet with his Chinese counterpart, President Xi Jinping, in the hopes of deepening economic and trade ties.",
-   "source": "CBC World",
+   "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/carney-china-deepen-ties-risk-9.7422895?cmp=rss",
    "date": "2026-11-15T21:05:09+00:00",
    "topic": "federal",
@@ -3569,7 +3629,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T20:21:58+00:00",
+ "generatedAt": "2026-11-16T20:31:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 19
   },
   {
    "source": "The Guardian",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2018/09/cell-phone-internet-social-media.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 720,
     "h": 422,
-    "small": "https://globalnews.ca/wp-content/uploads/2018/09/cell-phone-internet-social-media.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2018/09/cell-phone-internet-social-media.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2018/09/cell-phone-internet-social-media.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 720
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:21:58+00:00"
@@ -206,6 +206,26 @@
    "addedAt": "2026-11-15T18:08:59+00:00"
   },
   {
+   "id": "1119ca9a9b88621e",
+   "title": "What will Europe do next in Ukraine?",
+   "summary": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
+   "date": "2026-11-16T20:12:21+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794858749.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794858749.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T20:31:10+00:00"
+  },
+  {
    "id": "f48c12af75722bcb",
    "title": "Bat with rabies gets inside a long-term care facility northeast of Montreal",
    "summary": "MONTRÉAL - Health authorities say a resident at a long-term care facility northeast of Montreal is being treated after coming into contact with a bat infected with rabies.",
@@ -217,13 +237,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/a3/4a332689-38f7-5acd-8cf8-be23ba805a2d/6afb6457db78a.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 841,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/a3/4a332689-38f7-5acd-8cf8-be23ba805a2d/6afb6457db78a.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/a3/4a332689-38f7-5acd-8cf8-be23ba805a2d/6afb6457db78a.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/a3/4a332689-38f7-5acd-8cf8-be23ba805a2d/6afb6457db78a.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:21:58+00:00"
+  },
+  {
+   "id": "c656e17c3cca6bff",
+   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-16T20:07:50+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Yuri Gripas/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
    "id": "e71d5a80692062c4",
@@ -239,10 +279,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/26d456813260a71cc5a24d0234d78199c8f8c003/535_59_1388_1110/master/1388.jpg?width=700&quality=85&auto=format&fit=max&s=ddecc20df3d1172d38281c4e77f49178",
-    "w": 700,
+    "credit": "Photograph: Wiktor Szymanowicz/Future Publishing/Getty Images",
     "h": 560,
-    "credit": "Photograph: Wiktor Szymanowicz/Future Publishing/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/26d456813260a71cc5a24d0234d78199c8f8c003/535_59_1388_1110/master/1388.jpg?width=700&quality=85&auto=format&fit=max&s=ddecc20df3d1172d38281c4e77f49178",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:21:58+00:00"
@@ -259,10 +299,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T020833Z_1696795389_RC2DNOANX3MH_RTRMADP_3_USA-FAA-GROUND-STOP-1794844657.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T020833Z_1696795389_RC2DNOANX3MH_RTRMADP_3_USA-FAA-GROUND-STOP-1794844657.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T020833Z_1696795389_RC2DNOANX3MH_RTRMADP_3_USA-FAA-GROUND-STOP-1794844657.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T020833Z_1696795389_RC2DNOANX3MH_RTRMADP_3_USA-FAA-GROUND-STOP-1794844657.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:21:58+00:00"
@@ -299,33 +339,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9a12272f26-1794744610.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9a12272f26-1794744610.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9a12272f26-1794744610.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9a12272f26-1794744610.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:21:58+00:00"
-  },
-  {
-   "id": "c656e17c3cca6bff",
-   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T19:58:18+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yuri Gripas/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
    "id": "ec3f9ec8dface42e",
@@ -6241,48 +6261,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T19:17:36+00:00"
-  },
-  {
-   "id": "0c685c22d387e8b3",
-   "title": "Melanie Joly puts 'aggressive package' to Stellantis in bid to stop sale of Brampton plant",
-   "summary": "Melanie Joly said she would work with the Ontario government and Unifor to propose additional ideas directly to Stellantis' global CEO.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/joly-puts-aggressive-package-to-stellantis-in-bid-to-stop-sale-of-brampton-plant/article_6fbd2eec-e3ad-44be-b332-94f7644a6b33.html",
-   "date": "2026-11-13T20:30:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/8d/18df8bcd-1bbc-5fce-aa7b-20f4c89eaeaa/6af742135a73e.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/8d/18df8bcd-1bbc-5fce-aa7b-20f4c89eaeaa/6af742135a73e.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T19:17:36+00:00"
-  },
-  {
-   "id": "7128e6af0f67e06c",
-   "title": "Send us your questions about climate crisis and politics for the next Stateside guest: Bill McKibben",
-   "summary": "Kai Wright of the Guardian podcast Stateside will speak with author and environmentalist Bill McKibben – and we’d like to hear your questions Was the climate crisis one of your top political priorities during the midterm elections?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/climate-environment-questions-bill-mckibben",
-   "date": "2026-11-13T20:23:23+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Illustration: Guardian Design/DeSean Mclinton-Holland",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f8070363836c2e5ee96e96e4c3d5b492cfeb3233/0_0_3000_2401/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=288c68195844da756a42497abbefa9c5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T20:40:05+00:00"
   }
  ]
 }

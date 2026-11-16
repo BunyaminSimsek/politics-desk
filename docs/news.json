@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T09:01:14+00:00",
+ "generatedAt": "2026-11-16T09:10:22+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "1227e51565299fd3",
+   "title": "CBSA demoting border officers who permanently lost ability to use sidearm",
+   "summary": "The Canada Border Services Agency has informed 63 employees that they will have to take on new, lower-paid positions because of medical conditions that prevent them from carrying a sidearm.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/cbsa-firearm-accommodation-medical-union-9.7421365?cmp=rss",
+   "date": "2026-11-16T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/465f21e7-aca9-4015-b6a0-0b190c66d0e9,1794614331867/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1634%2C919%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T09:10:22+00:00"
+  },
+  {
+   "id": "a1daf166e2f456e2",
+   "title": "Provincial bill could pave the way for more trash incineration to make energy",
+   "summary": "A sweeping bill from the Ford government could pave the way for Ontario to burn more garbage to create energy and address its growing landfill crunch, but critics warn incineration hurts air quality and discourages waste diversion.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/ontario-burning-garbage-incinerators-9.7421081?cmp=rss",
+   "date": "2026-11-16T09:00:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/f7e7f332-c3c1-4226-a779-642367e5b4dd,1794596834249/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T09:10:22+00:00"
+  },
   {
    "id": "62be9210c10e1bcb",
    "title": "Cop31 live: diplomats divided as climate crisis talks enter second week",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T19:44:24+00:00",
+ "generatedAt": "2026-11-16T19:53:57+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -179,9 +179,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/cf928dd0-cdfc-4ebc-8512-424d2b6fe65d,1794850952207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4995%2C2809%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/cf928dd0-cdfc-4ebc-8512-424d2b6fe65d,1794850952207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4995%2C2809%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:44:24+00:00"
@@ -198,10 +198,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f3c3c6f70f587ec003b3db770a4f62ade49142c9/80_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=886fafabcd5b45640316f4d75fddb782",
-    "w": 700,
+    "credit": "Photograph: Peter Byrne/PA",
     "h": 560,
-    "credit": "Photograph: Peter Byrne/PA"
+    "url": "https://i.guim.co.uk/img/media/f3c3c6f70f587ec003b3db770a4f62ade49142c9/80_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=886fafabcd5b45640316f4d75fddb782",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:44:24+00:00"
@@ -603,9 +603,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/eb72a19d-56fc-47a7-8e99-61648965aa93,1794847664933/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C564%2C5400%2C3037%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/eb72a19d-56fc-47a7-8e99-61648965aa93,1794847664933/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C564%2C5400%2C3037%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T17:48:58+00:00"
@@ -3684,7 +3684,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6241,66 +6241,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T17:18:28+00:00"
-  },
-  {
-   "id": "a403c0fcc6ae01fd",
-   "title": "Ottawa won’t clarify stance on possibility of future streamer payments for CanCon",
-   "summary": "OTTAWA - Days after Prime Minister Mark Carney said it isn't necessary to impose a tax on big tech companies, his office won’t say if that means financial contributions from streamers are off the table entirely.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/ottawa-won-t-clarify-stance-on-possibility-of-future-streamer-payments-for-cancon/article_5bd491ea-9609-56b0-8410-c72e0fc70972.html",
-   "date": "2026-11-13T19:52:29+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 799,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/00/60052b8e-c1de-5f02-9d55-3f92461f4af1/6af76b197be38.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/00/60052b8e-c1de-5f02-9d55-3f92461f4af1/6af76b197be38.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T20:03:20+00:00"
-  },
-  {
-   "id": "de06bec5ec8071c8",
-   "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
-   "summary": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-   "date": "2026-11-13T19:51:28+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Cornell Watson/Bloomberg via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5534caea091e39afe776168281e50dd327c8be8e/563_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=d37605075250f78266914b0061ace318",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T06:38:42+00:00"
-  },
-  {
-   "id": "d6ca236c083f4470",
-   "title": "Mark Carney invokes conflict screen after company run by friend got $2.3-billion contract",
-   "summary": "Carney will create a formal conflict of interest 'screen' because of his friendship with the head of Telesat, the Star has learned.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/mark-carney-invokes-conflict-screen-after-company-run-by-friend-got-2-3b-contract/article_bd6d0c13-b9d0-4dea-8514-56c4b5682e29.html",
-   "date": "2026-11-13T19:45:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/82/0827d714-2f02-5473-b371-8c217a5017cd/6af7622df371b.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/82/0827d714-2f02-5473-b371-8c217a5017cd/6af7622df371b.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T20:03:20+00:00"
   }
  ]
 }

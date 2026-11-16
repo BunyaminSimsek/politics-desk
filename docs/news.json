@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T12:16:19+00:00",
+ "generatedAt": "2026-11-16T12:25:40+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,27 +166,12 @@
  ],
  "items": [
   {
-   "id": "dd0fd43506cb1b69",
-   "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
-   "summary": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
-   "date": "2026-11-16T12:08:14+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-16T12:16:19+00:00"
-  },
-  {
    "id": "62be9210c10e1bcb",
-   "title": "Cop31 live: diplomats divided as climate crisis talks enter second week",
+   "title": "Cop31 live: draft climate deal calls for faster shift away from fossil fuels",
    "summary": "Russia and Saudi Arabia among countries objecting to the traditional output text common in previous summits Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference by saying it “is a given” that parties will…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-16T12:07:29+00:00",
+   "date": "2026-11-16T12:21:33+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [
@@ -203,6 +188,41 @@
    "addedAt": "2026-11-16T07:32:36+00:00"
   },
   {
+   "id": "c656e17c3cca6bff",
+   "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
+   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-16T12:11:56+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evelyn Hockstein/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
+  },
+  {
+   "id": "dd0fd43506cb1b69",
+   "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+   "summary": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+   "date": "2026-11-16T12:08:14+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-16T12:16:19+00:00"
+  },
+  {
    "id": "db6cded58baa6c99",
    "title": "Flying blind: inside the decline of the EPA’s chemical-detection plane",
    "summary": "Agency’s Aspect plane once was a key part of tracking toxic chemicals during disasters – why is it now often grounded?",
@@ -214,10 +234,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/17ab1c4bad64148a5e104f5bef4f00be6e91167a/66_0_1917_1534/master/1917.jpg?width=700&quality=85&auto=format&fit=max&s=b422bd18b10ec2e94a994006b71e97d7",
-    "w": 700,
+    "credit": "Photograph: Rob Lehman / Air One Drones",
     "h": 560,
-    "credit": "Photograph: Rob Lehman / Air One Drones"
+    "url": "https://i.guim.co.uk/img/media/17ab1c4bad64148a5e104f5bef4f00be6e91167a/66_0_1917_1534/master/1917.jpg?width=700&quality=85&auto=format&fit=max&s=b422bd18b10ec2e94a994006b71e97d7",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T12:16:19+00:00"
@@ -234,33 +254,13 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "credit": "Photograph: Murdo Macleod/The Guardian",
+    "h": 560,
     "url": "https://i.guim.co.uk/img/media/fadc2a753a2ca35482613659f6d980ad0a106850/141_0_3512_2809/master/3512.jpg?width=700&quality=85&auto=format&fit=max&s=d72e9ddca454821761d654efe4bbdf54",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Murdo Macleod/The Guardian"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T12:16:19+00:00"
-  },
-  {
-   "id": "c656e17c3cca6bff",
-   "title": "DOJ warns Elizabeth Warren over Trump investigations – US politics live",
-   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans following midterms success Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T11:54:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evelyn Hockstein/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
+   "addedAt": "2026-11-16T12:16:19+00:00"
   },
   {
    "id": "000cbbad9d60b755",
@@ -343,6 +343,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:38:44+00:00"
+  },
+  {
+   "id": "f3ddf5c2cb647e70",
+   "title": "Klopp says Infantino worse than Blatter",
+   "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T11:27:08+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T12:25:40+00:00"
   },
   {
    "id": "66292ed108e2f134",
@@ -1908,7 +1928,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -5947,25 +5967,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T13:10:45+00:00"
-  },
-  {
-   "id": "ded0a6494adcd54f",
-   "title": "Ontario Career college saw OSAP use rise by 6,000%, yet avoided funding cut off this spring",
-   "summary": "An Ontario career college with four campuses saw the amount of students receiving financial aid explode over a few years, including an increase of nearly 6,000 per cent at one campus, but it was not one of the schools the government cut off this spring.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/canadian-college-of-business-science-technology-osap-funded-growth-ontario-9.7420340?cmp=rss",
-   "date": "2026-11-13T12:19:09+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/f76443ef-a6b2-4205-97cf-3ff20845ee79,1794571270134/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C423%2C6190%2C3481%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T12:25:02+00:00"
   }
  ]
 }

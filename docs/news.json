@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T21:08:20+00:00",
+ "generatedAt": "2026-11-16T21:17:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "9406c455a5e51d9e",
-   "title": "How Carney’s China visit highlights the stakes—and risks—of closer ties",
-   "summary": "It’s not a question of 'if' but 'how' Canada wants to deepen economic cooperation with China, experts say, as Carney continues push for trade diversification.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12153426/mark-carney-china-visit-2026/",
-   "date": "2026-11-16T21:02:29+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1a66470ca8d87815ad5b38525c7814b4458d532d163ad5ad71332ca5f5a89b25_6e1785.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
-    "h": 621,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1a66470ca8d87815ad5b38525c7814b4458d532d163ad5ad71332ca5f5a89b25_6e1785.jpg?w=640&h=427&crop=1&quality=70&strip=all"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T21:08:20+00:00"
-  },
-  {
    "id": "c656e17c3cca6bff",
    "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
    "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T20:54:28+00:00",
+   "date": "2026-11-16T21:05:58+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -204,6 +184,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:29:03+00:00"
+  },
+  {
+   "id": "9406c455a5e51d9e",
+   "title": "How Carney’s China visit highlights the stakes—and risks—of closer ties",
+   "summary": "It’s not a question of 'if' but 'how' Canada wants to deepen economic cooperation with China, experts say, as Carney continues push for trade diversification.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12153426/mark-carney-china-visit-2026/",
+   "date": "2026-11-16T21:02:29+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 621,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1a66470ca8d87815ad5b38525c7814b4458d532d163ad5ad71332ca5f5a89b25_6e1785.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1a66470ca8d87815ad5b38525c7814b4458d532d163ad5ad71332ca5f5a89b25_6e1785.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T21:08:20+00:00"
+  },
+  {
+   "id": "db43089f31ad646a",
+   "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
+   "summary": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China’s efforts to dominate Get our daily political email , free app or daily news podcast Anthony Albanese will attempt to walk a…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+   "date": "2026-11-16T21:00:21+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Lukas Coch/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=700&quality=85&auto=format&fit=max&s=fe86b6044b3302a726aa13e51c1062e8",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T10:06:05+00:00"
   },
   {
    "id": "849fc6e738b9fc6c",
@@ -584,9 +604,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/4576c1a9-b984-480d-b930-f0b193a64600,1794852306643/full/max/0/default.jpg?im=Crop%2Crect%3D%28160%2C0%2C1759%2C989%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/4576c1a9-b984-480d-b930-f0b193a64600,1794852306643/full/max/0/default.jpg?im=Crop%2Crect%3D%28160%2C0%2C1759%2C989%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
@@ -683,9 +703,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/c9a3d2dc-2019-41d4-93aa-c6326d16104e,1794851429024/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/c9a3d2dc-2019-41d4-93aa-c6326d16104e,1794851429024/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
@@ -1148,9 +1168,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/d8192021-bc8b-4308-921d-6c616744a019,1794855422679/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/d8192021-bc8b-4308-921d-6c616744a019,1794855422679/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
@@ -2109,26 +2129,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-16T09:47:39+00:00"
-  },
-  {
-   "id": "db43089f31ad646a",
-   "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
-   "summary": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China efforts to dominate Get our daily political email , free app or daily news podcast Anthony Albanese will attempt to walk a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-   "date": "2026-11-16T09:40:29+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lukas Coch/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=700&quality=85&auto=format&fit=max&s=fe86b6044b3302a726aa13e51c1062e8",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T10:06:05+00:00"
   },
   {
    "id": "9509ced9ef14cbf3",
@@ -3367,7 +3367,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -6227,23 +6227,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T21:44:05+00:00"
-  },
-  {
-   "id": "ce102f8369e93f4f",
-   "title": "Latino voters help fuel Kansas' blue wave",
-   "summary": "In southwest Kansas, three majority-Latino counties shocked the political establishment by going blue for the first time in decades. Voters and activists say immigration enforcement was a big factor.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6037541/latino-voters-help-fuel-kansas-blue-wave",
-   "date": "2026-11-13T21:13:38+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-13T21:25:50+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T16:29:50+00:00",
+ "generatedAt": "2026-11-16T16:39:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "15065b20df5af940",
+   "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
+   "summary": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
+   "date": "2026-11-16T16:28:19+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2193+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F84%2F4f9289e644cc8e7469d181bc2598%2Fgettyimages-2292989149.jpg",
+    "w": 1200,
+    "h": 877,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2193+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F84%2F4f9289e644cc8e7469d181bc2598%2Fgettyimages-2292989149.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T16:39:29+00:00"
+  },
+  {
    "id": "115d73dd03914851",
    "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
    "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a…",
@@ -179,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=700&quality=85&auto=format&fit=max&s=62388fc28b1e9867cb79eee6dc589b06",
-    "w": 700,
+    "credit": "Photograph: Leonhard Föger/Reuters",
     "h": 560,
-    "credit": "Photograph: Leonhard Föger/Reuters"
+    "url": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=700&quality=85&auto=format&fit=max&s=62388fc28b1e9867cb79eee6dc589b06",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T16:29:50+00:00"
@@ -2226,9 +2246,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/ec4d5996-8483-4276-8fd1-66e44b91dfa7,1794846252964/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C201%2C3854%2C2167%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/ec4d5996-8483-4276-8fd1-66e44b91dfa7,1794846252964/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C201%2C3854%2C2167%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-15T21:24:55+00:00"
@@ -2484,7 +2504,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -6089,28 +6109,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T09:13:24+00:00"
-  },
-  {
-   "id": "9519d78de0e4d5e3",
-   "title": "California governor Gavin Newsom endorses global fossil fuel phaseout",
-   "summary": "Newsom is the most prominent US politician at Cop31, a process the Trump administration continues to boycott The leader of the world’s fourth biggest economy, California governor Gavin Newsom, has explicitly endorsed a global phase out of the fossil fuels…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/13/california-gavin-newsom-endorses-fossil-fuel-phaseout",
-   "date": "2026-11-13T16:31:28+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chris McGrath/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/26464f4e00e14d77b322aee1301790796f53c09a/913_0_5921_4738/master/5921.jpg?width=700&quality=85&auto=format&fit=max&s=cc5b83cc68959964f2d5f280cb907f6a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T16:51:00+00:00"
   }
  ]
 }

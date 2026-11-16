@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T16:39:29+00:00",
+ "generatedAt": "2026-11-16T16:50:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "c656e17c3cca6bff",
+   "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
+   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-16T16:31:01+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evelyn Hockstein/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
+  },
+  {
+   "id": "bff1d80a5b36818d",
+   "title": "Mark Carney arrives in China seeking trade opportunities amid U.S. uncertainty",
+   "summary": "The prime minister makes his second trip in 11 months to China to attend the summit of the Asia-Pacific Economic Cooperation forum.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/mark-carney-arrives-in-china-seeking-trade-opportunities-amid-u-s-uncertainty/article_0b3518f8-bf6f-4c76-838e-1325f95f2434.html",
+   "date": "2026-11-16T16:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/27/f27a9690-7a3f-53e6-b8b0-84f9c9131c12/6afb154a5cf36.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/27/f27a9690-7a3f-53e6-b8b0-84f9c9131c12/6afb154a5cf36.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T16:50:03+00:00"
+  },
+  {
    "id": "15065b20df5af940",
    "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
    "summary": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children.",
@@ -177,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2193+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F84%2F4f9289e644cc8e7469d181bc2598%2Fgettyimages-2292989149.jpg",
-    "w": 1200,
     "h": 877,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2193+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F84%2F4f9289e644cc8e7469d181bc2598%2Fgettyimages-2292989149.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2193+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F84%2F4f9289e644cc8e7469d181bc2598%2Fgettyimages-2292989149.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2193+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F84%2F4f9289e644cc8e7469d181bc2598%2Fgettyimages-2292989149.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T16:39:29+00:00"
@@ -226,26 +266,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:29:24+00:00"
-  },
-  {
-   "id": "c656e17c3cca6bff",
-   "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
-   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T16:10:52+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evelyn Hockstein/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
    "id": "0e930dbd08b09444",
@@ -3022,7 +3042,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6047,68 +6067,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T17:09:20+00:00"
-  },
-  {
-   "id": "139a1145e72fe53e",
-   "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
-   "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
-   "date": "2026-11-13T16:44:56+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7294c1cfc-1794582860.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7294c1cfc-1794582860.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T16:51:00+00:00"
-  },
-  {
-   "id": "d52444b99fb9fa3e",
-   "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-   "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T16:40:31+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T17:00:12+00:00"
-  },
-  {
-   "id": "0b3759f8bed346b2",
-   "title": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – as it happened",
-   "summary": "This blog is now closed Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour a perfect pint of Guinness.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-   "date": "2026-11-13T16:39:34+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Liam McBurney/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e308c3f7bef8218a6a291d8a4a13b3ac9c676166/1128_254_3855_3084/master/3855.jpg?width=700&quality=85&auto=format&fit=max&s=91c000d8e320f21d165dccb1cf8b3803",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T09:13:24+00:00"
   }
  ]
 }

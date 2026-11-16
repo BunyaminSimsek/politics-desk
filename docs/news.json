@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T12:34:50+00:00",
+ "generatedAt": "2026-11-16T12:44:00+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,13 +41,13 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,13 +166,33 @@
  ],
  "items": [
   {
+   "id": "0af1ea9ab31215f0",
+   "title": "Milton, Ont. to swear in first new mayor in 46 years as Gord Krantz leaves office",
+   "summary": "George Minakakis and eight regional and town councillors will take their oaths of office at the council’s inaugural meeting Monday night.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12152527/milton-mayor-gord-krantz/",
+   "date": "2026-11-16T12:39:58+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/31ae547b44e201c77a3dc3b459de7818dd59b6ebcab55bf9b8504d761573144c.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/31ae547b44e201c77a3dc3b459de7818dd59b6ebcab55bf9b8504d761573144c.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T12:44:00+00:00"
+  },
+  {
    "id": "62be9210c10e1bcb",
    "title": "Cop31 live: draft climate deal calls for faster shift away from fossil fuels",
-   "summary": "Russia and Saudi Arabia among countries objecting to the traditional output text common in previous summits Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference by saying it “is a given” that parties will…",
+   "summary": "‘Cancer of indifference’ to climate crisis is pushing the world closer to the brink, says Mia Mottley as UN talks enter second week Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference by saying it “is a…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-16T12:30:57+00:00",
-   "topic": "ukraine",
+   "date": "2026-11-16T12:39:30+00:00",
+   "topic": "asia",
    "region": "world",
    "tags": [
     "climate"
@@ -186,6 +206,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T07:32:36+00:00"
+  },
+  {
+   "id": "797d00ec636ba3b4",
+   "title": "Burnham sets three tests for EU deal, saying it should make Brexit ‘closer to what people thought they were voting for’ – UK politics live",
+   "summary": "PM to address fallout from Brexit in speech this evening Burnham to say Brexit ‘has not worked’ At her press conference, Kemi Badenoch faced various questions about Brexit, and Andy Burnham’s reset deal with the EU.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+   "date": "2026-11-16T12:23:26+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Annabel Lee-Ellis/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/2ea4cbf637966baf9c26015df59668f59c6fb69e/759_456_4582_3666/master/4582.jpg?width=700&quality=85&auto=format&fit=max&s=e4ac8ef799ed8beda9eabc1788222730",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T09:29:24+00:00"
   },
   {
    "id": "c656e17c3cca6bff",
@@ -245,7 +287,7 @@
   {
    "id": "6b8a3d787cc99aa8",
    "title": "Great Britain’s oldest renewables projects could rake in nearly £9bn next year",
-   "summary": "Subsidy scheme, which is paid via taxes and energy bills, must be reformed, ECU analysis finds Business live – latest updates Great Britain’s oldest renewable energy projects are likely to rake in an almost £9bn windfall next year because of soaring market…",
+   "summary": "Subsidy scheme, which is paid via taxes and energy bills, must be reformed, ECU analysis finds Business live – latest updates Great Britain’s oldest renewable energy projects are likely to rake in a near £9bn windfall next year because of soaring market…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/16/great-britain-renewable-energy-subsidies-wind-solar",
    "date": "2026-11-16T11:56:20+00:00",
@@ -264,8 +306,8 @@
   },
   {
    "id": "000cbbad9d60b755",
-   "title": "First Thing: Trump administration blames travel chaos on former presidents and Congress",
-   "summary": "Donald Trump on Sunday blamed the Biden administration for the four-hour nationwide flight stoppage that led to thousands of canceled flights over the weekend. Plus: How Israel is using Amazon facial recognition to track Palestinians Good morning.",
+   "title": "Trump administration blames travel chaos on former presidents and Congress | First Thing",
+   "summary": "Donald Trump on Sunday blamed the Biden administration for the four-hour nationwide flight stoppage that led to thousands of canceled flights over the weekend.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/16/first-thing-trump-administration-blames-travel-chaos-on-former-presidents-and-congress",
    "date": "2026-11-16T11:46:33+00:00",
@@ -301,28 +343,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:57:52+00:00"
-  },
-  {
-   "id": "797d00ec636ba3b4",
-   "title": "Burnham sets three tests for EU deal, saying it should make Brexit ‘closer to what people thought they were voting for’ – UK politics live",
-   "summary": "PM to address fallout from Brexit in speech this evening Burnham to say Brexit ‘has not worked’ Following the Russell Brand conviction, and the revelations about David Walliams, there have been calls for the government to introduce a “staggered” age of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "date": "2026-11-16T11:30:08+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Annabel Lee-Ellis/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2ea4cbf637966baf9c26015df59668f59c6fb69e/759_456_4582_3666/master/4582.jpg?width=700&quality=85&auto=format&fit=max&s=e4ac8ef799ed8beda9eabc1788222730",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T09:29:24+00:00"
   },
   {
    "id": "ff07da10697e68c2",
@@ -1928,7 +1948,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

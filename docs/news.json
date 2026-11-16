@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T21:37:06+00:00",
+ "generatedAt": "2026-11-16T21:46:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -177,9 +177,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/20b7dae8-7148-4e31-a6d1-f149d80dfaf0,1794863568899/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/20b7dae8-7148-4e31-a6d1-f149d80dfaf0,1794863568899/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T21:37:06+00:00"
@@ -196,9 +196,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T21:37:06+00:00"
@@ -217,10 +217,10 @@
    ],
    "kind": "analysis",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/85/4854f772-d46d-548f-93d7-87cc933322fb/6af2125977645.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/85/4854f772-d46d-548f-93d7-87cc933322fb/6af2125977645.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/85/4854f772-d46d-548f-93d7-87cc933322fb/6af2125977645.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/85/4854f772-d46d-548f-93d7-87cc933322fb/6af2125977645.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T21:37:06+00:00"
@@ -562,9 +562,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/cf928dd0-cdfc-4ebc-8512-424d2b6fe65d,1794850952207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4995%2C2809%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/cf928dd0-cdfc-4ebc-8512-424d2b6fe65d,1794850952207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4995%2C2809%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:44:24+00:00"
@@ -3469,7 +3469,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

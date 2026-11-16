@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T16:10:51+00:00",
+ "generatedAt": "2026-11-16T16:20:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/e9abfc9d38fb847951ac25392dcdc53fcf6a2701/430_0_4292_3434/master/4292.jpg?width=700&quality=85&auto=format&fit=max&s=c6eed3537980cf5ad2aaaf9c465a8904",
-    "w": 700,
+    "credit": "Photograph: Heather Diehl/Getty Images",
     "h": 560,
-    "credit": "Photograph: Heather Diehl/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/e9abfc9d38fb847951ac25392dcdc53fcf6a2701/430_0_4292_3434/master/4292.jpg?width=700&quality=85&auto=format&fit=max&s=c6eed3537980cf5ad2aaaf9c465a8904",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T16:10:51+00:00"
@@ -448,9 +448,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/dfb36435-07e6-45c6-8ad2-0a9a13fdba11,1794836910720/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5472%2C3078%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/dfb36435-07e6-45c6-8ad2-0a9a13fdba11,1794836910720/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5472%2C3078%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T14:17:37+00:00"
@@ -2462,7 +2462,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

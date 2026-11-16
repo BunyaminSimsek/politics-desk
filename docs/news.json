@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T11:57:52+00:00",
+ "generatedAt": "2026-11-16T12:07:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Russia and Saudi Arabia among countries objecting to the traditional output text common in previous summits Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference by saying it “is a given” that parties will…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-16T11:55:49+00:00",
+   "date": "2026-11-16T11:58:04+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [
@@ -188,6 +188,26 @@
    "addedAt": "2026-11-16T07:32:36+00:00"
   },
   {
+   "id": "c656e17c3cca6bff",
+   "title": "DOJ warns Elizabeth Warren over Trump investigations – US politics live",
+   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans following midterms success Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-16T11:54:57+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evelyn Hockstein/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
+  },
+  {
    "id": "000cbbad9d60b755",
    "title": "First Thing: Trump administration blames travel chaos on former presidents and Congress",
    "summary": "Donald Trump on Sunday blamed the Biden administration for the four-hour nationwide flight stoppage that led to thousands of canceled flights over the weekend. Plus: How Israel is using Amazon facial recognition to track Palestinians Good morning.",
@@ -199,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3895a73fc525e4b560bc91f0b5480fe71850c3d8/717_0_7144_5719/master/7144.jpg?width=700&quality=85&auto=format&fit=max&s=6b568ff543091279c68f290b0a7af033",
-    "w": 700,
+    "credit": "Photograph: Aaron Schwartz/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Aaron Schwartz/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/3895a73fc525e4b560bc91f0b5480fe71850c3d8/717_0_7144_5719/master/7144.jpg?width=700&quality=85&auto=format&fit=max&s=6b568ff543091279c68f290b0a7af033",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:57:52+00:00"
@@ -219,33 +239,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2020/03/c83ddbc80ee346baa03f767854b184cb_18.jpeg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2020/03/c83ddbc80ee346baa03f767854b184cb_18.jpeg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2020/03/c83ddbc80ee346baa03f767854b184cb_18.jpeg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2020/03/c83ddbc80ee346baa03f767854b184cb_18.jpeg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:57:52+00:00"
-  },
-  {
-   "id": "c656e17c3cca6bff",
-   "title": "DOJ warns Elizabeth Warren over Trump investigations – US politics live",
-   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans following midterms success Democratic US senator Chris Van Hollen on Sunday escalated his bid to lead his party’s incoming Senate majority rather…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T11:32:14+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evelyn Hockstein/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
    "id": "797d00ec636ba3b4",
@@ -5946,88 +5946,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-13T12:15:55+00:00"
-  },
-  {
-   "id": "af521c5e4510e056",
-   "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
-   "summary": "Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow held US-brokered talks in Abu Dhabi.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks?traffic_source=rss",
-   "date": "2026-11-13T12:06:56+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af6e73a-1794565946.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af6e73a-1794565946.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T12:25:02+00:00"
-  },
-  {
-   "id": "0b14a173adc3b0a0",
-   "title": "Democrats fumbled the Hegseth impeachment. That could be a blessing in disguise | Claire Finkelstein",
-   "summary": "The failed move could lead to a more robust effort against the defense secretary in the next Congress.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/13/democrats-hegseth-impeachment",
-   "date": "2026-11-13T12:00:18+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kylie Cooper/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/94c9336643b6523a69f9d8a8eb56ea0d2490e9e7/165_0_1649_1319/master/1649.jpg?width=700&quality=85&auto=format&fit=max&s=8210f1c741afae479a1588a4a035de22",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T12:15:55+00:00"
-  },
-  {
-   "id": "80dc73363ff07484",
-   "title": "Why the Nvidia cheating scandal is bad for Trump | Politics Weekly America",
-   "summary": "Jonathan Freedland speaks to Susan Glasser of the New Yorker about why Trump’s judgment of high-profile men is questionable Continue reading...",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/video/2026/nov/13/why-the-nvidia-cheating-scandal-is-bad-for-trump-politics-weekly-america",
-   "date": "2026-11-13T12:00:18+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7f571bba7cd9bc06e27cf2a4ab996e1f11d17244/258_0_3574_2859/master/3574.jpg?width=700&quality=85&auto=format&fit=max&s=dbbb957659a269ac5347c24ec52a2d59",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T12:15:55+00:00"
-  },
-  {
-   "id": "934227e4765b1a1c",
-   "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
-   "summary": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
-   "date": "2026-11-13T11:59:34+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-28T064047Z_1130127645_RC2UUJAD7YRB_RTRMADP_3_AFGHANISTAN-PAKISTAN-1794559223.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-28T064047Z_1130127645_RC2UUJAD7YRB_RTRMADP_3_AFGHANISTAN-PAKISTAN-1794559223.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T12:25:02+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T13:40:07+00:00",
+ "generatedAt": "2026-11-16T13:49:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "62be9210c10e1bcb",
+   "title": "Cop31 live: draft climate deal calls for faster shift away from fossil fuels",
+   "summary": "‘Cancer of indifference’ to climate crisis is pushing the world closer to the brink, says Mia Mottley as UN talks enter second week Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference by saying it “is a…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-16T13:47:12+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Murad Sezer/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/764096349924a217692acd2f13488727c9cba566/792_0_6641_5312/master/6641.jpg?width=700&quality=85&auto=format&fit=max&s=3aa42636a87e4870ef21087f788c059f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T07:32:36+00:00"
+  },
+  {
+   "id": "c656e17c3cca6bff",
+   "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
+   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-16T13:37:34+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evelyn Hockstein/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
+  },
+  {
+   "id": "13ca5ddebe72b9fb",
+   "title": "Under-threat lidos get lifeline as Andy Burnham sets up fund to rebuild pools",
+   "summary": "Move reflects growing demand for outdoor swimming as Britain heats up and follows campaign by MPs Andy Burnham is setting up a public fund to rebuild the UK’s lidos after a revival in outdoor swimming. Outdoor pools were built across the UK in the 1930s.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/16/lidos-lifeline-andy-burnham-fund-rebuild-outdoor-pools",
+   "date": "2026-11-16T13:35:49+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/aa60d9ca769129b85ffb3080fdd35fc29b38374b/566_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f6e4c426a415447ecb771b4d929d253c",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Joe Giddens/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T13:49:44+00:00"
+  },
+  {
    "id": "ba6ccce3f0c5c200",
    "title": "International student enrollments at US universities plunge this fall, data shows",
    "summary": "Report finds fewer international students studying in US amid Trump’s crackdowns on immigration and education Fewer international students are studying at US universities as the Trump administration cracks down on immigration and reshapes higher education…",
@@ -179,10 +241,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/7fa65ad313d07622e6bbc9cd9e97896196bba758/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=892e781d265f5d699d85aedf0801d47e",
-    "w": 700,
+    "credit": "Photograph: Cassandra Klos/Bloomberg via Getty Images",
     "h": 560,
-    "credit": "Photograph: Cassandra Klos/Bloomberg via Getty Images"
+    "url": "https://i.guim.co.uk/img/media/7fa65ad313d07622e6bbc9cd9e97896196bba758/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=892e781d265f5d699d85aedf0801d47e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T13:40:07+00:00"
@@ -199,10 +261,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP174524333-e1794835571435.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1120,
     "h": 747,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP174524333-e1794835571435.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP174524333-e1794835571435.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP174524333-e1794835571435.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1120
    },
    "breaking": false,
    "addedAt": "2026-11-16T13:40:07+00:00"
@@ -228,46 +290,24 @@
    "addedAt": "2026-11-16T09:29:24+00:00"
   },
   {
-   "id": "62be9210c10e1bcb",
-   "title": "Cop31 live: draft climate deal calls for faster shift away from fossil fuels",
-   "summary": "‘Cancer of indifference’ to climate crisis is pushing the world closer to the brink, says Mia Mottley as UN talks enter second week Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference by saying it “is a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-16T13:18:23+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Murad Sezer/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/764096349924a217692acd2f13488727c9cba566/792_0_6641_5312/master/6641.jpg?width=700&quality=85&auto=format&fit=max&s=3aa42636a87e4870ef21087f788c059f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T07:32:36+00:00"
-  },
-  {
-   "id": "c656e17c3cca6bff",
-   "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
-   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T13:11:58+00:00",
-   "topic": "us",
+   "id": "df3df6747a31418e",
+   "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+   "summary": "EU foreign policy chief Kaja Kallas says Russian President Vladimir Putin is making maximalist demands.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
+   "date": "2026-11-16T13:28:23+00:00",
+   "topic": "ukraine",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Evelyn Hockstein/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
-    "w": 700
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afaf8b7-1794832567.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afaf8b7-1794832567.jpg?resize=640%2C427"
    },
    "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
+   "addedAt": "2026-11-16T13:49:44+00:00"
   },
   {
    "id": "496fb6cbe7bf5d6d",
@@ -521,9 +561,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/75f49ae2-6391-4c6a-91f0-9cd971daa261,1794808397334/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C503%2C7805%2C4390%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/75f49ae2-6391-4c6a-91f0-9cd971daa261,1794808397334/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C503%2C7805%2C4390%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:38:44+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T16:50:03+00:00",
+ "generatedAt": "2026-11-16T17:01:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,13 +41,13 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "4e32932ee6d39322",
+   "title": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
+   "summary": "Many countries surprised to see first version delivered with more than four days of negotiation still remaining A draft text of a possible final outcome from the Cop31 UN climate summit is an attempt to “draw out parties” on their areas of agreement and…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
+   "date": "2026-11-16T16:54:42+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/a2d4b420ed47005796a742b6214ae07afc58f5e1/536_0_6113_4890/master/6113.jpg?width=700&quality=85&auto=format&fit=max&s=0b774c93d2e425c8ace144e6669e7a88",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Tolga Akmen/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T17:01:10+00:00"
+  },
+  {
+   "id": "49a1ce094a2bb655",
+   "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+   "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, as he joined Silicon Valley heavyweights in demanding the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+   "date": "2026-11-16T16:48:47+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/7f67412f0366dc2ae41bf00eadde0fe0b8e1c6d0/817_89_6141_4914/master/6141.jpg?width=700&quality=85&auto=format&fit=max&s=66a9b2bf3bc1da452db630c79b27049c",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jim Lo Scalzo/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T17:01:10+00:00"
+  },
+  {
+   "id": "95c2347e050b9459",
+   "title": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election",
+   "summary": "French Football Federation chief Diallo emerges as a strong challenger in FIFA's presidential election before deadline.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
+   "date": "2026-11-16T16:46:05+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260626__B8G94LY__v1__HighRes__FblWc2026Match61NorFra-1794846981.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260626__B8G94LY__v1__HighRes__FblWc2026Match61NorFra-1794846981.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T17:01:10+00:00"
+  },
+  {
    "id": "c656e17c3cca6bff",
    "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
    "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success",
@@ -197,10 +259,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/27/f27a9690-7a3f-53e6-b8b0-84f9c9131c12/6afb154a5cf36.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/27/f27a9690-7a3f-53e6-b8b0-84f9c9131c12/6afb154a5cf36.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/27/f27a9690-7a3f-53e6-b8b0-84f9c9131c12/6afb154a5cf36.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/27/f27a9690-7a3f-53e6-b8b0-84f9c9131c12/6afb154a5cf36.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T16:50:03+00:00"
@@ -306,6 +368,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T15:52:31+00:00"
+  },
+  {
+   "id": "325059606130af6e",
+   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign",
+   "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T15:31:20+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T17:01:10+00:00"
   },
   {
    "id": "62be9210c10e1bcb",
@@ -571,9 +655,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/9758adbb-efbe-4be1-9aac-55c45ebce441,1794840556331/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8179%2C4600%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/9758adbb-efbe-4be1-9aac-55c45ebce441,1794840556331/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8179%2C4600%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T14:27:19+00:00"
@@ -2524,7 +2608,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -3042,7 +3126,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6027,46 +6111,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T17:36:49+00:00"
-  },
-  {
-   "id": "c525c341d288a543",
-   "title": "The Trump administration's voter roll crusade could continue",
-   "summary": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
-   "date": "2026-11-13T17:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 793,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6903x4560+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fdd%2F1b4c60f94f53a919c64962a66656%2Fgettyimages-2303720039.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6903x4560+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fdd%2F1b4c60f94f53a919c64962a66656%2Fgettyimages-2303720039.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T17:09:20+00:00"
-  },
-  {
-   "id": "4dd60471ad16d8b0",
-   "title": "Quebec won't talk independence at Francophonie summit, minister says",
-   "summary": "PHNOM PENH - The new Parti Québécois government won't be discussing independence at the Francophonie Summit which starts Sunday in Phnom Penh, Cambodia.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/quebec-won-t-talk-independence-at-francophonie-summit-minister-says/article_9da3f53c-49f1-5209-a495-86c346d3acf1.html",
-   "date": "2026-11-13T16:56:09+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 897,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/aa/8aac8e54-c0fd-512f-8b65-2bc6c27112f4/6af742247b8fa.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/aa/8aac8e54-c0fd-512f-8b65-2bc6c27112f4/6af742247b8fa.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T17:09:20+00:00"
   }
  ]
 }

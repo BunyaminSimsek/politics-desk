@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T17:39:34+00:00",
+ "generatedAt": "2026-11-16T17:48:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "e4402eb32934947e",
+   "title": "U.S. further restricts China's access to AI chips in wake of Nvidia scandal",
+   "summary": "The Trump administration on Monday issued a rule that will further restrict China's access to the best AI chips from companies like Nvidia, just as U.S. President Donald Trump began a trip to China to meet with President Xi Jinping.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/us-china-ai-nvidia-9.7423734?cmp=rss",
+   "date": "2026-11-16T17:36:06+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/eb72a19d-56fc-47a7-8e99-61648965aa93,1794847664933/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C564%2C5400%2C3037%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T17:48:58+00:00"
+  },
+  {
    "id": "1cc4cd08b35a52e1",
    "title": "Nearly two million people are behind bars in the US. How did we get here?",
    "summary": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America , goes inside the U.S. prison system and explores how our approach to criminals has changed over time.",
@@ -194,10 +213,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/6d/76d4fd04-2161-5133-a650-6989cb4e325b/6a291aaf33dc0.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/6d/76d4fd04-2161-5133-a650-6989cb4e325b/6a291aaf33dc0.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/6d/76d4fd04-2161-5133-a650-6989cb4e325b/6a291aaf33dc0.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/6d/76d4fd04-2161-5133-a650-6989cb4e325b/6a291aaf33dc0.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T17:39:34+00:00"
@@ -903,6 +922,26 @@
    "addedAt": "2026-11-16T13:49:44+00:00"
   },
   {
+   "id": "21d8d76d09ce873d",
+   "title": "Beckham firm sues after fragrance found for sale in discount store",
+   "summary": "Brand reacted with ‘shock and dismay’ after products were also found in a ‘bargain bin inside a gas station’ Business live – latest updates David Beckham’s company reacted with “shock and dismay” after discovering his branded fragrance range was on sale in…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
+   "date": "2026-11-16T13:26:35+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b545f9d7a790ea86d7c205a1aa43db5a001f1e42/1779_175_2064_1652/master/2064.jpg?width=700&quality=85&auto=format&fit=max&s=3f18bdcf9703cc4974b217da2b9f5ef1",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jayce Illman/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T17:48:58+00:00"
+  },
+  {
    "id": "496fb6cbe7bf5d6d",
    "title": "Ukraine launches biggest drone attack on Russia since war began: Defence ministry",
    "summary": "Russian air defences intercepted 1,336 drones launched by Ukraine, Russia's Defence Ministry said Monday, in what appeared to be Kyiv's biggest aerial attack since Moscow's all-out invasion of its neighbour nearly five years ago.",
@@ -1532,7 +1571,7 @@
   },
   {
    "id": "1ebeac0f80181a2b",
-   "title": "Carney heads to China to meet with President Xi, leaders from across Pacific Rim",
+   "title": "Carney in China to meet with President Xi, leaders from across Pacific Rim",
    "summary": "Carney is travelling to Shenzhen, China's tech hub, for the Asia-Pacific Economic Co-operation summit.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/business/carney-heads-to-china-to-meet-with-president-xi-leaders-from-across-pacific-rim/article_74cb8230-8e11-5372-9d6e-404b83a568d8.html",
@@ -3265,7 +3304,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

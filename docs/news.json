@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T13:49:44+00:00",
+ "generatedAt": "2026-11-16T13:59:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -188,6 +188,26 @@
    "addedAt": "2026-11-16T07:32:36+00:00"
   },
   {
+   "id": "b382c98835c03b88",
+   "title": "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care",
+   "summary": "The Pakistan Tehreek-e-Insaf party founder says court orders on his care were ignored and he ‘may not return alive’.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/jailed-pakistan-ex-pm-imran-khan-writes-to-judges-seeks-vital-medical-care?traffic_source=rss",
+   "date": "2026-11-16T13:45:50+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2024/11/AP24058363789663-1732881479.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2024/11/AP24058363789663-1732881479.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T13:59:16+00:00"
+  },
+  {
    "id": "c656e17c3cca6bff",
    "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
    "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success",
@@ -219,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/aa60d9ca769129b85ffb3080fdd35fc29b38374b/566_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f6e4c426a415447ecb771b4d929d253c",
-    "w": 700,
+    "credit": "Photograph: Joe Giddens/PA",
     "h": 560,
-    "credit": "Photograph: Joe Giddens/PA"
+    "url": "https://i.guim.co.uk/img/media/aa60d9ca769129b85ffb3080fdd35fc29b38374b/566_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f6e4c426a415447ecb771b4d929d253c",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T13:49:44+00:00"
@@ -301,10 +321,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afaf8b7-1794832567.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afaf8b7-1794832567.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afaf8b7-1794832567.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afaf8b7-1794832567.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T13:49:44+00:00"
@@ -2134,7 +2154,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -2652,7 +2672,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6092,28 +6112,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T14:14:37+00:00"
-  },
-  {
-   "id": "bdd0e45929053361",
-   "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
-   "summary": "First direct attack on US military installations for months was in response to US airstrike on communications tower Iran’s Islamic Revolutionary Guard Corps says it has targeted and destroyed a US early-warning radar in Bahrain in response to a US airstrike…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
-   "date": "2026-11-13T13:52:11+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Majid Asgaripour/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=700&quality=85&auto=format&fit=max&s=ebed40767ce71ed098a16a5c8113d385",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T12:25:02+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T01:06:51+00:00",
+ "generatedAt": "2026-11-16T01:15:57+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -427,9 +427,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/b64475a1-382a-4615-9c78-6eb0ec5724d6,1794768900564/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C464%2C7964%2C4479%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/b64475a1-382a-4615-9c78-6eb0ec5724d6,1794768900564/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C464%2C7964%2C4479%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-15T21:15:17+00:00"
@@ -1403,7 +1403,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

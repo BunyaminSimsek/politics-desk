@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T09:29:24+00:00",
+ "generatedAt": "2026-11-16T09:38:30+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "9509ced9ef14cbf3",
+   "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
+   "summary": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+   "date": "2026-11-16T09:31:36+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794821462.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794821462.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T09:38:30+00:00"
+  },
+  {
+   "id": "62be9210c10e1bcb",
+   "title": "Cop31 live: diplomats divided as climate crisis talks enter second week",
+   "summary": "Russia and Saudi Arabia among countries objecting to the traditional output text common in previous summits Moves to weaken the UK’s targets on electric vehicles would hurt the car industry as well as consumers, campaigners and experts have said before a key…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-16T09:29:26+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tolga Akmen/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c23430a7c80647ec8d6367b442f7b732c326074b/776_0_6120_4896/master/6120.jpg?width=700&quality=85&auto=format&fit=max&s=09e441b46ca9d3f9687f6365ce9191ad",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T07:32:36+00:00"
+  },
+  {
    "id": "64aa35edcfec120c",
    "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
    "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
@@ -199,10 +241,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/5abef6272b524d031e88e996ddb75818ad7ddf73/0_0_3417_2735/master/3417.jpg?width=700&quality=85&auto=format&fit=max&s=f3e686a1d70f65548f48299a9a12d91c",
-    "w": 700,
+    "credit": "Photograph: Brendan Smialowski/Pool AFP/AP",
     "h": 560,
-    "credit": "Photograph: Brendan Smialowski/Pool AFP/AP"
+    "url": "https://i.guim.co.uk/img/media/5abef6272b524d031e88e996ddb75818ad7ddf73/0_0_3417_2735/master/3417.jpg?width=700&quality=85&auto=format&fit=max&s=f3e686a1d70f65548f48299a9a12d91c",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:29:24+00:00"
@@ -329,28 +371,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:19:52+00:00"
-  },
-  {
-   "id": "62be9210c10e1bcb",
-   "title": "Cop31 live: diplomats divided as climate crisis talks enter second week",
-   "summary": "Russia and Saudi Arabia among countries objecting to the traditional output text common in previous summits Civil society campaigners say that one of the key wins from Cop30 last year is under threat of being rendered impotent by opposition from global north…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-16T08:59:07+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tolga Akmen/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c23430a7c80647ec8d6367b442f7b732c326074b/776_0_6120_4896/master/6120.jpg?width=700&quality=85&auto=format&fit=max&s=09e441b46ca9d3f9687f6365ce9191ad",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T07:32:36+00:00"
   },
   {
    "id": "d2163a0002bf67b9",
@@ -1446,7 +1466,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -1964,7 +1984,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

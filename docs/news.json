@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T14:46:06+00:00",
+ "generatedAt": "2026-11-16T14:55:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "b5a71cc8da8f4148",
-   "title": "Infantino made things worse at FIFA than Blatter , says Jurgen Klopp",
-   "summary": "The Germany coach believes anyone who replaces the FIFA president should care deeply about the future of football.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
-   "date": "2026-11-16T14:36:23+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afad8caca-1794824394.jpg?resize=1200%2C800",
-    "w": 1200,
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afad8caca-1794824394.jpg?resize=640%2C427"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T14:46:06+00:00"
-  },
-  {
    "id": "62be9210c10e1bcb",
    "title": "Cop31 live: draft climate deal calls for faster shift away from fossil fuels",
    "summary": "‘Cancer of indifference’ to climate crisis is pushing the world closer to the brink, says Mia Mottley as UN talks enter second week Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference by saying it “is a…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-16T14:34:37+00:00",
+   "date": "2026-11-16T14:46:23+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [
@@ -206,6 +186,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T07:32:36+00:00"
+  },
+  {
+   "id": "b5a71cc8da8f4148",
+   "title": "Infantino made things worse at FIFA than Blatter , says Jurgen Klopp",
+   "summary": "The Germany coach believes anyone who replaces the FIFA president should care deeply about the future of football.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
+   "date": "2026-11-16T14:36:23+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afad8caca-1794824394.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afad8caca-1794824394.jpg?resize=1200%2C800",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T14:46:06+00:00"
   },
   {
    "id": "3a1007cf823fab4f",
@@ -395,7 +395,7 @@
   },
   {
    "id": "6af7c21d93a1d9b5",
-   "title": "Canada’s inflation rate flat year-over-year in October: StatsCan",
+   "title": "Gas prices rose faster while inflation was flat in October: StatsCan",
    "summary": "The national inflation rate was flat on an annualized basis in October, according to data released by Statistics Canada on Monday.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/business/cpi-inflation-october-9.7423293?cmp=rss",
@@ -407,9 +407,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/9758adbb-efbe-4be1-9aac-55c45ebce441,1794840556331/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8179%2C4600%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.7099662,1783812747538/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C620%2C348%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T14:27:19+00:00"
@@ -2321,7 +2321,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"

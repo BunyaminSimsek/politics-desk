@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T14:36:56+00:00",
+ "generatedAt": "2026-11-16T14:46:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "CBC World",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "b5a71cc8da8f4148",
+   "title": "Infantino made things worse at FIFA than Blatter , says Jurgen Klopp",
+   "summary": "The Germany coach believes anyone who replaces the FIFA president should care deeply about the future of football.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
+   "date": "2026-11-16T14:36:23+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afad8caca-1794824394.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afad8caca-1794824394.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T14:46:06+00:00"
+  },
+  {
    "id": "62be9210c10e1bcb",
    "title": "Cop31 live: draft climate deal calls for faster shift away from fossil fuels",
    "summary": "‘Cancer of indifference’ to climate crisis is pushing the world closer to the brink, says Mia Mottley as UN talks enter second week Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference by saying it “is a…",
@@ -201,10 +221,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d881ae7ec90fe3df31e297b22c8ff5c5d63280cc/758_0_5693_4553/master/5693.jpg?width=700&quality=85&auto=format&fit=max&s=fb94f0ce3cc1fa18fd199f4ffd6f8f71",
-    "w": 700,
+    "credit": "Photograph: Eduardo Barraza/ZUMA Press Wire/Shutterstock",
     "h": 560,
-    "credit": "Photograph: Eduardo Barraza/ZUMA Press Wire/Shutterstock"
+    "url": "https://i.guim.co.uk/img/media/d881ae7ec90fe3df31e297b22c8ff5c5d63280cc/758_0_5693_4553/master/5693.jpg?width=700&quality=85&auto=format&fit=max&s=fb94f0ce3cc1fa18fd199f4ffd6f8f71",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T14:36:56+00:00"
@@ -261,13 +281,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a07501dfe2a673b19817618af4cb5f90fb6e5076/629_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=393315e00ba2f9aaa1981112bc4c9d06",
-    "w": 700,
+    "credit": "Photograph: Lindsey Wasson/AP",
     "h": 560,
-    "credit": "Photograph: Lindsey Wasson/AP"
+    "url": "https://i.guim.co.uk/img/media/a07501dfe2a673b19817618af4cb5f90fb6e5076/629_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=393315e00ba2f9aaa1981112bc4c9d06",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T14:36:56+00:00"
+  },
+  {
+   "id": "c656e17c3cca6bff",
+   "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
+   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-16T14:23:46+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evelyn Hockstein/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
    "id": "72ba40acde8d0cb8",
@@ -284,10 +326,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/775e/live/126ac8e0-e1be-11f1-a339-49d4d3ed4c86.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/775e/live/126ac8e0-e1be-11f1-a339-49d4d3ed4c86.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/775e/live/126ac8e0-e1be-11f1-a339-49d4d3ed4c86.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/775e/live/126ac8e0-e1be-11f1-a339-49d4d3ed4c86.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T14:36:56+00:00"
@@ -330,26 +372,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T14:17:37+00:00"
-  },
-  {
-   "id": "c656e17c3cca6bff",
-   "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
-   "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T14:03:22+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evelyn Hockstein/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
    "id": "b382c98835c03b88",
@@ -2299,7 +2321,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -6135,26 +6157,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T15:18:48+00:00"
-  },
-  {
-   "id": "c3939474cbddc7ec",
-   "title": "Nigel Farage’s security paid for by Reform UK despite claim over £5m gift",
-   "summary": "Exclusive: Sources reveal party is covering costs – raising fresh questions about leader’s explanation for billionaire’s gift Nigel Farage’s personal security has been paid for out of Reform UK’s central funds despite his claim that these expenses would be…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/13/nigel-farage-personal-security-costs-reform-uk",
-   "date": "2026-11-13T14:37:23+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Zeynep Demir/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/907e4659d263a4a09efa52db38644aeeae855269/671_0_3827_3062/master/3827.jpg?width=700&quality=85&auto=format&fit=max&s=c11f100fa7eeffed86cf2731a5a3350b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T15:00:19+00:00"
   }
  ]
 }

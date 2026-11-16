@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T23:53:18+00:00",
+ "generatedAt": "2026-11-16T00:02:30+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -802,7 +802,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -5989,26 +5989,6 @@
     "h": 674,
     "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
     "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T00:24:40+00:00"
-  },
-  {
-   "id": "295cb72b031847a9",
-   "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
-   "summary": "Trump says Gulf countries asked him to hold off on further attacks against Iran as Tehran targets US radar in Bahrain.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
-   "date": "2026-11-13T00:00:26+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T134532Z_399058034_RC2EGOA3BBDM_RTRMADP_3_IRAN-CRISIS-YEMEN-DISPLACED-1-1794600026.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T134532Z_399058034_RC2EGOA3BBDM_RTRMADP_3_IRAN-CRISIS-YEMEN-DISPLACED-1-1794600026.jpg?resize=1200%2C800",
     "w": 1200
    },
    "breaking": false,

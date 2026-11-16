@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T11:29:03+00:00",
+ "generatedAt": "2026-11-16T11:38:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,69 @@
  ],
  "items": [
   {
+   "id": "ff07da10697e68c2",
+   "title": "Canada can’t retrofit millions of homes one project at a time",
+   "summary": "Buried beneath the headlines about heat pump rebates in Prime Minister Mark Carney’s latest retrofit announcement is a $107-million investment that could help transform how Canada retrofits its buildings.",
+   "source": "Policy Options",
+   "url": "https://policyoptions.irpp.org/2026/11/building-retrofits-canada/",
+   "date": "2026-11-16T11:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "analysis",
+   "image": {
+    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/housing-retrofits.jpg?resize=1200%2C800",
+    "w": 1920,
+    "h": 1280,
+    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/housing-retrofits.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:38:44+00:00"
+  },
+  {
+   "id": "62be9210c10e1bcb",
+   "title": "Cop31 live: diplomats divided as climate crisis talks enter second week",
+   "summary": "Russia and Saudi Arabia among countries objecting to the traditional output text common in previous summits A draft of the cover decision, the formal text tying together the summit’s outcomes, has just been released.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-16T11:29:22+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tolga Akmen/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c23430a7c80647ec8d6367b442f7b732c326074b/776_0_6120_4896/master/6120.jpg?width=700&quality=85&auto=format&fit=max&s=09e441b46ca9d3f9687f6365ce9191ad",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T07:32:36+00:00"
+  },
+  {
+   "id": "66292ed108e2f134",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
+   "summary": "Prime Minister Mark Carney said that Canada could turn to Chinese automakers if trade negotiations with U.S. President Donald Trump fail to preserve an integrated North American auto industry.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/politics/canada-china-carney-auto-9.7423156?cmp=rss",
+   "date": "2026-11-16T11:13:41+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/75f49ae2-6391-4c6a-91f0-9cd971daa261,1794808397334/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C503%2C7805%2C4390%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:38:44+00:00"
+  },
+  {
    "id": "c656e17c3cca6bff",
    "title": "DOJ warns Elizabeth Warren over Trump investigations – US politics live",
    "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans following midterms success Hello and welcome to the US politics live blog.",
@@ -177,10 +240,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
-    "w": 700,
+    "credit": "Photograph: Evelyn Hockstein/Reuters",
     "h": 560,
-    "credit": "Photograph: Evelyn Hockstein/Reuters"
+    "url": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=700&quality=85&auto=format&fit=max&s=598454e02cd85ab662b7e9eebb81f8bf",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:29:03+00:00"
@@ -204,28 +267,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T03:15:41+00:00"
-  },
-  {
-   "id": "62be9210c10e1bcb",
-   "title": "Cop31 live: diplomats divided as climate crisis talks enter second week",
-   "summary": "Russia and Saudi Arabia among countries objecting to the traditional output text common in previous summits As Cop31 continues and scientists warn that climate breakdown may be accelerating , we have looked back at a year of droughts, fires and floods as a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-16T11:07:09+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tolga Akmen/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c23430a7c80647ec8d6367b442f7b732c326074b/776_0_6120_4896/master/6120.jpg?width=700&quality=85&auto=format&fit=max&s=09e441b46ca9d3f9687f6365ce9191ad",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T07:32:36+00:00"
   },
   {
    "id": "cf321b1f311b1a29",
@@ -264,10 +305,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ad243d2aae70514b1ec054b9cb5805a34ab1e4e0/420_0_4181_3347/master/4181.jpg?width=700&quality=85&auto=format&fit=max&s=2fea51d8fcb817713b67894e82e1db09",
-    "w": 700,
+    "credit": "Photograph: Nathan Posner/Anadolu/Getty Images",
     "h": 560,
-    "credit": "Photograph: Nathan Posner/Anadolu/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/ad243d2aae70514b1ec054b9cb5805a34ab1e4e0/420_0_4181_3347/master/4181.jpg?width=700&quality=85&auto=format&fit=max&s=2fea51d8fcb817713b67894e82e1db09",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:29:03+00:00"
@@ -327,10 +368,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/2ea4cbf637966baf9c26015df59668f59c6fb69e/759_456_4582_3666/master/4582.jpg?width=700&quality=85&auto=format&fit=max&s=e4ac8ef799ed8beda9eabc1788222730",
-    "w": 700,
+    "credit": "Photograph: Annabel Lee-Ellis/PA",
     "h": 560,
-    "credit": "Photograph: Annabel Lee-Ellis/PA"
+    "url": "https://i.guim.co.uk/img/media/2ea4cbf637966baf9c26015df59668f59c6fb69e/759_456_4582_3666/master/4582.jpg?width=700&quality=85&auto=format&fit=max&s=e4ac8ef799ed8beda9eabc1788222730",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:29:24+00:00"
@@ -672,9 +713,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/92020be7-ff28-4a60-a2ff-f916f9efd506,1794510641139/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C94%2C5911%2C3324%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/92020be7-ff28-4a60-a2ff-f916f9efd506,1794510641139/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C94%2C5911%2C3324%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:19:52+00:00"
@@ -764,7 +805,7 @@
   {
    "id": "bca39723b925640d",
    "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
-   "summary": "Prime minister is to meet European leaders at summit this week and secure agreements that ‘could raise GDP by 0.4%’ Andy Burnham will say on Monday that Brexit “has not worked” and that he will sign a new deal with the EU.",
+   "summary": "PM to meet European leaders at summit this week aiming to secure agreements that ‘could raise GDP by 0.4%’ Andy Burnham will say on Monday that Brexit “has not worked” and that he will sign a new deal with the EU.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
    "date": "2026-11-16T07:00:38+00:00",
@@ -1773,7 +1814,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -2740,10 +2781,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/dc6c/live/2f1f4eb0-e05c-11f1-a701-fddedf244c16.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dc6c/live/2f1f4eb0-e05c-11f1-a701-fddedf244c16.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dc6c/live/2f1f4eb0-e05c-11f1-a701-fddedf244c16.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/dc6c/live/2f1f4eb0-e05c-11f1-a701-fddedf244c16.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:29:03+00:00"
@@ -5948,46 +5989,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T12:25:02+00:00"
-  },
-  {
-   "id": "69564038c20d3cab",
-   "title": "Nigerian university in mourning after four students die at post-exam party",
-   "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T11:37:08+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b9f3/live/b4c3ec80-df51-11f1-8364-2717a13d3b08.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b9f3/live/b4c3ec80-df51-11f1-8364-2717a13d3b08.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T11:39:42+00:00"
-  },
-  {
-   "id": "145063038f329d59",
-   "title": "Rural Canada is not an innovation desert. It’s a blind spot",
-   "summary": "In October, the federal government added $500 million over five years to its regional artificial intelligence initiative, bringing the program’s total to $700 million.",
-   "source": "Policy Options",
-   "url": "https://policyoptions.irpp.org/2026/11/rural-canada-ai-funding/",
-   "date": "2026-11-13T11:30:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "analysis",
-   "image": {
-    "h": 1280,
-    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Grenfell-Sask.jpg?resize=640%2C427",
-    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Grenfell-Sask.jpg?resize=1200%2C800",
-    "w": 1920
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T11:30:39+00:00"
   }
  ]
 }

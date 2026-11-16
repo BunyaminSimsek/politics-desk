@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T15:42:53+00:00",
+ "generatedAt": "2026-11-16T15:52:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "c84119ada43b07b9",
+   "title": "Bahrain court sentences dozens of Shia Muslims to life in prison, activists say",
+   "summary": "Most of those jailed on Iran-linked terrorism charges are clerics, a UK-based human rights group, claiming confessions were forced. Bahraini authorities accused the 69 unnamed defendants of establishing a terrorist group linked to Iran's Revolutionary Guards.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx20pyew3zxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T15:46:21+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/84f2/live/aa54a570-e1cf-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/84f2/live/aa54a570-e1cf-11f1-99a1-253766e7ad8b.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T15:52:31+00:00"
+  },
+  {
+   "id": "797d00ec636ba3b4",
+   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
+   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+   "date": "2026-11-16T15:34:58+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Toby Shepheard/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=700&quality=85&auto=format&fit=max&s=4332c7412e9cc4c7c4aef3a94d966559",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T09:29:24+00:00"
+  },
+  {
    "id": "62be9210c10e1bcb",
    "title": "Cop31 as it happened: draft climate deal calls for faster shift away from fossil fuels",
    "summary": "‘Cancer of indifference’ to climate crisis is pushing the world closer to the brink, says Mia Mottley as UN talks enter second week Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference by saying it “is a…",
@@ -186,26 +226,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T07:32:36+00:00"
-  },
-  {
-   "id": "797d00ec636ba3b4",
-   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "date": "2026-11-16T15:17:45+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Toby Shepheard/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=700&quality=85&auto=format&fit=max&s=4332c7412e9cc4c7c4aef3a94d966559",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T09:29:24+00:00"
   },
   {
    "id": "c656e17c3cca6bff",
@@ -778,7 +798,7 @@
   {
    "id": "04a6be43e897197a",
    "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
-   "summary": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Chuck Schumer and what he would change about Senate Democratic leadership.",
+   "summary": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.",
    "source": "NPR",
    "url": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
    "date": "2026-11-16T11:39:14+00:00",
@@ -849,9 +869,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/75f49ae2-6391-4c6a-91f0-9cd971daa261,1794808397334/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C503%2C7805%2C4390%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/75f49ae2-6391-4c6a-91f0-9cd971daa261,1794808397334/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C503%2C7805%2C4390%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:38:44+00:00"
@@ -2422,7 +2442,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -6086,48 +6106,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/782556606689c60e50a74d97125046a1c0aeae93/178_0_5695_4556/master/5695.jpg?width=700&quality=85&auto=format&fit=max&s=066af2d2893d333b20bdc6faf5bab3c6",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T16:14:16+00:00"
-  },
-  {
-   "id": "79db383c394c2f1f",
-   "title": "Turkiye and Qatar sign mutual defence agreement",
-   "summary": "The pact was signed after ​the President met Qatari Emir Sheikh Tamim ‌‌bin Hamad ​Al Thani in Istanbul on ⁠⁠Friday.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
-   "date": "2026-11-13T15:49:51+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af72f8f-1794584463.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af72f8f-1794584463.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T16:41:49+00:00"
-  },
-  {
-   "id": "e06ab8319471733d",
-   "title": "EU agrees on five countries to represent Europe in Ukraine peace talks",
-   "summary": "European leaders believe a US-backed process will allow Moscow and Washington to decide the fate of the conflict.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss",
-   "date": "2026-11-13T15:43:39+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af72b2c48-1794583340.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af72b2c48-1794583340.jpg?resize=1200%2C800",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-13T16:14:16+00:00"

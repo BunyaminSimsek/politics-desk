@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T11:48:31+00:00",
+ "generatedAt": "2026-11-16T11:57:52+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "Russia and Saudi Arabia among countries objecting to the traditional output text common in previous summits Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference by saying it “is a given” that parties will…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-16T11:44:32+00:00",
+   "date": "2026-11-16T11:55:49+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [
@@ -186,6 +186,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T07:32:36+00:00"
+  },
+  {
+   "id": "000cbbad9d60b755",
+   "title": "First Thing: Trump administration blames travel chaos on former presidents and Congress",
+   "summary": "Donald Trump on Sunday blamed the Biden administration for the four-hour nationwide flight stoppage that led to thousands of canceled flights over the weekend. Plus: How Israel is using Amazon facial recognition to track Palestinians Good morning.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/16/first-thing-trump-administration-blames-travel-chaos-on-former-presidents-and-congress",
+   "date": "2026-11-16T11:46:33+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/3895a73fc525e4b560bc91f0b5480fe71850c3d8/717_0_7144_5719/master/7144.jpg?width=700&quality=85&auto=format&fit=max&s=6b568ff543091279c68f290b0a7af033",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Aaron Schwartz/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:57:52+00:00"
+  },
+  {
+   "id": "ff2b80eb981968b6",
+   "title": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
+   "summary": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
+   "date": "2026-11-16T11:40:25+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2020/03/c83ddbc80ee346baa03f767854b184cb_18.jpeg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2020/03/c83ddbc80ee346baa03f767854b184cb_18.jpeg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:57:52+00:00"
   },
   {
    "id": "c656e17c3cca6bff",
@@ -1813,7 +1853,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -2331,7 +2371,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

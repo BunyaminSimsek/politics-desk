@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T20:31:10+00:00",
+ "generatedAt": "2026-11-16T20:40:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -217,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794858749.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794858749.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794858749.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794858749.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:31:10+00:00"
@@ -267,8 +267,8 @@
   },
   {
    "id": "e71d5a80692062c4",
-   "title": "Failed UK asylum seekers to lose five-day grace period and face immediate removal",
-   "summary": "Home Office plans condemned as ‘distressing’ by refugee charities Asylum seekers who have exhausted the formal appeals process will be stripped of a five-day grace period and become eligible for immediate removal under Home Office plans condemned as…",
+   "title": "Refused UK asylum seekers to lose five-day grace period and face immediate removal",
+   "summary": "Home Office plans will cause unnecessary distress and anxiety, say refugee charities Asylum seekers who have exhausted the formal appeals process will be stripped of a five-day grace period and become eligible for immediate removal under Home Office plans…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal",
    "date": "2026-11-16T20:06:24+00:00",
@@ -3826,7 +3826,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6219,48 +6219,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T23:34:14+00:00"
-  },
-  {
-   "id": "c22c9f451b1ae85d",
-   "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-   "summary": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security The EU’s foreign policy chief has warned against “walking into the traps that Russia is setting” as she said Moscow was trying to start a debate…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
-   "date": "2026-11-13T20:38:25+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Liam McBurney/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d169429d7a6f7e570a871b03d7a39e581e77f265/1443_446_3976_3181/master/3976.jpg?width=700&quality=85&auto=format&fit=max&s=274186fa9c3558adb11b60de976b5042",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T14:23:43+00:00"
-  },
-  {
-   "id": "9f4e721e07a89802",
-   "title": "Across racial lines, Americans celebrate Scott Colom’s historic election: ‘The times they are a-changin’",
-   "summary": "Seven Americans on their hopes for Colom, 43, Mississippi’s first Black senator since Reconstruction Democrat Scott Colom made history this month, becoming Mississippi’s first Black senator since the Reconstruction era after defeating incumbent Republican…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippians-scott-colom-election",
-   "date": "2026-11-13T20:34:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brandon Bell/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d44aa90d0059f02ead98da8901aa6963436e63ba/2_0_2624_2100/master/2624.jpg?width=700&quality=85&auto=format&fit=max&s=8e78bc139386ac0a658a621dddb49e55",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T19:17:36+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T23:39:29+00:00",
+ "generatedAt": "2026-11-16T23:49:05+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,13 +11,13 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "Global News",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "60e1bc5a43fb8862",
+   "title": "How Ontario proposes to change OSAP rules for career colleges",
+   "summary": "Ontario Premier Doug Ford's government tabled a bill Monday reforming rules for how the student assistance program OSAP will work at career colleges. CBC’s Lorenda Reddekopp breaks down the changes.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/player/play/9.7424409?cmp=rss",
+   "date": "2026-11-16T23:46:42+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T23:49:05+00:00"
+  },
+  {
    "id": "c656e17c3cca6bff",
    "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
    "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
@@ -199,10 +218,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/0dd2eeed61e663cd491ab565b48f5786bc1785f5/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=a5cc52027fe81a339af9a70cf9c04dda",
-    "w": 700,
+    "credit": "Photograph: Hilary Wardhaugh/AAP",
     "h": 560,
-    "credit": "Photograph: Hilary Wardhaugh/AAP"
+    "url": "https://i.guim.co.uk/img/media/0dd2eeed61e663cd491ab565b48f5786bc1785f5/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=a5cc52027fe81a339af9a70cf9c04dda",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:39:29+00:00"
@@ -240,10 +259,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/d0/3d0e65d9-83e1-597e-9150-a5e0f15f2233/6afb85caa318c.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 853,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/d0/3d0e65d9-83e1-597e-9150-a5e0f15f2233/6afb85caa318c.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/d0/3d0e65d9-83e1-597e-9150-a5e0f15f2233/6afb85caa318c.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/d0/3d0e65d9-83e1-597e-9150-a5e0f15f2233/6afb85caa318c.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:39:29+00:00"
@@ -307,6 +326,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:10:53+00:00"
+  },
+  {
+   "id": "64c88d762c0bd68a",
+   "title": "Four more staff leave Poilievre's office, with two joining B.C. Conservatives",
+   "summary": "Departures comes at a tense moment for Pierre Poilievre, with much-watched byelection looming.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/four-more-staff-leave-poilievre-s-office-with-two-joining-b-c-conservatives/article_111ef269-3088-4325-8ecc-e85415cc2c06.html",
+   "date": "2026-11-16T23:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/c4/fc441bec-b33c-5afd-8336-20668d16c214/6afb8cd1b7b37.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/c4/fc441bec-b33c-5afd-8336-20668d16c214/6afb8cd1b7b37.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T23:49:05+00:00"
   },
   {
    "id": "0e03517220d2e57b",
@@ -462,9 +501,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/20b7dae8-7148-4e31-a6d1-f149d80dfaf0,1794863568899/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/20b7dae8-7148-4e31-a6d1-f149d80dfaf0,1794863568899/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T21:37:06+00:00"
@@ -481,9 +520,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T21:37:06+00:00"
@@ -827,9 +866,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/cf928dd0-cdfc-4ebc-8512-424d2b6fe65d,1794850952207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4995%2C2809%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/cf928dd0-cdfc-4ebc-8512-424d2b6fe65d,1794850952207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4995%2C2809%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:44:24+00:00"
@@ -995,6 +1034,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
+  },
+  {
+   "id": "28e102425f78c76a",
+   "title": "Students urge Ontario to address sexual violence in high schools",
+   "summary": "A group of high school students is asking the Ontario government to amend the Education Act to address sexual violence and harassment. The students say a provincewide approach would prevent a patchwork of rules that differ between school boards.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/player/play/9.7423896?cmp=rss",
+   "date": "2026-11-16T18:41:47+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/34624e6f-3ba7-4141-887c-9e5e97c61534,1794854488780/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T23:49:05+00:00"
   },
   {
    "id": "3eacafeb2a9548a7",

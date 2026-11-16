@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T17:58:39+00:00",
+ "generatedAt": "2026-11-16T19:15:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "CBC World",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -166,32 +166,276 @@
  ],
  "items": [
   {
-   "id": "c17c82f28656180d",
-   "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-   "summary": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
+   "id": "3a910931f160ac9f",
+   "title": "Saudi Arabia challenged by Yemeni allies over ceding ground to Houthis",
+   "summary": "Strategy of redeploying forces to try to relieve siege of Taiz and protect Aden comes as Islamist group makes steady gains Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+   "date": "2026-11-16T19:04:07+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0ecb2503f6896c388697d436947fbafcc58a2e97/345_0_2250_1800/master/2250.jpg?width=700&quality=85&auto=format&fit=max&s=c64cee063580ab63301c388fac2895f1",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Yemen Giants Brigades Media Centre/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:15:26+00:00"
+  },
+  {
+   "id": "37dfcf2265b37a3e",
+   "title": "Surveillance pricing could lead to more expensive groceries for some, MPs hear",
+   "summary": "OTTAWA - An expert says people with religious or health-based food restrictions could end up paying more for groceries with the use of algorithmic pricing.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/surveillance-pricing-could-lead-to-more-expensive-groceries-for-some-mps-hear/article_6831f6d6-2cc8-5c55-bd75-487ac41a00b4.html",
+   "date": "2026-11-16T19:02:31+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/6a/26a8ed1c-a114-5c1d-bbc5-e8e4321be5f0/6afb53e0f0fc5.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 850,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/6a/26a8ed1c-a114-5c1d-bbc5-e8e4321be5f0/6afb53e0f0fc5.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:15:26+00:00"
+  },
+  {
+   "id": "325059606130af6e",
+   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+   "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T18:56:42+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T17:01:10+00:00"
+  },
+  {
+   "id": "11e70b03101063f9",
+   "title": "Toronto to help build over 9,000 new rental homes through phase 2 of plan to development incentives, Chow says",
+   "summary": "Toronto will support the building of over 9,000 more rental homes in the city, including over 2,000 affordable, rent-controlled units, through the second phase of a housing initiative, Toronto mayor Olivia Chow announced at the phase’s launch Monday morning.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/chow-housing-announcement-new-rental-homes-9.7423873?cmp=rss",
+   "date": "2026-11-16T18:56:10+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/4576c1a9-b984-480d-b930-f0b193a64600,1794852306643/full/max/0/default.jpg?im=Crop%2Crect%3D%28160%2C0%2C1759%2C989%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:15:26+00:00"
+  },
+  {
+   "id": "45edaf2338125e32",
+   "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+   "summary": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+   "date": "2026-11-16T18:49:26+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5367x3578+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F22%2F5d8e832c4fd78402c75d44e19475%2Fgettyimages-2303986706-1.jpg",
+    "w": 1200,
+    "h": 800,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5367x3578+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F22%2F5d8e832c4fd78402c75d44e19475%2Fgettyimages-2303986706-1.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:15:26+00:00"
+  },
+  {
+   "id": "c656e17c3cca6bff",
+   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-16T18:41:29+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Yuri Gripas/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
+  },
+  {
+   "id": "3eacafeb2a9548a7",
+   "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
+   "summary": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
-   "date": "2026-11-16T17:49:16+00:00",
+   "url": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
+   "date": "2026-11-16T18:38:16+00:00",
    "topic": "mideast",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/08/Ghassan-Najjar-1788196487.jpeg?resize=1200%2C800",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afb4c36-1794853942.jpg?resize=1200%2C800",
     "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/08/Ghassan-Najjar-1788196487.jpeg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afb4c36-1794853942.jpg?resize=640%2C427"
    },
    "breaking": false,
-   "addedAt": "2026-11-16T17:58:39+00:00"
+   "addedAt": "2026-11-16T19:15:26+00:00"
+  },
+  {
+   "id": "49a1ce094a2bb655",
+   "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+   "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, joining Silicon Valley heavyweights in backing the reinstatement…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+   "date": "2026-11-16T18:30:57+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Jim Lo Scalzo/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7f67412f0366dc2ae41bf00eadde0fe0b8e1c6d0/817_89_6141_4914/master/6141.jpg?width=700&quality=85&auto=format&fit=max&s=66a9b2bf3bc1da452db630c79b27049c",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T17:01:10+00:00"
+  },
+  {
+   "id": "c94c46c55ad0cd46",
+   "title": "Woman accusing David Walliams of grooming her backs staggered age of consent call",
+   "summary": "Comments come after Mia Latter, who alleged she was raped by Russell Brand, had said she wanted a change in law A woman who has accused David Walliams of grooming her has said she supports a staggered age of consent.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/16/woman-accusing-david-walliams-grooming-backs-staggered-age-of-consent-call",
+   "date": "2026-11-16T18:30:20+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e78dc61a399ccaafc309ae88184215293ae61417/511_61_2396_1917/master/2396.jpg?width=700&quality=85&auto=format&fit=max&s=5db38548c9c34ea124b49b3fd53fb89a",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Vianney Le Caer/Invision/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:15:26+00:00"
+  },
+  {
+   "id": "57c4c927fe095271",
+   "title": "Ontario Catholic school teachers vote in favour of strike mandate: union",
+   "summary": "The union representing 45,000 teachers in Ontario's English Catholic schools says 98 per cent of its members have voted in favour of a strike mandate.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/ontario-catholic-school-teachers-vote-strike-9.7423848?cmp=rss",
+   "date": "2026-11-16T18:30:06+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/c9a3d2dc-2019-41d4-93aa-c6326d16104e,1794851429024/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:15:26+00:00"
+  },
+  {
+   "id": "40b384f11ceaea2f",
+   "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
+   "summary": "Beijing stops short of confirming specific agenda, but Trump says denuclearisation, Iran war, trade and Ukraine will be among topics The meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
+   "date": "2026-11-16T18:23:02+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/1314ca56ea87a76eb19c89d8d928610638be91b9/258_0_1247_998/master/1247.jpg?width=700&quality=85&auto=format&fit=max&s=7fc6d88c282050b160a8efd0660515b9",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Carlos Barría/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T14:08:33+00:00"
+  },
+  {
+   "id": "17b2c938e13389a0",
+   "title": "Ontario’s medical regulator pauses safer supply drug changes after legal challenge",
+   "summary": "Ontario’s medical regulator is hitting pause on implementing a host of changes to the ways doctors prescribe safer supply drugs after it was served with a legal challenge.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12153093/ontarios-medical-regulator-pauses-safer-supply-drug-changes-after-legal-challenge/",
+   "date": "2026-11-16T18:13:38+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/66476746c3baca639c8f3412479134fe259a6a5a3e12f409d25d062fe411a3b5.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/66476746c3baca639c8f3412479134fe259a6a5a3e12f409d25d062fe411a3b5.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:15:26+00:00"
+  },
+  {
+   "id": "f582bf0dc53f6ed3",
+   "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+   "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+   "date": "2026-11-16T18:04:50+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg",
+    "w": 1200,
+    "h": 800,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:15:26+00:00"
   },
   {
    "id": "797d00ec636ba3b4",
-   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
+   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – as it happened",
    "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "date": "2026-11-16T17:43:39+00:00",
+   "date": "2026-11-16T18:02:54+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -206,24 +450,46 @@
    "addedAt": "2026-11-16T09:29:24+00:00"
   },
   {
-   "id": "c656e17c3cca6bff",
-   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
+   "id": "78c0025210e9b4bb",
+   "title": "Several companies are using Trump tariff refunds for corporate bonuses",
+   "summary": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump ’s tariffs have put those funds towards corporate bonuses instead of reimbursing…",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T17:43:16+00:00",
+   "url": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
+   "date": "2026-11-16T17:52:13+00:00",
    "topic": "us",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/976a600cf5e5d4314c2ee38b26b60463569d5dbc/665_0_4653_3722/master/4653.jpg?width=700&quality=85&auto=format&fit=max&s=14b85154dad5c4bb0508d9e14633135a",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Michael M Santiago/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:15:26+00:00"
+  },
+  {
+   "id": "c17c82f28656180d",
+   "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
+   "summary": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
+   "date": "2026-11-16T17:49:16+00:00",
+   "topic": "mideast",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Yuri Gripas/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
-    "w": 700
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/08/Ghassan-Najjar-1788196487.jpeg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/08/Ghassan-Najjar-1788196487.jpeg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
+   "addedAt": "2026-11-16T17:58:39+00:00"
   },
   {
    "id": "e4402eb32934947e",
@@ -342,28 +608,6 @@
    "addedAt": "2026-11-16T17:20:24+00:00"
   },
   {
-   "id": "325059606130af6e",
-   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-   "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T17:07:55+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T17:01:10+00:00"
-  },
-  {
    "id": "671a411f4b0d1fe5",
    "title": "Even Hawaiʻi’s most Republican island can’t escape the blue wave",
    "summary": "During the midterm elections, Ni‘ihau backed Democrats for their governors, casting 14 of their 21 votes for Josh Green and Derek Kawakami The secluded island of Ni‘ihau has long been a Republican stronghold in deep blue Hawai‘i.",
@@ -440,26 +684,6 @@
     "credit": "Photograph: Tolga Akmen/EPA",
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/a2d4b420ed47005796a742b6214ae07afc58f5e1/536_0_6113_4890/master/6113.jpg?width=700&quality=85&auto=format&fit=max&s=0b774c93d2e425c8ace144e6669e7a88",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T17:01:10+00:00"
-  },
-  {
-   "id": "49a1ce094a2bb655",
-   "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
-   "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, joining Silicon Valley heavyweights in demanding the reinstatement…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
-   "date": "2026-11-16T16:48:47+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jim Lo Scalzo/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7f67412f0366dc2ae41bf00eadde0fe0b8e1c6d0/817_89_6141_4914/master/6141.jpg?width=700&quality=85&auto=format&fit=max&s=66a9b2bf3bc1da452db630c79b27049c",
     "w": 700
    },
    "breaking": false,
@@ -590,6 +814,27 @@
    "addedAt": "2026-11-16T15:52:31+00:00"
   },
   {
+   "id": "0dafb49aafe1a21d",
+   "title": "Bank of Canada governor Tiff Macklem to step down in 2027",
+   "summary": "Bank of Canada governor Tiff Macklem will not seek a second term leading Canada's central bank. His current term as governor will end on June 2, 2027.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/business/tiff-macklem-step-down-9.7423501?cmp=rss",
+   "date": "2026-11-16T15:44:46+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/d8192021-bc8b-4308-921d-6c616744a019,1794855422679/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T19:15:26+00:00"
+  },
+  {
    "id": "62be9210c10e1bcb",
    "title": "Cop31 as it happened: draft climate deal calls for faster shift away from fossil fuels",
    "summary": "‘Cancer of indifference’ to climate crisis is pushing the world closer to the brink, says Mia Mottley as UN talks enter second week Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference by saying it “is a…",
@@ -657,7 +902,7 @@
   },
   {
    "id": "1b1c2b79a2a82c36",
-   "title": "Mamdani disbands controversial NYPD unit accused of using excessive force",
+   "title": "Mamdani disbands NYPD unit accused of using excessive force",
    "summary": "Mayor axes strategic response group that cracked down on protesters and announces new community safety division Zohran Mamdani, New York City’s mayor, announced Monday that he was disbanding a controversial city police unit that has faced criticism over the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani",
@@ -698,7 +943,7 @@
   {
    "id": "3a1007cf823fab4f",
    "title": "Passing bill to speed up gas projects and datacenters would be ‘serious mistake’, Al Gore says",
-   "summary": "Former vice-president at Cop31 urges lawmakers to rethink contentious bipartisan Baaja bill advanced by the US Senate It would be a “serious mistake” to pass a contentious bipartisan bill to speed up energy projects and datacenters that has divided Democrats…",
+   "summary": "Former US vice-president at Cop31 urges lawmakers to rethink contentious bipartisan Baaja bill advanced by the US Senate It would be a “serious mistake” to pass a contentious bipartisan bill to speed up energy projects and datacenters that has divided…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/16/al-gore-baaja-cop-31-climate",
    "date": "2026-11-16T14:34:17+00:00",
@@ -716,26 +961,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T14:36:56+00:00"
-  },
-  {
-   "id": "40b384f11ceaea2f",
-   "title": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
-   "summary": "Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
-   "date": "2026-11-16T14:29:55+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/1314ca56ea87a76eb19c89d8d928610638be91b9/145_0_1491_1193/master/1491.jpg?width=700&quality=85&auto=format&fit=max&s=7c15ff3ce857b870fa9abdd901989cd7",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Carlos Barría/Reuters"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T14:08:33+00:00"
   },
   {
    "id": "2c96eaf38cc42044",
@@ -792,9 +1017,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/dfb36435-07e6-45c6-8ad2-0a9a13fdba11,1794836910720/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5472%2C3078%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/dfb36435-07e6-45c6-8ad2-0a9a13fdba11,1794836910720/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5472%2C3078%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T14:17:37+00:00"
@@ -872,9 +1097,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/6dbb47e3-b956-4123-ae91-6aed08a000de,1794835926733/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C532%2C6589%2C3706%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/6dbb47e3-b956-4123-ae91-6aed08a000de,1794835926733/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C532%2C6589%2C3706%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T15:04:58+00:00"
@@ -923,7 +1148,7 @@
   },
   {
    "id": "a30fa4f29a98dd17",
-   "title": "Telus conducting ‘thorough review’ of $31B takeover offer from Québecor",
+   "title": "Competition Bureau ‘aware’ of Québecor’s $31B offer to acquire Telus",
    "summary": "Quebecor has sent an unsolicited offer to acquire Telus in a merger deal valued at approximately $31 billion, which represents an enhanced proposal from June.",
    "source": "Global News",
    "url": "https://globalnews.ca/news/12152547/quebecor-telus-merger-proposal/",
@@ -1178,6 +1403,21 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T15:04:58+00:00"
+  },
+  {
+   "id": "370bc9884f9a8ddd",
+   "title": "Regulating AI will being a top priority for congressional Democrats in the new year",
+   "summary": "A big priority for the incoming Congress will be regulating artificial intelligence. Democrats will face stiff opposition from the Trump administration and its hands-off policy towards AI.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/16/nx-s1-6037801/regulating-ai-will-being-a-top-priority-for-congressional-democrats-in-the-new-year",
+   "date": "2026-11-16T11:38:50+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-16T19:15:26+00:00"
   },
   {
    "id": "ff07da10697e68c2",
@@ -1474,7 +1714,7 @@
   {
    "id": "548ba9afe42a58d4",
    "title": "Insiders on Doug Ford's Niagara Falls casino dream: 'Everyone knows it's a dumb idea'",
-   "summary": "While Ford insists \"the status quo is unacceptable\" for Niagara casinos, sources close to the premier are concerned about his fixation on the plan.",
+   "summary": "While Ford insists 'the status quo is unacceptable' for Niagara casinos, sources close to the premier are concerned about his fixation on the plan.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/insiders-on-doug-ford-s-niagara-falls-casino-scheme-everyone-knows-it-s-a-dumb-idea/article_f2a3a9ee-2980-4bcb-b71b-a4c16afe1190.html",
    "date": "2026-11-16T10:00:00+00:00",
@@ -2806,7 +3046,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -5983,250 +6223,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T19:35:48+00:00"
-  },
-  {
-   "id": "b41f2434d92379d3",
-   "title": "Trump bought Nvidia stock as he helped chipmaker with change to export rule",
-   "summary": "President purchased up to $5m of stock before revoking Biden-era rule that limited Nvidia’s ability to sell to China Donald Trump bought Nvidia stock worth millions of dollars as he made decisions on America’s China policy that would benefit the chipmaker, an…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china",
-   "date": "2026-11-13T19:09:05+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evan Vucci/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5d5bae65dfe648ee0640fe44d78bbefc78d94a15/69_0_2057_1645/master/2057.jpg?width=700&quality=85&auto=format&fit=max&s=e153c7864ba462638a524695e17d033e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T19:26:39+00:00"
-  },
-  {
-   "id": "adb8db7024412cdc",
-   "title": "Democratic Senate leader Schumer set to face leadership challenge",
-   "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-13T19:03:10+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T17:09:20+00:00"
-  },
-  {
-   "id": "8d4419d1ea64b657",
-   "title": "Why the Nvidia scandal is far from over – The Latest",
-   "summary": "Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest",
-   "date": "2026-11-13T19:01:38+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evelyn Hockstein/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/75bf5eb8de343b0ea6f988499ae792221dcaae08/383_0_6160_4927/master/6160.jpg?width=700&quality=85&auto=format&fit=max&s=261f3e8c42fe98d0eacb4e6d55084708",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T17:55:08+00:00"
-  },
-  {
-   "id": "30c1eb160e5d302d",
-   "title": "How will the US deal with Nvidia scandal?",
-   "summary": "Tech giant CEO resigned and will testify before Congress.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
-   "date": "2026-11-13T18:57:43+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-12T202931Z_419656292_RC2KMOA0WBF6_RTRMADP_3_NVIDIA-CEO-1794553361.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-12T202931Z_419656292_RC2KMOA0WBF6_RTRMADP_3_NVIDIA-CEO-1794553361.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T19:17:36+00:00"
-  },
-  {
-   "id": "e213323a5c217130",
-   "title": "Andy Burnham urges Labour to ‘rearm’ for Kemi Badenoch comeback",
-   "summary": "No 10 sources say PM wants party to refocus on Tories as electoral threat after prioritising Reform and Greens Andy Burnham has instructed the Labour party to “rearm” to fight the Conservatives at the next election amid concern inside government that they…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/13/andy-burnham-urges-labour-to-re-arm-for-kemi-badenoch-comeback",
-   "date": "2026-11-13T18:20:01+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e38bb3728105c5d43c48c890dbafe4ef3e75d70d/185_0_3099_2480/master/3099.jpg?width=700&quality=85&auto=format&fit=max&s=3233aca1a4cec7668e775d32ef585a9a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T18:41:03+00:00"
-  },
-  {
-   "id": "f31f810fdf11c923",
-   "title": "Feds investing $200M in B.C.'s Woodfibre LNG over three years",
-   "summary": "The federal government is investing $200 million in British Columbia's Woodfibre LNG project over three years, funding that Energy Minister Tim Hodgson says will help diversify Canada's energy exports.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/business/feds-investing-200m-in-b-c-s-woodfibre-lng-over-three-years/article_7121e453-a1f1-54d7-91c4-80695b3e3d45.html",
-   "date": "2026-11-13T18:15:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 798,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/4f/74f67d91-b2fb-5685-9bed-f798930384d1/6af754d34ae6f.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/4f/74f67d91-b2fb-5685-9bed-f798930384d1/6af754d34ae6f.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T22:39:12+00:00"
-  },
-  {
-   "id": "14407ee9c5ee3cb8",
-   "title": "Stelco recalling 175 laid-off workers at Hamilton steel plant",
-   "summary": "Hamilton steelmaker Stelco is recalling its 175 workers that had been laid off earlier this fall.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/stelco-recalling-175-laid-off-workers-9.7420949?cmp=rss",
-   "date": "2026-11-13T18:13:30+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/ecd90d56-59d6-401a-855a-b536bf2ad287,1794593249919/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C735%2C7062%2C3972%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T18:22:37+00:00"
-  },
-  {
-   "id": "8e5bdb4fe467df5c",
-   "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
-   "summary": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptions Microsoft outage – live updates Vital UK services have been hit by a global Microsoft outage that left hospital staff resorting to paper…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
-   "date": "2026-11-13T18:10:05+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jeff Moore/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2c228d770bc36da0b6ae784dc3d2be62613a6e18/210_0_2579_2065/master/2579.jpg?width=700&quality=85&auto=format&fit=max&s=b5ce6ba72cbf0bd564c99d086f6f5477",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T17:55:08+00:00"
-  },
-  {
-   "id": "f2a57ab87112d28a",
-   "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-   "summary": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
-   "date": "2026-11-13T18:09:05+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794593305.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794593305.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T18:31:45+00:00"
-  },
-  {
-   "id": "c6b7d9e4f92cb9d7",
-   "title": "Feds, Ontario offering Stellantis 'aggressive package' to keep Brampton auto plant open",
-   "summary": "The federal and Ontario governments are mounting a last-ditch effort to save the Stellantis auto plant in Brampton by pitching the company possible survival \"scenarios\" and offering an \"aggressive package\" of support to make it happen.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/joly-fedeli-stellantis-brampton-plant-package-9.7420849?cmp=rss",
-   "date": "2026-11-13T18:04:27+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/d39dd66c-98b9-496d-b996-d5d9ca6b97b0,1794597165432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3500%2C1968%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T18:13:25+00:00"
-  },
-  {
-   "id": "17b988a058c38867",
-   "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
-   "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
-   "date": "2026-11-13T18:04:22+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af2f17c00fe-1794306428.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af2f17c00fe-1794306428.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T18:31:45+00:00"
-  },
-  {
-   "id": "37ba6d071f77ab7b",
-   "title": "The Guardian view on press freedom: authoritarians target journalism because it matters | Editorial",
-   "summary": "From Cairo to Moscow to Washington, governments are turning up the pressure on media workers Lina Attalah is an influential Egyptian journalist. Yet until last month, even she was unaware of a major and concerning piece of news: her own conviction.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-press-freedom-authoritarians-target-journalism-because-it-matters",
-   "date": "2026-11-13T18:01:46+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/62938400271e1c2d5fb9106df866448f00e04d07/404_0_4038_3230/master/4038.jpg?width=700&quality=85&auto=format&fit=max&s=6efe95018a7ed3324d8533d51266ba56",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T18:04:17+00:00"
   }
  ]
 }

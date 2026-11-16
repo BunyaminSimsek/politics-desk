@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T00:48:13+00:00",
+ "generatedAt": "2026-11-16T00:57:19+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "Global News",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/cc56/live/ce11ba80-de59-11f1-9b47-0919bf7329d1.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cc56/live/ce11ba80-de59-11f1-9b47-0919bf7329d1.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cc56/live/ce11ba80-de59-11f1-9b47-0919bf7329d1.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/cc56/live/ce11ba80-de59-11f1-9b47-0919bf7329d1.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T00:48:13+00:00"
@@ -734,6 +734,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:31:57+00:00"
+  },
+  {
+   "id": "e53aa4c11c238d8a",
+   "title": "Trump breaks silence on FAA's nationwide ground stop, demands more money for air traffic control",
+   "summary": "U.S. President Donald Trump on Sunday broke his silence on the nationwide ground stop that snarled airline travel this weekend, using the incident to push Congress on money to fully upgrade the country's air traffic control system.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/trump-faa-ground-stop-9.7422814?cmp=rss",
+   "date": "2026-11-15T17:27:08+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/d49b063c-7c41-4665-9d64-881decb35651,1794761230469/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C272%2C5224%2C2938%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-15T17:41:14+00:00"
   },
   {
    "id": "e0955fd7534487b8",
@@ -3644,25 +3663,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-13T22:30:05+00:00"
-  },
-  {
-   "id": "e53aa4c11c238d8a",
-   "title": "Trump breaks silence on U.S. ground stop, demands more money for FAA upgrades from Congress",
-   "summary": "",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/trump-faa-ground-stop-9.7422814?cmp=rss",
-   "date": "2026-11-13T22:18:32+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/9b1888da-3753-4706-9398-488e9825ff56,1794777614667/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T17:41:14+00:00"
   },
   {
    "id": "968e6c7500c84fdd",

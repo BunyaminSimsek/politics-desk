@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T02:48:11+00:00",
+ "generatedAt": "2026-11-16T02:57:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "f42f6afbcabb441a",
+   "title": "ASEAN, China fall short of agreeing on South China Sea code",
+   "summary": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country's leader attending bloc's summits.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
+   "date": "2026-11-16T02:46:35+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315082167925-1794791273.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315082167925-1794791273.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T02:57:23+00:00"
+  },
+  {
+   "id": "bd44e24fea90ff17",
+   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
+   "summary": "PHNOM PENH, Cambodia (AP) — Canadian Prime Minister Mark Carney said that Canada could turn to Chinese automakers if trade negotiations with U.S. President Donald Trump fail to preserve an integrated North American auto industry.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/world/asia/carney-says-canada-could-turn-to-chinese-automakers-if-trump-trade-talks-fail/article_7d0c30dc-7d8d-5cc6-a69f-fe6534ec4119.html",
+   "date": "2026-11-16T02:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/2d/42d955db-5730-5727-bce3-c918f3fb20cc/6afa6bd72ec2b.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/2d/42d955db-5730-5727-bce3-c918f3fb20cc/6afa6bd72ec2b.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T02:57:23+00:00"
+  },
+  {
    "id": "3109e8224befb977",
    "title": "Houthis advance in Yemen as government forces move to defend Aden",
    "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
@@ -177,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794795723.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794795723.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794795723.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794795723.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T02:48:11+00:00"
@@ -923,7 +965,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"

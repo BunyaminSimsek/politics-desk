@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T15:52:31+00:00",
+ "generatedAt": "2026-11-16T16:01:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "c84119ada43b07b9",
-   "title": "Bahrain court sentences dozens of Shia Muslims to life in prison, activists say",
-   "summary": "Most of those jailed on Iran-linked terrorism charges are clerics, a UK-based human rights group, claiming confessions were forced. Bahraini authorities accused the 69 unnamed defendants of establishing a terrorist group linked to Iran's Revolutionary Guards.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmx20pyew3zxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T15:46:21+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/84f2/live/aa54a570-e1cf-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200,
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/84f2/live/aa54a570-e1cf-11f1-99a1-253766e7ad8b.jpg"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T15:52:31+00:00"
-  },
-  {
    "id": "797d00ec636ba3b4",
    "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
    "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "date": "2026-11-16T15:34:58+00:00",
+   "date": "2026-11-16T15:49:19+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -204,6 +184,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:29:24+00:00"
+  },
+  {
+   "id": "c84119ada43b07b9",
+   "title": "Bahrain court sentences dozens of Shia Muslims to life in prison, activists say",
+   "summary": "Most of those jailed on Iran-linked terrorism charges are clerics, a UK-based human rights group, claiming confessions were forced. Bahraini authorities accused the 69 unnamed defendants of establishing a terrorist group linked to Iran's Revolutionary Guards.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx20pyew3zxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T15:46:21+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/84f2/live/aa54a570-e1cf-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/84f2/live/aa54a570-e1cf-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T15:52:31+00:00"
   },
   {
    "id": "62be9210c10e1bcb",
@@ -2960,7 +2960,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6089,26 +6089,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T16:41:49+00:00"
-  },
-  {
-   "id": "97c81ae6fd259b02",
-   "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
-   "summary": "Signing of agreement to smooth movement of food, plants and animals next week will not recoup huge sums firms were forced to spend The removal of border checks and paperwork on plant imports will “dissolve” £60m of annual costs for the horticulture industry…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
-   "date": "2026-11-13T16:00:19+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Martin Godwin/The Guardian",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/782556606689c60e50a74d97125046a1c0aeae93/178_0_5695_4556/master/5695.jpg?width=700&quality=85&auto=format&fit=max&s=066af2d2893d333b20bdc6faf5bab3c6",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T16:14:16+00:00"
   }
  ]
 }

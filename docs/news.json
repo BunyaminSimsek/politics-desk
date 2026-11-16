@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T15:33:32+00:00",
+ "generatedAt": "2026-11-16T15:42:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -241,10 +241,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T121023Z_2060620919_RC2A4OAZTDXA_RTRMADP_3_UKRAINE-CRISIS-STARLINK-FRONTLINE-1792169044_17a937-1792492051.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T121023Z_2060620919_RC2A4OAZTDXA_RTRMADP_3_UKRAINE-CRISIS-STARLINK-FRONTLINE-1792169044_17a937-1792492051.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T121023Z_2060620919_RC2A4OAZTDXA_RTRMADP_3_UKRAINE-CRISIS-STARLINK-FRONTLINE-1792169044_17a937-1792492051.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T121023Z_2060620919_RC2A4OAZTDXA_RTRMADP_3_UKRAINE-CRISIS-STARLINK-FRONTLINE-1792169044_17a937-1792492051.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T15:33:32+00:00"
@@ -849,9 +849,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/75f49ae2-6391-4c6a-91f0-9cd971daa261,1794808397334/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C503%2C7805%2C4390%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/75f49ae2-6391-4c6a-91f0-9cd971daa261,1794808397334/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C503%2C7805%2C4390%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:38:44+00:00"
@@ -2422,7 +2422,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

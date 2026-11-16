@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T14:08:33+00:00",
+ "generatedAt": "2026-11-16T14:17:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "CBC World",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,12 +166,71 @@
  ],
  "items": [
   {
+   "id": "7cdf637596563951",
+   "title": "Milton, Ont. to replace Canada's longest-serving mayor",
+   "summary": "The town of Milton is set to swear in a new mayor for the first time since 1980. George Minakakis and eight regional and town councillors will take their oaths of office at the council's inaugural meeting Monday night.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/milton-first-new-mayor-46-years-9.7423333?cmp=rss",
+   "date": "2026-11-16T14:12:12+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/dfb36435-07e6-45c6-8ad2-0a9a13fdba11,1794836910720/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5472%2C3078%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T14:17:37+00:00"
+  },
+  {
+   "id": "a10451c22c75efb1",
+   "title": "Meet some of the young cowboys taking over the future of bull and bronc riding",
+   "summary": "TORONTO - Dozens of cowboys and cowgirls from across Canada donned their hats, brushed their denim and slid on their boots to participate in this year’s Royal Rodeo at the Royal Agricultural Winter Fair.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/meet-some-of-the-young-cowboys-taking-over-the-future-of-bull-and-bronc-riding/article_ff087d6b-9008-576c-933c-b9595ecdb67f.html",
+   "date": "2026-11-16T14:11:54+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/03/c03bc8b9-34e4-50dd-8872-ddea984a23fb/6afb0ff7d4a2b.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/03/c03bc8b9-34e4-50dd-8872-ddea984a23fb/6afb0ff7d4a2b.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T14:17:37+00:00"
+  },
+  {
+   "id": "797d00ec636ba3b4",
+   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
+   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+   "date": "2026-11-16T14:09:21+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Toby Shepheard/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=700&quality=85&auto=format&fit=max&s=4332c7412e9cc4c7c4aef3a94d966559",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T09:29:24+00:00"
+  },
+  {
    "id": "c656e17c3cca6bff",
    "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
    "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T13:54:03+00:00",
+   "date": "2026-11-16T14:03:22+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -197,10 +256,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/1ed1c93d730d4466d6341a132b8d2b1761b7b08f/937_0_4862_3888/master/4862.jpg?width=700&quality=85&auto=format&fit=max&s=8b41070b17015b92060981fb31bda487",
-    "w": 700,
+    "credit": "Photograph: Maxim Shipenkov/EPA",
     "h": 560,
-    "credit": "Photograph: Maxim Shipenkov/EPA"
+    "url": "https://i.guim.co.uk/img/media/1ed1c93d730d4466d6341a132b8d2b1761b7b08f/937_0_4862_3888/master/4862.jpg?width=700&quality=85&auto=format&fit=max&s=8b41070b17015b92060981fb31bda487",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T14:08:33+00:00"
@@ -308,26 +367,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T13:40:07+00:00"
-  },
-  {
-   "id": "797d00ec636ba3b4",
-   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "date": "2026-11-16T13:32:05+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Toby Shepheard/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=700&quality=85&auto=format&fit=max&s=4332c7412e9cc4c7c4aef3a94d966559",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T09:29:24+00:00"
   },
   {
    "id": "df3df6747a31418e",
@@ -2174,7 +2213,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -2692,7 +2731,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6067,46 +6106,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/18dbe9dbe030c08dbbef2b75bee94cd46e51688c/339_0_2375_1900/master/2375.jpg?width=700&quality=85&auto=format&fit=max&s=8d5ebde7bb5d4b6272df24d476ce9a36",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T14:32:48+00:00"
-  },
-  {
-   "id": "b43ff02f1389d7eb",
-   "title": "Can Netanyahu launch a strike on Iran before he leaves?",
-   "summary": "PM's caretaker government can legally go to war, though it would likely inflame domestic divisions.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
-   "date": "2026-11-13T14:16:20+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2025/02/AP25023628513897-1738701376.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2025/02/AP25023628513897-1738701376.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-13T14:32:48+00:00"
-  },
-  {
-   "id": "7c8a9e5e05c566d2",
-   "title": "Ukraine claims record 3,000 Russian casualties in one day as war drags on",
-   "summary": "Meanwhile, Russia appears to suggest it has control of half of unoccupied Donbas.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss",
-   "date": "2026-11-13T14:15:52+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af71576-1794577782.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af71576-1794577782.jpg?resize=1200%2C800",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-13T14:32:48+00:00"

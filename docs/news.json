@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T20:16:21+00:00",
+ "generatedAt": "2026-11-17T20:25:35+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "2e8a2735ef156f35",
-   "title": "Some EU countries ‘could accept unlimited young Britons’ under youth mobility scheme",
-   "summary": "Scheme expected to be sealed in principle at EU-UK summit in Brussels on Friday but trickier elements could be postponed for six months EU countries including Germany could accept an unlimited number of young Britons under a youth mobility scheme, according…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
-   "date": "2026-11-17T19:59:01+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=700&quality=85&auto=format&fit=max&s=5051fe3c0bac3b4fa355085a74dc1c1d",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: WPA/Getty Images"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T18:04:55+00:00"
-  },
-  {
    "id": "5df5cda1f6fb9d32",
    "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
    "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T19:58:12+00:00",
+   "date": "2026-11-17T20:13:45+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -204,6 +184,48 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
+   "id": "079425f07f1a861a",
+   "title": "China, Canada expand tariff relief after Carney-Xi meeting",
+   "summary": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
+   "date": "2026-11-17T20:11:41+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc982d1952-1794938925.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc982d1952-1794938925.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T20:25:35+00:00"
+  },
+  {
+   "id": "2e8a2735ef156f35",
+   "title": "Some EU countries ‘could accept unlimited young Britons’ under youth mobility scheme",
+   "summary": "Scheme expected to be sealed in principle at EU-UK summit in Brussels on Friday but trickier elements could be postponed for six months EU countries including Germany could accept an unlimited number of young Britons under a youth mobility scheme, according…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+   "date": "2026-11-17T19:59:01+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: WPA/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=700&quality=85&auto=format&fit=max&s=5051fe3c0bac3b4fa355085a74dc1c1d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T18:04:55+00:00"
   },
   {
    "id": "9c9549cbc0f6614b",
@@ -6604,7 +6626,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -7598,26 +7620,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T21:39:44+00:00"
-  },
-  {
-   "id": "fe56b5bc74721f04",
-   "title": "Quebec ready to vote independently from Canada for Francophonie leadership: premier",
-   "summary": "PHNOM PENH - Quebec Premier Paul St-Pierre Plamondon is further distancing himself from the Canadian government in his first international outing since winning last month's provincial election.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/quebec-ready-to-vote-independently-from-canada-for-francophonie-leadership-premier/article_5a8fd965-3c58-551e-8fa6-50fe7eee4dc0.html",
-   "date": "2026-11-14T20:20:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 900,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/5c/f5cdd57e-ef3a-521d-9146-b232d9879f77/6af8c3a120f2d.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/5c/f5cdd57e-ef3a-521d-9146-b232d9879f77/6af8c3a120f2d.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T20:35:15+00:00"
   }
  ]
 }

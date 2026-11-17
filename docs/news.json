@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T06:47:15+00:00",
+ "generatedAt": "2026-11-17T06:56:27+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e32efe5a80b135911f142603ea6a3562",
-    "w": 700,
+    "credit": "Photograph: Gerard Carreon/AP",
     "h": 560,
-    "credit": "Photograph: Gerard Carreon/AP"
+    "url": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e32efe5a80b135911f142603ea6a3562",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T06:47:15+00:00"
@@ -4175,7 +4175,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -4693,7 +4693,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6472,26 +6472,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T08:04:23+00:00"
-  },
-  {
-   "id": "72ac1564f95fd61d",
-   "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
-   "summary": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China's Xi.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
-   "date": "2026-11-14T06:48:14+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315561384105-1794539740.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315561384105-1794539740.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T06:57:03+00:00"
   }
  ]
 }

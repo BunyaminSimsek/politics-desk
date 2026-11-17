@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T17:55:41+00:00",
+ "generatedAt": "2026-11-17T18:04:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "CTV News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,66 @@
  ],
  "items": [
   {
+   "id": "c00471845bd42983",
+   "title": "National Congress of American Indians calls on Trump to reverse Lake Ontario change",
+   "summary": "The National Congress of American Indians is calling on U.S. President Donald Trump to walk back his August executive order renaming Lake Ontario as Lake America.",
+   "source": "Global News Toronto",
+   "url": "https://globalnews.ca/news/12154608/national-congress-of-american-indians-lake-ontario-change/",
+   "date": "2026-11-17T18:02:45+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1ac5de5efc4bd440398026f2ab8c6358582e8a8baed8fa5a6d3b3ac730d39673.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1ac5de5efc4bd440398026f2ab8c6358582e8a8baed8fa5a6d3b3ac730d39673.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T18:04:55+00:00"
+  },
+  {
+   "id": "5df5cda1f6fb9d32",
+   "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
+   "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-17T17:54:29+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Lindsey Wasson/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=e3ea49b111c070615c757513dc2008cc",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
+   "id": "2e8a2735ef156f35",
+   "title": "Andy Burnham delays taking stock of UK’s relationship with EU",
+   "summary": "PM to wait until after Brussels summit at which he hopes for agreements on food, farming and emissions UK politics live – latest updates Andy Burnham has said there is “no rush” to decide on the UK’s longer term relationship with the EU, as he comes under…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+   "date": "2026-11-17T17:50:40+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/53e0d070b160448481076537858086ae8db1fbec/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=afdd734966c8a820fffbee452bd38eda",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Ryan Jenkinson/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T18:04:55+00:00"
+  },
+  {
    "id": "b84e576cb6dd7535",
    "title": "Ontario secondary teachers vote 96% in favour of strike mandate",
    "summary": "The vote by teachers represented by the Ontario Secondary School Teachers' Federation comes before central bargaining has fully started, with negotiations beginning next week.",
@@ -184,6 +244,48 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:46:24+00:00"
+  },
+  {
+   "id": "adae717e460e3f85",
+   "title": "Burnham delays announcement about options for closer relationship with EU until next month – as it happened",
+   "summary": "The prime minister earlier said he wanted to open a national debate on Britain’s relationship with the bloc This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn policies.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+   "date": "2026-11-17T17:46:07+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tolga Akmen/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f24e544ba2a602587d0ef6266b51104e0ef20807/2503_25_2273_1818/master/2273.jpg?width=700&quality=85&auto=format&fit=max&s=5078c71fbc2920f50fd9b0c403f1c650",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T09:14:23+00:00"
+  },
+  {
+   "id": "33ff49f4c6798290",
+   "title": "Anti-Arab hate speech surged on social media during Israel’s election, report finds",
+   "summary": "Digital monitors recorded 400% rise in posts attacking Arab Israelis, including Netanyahu’s disproven fraud allegations Anti-Arab hate speech surged on social media in Israel around the country’s general election last month, digital monitors have said, as…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
+   "date": "2026-11-17T17:44:07+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/37a63870b9fe724abae273c0715e0d2f5e30e2f4/375_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=ca117f3b67a5a3234b9823d4df8c8171",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Amir Levy/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T18:04:55+00:00"
   },
   {
    "id": "47b4728cc9a6d81a",
@@ -237,10 +339,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2Fbd%2F038464ef47e8aca105d3fd442b4d%2Fgettyimages-2304269603.jpg",
-    "w": 1200,
     "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2Fbd%2F038464ef47e8aca105d3fd442b4d%2Fgettyimages-2304269603.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2Fbd%2F038464ef47e8aca105d3fd442b4d%2Fgettyimages-2304269603.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2Fbd%2F038464ef47e8aca105d3fd442b4d%2Fgettyimages-2304269603.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:55:41+00:00"
@@ -277,10 +379,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP19138405723447-1794934559.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP19138405723447-1794934559.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP19138405723447-1794934559.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP19138405723447-1794934559.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:55:41+00:00"
@@ -297,10 +399,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af16b08e6c1-1794206472.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af16b08e6c1-1794206472.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af16b08e6c1-1794206472.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af16b08e6c1-1794206472.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:55:41+00:00"
@@ -326,26 +428,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:46:24+00:00"
-  },
-  {
-   "id": "adae717e460e3f85",
-   "title": "Burnham delays announcement about options for closer relationship with EU until next month – UK politics live",
-   "summary": "The prime minister earlier said he wanted to open a national debate on Britain’s relationship with the bloc This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn policies.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-   "date": "2026-11-17T17:30:38+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tolga Akmen/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f24e544ba2a602587d0ef6266b51104e0ef20807/2503_25_2273_1818/master/2273.jpg?width=700&quality=85&auto=format&fit=max&s=5078c71fbc2920f50fd9b0c403f1c650",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T09:14:23+00:00"
   },
   {
    "id": "f9143cacfa58a48f",
@@ -427,26 +509,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:18:18+00:00"
-  },
-  {
-   "id": "5df5cda1f6fb9d32",
-   "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
-   "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T17:05:46+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lindsey Wasson/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=e3ea49b111c070615c757513dc2008cc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
    "id": "e31015ea2fe8010c",
@@ -6174,7 +6236,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -6692,7 +6754,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

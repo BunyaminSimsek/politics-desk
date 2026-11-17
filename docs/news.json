@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T08:55:50+00:00",
+ "generatedAt": "2026-11-17T09:04:51+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "d0599b0741264f9e",
+   "title": "5 European countries want to start deporting migrants to Rwanda, despite concerns from human rights groups",
+   "summary": "Five European countries have embarked on a deal with Rwanda to take in migrants whose asylum claims have been rejected. They are hoping the scheme acts as a deterrent, but a similar plan in Britain was quashed after the court called it unlawful.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/rwanda-deportation-hub-european-countries-9.7423753?cmp=rss",
+   "date": "2026-11-17T09:00:00+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/b5b4cf80-eb7e-4082-8b65-8ff981ca2ebd,1794862086879/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C363%2C4891%2C2751%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T09:04:51+00:00"
+  },
+  {
+   "id": "ac6262aa4e8029e8",
+   "title": "Investigate Trump or work with him? Democrats debate best path forward",
+   "summary": "Still giddy from their sweeping midterm victory, the Democrats now face a dilemma over what to do next. Some factions within the party are urging a strong push to investigate U.S. President Donald Trump, his family and his allies over allegations of corruption.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/trump-congress-democrats-affordability-accountability-9.7421040?cmp=rss",
+   "date": "2026-11-17T09:00:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/a8d5f622-4d1d-49ab-91a8-c7ea0bde45ee,1794847303151/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C398%2C5500%2C3093%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T09:04:51+00:00"
+  },
   {
    "id": "2b2bac2136793b21",
    "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
@@ -302,10 +342,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/af8a/live/92244d70-e25b-11f1-8bed-2b9fd907b22d.jpg",
-    "w": 1200,
     "h": 676,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/af8a/live/92244d70-e25b-11f1-8bed-2b9fd907b22d.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/af8a/live/92244d70-e25b-11f1-8bed-2b9fd907b22d.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/af8a/live/92244d70-e25b-11f1-8bed-2b9fd907b22d.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T08:55:50+00:00"
@@ -4424,7 +4464,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -4942,7 +4982,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6557,86 +6597,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T09:37:11+00:00"
-  },
-  {
-   "id": "4ba6e71bdac381d4",
-   "title": "Can the Carney government end homelessness? (Not on its own)",
-   "summary": "Homelessness is hardly a new problem. But in the wake of the pandemic, homelessness has come to the fore as a visible and salient concern in communities across Canada.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/carney-budget-homelessness-analysis-9.7421243?cmp=rss",
-   "date": "2026-11-14T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "housing"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/54f6f536-b4f1-4791-8b28-77a42867301c,1794609137028/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4800%2C2700%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T09:08:17+00:00"
-  },
-  {
-   "id": "dc932b25f28368a5",
-   "title": "With 1 candidate on the ballot, federal Green Party chooses its next leader",
-   "summary": "In any other party, Mike Morrice would be acclaimed as leader. But the Green Party of Canada prides itself on doing things differently than the political mainstream.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/green-party-of-canada-mike-morrice-9.7419567?cmp=rss",
-   "date": "2026-11-14T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/ce870e57-4d25-4bcb-b670-fc79850dc32b,1794510495936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C270%2C5184%2C2916%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T09:08:17+00:00"
-  },
-  {
-   "id": "e80f7d40ad5eda1b",
-   "title": "Ontario's Bill 140 raises concerns over landfill approvals, groundwater protection in Caledon, Ont.",
-   "summary": "Ontario's proposed Bill 140 would remove a municipal support requirement for certain large landfills, prompting concerns about groundwater and the time available for Caledon's incoming council to respond.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/caledon-bill-140-landfills-groundwater-9.7421849?cmp=rss",
-   "date": "2026-11-14T09:00:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/bd49e383-901a-4a70-8398-b6b0fde6d995,1794617494392/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4096%2C2304%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T09:08:17+00:00"
-  },
-  {
-   "id": "41c29c3fb9354caf",
-   "title": "Canadian judge decries U.S. sanctions of International Criminal Court as 'attack in favour of impunity'",
-   "summary": "Kimberly Prost, a Canadian judge at the International Criminal Court, was sanctioned by the Trump administration last August.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/us-icc-sanctions-canadian-judge-kimberly-prost-9.7415128?cmp=rss",
-   "date": "2026-11-14T09:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/d4a07724-5913-4de9-84d6-22ce3b71362d,1794323760202/full/max/0/default.jpg?im=Crop%2Crect%3D%28411%2C604%2C2893%2C1627%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T14:34:33+00:00"
   }
  ]
 }

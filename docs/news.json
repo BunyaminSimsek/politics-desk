@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T07:42:03+00:00",
+ "generatedAt": "2026-11-17T07:51:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 18
+   "kept": 19
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -186,6 +186,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T07:14:39+00:00"
+  },
+  {
+   "id": "fb630625ce84792a",
+   "title": "Bahrain thwarts drone attack, Iran claims targeting US military radar",
+   "summary": "This is a breaking news story.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
+   "date": "2026-11-17T07:35:54+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T07:51:12+00:00"
   },
   {
    "id": "ec207f4236748f6d",
@@ -268,6 +290,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T07:14:39+00:00"
+  },
+  {
+   "id": "b6868768454bf25a",
+   "title": "‘Disgusted by it’: body of Melbourne Cup race horse found dumped in Sydney skip bin",
+   "summary": "So You Are placed eighth in race just two weeks ago and was put down after a severe bout of colic Get our daily political email , free app or daily news podcast The body of a horse that placed eighth in Australia’s Melbourne Cup two weeks ago and recently…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb",
+   "date": "2026-11-17T06:39:24+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/dd139e0696a494665b7aa4358ff2cd286e480999/407_0_4073_3258/master/4073.jpg?width=700&quality=85&auto=format&fit=max&s=c0e098a6db19271f6b8dda4dad81422e",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Pat Scala/Racing Photos/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T07:51:12+00:00"
   },
   {
    "id": "9efce15ccb9c7114",
@@ -698,14 +740,16 @@
   },
   {
    "id": "34ec8212ac90c506",
-   "title": "Iran war live: Ships warned against ‘fake American routes’ in Hormuz Strait",
+   "title": "Iran war live: Bahrain says it intercepted Iranian drone attack",
    "summary": "Oil tankers continue to explode in the Strait of Hormuz as tensions ramp up over US military buildup in the Middle East.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
    "date": "2026-11-16T23:57:49+00:00",
    "topic": "mideast",
    "region": "world",
-   "tags": [],
+   "tags": [
+    "defence"
+   ],
    "kind": "news",
    "image": {
     "h": 800,
@@ -4279,7 +4323,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -6534,48 +6578,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T02:42:11+00:00"
-  },
-  {
-   "id": "3d965ee82940f9a7",
-   "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-   "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
-   "date": "2026-11-14T07:46:36+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af7fff6-1794637814.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af7fff6-1794637814.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T07:54:21+00:00"
-  },
-  {
-   "id": "387267285486ac75",
-   "title": "Carney says Canada will not waiver in NATO support, amid concerns over Ukraine talks",
-   "summary": "MANILA - Prime Minister Mark Carney says Canada will not waiver in its support of NATO allies, as European leaders express concern at Russia seeking a reordering of continental security in negotiations with Ukraine.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/carney-says-canada-will-not-waiver-in-nato-support-amid-concerns-over-ukraine-talks/article_6bfe6304-210f-5f75-a7a6-d9bccf92538d.html",
-   "date": "2026-11-14T07:43:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 829,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/7b/f7b34894-87bd-5ec6-8dd2-d0c08b254815/6af811812b69b.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/7b/f7b34894-87bd-5ec6-8dd2-d0c08b254815/6af811812b69b.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T08:04:23+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T22:48:13+00:00",
+ "generatedAt": "2026-11-17T22:57:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "c7e9917dcc0c8a83",
+   "title": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
+   "summary": "Senegal, Cameroon and Morocco lead six qualifiers for the 2027 Africa Cup of Nations, while Nigeria's bid to reach the finals suffers another setback.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T22:54:51+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7391/live/363a56f0-e29a-11f1-8dda-8925a81c3da5.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7391/live/363a56f0-e29a-11f1-8dda-8925a81c3da5.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T22:57:26+00:00"
+  },
+  {
    "id": "5df5cda1f6fb9d32",
    "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
    "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
@@ -197,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/82/6828773b-fcb7-5569-b79f-cf94dd4dce06/6afcd7d3c1f73.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 805,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/82/6828773b-fcb7-5569-b79f-cf94dd4dce06/6afcd7d3c1f73.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/82/6828773b-fcb7-5569-b79f-cf94dd4dce06/6afcd7d3c1f73.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/82/6828773b-fcb7-5569-b79f-cf94dd4dce06/6afcd7d3c1f73.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:48:13+00:00"
@@ -217,10 +237,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/de610ad7d09fc89df2c3a963761bfc9e2cc8e4da/1817_497_2596_2076/master/2596.jpg?width=700&quality=85&auto=format&fit=max&s=08e946f58926f843b1f50e4406396ca3",
-    "w": 700,
+    "credit": "Photograph: Ohad Zwigenberg/AP",
     "h": 560,
-    "credit": "Photograph: Ohad Zwigenberg/AP"
+    "url": "https://i.guim.co.uk/img/media/de610ad7d09fc89df2c3a963761bfc9e2cc8e4da/1817_497_2596_2076/master/2596.jpg?width=700&quality=85&auto=format&fit=max&s=08e946f58926f843b1f50e4406396ca3",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:48:13+00:00"
@@ -624,7 +644,7 @@
   },
   {
    "id": "9364369bd1a6b008",
-   "title": "Russian military plane crashes killing all 19 on board",
+   "title": "Russian military plane crashes, killing all 19 on board",
    "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
@@ -7227,7 +7247,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"

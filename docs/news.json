@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T21:41:23+00:00",
+ "generatedAt": "2026-11-17T21:51:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -119,7 +119,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
    "ok": true,
-   "kept": 50
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,63 @@
  ],
  "items": [
   {
+   "id": "23d25a05deabc445",
+   "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+   "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+   "date": "2026-11-17T21:49:29+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Eduardo Muñoz/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/03f57a225008dd1bc1f3dc849a2f4e634086c7a4/342_0_2918_2334/master/2918.jpg?width=700&quality=85&auto=format&fit=max&s=383a55ee090d589889122a480585f9db",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T21:41:23+00:00"
+  },
+  {
+   "id": "ac936a25779c6c32",
+   "title": "How often lawmakers miss congressional votes — and why it matters",
+   "summary": "NPR's Sacha Pfeiffer talks with Eric Schickler, UC Berkeley political science professor, about voting absenteeism on Capitol Hill, and how commonplace it is for lawmakers to miss votes.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/17/nx-s1-6042894/how-often-lawmakers-miss-congressional-votes-and-why-it-matters",
+   "date": "2026-11-17T21:43:10+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "analysis",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-17T21:51:02+00:00"
+  },
+  {
+   "id": "58bd9d6a8cb698dc",
+   "title": "Left-wing Québec solidaire accuses rivals of trying to 'cancel' party",
+   "summary": "Quebec's left-wing party is accusing its rivals of trying to shut it out by denying it official parliamentary status in the provincial legislature.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/left-wing-qu-bec-solidaire-accuses-rivals-of-trying-to-cancel-party/article_48132fae-5e0c-573e-aada-7069e0ad3628.html",
+   "date": "2026-11-17T21:41:16+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/a0/fa08312f-36f9-522f-8e46-150143e7dc7f/6afccae11d10d.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 860,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/a0/fa08312f-36f9-522f-8e46-150143e7dc7f/6afccae11d10d.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T21:51:02+00:00"
+  },
+  {
    "id": "542e4d1fcea86b15",
    "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
    "summary": "Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory Around 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about…",
@@ -177,35 +234,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/dde5ccc76241e935a3052e3e3dd59bb8f8f29473/755_0_4561_3648/master/4561.jpg?width=700&quality=85&auto=format&fit=max&s=ad8288df557a0d70205ded20b7349acc",
-    "w": 700,
+    "credit": "Photograph: Scott Wallace/Getty Images",
     "h": 560,
-    "credit": "Photograph: Scott Wallace/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/dde5ccc76241e935a3052e3e3dd59bb8f8f29473/755_0_4561_3648/master/4561.jpg?width=700&quality=85&auto=format&fit=max&s=ad8288df557a0d70205ded20b7349acc",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:41:23+00:00"
   },
   {
-   "id": "23d25a05deabc445",
-   "title": "St Kitts and Nevis fear economic impact of shuttering citizenship-by-investment program",
-   "summary": "Prime minister of twin-island Caribbean nation announces program wind-down after EU threatens to end visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
-   "date": "2026-11-17T21:39:44+00:00",
+   "id": "26a9442b80f1ad36",
+   "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+   "summary": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+   "date": "2026-11-17T21:35:24+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
-    "economy"
+    "defence"
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/03f57a225008dd1bc1f3dc849a2f4e634086c7a4/342_0_2918_2334/master/2918.jpg?width=700&quality=85&auto=format&fit=max&s=383a55ee090d589889122a480585f9db",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Eduardo Muñoz/Reuters"
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afcadfb52-1794944507.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afcadfb52-1794944507.jpg?resize=640%2C427"
    },
    "breaking": false,
-   "addedAt": "2026-11-17T21:41:23+00:00"
+   "addedAt": "2026-11-17T21:51:02+00:00"
   },
   {
    "id": "5df5cda1f6fb9d32",
@@ -239,10 +296,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950905.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950905.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950905.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950905.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:41:23+00:00"
@@ -259,10 +316,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb64a7213a-1794860199.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb64a7213a-1794860199.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb64a7213a-1794860199.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb64a7213a-1794860199.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:41:23+00:00"
@@ -281,10 +338,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950729.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950729.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950729.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950729.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:41:23+00:00"
@@ -301,10 +358,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/1e85a934e6f22ab1ae2128cb8413e4cf5cb32653/514_0_6882_5504/master/6882.jpg?width=700&quality=85&auto=format&fit=max&s=337e158f30cda40160c69294152b6507",
-    "w": 700,
+    "credit": "Photograph: AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/1e85a934e6f22ab1ae2128cb8413e4cf5cb32653/514_0_6882_5504/master/6882.jpg?width=700&quality=85&auto=format&fit=max&s=337e158f30cda40160c69294152b6507",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:41:23+00:00"
@@ -491,7 +548,7 @@
   {
    "id": "4e3deff57ab20557",
    "title": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
-   "summary": "LaNeve, who served as Hegseth’s senior military commander, nominated to permanently replace Gen Randy George Donald Trump has nominated Gen Chris LaNeve to be the US army’s top officer, making permanent his interim service after defense secretary Pete Hegseth…",
+   "summary": "LaNeve, who served as Hegseth’s senior military commander, nominated to permanently replace Gen Randy George Donald Trump has nominated Gen Chris LaNeve to be the US army’s top officer, making permanent his interim service after the defense secretary, Pete…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
    "date": "2026-11-17T20:21:58+00:00",
@@ -626,9 +683,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f6a5dee6-def0-46a7-8a67-ffa45371a75c,1794940289710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C460%2C8511%2C4787%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f6a5dee6-def0-46a7-8a67-ffa45371a75c,1794940289710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C460%2C8511%2C4787%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:38:56+00:00"
@@ -687,9 +744,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9427ab8a-df96-4947-935a-d4b2f67290a6,1794939693151/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9427ab8a-df96-4947-935a-d4b2f67290a6,1794939693151/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:38:56+00:00"
@@ -1098,9 +1155,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1794934254489/full/max/0/default.jpg?im=Crop%2Crect%3D%28154%2C0%2C8942%2C5029%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1794934254489/full/max/0/default.jpg?im=Crop%2Crect%3D%28154%2C0%2C8942%2C5029%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:36:48+00:00"
@@ -7447,7 +7504,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

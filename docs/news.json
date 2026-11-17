@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T19:29:18+00:00",
+ "generatedAt": "2026-11-17T19:38:56+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,66 @@
  ],
  "items": [
   {
+   "id": "417aa0b3b13e5642",
+   "title": "Carney secures another China trade deal — but at what cost?",
+   "summary": "Prime Minister Mark Carney has brokered another trade deal with China that will deliver meaningful relief to Canadian sectors long stymied by tariffs and red tape. But Ottawa is also making concessions of its own, which has some China hawks feeling squeamish.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/carney-xi-china-trade-9.7425325?cmp=rss",
+   "date": "2026-11-17T19:33:27+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/f6a5dee6-def0-46a7-8a67-ffa45371a75c,1794940289710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C460%2C8511%2C4787%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:38:56+00:00"
+  },
+  {
+   "id": "2d833973816ffeb4",
+   "title": "Ontario public high school teachers vote 96 per cent in favour of strike mandate",
+   "summary": "'Members have sent the Ford government a clear message: We are united, we expect better,' said the union president.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/ontario-public-high-school-teachers-vote-96-per-cent-in-favour-of-strike-mandate/article_1a52edde-367b-431d-8843-b269470f0e44.html",
+   "date": "2026-11-17T19:30:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T16:49:49+00:00"
+  },
+  {
+   "id": "84a0c8ffdff7103a",
+   "title": "U.K. sanctions Israeli companies involved in building illegal settlements in West Bank",
+   "summary": "Britain said on Tuesday it would impose sanctions on eight Israeli construction companies involved in building settlements in the occupied West Bank, as part of its effort to protect the idea of a two-state solution.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/united-kingdom-israel-west-bank-construction-companies-settlements-9.7425375?cmp=rss",
+   "date": "2026-11-17T19:27:10+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/9427ab8a-df96-4947-935a-d4b2f67290a6,1794939693151/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:38:56+00:00"
+  },
+  {
    "id": "79b8813561bdd688",
    "title": "IIHF says it was the target of a cyberattack, takes website offline",
    "summary": "The IIHF said it was investigating the source of the cyberattack and was working to restore its systems. Its platforms would be back online soon, it says.",
@@ -177,10 +237,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/5fb73ce3dd2c7ba5e38611e5d4ff625ad3a9bbf6c929c6d961669f6452ea7abe.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/5fb73ce3dd2c7ba5e38611e5d4ff625ad3a9bbf6c929c6d961669f6452ea7abe.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/5fb73ce3dd2c7ba5e38611e5d4ff625ad3a9bbf6c929c6d961669f6452ea7abe.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/5fb73ce3dd2c7ba5e38611e5d4ff625ad3a9bbf6c929c6d961669f6452ea7abe.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:29:18+00:00"
@@ -191,7 +251,7 @@
    "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T19:07:07+00:00",
+   "date": "2026-11-17T19:23:46+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -246,26 +306,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:01:11+00:00"
-  },
-  {
-   "id": "2d833973816ffeb4",
-   "title": "Ontario public high school teachers vote 96 per cent in favour of strike mandate",
-   "summary": "'Members have sent the Ford government a clear message: We are united, we expect better,' said the union president.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/ontario-public-high-school-teachers-vote-96-per-cent-in-favour-of-strike-mandate/article_1a52edde-367b-431d-8843-b269470f0e44.html",
-   "date": "2026-11-17T18:48:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T16:49:49+00:00"
   },
   {
    "id": "ee3c63eaa00a4e5b",
@@ -609,9 +649,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1794934254489/full/max/0/default.jpg?im=Crop%2Crect%3D%28154%2C0%2C8942%2C5029%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1794934254489/full/max/0/default.jpg?im=Crop%2Crect%3D%28154%2C0%2C8942%2C5029%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:36:48+00:00"
@@ -688,9 +728,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/8fdf4801-9e63-4a63-88d9-cf3bb85939fc,1794935398339/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C19%2C2779%2C1563%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/8fdf4801-9e63-4a63-88d9-cf3bb85939fc,1794935398339/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C19%2C2779%2C1563%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:29:18+00:00"
@@ -1610,10 +1650,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/06d555a274abdbb96d1d4698447485bfb37e49c1/541_0_4722_3777/master/4722.jpg?width=700&quality=85&auto=format&fit=max&s=d1371f9bc1bc01a73ce38512d8947112",
-    "w": 700,
+    "credit": "Photograph: Lukas Coch/EPA",
     "h": 560,
-    "credit": "Photograph: Lukas Coch/EPA"
+    "url": "https://i.guim.co.uk/img/media/06d555a274abdbb96d1d4698447485bfb37e49c1/541_0_4722_3777/master/4722.jpg?width=700&quality=85&auto=format&fit=max&s=d1371f9bc1bc01a73ce38512d8947112",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:29:18+00:00"
@@ -6440,7 +6480,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -6958,7 +6998,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7494,28 +7534,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T20:07:25+00:00"
-  },
-  {
-   "id": "9f7eaa994be997d7",
-   "title": "Mike Johnson: ‘Leaders have to take responsibility when things go wrong’",
-   "summary": "Republican House speaker not running for re-election contrasts sharply with president who avoids accountability In his first interview since the midterm elections , the US House speaker, Mike Johnson , said that the Republican party’s crushing losses during…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/14/mike-johnson-republican-midterms-losses",
-   "date": "2026-11-14T19:38:19+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Alex Wong/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/00f91b8f8a739aa2a76aef4c0d3aa7f5a131e279/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=254601f7cec3b7e29945d0b7d1759d3d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T19:58:18+00:00"
   }
  ]
 }

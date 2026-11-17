@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T00:16:59+00:00",
+ "generatedAt": "2026-11-17T00:26:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,31 +166,12 @@
  ],
  "items": [
   {
-   "id": "04aec821884b9900",
-   "title": "The battle for Trump's 'Trash Island' golf course | About That",
-   "summary": "Andrew Chang explains the fight over what U.S. President Donald Trump calls 'Trash Island' — and why a federal judge blocked the Trump administration from closing Washington's historic East Potomac Park.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/player/play/9.7424438?cmp=rss",
-   "date": "2026-11-17T00:05:23+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.cbc.ca/ais/647cdcbf-d668-438a-9dc8-31a14936827b,1794873871530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C230%2C5500%2C3093%29%3B",
-    "credit": "",
-    "caption": ""
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T00:16:59+00:00"
-  },
-  {
    "id": "c656e17c3cca6bff",
    "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
    "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-16T23:54:45+00:00",
+   "date": "2026-11-17T00:07:38+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -205,12 +186,31 @@
    "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
+   "id": "04aec821884b9900",
+   "title": "The battle for Trump's 'Trash Island' golf course | About That",
+   "summary": "Andrew Chang explains the fight over what U.S. President Donald Trump calls 'Trash Island' — and why a federal judge blocked the Trump administration from closing Washington's historic East Potomac Park.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/player/play/9.7424438?cmp=rss",
+   "date": "2026-11-17T00:05:23+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "caption": "",
+    "credit": "",
+    "url": "https://i.cbc.ca/ais/647cdcbf-d668-438a-9dc8-31a14936827b,1794873871530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C230%2C5500%2C3093%29%3B"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T00:16:59+00:00"
+  },
+  {
    "id": "cad9fda7be9dec0a",
    "title": "Several staffers leaving Poilievre's office weeks after B.C. election",
    "summary": "OTTAWA - Conservative Leader Pierre Poilievre is losing five more staff members, including his deputy chief of staff and two of his senior communications aides.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/several-staffers-leaving-poilievre-s-office-weeks-after-b-c-election/article_dbd01e88-7543-5687-bfcc-566939505935.html",
-   "date": "2026-11-16T23:51:50+00:00",
+   "date": "2026-11-16T23:51:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [
@@ -590,17 +590,17 @@
   },
   {
    "id": "934ab703da027bf9",
-   "title": "Explainer: Understanding what's in Canada's Immigration Levels Plan",
+   "title": "Understanding what's in Canada's Immigration Levels Plan",
    "summary": "OTTAWA - The federal government's updated immigration levels plan was published in the federal budget on Nov. 5, setting out Canada's targets for admitting new residents — both permanent and temporary — for the next three years.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/explainer-understanding-what-s-in-canada-s-immigration-levels-plan/article_2eeabb81-c1d9-5ebf-bf4c-3b6d843df1eb.html",
-   "date": "2026-11-16T21:20:44+00:00",
+   "date": "2026-11-16T21:20:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [
     "immigration"
    ],
-   "kind": "analysis",
+   "kind": "news",
    "image": {
     "h": 800,
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/85/4854f772-d46d-548f-93d7-87cc933322fb/6af2125977645.image.jpg?resize=640%2C",
@@ -750,6 +750,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:58:48+00:00"
+  },
+  {
+   "id": "bf8b87e647986e48",
+   "title": "Ecuadorian politicians warn about legal provisions in free trade deal",
+   "summary": "OTTAWA - Twenty-five former cabinet ministers and former heads of parliament in Ecuador are warning that some provisions of the Canada-Ecuador free trade deal are putting the countries' economic relationship at risk.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/ecuadorian-politicians-warn-about-legal-provisions-in-free-trade-deal/article_4d246c70-09b1-5b85-9b0a-a311e901fc3b.html",
+   "date": "2026-11-16T20:41:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/53/6536c3a2-b4aa-5b16-bc9e-6f11d164a230/6afb6b5b82f05.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 819,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/53/6536c3a2-b4aa-5b16-bc9e-6f11d164a230/6afb6b5b82f05.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T00:26:31+00:00"
   },
   {
    "id": "1d4cc0267292caf8",
@@ -1612,9 +1634,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d8192021-bc8b-4308-921d-6c616744a019,1794873916699/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C106%2C5000%2C2812%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d8192021-bc8b-4308-921d-6c616744a019,1794873916699/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C106%2C5000%2C2812%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
@@ -3811,7 +3833,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -6439,26 +6461,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T00:29:25+00:00"
-  },
-  {
-   "id": "6d734011618a9afd",
-   "title": "UK police open sex offence probe into comedian and author David Walliams",
-   "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
-   "date": "2026-11-14T00:22:07+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7941c1aac-1794610204.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7941c1aac-1794610204.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T00:47:49+00:00"
   }
  ]
 }

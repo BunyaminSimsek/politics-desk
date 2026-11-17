@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T00:07:52+00:00",
+ "generatedAt": "2026-11-17T00:16:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "04aec821884b9900",
+   "title": "The battle for Trump's 'Trash Island' golf course | About That",
+   "summary": "Andrew Chang explains the fight over what U.S. President Donald Trump calls 'Trash Island' — and why a federal judge blocked the Trump administration from closing Washington's historic East Potomac Park.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/player/play/9.7424438?cmp=rss",
+   "date": "2026-11-17T00:05:23+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/647cdcbf-d668-438a-9dc8-31a14936827b,1794873871530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C230%2C5500%2C3093%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T00:16:59+00:00"
+  },
+  {
    "id": "c656e17c3cca6bff",
    "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
    "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
@@ -199,10 +218,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/d9/1d9c9f6c-d842-556b-ac38-88bdc266f7fd/6afb97d925206.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/d9/1d9c9f6c-d842-556b-ac38-88bdc266f7fd/6afb97d925206.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/d9/1d9c9f6c-d842-556b-ac38-88bdc266f7fd/6afb97d925206.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/d9/1d9c9f6c-d842-556b-ac38-88bdc266f7fd/6afb97d925206.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T00:07:52+00:00"
@@ -1593,9 +1612,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/d8192021-bc8b-4308-921d-6c616744a019,1794873916699/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C106%2C5000%2C2812%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/d8192021-bc8b-4308-921d-6c616744a019,1794855422679/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C260%2C5000%2C2812%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
@@ -3792,7 +3811,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

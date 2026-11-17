@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T23:06:37+00:00",
+ "generatedAt": "2026-11-17T23:15:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "CBC World",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "5f4262ae0acc6426",
+   "title": "Ford government caps hearings on ‘red tape’ bill amid environmental outcry",
+   "summary": "First Nations leaders, environmentalists, and legal advocates are urging the government to scrap elements of Bill 140, warning the legislation would gut environmental safeguards.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12155287/ford-government-caps-hearings-red-tape-bill-amid-environmental-outcry/",
+   "date": "2026-11-17T23:07:37+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2024/09/Sol-Mamakwa.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2024/09/Sol-Mamakwa.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T23:15:50+00:00"
+  },
+  {
    "id": "2e8a2735ef156f35",
    "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
    "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six months The new post-Brexit UK-EU youth mobility scheme or agrifood deal may not come fully into force until 2030.",
@@ -188,7 +208,7 @@
   {
    "id": "c7e9917dcc0c8a83",
    "title": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
-   "summary": "Senegal, Cameroon and Morocco lead six qualifiers for the 2027 Africa Cup of Nations, while Nigeria's bid to reach the finals suffers another setback.",
+   "summary": "Senegal, Cameroon and Morocco qualify for the 2027 Africa Cup of Nations, but Nigeria are in trouble, and struggling Tunisia fail with an impassioned penalty protest.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/sport/football/articles/c5evrgrvw1ezo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-17T22:54:51+00:00",
@@ -227,7 +247,7 @@
   },
   {
    "id": "b9d51cb275c5307f",
-   "title": "Hundreds protest Nathan Cofnas talk on DEI at Oriel College in Oxford",
+   "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
    "summary": "Students oppose appearance of self-described ‘race realist’ who made plagiarism claims against Jason Arday Hundreds of protesters jammed the cobbled streets around Oriel College, Oxford, to voice their opposition at an appearance by Nathan Cofnas, the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
@@ -237,10 +257,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/394c18fc3563a59b2134e09e95d195e54fbb5278/1120_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=7e2ec79d6694ab18399d7c74e7704e91",
-    "w": 700,
+    "credit": "Photograph: Alicia Canter/The Guardian",
     "h": 560,
-    "credit": "Photograph: Alicia Canter/The Guardian"
+    "url": "https://i.guim.co.uk/img/media/394c18fc3563a59b2134e09e95d195e54fbb5278/1120_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=7e2ec79d6694ab18399d7c74e7704e91",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T23:06:37+00:00"
@@ -7267,7 +7287,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -7785,7 +7805,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

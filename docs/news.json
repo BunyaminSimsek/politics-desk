@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T21:03:31+00:00",
+ "generatedAt": "2026-11-17T21:12:42+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "9364369bd1a6b008",
+   "title": "Russian military plane crashes killing all 19 on board",
+   "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T21:06:11+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:48:36+00:00"
+  },
+  {
+   "id": "05c4a60d12d237af",
+   "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+   "summary": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+   "date": "2026-11-17T20:57:56+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afcad6d90e07-1794944365.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afcad6d90e07-1794944365.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T21:12:42+00:00"
+  },
+  {
+   "id": "5df5cda1f6fb9d32",
+   "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
+   "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-17T20:53:50+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
    "id": "13a28b8f56ffbf00",
    "title": "What’s behind the ANC’s decline in South Africa?",
    "summary": "African National Congress won its lowest-ever vote share in local elections this month.",
@@ -177,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794946749.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794946749.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794946749.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794946749.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:03:31+00:00"
@@ -197,33 +259,13 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "credit": "Photograph: Kent Nishimura/AFP/Getty Images",
+    "h": 560,
     "url": "https://i.guim.co.uk/img/media/7afa9ff87004148c941fa9a8fa79637a6730f305/1151_0_6882_5504/master/6882.jpg?width=700&quality=85&auto=format&fit=max&s=2c49da582c2aa7ae4b20df92a1f1f143",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Kent Nishimura/AFP/Getty Images"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T21:03:31+00:00"
-  },
-  {
-   "id": "5df5cda1f6fb9d32",
-   "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
-   "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T20:37:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
+   "addedAt": "2026-11-17T21:03:31+00:00"
   },
   {
    "id": "566598e1eca81ebb",
@@ -266,28 +308,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T15:53:35+00:00"
-  },
-  {
-   "id": "9364369bd1a6b008",
-   "title": "Russian military plane crashes killing all 19 on board",
-   "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T20:25:27+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T19:48:36+00:00"
   },
   {
    "id": "4e3deff57ab20557",
@@ -1201,9 +1221,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/9e5589c1-4508-41f1-80da-0ff39b19ea9d,1794928654797/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C399%2C5753%2C3236%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/9e5589c1-4508-41f1-80da-0ff39b19ea9d,1794928654797/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C399%2C5753%2C3236%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:08:40+00:00"
@@ -6730,7 +6750,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -7704,26 +7724,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:29:03+00:00"
-  },
-  {
-   "id": "04bba7831efd4f7b",
-   "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-   "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-   "date": "2026-11-14T21:10:26+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8c810ac51-1794689040.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8c810ac51-1794689040.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T21:39:44+00:00"
   }
  ]
 }

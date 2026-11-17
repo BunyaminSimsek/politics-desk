@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T01:31:33+00:00",
+ "generatedAt": "2026-11-17T01:40:43+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -177,13 +177,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T01:31:33+00:00"
+  },
+  {
+   "id": "4ba609ef4470bd06",
+   "title": "Truck driver fired for ‘unsafe’ use of smartglasses in first reported sacking over device in Australia",
+   "summary": "Toll employee Ricardo Martins Silva used smartglasses to take photos at an LPG terminal despite the risk of an explosion caused by an electrical spark, a court heard Get our breaking news email , free app or daily news podcast A Toll truck driver was fired…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/17/toll-truck-driver-fired-sacked-smartglasses-australia-ntwnfb",
+   "date": "2026-11-17T01:25:08+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/1bb8d30dcd78052afadd5695ad1cf81a973b10fe/1115_380_2101_1680/master/2101.jpg?width=700&quality=85&auto=format&fit=max&s=55edcfb9881e38f29927bda8f4a234e3",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T01:40:43+00:00"
   },
   {
    "id": "c656e17c3cca6bff",
@@ -663,9 +683,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/20b7dae8-7148-4e31-a6d1-f149d80dfaf0,1794863568899/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/20b7dae8-7148-4e31-a6d1-f149d80dfaf0,1794863568899/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T21:37:06+00:00"
@@ -682,9 +702,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T21:37:06+00:00"
@@ -3912,7 +3932,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -4430,7 +4450,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

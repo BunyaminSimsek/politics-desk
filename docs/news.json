@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T01:50:21+00:00",
+ "generatedAt": "2026-11-17T02:00:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -186,6 +186,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T17:01:10+00:00"
+  },
+  {
+   "id": "9188a2d0804d9340",
+   "title": "Yemen army reports 661 attacks on Houthis amid Houthi push towards Aden",
+   "summary": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+   "date": "2026-11-17T01:38:13+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261026__D4GV6KE__v1__HighRes__YemenSaudiIsranUsIsraelWar-1794853871.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261026__D4GV6KE__v1__HighRes__YemenSaudiIsranUsIsraelWar-1794853871.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T02:00:06+00:00"
   },
   {
    "id": "c656e17c3cca6bff",
@@ -403,9 +425,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:49:05+00:00"
@@ -1251,9 +1273,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/34624e6f-3ba7-4141-887c-9e5e97c61534,1794854488780/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/34624e6f-3ba7-4141-887c-9e5e97c61534,1794854488780/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:49:05+00:00"
@@ -3932,7 +3954,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -4450,7 +4472,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

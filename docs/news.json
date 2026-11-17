@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T15:53:35+00:00",
+ "generatedAt": "2026-11-17T16:02:51+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,12 +166,32 @@
  ],
  "items": [
   {
+   "id": "47b4728cc9a6d81a",
+   "title": "UK sanctions firms over Israeli West Bank settlements",
+   "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T15:59:47+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T13:06:00+00:00"
+  },
+  {
    "id": "06f87596e47e95b9",
-   "title": "Cop31 live: first draft of agreement under pressure as climate negotiations enter final days",
+   "title": "Cop31 as it happened: first draft of agreement under pressure as climate negotiations enter final days",
    "summary": "Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement Speaking at a press conference just now, the EU’s climate commissioner, Wopke Hoekstra, lamented the language on climate finance, trade and carbon capture…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
-   "date": "2026-11-17T15:45:10+00:00",
+   "date": "2026-11-17T15:58:10+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -193,7 +213,7 @@
    "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T15:40:24+00:00",
+   "date": "2026-11-17T15:50:10+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -206,6 +226,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
+   "id": "9b3e4e64bfeabec8",
+   "title": "US Pentagon fails ninth straight audit despite progress in organizing finances",
+   "summary": "The audits check whether financial statements ​are fairly presented and financial systems ‌and processes are sound The Pentagon failed a financial audit for the ninth consecutive year, according to an inspector general ⁠report released on Monday – but an…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/17/pentagon-fails-audit",
+   "date": "2026-11-17T15:43:12+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/a9600d17cc68a45ca7493e14c235396998c728ab/968_531_3336_2668/master/3336.jpg?width=700&quality=85&auto=format&fit=max&s=984f8124755e454e12909c8c8aeaa00e",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Kevin Carter/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T16:02:51+00:00"
   },
   {
    "id": "961479e61fb9484f",
@@ -646,26 +688,6 @@
    "addedAt": "2026-11-17T13:34:01+00:00"
   },
   {
-   "id": "47b4728cc9a6d81a",
-   "title": "UK sanctions firms over Israeli West Bank settlements",
-   "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T13:10:06+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T13:06:00+00:00"
-  },
-  {
    "id": "ab2addd331948ea5",
    "title": "Iran fires drones at U.S. base in Bahrain, denies reports of planned dirty bomb attack in D.C.",
    "summary": "Iran fired drones at a U.S. military radar system in Bahrain on Tuesday, even as talks between Iran and mediators Oman and Qatar to end the nearly nine-month war were taking place.",
@@ -718,10 +740,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T15:53:35+00:00"
@@ -5630,7 +5652,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -6888,26 +6910,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T16:25:07+00:00"
-  },
-  {
-   "id": "10bdccdf58640905",
-   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-14T15:53:55+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T06:02:32+00:00"
   }
  ]
 }

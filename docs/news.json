@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T18:51:24+00:00",
+ "generatedAt": "2026-11-17T19:01:11+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,13 +41,13 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "2d6e0dc8ee36eff3",
+   "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+   "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T18:58:57+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:01:11+00:00"
+  },
   {
    "id": "2d833973816ffeb4",
    "title": "Ontario public high school teachers vote 96 per cent in favour of strike mandate",
@@ -352,7 +374,7 @@
   {
    "id": "b84e576cb6dd7535",
    "title": "Ontario secondary teachers vote 96% in favour of strike mandate",
-   "summary": "The vote by teachers represented by the Ontario Secondary School Teachers' Federation comes before central bargaining has fully started, with negotiations beginning next week.",
+   "summary": "The OSSTF says teachers have been pushed to the brink in their profession as a result of Ford government under-funding education.",
    "source": "Global News",
    "url": "https://globalnews.ca/news/12154581/ontario-secondary-school-teachers-federation-strike-vote/",
    "date": "2026-11-17T17:46:09+00:00",
@@ -665,9 +687,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.5312570,1570484022000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1632%2C918%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.5312570,1570484022000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1632%2C918%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:49:49+00:00"
@@ -1535,7 +1557,7 @@
   {
    "id": "0a0e369d3f8b767c",
    "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-   "summary": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ UK politics live – latest updates Ed Miliband has announced the first set of sanctions against Israeli companies planning to build…",
+   "summary": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ Ed Miliband has announced the first set of sanctions against Israeli companies planning to build illegal settlements in the West…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
    "date": "2026-11-17T12:18:08+00:00",
@@ -7451,26 +7473,6 @@
     "caption": "",
     "credit": "",
     "url": "https://i.cbc.ca/ais/0b445307-3812-446b-9e80-b62d4ecf585b,1794677219777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C271%2C4122%2C2318%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T19:21:26+00:00"
-  },
-  {
-   "id": "7640cc164999215c",
-   "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
-   "summary": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast The outspoken Liberal senator Andrew McLachlan has…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
-   "date": "2026-11-14T19:00:52+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lukas Coch/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=700&quality=85&auto=format&fit=max&s=dbbbdbf07041efa9858063ea5d5d1906",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-14T19:21:26+00:00"

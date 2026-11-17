@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T14:57:40+00:00",
+ "generatedAt": "2026-11-17T15:06:57+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement Speaking at a press conference just now, the EU’s climate commissioner, Wopke Hoekstra, lamented the language on climate finance, trade and carbon capture…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
-   "date": "2026-11-17T14:51:51+00:00",
+   "date": "2026-11-17T14:59:39+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -188,6 +188,66 @@
    "addedAt": "2026-11-17T07:14:39+00:00"
   },
   {
+   "id": "d8df35994207fe7b",
+   "title": "After the rupture: Canada’s pivot away from the U.S. must not stop at China",
+   "summary": "The recent elections in the United States resulted in a decisive victory for Democrats, who regained control of both the House and the Senate, and handed the Republicans one of the worst midterm defeats in decades.",
+   "source": "Policy Options",
+   "url": "https://policyoptions.irpp.org/2026/11/china-trade-diversification/",
+   "date": "2026-11-17T14:58:48+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "analysis",
+   "image": {
+    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/China-Canada.jpg?resize=1200%2C800",
+    "w": 1920,
+    "h": 1396,
+    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/China-Canada.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T15:06:57+00:00"
+  },
+  {
+   "id": "8cd3c59916c7e3df",
+   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+   "summary": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+   "date": "2026-11-17T14:50:33+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: supplied",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=700&quality=85&auto=format&fit=max&s=d49cd8a4a692437df4280b70c1db086d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T09:51:02+00:00"
+  },
+  {
+   "id": "13af9aa1fa9c8072",
+   "title": "Jensen Huang’s departure as Nvidia CEO becomes a political proxy war",
+   "summary": "Huang’s exit sharpens debate over US stance towards Beijing; and as outages increase, do you get the feeling nothing works? This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china",
+   "date": "2026-11-17T14:50:24+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/411_0_3764_3013/master/3764.jpg?width=700&quality=85&auto=format&fit=max&s=1509b1071c4794eb90ab4f6edfeca7fe",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Chesnot/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T15:06:57+00:00"
+  },
+  {
    "id": "9d83a16f0eae6004",
    "title": "Hundreds protest against ex-border patrol chief Greg Bovino at Rutgers University talk",
    "summary": "New Jersey university’s Republicans club invited Bovino, who oversaw Trump’s ICE surges, to speak on campus Hundreds protested outside a Rutgers University campus building on Monday night, jeering former border patrol commander Greg Bovino, who was inside…",
@@ -201,33 +261,33 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/36635c27ae24d59f8307ce1f76450876a1f4133f/331_0_2501_2000/master/2501.jpg?width=700&quality=85&auto=format&fit=max&s=250ce9dd3da8062d20933a2e77ab26d0",
-    "w": 700,
+    "credit": "Photograph: Olga Fedorova/EPA",
     "h": 560,
-    "credit": "Photograph: Olga Fedorova/EPA"
+    "url": "https://i.guim.co.uk/img/media/36635c27ae24d59f8307ce1f76450876a1f4133f/331_0_2501_2000/master/2501.jpg?width=700&quality=85&auto=format&fit=max&s=250ce9dd3da8062d20933a2e77ab26d0",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T14:57:40+00:00"
   },
   {
-   "id": "8cd3c59916c7e3df",
-   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-   "summary": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s…",
+   "id": "5df5cda1f6fb9d32",
+   "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
+   "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "date": "2026-11-17T14:31:56+00:00",
-   "topic": "ukraine",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-17T14:47:02+00:00",
+   "topic": "us",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: supplied",
+    "credit": "Photograph: Lindsey Wasson/AP",
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=700&quality=85&auto=format&fit=max&s=d49cd8a4a692437df4280b70c1db086d",
+    "url": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=e3ea49b111c070615c757513dc2008cc",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-17T09:51:02+00:00"
+   "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
    "id": "f71cb5b232761825",
@@ -248,26 +308,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T14:39:07+00:00"
-  },
-  {
-   "id": "5df5cda1f6fb9d32",
-   "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
-   "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T14:22:07+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lindsey Wasson/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=e3ea49b111c070615c757513dc2008cc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
    "id": "770f8c9685d65589",
@@ -414,6 +454,27 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T13:06:00+00:00"
+  },
+  {
+   "id": "ab2addd331948ea5",
+   "title": "Iran fires drones at U.S. base in Bahrain, denies reports of planned dirty bomb attack in D.C.",
+   "summary": "Iran fired drones at a U.S. military radar system in Bahrain on Tuesday, even as talks between Iran and mediators Oman and Qatar to end the nearly nine-month war were taking place.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/iran-us-war-bahrain-drones-dirty-bomb-report-9.7424686?cmp=rss",
+   "date": "2026-11-17T13:07:05+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/ef110316-0624-4a82-a940-e914c5ca75a5,1794919046156/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C838%2C8293%2C4664%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T15:06:57+00:00"
   },
   {
    "id": "a0d6dc3af9b80d3a",
@@ -3860,7 +3921,7 @@
    "id": "66292ed108e2f134",
    "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
    "summary": "Prime Minister Mark Carney said that Canada could turn to Chinese automakers if trade negotiations with U.S. President Donald Trump fail to preserve an integrated North American auto industry.",
-   "source": "CBC World",
+   "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/canada-china-carney-auto-9.7423156?cmp=rss",
    "date": "2026-11-16T11:13:41+00:00",
    "topic": "federal",
@@ -5921,7 +5982,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6758,26 +6819,6 @@
     "small": "https://globalnews.ca/wp-content/uploads/2026/11/Wainwright-e1794668957140.jpg?w=640&h=427&crop=1&quality=70&strip=all",
     "url": "https://globalnews.ca/wp-content/uploads/2026/11/Wainwright-e1794668957140.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T15:11:50+00:00"
-  },
-  {
-   "id": "801c9b4463cfcb9f",
-   "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
-   "summary": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas A two-hour hearing in Spain’s high court Friday on the US extradition request of wealthy leftwing activist and philanthropist James “Fergie” Chambers…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
-   "date": "2026-11-14T15:00:47+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chedly Ben Ibrahim/NurPhoto/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/dd871a986aabb7abca5224af03caccf474d981ca/468_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=ddd690ae300a2b3f31761b598ecad960",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-14T15:11:50+00:00"

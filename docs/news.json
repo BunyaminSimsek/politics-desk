@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T19:48:36+00:00",
+ "generatedAt": "2026-11-17T19:57:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "9c9549cbc0f6614b",
+   "title": "Ottawa spent some $3.45 million on legal fees in connection with Bill 21",
+   "summary": "OTTAWA - Canada’s Justice Department spent approximately $3.45 million in connection with the legal challenge to Quebec’s state secularism law, commonly known as Bill 21.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/quebec/ottawa-spent-some-3-45-million-on-legal-fees-in-connection-with-bill-21/article_77e97367-e15f-53f1-9baf-3b7906acf987.html",
+   "date": "2026-11-17T19:42:12+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/49/249843cb-fd62-5408-9b84-0d49b7a26bcd/6afcaecfb3ac2.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 761,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/49/249843cb-fd62-5408-9b84-0d49b7a26bcd/6afcaecfb3ac2.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:57:54+00:00"
+  },
+  {
    "id": "5df5cda1f6fb9d32",
    "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
    "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
-    "w": 700,
+    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Paul J Richards/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:51:38+00:00"
@@ -197,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/11754c8aa4db933188faedb04c56ce704a5ca49f/2337_2149_4513_3611/master/4513.jpg?width=700&quality=85&auto=format&fit=max&s=aa1e6cdfa3c7e50279f3f5e93d6754a7",
-    "w": 700,
+    "credit": "Photograph: Christopher Thomond/The Guardian",
     "h": 560,
-    "credit": "Photograph: Christopher Thomond/The Guardian"
+    "url": "https://i.guim.co.uk/img/media/11754c8aa4db933188faedb04c56ce704a5ca49f/2337_2149_4513_3611/master/4513.jpg?width=700&quality=85&auto=format&fit=max&s=aa1e6cdfa3c7e50279f3f5e93d6754a7",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:48:36+00:00"
@@ -219,10 +239,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:48:36+00:00"
@@ -262,10 +282,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/94d5dbcaee84ef4860f15c907cea1bc38ec21f3b/663_0_2672_2138/master/2672.jpg?width=700&quality=85&auto=format&fit=max&s=5fe47fd68c8b5bea52b40e3aeb1e495e",
-    "w": 700,
+    "credit": "Photograph: Vanessa Nunes/Alamy",
     "h": 560,
-    "credit": "Photograph: Vanessa Nunes/Alamy"
+    "url": "https://i.guim.co.uk/img/media/94d5dbcaee84ef4860f15c907cea1bc38ec21f3b/663_0_2672_2138/master/2672.jpg?width=700&quality=85&auto=format&fit=max&s=5fe47fd68c8b5bea52b40e3aeb1e495e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:48:36+00:00"
@@ -341,10 +361,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc6ea3dca3-1794928291.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc6ea3dca3-1794928291.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc6ea3dca3-1794928291.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc6ea3dca3-1794928291.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:48:36+00:00"
@@ -792,10 +812,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc8abd5e-1794935485.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc8abd5e-1794935485.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc8abd5e-1794935485.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc8abd5e-1794935485.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:48:36+00:00"
@@ -1799,7 +1819,7 @@
   },
   {
    "id": "d920529414f76f40",
-   "title": "Carney government amends controversial bill to fast-track pipelines and mines",
+   "title": "Carney government tweaks controversial bill to fast-track pipelines and mines",
    "summary": "Liberal MPs agreed to make minor changes to a controversial piece of legislation that's supposed to speed up the approval of major projects.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/bill-c-39-major-projects-fast-track-environmental-concerns-amendments-9.7424528?cmp=rss",
@@ -6584,7 +6604,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -7102,7 +7122,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7598,26 +7618,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T20:35:15+00:00"
-  },
-  {
-   "id": "c69b9f0de38e1cf9",
-   "title": "Can being ‘non-Western’ cost you your home in Denmark?",
-   "summary": "Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
-   "date": "2026-11-14T19:52:49+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794685914.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794685914.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T20:07:25+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T07:51:12+00:00",
+ "generatedAt": "2026-11-17T08:00:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -201,10 +201,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T07:51:12+00:00"
@@ -303,10 +303,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/dd139e0696a494665b7aa4358ff2cd286e480999/407_0_4073_3258/master/4073.jpg?width=700&quality=85&auto=format&fit=max&s=c0e098a6db19271f6b8dda4dad81422e",
-    "w": 700,
+    "credit": "Photograph: Pat Scala/Racing Photos/Getty Images",
     "h": 560,
-    "credit": "Photograph: Pat Scala/Racing Photos/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/dd139e0696a494665b7aa4358ff2cd286e480999/407_0_4073_3258/master/4073.jpg?width=700&quality=85&auto=format&fit=max&s=c0e098a6db19271f6b8dda4dad81422e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T07:51:12+00:00"

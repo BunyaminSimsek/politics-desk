@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T17:27:34+00:00",
+ "generatedAt": "2026-11-17T17:36:48+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,47 @@
  ],
  "items": [
   {
+   "id": "f9143cacfa58a48f",
+   "title": "Ukraine cripples Crimean bridge in blow to Putin before meeting with Xi, Trump",
+   "summary": "Ukrainian drones and missiles destroyed the central road section of the bridge linking Russia and Crimea on Tuesday, inflicting a military and symbolic blow on Russian President Vladimir Putin two days before he is due to meet the leaders of China and the U.S.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/ukraine-drones-russia-crimea-bridge-9.7425197?cmp=rss",
+   "date": "2026-11-17T17:30:36+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1794934254489/full/max/0/default.jpg?im=Crop%2Crect%3D%28154%2C0%2C8942%2C5029%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T17:36:48+00:00"
+  },
+  {
+   "id": "b3f99208f6282266",
+   "title": "Gaming should be 'top priority' for new digital safety regulator, advocacy group says",
+   "summary": "OTTAWA - Advocacy group Children First Canada says the Liberal government’s proposed digital safety bill should eventually cover gaming platforms.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/gaming-should-be-top-priority-for-new-digital-safety-regulator-advocacy-group-says/article_82bb28cb-7d9e-5770-ae4f-8653b204336a.html",
+   "date": "2026-11-17T17:28:41+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a1/9a154ec3-ef41-59f7-977f-f386be5ca04c/6afc8f1f2dcdc.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a1/9a154ec3-ef41-59f7-977f-f386be5ca04c/6afc8f1f2dcdc.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T17:36:48+00:00"
+  },
+  {
    "id": "e9d9b4aff228212e",
    "title": "Former union executive apologizes after posting AI image of Conservative politician",
    "summary": "MONTRÉAL - A former executive of a major Quebec labour union has apologized for posting an artificial intelligence-generated image of a provincial Conservative politician with a black eye.",
@@ -177,10 +218,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/9f/89f14582-30f2-5522-bb13-093198a39058/6afb7bc7b86d4.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 857,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/9f/89f14582-30f2-5522-bb13-093198a39058/6afb7bc7b86d4.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/9f/89f14582-30f2-5522-bb13-093198a39058/6afb7bc7b86d4.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/9f/89f14582-30f2-5522-bb13-093198a39058/6afb7bc7b86d4.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:27:34+00:00"
@@ -452,7 +493,7 @@
   {
    "id": "2d833973816ffeb4",
    "title": "Ontario public high school teachers vote 96 per cent in favour of strike mandate",
-   "summary": "\"Members have sent the Ford government a clear message: We are united, we expect better,\" said the union president.",
+   "summary": "'Members have sent the Ford government a clear message: We are united, we expect better,' said the union president.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-public-high-school-teachers-vote-96-per-cent-in-favour-of-strike-mandate/article_1a52edde-367b-431d-8843-b269470f0e44.html",
    "date": "2026-11-17T16:30:00+00:00",
@@ -3182,7 +3223,7 @@
    "id": "980c8e52747ac854",
    "title": "Carney arrives in China for meeting with Xi Jinping, Asia-Pacific summit",
    "summary": "Prime Minister Mark Carney arrived in China on Monday, where he is set to meet with Chinese President Xi Jinping and leaders from across the Pacific Rim.",
-   "source": "CBC World",
+   "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/carney-china-xi-apec-9.7423904?cmp=rss",
    "date": "2026-11-16T19:21:16+00:00",
    "topic": "federal",
@@ -6013,7 +6054,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

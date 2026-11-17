@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T20:34:56+00:00",
+ "generatedAt": "2026-11-17T20:44:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "566598e1eca81ebb",
+   "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+   "summary": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military, police have said.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+   "date": "2026-11-17T20:30:57+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=700&quality=85&auto=format&fit=max&s=848d017d826f23317477e67a758df29c",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Sgt Paul Shaw/UK Ministry of Defence 2019"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T20:44:46+00:00"
+  },
+  {
    "id": "0635c7b781ebcf9a",
    "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
    "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
@@ -199,10 +221,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:48:36+00:00"
@@ -241,10 +263,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/8a88692703c32200c6ff9581506e72cd2b05124a/499_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=92db17e43b1f5ef6729e70a0918d8028",
-    "w": 700,
+    "credit": "Photograph: Staff Sgt. Vincent Levelev/82nd Airborne Division",
     "h": 560,
-    "credit": "Photograph: Staff Sgt. Vincent Levelev/82nd Airborne Division"
+    "url": "https://i.guim.co.uk/img/media/8a88692703c32200c6ff9581506e72cd2b05124a/499_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=92db17e43b1f5ef6729e70a0918d8028",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T20:34:56+00:00"
@@ -261,10 +283,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/8e0b05f851fafa43edbcef767fe07973b7fe2cc0/615_0_6150_4921/master/6150.jpg?width=700&quality=85&auto=format&fit=max&s=7a3266cbea1e686db40bc9418c5fcb2d",
-    "w": 700,
+    "credit": "Photograph: Mick Tsikas/AAP",
     "h": 560,
-    "credit": "Photograph: Mick Tsikas/AAP"
+    "url": "https://i.guim.co.uk/img/media/8e0b05f851fafa43edbcef767fe07973b7fe2cc0/615_0_6150_4921/master/6150.jpg?width=700&quality=85&auto=format&fit=max&s=7a3266cbea1e686db40bc9418c5fcb2d",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T20:34:56+00:00"
@@ -955,9 +977,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/bdc3f2dc-e1e3-48be-897d-a4c3b61e2039,1794929867055/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C122%2C3262%2C1834%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/bdc3f2dc-e1e3-48be-897d-a4c3b61e2039,1794929867055/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C122%2C3262%2C1834%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T18:32:37+00:00"
@@ -3370,10 +3392,10 @@
   {
    "id": "6e0971f518a15e3f",
    "title": "Quebec union executive resigns after posting altered image of Conservative politician",
-   "summary": "MONTRÉAL - An executive of a major Quebec labour union resigned on Monday, days after posting an artificial intelligence-generated image on social media of a provincial Conservative politician with a black eye.",
+   "summary": "The image was shared on a social media account of Vincent Leclair, who served as president of the FTQ's Montreal regional council.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/quebec/quebec-union-executive-resigns-after-posting-altered-image-of-conservative-politician/article_23557bd7-b4f8-56ad-ad45-1e00a6cca785.html",
-   "date": "2026-11-16T21:49:38+00:00",
+   "date": "2026-11-16T21:49:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T06:09:58+00:00",
+ "generatedAt": "2026-11-17T06:19:07+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "6f6d1a5a3821da05",
+   "title": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
+   "summary": "As Eisenkot’s bloc moves to form a government and courts the ultra-Orthodox, Gaza genocide and settler pogroms continue.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss",
+   "date": "2026-11-17T06:06:58+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261115__D7J36KX__v1__HighRes__PalestinianIsraelConflictGaza-1794752803.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261115__D7J36KX__v1__HighRes__PalestinianIsraelConflictGaza-1794752803.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T06:19:07+00:00"
+  },
+  {
    "id": "6a0b0cc96336930c",
    "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
    "summary": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
@@ -244,6 +264,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T05:15:10+00:00"
+  },
+  {
+   "id": "68a2b235bab65da0",
+   "title": "Canada and China announce new trade measures and cultural partnerships on Carney's 1st day in Shenzhen",
+   "summary": "Prime Minister Mark Carney announced a series of new partnerships with China on his first full day in Shenzhen, covering a series of cultural and trade measures, including an expansion of current tariff agreements, more flights between the two countries, and…",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/canada-china-carney-xi-9.7424608?cmp=rss",
+   "date": "2026-11-17T04:15:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/f77bfd64-a64d-4c76-911e-e7584f154163,1794885744741/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C337%2C8152%2C4585%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T06:19:07+00:00"
   },
   {
    "id": "f2bc090e3a658e3f",
@@ -4116,7 +4155,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

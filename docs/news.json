@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T22:19:40+00:00",
+ "generatedAt": "2026-11-17T22:29:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 26
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -166,10 +166,30 @@
  ],
  "items": [
   {
+   "id": "7e047c1ec14cad46",
+   "title": "Charity March of Dimes Canada changes its name to Disability Can",
+   "summary": "TORONTO - One of Canada's most well-known charitable organizations says it's changing its name.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/charity-march-of-dimes-canada-changes-its-name-to-disability-can/article_dcfb34d9-d693-5c99-ac09-f106d3ce89bd.html",
+   "date": "2026-11-17T22:20:36+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/ed/9ed7163f-44ee-5f8a-b42b-7c0fe4c3fb8e/6afcd4413f1c1.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 675,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/ed/9ed7163f-44ee-5f8a-b42b-7c0fe4c3fb8e/6afcd4413f1c1.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T22:29:18+00:00"
+  },
+  {
    "id": "057c6824fef8e8ce",
    "title": "Trump should reverse Lake Ontario name change, says National Congress of American Indians",
    "summary": "The National Congress of American Indians is calling on U.S. President Donald Trump to walk back his August executive order renaming Lake Ontario as Lake America.",
-   "source": "CBC Toronto",
+   "source": "CBC World",
    "url": "https://www.cbc.ca/news/canada/toronto/national-congress-american-indians-trump-lake-ontario-9.7425638?cmp=rss",
    "date": "2026-11-17T22:15:29+00:00",
    "topic": "ontario",
@@ -177,12 +197,34 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/bb81a0a8-5eef-424d-b0fc-7ff11f9479f5,1794952786431/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C4136%2C2326%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/bb81a0a8-5eef-424d-b0fc-7ff11f9479f5,1794952786431/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C4136%2C2326%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:19:40+00:00"
+  },
+  {
+   "id": "efcae7e64164371e",
+   "title": "Carney’s budget includes billions in borrowing beyond the deficit, new analysis finds",
+   "summary": "Parliament's budget watchdog is shedding new light on potential weak spots in Prime Minister Mark Carney's heavy-spending fiscal plan — including hundreds of billions of dollars in shadowy government borrowing that goes beyond the $62.3-billion deficit.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/carney-s-budget-includes-billions-in-borrowing-beyond-the-deficit-new-analysis-finds/article_38335c9a-e698-4a3d-9d17-8c5e0c956265.html",
+   "date": "2026-11-17T22:15:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy"
+   ],
+   "kind": "analysis",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/d4/fd4a0a44-5175-5065-8fa2-6fd651ebb548/6afccadff0004.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 830,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/d4/fd4a0a44-5175-5065-8fa2-6fd651ebb548/6afccadff0004.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T22:29:18+00:00"
   },
   {
    "id": "630d907281cd675d",
@@ -202,6 +244,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:10:01+00:00"
+  },
+  {
+   "id": "3712e84ddadfc958",
+   "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
+   "summary": "US President Donald Trump has been trying to fire Cook since August 2025.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
+   "date": "2026-11-17T22:01:27+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2025/11/epa_6914e1b57b8c-1762976181.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2025/11/epa_6914e1b57b8c-1762976181.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T22:29:18+00:00"
   },
   {
    "id": "5df5cda1f6fb9d32",
@@ -477,10 +539,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/ed/3ed9f36b-0d2d-5d5d-9110-b153f6012774/6afcc5035cd9b.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 824,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/ed/3ed9f36b-0d2d-5d5d-9110-b153f6012774/6afcc5035cd9b.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/ed/3ed9f36b-0d2d-5d5d-9110-b153f6012774/6afcc5035cd9b.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/ed/3ed9f36b-0d2d-5d5d-9110-b153f6012774/6afcc5035cd9b.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:19:40+00:00"
@@ -1851,8 +1913,8 @@
   },
   {
    "id": "cfe36a59d7ebfedb",
-   "title": "Federal government spending up $331.6 billion under Carney, budget watchdog says",
-   "summary": "OTTAWA - The parliamentary budget officer is questioning the federal government's vow to spend less and invest more.",
+   "title": "Budget watchdog warns the cost of Ottawa's borrowing goes beyond the deficit",
+   "summary": "OTTAWA - The federal budget watchdog wants parliamentarians to look beyond the size of the deficit when scrutinizing the Liberal government's spending plans.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/ottawa-s-spending-up-331-6-billion-under-carney-budget-watchdog-says/article_a07d2787-cccd-5f40-b49d-5b3bea4ff297.html",
    "date": "2026-11-17T15:11:00+00:00",

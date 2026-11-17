@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T18:04:55+00:00",
+ "generatedAt": "2026-11-17T18:14:11+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,13 +177,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1ac5de5efc4bd440398026f2ab8c6358582e8a8baed8fa5a6d3b3ac730d39673.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1ac5de5efc4bd440398026f2ab8c6358582e8a8baed8fa5a6d3b3ac730d39673.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1ac5de5efc4bd440398026f2ab8c6358582e8a8baed8fa5a6d3b3ac730d39673.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1ac5de5efc4bd440398026f2ab8c6358582e8a8baed8fa5a6d3b3ac730d39673.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-17T18:04:55+00:00"
+  },
+  {
+   "id": "574f499b55a7cf42",
+   "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
+   "summary": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
+   "date": "2026-11-17T17:58:05+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=7a027b1f34b392f064b2ea75c698b14e",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Bloomberg/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T18:14:11+00:00"
   },
   {
    "id": "5df5cda1f6fb9d32",
@@ -217,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/53e0d070b160448481076537858086ae8db1fbec/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=afdd734966c8a820fffbee452bd38eda",
-    "w": 700,
+    "credit": "Photograph: Ryan Jenkinson/Getty Images",
     "h": 560,
-    "credit": "Photograph: Ryan Jenkinson/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/53e0d070b160448481076537858086ae8db1fbec/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=afdd734966c8a820fffbee452bd38eda",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T18:04:55+00:00"
@@ -279,10 +301,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/37a63870b9fe724abae273c0715e0d2f5e30e2f4/375_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=ca117f3b67a5a3234b9823d4df8c8171",
-    "w": 700,
+    "credit": "Photograph: Amir Levy/Getty Images",
     "h": 560,
-    "credit": "Photograph: Amir Levy/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/37a63870b9fe724abae273c0715e0d2f5e30e2f4/375_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=ca117f3b67a5a3234b9823d4df8c8171",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T18:04:55+00:00"
@@ -6236,7 +6258,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -6754,7 +6776,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

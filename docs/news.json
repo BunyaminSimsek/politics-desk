@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T18:23:22+00:00",
+ "generatedAt": "2026-11-17T18:32:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "Global News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "47b4728cc9a6d81a",
+   "title": "UK sanctions firms over Israeli West Bank settlements",
+   "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T18:27:27+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T13:06:00+00:00"
+  },
+  {
+   "id": "5df5cda1f6fb9d32",
+   "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
+   "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-17T18:23:21+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Lindsey Wasson/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=e3ea49b111c070615c757513dc2008cc",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
    "id": "f087d7c7855c3ac1",
    "title": "Who to watch in Spain's election race",
    "summary": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
@@ -179,10 +219,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T18:23:22+00:00"
@@ -199,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/1d/b1dd16af-1b1d-5dfd-82fd-2268c2c3a24c/6a6245113966f.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 787,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/1d/b1dd16af-1b1d-5dfd-82fd-2268c2c3a24c/6a6245113966f.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/1d/b1dd16af-1b1d-5dfd-82fd-2268c2c3a24c/6a6245113966f.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/1d/b1dd16af-1b1d-5dfd-82fd-2268c2c3a24c/6a6245113966f.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T18:23:22+00:00"
@@ -226,26 +266,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T18:04:55+00:00"
-  },
-  {
-   "id": "5df5cda1f6fb9d32",
-   "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
-   "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T17:58:42+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lindsey Wasson/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=e3ea49b111c070615c757513dc2008cc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
    "id": "574f499b55a7cf42",
@@ -350,26 +370,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T18:04:55+00:00"
-  },
-  {
-   "id": "47b4728cc9a6d81a",
-   "title": "UK sanctions firms over Israeli West Bank settlements",
-   "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T17:41:49+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T13:06:00+00:00"
   },
   {
    "id": "455d52974762733a",
@@ -573,6 +573,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:18:18+00:00"
+  },
+  {
+   "id": "4f95822df2626f67",
+   "title": "Russian figure skaters out of Grand Prix event due to Finland's ban on Russian athletes",
+   "summary": "Seven Russian figure skaters have been withdrawn from a Grand Prix event in Finland this week after the Finnish government barred Russian athletes from entering the country, the Russian Figure Skating Federation said Tuesday.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/figure-skating-finland-russia-ban-update-9.7424974?cmp=rss",
+   "date": "2026-11-17T16:55:51+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/bdc3f2dc-e1e3-48be-897d-a4c3b61e2039,1794929867055/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C122%2C3262%2C1834%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T18:32:37+00:00"
   },
   {
    "id": "e31015ea2fe8010c",
@@ -810,10 +829,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/4fc167991a875ede60218c98ef9d7d0a6474d67c/1_0_3409_2727/master/3409.jpg?width=700&quality=85&auto=format&fit=max&s=3dbe43e640d31c929d4084c15f4a1b35",
-    "w": 700,
+    "credit": "Illustration: The Guardian",
     "h": 560,
-    "credit": "Illustration: The Guardian"
+    "url": "https://i.guim.co.uk/img/media/4fc167991a875ede60218c98ef9d7d0a6474d67c/1_0_3409_2727/master/3409.jpg?width=700&quality=85&auto=format&fit=max&s=3dbe43e640d31c929d4084c15f4a1b35",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:40:30+00:00"

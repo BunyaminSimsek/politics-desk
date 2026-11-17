@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T19:38:56+00:00",
+ "generatedAt": "2026-11-17T19:48:36+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "5df5cda1f6fb9d32",
+   "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
+   "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-17T19:39:30+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Paul J Richards/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
+   "id": "a570f4401a857abb",
+   "title": "Using law to try to silence abuse victims is ‘ultimate form of gaslighting’, MPs told",
+   "summary": "Woman sued by alleged rapist tells justice committee that Slapp lawsuits present perpetrator as victim of wrongdoing Attempts by perpetrators and alleged perpetrators of sexual abuse to silence their victims using the law are “the ultimate form of…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/society/2026/nov/17/using-law-try-silence-abuse-victims-ultimate-gaslighting-mps-told",
+   "date": "2026-11-17T19:36:11+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/11754c8aa4db933188faedb04c56ce704a5ca49f/2337_2149_4513_3611/master/4513.jpg?width=700&quality=85&auto=format&fit=max&s=aa1e6cdfa3c7e50279f3f5e93d6754a7",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Christopher Thomond/The Guardian"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:48:36+00:00"
+  },
+  {
+   "id": "9364369bd1a6b008",
+   "title": "Russian military plane crashes killing all 19 on board",
+   "summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T19:33:55+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:48:36+00:00"
+  },
+  {
    "id": "417aa0b3b13e5642",
    "title": "Carney secures another China trade deal — but at what cost?",
    "summary": "Prime Minister Mark Carney has brokered another trade deal with China that will deliver meaningful relief to Canadian sectors long stymied by tariffs and red tape. But Ottawa is also making concessions of its own, which has some China hawks feeling squeamish.",
@@ -179,12 +241,34 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f6a5dee6-def0-46a7-8a67-ffa45371a75c,1794940289710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C460%2C8511%2C4787%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f6a5dee6-def0-46a7-8a67-ffa45371a75c,1794940289710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C460%2C8511%2C4787%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:38:56+00:00"
+  },
+  {
+   "id": "873a904b57e5c2a4",
+   "title": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
+   "summary": "Youth unemployment review risks clash with unions and Labour left over workers’ rights and minimum wage Neet ideas: what’s in Alan Milburn’s youth unemployment report? Who are the Neets?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment",
+   "date": "2026-11-17T19:30:32+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/94d5dbcaee84ef4860f15c907cea1bc38ec21f3b/663_0_2672_2138/master/2672.jpg?width=700&quality=85&auto=format&fit=max&s=5fe47fd68c8b5bea52b40e3aeb1e495e",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Vanessa Nunes/Alamy"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:48:36+00:00"
   },
   {
    "id": "2d833973816ffeb4",
@@ -218,9 +302,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9427ab8a-df96-4947-935a-d4b2f67290a6,1794939693151/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9427ab8a-df96-4947-935a-d4b2f67290a6,1794939693151/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:38:56+00:00"
@@ -246,24 +330,24 @@
    "addedAt": "2026-11-17T19:29:18+00:00"
   },
   {
-   "id": "5df5cda1f6fb9d32",
-   "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
-   "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T19:23:46+00:00",
-   "topic": "us",
+   "id": "4ed7f9bca4eb7f3d",
+   "title": "More than 100,000 take part in France pay protests",
+   "summary": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+   "date": "2026-11-17T19:09:49+00:00",
+   "topic": "europe",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Lindsey Wasson/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=e3ea49b111c070615c757513dc2008cc",
-    "w": 700
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc6ea3dca3-1794928291.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc6ea3dca3-1794928291.jpg?resize=640%2C427"
    },
    "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
+   "addedAt": "2026-11-17T19:48:36+00:00"
   },
   {
    "id": "46a59dad89819575",
@@ -649,9 +733,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1794934254489/full/max/0/default.jpg?im=Crop%2Crect%3D%28154%2C0%2C8942%2C5029%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1794934254489/full/max/0/default.jpg?im=Crop%2Crect%3D%28154%2C0%2C8942%2C5029%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:36:48+00:00"
@@ -695,6 +779,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:27:34+00:00"
+  },
+  {
+   "id": "2bcf792cd6757759",
+   "title": "CAIR defends civil rights work against Trump’s ‘smear’",
+   "summary": "The US's largest Muslim advocacy group urges President Trump to address rising hate crimes against Muslims.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
+   "date": "2026-11-17T17:09:49+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc8abd5e-1794935485.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc8abd5e-1794935485.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:48:36+00:00"
   },
   {
    "id": "e86552dd8f934e2e",
@@ -1883,7 +1987,7 @@
   {
    "id": "9efce15ccb9c7114",
    "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-   "summary": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – live updates Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the US…",
+   "summary": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – as it happened Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
    "date": "2026-11-17T11:00:39+00:00",
@@ -6480,7 +6584,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -6998,7 +7102,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7510,26 +7614,6 @@
     "h": 800,
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794685914.jpg?quality=80&resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794685914.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T20:07:25+00:00"
-  },
-  {
-   "id": "fab467c9e8e86404",
-   "title": "More than 100,000 rally across France in new Yellow Vest protests",
-   "summary": "Protesters chant against declining affordability, the Macron government, police violence, and poor school conditions.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
-   "date": "2026-11-14T19:46:24+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af8b0272660-1794682919.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af8b0272660-1794682919.jpg?resize=1200%2C800",
     "w": 1200
    },
    "breaking": false,

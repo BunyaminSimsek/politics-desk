@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T01:03:39+00:00",
+ "generatedAt": "2026-11-17T01:12:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "115d73dd03914851",
+   "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+   "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+   "date": "2026-11-17T01:10:59+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Leonhard Föger/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=700&quality=85&auto=format&fit=max&s=62388fc28b1e9867cb79eee6dc589b06",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T16:29:50+00:00"
+  },
+  {
+   "id": "c656e17c3cca6bff",
+   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-17T00:59:14+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Yuri Gripas/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
+  },
+  {
    "id": "66c23c4c82c548a5",
    "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
    "summary": "Kushner reports progress towards a deal, but Moscow says it has not agreed to European participation in the next talks.",
@@ -184,26 +226,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T00:54:33+00:00"
-  },
-  {
-   "id": "c656e17c3cca6bff",
-   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-17T00:38:15+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yuri Gripas/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
    "id": "dab1f01119562212",
@@ -1636,28 +1658,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T16:39:29+00:00"
-  },
-  {
-   "id": "115d73dd03914851",
-   "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-   "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-   "date": "2026-11-16T16:21:40+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Leonhard Föger/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=700&quality=85&auto=format&fit=max&s=62388fc28b1e9867cb79eee6dc589b06",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T16:29:50+00:00"
   },
   {
    "id": "0e930dbd08b09444",
@@ -3892,7 +3892,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

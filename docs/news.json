@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T16:40:30+00:00",
+ "generatedAt": "2026-11-17T16:49:49+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "CBC World",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,6 +166,47 @@
  ],
  "items": [
   {
+   "id": "08bf80c0d9e89e08",
+   "title": "Ontario secondary school teachers vote 96% in favor of strike mandate",
+   "summary": "Ontario public high school teachers have voted 96 per cent in favour of giving their union a strike mandate.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/ontario-secondary-teachers-vote-in-favor-strike-mandate-9.7425118?cmp=rss",
+   "date": "2026-11-17T16:44:35+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/1.5312570,1570484022000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1632%2C918%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T16:49:49+00:00"
+  },
+  {
+   "id": "2b2bac2136793b21",
+   "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
+   "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T16:41:09+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T08:27:48+00:00"
+  },
+  {
    "id": "0fff6c3a67b9463f",
    "title": "Are Gen Z Canadians the new snowbirds? New data reveals U.S. travel plans",
    "summary": "Political tensions have kept many Canadians from travelling to the U.S. during the winter, but as months go by some may be returning.",
@@ -177,10 +218,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/09/Trump-Canada-Claims-e1790182222115.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1120,
     "h": 754,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/09/Trump-Canada-Claims-e1790182222115.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/09/Trump-Canada-Claims-e1790182222115.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/09/Trump-Canada-Claims-e1790182222115.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1120
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:40:30+00:00"
@@ -199,13 +240,73 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/7b3f958711df37a4e270dd08ada3259ad62ef273/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=0e981116ef15e5241fcc46a41038d8ae",
-    "w": 700,
+    "credit": "Photograph: Xinhua/Shutterstock",
     "h": 560,
-    "credit": "Photograph: Xinhua/Shutterstock"
+    "url": "https://i.guim.co.uk/img/media/7b3f958711df37a4e270dd08ada3259ad62ef273/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=0e981116ef15e5241fcc46a41038d8ae",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T09:51:02+00:00"
+  },
+  {
+   "id": "473668a6ba52b2e4",
+   "title": "Quebec premier aims to expand foreign representation in Scandinavia and Africa",
+   "summary": "PHNOM PENH - As he wraps up his first international trip as leader of the province, Quebec Premier Paul St-Pierre Plamondon is elaborating on his plan to increase the number of government offices abroad from 34 to 68.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/business/quebec-premier-aims-to-expand-foreign-representation-in-scandinavia-and-africa/article_5dfdd97e-e7bc-5b08-aacc-e9340cb8cdbf.html",
+   "date": "2026-11-17T16:34:16+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/cc/4cc91e24-e386-5570-9fea-cc0eae2b9d25/6afc824c240fd.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 733,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/cc/4cc91e24-e386-5570-9fea-cc0eae2b9d25/6afc824c240fd.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T16:49:49+00:00"
+  },
+  {
+   "id": "c1d5f2fa71a7ab8b",
+   "title": "Ontario secondary teachers vote 96 per cent in favour of strike mandate",
+   "summary": "TORONTO - Ontario public high school teachers have voted 96 per cent in favour of giving their union a strike mandate.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/ontario-secondary-teachers-vote-96-per-cent-in-favour-of-strike-mandate/article_065796a6-d1bd-5368-9a04-1357518aac8c.html",
+   "date": "2026-11-17T16:30:07+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/92/1921ae41-124d-5144-9c60-20145b6948c1/6afc824b70b17.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/92/1921ae41-124d-5144-9c60-20145b6948c1/6afc824b70b17.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T16:49:49+00:00"
+  },
+  {
+   "id": "2d833973816ffeb4",
+   "title": "Ontario public high school teachers vote 96 per cent in favour of strike mandate",
+   "summary": "\"Members have sent the Ford government a clear message: We are united, we expect better,\" said the union president.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/ontario-public-high-school-teachers-vote-96-per-cent-in-favour-of-strike-mandate/article_1a52edde-367b-431d-8843-b269470f0e44.html",
+   "date": "2026-11-17T16:30:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T16:49:49+00:00"
   },
   {
    "id": "77ab65f34ee9bcc6",
@@ -219,10 +320,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/146c88f01b2221f2d782af9c3c225374ab7856ce/0_0_2000_1600/master/2000.jpg?width=700&quality=85&auto=format&fit=max&s=a7ac11280216c6299e13b63f5e83f9f4",
-    "w": 700,
+    "credit": "Photograph: The Guardian",
     "h": 560,
-    "credit": "Photograph: The Guardian"
+    "url": "https://i.guim.co.uk/img/media/146c88f01b2221f2d782af9c3c225374ab7856ce/0_0_2000_1600/master/2000.jpg?width=700&quality=85&auto=format&fit=max&s=a7ac11280216c6299e13b63f5e83f9f4",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:40:30+00:00"
@@ -454,28 +555,6 @@
    "addedAt": "2026-11-17T15:34:58+00:00"
   },
   {
-   "id": "2b2bac2136793b21",
-   "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
-   "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T15:19:19+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T08:27:48+00:00"
-  },
-  {
    "id": "1fa59fbdf9fc3fac",
    "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
    "summary": "President Donald Trump responded to a CNN report that Iran was working on plans to attack Washington, DC",
@@ -666,7 +745,7 @@
   {
    "id": "770f8c9685d65589",
    "title": "JD Vance blames Democrats for flight stoppage, claiming ‘obsession with men in women’s sports’",
-   "summary": "The stoppage was seemingly caused by the transition from copper telecommunication lines As Republicans scramble to shift blame for the recent chaotic FAA flight stoppage, JD Vance took a new tact, claiming a Democratic focus on transgender sports issues were…",
+   "summary": "The stoppage was seemingly caused by the transition from copper telecommunication lines As Republicans scramble to shift blame for the recent chaotic FAA flight stoppage, JD Vance took a new tack, claiming a Democratic focus on transgender sports issues were…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/17/jd-vance-democrats-trans-sports-flight-stoppage",
    "date": "2026-11-17T14:20:30+00:00",
@@ -6292,7 +6371,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

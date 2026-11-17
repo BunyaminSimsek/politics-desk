@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T14:48:18+00:00",
+ "generatedAt": "2026-11-17T14:57:40+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement Speaking at a press conference just now, the EU’s climate commissioner, Wopke Hoekstra, lamented the language on climate finance, trade and carbon capture…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
-   "date": "2026-11-17T14:34:20+00:00",
+   "date": "2026-11-17T14:51:51+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -186,6 +186,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T07:14:39+00:00"
+  },
+  {
+   "id": "9d83a16f0eae6004",
+   "title": "Hundreds protest against ex-border patrol chief Greg Bovino at Rutgers University talk",
+   "summary": "New Jersey university’s Republicans club invited Bovino, who oversaw Trump’s ICE surges, to speak on campus Hundreds protested outside a Rutgers University campus building on Monday night, jeering former border patrol commander Greg Bovino, who was inside…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/17/protest-greg-bovino-rutgers-university",
+   "date": "2026-11-17T14:49:01+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/36635c27ae24d59f8307ce1f76450876a1f4133f/331_0_2501_2000/master/2501.jpg?width=700&quality=85&auto=format&fit=max&s=250ce9dd3da8062d20933a2e77ab26d0",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Olga Fedorova/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T14:57:40+00:00"
   },
   {
    "id": "8cd3c59916c7e3df",
@@ -5381,7 +5403,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -6759,26 +6781,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T15:11:50+00:00"
-  },
-  {
-   "id": "39e39c0d617f750a",
-   "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
-   "summary": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss",
-   "date": "2026-11-14T14:57:04+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7329927488-1794585241.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7329927488-1794585241.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T15:20:59+00:00"
   }
  ]
 }

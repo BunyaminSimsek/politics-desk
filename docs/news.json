@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T19:20:08+00:00",
+ "generatedAt": "2026-11-17T19:29:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "79b8813561bdd688",
+   "title": "IIHF says it was the target of a cyberattack, takes website offline",
+   "summary": "The IIHF said it was investigating the source of the cyberattack and was working to restore its systems. Its platforms would be back online soon, it says.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12154814/iihf-cyber-attack/",
+   "date": "2026-11-17T19:25:17+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/5fb73ce3dd2c7ba5e38611e5d4ff625ad3a9bbf6c929c6d961669f6452ea7abe.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/5fb73ce3dd2c7ba5e38611e5d4ff625ad3a9bbf6c929c6d961669f6452ea7abe.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:29:18+00:00"
+  },
   {
    "id": "5df5cda1f6fb9d32",
    "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
@@ -655,6 +675,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:18:18+00:00"
+  },
+  {
+   "id": "4df720293f6b4f4f",
+   "title": "How China is positioning itself as a global leader as it hosts Trump, Putin",
+   "summary": "As China welcomes world leaders to the Asia-Pacific Economic Cooperation forum this week in Shenzhen, it presents a very different nation than the one that last hosted the event in 2014.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/apec-china-xi-jinping-trump-putin-9.7425004?cmp=rss",
+   "date": "2026-11-17T17:01:02+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/8fdf4801-9e63-4a63-88d9-cf3bb85939fc,1794935398339/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C19%2C2779%2C1563%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:29:18+00:00"
   },
   {
    "id": "4f95822df2626f67",
@@ -1558,6 +1597,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T12:47:38+00:00"
+  },
+  {
+   "id": "888d174911605f8a",
+   "title": "‘Peace through strength’: Albanese and Trump hail progress on Quad alliance",
+   "summary": "Leaders of India and Japan join for talks on military exercises, AI and rare earths as a counter to Chinese power Donald Trump and Anthony Albanese have heralded plans for new joint Quad military exercises designed to push back on China’s expansionist…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/17/peace-through-strength-albanese-and-trump-hail-progress-on-quad-alliance",
+   "date": "2026-11-17T12:22:56+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/06d555a274abdbb96d1d4698447485bfb37e49c1/541_0_4722_3777/master/4722.jpg?width=700&quality=85&auto=format&fit=max&s=d1371f9bc1bc01a73ce38512d8947112",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lukas Coch/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:29:18+00:00"
   },
   {
    "id": "3642c1ffb44033e9",
@@ -6899,7 +6958,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

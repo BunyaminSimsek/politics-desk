@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T11:42:27+00:00",
+ "generatedAt": "2026-11-17T11:51:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,35 @@
  ],
  "items": [
   {
+   "id": "5df5cda1f6fb9d32",
+   "title": "Democrats’ Peltola ahead as counting nears end in Alaska Senate race – US politics live",
+   "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-17T11:50:09+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections",
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=e3ea49b111c070615c757513dc2008cc",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lindsey Wasson/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
    "id": "06f87596e47e95b9",
    "title": "Cop31 live: first draft of agreement under pressure as climate negotiations enter final days",
    "summary": "Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement Speaking at a press conference just now, the EU’s climate commissioner, Wopke Hoekstra, lamented the language on climate finance, trade and carbon capture…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
-   "date": "2026-11-17T11:39:14+00:00",
+   "date": "2026-11-17T11:46:49+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -188,6 +211,48 @@
    "addedAt": "2026-11-17T07:14:39+00:00"
   },
   {
+   "id": "adae717e460e3f85",
+   "title": "Major youth unemployment report calls for changes to tax, welfare and apprenticeships – UK politics live",
+   "summary": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take years Milburn urges Burnham to spend billions on ‘new deal’ for young people This chart, from the Milburn report, shows what is likely to happen to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+   "date": "2026-11-17T11:38:57+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Brook Mitchell/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b330a5adad039ac2b6e233309db6bef5dd68033a/498_79_4932_3946/master/4932.jpg?width=700&quality=85&auto=format&fit=max&s=ba395d3cb80108d847f8c9fe85ac3dd7",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T09:14:23+00:00"
+  },
+  {
+   "id": "961479e61fb9484f",
+   "title": "Alan Milburn says his plan to get young people into work will save only £200m a year",
+   "summary": "Author of long-awaited report says money saved in benefit cuts will mostly be used to fund new job support system UK politics live – latest updates Neet ideas: what’s in Milburn’s report?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-report-young-people-work-neets-job-support-savingsalan-milburn-plan-young-people-work-neets-savings-200m-a-year",
+   "date": "2026-11-17T11:30:35+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/99467bad0e9304257b52da1b6811383998f5ce7a/920_0_4584_3669/master/4584.jpg?width=700&quality=85&auto=format&fit=max&s=847575e990b90c4c1fcb205584584694",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: PA Images/Alamy Stock Photo/Alamy Live News."
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
    "id": "2acd8ae753741ed8",
    "title": "Can Google win the AI race without killing its cash cow?",
    "summary": "In late October, Google had the worst stock day in its history as a public company. The Planet Money newsletter asks: has Google been caught in \"the innovator's dilemma\"?",
@@ -199,10 +264,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2Ff4%2F13d6cbbc4841bdd4a3e5318cbb63%2Fgettyimages-460917708-1.jpg",
-    "w": 1200,
     "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2Ff4%2F13d6cbbc4841bdd4a3e5318cbb63%2Fgettyimages-460917708-1.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2Ff4%2F13d6cbbc4841bdd4a3e5318cbb63%2Fgettyimages-460917708-1.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F73%2Ff4%2F13d6cbbc4841bdd4a3e5318cbb63%2Fgettyimages-460917708-1.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:42:27+00:00"
@@ -270,28 +335,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T09:51:02+00:00"
-  },
-  {
-   "id": "adae717e460e3f85",
-   "title": "Milburn calls for welfare state ‘revolution’ as landmark youth unemployment report to be published – UK politics live",
-   "summary": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take years Milburn urges Burnham to spend billions on ‘new deal’ for young people More than 300,000 children across Britain are no longer defined as…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-   "date": "2026-11-17T11:14:59+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brook Mitchell/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b330a5adad039ac2b6e233309db6bef5dd68033a/498_79_4932_3946/master/4932.jpg?width=700&quality=85&auto=format&fit=max&s=ba395d3cb80108d847f8c9fe85ac3dd7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T09:14:23+00:00"
   },
   {
    "id": "f93133de6a9e4b6f",
@@ -4978,7 +5021,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"

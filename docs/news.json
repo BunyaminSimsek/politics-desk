@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T16:49:49+00:00",
+ "generatedAt": "2026-11-17T16:59:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,12 +177,32 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.5312570,1570484022000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1632%2C918%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.5312570,1570484022000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1632%2C918%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:49:49+00:00"
+  },
+  {
+   "id": "5df5cda1f6fb9d32",
+   "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
+   "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-17T16:43:54+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Lindsey Wasson/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=e3ea49b111c070615c757513dc2008cc",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
    "id": "2b2bac2136793b21",
@@ -207,6 +227,70 @@
    "addedAt": "2026-11-17T08:27:48+00:00"
   },
   {
+   "id": "9775fff4b2849085",
+   "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
+   "summary": "Huang makes first statement since resigning, while board of directors is not considering reinstating him, reports say Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company Thursday.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
+   "date": "2026-11-17T16:40:55+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=700&quality=85&auto=format&fit=max&s=a5f4532d7b9b20599a9bd896474e933e",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Manami Yamada/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T16:59:26+00:00"
+  },
+  {
+   "id": "d9f6d74fe11ff889",
+   "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
+   "summary": "Partial demolition of bridge linking Russia and occupied Crimea is obvious embarrassment to Putin days before meeting with Xi and Trump Europe live – latest updates Ukraine’s attack on the Kerch road bridge overnight is the culmination of weeks, and perhaps…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
+   "date": "2026-11-17T16:40:26+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/6e5067fd3f834e6d5b85601c27ba90c5e02e9e24/1481_0_6287_5030/master/6287.jpg?width=700&quality=85&auto=format&fit=max&s=4296225f4d45128a6eaf81d1c0ef8e35",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: VANTOR/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T16:59:26+00:00"
+  },
+  {
+   "id": "8cd3c59916c7e3df",
+   "title": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
+   "summary": "Ukraine’s president says Russia continues to attack the country with Shaheed drones, cruise missiles, and, ballistic missiles Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+   "date": "2026-11-17T16:40:21+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Xinhua/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7b3f958711df37a4e270dd08ada3259ad62ef273/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=0e981116ef15e5241fcc46a41038d8ae",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T09:51:02+00:00"
+  },
+  {
    "id": "0fff6c3a67b9463f",
    "title": "Are Gen Z Canadians the new snowbirds? New data reveals U.S. travel plans",
    "summary": "Political tensions have kept many Canadians from travelling to the U.S. during the winter, but as months go by some may be returning.",
@@ -227,28 +311,6 @@
    "addedAt": "2026-11-17T16:40:30+00:00"
   },
   {
-   "id": "8cd3c59916c7e3df",
-   "title": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – Europe live",
-   "summary": "Ukraine’s president says Russia continues to attack the country with Shaheed drones, cruise missiles, and, ballistic missiles Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "date": "2026-11-17T16:34:49+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Xinhua/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7b3f958711df37a4e270dd08ada3259ad62ef273/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=0e981116ef15e5241fcc46a41038d8ae",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T09:51:02+00:00"
-  },
-  {
    "id": "473668a6ba52b2e4",
    "title": "Quebec premier aims to expand foreign representation in Scandinavia and Africa",
    "summary": "PHNOM PENH - As he wraps up his first international trip as leader of the province, Quebec Premier Paul St-Pierre Plamondon is elaborating on his plan to increase the number of government offices abroad from 34 to 68.",
@@ -260,10 +322,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/cc/4cc91e24-e386-5570-9fea-cc0eae2b9d25/6afc824c240fd.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 733,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/cc/4cc91e24-e386-5570-9fea-cc0eae2b9d25/6afc824c240fd.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/cc/4cc91e24-e386-5570-9fea-cc0eae2b9d25/6afc824c240fd.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/cc/4cc91e24-e386-5570-9fea-cc0eae2b9d25/6afc824c240fd.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:49:49+00:00"
@@ -280,10 +342,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/92/1921ae41-124d-5144-9c60-20145b6948c1/6afc824b70b17.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/92/1921ae41-124d-5144-9c60-20145b6948c1/6afc824b70b17.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/92/1921ae41-124d-5144-9c60-20145b6948c1/6afc824b70b17.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/92/1921ae41-124d-5144-9c60-20145b6948c1/6afc824b70b17.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:49:49+00:00"
@@ -300,10 +362,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:49:49+00:00"
@@ -320,33 +382,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: The Guardian",
+    "url": "https://i.guim.co.uk/img/media/b87007d8d577ca2ac6f9ea9546581087b4022ef6/0_0_1340_1072/master/1340.jpg?width=700&quality=85&auto=format&fit=max&s=2121e93ef1ed174329b50934bcdfed27",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/146c88f01b2221f2d782af9c3c225374ab7856ce/0_0_2000_1600/master/2000.jpg?width=700&quality=85&auto=format&fit=max&s=a7ac11280216c6299e13b63f5e83f9f4",
-    "w": 700
+    "credit": "Illustration: Guardian Design"
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:40:30+00:00"
-  },
-  {
-   "id": "5df5cda1f6fb9d32",
-   "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
-   "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T16:12:05+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lindsey Wasson/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=e3ea49b111c070615c757513dc2008cc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
    "id": "768d27897fad0034",
@@ -5853,7 +5895,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -6371,7 +6413,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7069,28 +7111,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T16:15:56+00:00"
-  },
-  {
-   "id": "5be441503d9fe860",
-   "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
-   "summary": "Jonathan Kreiss-Tomkins’ victory means Democrats will now hold 30 US governorships after midterm blowout Democrats have captured Alaska ’s governor’s seat for the first time in nearly three decades, marking another major victory for their party in a midterm…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
-   "date": "2026-11-14T16:58:33+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Emily Mesner/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0e83e7d08933409bcc15b86d35740272644b415a/0_0_4305_3444/master/4305.jpg?width=700&quality=85&auto=format&fit=max&s=18fe8df04a58512d362fc7ed5e2919fb",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T17:02:46+00:00"
   }
  ]
 }

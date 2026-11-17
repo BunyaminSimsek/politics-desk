@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T03:32:41+00:00",
+ "generatedAt": "2026-11-17T03:41:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -6497,28 +6497,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T04:18:31+00:00"
-  },
-  {
-   "id": "96df685b0229f7ba",
-   "title": "Canada, Philippines conclude negotiations for free-trade agreement, aiming for 2027",
-   "summary": "Canada is also pursuing a broader trade agreement with the ASEAN bloc, which includes the Philippines and 10 other countries such as Thailand.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12150796/canada-philippines-trade-deal/",
-   "date": "2026-11-14T03:39:49+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 579,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/2d5a8cb1797081da08c85efd347cf9dc480df876e35d9b7f2df0ad207f53def2.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/2d5a8cb1797081da08c85efd347cf9dc480df876e35d9b7f2df0ad207f53def2.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T03:41:52+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T05:33:23+00:00",
+ "generatedAt": "2026-11-17T05:42:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 4
   },
   {
    "source": "BBC News",
@@ -204,6 +204,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T05:15:10+00:00"
+  },
+  {
+   "id": "6a0b0cc96336930c",
+   "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+   "summary": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T04:18:32+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T05:42:33+00:00"
   },
   {
    "id": "f2bc090e3a658e3f",
@@ -4076,7 +4096,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"

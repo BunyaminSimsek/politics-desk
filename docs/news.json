@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T17:08:40+00:00",
+ "generatedAt": "2026-11-17T17:18:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "Global News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "e86552dd8f934e2e",
+   "title": "House unanimously passes Conservative MP's bill honouring son who died by suicide",
+   "summary": "OTTAWA - The House of Commons has unanimously adopted a bill introduced by Conservative MP Luc Berthold, in memory of his son, that aims to help young people struggling with addiction.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/house-unanimously-passes-conservative-mp-s-bill-honouring-son-who-died-by-suicide/article_5eb7c643-8c50-56b7-ba17-557cd8f3ec3d.html",
+   "date": "2026-11-17T17:09:16+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/d3/9d375664-1d11-5598-b16a-b577f06fbca3/6afc8a7c82042.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 866,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/d3/9d375664-1d11-5598-b16a-b577f06fbca3/6afc8a7c82042.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T17:18:18+00:00"
+  },
+  {
+   "id": "5df5cda1f6fb9d32",
+   "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
+   "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-17T17:05:46+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Lindsey Wasson/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=e3ea49b111c070615c757513dc2008cc",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
    "id": "e31015ea2fe8010c",
    "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
    "summary": "The law targets the group's financing and activities as Houthis make advances in southwestern Yemen.",
@@ -177,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/HXQmoXHXMAAKpMH-1794927673.jpeg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/HXQmoXHXMAAKpMH-1794927673.jpeg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/HXQmoXHXMAAKpMH-1794927673.jpeg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/HXQmoXHXMAAKpMH-1794927673.jpeg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:08:40+00:00"
@@ -203,26 +243,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:49:49+00:00"
-  },
-  {
-   "id": "5df5cda1f6fb9d32",
-   "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
-   "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T16:43:54+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lindsey Wasson/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=e3ea49b111c070615c757513dc2008cc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
    "id": "2b2bac2136793b21",
@@ -322,10 +342,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PV2QT__v1__HighRes__FrancePoliticsSocialLabourUnionsStrikeDemo-1794923086.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PV2QT__v1__HighRes__FrancePoliticsSocialLabourUnionsStrikeDemo-1794923086.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PV2QT__v1__HighRes__FrancePoliticsSocialLabourUnionsStrikeDemo-1794923086.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PV2QT__v1__HighRes__FrancePoliticsSocialLabourUnionsStrikeDemo-1794923086.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:08:40+00:00"
@@ -382,9 +402,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9e5589c1-4508-41f1-80da-0ff39b19ea9d,1794928654797/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C399%2C5753%2C3236%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9e5589c1-4508-41f1-80da-0ff39b19ea9d,1794928654797/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C399%2C5753%2C3236%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:08:40+00:00"
@@ -677,7 +697,7 @@
   },
   {
    "id": "cfe36a59d7ebfedb",
-   "title": "Ottawa's spending up $331.6 billion under Carney, budget watchdog says",
+   "title": "Federal government spending up $331.6 billion under Carney, budget watchdog says",
    "summary": "OTTAWA - The parliamentary budget officer is questioning the federal government's vow to spend less and invest more.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/ottawa-s-spending-up-331-6-billion-under-carney-budget-watchdog-says/article_a07d2787-cccd-5f40-b49d-5b3bea4ff297.html",
@@ -939,9 +959,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f45535e2-99c2-44cb-bab4-c22dbb1d0b44,1794498994529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C244%2C4692%2C2639%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f45535e2-99c2-44cb-bab4-c22dbb1d0b44,1794498994529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C244%2C4692%2C2639%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:08:40+00:00"
@@ -1002,9 +1022,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/ef110316-0624-4a82-a940-e914c5ca75a5,1794919046156/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C838%2C8293%2C4664%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/ef110316-0624-4a82-a940-e914c5ca75a5,1794919046156/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C838%2C8293%2C4664%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T15:06:57+00:00"
@@ -6491,7 +6511,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T00:35:41+00:00",
+ "generatedAt": "2026-11-17T00:44:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 20
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,47 @@
   }
  ],
  "items": [
+  {
+   "id": "dab1f01119562212",
+   "title": "Meta would 'consider' pulling services from Canada if lawful access bill passes as is",
+   "summary": "Representatives from Meta say the social media company would have to \"consider\" pulling encryption services from Canada if the government's proposed lawful access bill passes without further changes.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/meta-encryption-services-lawful-access-9.7424473?cmp=rss",
+   "date": "2026-11-17T00:34:34+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/fa8461a3-6788-44db-8f20-c02533523f22,1794874175807/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C265%2C5750%2C3234%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T00:44:54+00:00"
+  },
+  {
+   "id": "52a941d4d7398150",
+   "title": "Labor policy backflip will allow more backpackers to work in regional Australia",
+   "summary": "Number of people allowed to stay for third year on holidaymaker visa to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government has backpedaled on its plan to cut backpacker…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
+   "date": "2026-11-17T00:27:29+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/bdff9c57b687d49e9eb3c34f48dc8058f94fd3ca/736_0_4640_3712/master/4640.jpg?width=700&quality=85&auto=format&fit=max&s=8966281ae945044f9d1006ce7978648d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lukas Coch/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T23:39:29+00:00"
+  },
   {
    "id": "c656e17c3cca6bff",
    "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
@@ -264,28 +305,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:58:40+00:00"
-  },
-  {
-   "id": "52a941d4d7398150",
-   "title": "Labor announces policy backflip to allow more backpackers to work in regional Australia",
-   "summary": "Number of people allowed to stay for third year on holiday maker visa to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government has backpedaled on its plan to cut backpacker…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
-   "date": "2026-11-16T23:21:46+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Hilary Wardhaugh/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0dd2eeed61e663cd491ab565b48f5786bc1785f5/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=a5cc52027fe81a339af9a70cf9c04dda",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T23:39:29+00:00"
   },
   {
    "id": "8e072ec9275400b4",
@@ -724,9 +743,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/96a6c4f3-0227-43d3-a227-c80505aa5cb5,1794868426388/full/max/0/default.jpg?im=Crop%2Crect%3D%28695%2C308%2C4787%2C2692%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/96a6c4f3-0227-43d3-a227-c80505aa5cb5,1794868426388/full/max/0/default.jpg?im=Crop%2Crect%3D%28695%2C308%2C4787%2C2692%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:58:48+00:00"
@@ -3833,7 +3852,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -4351,7 +4370,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

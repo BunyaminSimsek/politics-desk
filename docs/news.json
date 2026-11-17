@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T23:15:50+00:00",
+ "generatedAt": "2026-11-17T23:25:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "5df5cda1f6fb9d32",
+   "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
+   "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-17T23:09:15+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
    "id": "5f4262ae0acc6426",
    "title": "Ford government caps hearings on ‘red tape’ bill amid environmental outcry",
    "summary": "First Nations leaders, environmentalists, and legal advocates are urging the government to scrap elements of Bill 140, warning the legislation would gut environmental safeguards.",
@@ -177,18 +197,40 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2024/09/Sol-Mamakwa.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2024/09/Sol-Mamakwa.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2024/09/Sol-Mamakwa.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2024/09/Sol-Mamakwa.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T23:15:50+00:00"
   },
   {
+   "id": "566598e1eca81ebb",
+   "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+   "summary": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military, police have said.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+   "date": "2026-11-17T23:05:43+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Sgt Paul Shaw/UK Ministry of Defence 2019",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=700&quality=85&auto=format&fit=max&s=848d017d826f23317477e67a758df29c",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T20:44:46+00:00"
+  },
+  {
    "id": "2e8a2735ef156f35",
    "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
-   "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six months The new post-Brexit UK-EU youth mobility scheme or agrifood deal may not come fully into force until 2030.",
+   "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six months The new post-Brexit UK-EU youth mobility scheme may not come fully into force until 2030.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
    "date": "2026-11-17T22:55:06+00:00",
@@ -226,29 +268,9 @@
    "addedAt": "2026-11-17T22:57:26+00:00"
   },
   {
-   "id": "5df5cda1f6fb9d32",
-   "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
-   "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T22:52:01+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
-  },
-  {
    "id": "b9d51cb275c5307f",
    "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
-   "summary": "Students oppose appearance of self-described ‘race realist’ who made plagiarism claims against Jason Arday Hundreds of protesters jammed the cobbled streets around Oriel College, Oxford, to voice their opposition at an appearance by Nathan Cofnas, the…",
+   "summary": "Students oppose appearance of self-described ‘race realist’ who made plagiarism claims against Jason Arday Hundreds of protesters filled the cobbled streets around Oriel College, Oxford, to voice their opposition to an appearance by Nathan Cofnas, the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
    "date": "2026-11-17T22:50:16+00:00",
@@ -257,10 +279,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Alicia Canter/The Guardian",
+    "url": "https://i.guim.co.uk/img/media/394c18fc3563a59b2134e09e95d195e54fbb5278/1934_751_4662_3729/master/4662.jpg?width=700&quality=85&auto=format&fit=max&s=82c8303800ad75d5eefd7e73f71b2e1f",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/394c18fc3563a59b2134e09e95d195e54fbb5278/1120_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=7e2ec79d6694ab18399d7c74e7704e91",
-    "w": 700
+    "credit": "Photograph: Alicia Canter/The Guardian"
    },
    "breaking": false,
    "addedAt": "2026-11-17T23:06:37+00:00"
@@ -845,28 +867,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:10:01+00:00"
-  },
-  {
-   "id": "566598e1eca81ebb",
-   "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
-   "summary": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military, police have said.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
-   "date": "2026-11-17T20:30:57+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Sgt Paul Shaw/UK Ministry of Defence 2019",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=700&quality=85&auto=format&fit=max&s=848d017d826f23317477e67a758df29c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T20:44:46+00:00"
   },
   {
    "id": "0635c7b781ebcf9a",
@@ -7805,7 +7805,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

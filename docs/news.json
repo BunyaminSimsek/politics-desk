@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T10:28:11+00:00",
+ "generatedAt": "2026-11-17T10:37:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "BBC News",
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T10:28:11+00:00"
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-10.09.05-1794910243.png?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-10.09.05-1794910243.png?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-10.09.05-1794910243.png?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-10.09.05-1794910243.png?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T10:28:11+00:00"
@@ -388,11 +388,11 @@
   {
    "id": "5f03a0d57606aab3",
    "title": "Trillium College students disappointed at selective return to classes",
-   "summary": "Students at one career college are decrying its approach to a provincewide pause on Ontario Student Assistance Program payments, with the school allowing only those who can pay without the financial aid to continue learning.",
+   "summary": "Trillium College announced last month that it was suspending classes due to uncertainty created by the provincial government's OSAP pause.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/trillium-college-students-disappointed-at-selective-return-to-classes/article_fa6ab11b-2027-5f7b-a8bc-7777119afde5.html",
    "date": "2026-11-17T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -803,9 +803,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f77bfd64-a64d-4c76-911e-e7584f154163,1794885744741/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C337%2C8152%2C4585%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f77bfd64-a64d-4c76-911e-e7584f154163,1794885744741/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C337%2C8152%2C4585%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T06:19:07+00:00"
@@ -4705,7 +4705,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -6673,28 +6673,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T11:01:56+00:00"
-  },
-  {
-   "id": "55d0a424dff762c4",
-   "title": "South Sudan postpones first-ever national elections until February",
-   "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
-   "date": "2026-11-14T10:30:32+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af8208bcd843-1794646155.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af8208bcd843-1794646155.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T10:52:45+00:00"
   }
  ]
 }

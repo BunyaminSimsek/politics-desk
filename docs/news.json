@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T01:21:56+00:00",
+ "generatedAt": "2026-11-17T01:31:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -65,7 +65,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "Al Jazeera",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "f95f1206c26ca143",
+   "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+   "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T01:26:01+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T01:31:33+00:00"
+  },
+  {
+   "id": "c656e17c3cca6bff",
+   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+   "date": "2026-11-17T01:18:08+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Yuri Gripas/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-16T11:29:03+00:00"
+  },
+  {
    "id": "115d73dd03914851",
    "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
    "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a…",
@@ -186,26 +226,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T16:29:50+00:00"
-  },
-  {
-   "id": "c656e17c3cca6bff",
-   "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-   "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-   "date": "2026-11-17T00:59:14+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yuri Gripas/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
   },
   {
    "id": "66c23c4c82c548a5",
@@ -382,9 +402,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/57279b25-dcf5-4875-b5e0-db63883c0d0c,1794869763623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C824%2C7914%2C4451%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/57279b25-dcf5-4875-b5e0-db63883c0d0c,1794869763623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C824%2C7914%2C4451%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:20:05+00:00"
@@ -3892,7 +3912,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T04:00:44+00:00",
+ "generatedAt": "2026-11-17T04:09:49+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/1d82fb024ed7d912bb4fc5f2d3293dc1ca863ebc/0_0_1333_1065/master/1333.jpg?width=700&quality=85&auto=format&fit=max&s=1ff5a89e8bd14dd740924e775cbbcffe",
-    "w": 700,
+    "credit": "Photograph: Sam Tabone/WireImage",
     "h": 559,
-    "credit": "Photograph: Sam Tabone/WireImage"
+    "url": "https://i.guim.co.uk/img/media/1d82fb024ed7d912bb4fc5f2d3293dc1ca863ebc/0_0_1333_1065/master/1333.jpg?width=700&quality=85&auto=format&fit=max&s=1ff5a89e8bd14dd740924e775cbbcffe",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T04:00:44+00:00"
@@ -4554,7 +4554,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6517,28 +6517,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T05:13:12+00:00"
-  },
-  {
-   "id": "6be61a5308424d42",
-   "title": "ICC stops probe into alleged crimes by US troops in Afghanistan",
-   "summary": "The decision follows feuds between the United States and the Hague-based International Criminal Court.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan?traffic_source=rss",
-   "date": "2026-11-14T04:03:49+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7b6292b83-1794618921.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7b6292b83-1794618921.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T04:18:31+00:00"
   }
  ]
 }

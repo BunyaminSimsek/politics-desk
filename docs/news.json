@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T11:24:13+00:00",
+ "generatedAt": "2026-11-17T11:33:19+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,35 +166,13 @@
  ],
  "items": [
   {
-   "id": "adae717e460e3f85",
-   "title": "Milburn calls for welfare state ‘revolution’ as landmark youth unemployment report to be published – UK politics live",
-   "summary": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take years Milburn urges Burnham to spend billions on ‘new deal’ for young people This is what the opposition parties have been saying about the Alan…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-   "date": "2026-11-17T11:07:49+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jeff Moore/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ae21bd65f6f9fcfe7775394d2f559aedc82470e9/1129_170_3606_2885/master/3606.jpg?width=700&quality=85&auto=format&fit=max&s=b550187dae9788f656db381fb658a0bd",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T09:14:23+00:00"
-  },
-  {
    "id": "06f87596e47e95b9",
    "title": "Cop31 live: first draft of agreement under pressure as climate negotiations enter final days",
-   "summary": "Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement The co-host of the Cop31 climate summit is among the countries with the greatest responsibility for having exporting fuels that destroy a stable climate…",
+   "summary": "Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement Speaking at a press conference just now, the EU’s climate commissioner, Wopke Hoekstra, lamented the language on climate finance, trade and carbon capture…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
-   "date": "2026-11-17T11:02:37+00:00",
-   "topic": "ukraine",
+   "date": "2026-11-17T11:31:21+00:00",
+   "topic": "europe",
    "region": "world",
    "tags": [
     "climate"
@@ -210,9 +188,137 @@
    "addedAt": "2026-11-17T07:14:39+00:00"
   },
   {
+   "id": "9341601568d5d5e0",
+   "title": "Planning for competition",
+   "summary": "Canada needs more competition. On that, there is something close to an economic consensus. The OECD, IMF (Page 22) and Bank of Canada have all made the case that stronger competition and business dynamism are essential to lifting productivity.",
+   "source": "Policy Options",
+   "url": "https://policyoptions.irpp.org/2026/11/canada-competition-plan/",
+   "date": "2026-11-17T11:24:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy"
+   ],
+   "kind": "analysis",
+   "image": {
+    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Competition.jpg?resize=1200%2C800",
+    "w": 1920,
+    "h": 1318,
+    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Competition.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:33:19+00:00"
+  },
+  {
+   "id": "bac46a537b29f370",
+   "title": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
+   "summary": "Host city offers showcase of China’s rise into a confident and innovative power central to global economy In a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
+   "date": "2026-11-17T11:18:26+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/18cb31b71bd7f2b4e57a7b7b8a647067ac239636/537_0_4988_3989/master/4988.jpg?width=700&quality=85&auto=format&fit=max&s=14d59a561838e0972bccf7d871ee7b7e",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Alex Plavevski/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:33:19+00:00"
+  },
+  {
+   "id": "8cd3c59916c7e3df",
+   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+   "summary": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+   "date": "2026-11-17T11:15:00+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: supplied",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=700&quality=85&auto=format&fit=max&s=d49cd8a4a692437df4280b70c1db086d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T09:51:02+00:00"
+  },
+  {
+   "id": "adae717e460e3f85",
+   "title": "Milburn calls for welfare state ‘revolution’ as landmark youth unemployment report to be published – UK politics live",
+   "summary": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take years Milburn urges Burnham to spend billions on ‘new deal’ for young people More than 300,000 children across Britain are no longer defined as…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+   "date": "2026-11-17T11:14:59+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b330a5adad039ac2b6e233309db6bef5dd68033a/498_79_4932_3946/master/4932.jpg?width=700&quality=85&auto=format&fit=max&s=ba395d3cb80108d847f8c9fe85ac3dd7",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Brook Mitchell/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T09:14:23+00:00"
+  },
+  {
+   "id": "f93133de6a9e4b6f",
+   "title": "Ikea ditches plans for new UK stores, blaming high business taxes",
+   "summary": "Retailer’s British boss says John Healey ‘missed opportunity to back retailers’ in October’s budget Business live – latest updates Ikea has ditched some planned store openings in the UK blaming the cost of business taxes , which it said are the highest in…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
+   "date": "2026-11-17T11:13:07+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/60243a831d5ef922d9f0eadb7a91a383b5617367/1272_635_4806_3845/master/4806.jpg?width=700&quality=85&auto=format&fit=max&s=9f959a8322cea989f4037d3357948db6",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Christopher Thomond/The Guardian"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:33:19+00:00"
+  },
+  {
+   "id": "8421a1e5a30988af",
+   "title": "Bangladesh police clash with garment workers amid protests over wages",
+   "summary": "Protesters hurl bricks, torch vehicles and block the main highway between Dhaka and Mymensingh.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
+   "date": "2026-11-17T11:06:12+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PB4T3__v1__HighRes__BangladeshPoliticsTextileLabourProtest-1794907389.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PB4T3__v1__HighRes__BangladeshPoliticsTextileLabourProtest-1794907389.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:33:19+00:00"
+  },
+  {
    "id": "9efce15ccb9c7114",
    "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-   "summary": "Organisers say up to 10,000 people could join the next round of demonstrations ahead of the US president’s arrival in Manila for the Asean summit Asean and Apec summits – live updates Hundreds of people have been arrested in heated demonstrations against…",
+   "summary": "Organisers say up to 10,000 people could join next round of demonstrations as US president arrives for Asean summit Asean and Apec summits – live updates Hundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as the US…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
    "date": "2026-11-17T11:00:39+00:00",
@@ -333,26 +439,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:05:28+00:00"
-  },
-  {
-   "id": "8cd3c59916c7e3df",
-   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-   "summary": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "date": "2026-11-17T10:52:50+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: supplied",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=700&quality=85&auto=format&fit=max&s=d49cd8a4a692437df4280b70c1db086d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T09:51:02+00:00"
   },
   {
    "id": "0a0e369d3f8b767c",
@@ -961,7 +1047,7 @@
   {
    "id": "68a2b235bab65da0",
    "title": "Canada and China announce new trade measures and cultural partnerships on Carney's 1st day in Shenzhen",
-   "summary": "Prime Minister Mark Carney announced a series of new partnerships with China on his first full day in Shenzhen, covering a series of cultural and trade measures, including an expansion of current tariff agreements, more flights between the two countries, and…",
+   "summary": "Prime Minister Mark Carney and Chinese President Xi Jinping agreed to drop trade restrictions on more goods at a bilateral meeting in China, in what the pork sector hailed as a big step in restoring some of the market access lost over years of diplomatic…",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/canada-china-carney-xi-9.7424608?cmp=rss",
    "date": "2026-11-17T04:15:00+00:00",
@@ -4872,7 +4958,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"

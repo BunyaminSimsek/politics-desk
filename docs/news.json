@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T20:07:09+00:00",
+ "generatedAt": "2026-11-17T20:16:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,12 +166,32 @@
  ],
  "items": [
   {
+   "id": "2e8a2735ef156f35",
+   "title": "Some EU countries ‘could accept unlimited young Britons’ under youth mobility scheme",
+   "summary": "Scheme expected to be sealed in principle at EU-UK summit in Brussels on Friday but trickier elements could be postponed for six months EU countries including Germany could accept an unlimited number of young Britons under a youth mobility scheme, according…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+   "date": "2026-11-17T19:59:01+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=700&quality=85&auto=format&fit=max&s=5051fe3c0bac3b4fa355085a74dc1c1d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: WPA/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T18:04:55+00:00"
+  },
+  {
    "id": "5df5cda1f6fb9d32",
    "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
    "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T19:49:16+00:00",
+   "date": "2026-11-17T19:58:12+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -239,10 +259,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c578/live/c69a9120-e2c1-11f1-99b6-a35a62fa4264.png",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c578/live/c69a9120-e2c1-11f1-99b6-a35a62fa4264.png"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c578/live/c69a9120-e2c1-11f1-99b6-a35a62fa4264.png",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c578/live/c69a9120-e2c1-11f1-99b6-a35a62fa4264.png",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:48:36+00:00"
@@ -534,26 +554,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T18:14:11+00:00"
-  },
-  {
-   "id": "2e8a2735ef156f35",
-   "title": "Andy Burnham delays taking stock of UK’s relationship with EU",
-   "summary": "PM to wait until after Brussels summit at which he hopes for agreements on food, farming and emissions UK politics live – latest updates Andy Burnham has said there is “no rush” to decide on the UK’s longer term relationship with the EU, as he comes under…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
-   "date": "2026-11-17T17:50:40+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ryan Jenkinson/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/53e0d070b160448481076537858086ae8db1fbec/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=afdd734966c8a820fffbee452bd38eda",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T18:04:55+00:00"
   },
   {
    "id": "b84e576cb6dd7535",
@@ -6604,7 +6604,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T02:27:58+00:00",
+ "generatedAt": "2026-11-17T02:37:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -1223,7 +1223,7 @@
   {
    "id": "37dfcf2265b37a3e",
    "title": "Surveillance pricing could lead to more expensive groceries for some, MPs hear",
-   "summary": "OTTAWA - People with religious or health-based food restrictions could end up paying more for groceries with the use of algorithmic pricing, an expert told MPs at a Parliamentary committee Monday.",
+   "summary": "OTTAWA - People with religious or health-based food restrictions could end up paying more for groceries with the use of algorithmic pricing, an expert told MPs at a parliamentary committee Monday.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/surveillance-pricing-could-lead-to-more-expensive-groceries-for-some-mps-hear/article_6831f6d6-2cc8-5c55-bd75-487ac41a00b4.html",
    "date": "2026-11-16T19:02:31+00:00",
@@ -4492,7 +4492,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T17:36:48+00:00",
+ "generatedAt": "2026-11-17T17:46:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "CTV News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,128 @@
  ],
  "items": [
   {
+   "id": "b84e576cb6dd7535",
+   "title": "Ontario secondary teachers vote 96 per cent in favour of strike mandate",
+   "summary": "The vote by teachers represented by the Ontario Secondary School Teachers' Federation comes before central bargaining has fully started, with negotiations beginning next week.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12154581/ontario-secondary-school-teachers-federation-strike-vote/",
+   "date": "2026-11-17T17:46:09+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/ec648af107acdad64d21fa1daffadf87d1f8fa90799c7b367d7c96556d47ae04.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/ec648af107acdad64d21fa1daffadf87d1f8fa90799c7b367d7c96556d47ae04.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T17:46:24+00:00"
+  },
+  {
+   "id": "47b4728cc9a6d81a",
+   "title": "UK sanctions firms over Israeli West Bank settlements",
+   "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T17:41:49+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T13:06:00+00:00"
+  },
+  {
+   "id": "455d52974762733a",
+   "title": "Ford government moves to shield itself from lawsuits related to OSAP fraud probe",
+   "summary": "Nolan Quinn, Ontario’s minister of colleges and universities sidestepped questions in the legislature Tuesday about the government looking to grant itself legal immunity.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12154532/ford-government-moves-to-shield-itself-from-lawsuits-related-to-osap-fraud-probe/",
+   "date": "2026-11-17T17:41:08+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/18956c1bcb08002d5b86664f87bf5f8399eac26ed5ba1035dfdc4cd5c802a946_d2289c.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/18956c1bcb08002d5b86664f87bf5f8399eac26ed5ba1035dfdc4cd5c802a946_d2289c.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T17:46:24+00:00"
+  },
+  {
+   "id": "9775fff4b2849085",
+   "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
+   "summary": "Huang resigned last week over affairs with an alleged Chinese spy and multiple employees who reported to him Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company Thursday.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
+   "date": "2026-11-17T17:35:26+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Manami Yamada/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=700&quality=85&auto=format&fit=max&s=a5f4532d7b9b20599a9bd896474e933e",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T16:59:26+00:00"
+  },
+  {
+   "id": "9c55fa8f16bf4d28",
+   "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+   "summary": "With the SpaceX satellite system faltering, Ukraine’s military launched a surprise, multi-pronged attack to take down vital bridge to Crimea At 10pm on Monday evening a Ukrainian soldier scrawled a message on a kamikaze drone.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
+   "date": "2026-11-17T17:30:40+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/a4611f99a54be31a3aa99444b5865a3d82fb7c0b/669_335_2043_1634/master/2043.jpg?width=700&quality=85&auto=format&fit=max&s=b4b52fe54815a705f1d1c98a2dd990ad",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: UKRAINIAN SECURITY SERVICE/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T17:46:24+00:00"
+  },
+  {
+   "id": "adae717e460e3f85",
+   "title": "Burnham delays announcement about options for closer relationship with EU until next month – UK politics live",
+   "summary": "The prime minister earlier said he wanted to open a national debate on Britain’s relationship with the bloc This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn policies.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+   "date": "2026-11-17T17:30:38+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f24e544ba2a602587d0ef6266b51104e0ef20807/2503_25_2273_1818/master/2273.jpg?width=700&quality=85&auto=format&fit=max&s=5078c71fbc2920f50fd9b0c403f1c650",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Tolga Akmen/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T09:14:23+00:00"
+  },
+  {
    "id": "f9143cacfa58a48f",
    "title": "Ukraine cripples Crimean bridge in blow to Putin before meeting with Xi, Trump",
    "summary": "Ukrainian drones and missiles destroyed the central road section of the bridge linking Russia and Crimea on Tuesday, inflicting a military and symbolic blow on Russian President Vladimir Putin two days before he is due to meet the leaders of China and the U.S.",
@@ -179,9 +301,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1794934254489/full/max/0/default.jpg?im=Crop%2Crect%3D%28154%2C0%2C8942%2C5029%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1794934254489/full/max/0/default.jpg?im=Crop%2Crect%3D%28154%2C0%2C8942%2C5029%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:36:48+00:00"
@@ -198,10 +320,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a1/9a154ec3-ef41-59f7-977f-f386be5ca04c/6afc8f1f2dcdc.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a1/9a154ec3-ef41-59f7-977f-f386be5ca04c/6afc8f1f2dcdc.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a1/9a154ec3-ef41-59f7-977f-f386be5ca04c/6afc8f1f2dcdc.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a1/9a154ec3-ef41-59f7-977f-f386be5ca04c/6afc8f1f2dcdc.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:36:48+00:00"
@@ -326,26 +448,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T08:27:48+00:00"
-  },
-  {
-   "id": "9775fff4b2849085",
-   "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-   "summary": "Huang makes first statement since resigning, while board of directors is not considering reinstating him, reports say Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company Thursday.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
-   "date": "2026-11-17T16:40:55+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Manami Yamada/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=700&quality=85&auto=format&fit=max&s=a5f4532d7b9b20599a9bd896474e933e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T16:59:26+00:00"
   },
   {
    "id": "d9f6d74fe11ff889",
@@ -569,26 +671,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:21:31+00:00"
-  },
-  {
-   "id": "47b4728cc9a6d81a",
-   "title": "UK sanctions firms over Israeli West Bank settlements",
-   "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T15:59:47+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T13:06:00+00:00"
   },
   {
    "id": "4db3658f82cde7c9",
@@ -1305,28 +1387,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T12:19:44+00:00"
-  },
-  {
-   "id": "adae717e460e3f85",
-   "title": "Major youth unemployment report calls for changes to tax, welfare and apprenticeships – UK politics live",
-   "summary": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take years Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-   "date": "2026-11-17T11:58:56+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brook Mitchell/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b330a5adad039ac2b6e233309db6bef5dd68033a/498_79_4932_3946/master/4932.jpg?width=700&quality=85&auto=format&fit=max&s=ba395d3cb80108d847f8c9fe85ac3dd7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T09:14:23+00:00"
   },
   {
    "id": "ff2116b226df9b14",
@@ -6572,7 +6632,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

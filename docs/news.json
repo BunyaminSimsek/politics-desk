@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T16:21:31+00:00",
+ "generatedAt": "2026-11-17T16:30:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "8cd3c59916c7e3df",
+   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+   "summary": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+   "date": "2026-11-17T16:11:28+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: supplied",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=700&quality=85&auto=format&fit=max&s=d49cd8a4a692437df4280b70c1db086d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T09:51:02+00:00"
+  },
+  {
    "id": "768d27897fad0034",
    "title": "National Congress of American Indians calls on Trump to reverse Lake Ontario change",
    "summary": "OTTAWA - The National Congress of American Indians is calling on U.S. President Donald Trump to walk back his August executive order renaming Lake Ontario as Lake America.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/66/e66c8f02-82fa-5914-a305-03b25769329f/6afc7c5d75330.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/66/e66c8f02-82fa-5914-a305-03b25769329f/6afc7c5d75330.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/66/e66c8f02-82fa-5914-a305-03b25769329f/6afc7c5d75330.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/66/e66c8f02-82fa-5914-a305-03b25769329f/6afc7c5d75330.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:21:31+00:00"
@@ -197,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/76a2d0f3872a6feca8f7460199488dda0d73ed4e/695_0_4160_3327/master/4160.jpg?width=700&quality=85&auto=format&fit=max&s=d92129312bbfa91052e514ba77c3baa3",
-    "w": 700,
+    "credit": "Photograph: Kevin Carter/Getty Images",
     "h": 560,
-    "credit": "Photograph: Kevin Carter/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/76a2d0f3872a6feca8f7460199488dda0d73ed4e/695_0_4160_3327/master/4160.jpg?width=700&quality=85&auto=format&fit=max&s=d92129312bbfa91052e514ba77c3baa3",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:21:31+00:00"
@@ -328,26 +348,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:51:38+00:00"
-  },
-  {
-   "id": "8cd3c59916c7e3df",
-   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-   "summary": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "date": "2026-11-17T15:29:41+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: supplied",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=700&quality=85&auto=format&fit=max&s=d49cd8a4a692437df4280b70c1db086d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T09:51:02+00:00"
   },
   {
    "id": "4a67b315038c09eb",
@@ -937,9 +937,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/4a8ac5f2-1608-405e-a9c8-97d16900b1f3,1794878566586/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C249%2C7547%2C4245%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/4a8ac5f2-1608-405e-a9c8-97d16900b1f3,1794878566586/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C249%2C7547%2C4245%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T12:28:53+00:00"
@@ -5732,7 +5732,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"

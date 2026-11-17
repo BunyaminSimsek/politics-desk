@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T21:31:44+00:00",
+ "generatedAt": "2026-11-17T21:41:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,13 +11,13 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "Global News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -143,7 +143,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/americas/rss",
    "ok": true,
-   "kept": 1
+   "kept": 3
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,54 @@
  ],
  "items": [
   {
+   "id": "542e4d1fcea86b15",
+   "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+   "summary": "Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory Around 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+   "date": "2026-11-17T21:40:56+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/dde5ccc76241e935a3052e3e3dd59bb8f8f29473/755_0_4561_3648/master/4561.jpg?width=700&quality=85&auto=format&fit=max&s=ad8288df557a0d70205ded20b7349acc",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Scott Wallace/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T21:41:23+00:00"
+  },
+  {
+   "id": "23d25a05deabc445",
+   "title": "St Kitts and Nevis fear economic impact of shuttering citizenship-by-investment program",
+   "summary": "Prime minister of twin-island Caribbean nation announces program wind-down after EU threatens to end visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+   "date": "2026-11-17T21:39:44+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/03f57a225008dd1bc1f3dc849a2f4e634086c7a4/342_0_2918_2334/master/2918.jpg?width=700&quality=85&auto=format&fit=max&s=383a55ee090d589889122a480585f9db",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Eduardo Muñoz/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T21:41:23+00:00"
+  },
+  {
    "id": "5df5cda1f6fb9d32",
    "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
    "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T21:14:21+00:00",
+   "date": "2026-11-17T21:29:33+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -184,6 +226,88 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
+   "id": "a55b22db3ba1c815",
+   "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+   "summary": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+   "date": "2026-11-17T21:28:31+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950905.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950905.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T21:41:23+00:00"
+  },
+  {
+   "id": "442cb51e4215448a",
+   "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+   "summary": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+   "date": "2026-11-17T21:26:42+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb64a7213a-1794860199.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb64a7213a-1794860199.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T21:41:23+00:00"
+  },
+  {
+   "id": "262648c6bdae9c1b",
+   "title": "Moment Russian military plane crashes in Siberia, killing 19",
+   "summary": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
+   "date": "2026-11-17T21:25:43+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950729.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950729.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T21:41:23+00:00"
+  },
+  {
+   "id": "70bea8d3b62980cf",
+   "title": "Acting US navy secretary refers to eight suicide attempts as 'suicide mitigations' – video",
+   "summary": "Hung Cao, the acting US navy secretary, who faced lawmakers to be confirmed as the permanent top official, said during his confirmation hearing that the eight suicide attempts on board the USS Abraham Lincoln – which returned last month from a record-breaking…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/video/2026/nov/17/hung-cao-acting-us-navy-secretary-refers-to-eight-suicide-attempts-as-suicide-mitigations-video",
+   "date": "2026-11-17T21:15:08+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/1e85a934e6f22ab1ae2128cb8413e4cf5cb32653/514_0_6882_5504/master/6882.jpg?width=700&quality=85&auto=format&fit=max&s=337e158f30cda40160c69294152b6507",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T21:41:23+00:00"
   },
   {
    "id": "137617fcd2e8b441",
@@ -502,9 +626,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/f6a5dee6-def0-46a7-8a67-ffa45371a75c,1794940289710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C460%2C8511%2C4787%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/f6a5dee6-def0-46a7-8a67-ffa45371a75c,1794940289710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C460%2C8511%2C4787%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:38:56+00:00"
@@ -563,9 +687,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/9427ab8a-df96-4947-935a-d4b2f67290a6,1794939693151/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/9427ab8a-df96-4947-935a-d4b2f67290a6,1794939693151/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:38:56+00:00"
@@ -689,7 +813,7 @@
     "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
     "w": 1200
    },
-   "breaking": false,
+   "breaking": true,
    "addedAt": "2026-11-17T13:06:00+00:00"
   },
   {
@@ -716,8 +840,8 @@
   },
   {
    "id": "f6278a35aca044e6",
-   "title": "Liberals limit debate on assisted dying bill as Conservatives call for changes",
-   "summary": "OTTAWA - As Opposition MPs call for more study, the Liberal government has limited debate on its proposed changes to Canada's medical assistance in dying law.",
+   "title": "Bill proposing changes to medical assistance in dying law passes hurdle in Commons",
+   "summary": "OTTAWA - The Liberal government's bill proposing changes to Canada's medical assistance in dying law will be studied by the House of Commons justice and human rights committee after it passed second reading Tuesday.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/liberals-limit-debate-on-assisted-dying-bill-as-conservatives-call-for-changes/article_eaaaa26f-3230-5a21-a673-ab0c038cb947.html",
    "date": "2026-11-17T18:11:50+00:00",
@@ -974,9 +1098,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1794934254489/full/max/0/default.jpg?im=Crop%2Crect%3D%28154%2C0%2C8942%2C5029%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1794934254489/full/max/0/default.jpg?im=Crop%2Crect%3D%28154%2C0%2C8942%2C5029%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:36:48+00:00"
@@ -1073,9 +1197,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/8fdf4801-9e63-4a63-88d9-cf3bb85939fc,1794935398339/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C19%2C2779%2C1563%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/8fdf4801-9e63-4a63-88d9-cf3bb85939fc,1794935398339/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C19%2C2779%2C1563%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:29:18+00:00"
@@ -7323,7 +7447,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

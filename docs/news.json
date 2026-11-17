@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T03:13:56+00:00",
+ "generatedAt": "2026-11-17T03:23:05+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/aaf2/live/c1118580-e22e-11f1-a930-0d0ddd22a84e.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/aaf2/live/c1118580-e22e-11f1-a930-0d0ddd22a84e.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/aaf2/live/c1118580-e22e-11f1-a930-0d0ddd22a84e.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/aaf2/live/c1118580-e22e-11f1-a930-0d0ddd22a84e.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T03:13:56+00:00"
@@ -506,9 +506,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/57279b25-dcf5-4875-b5e0-db63883c0d0c,1794869763623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C824%2C7914%2C4451%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/57279b25-dcf5-4875-b5e0-db63883c0d0c,1794869763623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C824%2C7914%2C4451%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:20:05+00:00"
@@ -4512,7 +4512,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T20:53:57+00:00",
+ "generatedAt": "2026-11-17T21:03:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "13a28b8f56ffbf00",
+   "title": "What’s behind the ANC’s decline in South Africa?",
+   "summary": "African National Congress won its lowest-ever vote share in local elections this month.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
+   "date": "2026-11-17T20:47:07+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794946749.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794946749.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T21:03:31+00:00"
+  },
+  {
+   "id": "819a043d45ff2312",
+   "title": "Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays",
+   "summary": "Trump homeland security chief says ‘we still got to live our life’ amid outcry over journey to LSU on government plane US homeland security secretary Markwayne Mullin has defended his decision to fly in a private government to a college football game on…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/17/markwayne-mullin-private-jet-football",
+   "date": "2026-11-17T20:45:48+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/7afa9ff87004148c941fa9a8fa79637a6730f305/1151_0_6882_5504/master/6882.jpg?width=700&quality=85&auto=format&fit=max&s=2c49da582c2aa7ae4b20df92a1f1f143",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Kent Nishimura/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T21:03:31+00:00"
+  },
   {
    "id": "5df5cda1f6fb9d32",
    "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
@@ -1016,9 +1056,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.5312570,1570484022000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1632%2C918%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.5312570,1570484022000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1632%2C918%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:49:49+00:00"
@@ -7208,7 +7248,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

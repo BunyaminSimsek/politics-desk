@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T21:22:25+00:00",
+ "generatedAt": "2026-11-17T21:31:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -234,10 +234,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
-    "w": 1200,
     "h": 1200,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:22:25+00:00"
@@ -254,10 +254,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/6be98365559fdfcaa1449ed97d2c6354c78f0ef4/0_19_1084_867/master/1084.jpg?width=700&quality=85&auto=format&fit=max&s=671e099e372eaca822cd2afdc94b8e16",
-    "w": 700,
+    "credit": "Photograph: Rep Juan Vargas via X",
     "h": 560,
-    "credit": "Photograph: Rep Juan Vargas via X"
+    "url": "https://i.guim.co.uk/img/media/6be98365559fdfcaa1449ed97d2c6354c78f0ef4/0_19_1084_867/master/1084.jpg?width=700&quality=85&auto=format&fit=max&s=671e099e372eaca822cd2afdc94b8e16",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:22:25+00:00"
@@ -1073,9 +1073,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/8fdf4801-9e63-4a63-88d9-cf3bb85939fc,1794935398339/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C19%2C2779%2C1563%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/8fdf4801-9e63-4a63-88d9-cf3bb85939fc,1794935398339/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C19%2C2779%2C1563%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:29:18+00:00"
@@ -1844,8 +1844,8 @@
   },
   {
    "id": "ab2addd331948ea5",
-   "title": "Iran fires drones at U.S. base in Bahrain, denies reports of planned dirty bomb attack in D.C.",
-   "summary": "Iran fired drones at a U.S. military radar system in Bahrain on Tuesday, even as talks between Iran and mediators Oman and Qatar to end the nearly nine-month war were taking place.",
+   "title": "Iran and U.S. trade fire as Iran denies reports of planned dirty bomb attack in D.C.",
+   "summary": "The U.S. and Iran exchanged fire on Tuesday, with the U.S. striking an Iranian missile launch site after Iran said it targeted a U.S. military radar system in Bahrain, despite talks between ‌Iran and mediators Oman and Qatar to end the conflict.",
    "source": "CBC World",
    "url": "https://www.cbc.ca/news/world/iran-us-war-bahrain-drones-dirty-bomb-report-9.7424686?cmp=rss",
    "date": "2026-11-17T13:07:05+00:00",

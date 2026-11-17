@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T12:38:32+00:00",
+ "generatedAt": "2026-11-17T12:47:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -59,7 +59,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
    "ok": true,
-   "kept": 14
+   "kept": 13
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement Speaking at a press conference just now, the EU’s climate commissioner, Wopke Hoekstra, lamented the language on climate finance, trade and carbon capture…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
-   "date": "2026-11-17T12:38:22+00:00",
+   "date": "2026-11-17T12:44:19+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -179,13 +179,33 @@
    ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Mehmet Ali Ozcan/Anadolu/Getty Images",
+    "url": "https://i.guim.co.uk/img/media/d0a88ca5a769d3c3b46ec39dc9331d052d903d18/690_0_5827_4664/master/5827.jpg?width=700&quality=85&auto=format&fit=max&s=156e9c07ecb38552907e48ca918a1cc6",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8a8dda7a7c4cd1ba14ec104f348c597ef0af837d/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=eab19ebdd5580c858ac9becdb861d487",
-    "w": 700
+    "credit": "Photograph: Antonio Bat/EPA"
    },
    "breaking": false,
    "addedAt": "2026-11-17T07:14:39+00:00"
+  },
+  {
+   "id": "68e77b0c052443dd",
+   "title": "How is US Senate majority leader chosen?",
+   "summary": "Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
+   "date": "2026-11-17T12:38:39+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T194146Z_1432041765_RC25NOAN3FH9_RTRMADP_3_USA-ELECTION-DEMOCRATS-1-1-1794908962.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T194146Z_1432041765_RC25NOAN3FH9_RTRMADP_3_USA-ELECTION-DEMOCRATS-1-1-1794908962.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T12:47:38+00:00"
   },
   {
    "id": "2b2bac2136793b21",
@@ -201,13 +221,33 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T08:27:48+00:00"
+  },
+  {
+   "id": "f52ac736b9251845",
+   "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+   "summary": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+   "date": "2026-11-17T12:33:51+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afbfc9370a59-1794899091.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afbfc9370a59-1794899091.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T12:47:38+00:00"
   },
   {
    "id": "5a6bf75205414396",
@@ -221,13 +261,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/052537657e853c5c521d78658804fd559992d254/242_0_1740_1392/master/1740.jpg?width=700&quality=85&auto=format&fit=max&s=1da8debe1d696eb78a281c6cf98a4d77",
-    "w": 700,
+    "credit": "Photograph: Khalil Hamra/AP",
     "h": 560,
-    "credit": "Photograph: Khalil Hamra/AP"
+    "url": "https://i.guim.co.uk/img/media/052537657e853c5c521d78658804fd559992d254/242_0_1740_1392/master/1740.jpg?width=700&quality=85&auto=format&fit=max&s=1da8debe1d696eb78a281c6cf98a4d77",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T12:38:32+00:00"
+  },
+  {
+   "id": "e1d448ac17c79ddb",
+   "title": "Trump addresses Quad leaders at first summit since 2024",
+   "summary": "US President Donald Trump spoke to leaders of the Quad security bloc at their first summit since 2024.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
+   "date": "2026-11-17T12:25:33+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-12.19.14-1794918120.png?resize=1200%2C800",
+    "w": 1199,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-12.19.14-1794918120.png?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T12:47:38+00:00"
   },
   {
    "id": "3642c1ffb44033e9",
@@ -697,10 +757,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T12:38:32+00:00"
@@ -5700,7 +5760,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6766,53 +6826,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T13:20:16+00:00"
-  },
-  {
-   "id": "7e75777f2a36bf29",
-   "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
-   "summary": "The battle over the next majority leader in the U.S. Senate reflects the turnout by younger and independent voters in the midterm elections.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout",
-   "date": "2026-11-14T12:40:26+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-14T12:43:22+00:00"
-  },
-  {
-   "id": "bb040972dab25a19",
-   "title": "Legal scholar Stephen Vladeck on Texas' new Democratic AG and federal litigation",
-   "summary": "NPR's Scott Simon speaks with legal scholar and Georgetown professor Stephen Vladeck about Texas Attorney General-elect Nathan Johnson, a Democrat, and what that could mean for federal litigation.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6039286/legal-scholar-stephen-vladeck-on-texas-new-democratic-ag-and-federal-litigation",
-   "date": "2026-11-14T12:40:25+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-14T12:43:22+00:00"
-  },
-  {
-   "id": "0005bbafc421d930",
-   "title": "Trump faces bipartisan backlash over plan to sell public lands to states and tribes",
-   "summary": "The Trump administration wants to sell some federal public lands to states, local governments and tribes, a plan that's once again drawing swift bi-partisan opposition.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6039155/trump-faces-bipartisan-backlash-over-plan-to-sell-public-lands-to-states-and-tribes",
-   "date": "2026-11-14T12:40:22+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-14T12:43:22+00:00"
   }
  ]
 }

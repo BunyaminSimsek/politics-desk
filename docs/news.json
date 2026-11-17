@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T16:59:26+00:00",
+ "generatedAt": "2026-11-17T17:08:40+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "Global News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "e31015ea2fe8010c",
+   "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+   "summary": "The law targets the group's financing and activities as Houthis make advances in southwestern Yemen.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
+   "date": "2026-11-17T16:53:25+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/HXQmoXHXMAAKpMH-1794927673.jpeg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/HXQmoXHXMAAKpMH-1794927673.jpeg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T17:08:40+00:00"
+  },
+  {
    "id": "08bf80c0d9e89e08",
    "title": "Ontario secondary school teachers vote 96% in favor of strike mandate",
    "summary": "Ontario public high school teachers have voted 96 per cent in favour of giving their union a strike mandate.",
@@ -238,10 +258,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=700&quality=85&auto=format&fit=max&s=a5f4532d7b9b20599a9bd896474e933e",
-    "w": 700,
+    "credit": "Photograph: Manami Yamada/Reuters",
     "h": 560,
-    "credit": "Photograph: Manami Yamada/Reuters"
+    "url": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=700&quality=85&auto=format&fit=max&s=a5f4532d7b9b20599a9bd896474e933e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:59:26+00:00"
@@ -260,10 +280,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/6e5067fd3f834e6d5b85601c27ba90c5e02e9e24/1481_0_6287_5030/master/6287.jpg?width=700&quality=85&auto=format&fit=max&s=4296225f4d45128a6eaf81d1c0ef8e35",
-    "w": 700,
+    "credit": "Photograph: VANTOR/Reuters",
     "h": 560,
-    "credit": "Photograph: VANTOR/Reuters"
+    "url": "https://i.guim.co.uk/img/media/6e5067fd3f834e6d5b85601c27ba90c5e02e9e24/1481_0_6287_5030/master/6287.jpg?width=700&quality=85&auto=format&fit=max&s=4296225f4d45128a6eaf81d1c0ef8e35",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:59:26+00:00"
@@ -289,6 +309,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T09:51:02+00:00"
+  },
+  {
+   "id": "d5b5e39a22be5866",
+   "title": "Photos: Tens of thousands rally in France over living standards and wages",
+   "summary": "France witnesses its third major public sector strike since September, as protests highlight wage and service concerns.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
+   "date": "2026-11-17T16:39:01+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PV2QT__v1__HighRes__FrancePoliticsSocialLabourUnionsStrikeDemo-1794923086.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PV2QT__v1__HighRes__FrancePoliticsSocialLabourUnionsStrikeDemo-1794923086.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T17:08:40+00:00"
   },
   {
    "id": "0fff6c3a67b9463f",
@@ -329,6 +369,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:49:49+00:00"
+  },
+  {
+   "id": "2623a0ce922c4dee",
+   "title": "South Korea to check student collars, eyeglasses at university entrance exams after cheating admission",
+   "summary": "South Korea will tighten checks on students taking the high-stakes national university entrance exam this week, Prime Minister Han Seong-sook said, after a candidate in another test confessed to using a hidden ​camera and AI to cheat.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/south-korea-exam-anti-cheating-measures-9.7424889?cmp=rss",
+   "date": "2026-11-17T16:30:13+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/9e5589c1-4508-41f1-80da-0ff39b19ea9d,1794928654797/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C399%2C5753%2C3236%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T17:08:40+00:00"
   },
   {
    "id": "c1d5f2fa71a7ab8b",
@@ -382,10 +441,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/b87007d8d577ca2ac6f9ea9546581087b4022ef6/0_0_1340_1072/master/1340.jpg?width=700&quality=85&auto=format&fit=max&s=2121e93ef1ed174329b50934bcdfed27",
-    "w": 700,
+    "credit": "Illustration: Guardian Design",
     "h": 560,
-    "credit": "Illustration: Guardian Design"
+    "url": "https://i.guim.co.uk/img/media/b87007d8d577ca2ac6f9ea9546581087b4022ef6/0_0_1340_1072/master/1340.jpg?width=700&quality=85&auto=format&fit=max&s=2121e93ef1ed174329b50934bcdfed27",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:40:30+00:00"
@@ -869,6 +928,25 @@
    "addedAt": "2026-11-17T07:32:58+00:00"
   },
   {
+   "id": "215eae9af39ca23a",
+   "title": "Former Nvidia CEO Jensen Huang to appear before U.S. Congress next month",
+   "summary": "Former Nvidia CEO Jensen Huang has agreed ‌to appear for transcribed interviews before U.S. Congress lawmakers next month as national security questions around the company intensify.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/business/jensen-huang-congress-nvidia-exports-9.7424742?cmp=rss",
+   "date": "2026-11-17T13:30:31+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/f45535e2-99c2-44cb-bab4-c22dbb1d0b44,1794498994529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C244%2C4692%2C2639%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T17:08:40+00:00"
+  },
+  {
    "id": "2a25e8c6bdfa0819",
    "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
    "summary": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’ Europe live – follow latest Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack…",
@@ -924,9 +1002,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/ef110316-0624-4a82-a940-e914c5ca75a5,1794919046156/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C838%2C8293%2C4664%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/ef110316-0624-4a82-a940-e914c5ca75a5,1794919046156/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C838%2C8293%2C4664%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T15:06:57+00:00"
@@ -5895,7 +5973,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -7091,26 +7169,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T17:20:52+00:00"
-  },
-  {
-   "id": "ccc8bc82f7980e00",
-   "title": "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
-   "summary": "Civil society campaigners form protective cordon around LGBTQ+ campaigners as they unfurl flags and placards Queer and gay protesters defied a crackdown on LGBTQ+ rights in Turkey to lead a civil society climate march on Saturday in the city hosting this…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
-   "date": "2026-11-14T17:08:18+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Burak Kara/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2360917dd51507c7f6ca3ce098e46dcad8fc2062/678_0_5004_4005/master/5004.jpg?width=700&quality=85&auto=format&fit=max&s=99eee30913423bcf7526a0d6cbcd62b5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T16:15:56+00:00"
   }
  ]
 }

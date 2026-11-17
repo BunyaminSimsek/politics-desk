@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T22:38:37+00:00",
+ "generatedAt": "2026-11-17T22:48:13+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "CTV News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -167,11 +167,11 @@
  "items": [
   {
    "id": "5df5cda1f6fb9d32",
-   "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
-   "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally",
+   "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
+   "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T22:23:35+00:00",
+   "date": "2026-11-17T22:40:05+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -184,6 +184,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
+   "id": "1bee833ea58a5096",
+   "title": "Manning-led report says Western Canada can unite, gain power within Confederation",
+   "summary": "CALGARY - A report examining the future of Western Canada suggests provinces should seek more sovereignty and provincial control rather than consider leaving Canada.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/alberta/manning-led-report-says-western-canada-can-unite-gain-power-within-confederation/article_70bbd980-a767-54c0-8c49-434a2db838d9.html",
+   "date": "2026-11-17T22:38:40+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/82/6828773b-fcb7-5569-b79f-cf94dd4dce06/6afcd7d3c1f73.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 805,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/82/6828773b-fcb7-5569-b79f-cf94dd4dce06/6afcd7d3c1f73.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T22:48:13+00:00"
+  },
+  {
+   "id": "39b570cca86c9c0e",
+   "title": "Israeli parliament elects new Knesset speaker backed by Netanyahu’s opponents",
+   "summary": "Appointment of Matan Kahana marks step towards reversing policies of Netanyahu’s outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+   "date": "2026-11-17T22:30:17+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/de610ad7d09fc89df2c3a963761bfc9e2cc8e4da/1817_497_2596_2076/master/2596.jpg?width=700&quality=85&auto=format&fit=max&s=08e946f58926f843b1f50e4406396ca3",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Ohad Zwigenberg/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T22:48:13+00:00"
   },
   {
    "id": "7e047c1ec14cad46",
@@ -228,7 +268,7 @@
   {
    "id": "057c6824fef8e8ce",
    "title": "Trump should reverse Lake Ontario name change, says National Congress of American Indians",
-   "summary": "The National Congress of American Indians is calling on U.S. President Donald Trump to walk back his August executive order renaming Lake Ontario as Lake America.",
+   "summary": "The organization is calling on U.S. President Donald Trump to walk back his August executive order renaming Lake Ontario as Lake America.",
    "source": "CBC World",
    "url": "https://www.cbc.ca/news/canada/toronto/national-congress-american-indians-trump-lake-ontario-9.7425638?cmp=rss",
    "date": "2026-11-17T22:15:29+00:00",
@@ -1494,9 +1534,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/bdc3f2dc-e1e3-48be-897d-a4c3b61e2039,1794929867055/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C122%2C3262%2C1834%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/bdc3f2dc-e1e3-48be-897d-a4c3b61e2039,1794929867055/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C122%2C3262%2C1834%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T18:32:37+00:00"
@@ -7187,7 +7227,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -7705,7 +7745,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

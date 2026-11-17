@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T21:12:42+00:00",
+ "generatedAt": "2026-11-17T21:22:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,6 +166,41 @@
  ],
  "items": [
   {
+   "id": "5df5cda1f6fb9d32",
+   "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
+   "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-17T21:14:21+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
+   "id": "137617fcd2e8b441",
+   "title": "Paris Hilton returns to Capitol Hill to push for DEFIANCE Act passage",
+   "summary": "NPR's Juana Summers speaks with Paris Hilton about her support of the DEFIANCE Act, which seeks to increase accountability in cases of deepfake pornography.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/17/nx-s1-6042450/paris-hilton-returns-to-capitol-hill-to-push-for-defiance-act-passage",
+   "date": "2026-11-17T21:13:54+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-17T21:22:25+00:00"
+  },
+  {
    "id": "9364369bd1a6b008",
    "title": "Russian military plane crashes killing all 19 on board",
    "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
@@ -188,6 +223,46 @@
    "addedAt": "2026-11-17T19:48:36+00:00"
   },
   {
+   "id": "f5b93eae040c3cd1",
+   "title": "Response in helping victims of Lapu Lapu attack 'insufficient': Filipino BC",
+   "summary": "VANCOUVER - The group that organized the Lapu Lapu Day festival where 11 people were killed in a vehicle-ramming attack wants British Columbia's auditor general to investigate the province's response to the tragedy, saying it was \"insufficient.\"",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/british-columbia/response-in-helping-victims-of-lapu-lapu-attack-insufficient-filipino-bc/article_d4d556db-bd2a-543e-a60c-9932ca01fcfe.html",
+   "date": "2026-11-17T21:01:46+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
+    "w": 1200,
+    "h": 1200,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T21:22:25+00:00"
+  },
+  {
+   "id": "99ecaad568acc0fe",
+   "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
+   "summary": "Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
+   "date": "2026-11-17T20:59:56+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/6be98365559fdfcaa1449ed97d2c6354c78f0ef4/0_19_1084_867/master/1084.jpg?width=700&quality=85&auto=format&fit=max&s=671e099e372eaca822cd2afdc94b8e16",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Rep Juan Vargas via X"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T21:22:25+00:00"
+  },
+  {
    "id": "05c4a60d12d237af",
    "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
    "summary": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
@@ -199,33 +274,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afcad6d90e07-1794944365.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afcad6d90e07-1794944365.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afcad6d90e07-1794944365.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afcad6d90e07-1794944365.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:12:42+00:00"
-  },
-  {
-   "id": "5df5cda1f6fb9d32",
-   "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
-   "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T20:53:50+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
    "id": "13a28b8f56ffbf00",
@@ -1221,9 +1276,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9e5589c1-4508-41f1-80da-0ff39b19ea9d,1794928654797/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C399%2C5753%2C3236%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9e5589c1-4508-41f1-80da-0ff39b19ea9d,1794928654797/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C399%2C5753%2C3236%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:08:40+00:00"
@@ -3693,7 +3748,7 @@
   {
    "id": "bf8b87e647986e48",
    "title": "Ecuadorian politicians warn about legal provisions in free trade deal",
-   "summary": "OTTAWA - Twenty-five former cabinet ministers and former heads of parliament in Ecuador are warning that some provisions of the Canada-Ecuador free trade deal are putting the countries' economic relationship at risk.",
+   "summary": "OTTAWA - Twenty-five former cabinet ministers and former heads of parliament in Ecuador are warning that some provisions in the Canada-Ecuador free trade deal are putting the countries' economic relationship at risk.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/ecuadorian-politicians-warn-about-legal-provisions-in-free-trade-deal/article_4d246c70-09b1-5b85-9b0a-a311e901fc3b.html",
    "date": "2026-11-16T20:41:00+00:00",
@@ -6750,7 +6805,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"

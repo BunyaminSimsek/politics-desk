@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T14:01:45+00:00",
+ "generatedAt": "2026-11-17T14:10:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,54 +166,12 @@
  ],
  "items": [
   {
-   "id": "ec207f4236748f6d",
-   "title": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
-   "summary": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work Milburn urges Burnham to spend billions on young people Who are the Neets?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
-   "date": "2026-11-17T13:44:09+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Hall/The Observer",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fcacde2d064f282a10c275f3fffebc930491811a/528_156_3303_2643/master/3303.jpg?width=700&quality=85&auto=format&fit=max&s=1f5e4e65276d57f77d6306bdf76663c4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T07:32:58+00:00"
-  },
-  {
-   "id": "8cd3c59916c7e3df",
-   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-   "summary": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "date": "2026-11-17T13:44:01+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: supplied",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=700&quality=85&auto=format&fit=max&s=d49cd8a4a692437df4280b70c1db086d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T09:51:02+00:00"
-  },
-  {
    "id": "06f87596e47e95b9",
    "title": "Cop31 live: first draft of agreement under pressure as climate negotiations enter final days",
    "summary": "Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement Speaking at a press conference just now, the EU’s climate commissioner, Wopke Hoekstra, lamented the language on climate finance, trade and carbon capture…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
-   "date": "2026-11-17T13:42:55+00:00",
+   "date": "2026-11-17T14:02:28+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -235,7 +193,7 @@
    "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T13:42:54+00:00",
+   "date": "2026-11-17T14:02:23+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -248,6 +206,70 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
+   "id": "8cd3c59916c7e3df",
+   "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+   "summary": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+   "date": "2026-11-17T14:02:17+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: supplied",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=700&quality=85&auto=format&fit=max&s=d49cd8a4a692437df4280b70c1db086d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T09:51:02+00:00"
+  },
+  {
+   "id": "059a57273e09bea5",
+   "title": "Paul Kelly pleads for Albanese to ‘show some backbone’ over AI as creatives campaign for copyright protections",
+   "summary": "Music legend is joined by Jimmy Barnes and Peter Garrett in backing Not AI’s To Take campaign ahead of Aria awards Get our breaking news email , free app or daily news podcast Australia’s creative community has launched a major campaign pleading with the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign",
+   "date": "2026-11-17T14:00:15+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ddddc08ad72395f7299f5323a3c7f7e0de4c7df7/1465_349_5469_4376/master/5469.jpg?width=700&quality=85&auto=format&fit=max&s=98539631aaa64d95443a2a4f89d06bc9",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Ellen Smith/The Guardian"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T14:10:58+00:00"
+  },
+  {
+   "id": "ec207f4236748f6d",
+   "title": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
+   "summary": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work Milburn urges Burnham to spend billions on young people Who are the Neets?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
+   "date": "2026-11-17T13:44:09+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Andy Hall/The Observer",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/fcacde2d064f282a10c275f3fffebc930491811a/528_156_3303_2643/master/3303.jpg?width=700&quality=85&auto=format&fit=max&s=1f5e4e65276d57f77d6306bdf76663c4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T07:32:58+00:00"
   },
   {
    "id": "2a25e8c6bdfa0819",
@@ -5299,7 +5321,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T05:15:10+00:00",
+ "generatedAt": "2026-11-17T05:24:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/73462068d8df30f56420b8afb97c6004264f88e6/0_632_3531_2824/master/3531.jpg?width=700&quality=85&auto=format&fit=max&s=34123e275713ae02bdbee87fc208c33d",
-    "w": 700,
+    "credit": "Photograph: Windmill Images/Alamy",
     "h": 560,
-    "credit": "Photograph: Windmill Images/Alamy"
+    "url": "https://i.guim.co.uk/img/media/73462068d8df30f56420b8afb97c6004264f88e6/0_632_3531_2824/master/3531.jpg?width=700&quality=85&auto=format&fit=max&s=34123e275713ae02bdbee87fc208c33d",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T05:15:10+00:00"
@@ -4076,7 +4076,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -4594,7 +4594,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T19:57:54+00:00",
+ "generatedAt": "2026-11-17T20:07:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "9c9549cbc0f6614b",
-   "title": "Ottawa spent some $3.45 million on legal fees in connection with Bill 21",
-   "summary": "OTTAWA - Canada’s Justice Department spent approximately $3.45 million in connection with the legal challenge to Quebec’s state secularism law, commonly known as Bill 21.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/ottawa-spent-some-3-45-million-on-legal-fees-in-connection-with-bill-21/article_77e97367-e15f-53f1-9baf-3b7906acf987.html",
-   "date": "2026-11-17T19:42:12+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/49/249843cb-fd62-5408-9b84-0d49b7a26bcd/6afcaecfb3ac2.image.jpg?resize=1200%2C",
-    "w": 1200,
-    "h": 761,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/49/249843cb-fd62-5408-9b84-0d49b7a26bcd/6afcaecfb3ac2.image.jpg?resize=640%2C"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T19:57:54+00:00"
-  },
-  {
    "id": "5df5cda1f6fb9d32",
    "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
    "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T19:39:30+00:00",
+   "date": "2026-11-17T19:49:16+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -204,6 +184,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
+   "id": "9c9549cbc0f6614b",
+   "title": "Ottawa spent some $3.45 million on legal fees in connection with Bill 21",
+   "summary": "OTTAWA - Canada’s Justice Department spent approximately $3.45 million in connection with the legal challenge to Quebec’s state secularism law, commonly known as Bill 21.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/quebec/ottawa-spent-some-3-45-million-on-legal-fees-in-connection-with-bill-21/article_77e97367-e15f-53f1-9baf-3b7906acf987.html",
+   "date": "2026-11-17T19:42:12+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 761,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/49/249843cb-fd62-5408-9b84-0d49b7a26bcd/6afcaecfb3ac2.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/49/249843cb-fd62-5408-9b84-0d49b7a26bcd/6afcaecfb3ac2.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:57:54+00:00"
   },
   {
    "id": "a570f4401a857abb",
@@ -239,10 +239,10 @@
    ],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c578/live/c69a9120-e2c1-11f1-99b6-a35a62fa4264.png",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c578/live/c69a9120-e2c1-11f1-99b6-a35a62fa4264.png"
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:48:36+00:00"
@@ -6604,7 +6604,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"

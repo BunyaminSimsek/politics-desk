@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T12:28:53+00:00",
+ "generatedAt": "2026-11-17T12:38:32+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,70 @@
  ],
  "items": [
   {
+   "id": "06f87596e47e95b9",
+   "title": "Cop31 live: first draft of agreement under pressure as climate negotiations enter final days",
+   "summary": "Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement Speaking at a press conference just now, the EU’s climate commissioner, Wopke Hoekstra, lamented the language on climate finance, trade and carbon capture…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
+   "date": "2026-11-17T12:38:22+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Mehmet Ali Ozcan/Anadolu/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/8a8dda7a7c4cd1ba14ec104f348c597ef0af837d/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=eab19ebdd5580c858ac9becdb861d487",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T07:14:39+00:00"
+  },
+  {
+   "id": "2b2bac2136793b21",
+   "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+   "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T12:35:57+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T08:27:48+00:00"
+  },
+  {
+   "id": "5a6bf75205414396",
+   "title": "‘We are all in’: the Democrats trying to turn round the US’s reputation at Cop31",
+   "summary": "The 120-strong America Is All In group are trying to ensure that the US won’t remained sidelined at the climate talks for very much longer.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/17/down-to-earth-democrat-delegates-us-politics-cop31",
+   "date": "2026-11-17T12:30:54+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/052537657e853c5c521d78658804fd559992d254/242_0_1740_1392/master/1740.jpg?width=700&quality=85&auto=format&fit=max&s=1da8debe1d696eb78a281c6cf98a4d77",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Khalil Hamra/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T12:38:32+00:00"
+  },
+  {
    "id": "3642c1ffb44033e9",
    "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
    "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
@@ -192,10 +256,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/c9523ec5228a42aa647f50bbf3dbb4fc03f57ce3/28_0_3300_2640/master/3300.jpg?width=700&quality=85&auto=format&fit=max&s=5a32b1be1e65c7bc94d857eef346d6fc",
-    "w": 700,
+    "credit": "Photograph: Menahem Kahana/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Menahem Kahana/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/c9523ec5228a42aa647f50bbf3dbb4fc03f57ce3/28_0_3300_2640/master/3300.jpg?width=700&quality=85&auto=format&fit=max&s=5a32b1be1e65c7bc94d857eef346d6fc",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:05:28+00:00"
@@ -214,9 +278,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/4a8ac5f2-1608-405e-a9c8-97d16900b1f3,1794878566586/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C249%2C7547%2C4245%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/4a8ac5f2-1608-405e-a9c8-97d16900b1f3,1794878566586/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C249%2C7547%2C4245%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T12:28:53+00:00"
@@ -265,28 +329,6 @@
    "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
-   "id": "06f87596e47e95b9",
-   "title": "Cop31 live: first draft of agreement under pressure as climate negotiations enter final days",
-   "summary": "Thorny divisions emerge as wide-ranging draft deal seeks to ‘draw out parties’ on areas of disagreement Speaking at a press conference just now, the EU’s climate commissioner, Wopke Hoekstra, lamented the language on climate finance, trade and carbon capture…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
-   "date": "2026-11-17T12:09:05+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mehmet Ali Ozcan/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8a8dda7a7c4cd1ba14ec104f348c597ef0af837d/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=eab19ebdd5580c858ac9becdb861d487",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T07:14:39+00:00"
-  },
-  {
    "id": "150739fbebd8e588",
    "title": "Let’s take over the ossified Democratic party and deliver a modern New Deal",
    "summary": "America’s future depends on progressive, anti-establishment fighters Welcome back to How We Win , a Guardian opinion series with leading thinkers, offering bold ideas for America’s political future.",
@@ -298,10 +340,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/4ca158ae90496c1f72b7d1135e00038a99a73371/513_0_6829_5464/master/6829.jpg?width=700&quality=85&auto=format&fit=max&s=8d9d33bbbd51868226326e963c29a119",
-    "w": 700,
+    "credit": "Photograph: Gina M Randazzo/ZUMA Press Wire/Shutterstock",
     "h": 560,
-    "credit": "Photograph: Gina M Randazzo/ZUMA Press Wire/Shutterstock"
+    "url": "https://i.guim.co.uk/img/media/4ca158ae90496c1f72b7d1135e00038a99a73371/513_0_6829_5464/master/6829.jpg?width=700&quality=85&auto=format&fit=max&s=8d9d33bbbd51868226326e963c29a119",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T12:28:53+00:00"
@@ -642,6 +684,28 @@
    "addedAt": "2026-11-17T10:56:18+00:00"
   },
   {
+   "id": "5517c6cd9c87d59d",
+   "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
+   "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T10:32:07+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T12:38:32+00:00"
+  },
+  {
    "id": "2a25e8c6bdfa0819",
    "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
    "summary": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’ Europe live – follow latest Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack…",
@@ -797,27 +861,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T09:32:45+00:00"
-  },
-  {
-   "id": "2b2bac2136793b21",
-   "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-   "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T09:20:29+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 450,
-    "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8a7e/live/95f17ee0-e257-11f1-8199-439bbe0918ee.jpg",
-    "w": 800
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T08:27:48+00:00"
   },
   {
    "id": "5f03a0d57606aab3",
@@ -5657,7 +5700,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6768,27 +6811,6 @@
    "tags": [],
    "kind": "news",
    "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-14T12:43:22+00:00"
-  },
-  {
-   "id": "136fdaf37dfdccb3",
-   "title": "Carney says Canada will only sign a U.S. trade deal that includes viable auto sector",
-   "summary": "Prime Minister Mark Carney was speaking at a news conference, three months after Canada pulled out of trade talks with the U.S., saying there had been last-minute demands from Washington that included a hit to Canada's auto sector.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/canada-us-trade-deal-must-include-viable-auto-sector-9.7422076?cmp=rss",
-   "date": "2026-11-14T12:35:33+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/6a62c499-08c1-414d-9d12-88b2fb333bbe,1794644593956/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C486%2C7247%2C4076%29%3B"
-   },
    "breaking": false,
    "addedAt": "2026-11-14T12:43:22+00:00"
   }

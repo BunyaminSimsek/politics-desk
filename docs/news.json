@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T02:09:17+00:00",
+ "generatedAt": "2026-11-17T02:18:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -384,9 +384,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/647cdcbf-d668-438a-9dc8-31a14936827b,1794873871530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C230%2C5500%2C3093%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/647cdcbf-d668-438a-9dc8-31a14936827b,1794873871530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C230%2C5500%2C3093%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T00:16:59+00:00"
@@ -403,10 +403,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afb8cbb3b72-1794870459.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afb8cbb3b72-1794870459.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afb8cbb3b72-1794870459.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afb8cbb3b72-1794870459.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T02:09:17+00:00"
@@ -3974,7 +3974,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -6582,26 +6582,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-13T11:21:34+00:00"
-  },
-  {
-   "id": "9737ca0031189780",
-   "title": "Flights slowly resume after US aviation agency lifts nationwide ground stop",
-   "summary": "Transportation secretary Sean Duffy says the airspace is now open and the problem has been identified Chaos at US airports as stoppage grinds travel plans to a halt What to know about the rare nationwide ground stop issued by the FAA Flights in the US have…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-   "date": "2026-11-14T02:15:53+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ethan Swope/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/81eae192052ffa6405a52ee2ee448552f4d92481/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=64f96d22aca31182e54d2c536d85a6c2",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T00:29:25+00:00"
   }
  ]
 }

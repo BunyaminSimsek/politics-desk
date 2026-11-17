@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T22:10:01+00:00",
+ "generatedAt": "2026-11-17T22:19:40+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "057c6824fef8e8ce",
+   "title": "Trump should reverse Lake Ontario name change, says National Congress of American Indians",
+   "summary": "The National Congress of American Indians is calling on U.S. President Donald Trump to walk back his August executive order renaming Lake Ontario as Lake America.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/national-congress-american-indians-trump-lake-ontario-9.7425638?cmp=rss",
+   "date": "2026-11-17T22:15:29+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/bb81a0a8-5eef-424d-b0fc-7ff11f9479f5,1794952786431/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C4136%2C2326%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T22:19:40+00:00"
+  },
+  {
    "id": "630d907281cd675d",
    "title": "Liberals limit debate on assisted dying bill as Conservatives call for changes",
    "summary": "As Opposition MPs call for more study, the Liberal government has limited debate on its proposed changes to Canada's medical assistance in dying law.",
@@ -177,12 +196,32 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0aa14623-09a4-44aa-8674-20f5dc3be8c3,1794952529127/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C150%2C6155%2C3462%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0aa14623-09a4-44aa-8674-20f5dc3be8c3,1794952529127/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C150%2C6155%2C3462%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:10:01+00:00"
+  },
+  {
+   "id": "5df5cda1f6fb9d32",
+   "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
+   "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-17T22:01:17+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
    "id": "4e3deff57ab20557",
@@ -198,10 +237,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ab728e7ebf3ce858579de513ee73705fa5d8e5a0/0_121_2400_1919/master/2400.jpg?width=700&quality=85&auto=format&fit=max&s=ff31793b214245c8df89176b447d3861",
-    "w": 700,
+    "credit": "Photograph: US Army",
     "h": 560,
-    "credit": "Photograph: US Army"
+    "url": "https://i.guim.co.uk/img/media/ab728e7ebf3ce858579de513ee73705fa5d8e5a0/0_121_2400_1919/master/2400.jpg?width=700&quality=85&auto=format&fit=max&s=ff31793b214245c8df89176b447d3861",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T20:34:56+00:00"
@@ -250,7 +289,7 @@
   {
    "id": "e48357026cb54cb7",
    "title": "Judge extends deadline for Trump’s deposition in $10bn BBC lawsuit",
-   "summary": "President had originally agreed to sit for a deposition in October, but backed out, and must now appear by 22 January Donald Trump has been granted a temporary delay before he must give a witness statement in his $10bn defamation lawsuit against the BBC.",
+   "summary": "President, who had agreed to sit for deposition in October but backed out, must now appear by 22 January Donald Trump has been granted a temporary delay before he must give a witness statement in his $10bn defamation lawsuit against the BBC.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/17/trump-bbc-deposition-delay",
    "date": "2026-11-17T21:45:58+00:00",
@@ -266,26 +305,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:00:23+00:00"
-  },
-  {
-   "id": "5df5cda1f6fb9d32",
-   "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
-   "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T21:45:14+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
    "id": "ac936a25779c6c32",
@@ -447,6 +466,26 @@
    "addedAt": "2026-11-17T21:41:23+00:00"
   },
   {
+   "id": "502bc8e6a9d92ecc",
+   "title": "Ontario Premier Doug Ford touts partnerships with Quebec in Montreal speech",
+   "summary": "MONTRÉAL - Ontario Premier Doug Ford says a stronger partnership between Ontario and Quebec is more important than ever in the face of American tariffs.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/business/ontario-premier-doug-ford-touts-partnerships-with-quebec-in-montreal-speech/article_429dc073-bf0f-5432-93c1-013542d86792.html",
+   "date": "2026-11-17T21:14:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/ed/3ed9f36b-0d2d-5d5d-9110-b153f6012774/6afcc5035cd9b.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 824,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/ed/3ed9f36b-0d2d-5d5d-9110-b153f6012774/6afcc5035cd9b.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T22:19:40+00:00"
+  },
+  {
    "id": "137617fcd2e8b441",
    "title": "Paris Hilton returns to Capitol Hill to push for DEFIANCE Act passage",
    "summary": "NPR's Juana Summers speaks with Paris Hilton about her support of the DEFIANCE Act, which seeks to increase accountability in cases of deepfake pornography.",
@@ -566,7 +605,7 @@
   {
    "id": "819a043d45ff2312",
    "title": "Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays",
-   "summary": "Trump homeland security chief says ‘we still got to live our life’ amid outcry over journey to LSU on government plane US homeland security secretary Markwayne Mullin has defended his decision to fly in a private government to a college football game on…",
+   "summary": "Trump homeland security chief says ‘we still got to live our life’ amid outcry over journey to LSU on government plane The US homeland security secretary, Markwayne Mullin, has defended his decision to fly in a private government to a college football game on…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/17/markwayne-mullin-private-jet-football",
    "date": "2026-11-17T20:45:48+00:00",
@@ -586,7 +625,7 @@
   {
    "id": "87064c77c3589376",
    "title": "National Security Agency network for internal communications goes down",
-   "summary": "NSA issues ‘code yellow’ as NSANet, used by staff to share classified material, including top-secret intelligence, fails The National Security Agency said on Tuesday that it had experienced “temporary degradation” during scheduled routine maintenance, after…",
+   "summary": "NSA issues ‘code yellow’ as NSANet, used by staff to share classified material, including top-secret intelligence, fails The US National Security Agency said on Tuesday that it had experienced “temporary degradation” during scheduled routine maintenance…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
    "date": "2026-11-17T20:35:23+00:00",
@@ -597,10 +636,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
-    "w": 700,
+    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Paul J Richards/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:10:01+00:00"
@@ -659,10 +698,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d83aaa4dad589536ec892f076d1e8436415b22df/500_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=423a767ffbc6c5f72aceae1db8d9c015",
-    "w": 700,
+    "credit": "Photograph: Erik Marmor/Getty Images",
     "h": 560,
-    "credit": "Photograph: Erik Marmor/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/d83aaa4dad589536ec892f076d1e8436415b22df/500_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=423a767ffbc6c5f72aceae1db8d9c015",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T20:34:56+00:00"
@@ -1265,7 +1304,7 @@
   {
    "id": "2f9d9e1d34f6e82a",
    "title": "Gaming should be 'top priority' for new digital safety regulator, advocacy group says",
-   "summary": "OTTAWA - Advocacy group Children First Canada said Tuesday the Liberal government’s proposed digital safety bill should eventually cover gaming platforms.",
+   "summary": "OTTAWA - A children's advocacy group said Tuesday it wants the government's proposed digital safety bill to eventually cover gaming platforms.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/gaming-should-be-top-priority-for-new-digital-safety-regulator-advocacy-group-says/article_82bb28cb-7d9e-5770-ae4f-8653b204336a.html",
    "date": "2026-11-17T17:28:00+00:00",
@@ -7604,7 +7643,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8040,26 +8079,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T10:43:34+00:00"
-  },
-  {
-   "id": "92f2936528f542a8",
-   "title": "How Mississippi's new senator won in Trump's heartland - and what he will do next",
-   "summary": "Scott Colom tells the BBC that Democrats can build on his historic election win - and appeal to frustrated Republicans - by focusing on policies to help all Americans.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/crpdwve24398o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-14T22:17:13+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dc6c/live/2f1f4eb0-e05c-11f1-a701-fddedf244c16.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/dc6c/live/2f1f4eb0-e05c-11f1-a701-fddedf244c16.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
   }
  ]
 }

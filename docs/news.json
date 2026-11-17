@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T23:44:06+00:00",
+ "generatedAt": "2026-11-17T23:53:48+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -65,13 +65,13 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T23:25:05+00:00",
+   "date": "2026-11-17T23:41:08+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -184,6 +184,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
+   "id": "2d833973816ffeb4",
+   "title": "Ontario public high school teachers vote 96 per cent in favour of strike mandate",
+   "summary": "'Members have sent the Ford government a clear message: We are united, we expect better,' said the union president.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/ontario-public-high-school-teachers-vote-96-per-cent-in-favour-of-strike-mandate/article_1a52edde-367b-431d-8843-b269470f0e44.html",
+   "date": "2026-11-17T23:30:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T16:49:49+00:00"
+  },
+  {
+   "id": "da3a9e04e060fd24",
+   "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+   "summary": "Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious domestic policies following Kahana’s election.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+   "date": "2026-11-17T23:28:54+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26321467242182-1794953286.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26321467242182-1794953286.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T23:53:48+00:00"
   },
   {
    "id": "5f4262ae0acc6426",
@@ -984,9 +1024,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f6a5dee6-def0-46a7-8a67-ffa45371a75c,1794940289710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C460%2C8511%2C4787%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f6a5dee6-def0-46a7-8a67-ffa45371a75c,1794940289710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C460%2C8511%2C4787%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:38:56+00:00"
@@ -1014,26 +1054,6 @@
    "addedAt": "2026-11-17T19:48:36+00:00"
   },
   {
-   "id": "2d833973816ffeb4",
-   "title": "Ontario public high school teachers vote 96 per cent in favour of strike mandate",
-   "summary": "'Members have sent the Ford government a clear message: We are united, we expect better,' said the union president.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/ontario-public-high-school-teachers-vote-96-per-cent-in-favour-of-strike-mandate/article_1a52edde-367b-431d-8843-b269470f0e44.html",
-   "date": "2026-11-17T19:30:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/66/966c691e-a74a-5df6-9309-6800c7ee7903/6afc839f96ab7.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T16:49:49+00:00"
-  },
-  {
    "id": "84a0c8ffdff7103a",
    "title": "U.K. sanctions Israeli companies involved in building illegal settlements in West Bank",
    "summary": "Britain said on Tuesday it would impose sanctions on eight Israeli construction companies involved in building settlements in the occupied West Bank, as part of its effort to protect the idea of a two-state solution.",
@@ -1045,9 +1065,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9427ab8a-df96-4947-935a-d4b2f67290a6,1794939693151/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9427ab8a-df96-4947-935a-d4b2f67290a6,1794939693151/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:38:56+00:00"
@@ -7287,7 +7307,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T15:16:34+00:00",
+ "generatedAt": "2026-11-17T15:25:42+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "2b2bac2136793b21",
+   "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
+   "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T15:19:19+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T08:27:48+00:00"
+  },
+  {
    "id": "1fa59fbdf9fc3fac",
    "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
    "summary": "President Donald Trump responded to a CNN report that Iran was working on plans to attack Washington, DC",
@@ -177,13 +199,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794928429.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794928429.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794928429.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794928429.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T15:16:34+00:00"
+  },
+  {
+   "id": "cfe36a59d7ebfedb",
+   "title": "Ottawa's spending up $331.6 billion under Carney, budget watchdog says",
+   "summary": "OTTAWA - The parliamentary budget officer is questioning the federal government's vow to spend less and invest more.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/ottawa-s-spending-up-331-6-billion-under-carney-budget-watchdog-says/article_a07d2787-cccd-5f40-b49d-5b3bea4ff297.html",
+   "date": "2026-11-17T15:11:23+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/f2/bf23bd25-721f-5fa1-a013-6ec4641c5be1/6afc6f798a726.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 830,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/f2/bf23bd25-721f-5fa1-a013-6ec4641c5be1/6afc6f798a726.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T15:25:42+00:00"
   },
   {
    "id": "06f87596e47e95b9",
@@ -206,6 +250,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T07:14:39+00:00"
+  },
+  {
+   "id": "f93133de6a9e4b6f",
+   "title": "Ikea ditches plans for new UK stores, blaming high business taxes",
+   "summary": "Retailer’s British boss says John Healey ‘missed opportunity to back retailers’ in October’s budget Business live – latest updates Ikea has ditched some planned store openings in the UK blaming the cost of business taxes , which it said were the highest in…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
+   "date": "2026-11-17T15:09:32+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e48e0a5a868c5cdc153193db0223c51711262589/982_1086_5295_4236/master/5295.jpg?width=700&quality=85&auto=format&fit=max&s=f361b930476eedd2b7023f10109b8f5b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Graeme Robertson/The Guardian"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:33:19+00:00"
   },
   {
    "id": "8cd3c59916c7e3df",
@@ -241,10 +307,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/aed8608d4f9e12f5c654ee90a09ae5acdeb8ada0/475_0_4750_3800/master/4750.jpg?width=700&quality=85&auto=format&fit=max&s=d3ddb1d5902fe9dabc84ad290684e9a8",
-    "w": 700,
+    "credit": "Photograph: Maskot/Getty Images",
     "h": 560,
-    "credit": "Photograph: Maskot/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/aed8608d4f9e12f5c654ee90a09ae5acdeb8ada0/475_0_4750_3800/master/4750.jpg?width=700&quality=85&auto=format&fit=max&s=d3ddb1d5902fe9dabc84ad290684e9a8",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T15:16:34+00:00"
@@ -343,10 +409,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26033775438752-1770742847.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26033775438752-1770742847.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26033775438752-1770742847.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26033775438752-1770742847.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T15:16:34+00:00"
@@ -577,28 +643,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T12:47:38+00:00"
-  },
-  {
-   "id": "2b2bac2136793b21",
-   "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-   "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T12:35:57+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T08:27:48+00:00"
   },
   {
    "id": "f52ac736b9251845",
@@ -883,28 +927,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T12:01:08+00:00"
-  },
-  {
-   "id": "f93133de6a9e4b6f",
-   "title": "Ikea ditches plans for new UK stores, blaming high business taxes",
-   "summary": "Retailer’s British boss says John Healey ‘missed opportunity to back retailers’ in October’s budget Business live – latest updates Ikea has ditched some planned store openings in the UK blaming the cost of business taxes , which it said were the highest in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
-   "date": "2026-11-17T11:13:07+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Christopher Thomond/The Guardian",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/60243a831d5ef922d9f0eadb7a91a383b5617367/1272_635_4806_3845/master/4806.jpg?width=700&quality=85&auto=format&fit=max&s=9f959a8322cea989f4037d3357948db6",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:33:19+00:00"
   },
   {
    "id": "8421a1e5a30988af",
@@ -5526,7 +5548,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -6044,7 +6066,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberals-confront-leadership-fatigue-as-third-race-in-six-years-draws-to-a-close/article_bc324d23-4696-4579-b5b0-8c452a4298e5.html",
    "date": "2026-11-15T10:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6844,26 +6866,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-14T15:39:13+00:00"
-  },
-  {
-   "id": "e5072da40f8a4501",
-   "title": "Lawyers unsure if extra funding can reduce massive caseload at Federal Court",
-   "summary": "The Federal Court asked for additional resources to handle a caseload that's ballooned to nearly 31,000 proceedings commenced as of Sept. 30 — up from about 7,600 in all of 2020.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12151047/federal-court-funding/",
-   "date": "2026-11-14T15:20:40+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/courtroom-e1794669622939.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/courtroom-e1794669622939.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-14T15:20:59+00:00"
   }
  ]
 }

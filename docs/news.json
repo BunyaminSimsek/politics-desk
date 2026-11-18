@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T10:55:45+00:00",
+ "generatedAt": "2026-11-18T11:05:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "CTV News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -168,10 +168,10 @@
   {
    "id": "ecd1fcdc34435c6a",
    "title": "Cop31 live: clock running down on climate talks as deep divisions remain",
-   "summary": "Few signs of progress since draft deal exposed disagreements over what countries are willing to do stop the planet heating Dozens of human rights groups have urged Turkish authorities to release four LGBTI activists ahead of a hearing that is scheduled to…",
+   "summary": "Few signs of progress since draft deal exposed disagreements over what countries are willing to do stop the planet heating Rich countries have been accused of offering “crumbs” to a fund for the developing world to adapt to climate change at Cop31.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-18T10:43:40+00:00",
+   "date": "2026-11-18T11:02:56+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [
@@ -186,6 +186,48 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T07:23:06+00:00"
+  },
+  {
+   "id": "e36f5f44b655bd3c",
+   "title": "Mississauga’s data centre moratorium facing second challenge",
+   "summary": "Mississauga’s one-year ban on data centre construction in the city is facing a second challenge at the Ontario Land Tribunal from a Toronto-based real estate investment firm.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12155312/mississaugas-data-centre-moratorium-facing-second-challenge/",
+   "date": "2026-11-18T11:00:31+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/08/CP28139516.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/08/CP28139516.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T11:05:03+00:00"
+  },
+  {
+   "id": "4f23b21a185063bb",
+   "title": "Why Conservative insiders see the Brantford byelection as a crucial test for Pierre Poilievre",
+   "summary": "Some Conservatives are optimistic but some brace for bad news as a much-watched Dec. 7 byelection draws near.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/why-pierre-poilievre-s-leadership-may-depend-on-voters-in-costco-aisles-turning-out/article_9b39e2b9-7236-47aa-95ae-981558a88bf9.html",
+   "date": "2026-11-18T11:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/48/048faa37-6e44-59ed-b82c-8d25944067a4/6afcdd26b6ea7.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 959,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/48/048faa37-6e44-59ed-b82c-8d25944067a4/6afcdd26b6ea7.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T11:05:03+00:00"
   },
   {
    "id": "e54ccd81a1434eb7",
@@ -239,10 +281,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A0790-1794829360.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A0790-1794829360.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A0790-1794829360.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A0790-1794829360.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T10:55:45+00:00"
@@ -635,26 +677,6 @@
    "addedAt": "2026-11-18T09:14:11+00:00"
   },
   {
-   "id": "786cf60daf6c04c5",
-   "title": "Chow to lay out vision for new term as Toronto council holds first meeting",
-   "summary": "TORONTO - Mayor Olivia Chow is expected to lay out her vision for her second term as Toronto City Hall hosts its first meeting of the new council.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/ontario/chow-to-lay-out-vision-for-new-term-as-toronto-council-holds-first-meeting/article_987c3ab7-06a4-552a-93ac-74d2f8093dce.html",
-   "date": "2026-11-18T09:00:09+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/5a/b5a91b44-e175-58f8-b385-5f642c674903/6afd6a5010628.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/5a/b5a91b44-e175-58f8-b385-5f642c674903/6afd6a5010628.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:14:11+00:00"
-  },
-  {
    "id": "5da9a547004fe832",
    "title": "Canada's Alert Ready system to be tested across the country Wednesday",
    "summary": "Canadians across the country can expect to hear the shrill screeching sound of Canada's emergency alerting system today.",
@@ -675,6 +697,26 @@
    "addedAt": "2026-11-18T09:14:11+00:00"
   },
   {
+   "id": "786cf60daf6c04c5",
+   "title": "Chow to lay out vision for new term as Toronto council holds first meeting",
+   "summary": "Mayor Olivia Chow will have seven new councillors to consider for high-profile roles, including former Liberal MPs Nate Erskine-Smith and Shaun Chen.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/chow-to-lay-out-vision-for-new-term-as-toronto-council-holds-first-meeting/article_987c3ab7-06a4-552a-93ac-74d2f8093dce.html",
+   "date": "2026-11-18T09:00:00+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/5a/b5a91b44-e175-58f8-b385-5f642c674903/6afd6a5010628.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/5a/b5a91b44-e175-58f8-b385-5f642c674903/6afd6a5010628.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
    "id": "d6fdc70bb55e270c",
    "title": "Toronto’s new council is meeting for the first time. Here's who is new and what to expect",
    "summary": "Toronto's mayor and 25 councillors will take part in their first council meeting Wednesday, where they will swear an oath of office and Olivia Chow will make her first speech. There are seven new faces on the council floor this term.",
@@ -686,9 +728,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/cb29f784-27c0-40a1-a21e-5ac05b3466d3,1794922724377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/cb29f784-27c0-40a1-a21e-5ac05b3466d3,1794922724377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T09:04:26+00:00"
@@ -705,9 +747,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/ca025728-6112-4b64-9058-0d129c557131,1794965544393/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C254%2C4928%2C2772%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/ca025728-6112-4b64-9058-0d129c557131,1794965544393/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C254%2C4928%2C2772%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T09:04:26+00:00"
@@ -724,9 +766,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/b99667de-37fc-4a43-a94f-e46001399283,1794957596939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C3000%2C1687%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/b99667de-37fc-4a43-a94f-e46001399283,1794957596939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C3000%2C1687%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T09:04:26+00:00"
@@ -8268,46 +8310,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T21:05:43+00:00"
-  },
-  {
-   "id": "49054aef0f25a501",
-   "title": "Former MP Mike Morrice elected Green Party leader",
-   "summary": "Outgoing leader Elizabeth May said in her own video Morrice has worked very hard for his community, and that his election is \"a dream come true.\"",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12151965/mike-morrice-green-party-new-leader/",
-   "date": "2026-11-15T20:22:41+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 700,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/7f625ff6b7b08481738a4276bd17b44f6ee28638e188ba5ce1bad0850abe6be1.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/7f625ff6b7b08481738a4276bd17b44f6ee28638e188ba5ce1bad0850abe6be1.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T20:28:27+00:00"
-  },
-  {
-   "id": "e75c0bbbe256d1e1",
-   "title": "Flight ground stop in Canada, like the FAA's on Friday, unlikely: aviation expert",
-   "summary": "OTTAWA - An aviation management expert says Canada is less likely than the United States to ground flights nationwide as that country did on Friday afternoon, calling the Canadian system a model its southern neighbours should look to.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/flight-ground-stop-in-canada-like-the-faa-s-on-friday-unlikely-aviation-expert/article_d6e0a6ff-bc7c-5aaa-9806-9d1f304ffd96.html",
-   "date": "2026-11-15T20:18:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 852,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/8b/38b4b6a3-ed90-51af-acbb-fe9a987e5a0d/6af887db038e9.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/8b/38b4b6a3-ed90-51af-acbb-fe9a987e5a0d/6af887db038e9.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T20:28:27+00:00"
   }
  ]
 }

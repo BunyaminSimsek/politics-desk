@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T03:40:00+00:00",
+ "generatedAt": "2026-11-18T03:49:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "cf857a101766ccf2",
+   "title": "Australia’s ‘problematic’ surrogacy laws could be transformed under proposed changes",
+   "summary": "Law reform body recommends ongoing ban on commercial surrogacy, but greater compensation for surrogates, and safeguards around who the child’s legal parents are Get our breaking news email , free app or daily news podcast Surrogates would be entitled to full…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/law/2026/nov/18/australias-strict-surrogacy-laws-could-be-relaxed-under-proposed-changes",
+   "date": "2026-11-18T03:28:59+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b2c623a30296620a72ed884cc59ad89390f7ea5f/256_0_3221_2577/master/3221.jpg?width=700&quality=85&auto=format&fit=max&s=6c864e1fb40e205e062d2022d862d529",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Katie Collins/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T03:49:20+00:00"
+  },
+  {
    "id": "fd8654b77e1182e7",
    "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
    "summary": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afd1b1e-1794972446.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afd1b1e-1794972446.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afd1b1e-1794972446.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afd1b1e-1794972446.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T03:40:00+00:00"
@@ -197,13 +217,35 @@
    "tags": [],
    "kind": "analysis",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4285x2868+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F7b%2Fc9c8a3fc4d01bd1e6bf99f1f6d88%2Fmdt-peltola.jpg",
-    "w": 1200,
     "h": 803,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4285x2868+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F7b%2Fc9c8a3fc4d01bd1e6bf99f1f6d88%2Fmdt-peltola.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4285x2868+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F7b%2Fc9c8a3fc4d01bd1e6bf99f1f6d88%2Fmdt-peltola.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4285x2868+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F7b%2Fc9c8a3fc4d01bd1e6bf99f1f6d88%2Fmdt-peltola.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T03:40:00+00:00"
+  },
+  {
+   "id": "29a4b9ae70702f47",
+   "title": "Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats",
+   "summary": "Republican incumbent beaten in race dominated by controversy over second candidate named Dan Sullivan Democrat Mary Peltola will be Alaska’s next senator after beating the Republican incumbent Dan Sullivan, with the result called two weeks on from midterm…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race",
+   "date": "2026-11-18T03:25:14+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/26047ac7aaea06d3566acb1692bec5cbc39658e1/96_0_2846_2278/master/2846.jpg?width=700&quality=85&auto=format&fit=max&s=340660d575fe7b9f47fad5fa2a88c513",
+    "w": 700,
+    "h": 560,
+    "credit": "Illustration: Rita Liu/Guardian Design"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T03:49:20+00:00"
   },
   {
    "id": "5df5cda1f6fb9d32",
@@ -8253,46 +8295,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T11:15:16+00:00"
-  },
-  {
-   "id": "3b3a2c5fa2731383",
-   "title": "Carney takes his investment pitch to Francophonie summit in Cambodia",
-   "summary": "Both leaders are in Phnom Penh to attend a summit of the Francophonie, an international body of mostly French-speaking states and governments.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/pm-carney-in-cambodia-for-francophonie-summit-will-meet-quebec-premier-plamondon/article_9cc49735-2d9a-51e7-99e8-dbdad6c3f96f.html",
-   "date": "2026-11-15T11:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 848,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/c6/6c69f115-0531-5cad-a3ae-34e8766521d2/6af991e2d8795.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/c6/6c69f115-0531-5cad-a3ae-34e8766521d2/6af991e2d8795.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T11:15:16+00:00"
-  },
-  {
-   "id": "ee9e0bf7d4069353",
-   "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
-   "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-   "date": "2026-11-15T10:00:00+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7440x4962+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Fe0%2F3d5979dc4a7ca8677703331dfaec%2Funiversalchildcare-npr-10-30-2026-177.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7440x4962+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Fe0%2F3d5979dc4a7ca8677703331dfaec%2Funiversalchildcare-npr-10-30-2026-177.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T10:11:32+00:00"
   }
  ]
 }

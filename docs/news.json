@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T20:46:14+00:00",
+ "generatedAt": "2026-11-18T20:56:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "Global News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,65 @@
  ],
  "items": [
   {
+   "id": "ff2153902f759245",
+   "title": "Trump's team scrambles to calm U.S. fears over tech outages",
+   "summary": "After U.S. President Donald Trump brushed aside concern over the past week's series of tech outages, members of his adminstration ramped up efforts Wednesday to try to reassure the American public there truly is no reason to panic.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/trump-tech-outages-jd-vance-homeland-security-intelligence-9.7426781?cmp=rss",
+   "date": "2026-11-18T20:49:14+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/036a8d1f-90cd-4df0-b08a-e9b33ffa9465,1795027492682/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C220%2C5500%2C3093%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T20:56:01+00:00"
+  },
+  {
+   "id": "0b21102c7dde1c79",
+   "title": "Liberal MP who chaired MAID study agrees with Tory proposal for separate votes",
+   "summary": "Marcus Powlowski says he agrees with Conservatives who have been calling for a government bill containing two key MAID amendments to be split.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/liberal-mp-who-chaired-maid-study-agrees-with-tory-proposal-for-separate-votes/article_04060efa-5640-4521-b302-41a5d16a749f.html",
+   "date": "2026-11-18T20:45:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 769,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/05/80559a75-1d5a-5b37-bed3-3e31440ea184/6afde946c8841.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/05/80559a75-1d5a-5b37-bed3-3e31440ea184/6afde946c8841.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T20:08:56+00:00"
+  },
+  {
+   "id": "48d4870d4581261e",
+   "title": "Trump family and allies told to preserve records as Democrats prepare sweeping investigations",
+   "summary": "Robert Garcia plans searches into Trump family finances, alleged DHS misconduct and handling of Epstein files The incoming Democratic chair of the powerful oversight committee in the House of Representatives has ordered a dozen relatives and allies of Donald…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/robert-garcia-trump-records-investigations",
+   "date": "2026-11-18T20:39:21+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kent Nishimura/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/0261c1c16ee5ae1cf7cf868754f143c14a74a6fb/579_0_5780_4625/master/5780.jpg?width=700&quality=85&auto=format&fit=max&s=ba9f7c263d5fa71ab34b8788b2fbb9ca",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T16:13:34+00:00"
+  },
+  {
    "id": "812a4aef58eba7b8",
    "title": "Cadets being told to stand down as Canada spends billions on defence",
    "summary": "The Canadian military has suspended most weekend cadet training and competitions in parts of the country until March, citing budget restraint. Leaked emails reveal mounting financial pressures despite billions in new defence spending.",
@@ -180,7 +239,7 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/36a43287-dd68-4616-85f2-86ccc427ddcd,1795033338863/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C218%2C8192%2C4608%29%3B",
+    "url": "https://i.cbc.ca/ais/e157cf3f-3822-455b-946f-9edbff7ea661,1795034956113/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C633%2C6260%2C3521%29%3B",
     "credit": "",
     "caption": ""
    },
@@ -219,10 +278,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/8894065417af832fc62326275bc5ede991d87eb1/0_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=f05b6d0865aed698f9d28dd0212bb280",
-    "w": 700,
+    "credit": "Photograph: Christopher Furlong/Getty Images",
     "h": 560,
-    "credit": "Photograph: Christopher Furlong/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/8894065417af832fc62326275bc5ede991d87eb1/0_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=f05b6d0865aed698f9d28dd0212bb280",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:46:14+00:00"
@@ -249,8 +308,8 @@
   },
   {
    "id": "ee7b14dff8918da3",
-   "title": "Hegseth boasts of Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
-   "summary": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to…",
+   "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+   "summary": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
    "date": "2026-11-18T20:24:19+00:00",
@@ -281,10 +340,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/6d/06d05acc-e9fc-50d7-8723-1c26f9bf9d63/6afe07bfb444a.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/6d/06d05acc-e9fc-50d7-8723-1c26f9bf9d63/6afe07bfb444a.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/6d/06d05acc-e9fc-50d7-8723-1c26f9bf9d63/6afe07bfb444a.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/6d/06d05acc-e9fc-50d7-8723-1c26f9bf9d63/6afe07bfb444a.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:46:14+00:00"
@@ -366,26 +425,6 @@
     "h": 800,
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/4e/54e092d3-c90a-57bd-bcfa-61988c6b6ee3/6afe00b5cf024.image.jpg?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/4e/54e092d3-c90a-57bd-bcfa-61988c6b6ee3/6afe00b5cf024.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T20:08:56+00:00"
-  },
-  {
-   "id": "0b21102c7dde1c79",
-   "title": "Liberal MP who chaired MAID study agrees with Tory proposal for separate votes",
-   "summary": "Marcus Powlowski says he agrees with Conservatives who have been calling for a government bill containing two key MAID amendments to be split.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/liberal-mp-who-chaired-maid-study-agrees-with-tory-proposal-for-separate-votes/article_04060efa-5640-4521-b302-41a5d16a749f.html",
-   "date": "2026-11-18T20:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 769,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/05/80559a75-1d5a-5b37-bed3-3e31440ea184/6afde946c8841.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/05/80559a75-1d5a-5b37-bed3-3e31440ea184/6afde946c8841.image.jpg?resize=1200%2C",
     "w": 1200
    },
    "breaking": false,
@@ -1413,26 +1452,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:03:57+00:00"
-  },
-  {
-   "id": "48d4870d4581261e",
-   "title": "Democrat orders Trump allies to preserve records, paving way for sweeping investigations",
-   "summary": "Robert Garcia plans searches into Trump family finances, alleged DHS misconduct, and handling of Epstein files The incoming Democratic chair of the powerful oversight committee in the House of Represenatives, has ordered a dozen relatives and allies of Donald…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/robert-garcia-trump-records-investigations",
-   "date": "2026-11-18T15:52:41+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kent Nishimura/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0261c1c16ee5ae1cf7cf868754f143c14a74a6fb/579_0_5780_4625/master/5780.jpg?width=700&quality=85&auto=format&fit=max&s=ba9f7c263d5fa71ab34b8788b2fbb9ca",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T16:13:34+00:00"
   },
   {
    "id": "f19ef6b75cbfa748",
@@ -8269,26 +8288,6 @@
     "caption": "",
     "credit": "",
     "url": "https://i.cbc.ca/ais/eb72a19d-56fc-47a7-8e99-61648965aa93,1794847664933/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C564%2C5400%2C3037%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T17:48:58+00:00"
-  },
-  {
-   "id": "21d8d76d09ce873d",
-   "title": "Beckham firm sues after fragrance found for sale in discount store",
-   "summary": "Brand reacted with ‘shock and dismay’ after products were also found in a ‘bargain bin inside a gas station’ Business live – latest updates David Beckham’s company reacted with “shock and dismay” after discovering his branded fragrance range was on sale in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
-   "date": "2026-11-16T17:35:59+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jayce Illman/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b545f9d7a790ea86d7c205a1aa43db5a001f1e42/1779_175_2064_1652/master/2064.jpg?width=700&quality=85&auto=format&fit=max&s=3f18bdcf9703cc4974b217da2b9f5ef1",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-16T17:48:58+00:00"

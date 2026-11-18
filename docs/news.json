@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T11:14:38+00:00",
+ "generatedAt": "2026-11-18T11:23:51+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/2cd5cfea9935907152278d56832dbe067bf878e4/393_0_6318_5052/master/6318.jpg?width=700&quality=85&auto=format&fit=max&s=4acbd77bc3aa932f3739c34518053493",
-    "w": 700,
+    "credit": "Photograph: Jasmin Merdan/Getty Images",
     "h": 560,
-    "credit": "Photograph: Jasmin Merdan/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/2cd5cfea9935907152278d56832dbe067bf878e4/393_0_6318_5052/master/6318.jpg?width=700&quality=85&auto=format&fit=max&s=4acbd77bc3aa932f3739c34518053493",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T11:14:38+00:00"
@@ -239,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/fcbdd13eb87efed150c236b2d6160a6fe219474e/435_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=dd21e1dedb58f35f186cce34369e2dbb",
-    "w": 700,
+    "credit": "Photograph: Tom Williams/CQ-Roll Call via Getty Images",
     "h": 560,
-    "credit": "Photograph: Tom Williams/CQ-Roll Call via Getty Images"
+    "url": "https://i.guim.co.uk/img/media/fcbdd13eb87efed150c236b2d6160a6fe219474e/435_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=dd21e1dedb58f35f186cce34369e2dbb",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T11:14:38+00:00"
@@ -259,10 +259,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2025/09/2aca7a726bb13988e487c10363d3e2ee21a7dfaa7f68ed7a806c778489a6ecf9.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 712,
-    "small": "https://globalnews.ca/wp-content/uploads/2025/09/2aca7a726bb13988e487c10363d3e2ee21a7dfaa7f68ed7a806c778489a6ecf9.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2025/09/2aca7a726bb13988e487c10363d3e2ee21a7dfaa7f68ed7a806c778489a6ecf9.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2025/09/2aca7a726bb13988e487c10363d3e2ee21a7dfaa7f68ed7a806c778489a6ecf9.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-18T11:14:38+00:00"

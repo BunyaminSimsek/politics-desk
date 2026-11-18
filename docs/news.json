@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T18:44:54+00:00",
+ "generatedAt": "2026-11-18T18:54:13+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "6e6f70130b0cc577",
+   "title": "Canada to review where Chinese EVs are allowed to drive: transport minister",
+   "summary": "Concerns over Chinese cars ability to collect sensitive information have been routinely highlighted by Ontario Premier Doug Ford, who often refers to them as 'spy cars.'",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12156551/china-electric-vehicle-security-risks-canada/",
+   "date": "2026-11-18T18:50:21+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/chinese-ev.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/chinese-ev.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T18:54:13+00:00"
+  },
   {
    "id": "33db60a875c2691b",
    "title": "Talks with Meta ‘confidential’ following reports of possible deal, Miller says",
@@ -1499,7 +1519,7 @@
   },
   {
    "id": "87a1c12f9c05a0b8",
-   "title": "Carney meets Trump in China, discusses ‘complex’ trade deal",
+   "title": "Trade talks with U.S. ‘more complex’ than other partners, Carney says",
    "summary": "The two spoke shortly after a news conference, where Carney said he doesn't believe Trump is uncomfortable with Canada furthering its trade relationship with China.",
    "source": "Global News",
    "url": "https://globalnews.ca/news/12156009/carney-trump-china-meeting/",
@@ -8273,28 +8293,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T15:33:32+00:00"
-  },
-  {
-   "id": "ae3ce3c8b807d4c0",
-   "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-   "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T14:58:12+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T15:14:30+00:00"
   }
  ]
 }

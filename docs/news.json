@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T14:48:56+00:00",
+ "generatedAt": "2026-11-18T14:58:13+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 31
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,34 @@
  ],
  "items": [
   {
+   "id": "ecd1fcdc34435c6a",
+   "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
+   "summary": "Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-18T14:51:55+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Chris McGrath/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T07:23:06+00:00"
+  },
+  {
    "id": "92794bdb7e5223a3",
-   "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
-   "summary": "Leader of opposition accuses Labour of being party of welfare as he says the biggest rise in Neets came under the Tories In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for…",
+   "title": "Burnham urges Badenoch to withdraw ‘crass’ comment defending disability cuts on grounds ‘amputees run marathons’ – UK politics live",
+   "summary": "PM and leader of the opposition clashed at PMQs over welfare In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "date": "2026-11-18T14:39:10+00:00",
+   "date": "2026-11-18T14:43:18+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -184,6 +206,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
+   "id": "83bbd0409df60085",
+   "title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
+   "summary": "Iran and the US have continued to exchange strikes in recent days, but all-out war has so far been avoided.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
+   "date": "2026-11-18T14:36:20+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afda004-1795006468.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afda004-1795006468.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T14:58:13+00:00"
   },
   {
    "id": "2d6e0dc8ee36eff3",
@@ -208,34 +250,12 @@
    "addedAt": "2026-11-17T19:01:11+00:00"
   },
   {
-   "id": "ecd1fcdc34435c6a",
-   "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
-   "summary": "Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-18T14:33:27+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chris McGrath/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T07:23:06+00:00"
-  },
-  {
    "id": "178f94915ff3cf34",
    "title": "House Democrats begin leadership elections, with Hakeem Jeffries poised to clinch Speaker nomination – live",
    "summary": "If elected, Jeffries would become the first Black person to hold the gavel in US history Trump in China for Apec summit – follow live",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T14:29:01+00:00",
+   "date": "2026-11-18T14:34:44+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -283,10 +303,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/da7fa4cbbdc420d8de514a27bdb1e07b474f48b9/88_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=c88e63f71d53e9ee3be8136d4ca594d0",
-    "w": 700,
+    "credit": "Photograph: Oleksandr Gimanov/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Oleksandr Gimanov/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/da7fa4cbbdc420d8de514a27bdb1e07b474f48b9/88_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=c88e63f71d53e9ee3be8136d4ca594d0",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T14:48:56+00:00"
@@ -383,10 +403,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Stephen Kill/Alamy",
+    "url": "https://i.guim.co.uk/img/media/cd9c93f4d2bc857399f8b29d244fd59b9a4d5a26/790_137_2189_1751/master/2189.jpg?width=700&quality=85&auto=format&fit=max&s=db8571e488d63bad734251e04d7602ed",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cd9c93f4d2bc857399f8b29d244fd59b9a4d5a26/295_0_2953_2363/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=12f76d926d3ef910564ad91590de0f92",
-    "w": 700
+    "credit": "Photograph: Stephen Kill/Alamy"
    },
    "breaking": true,
    "addedAt": "2026-11-18T14:20:04+00:00"
@@ -8271,27 +8291,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:19:52+00:00"
-  },
-  {
-   "id": "1227e51565299fd3",
-   "title": "CBSA demoting border officers who permanently lost ability to use sidearm",
-   "summary": "The Canada Border Services Agency has informed 63 employees that they will have to take on new, lower-paid positions because of medical conditions that prevent them from carrying a sidearm.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/cbsa-firearm-accommodation-medical-union-9.7421365?cmp=rss",
-   "date": "2026-11-16T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/465f21e7-aca9-4015-b6a0-0b190c66d0e9,1794614331867/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1634%2C919%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T09:10:22+00:00"
   }
  ]
 }

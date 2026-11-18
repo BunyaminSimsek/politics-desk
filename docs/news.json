@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T16:52:04+00:00",
+ "generatedAt": "2026-11-18T17:01:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "CTV News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 31
+   "kept": 30
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "4054a219c6193a40",
+   "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
+   "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog says The environment secretary, Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the “deeply…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
+   "date": "2026-11-18T16:53:52+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Nick Upton/Alamy",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ec8ab6692ef60ad08b4c21283c2bd1f5159aa301/878_0_2879_2303/master/2879.jpg?width=700&quality=85&auto=format&fit=max&s=d182fb91a7923b085fc2c2fcff2ad5c3",
+    "w": 700
+   },
+   "breaking": true,
+   "addedAt": "2026-11-18T14:20:04+00:00"
+  },
+  {
+   "id": "67c7a2bfdc6415ff",
+   "title": "Housing minister won't reaffirm Liberal pledge to double home construction",
+   "summary": "OTTAWA - Housing Minister Gregor Robertson wouldn't reaffirm the Liberal government's long-standing goal of doubling the pace of home building when pressed by reporters today.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/housing-minister-won-t-reaffirm-liberal-pledge-to-double-home-construction/article_89116d32-ae10-5805-8766-35d4be399356.html",
+   "date": "2026-11-18T16:47:37+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/48/f48da717-30a3-57e8-843b-9a367b3ab290/6afdd73dc2f7d.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 835,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/48/f48da717-30a3-57e8-843b-9a367b3ab290/6afdd73dc2f7d.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T17:01:16+00:00"
+  },
+  {
    "id": "178f94915ff3cf34",
    "title": "Democrats nominate Hakeem Jeffries to become first Black House speaker – US politics live",
    "summary": "Jeffries was nominated with 251 yes votes and 11 no votes in closed-door process Democrats nominate Hakeem Jeffries as first Black House speaker Trump in China for Apec summit – follow live",
@@ -186,6 +228,48 @@
    "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
+   "id": "92794bdb7e5223a3",
+   "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – UK politics live",
+   "summary": "PM and leader of the opposition clashed at PMQs over welfare In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T16:41:25+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Parliament Live",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=416b88bd10c66dd7f2169bc7c57fce6b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
+   "id": "3c0f9c4d6e55bdc7",
+   "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
+   "summary": "Crowds gathered in Shenzhen, China, to welcome US President Donald Trump as he arrived for the APEC summit",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
+   "date": "2026-11-18T16:40:03+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sequence-01.00_05_12_24.Still002-1795019986.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sequence-01.00_05_12_24.Still002-1795019986.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T17:01:16+00:00"
+  },
+  {
    "id": "f563f9ad21e7dbe5",
    "title": "Senators criticize Apple and Google for letting teens access ‘nudify’ apps despite parental controls",
    "summary": "Exclusive: three Senate Democrats sent letters to tech CEOs saying safeguards against nudification apps are insufficient on their platforms A trio of US Senators say Apple and Google are failing to effectively detect and remove apps that can be used to…",
@@ -204,6 +288,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:42:25+00:00"
+  },
+  {
+   "id": "c5826c6f443f3e2c",
+   "title": "Ex-Alberta premier Jason Kenney says Quebec Conservatives could take power",
+   "summary": "NICOLET - Former Alberta premier Jason Kenney believes the Quebec Conservative Party could one day take power in the province.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/quebec/ex-alberta-premier-jason-kenney-says-quebec-conservatives-could-take-power/article_5f998984-c69e-50aa-a760-7b5a703adcea.html",
+   "date": "2026-11-18T16:33:58+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/ce/7ce160be-39b0-5a03-9684-b87a99c3c1de/6afdd3c7d7a2e.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/ce/7ce160be-39b0-5a03-9684-b87a99c3c1de/6afdd3c7d7a2e.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T17:01:16+00:00"
   },
   {
    "id": "f38679cd7546964e",
@@ -227,7 +331,7 @@
   },
   {
    "id": "a346a69b954af666",
-   "title": "'If the U.S. doesn't want to do a deal, we're busy,' Carney says of a possible trade agreement",
+   "title": "'If the U.S. doesn't want to do a deal, we're busy,' Carney says of ongoing trade talks",
    "summary": "Prime Minister Mark Carney said Wednesday that Canada is willing to sign a mutually beneficial deal with the Americans, but if U.S.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/carney-trump-trade-canada-busy-9.7426568?cmp=rss",
@@ -239,9 +343,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/9d04ffee-448c-4393-997a-1f11c7d1f515,1795020434081/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C625%2C6000%2C3375%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/d3d8b8ba-30ba-4f9c-b8ce-2ec4c051bf4f,1795018366172/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3821%2C2149%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:32:12+00:00"
@@ -285,28 +389,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:32:12+00:00"
-  },
-  {
-   "id": "92794bdb7e5223a3",
-   "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – UK politics live",
-   "summary": "PM and leader of the opposition clashed at PMQs over welfare In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "date": "2026-11-18T16:11:04+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Parliament Live",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=416b88bd10c66dd7f2169bc7c57fce6b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:14:11+00:00"
   },
   {
    "id": "6a33f337f6bec740",
@@ -450,26 +532,6 @@
    "addedAt": "2026-11-18T16:13:34+00:00"
   },
   {
-   "id": "4054a219c6193a40",
-   "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
-   "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog says The environment secretary, Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the catastrophic…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
-   "date": "2026-11-18T15:49:08+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Nick Upton/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ec8ab6692ef60ad08b4c21283c2bd1f5159aa301/878_0_2879_2303/master/2879.jpg?width=700&quality=85&auto=format&fit=max&s=d182fb91a7923b085fc2c2fcff2ad5c3",
-    "w": 700
-   },
-   "breaking": true,
-   "addedAt": "2026-11-18T14:20:04+00:00"
-  },
-  {
    "id": "e54ccd81a1434eb7",
    "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
    "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
@@ -512,7 +574,7 @@
   {
    "id": "c35ea5dcbea50196",
    "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
-   "summary": "The New York congressman was nominated after Democrats gained control of Congress in the midterm elections.",
+   "summary": "The New York congressman is nominated after Democrats gained control of Congress in this month's midterm elections.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
    "date": "2026-11-18T15:37:52+00:00",
@@ -695,22 +757,20 @@
   },
   {
    "id": "2d6e0dc8ee36eff3",
-   "title": "Canada weighs Chinese investment as US tariffs threaten its auto industry",
+   "title": "Why Carney is looking to China as Canada's car industry comes US under pressure",
    "summary": "Prime Minister Carney downplayed US concerns on Wednesday, saying its ties are not a \"top issue\" for President Trump as Canada eyes trade with Chinese carmakers.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-18T14:35:18+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "trade"
-   ],
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/74e5/live/4a211e10-e371-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/74e5/live/4a211e10-e371-11f1-99a1-253766e7ad8b.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:01:11+00:00"
@@ -1376,10 +1436,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T11:32:52+00:00"
@@ -8216,67 +8276,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
-  },
-  {
-   "id": "ff07da10697e68c2",
-   "title": "Canada can’t retrofit millions of homes one project at a time",
-   "summary": "Buried beneath the headlines about heat pump rebates in Prime Minister Mark Carney’s latest retrofit announcement is a $107-million investment that could help transform how Canada retrofits its buildings.",
-   "source": "Policy Options",
-   "url": "https://policyoptions.irpp.org/2026/11/building-retrofits-canada/",
-   "date": "2026-11-16T11:30:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "analysis",
-   "image": {
-    "h": 1280,
-    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/housing-retrofits.jpg?resize=640%2C427",
-    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/housing-retrofits.jpg?resize=1200%2C800",
-    "w": 1920
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:38:44+00:00"
-  },
-  {
-   "id": "f3ddf5c2cb647e70",
-   "title": "Klopp says Infantino worse than Blatter",
-   "summary": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T11:27:08+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/217d/live/86082020-e1ac-11f1-8ee3-23d0d09d2796.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T12:25:40+00:00"
-  },
-  {
-   "id": "66292ed108e2f134",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
-   "summary": "Prime Minister Mark Carney said that Canada could turn to Chinese automakers if trade negotiations with U.S. President Donald Trump fail to preserve an integrated North American auto industry.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/canada-china-carney-auto-9.7423156?cmp=rss",
-   "date": "2026-11-16T11:13:41+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/75f49ae2-6391-4c6a-91f0-9cd971daa261,1794808397334/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C503%2C7805%2C4390%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:38:44+00:00"
   }
  ]
 }

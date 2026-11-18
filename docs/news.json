@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T01:18:23+00:00",
+ "generatedAt": "2026-11-18T01:28:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 15
+   "kept": 17
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "5df5cda1f6fb9d32",
+   "title": "White House pulls nomination of Heidi Overton to lead Food and Drug Administration – US politics live",
+   "summary": "Trump administration official says it appeared that Overton, a physician and abortion opponent, lacked the votes necessary for Senate confirmation",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-18T01:10:14+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Mariam Zuhaib/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/959d5fcd8e2a8580b1a2bf0b86946895bbf3daf4/335_0_4499_3601/master/4499.jpg?width=700&quality=85&auto=format&fit=max&s=1c84d8bb5448e61f00fe9c6d23e66400",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
    "id": "d3eb6d57cd6d15ea",
    "title": "Appeals court blocks Pentagon from forcing transgender troops out of the U.S. army",
    "summary": "A U.S. federal appeals court on Tuesday blocked the Pentagon from forcing more than two dozen transgender troops out of the military, several months after it found that President Donald Trump's administration unlawfully imposed the ban.",
@@ -179,32 +199,56 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/dfb60bd1-5d77-4d04-b561-674bf3267b83,1794962544668/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C281%2C5400%2C3037%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/dfb60bd1-5d77-4d04-b561-674bf3267b83,1794962544668/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C281%2C5400%2C3037%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T01:18:23+00:00"
   },
   {
-   "id": "5df5cda1f6fb9d32",
-   "title": "Trump administration pulls nomination of Heidi Overton to lead Food and Drug Administration – US politics live",
-   "summary": "White House official says it appeared that Overton, a physician and abortion opponent, lacked the votes necessary for Senate confirmation",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-18T00:58:50+00:00",
-   "topic": "us",
+   "id": "96a742fd88dd7887",
+   "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+   "summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+   "date": "2026-11-18T01:07:01+00:00",
+   "topic": "mideast",
    "region": "world",
-   "tags": [],
+   "tags": [
+    "defence"
+   ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Mariam Zuhaib/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/959d5fcd8e2a8580b1a2bf0b86946895bbf3daf4/335_0_4499_3601/master/4499.jpg?width=700&quality=85&auto=format&fit=max&s=1c84d8bb5448e61f00fe9c6d23e66400",
-    "w": 700
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcb93f966d-1794947391.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcb93f966d-1794947391.jpg?resize=640%2C427"
    },
    "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
+   "addedAt": "2026-11-18T01:28:01+00:00"
+  },
+  {
+   "id": "a4893d7b977efe14",
+   "title": "Ecuadorian fishermen sue Trump administration over drone strike",
+   "summary": "Crew say their boat was attacked by drones launched from US-operated vessel as part of 'manifestly unlawful' campaign.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
+   "date": "2026-11-18T01:04:43+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/04/s1-1776319536.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/04/s1-1776319536.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T01:28:01+00:00"
   },
   {
    "id": "dd5be05d4ceda3d2",
@@ -7662,7 +7706,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -8252,46 +8296,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T08:12:09+00:00"
-  },
-  {
-   "id": "9794cb09693ea3e8",
-   "title": "ASEAN summit: Who’s attending and what’s at stake?",
-   "summary": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-   "date": "2026-11-15T07:11:24+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26028267291630-1791246790_c99e6e-1791246925.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26028267291630-1791246790_c99e6e-1791246925.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T07:35:36+00:00"
-  },
-  {
-   "id": "36c027852976f0fb",
-   "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-   "summary": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-   "date": "2026-11-15T06:22:32+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Olga Maltseva/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=700&quality=85&auto=format&fit=max&s=2daf616594a166d9b7441320f79f7a61",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T06:31:42+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T03:49:20+00:00",
+ "generatedAt": "2026-11-18T03:58:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/b2c623a30296620a72ed884cc59ad89390f7ea5f/256_0_3221_2577/master/3221.jpg?width=700&quality=85&auto=format&fit=max&s=6c864e1fb40e205e062d2022d862d529",
-    "w": 700,
+    "credit": "Photograph: Katie Collins/PA",
     "h": 560,
-    "credit": "Photograph: Katie Collins/PA"
+    "url": "https://i.guim.co.uk/img/media/b2c623a30296620a72ed884cc59ad89390f7ea5f/256_0_3221_2577/master/3221.jpg?width=700&quality=85&auto=format&fit=max&s=6c864e1fb40e205e062d2022d862d529",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T03:49:20+00:00"
@@ -239,10 +239,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/26047ac7aaea06d3566acb1692bec5cbc39658e1/96_0_2846_2278/master/2846.jpg?width=700&quality=85&auto=format&fit=max&s=340660d575fe7b9f47fad5fa2a88c513",
-    "w": 700,
+    "credit": "Illustration: Rita Liu/Guardian Design",
     "h": 560,
-    "credit": "Illustration: Rita Liu/Guardian Design"
+    "url": "https://i.guim.co.uk/img/media/26047ac7aaea06d3566acb1692bec5cbc39658e1/96_0_2846_2278/master/2846.jpg?width=700&quality=85&auto=format&fit=max&s=340660d575fe7b9f47fad5fa2a88c513",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T03:49:20+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T09:04:26+00:00",
+ "generatedAt": "2026-11-18T09:14:11+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,90 @@
  ],
  "items": [
   {
+   "id": "92794bdb7e5223a3",
+   "title": "Shabana Mahmood pledges to tackle ‘corrosive and growing perception of two-tier policing’ – UK politics live",
+   "summary": "Home secretary to give speech to National Police Chiefs’ Council addressing concerns that officers treats groups differently Good morning. Shabana Mahmood has done two of the most difficult jobs in the government.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T09:04:03+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/33254d2eac8860504ca73a4dff0ae32ca97afd18/218_0_2181_1745/master/2181.jpg?width=700&quality=85&auto=format&fit=max&s=0fe2a2d430cb4992a1d4001b54ec2a3b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Wiktor Szymanowicz/Shutterstock"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
+   "id": "33067fb664145e31",
+   "title": "Can advocates elected to Toronto council help fix housing and homelessness crisis?",
+   "summary": "TORONTO - Toronto's newly elected council includes several prominent tenant and housing rights activists and advocates for the city's homeless population who say they will bring the kind of first-hand outreach experience to the table that council needs.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/real-estate/can-advocates-elected-to-toronto-council-help-fix-housing-and-homelessness-crisis/article_25a1689b-ded0-566f-bd88-26e4a6677265.html",
+   "date": "2026-11-18T09:00:10+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/13/71337493-d988-5258-a6f0-3410cdd6aa43/6918ca3fbead1.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/13/71337493-d988-5258-a6f0-3410cdd6aa43/6918ca3fbead1.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
+   "id": "786cf60daf6c04c5",
+   "title": "Chow to lay out vision for new term as Toronto council holds first meeting",
+   "summary": "TORONTO - Mayor Olivia Chow is expected to lay out her vision for her second term as Toronto City Hall hosts its first meeting of the new council.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/chow-to-lay-out-vision-for-new-term-as-toronto-council-holds-first-meeting/article_987c3ab7-06a4-552a-93ac-74d2f8093dce.html",
+   "date": "2026-11-18T09:00:09+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/5a/b5a91b44-e175-58f8-b385-5f642c674903/6afd6a5010628.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/5a/b5a91b44-e175-58f8-b385-5f642c674903/6afd6a5010628.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
+   "id": "5da9a547004fe832",
+   "title": "Canada's Alert Ready system to be tested across the country Wednesday",
+   "summary": "Canadians across the country can expect to hear the shrill screeching sound of Canada's emergency alerting system today.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/canada-s-alert-ready-system-to-be-tested-across-the-country-wednesday/article_b075383b-4313-5f64-b0be-af180954586c.html",
+   "date": "2026-11-18T09:00:08+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/d9/0d96d565-4b07-5082-8572-986a82f66958/6afd6a4164a2a.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 896,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/d9/0d96d565-4b07-5082-8572-986a82f66958/6afd6a4164a2a.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
    "id": "d6fdc70bb55e270c",
    "title": "Toronto’s new council is meeting for the first time. Here's who is new and what to expect",
    "summary": "Toronto's mayor and 25 councillors will take part in their first council meeting Wednesday, where they will swear an oath of office and Olivia Chow will make her first speech. There are seven new faces on the council floor this term.",
@@ -177,9 +261,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/cb29f784-27c0-40a1-a21e-5ac05b3466d3,1794922724377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/cb29f784-27c0-40a1-a21e-5ac05b3466d3,1794922724377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T09:04:26+00:00"
@@ -196,9 +280,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/ca025728-6112-4b64-9058-0d129c557131,1794965544393/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C254%2C4928%2C2772%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/ca025728-6112-4b64-9058-0d129c557131,1794965544393/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C254%2C4928%2C2772%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T09:04:26+00:00"
@@ -215,9 +299,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/b99667de-37fc-4a43-a94f-e46001399283,1794957596939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C3000%2C1687%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/b99667de-37fc-4a43-a94f-e46001399283,1794957596939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C3000%2C1687%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T09:04:26+00:00"
@@ -228,7 +312,7 @@
    "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T08:48:31+00:00",
+   "date": "2026-11-18T08:58:07+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [],
@@ -8225,90 +8309,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T16:27:23+00:00"
-  },
-  {
-   "id": "17115dd308c864fe",
-   "title": "Was a kinder fate possible for Marineland’s animals? How the planning process failed them",
-   "summary": "Peekachu, Rain, Osiris, Caspian, Jellybean and Cyprus are dead . They were six of the 30 beluga whales removed from Marineland in Niagara Falls earlier this year. Echo is dead too. She was one of the four dolphins who were also removed around the same time.",
-   "source": "The Conversation",
-   "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
-   "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [
-    "housing"
-   ],
-   "kind": "analysis",
-   "image": {
-    "h": 600,
-    "small": "https://images.theconversation.com/files/771208/original/file-20261110-78-bun75t.JPG?ixlib=rb-4.1.1&rect=0%2C835%2C5000%2C2500&q=45&auto=format&h=668&w=640&fit=clip",
-    "url": "https://images.theconversation.com/files/771208/original/file-20261110-78-bun75t.JPG?ixlib=rb-4.1.1&rect=0%2C835%2C5000%2C2500&q=45&auto=format&h=668&w=1200&fit=clip",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T15:22:49+00:00"
-  },
-  {
-   "id": "6a200cb896d390a0",
-   "title": "Carney, Quebec premier discuss U.S. trade, homelessness at first meeting in Cambodia",
-   "summary": "Premier Paul St-Pierre Plamondon said the meeting ended with federal support for the province's fight against homelessness, and the exchange of personal phone numbers.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/canada/montreal/paul-st-pierre-plamondon-mark-carney-sommet-de-la-francophonie-9.7422688?cmp=rss",
-   "date": "2026-11-15T15:19:25+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "housing"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/435d3638-a380-4803-88b5-4ddc84260735,1794750009710/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C296%2C7983%2C4490%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T16:27:23+00:00"
-  },
-  {
-   "id": "323de527da9a1a8a",
-   "title": "Carney cites her award-winning book on encampments. She's eyeing his plan to end homelessness",
-   "summary": "One of Canada's leading authors on homelessness says the prime minister’s plan to end it within 10 years is an \"ambitious goal\" that has potential, but won't actually go all the way.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/what-does-carney-s-influence-think-of-homelessness-plan-9.7422419?cmp=rss",
-   "date": "2026-11-15T15:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "housing"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/faae74ea-cfac-4e72-9216-e4a294d58f36,1794692777947/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C388%2C7445%2C4187%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T17:13:23+00:00"
-  },
-  {
-   "id": "fae8ab3593688cda",
-   "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
-   "summary": "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
-   "date": "2026-11-15T14:02:08+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9a12272f26-1794744610.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9a12272f26-1794744610.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T14:27:51+00:00"
   }
  ]
 }

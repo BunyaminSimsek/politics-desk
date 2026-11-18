@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T21:05:42+00:00",
+ "generatedAt": "2026-11-18T21:15:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "CTV News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,68 @@
   }
  ],
  "items": [
+  {
+   "id": "21b857b319461766",
+   "title": "Ford puts onus on Ottawa ahead of Stellantis Brampton plant talks",
+   "summary": "The Ford government is pointing to Ottawa to do the heavy lifting on Stellantis, despite Joly urging that they need to be on the same page.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12156826/ford-puts-onus-on-ottawa-ahead-of-stellantis-brampton-plant-talks/",
+   "date": "2026-11-18T21:05:51+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP177298244.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP177298244.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T21:15:02+00:00"
+  },
+  {
+   "id": "631d6db2dccfd683",
+   "title": "US defence secretary announces military partnership on trip to Venezuela",
+   "summary": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+   "date": "2026-11-18T21:01:05+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afdfab10599-1795029681.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afdfab10599-1795029681.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T21:15:02+00:00"
+  },
+  {
+   "id": "178f94915ff3cf34",
+   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "date": "2026-11-18T20:57:57+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:00:21+00:00"
+  },
   {
    "id": "ff2153902f759245",
    "title": "Trump's team scrambles to calm U.S. fears over tech outages",
@@ -245,26 +307,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:46:14+00:00"
-  },
-  {
-   "id": "178f94915ff3cf34",
-   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T20:33:13+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "234a1b5b2a798a2e",
@@ -2812,14 +2854,16 @@
   },
   {
    "id": "786cf60daf6c04c5",
-   "title": "Chow to lay out vision for new term as Toronto council holds first meeting",
+   "title": "Chow points to city's fiscal challenges in first meeting of new Toronto council",
    "summary": "Mayor Olivia Chow will have seven new councillors to consider for high-profile roles, including former Liberal MPs Nate Erskine-Smith and Shaun Chen.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/chow-to-lay-out-vision-for-new-term-as-toronto-council-holds-first-meeting/article_987c3ab7-06a4-552a-93ac-74d2f8093dce.html",
    "date": "2026-11-18T09:00:00+00:00",
    "topic": "toronto",
    "region": "local",
-   "tags": [],
+   "tags": [
+    "economy"
+   ],
    "kind": "news",
    "image": {
     "h": 800,
@@ -8254,45 +8298,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
-  },
-  {
-   "id": "c17c82f28656180d",
-   "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-   "summary": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
-   "date": "2026-11-16T17:49:16+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/08/Ghassan-Najjar-1788196487.jpeg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/08/Ghassan-Najjar-1788196487.jpeg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T17:58:39+00:00"
-  },
-  {
-   "id": "e4402eb32934947e",
-   "title": "U.S. further restricts China's access to AI chips in wake of Nvidia scandal",
-   "summary": "The Trump administration on Monday issued a rule that will further restrict China's access to the best AI chips from companies like Nvidia, just as U.S. President Donald Trump began a trip to China to meet with President Xi Jinping.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/us-china-ai-nvidia-9.7423734?cmp=rss",
-   "date": "2026-11-16T17:36:06+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/eb72a19d-56fc-47a7-8e99-61648965aa93,1794847664933/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C564%2C5400%2C3037%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T17:48:58+00:00"
   }
  ]
 }

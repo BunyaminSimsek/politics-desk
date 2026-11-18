@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T04:07:36+00:00",
+ "generatedAt": "2026-11-18T04:17:19+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 14
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "e54ccd81a1434eb7",
+   "title": "Apec summit live: Xi and Putin give opening speeches as world leaders gather in China",
+   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T04:08:34+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: China Pool/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3fa9638225a04c28825b9ee191695af2",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T04:07:36+00:00"
+  },
+  {
    "id": "37a47fc35bcbe267",
    "title": "Mary Peltola wins U.S. Senate seat in Alaska for Democrats",
    "summary": "Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, overcoming allegations that members of her campaign helped recruit a candidate who shares the incumbent's name and completing a political comeback in a state U.S.",
@@ -179,31 +199,11 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9ce6302e-a4bc-4f2e-a174-47300a3fc68e,1794972452161/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C26%2C6592%2C3708%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9ce6302e-a4bc-4f2e-a174-47300a3fc68e,1794972452161/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C26%2C6592%2C3708%29%3B"
    },
    "breaking": true,
-   "addedAt": "2026-11-18T04:07:36+00:00"
-  },
-  {
-   "id": "e54ccd81a1434eb7",
-   "title": "Apec summit live: Xi and Putin speak as world leaders gather in China",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T03:46:24+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3fa9638225a04c28825b9ee191695af2",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: China Pool/Getty Images"
-   },
-   "breaking": false,
    "addedAt": "2026-11-18T04:07:36+00:00"
   },
   {
@@ -320,9 +320,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/9bd66015-1d5f-4b81-850f-d8b6a027839c,1794963819273/full/max/0/default.jpg?im=Crop%2Crect%3D%28293%2C634%2C5272%2C2965%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/9bd66015-1d5f-4b81-850f-d8b6a027839c,1794963819273/full/max/0/default.jpg?im=Crop%2Crect%3D%28293%2C634%2C5272%2C2965%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T02:15:02+00:00"

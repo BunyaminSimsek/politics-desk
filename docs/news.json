@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T15:44:38+00:00",
+ "generatedAt": "2026-11-18T15:54:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "178f94915ff3cf34",
+   "title": "House Democrats begin leadership elections, with Hakeem Jeffries poised to clinch speaker nomination – live",
+   "summary": "If elected, Jeffries would become the first Black person to hold the gavel in US history Trump in China for Apec summit – follow live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "date": "2026-11-18T15:40:10+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: J Scott Applewhite/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/94f3968d43eb5f8f2df2562497da3e35e1acedfd/394_0_3607_2887/master/3607.jpg?width=700&quality=85&auto=format&fit=max&s=d3bab3daafd12f71f3b5fcd46a2f37a5",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:00:21+00:00"
+  },
+  {
    "id": "f19ef6b75cbfa748",
    "title": "Who speaks for Europe abroad? Not its top diplomat",
    "summary": "EU leaders’ decision to exclude the bloc’s foreign policy chief from their negotiating lineup for Russia peace talks reveals how national turf wars undermine Brussels’ global ambitions • Don’t get This Is Europe delivered to your inbox?",
@@ -177,13 +199,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/04488aef9c8a04fbafa393d73e37072a3ee6abb6/0_0_4711_3768/master/4711.jpg?width=700&quality=85&auto=format&fit=max&s=857226e142ded745dfb2b8dac42e2acd",
-    "w": 700,
+    "credit": "Photograph: Olivier Hoslet/EPA",
     "h": 560,
-    "credit": "Photograph: Olivier Hoslet/EPA"
+    "url": "https://i.guim.co.uk/img/media/04488aef9c8a04fbafa393d73e37072a3ee6abb6/0_0_4711_3768/master/4711.jpg?width=700&quality=85&auto=format&fit=max&s=857226e142ded745dfb2b8dac42e2acd",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T15:44:38+00:00"
+  },
+  {
+   "id": "c35ea5dcbea50196",
+   "title": "Hakeem Jeffries becomes first Black nominee for US House speaker",
+   "summary": "The New York congressman was nominated after Democrats gained control of Congress in the midterm elections.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+   "date": "2026-11-18T15:37:52+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afdb8b185efc-1795012785_7d572c-1795013292.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afdb8b185efc-1795012785_7d572c-1795013292.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T15:54:16+00:00"
   },
   {
    "id": "ecd1fcdc34435c6a",
@@ -208,26 +250,24 @@
    "addedAt": "2026-11-18T07:23:06+00:00"
   },
   {
-   "id": "178f94915ff3cf34",
-   "title": "House Democrats begin leadership elections, with Hakeem Jeffries poised to clinch speaker nomination – live",
-   "summary": "If elected, Jeffries would become the first Black person to hold the gavel in US history Trump in China for Apec summit – follow live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T15:27:35+00:00",
-   "topic": "us",
+   "id": "d82c2b05657bb8a8",
+   "title": "Russian attacks on Ukraine kill at least five people",
+   "summary": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as 'brutal'.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
+   "date": "2026-11-18T15:32:01+00:00",
+   "topic": "ukraine",
    "region": "world",
-   "tags": [
-    "elections"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: J Scott Applewhite/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/94f3968d43eb5f8f2df2562497da3e35e1acedfd/394_0_3607_2887/master/3607.jpg?width=700&quality=85&auto=format&fit=max&s=d3bab3daafd12f71f3b5fcd46a2f37a5",
-    "w": 700
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T131136Z_2085035474_RC2CQOASEQ7K_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ODESA-1795008854.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T131136Z_2085035474_RC2CQOASEQ7K_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ODESA-1795008854.jpg?resize=640%2C427"
    },
    "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
+   "addedAt": "2026-11-18T15:54:16+00:00"
   },
   {
    "id": "600f03a897964ab8",
@@ -547,11 +587,11 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/cd9c93f4d2bc857399f8b29d244fd59b9a4d5a26/295_0_2953_2363/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=12f76d926d3ef910564ad91590de0f92",
-    "w": 700,
-    "h": 560,
+    "caption": "The loss of wild birds includes some of Britain’s best-loved garden birds, including swifts.",
     "credit": "Photograph: Stephen Kill/Alamy",
-    "caption": "The loss of wild birds includes some of Britain’s best-loved garden birds, including swifts."
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/cd9c93f4d2bc857399f8b29d244fd59b9a4d5a26/295_0_2953_2363/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=12f76d926d3ef910564ad91590de0f92",
+    "w": 700
    },
    "breaking": true,
    "addedAt": "2026-11-18T14:20:04+00:00"
@@ -1419,9 +1459,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/200c06d5-5a7e-4ef0-b864-c854c946c36f,1795016363534/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7931%2C4461%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/200c06d5-5a7e-4ef0-b864-c854c946c36f,1795016363534/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7931%2C4461%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T10:18:25+00:00"
@@ -3741,9 +3781,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1795016785947/full/max/0/default.jpg?im=Crop%2Crect%3D%28268%2C0%2C8942%2C5029%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1794934254489/full/max/0/default.jpg?im=Crop%2Crect%3D%28154%2C0%2C8942%2C5029%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:36:48+00:00"
@@ -8254,49 +8294,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T10:06:05+00:00"
-  },
-  {
-   "id": "548ba9afe42a58d4",
-   "title": "Insiders on Doug Ford's Niagara Falls casino dream: 'Everyone knows it's a dumb idea'",
-   "summary": "While Ford insists 'the status quo is unacceptable' for Niagara casinos, sources close to the premier are concerned about his fixation on the plan.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/insiders-on-doug-ford-s-niagara-falls-casino-scheme-everyone-knows-it-s-a-dumb-idea/article_f2a3a9ee-2980-4bcb-b71b-a4c16afe1190.html",
-   "date": "2026-11-16T10:00:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 779,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/65/a65e1365-9d8e-5f89-911a-f963205a8878/6af5f1bf33d8d.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/65/a65e1365-9d8e-5f89-911a-f963205a8878/6af5f1bf33d8d.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T10:06:05+00:00"
-  },
-  {
-   "id": "000c850e55be43bb",
-   "title": "Affordability was a key issue for midterm voters. It helped make childcare one, too",
-   "summary": "Childcare costs have surged, putting a major financial burden on U.S. families. Advocates say the subject once on the fringes of political debate became a major issue during the midterms.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6034941/affordability-childcare-midterms",
-   "date": "2026-11-16T09:45:55+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections",
-    "housing"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 813,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5726x3880+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F54%2Ffc603ad34f11b43b0bba6c24727b%2Fgettyimages-2303336899.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5726x3880+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F54%2Ffc603ad34f11b43b0bba6c24727b%2Fgettyimages-2303336899.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T13:02:26+00:00"
   }
  ]
 }

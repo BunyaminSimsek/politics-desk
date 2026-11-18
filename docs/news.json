@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T01:00:08+00:00",
+ "generatedAt": "2026-11-18T01:09:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 13
+   "kept": 15
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "5df5cda1f6fb9d32",
+   "title": "Trump administration pulls nomination of Heidi Overton to lead Food and Drug Administration – US politics live",
+   "summary": "White House official says it appeared that Overton, a physician and abortion opponent, lacked the votes necessary for Senate confirmation",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-18T00:58:50+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/959d5fcd8e2a8580b1a2bf0b86946895bbf3daf4/335_0_4499_3601/master/4499.jpg?width=700&quality=85&auto=format&fit=max&s=1c84d8bb5448e61f00fe9c6d23e66400",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Mariam Zuhaib/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
+   "id": "dd5be05d4ceda3d2",
+   "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
+   "summary": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
+   "date": "2026-11-18T00:57:56+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/aljazeera-1-1794913170.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/aljazeera-1-1794913170.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T01:09:14+00:00"
+  },
+  {
    "id": "359045f8c4cf3dbd",
    "title": "One Nation says it would cut Australia’s refugee intake by 90% under ‘tough stance’",
    "summary": "Pauline Hanson opens new war of words on immigration as foreign minister Penny Wong accuses populist party of ‘dividing Australians’ Get our breaking news email , free app or daily news podcast One Nation has vowed to cut Australia’s refugee intake by 90% and…",
@@ -179,13 +219,33 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/16091bd9c923d35459b46f7f811208abd0842535/424_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=43bda1a81f5a7da867a566930d51ae22",
-    "w": 700,
+    "credit": "Photograph: Mick Tsikas/AAP",
     "h": 560,
-    "credit": "Photograph: Mick Tsikas/AAP"
+    "url": "https://i.guim.co.uk/img/media/16091bd9c923d35459b46f7f811208abd0842535/424_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=43bda1a81f5a7da867a566930d51ae22",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T01:00:08+00:00"
+  },
+  {
+   "id": "8b2a5b2705874a2a",
+   "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+   "summary": "Israel’s parliament has elected Matan Kahana as the new speaker with support from Arab parties.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
+   "date": "2026-11-18T00:47:02+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794962808.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794962808.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T01:09:14+00:00"
   },
   {
    "id": "3f35ad1a2f6c6357",
@@ -205,26 +265,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:50:30+00:00"
-  },
-  {
-   "id": "5df5cda1f6fb9d32",
-   "title": "Trump brushes off NSA internal network outage: ‘It’s like that when you’re big and powerful’ – live",
-   "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-18T00:33:40+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
    "id": "364cd98853c8658d",
@@ -396,7 +436,7 @@
   {
    "id": "afc93e30dc534d30",
    "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
-   "summary": "Kuwait intercepts 'hostile' drone attacks as Bahrain issues an 'all-clear' alert, saying danger has passed.",
+   "summary": "Kuwait intercepts 'hostile' drone attacks as Bahrain accuses Iran of 'criminal attacks'.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
    "date": "2026-11-18T00:00:27+00:00",
@@ -7601,7 +7641,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -8251,46 +8291,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T06:13:08+00:00"
-  },
-  {
-   "id": "a78e9444515d8af5",
-   "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-   "summary": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-   "date": "2026-11-15T05:05:02+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af933691f04-1794716521.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af933691f04-1794716521.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T05:18:04+00:00"
-  },
-  {
-   "id": "08a11325ce59e8fc",
-   "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
-   "summary": "Order by judge Ana Reyes is the latest instance of the federal judiciary pushing back against Trump’s efforts to redesign the nation’s capital A federal judge has ordered a temporary suspension of any work at a historic Washington public golf course, in the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
-   "date": "2026-11-15T04:52:34+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chip Somodevilla/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/52f9c92ccc5c888555d84f9e9f0d23bcefc8dc7f/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=db9657205ac9df3b41bb191c09a6628a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T04:59:41+00:00"
   }
  ]
 }

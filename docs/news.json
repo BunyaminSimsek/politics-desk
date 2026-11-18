@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T20:56:01+00:00",
+ "generatedAt": "2026-11-18T21:05:42+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -177,9 +177,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/036a8d1f-90cd-4df0-b08a-e9b33ffa9465,1795027492682/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C220%2C5500%2C3093%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/036a8d1f-90cd-4df0-b08a-e9b33ffa9465,1795027492682/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C220%2C5500%2C3093%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:56:01+00:00"
@@ -239,9 +239,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/e157cf3f-3822-455b-946f-9edbff7ea661,1795034956113/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C633%2C6260%2C3521%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/e157cf3f-3822-455b-946f-9edbff7ea661,1795034956113/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C633%2C6260%2C3521%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:46:14+00:00"
@@ -1905,14 +1905,16 @@
   },
   {
    "id": "cb72fac7b0a9df7e",
-   "title": "Chow to lay out vision for new term as Toronto council holds first meeting",
+   "title": "Chow points to Toronto’s ‘enormous fiscal challenge’ in first meeting of new council",
    "summary": "The election has also set the table for a shuffling of key committee roles, with the retirement of housing chair Gord Perks and the defeat of transit chair Jamaal Myers.",
    "source": "Global News",
    "url": "https://globalnews.ca/news/12155986/toronto-city-council-meeting-olivia-chow/",
    "date": "2026-11-18T12:49:14+00:00",
    "topic": "toronto",
    "region": "local",
-   "tags": [],
+   "tags": [
+    "economy"
+   ],
    "kind": "news",
    "image": {
     "h": 682,

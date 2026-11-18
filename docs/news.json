@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T12:37:49+00:00",
+ "generatedAt": "2026-11-18T12:47:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,108 @@
  ],
  "items": [
   {
+   "id": "ecd1fcdc34435c6a",
+   "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
+   "summary": "Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-18T12:45:58+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Chris McGrath/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T07:23:06+00:00"
+  },
+  {
+   "id": "6a33f337f6bec740",
+   "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+   "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T12:39:24+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:47:21+00:00"
+  },
+  {
+   "id": "92794bdb7e5223a3",
+   "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
+   "summary": "Leader of opposition accuses Labour of being party of welfare as he says the biggest rise in Neets came under the Tories In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T12:39:04+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Parliament Live",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=416b88bd10c66dd7f2169bc7c57fce6b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
+   "id": "178f94915ff3cf34",
+   "title": "Peltola’s Alaska win ‘a gift for all America,’ says Schumer – US politics live",
+   "summary": "Senate Democratic leader hails result which will give the party a commanding 56-44 seat majority Trump in China for Apec summit – follow live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "date": "2026-11-18T12:32:21+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Charly Triballeau/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/a6515916925b959ff16ca61b9965b12a7f3e61ff/516_0_2547_2038/master/2547.jpg?width=700&quality=85&auto=format&fit=max&s=ed1e3978c358b00cbdb77752e4f4661a",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:00:21+00:00"
+  },
+  {
+   "id": "d25265cb05e98911",
+   "title": "Mark Carney has surprise meeting with Donald Trump at APEC summit in China",
+   "summary": "Carney and Trump met on the sidelines of the summit Wednesday for about 20 minutes, a meeting that was not initially on the schedule.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/mark-carney-has-surprise-meeting-with-donald-trump-at-apec-summit-in-china/article_1add44b9-7acb-42ea-9d63-47d032bf61fc.html",
+   "date": "2026-11-18T12:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/78/a7837130-aac8-540c-87f5-1ae1312a9322/6afd952193918.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/78/a7837130-aac8-540c-87f5-1ae1312a9322/6afd952193918.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:47:21+00:00"
+  },
+  {
    "id": "c08de4835722644a",
    "title": "From frontlines to city hall: Newly elected advocates determined to fix Toronto's housing, homelessness crisis",
    "summary": "Toronto's newly elected city council includes well-known housing rights activists and advocates supporting the homeless population. They say they're bringing their lived experiences and expertise to the council table.",
@@ -179,16 +281,56 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/fb8aafdf-11c8-4002-9290-e40933e8baf9,1788916278558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C5699%2C3205%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/fb8aafdf-11c8-4002-9290-e40933e8baf9,1788916278558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C5699%2C3205%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:37:49+00:00"
   },
   {
+   "id": "e54ccd81a1434eb7",
+   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T12:27:52+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Iori Sagisawa/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T04:07:36+00:00"
+  },
+  {
+   "id": "bfb4cc22969362ea",
+   "title": "Rwanda and DRC: What is holding up the Washington peace process?",
+   "summary": "The two sides remain divided over key security commitments under the Washington Accords.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
+   "date": "2026-11-18T12:27:23+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/aljazeera-2-1794913408.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/aljazeera-2-1794913408.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:47:21+00:00"
+  },
+  {
    "id": "9e4e152e2f5a2168",
-   "title": "First Thing: Peltola’s Alaska victory secures 56th Democratic seat in Senate",
+   "title": "Peltola’s Alaska victory secures 56th Democratic seat in Senate | First Thing",
    "summary": "The ninth gain of the midterms in the upper chamber, it is the first time Alaska has elected a Democrat since 2008. Plus the impact the NAZA documentary is having inside Israel Good morning.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/18/first-thing-peltolas-alaska-victory-secures-56th-democratic-seat-in-senate",
@@ -198,33 +340,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/04a35388742a62db030fc59d805e35ab9abac401/149_0_1796_1437/master/1796.jpg?width=700&quality=85&auto=format&fit=max&s=6253e06db0d3e6fa6d1e9fe1ed0ccb2b",
-    "w": 700,
+    "credit": "Photograph: Kerry Tasker/Reuters",
     "h": 560,
-    "credit": "Photograph: Kerry Tasker/Reuters"
+    "url": "https://i.guim.co.uk/img/media/04a35388742a62db030fc59d805e35ab9abac401/149_0_1796_1437/master/1796.jpg?width=700&quality=85&auto=format&fit=max&s=6253e06db0d3e6fa6d1e9fe1ed0ccb2b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:37:49+00:00"
-  },
-  {
-   "id": "92794bdb7e5223a3",
-   "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
-   "summary": "Leader of opposition accuses Labour of being party of welfare as he says the biggest rise in Neets came under the Tories In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "date": "2026-11-18T12:22:23+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=416b88bd10c66dd7f2169bc7c57fce6b",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Parliament Live"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:14:11+00:00"
   },
   {
    "id": "ff6635a21e9a891a",
@@ -246,26 +368,6 @@
    "addedAt": "2026-11-18T12:28:16+00:00"
   },
   {
-   "id": "e54ccd81a1434eb7",
-   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T12:17:47+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Iori Sagisawa/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T04:07:36+00:00"
-  },
-  {
    "id": "cd4814f1f1b7893e",
    "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
    "summary": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.",
@@ -279,48 +381,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-18T12:28:16+00:00"
-  },
-  {
-   "id": "ecd1fcdc34435c6a",
-   "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
-   "summary": "Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-18T12:13:55+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chris McGrath/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T07:23:06+00:00"
-  },
-  {
-   "id": "178f94915ff3cf34",
-   "title": "Peltola’s Alaska win ‘a gift for all America,’ says Schumer – US politics live",
-   "summary": "Senate Democratic leader hails result which will give the party a commanding 56-44 seat majority Trump in China for Apec summit – follow live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T12:02:12+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Charly Triballeau/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a6515916925b959ff16ca61b9965b12a7f3e61ff/516_0_2547_2038/master/2547.jpg?width=700&quality=85&auto=format&fit=max&s=ed1e3978c358b00cbdb77752e4f4661a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "7b615282cad3ade6",
@@ -8234,68 +8294,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T04:56:12+00:00"
-  },
-  {
-   "id": "26ba3dc0cd286c33",
-   "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
-   "summary": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
-   "date": "2026-11-16T04:39:20+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Soveit Yarn/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2e7e78e8ef011abb9ba52ca72738b8f88e4616f9/14_0_3840_3072/master/3840.jpg?width=700&quality=85&auto=format&fit=max&s=a3fc2d2190c565a2c43b9c5e5dfca7b3",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T04:56:12+00:00"
-  },
-  {
-   "id": "f676ff9dd1c68052",
-   "title": "Queensland and NT to stick with puberty blocker bans for transgender children against NHMRC advice",
-   "summary": "Queensland health minister Tim Nicholls says position on treatment ban in public hospitals ‘remains unchanged’ despite new guidelines Get our breaking news email , free app or daily news podcast The federal health minister, Mark Butler, says he’s confident…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children",
-   "date": "2026-11-16T03:15:43+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jono Searle/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6ec844d50968e0b0f2cb907692aca2490db5c8ad/215_0_4063_3250/master/4063.jpg?width=700&quality=85&auto=format&fit=max&s=edc828e233bc84a9100761c2c9ea8c81",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T03:34:01+00:00"
-  },
-  {
-   "id": "1c5c7ee1c6b2da78",
-   "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
-   "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T03:09:49+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 673,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T03:15:41+00:00"
   }
  ]
 }

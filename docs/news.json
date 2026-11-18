@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T00:32:15+00:00",
+ "generatedAt": "2026-11-18T00:41:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "5df5cda1f6fb9d32",
+   "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
+   "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-18T00:33:40+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
+   "id": "364cd98853c8658d",
+   "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
+   "summary": "Head of Iran's IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
+   "date": "2026-11-18T00:33:36+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69ee33c984edb-1777218505.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69ee33c984edb-1777218505.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T00:41:20+00:00"
+  },
+  {
    "id": "b33391a7cfd063ac",
    "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
    "summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing…",
@@ -177,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/470133f77dd96a905faa69a723f46914cdfdc04a/94_0_2813_2250/master/2813.jpg?width=700&quality=85&auto=format&fit=max&s=bdb6e2381c46bb9c1409d99316e77351",
-    "w": 700,
+    "credit": "Photograph: Jane Rosenberg/Reuters",
     "h": 560,
-    "credit": "Photograph: Jane Rosenberg/Reuters"
+    "url": "https://i.guim.co.uk/img/media/470133f77dd96a905faa69a723f46914cdfdc04a/94_0_2813_2250/master/2813.jpg?width=700&quality=85&auto=format&fit=max&s=bdb6e2381c46bb9c1409d99316e77351",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:32:15+00:00"
@@ -197,10 +237,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-KATRINA-APEC-1794960953.png?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-KATRINA-APEC-1794960953.png?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-KATRINA-APEC-1794960953.png?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-KATRINA-APEC-1794960953.png?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:32:15+00:00"
@@ -226,26 +266,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T20:44:46+00:00"
-  },
-  {
-   "id": "5df5cda1f6fb9d32",
-   "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
-   "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-18T00:15:32+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
    "id": "a671fda907fbb26d",
@@ -282,10 +302,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/4c0e0bace2884a78c9689620fba6fdcc289cc848/0_161_4710_3767/master/4710.jpg?width=700&quality=85&auto=format&fit=max&s=a92b4558636cef6c661522859b462ec0",
-    "w": 700,
+    "credit": "Photograph: US Department of Justice/PA",
     "h": 560,
-    "credit": "Photograph: US Department of Justice/PA"
+    "url": "https://i.guim.co.uk/img/media/4c0e0bace2884a78c9689620fba6fdcc289cc848/0_161_4710_3767/master/4710.jpg?width=700&quality=85&auto=format&fit=max&s=a92b4558636cef6c661522859b462ec0",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:32:15+00:00"
@@ -724,7 +744,7 @@
   },
   {
    "id": "a523538470738cb6",
-   "title": "Federal government waives $4.5B of debt on COVID-19 benefits sent to ineligible recipients",
+   "title": "Federal government waives $4.5B debt from COVID-19 benefits sent to ineligible recipients",
    "summary": "The federal government is writing off billions of dollars' worth of outstanding debt related to COVID-19 benefits sent to individuals it later deemed ineligible.",
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/politics/cra-cerb-covid-benefit-writeoffs-debt-9.7425445?cmp=rss",
@@ -8270,26 +8290,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T04:14:02+00:00"
-  },
-  {
-   "id": "75769902a23d6ada",
-   "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
-   "summary": "Prime minister says he and Chris Bowen were having ‘light-hearted banter’ when they were caught discussing where they keep their phones Get our daily political email , free app or daily news podcast Anthony Albanese has apologised for a hot-mic gaffe at the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
-   "date": "2026-11-15T03:49:21+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lukas Coch/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4234ff2cadfb5b400fae76732ca4c673a2b713e6/639_0_6877_5501/master/6877.jpg?width=700&quality=85&auto=format&fit=max&s=c91af5ba67a35d9fe9e9e4d7b747cc79",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T04:04:56+00:00"
   }
  ]
 }

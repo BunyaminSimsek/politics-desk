@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T21:43:10+00:00",
+ "generatedAt": "2026-11-18T21:52:22+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "Global News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "BBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 28
+   "kept": 27
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 48
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -523,9 +523,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/96a552b2-5bfd-4809-a5de-1d7724f9a577,1795030632353/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C308%2C4717%2C2653%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/96a552b2-5bfd-4809-a5de-1d7724f9a577,1795030632353/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C308%2C4717%2C2653%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T19:50:03+00:00"

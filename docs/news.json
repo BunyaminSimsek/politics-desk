@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T02:34:14+00:00",
+ "generatedAt": "2026-11-18T02:43:28+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 16
+   "kept": 15
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "5df5cda1f6fb9d32",
+   "title": "White House pulls nomination of Heidi Overton to lead Food and Drug Administration – US politics live",
+   "summary": "Trump administration official says it appeared that Overton, a physician and abortion opponent, lacked the votes necessary for Senate confirmation",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-18T02:26:19+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Mariam Zuhaib/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/959d5fcd8e2a8580b1a2bf0b86946895bbf3daf4/335_0_4499_3601/master/4499.jpg?width=700&quality=85&auto=format&fit=max&s=1c84d8bb5448e61f00fe9c6d23e66400",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
    "id": "bdc16e5a8e45ec50",
    "title": "Part of new bill would prevent lawsuits against Ontario government over OSAP pause",
    "summary": "The Ontario government is taking steps to protect itself from lawsuits related to its provincewide pause on financial assistance payments to students at private post-secondary institutions.",
@@ -183,26 +203,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T02:15:02+00:00"
-  },
-  {
-   "id": "5df5cda1f6fb9d32",
-   "title": "White House pulls nomination of Heidi Overton to lead Food and Drug Administration – US politics live",
-   "summary": "Trump administration official says it appeared that Overton, a physician and abortion opponent, lacked the votes necessary for Senate confirmation",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-18T01:57:40+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mariam Zuhaib/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/959d5fcd8e2a8580b1a2bf0b86946895bbf3daf4/335_0_4499_3601/master/4499.jpg?width=700&quality=85&auto=format&fit=max&s=1c84d8bb5448e61f00fe9c6d23e66400",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
   },
   {
    "id": "6b7effc88f7c3c34",

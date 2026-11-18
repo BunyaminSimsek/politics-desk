@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T19:22:20+00:00",
+ "generatedAt": "2026-11-18T19:31:35+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "Global News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 27
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "51664ed2311ddc48",
+   "title": "EU to reject UK talks on longer-term ties pending clarity from Burnham on next steps",
+   "summary": "Diplomats says piecemeal approach of resets coming to an end and they want government decision on whether it will seek to reverse Brexit The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
+   "date": "2026-11-18T19:17:19+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f7ad60a116dae04179547396d95174f6a9e9f4d8/1000_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=1f3d7e8c929d8c84fdd8195decb1c42c",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Stéphanie Lecocq/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T19:31:35+00:00"
+  },
   {
    "id": "178f94915ff3cf34",
    "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
@@ -8269,28 +8289,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:35:07+00:00"
-  },
-  {
-   "id": "62be9210c10e1bcb",
-   "title": "Cop31 as it happened: draft climate deal calls for faster shift away from fossil fuels",
-   "summary": "‘Cancer of indifference’ to climate crisis is pushing the world closer to the brink, says Mia Mottley as UN talks enter second week Chris Bowen, Australia’s climate minister and president of the negotiations, has opened a press conference by saying it “is a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-16T15:27:54+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Murad Sezer/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/764096349924a217692acd2f13488727c9cba566/792_0_6641_5312/master/6641.jpg?width=700&quality=85&auto=format&fit=max&s=3aa42636a87e4870ef21087f788c059f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T07:32:36+00:00"
   }
  ]
 }

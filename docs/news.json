@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T21:15:02+00:00",
+ "generatedAt": "2026-11-18T21:24:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP177298244.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP177298244.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP177298244.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP177298244.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T21:15:02+00:00"
@@ -199,13 +199,32 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afdfab10599-1795029681.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afdfab10599-1795029681.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afdfab10599-1795029681.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afdfab10599-1795029681.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T21:15:02+00:00"
+  },
+  {
+   "id": "94880275c6f9880b",
+   "title": "Who will win the battle over Trump’s ‘Trash Island’? | About That",
+   "summary": "A U.S. federal judge blocked the closure of Washington's East Potomac golf course, just hours before President Donald Trump promised to shut it down for a massive renovation.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/player/play/9.7426981?cmp=rss",
+   "date": "2026-11-18T20:58:31+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/505e4b9b-dc7b-42c8-9da1-b24005e8d714,1795035459099/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T21:24:17+00:00"
   },
   {
    "id": "178f94915ff3cf34",
@@ -8276,28 +8295,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:29:24+00:00"
-  },
-  {
-   "id": "78c0025210e9b4bb",
-   "title": "Several companies are using Trump tariff refunds for corporate bonuses",
-   "summary": "Some firms are directing refunds to corporate leadership instead of reimbursing consumers, ProPublica finds Several companies that received refunds for paying Donald Trump ’s tariffs have put those funds towards corporate bonuses instead of reimbursing…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/16/companies-trump-tariff-refunds-corporate-bonuses",
-   "date": "2026-11-16T17:52:13+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Michael M Santiago/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/976a600cf5e5d4314c2ee38b26b60463569d5dbc/665_0_4653_3722/master/4653.jpg?width=700&quality=85&auto=format&fit=max&s=14b85154dad5c4bb0508d9e14633135a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T19:15:26+00:00"
   }
  ]
 }

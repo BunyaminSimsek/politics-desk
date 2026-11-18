@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T06:28:18+00:00",
+ "generatedAt": "2026-11-18T06:37:27+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,32 @@
  ],
  "items": [
   {
+   "id": "0314dd6b89fbffa7",
+   "title": "How the Houthis fund war effort and tighten grip on Yemen",
+   "summary": "The Houthis’ expanding war economy fuels military recruitment while poverty deepens and public services deteriorate.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
+   "date": "2026-11-18T06:19:17+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afc9077dd1d-1794936951.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afc9077dd1d-1794936951.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T06:37:27+00:00"
+  },
+  {
    "id": "e54ccd81a1434eb7",
    "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
    "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T05:56:26+00:00",
+   "date": "2026-11-18T06:13:44+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -8272,26 +8292,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T13:05:02+00:00"
-  },
-  {
-   "id": "f3486dbf09edcc74",
-   "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
-   "summary": "Tehran says its air attacks on countries cooperating with the US are justified under international law.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
-   "date": "2026-11-15T12:36:19+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-06-10T064710Z_1848366708_RC2UQLAHVGZK_RTRMADP_3_IRAN-CRISIS-MISSILE-1794739589.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-06-10T064710Z_1848366708_RC2UQLAHVGZK_RTRMADP_3_IRAN-CRISIS-MISSILE-1794739589.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T12:46:44+00:00"
   }
  ]
 }

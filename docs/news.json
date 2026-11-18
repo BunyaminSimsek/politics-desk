@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T14:39:21+00:00",
+ "generatedAt": "2026-11-18T14:48:56+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "92794bdb7e5223a3",
+   "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
+   "summary": "Leader of opposition accuses Labour of being party of welfare as he says the biggest rise in Neets came under the Tories In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T14:39:10+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Parliament Live",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=416b88bd10c66dd7f2169bc7c57fce6b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
   {
    "id": "2d6e0dc8ee36eff3",
    "title": "Canada weighs Chinese investment as US tariffs threaten its auto industry",
@@ -223,33 +243,53 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/94f3968d43eb5f8f2df2562497da3e35e1acedfd/394_0_3607_2887/master/3607.jpg?width=700&quality=85&auto=format&fit=max&s=d3bab3daafd12f71f3b5fcd46a2f37a5",
-    "w": 700,
+    "credit": "Photograph: J Scott Applewhite/AP",
     "h": 560,
-    "credit": "Photograph: J Scott Applewhite/AP"
+    "url": "https://i.guim.co.uk/img/media/94f3968d43eb5f8f2df2562497da3e35e1acedfd/394_0_3607_2887/master/3607.jpg?width=700&quality=85&auto=format&fit=max&s=d3bab3daafd12f71f3b5fcd46a2f37a5",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
-   "id": "92794bdb7e5223a3",
-   "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
-   "summary": "Leader of opposition accuses Labour of being party of welfare as he says the biggest rise in Neets came under the Tories In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for…",
+   "id": "e54ccd81a1434eb7",
+   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "date": "2026-11-18T14:17:58+00:00",
-   "topic": "europe",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T14:28:18+00:00",
+   "topic": "ukraine",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Parliament Live",
+    "credit": "Photograph: Iori Sagisawa/Reuters",
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=416b88bd10c66dd7f2169bc7c57fce6b",
+    "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-18T09:14:11+00:00"
+   "addedAt": "2026-11-18T04:07:36+00:00"
+  },
+  {
+   "id": "8884d95056be6c39",
+   "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
+   "summary": "Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back idea Europe live – latest updates The EU executive has proposed a €45bn (£37.5bn) loan for Ukraine to help with a looming cash crisis and…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+   "date": "2026-11-18T14:27:22+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/da7fa4cbbdc420d8de514a27bdb1e07b474f48b9/88_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=c88e63f71d53e9ee3be8136d4ca594d0",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Oleksandr Gimanov/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T14:48:56+00:00"
   },
   {
    "id": "716595acce2f6763",
@@ -273,8 +313,8 @@
   },
   {
    "id": "3aaf5d92c0730172",
-   "title": "Labour faces double North Sea blow over fossil fuel projects",
-   "summary": "Big North Sea operator EnQuest says it is quitting oil basin while SSE threatens to close Yorkshire gas storage site Business live – latest updates The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their…",
+   "title": "Labour faces double blow over UK fossil fuel projects",
+   "summary": "Big North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site Business live – latest updates The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
    "date": "2026-11-18T14:12:23+00:00",
@@ -370,26 +410,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T13:43:06+00:00"
-  },
-  {
-   "id": "e54ccd81a1434eb7",
-   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T14:02:36+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Iori Sagisawa/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T04:07:36+00:00"
   },
   {
    "id": "33ec29b36981d62b",
@@ -571,9 +591,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/fb8aafdf-11c8-4002-9290-e40933e8baf9,1788916278558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C5699%2C3205%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/fb8aafdf-11c8-4002-9290-e40933e8baf9,1788916278558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C5699%2C3205%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:37:49+00:00"
@@ -1225,7 +1245,7 @@
   {
    "id": "19404597ef748560",
    "title": "Carney meets with Trump at APEC, says Canada's trade with China isn't U.S. president's top concern",
-   "summary": "Prime Minister Mark Carney met with U.S. President Donald Trump on the margins of the Asia-Pacific Economic Co-operation Economic summit in Shenzhen, China, on Wednesday. Carney says Canada's growing trade relations with China are not a top priority for U.S.",
+   "summary": "Prime Minister Mark Carney met with U.S. President Donald Trump on the margins of the Asia-Pacific Economic Cooperation Economic summit in Shenzhen, China, on Wednesday. Carney says Canada's growing trade relations with China are not a top priority for U.S.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/carney-china-trade-9.7426126?cmp=rss",
    "date": "2026-11-18T09:54:30+00:00",
@@ -8269,25 +8289,6 @@
     "caption": "",
     "credit": "",
     "url": "https://i.cbc.ca/ais/465f21e7-aca9-4015-b6a0-0b190c66d0e9,1794614331867/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1634%2C919%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T09:10:22+00:00"
-  },
-  {
-   "id": "a1daf166e2f456e2",
-   "title": "Provincial bill could pave the way for more trash incineration to make energy",
-   "summary": "A sweeping bill from the Ford government could pave the way for Ontario to burn more garbage to create energy and address its growing landfill crunch, but critics warn incineration hurts air quality and discourages waste diversion.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/ontario-burning-garbage-incinerators-9.7421081?cmp=rss",
-   "date": "2026-11-16T09:00:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/f7e7f332-c3c1-4226-a779-642367e5b4dd,1794596834249/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:10:22+00:00"

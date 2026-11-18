@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T22:58:08+00:00",
+ "generatedAt": "2026-11-18T23:07:48+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "c593b9242bddd3e2",
+   "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+   "summary": "The US Treasury has accused Hezbollah of using charitable organisations as 'fronts' for fundraising.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+   "date": "2026-11-18T22:56:19+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afe29a7-1795041703.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afe29a7-1795041703.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T23:07:48+00:00"
+  },
+  {
    "id": "178f94915ff3cf34",
    "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
    "summary": "US transportation secretary Sean Duffy blames contractor L3Harris for national ground stoppage and says ‘this was not identified quick enough’",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/c68dddfa25517e4a836d6347550de143282f7f6c/434_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=79a2cb3c555ed61dc1667b2790d1399e",
-    "w": 700,
+    "credit": "Photograph: Jacquelyn Martin/AP",
     "h": 560,
-    "credit": "Photograph: Jacquelyn Martin/AP"
+    "url": "https://i.guim.co.uk/img/media/c68dddfa25517e4a836d6347550de143282f7f6c/434_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=79a2cb3c555ed61dc1667b2790d1399e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:00:21+00:00"
@@ -398,9 +418,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/036a8d1f-90cd-4df0-b08a-e9b33ffa9465,1795027492682/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C220%2C5500%2C3093%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/036a8d1f-90cd-4df0-b08a-e9b33ffa9465,1795027492682/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C220%2C5500%2C3093%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:56:01+00:00"
@@ -460,9 +480,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/e157cf3f-3822-455b-946f-9edbff7ea661,1795034956113/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C633%2C6260%2C3521%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/e157cf3f-3822-455b-946f-9edbff7ea661,1795034956113/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C633%2C6260%2C3521%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:46:14+00:00"
@@ -8274,26 +8294,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T17:01:10+00:00"
-  },
-  {
-   "id": "c94c46c55ad0cd46",
-   "title": "Woman accusing David Walliams of grooming her backs staggered age of consent call",
-   "summary": "Comments come after Mia Latter, who alleged she was raped by Russell Brand, had said she wanted a change in law A woman who has accused David Walliams of grooming her has said she supports a staggered age of consent.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/16/woman-accusing-david-walliams-grooming-backs-staggered-age-of-consent-call",
-   "date": "2026-11-16T18:30:20+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Vianney Le Caer/Invision/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e78dc61a399ccaafc309ae88184215293ae61417/511_61_2396_1917/master/2396.jpg?width=700&quality=85&auto=format&fit=max&s=5db38548c9c34ea124b49b3fd53fb89a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T19:15:26+00:00"
   }
  ]
 }

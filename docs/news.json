@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T09:41:34+00:00",
+ "generatedAt": "2026-11-18T09:50:42+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -168,10 +168,10 @@
   {
    "id": "ecd1fcdc34435c6a",
    "title": "Cop31 live: clock running down on climate talks as deep divisions remain",
-   "summary": "Few signs of progress since draft deal exposed disagreements over what countries are willing to do stop the planet heating A push by the automotive lobby in the UK to weaken electric car sales rules could jeopardise the country’s climate targets, my…",
+   "summary": "Few signs of progress since draft deal exposed disagreements over what countries are willing to do stop the planet heating This morning, activists from Climate Action Network staged a protest at the Cop31 venue demands polluters pay up, and fill the loss and…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-18T09:26:39+00:00",
+   "date": "2026-11-18T09:45:21+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -188,6 +188,46 @@
    "addedAt": "2026-11-18T07:23:06+00:00"
   },
   {
+   "id": "e54ccd81a1434eb7",
+   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
+   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T09:39:05+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/49986989a15aedf0b1ef64a91c15da5f6cdb5d9c/291_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=87b38a1367f1119d7a70d5e88f8112a4",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Win McNamee/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T04:07:36+00:00"
+  },
+  {
+   "id": "92794bdb7e5223a3",
+   "title": "Shabana Mahmood pledges to tackle ‘corrosive and growing perception of two-tier policing’ – UK politics live",
+   "summary": "Home secretary to give speech to National Police Chiefs’ Council addressing concerns that officers treats groups differently Energy bills across Great Britain are predicted to reach £2,166 a year for the typical household from January as the impact of the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T09:34:59+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Wiktor Szymanowicz/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/33254d2eac8860504ca73a4dff0ae32ca97afd18/218_0_2181_1745/master/2181.jpg?width=700&quality=85&auto=format&fit=max&s=0fe2a2d430cb4992a1d4001b54ec2a3b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
    "id": "5b173bcf7f47daa9",
    "title": "Photos: Thousands march in Haiti in support of Salvadoran troops",
    "summary": "Haitians take to the streets to praise El Salvador’s Nayib Bukele and his soldiers for fighting gangs in their country.",
@@ -201,10 +241,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7TC6KG__v2__HighRes__HaitiElSalvadorUnrestCrime-1794990359.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7TC6KG__v2__HighRes__HaitiElSalvadorUnrestCrime-1794990359.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7TC6KG__v2__HighRes__HaitiElSalvadorUnrestCrime-1794990359.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7TC6KG__v2__HighRes__HaitiElSalvadorUnrestCrime-1794990359.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T09:41:34+00:00"
@@ -221,33 +261,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T023852Z_1703278223_RC2QKOAN59B3_RTRMADP_3_CRICKET-SANDPAPERGATE-1794289434.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T023852Z_1703278223_RC2QKOAN59B3_RTRMADP_3_CRICKET-SANDPAPERGATE-1794289434.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T023852Z_1703278223_RC2QKOAN59B3_RTRMADP_3_CRICKET-SANDPAPERGATE-1794289434.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T023852Z_1703278223_RC2QKOAN59B3_RTRMADP_3_CRICKET-SANDPAPERGATE-1794289434.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T09:41:34+00:00"
-  },
-  {
-   "id": "e54ccd81a1434eb7",
-   "title": "Apec summit live: Xi and Putin start talks as Trump arrives in China",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T09:12:01+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Sergei Bobylev/Pool Sputnik Kremlin/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0011d23e2098b25ad493ea535b2c96ddaa8ef28f/579_0_4411_3529/master/4411.jpg?width=700&quality=85&auto=format&fit=max&s=09b98ce0efad58f7e3a327df81118061",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T04:07:36+00:00"
   },
   {
    "id": "4db63cd937ae4e0c",
@@ -268,28 +288,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T09:32:24+00:00"
-  },
-  {
-   "id": "92794bdb7e5223a3",
-   "title": "Shabana Mahmood pledges to tackle ‘corrosive and growing perception of two-tier policing’ – UK politics live",
-   "summary": "Home secretary to give speech to National Police Chiefs’ Council addressing concerns that officers treats groups differently Good morning. Shabana Mahmood has done two of the most difficult jobs in the government.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "date": "2026-11-18T09:04:03+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Wiktor Szymanowicz/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/33254d2eac8860504ca73a4dff0ae32ca97afd18/218_0_2181_1745/master/2181.jpg?width=700&quality=85&auto=format&fit=max&s=0fe2a2d430cb4992a1d4001b54ec2a3b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:14:11+00:00"
   },
   {
    "id": "33067fb664145e31",

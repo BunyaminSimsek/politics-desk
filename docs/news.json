@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T05:04:25+00:00",
+ "generatedAt": "2026-11-18T05:13:43+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 13
+   "kept": 12
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 26
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,24 +166,24 @@
  ],
  "items": [
   {
-   "id": "253d55efc9877a4b",
-   "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
-   "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
-   "date": "2026-11-18T05:00:32+00:00",
-   "topic": "europe",
+   "id": "cc762e9566c979e7",
+   "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
+   "summary": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T05:11:42+00:00",
+   "topic": "africa",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/876babd774d84ecb98a5ee0e9eba98b14d862c89/1434_394_2316_1853/master/2316.jpg?width=700&quality=85&auto=format&fit=max&s=664a35f0fd15df22b560bf08afe6a27b",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Stavros Ioannides/PIO/AFP/Getty Images"
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7de4/live/f39e1920-e1b9-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7de4/live/f39e1920-e1b9-11f1-a094-5fdc692f3e33.jpg"
    },
    "breaking": false,
-   "addedAt": "2026-11-18T05:04:25+00:00"
+   "addedAt": "2026-11-18T05:13:43+00:00"
   },
   {
    "id": "e54ccd81a1434eb7",
@@ -191,7 +191,7 @@
    "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec?",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T04:46:35+00:00",
+   "date": "2026-11-18T05:01:23+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -204,6 +204,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T04:07:36+00:00"
+  },
+  {
+   "id": "253d55efc9877a4b",
+   "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+   "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+   "date": "2026-11-18T05:00:32+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Stavros Ioannides/PIO/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/876babd774d84ecb98a5ee0e9eba98b14d862c89/1434_394_2316_1853/master/2316.jpg?width=700&quality=85&auto=format&fit=max&s=664a35f0fd15df22b560bf08afe6a27b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T05:04:25+00:00"
   },
   {
    "id": "ef7ef8516cc1cef9",
@@ -538,8 +558,8 @@
   },
   {
    "id": "359045f8c4cf3dbd",
-   "title": "One Nation says it would cut Australia’s refugee intake by 90% under ‘tough stance’",
-   "summary": "Pauline Hanson opens new war of words on immigration as Penny Wong accuses populist party of ‘dividing Australians’ Get our daily political email , free app or daily news podcast One Nation has vowed to cut Australia’s refugee intake by 90% and scrap the…",
+   "title": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
+   "summary": "Amid widespread condemnation of the proposal, Pauline Hanson also wants to scrap existing parent and aged parent visa program Get our daily political email , free app or daily news podcast One Nation has vowed to cut Australia’s refugee intake by 90% and…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
    "date": "2026-11-18T00:53:51+00:00",
@@ -767,7 +787,7 @@
   {
    "id": "afc93e30dc534d30",
    "title": "Iran war live: Bahrain, Kuwait intercept attacks, Manama blames Iran",
-   "summary": "Bahrain slams 'criminal' Iranian attacks as Tehran claims it struck US base in Kuwait.",
+   "summary": "Bahrain slams 'criminal' Iranian attacks as Tehran says it targeted a US base in Kuwait.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
    "date": "2026-11-18T00:00:27+00:00",
@@ -7948,7 +7968,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -8272,26 +8292,6 @@
     "credit": "Photograph: Bloomberg/Getty Images",
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/965398d86ac792d2522a2a4d356cb2d6b2d3f207/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=7c3a2ec95500982d12cb096400f5a8a8",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T12:10:06+00:00"
-  },
-  {
-   "id": "13c7df27485986d9",
-   "title": "Trump administration planning to reimburse doctors treating vaccine ‘injury’",
-   "summary": "Experts warn that sweeping changes elevate health secretary RFK Jr’s anti-vaccine agenda and personal profit The Trump administration is finalizing a rule to reimburse doctors who diagnose, treat and counsel patients with side effects from vaccines in what…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
-   "date": "2026-11-15T12:00:15+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jim Watson/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c0c7f0aaf91798e69f80201767197e8e4968f58b/801_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=be08bbc0e3d3d8c87b14c8857ddcb436",
     "w": 700
    },
    "breaking": false,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T22:21:10+00:00",
+ "generatedAt": "2026-11-18T22:30:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T21:53:51+00:00",
+   "date": "2026-11-18T22:11:06+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -184,6 +184,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:00:21+00:00"
+  },
+  {
+   "id": "b215a7e04e32b914",
+   "title": "Quebec environmental group takes province to court over delayed climate target",
+   "summary": "QUÉBEC - A Quebec environmental law group and eight citizens are taking the provincial government to court, challenging its decision to delay a greenhouse gas emissions reduction target by five years.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/quebec/quebec-environmental-group-takes-province-to-court-over-delayed-climate-target/article_c5548ca6-6eb5-5903-a68a-632aab795e34.html",
+   "date": "2026-11-18T22:08:53+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/42/0429ba41-98f5-5c95-8d56-3b43d1791b03/6afe223d3568b.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 738,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/42/0429ba41-98f5-5c95-8d56-3b43d1791b03/6afe223d3568b.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T22:30:23+00:00"
   },
   {
    "id": "42a1b96d2410b3ed",
@@ -8271,26 +8293,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T14:08:33+00:00"
-  },
-  {
-   "id": "17b2c938e13389a0",
-   "title": "Ontario’s medical regulator pauses safer supply drug changes after legal challenge",
-   "summary": "Ontario’s medical regulator is hitting pause on implementing a host of changes to the ways doctors prescribe safer supply drugs after it was served with a legal challenge.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12153093/ontarios-medical-regulator-pauses-safer-supply-drug-changes-after-legal-challenge/",
-   "date": "2026-11-16T18:13:38+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/66476746c3baca639c8f3412479134fe259a6a5a3e12f409d25d062fe411a3b5.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/66476746c3baca639c8f3412479134fe259a6a5a3e12f409d25d062fe411a3b5.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T19:15:26+00:00"
   }
  ]
 }

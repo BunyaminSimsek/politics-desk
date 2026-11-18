@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T00:41:20+00:00",
+ "generatedAt": "2026-11-18T00:50:30+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "CTV News",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "3f35ad1a2f6c6357",
+   "title": "'Bring it on,' Mississauga mayor says as real estate firms appeal city's data centre ban",
+   "summary": "Mississauga's new mayor says he's prepared to fight against U.S-based Prologis and Montcrest Asset Management, two companies that are challenging the city's decision to block a data centre project at the Ontario Land Tribunal.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/bring-it-on-mississauga-mayor-says-as-real-estate-firms-appeal-city-s-data-centre-ban-9.7425350?cmp=rss",
+   "date": "2026-11-18T00:43:38+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/82c7d7d4-4d61-4828-a40f-c3c5947d6ace,1794958686571/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T00:50:30+00:00"
+  },
+  {
    "id": "5df5cda1f6fb9d32",
    "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
    "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
@@ -197,10 +216,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69ee33c984edb-1777218505.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69ee33c984edb-1777218505.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69ee33c984edb-1777218505.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69ee33c984edb-1777218505.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:41:20+00:00"
@@ -417,6 +436,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:03:09+00:00"
+  },
+  {
+   "id": "df47a7a6e975896c",
+   "title": "Ontario Premier Doug Ford touts stronger ties with Quebec in Montreal speech",
+   "summary": "The premier used the appearance to highlight the combined economic strength of Ontario and Quebec, describing the two provinces as Canada's economic drivers.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12155086/ontario-doug-ford-quebec-montreal-speech/",
+   "date": "2026-11-17T23:45:26+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/17b5c7b2b2928a8343972cfa986d69ad4e462d7526741e7ea33e4f7178b8e18f.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 729,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/17b5c7b2b2928a8343972cfa986d69ad4e462d7526741e7ea33e4f7178b8e18f.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T00:50:30+00:00"
   },
   {
    "id": "1dc02b7067d63fc0",
@@ -8250,46 +8289,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T04:59:41+00:00"
-  },
-  {
-   "id": "375d28637ad7a479",
-   "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
-   "summary": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-   "date": "2026-11-15T04:28:45+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2666+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Ff7%2F9117b9b745219e9aa5214fb267c0%2Fap26318721671488.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2666+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Ff7%2F9117b9b745219e9aa5214fb267c0%2Fap26318721671488.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T04:41:27+00:00"
-  },
-  {
-   "id": "e6ff120e40a3dd9f",
-   "title": "World leaders head to Asia for back-to-back diplomatic summits",
-   "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings World leaders will fly in to Asia for back-to-back high-level summits this week against the backdrop of the tussle for influence between…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
-   "date": "2026-11-15T04:00:02+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: VCG/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ef4d680eeeb4b13e743836eee5388c60a984dd7c/0_0_5840_4672/master/5840.jpg?width=700&quality=85&auto=format&fit=max&s=44bd2e4738665e4a58a0cb84830c607a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T04:14:02+00:00"
   }
  ]
 }

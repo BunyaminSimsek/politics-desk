@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T14:20:04+00:00",
+ "generatedAt": "2026-11-18T14:29:42+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 32
+   "kept": 31
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "ecd1fcdc34435c6a",
+   "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
+   "summary": "Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-18T14:20:24+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Chris McGrath/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T07:23:06+00:00"
+  },
+  {
+   "id": "92794bdb7e5223a3",
+   "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
+   "summary": "Leader of opposition accuses Labour of being party of welfare as he says the biggest rise in Neets came under the Tories In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T14:17:58+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Parliament Live",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=416b88bd10c66dd7f2169bc7c57fce6b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
    "id": "178f94915ff3cf34",
    "title": "Mary Peltola’s Alaska win ‘a gift for all America’, says Schumer – US politics live",
    "summary": "Senate Democratic leader hails result which will give the party a commanding 56-44 seat majority Trump in China for Apec summit – follow live",
@@ -199,13 +241,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afda0fe31cb-1795006718.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afda0fe31cb-1795006718.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afda0fe31cb-1795006718.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afda0fe31cb-1795006718.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T14:20:04+00:00"
+  },
+  {
+   "id": "3aaf5d92c0730172",
+   "title": "Labour faces double North Sea blow over fossil fuel projects",
+   "summary": "Big North Sea operator EnQuest says it is quitting oil basin while SSE threatens to close Yorkshire gas storage site Business live – latest updates The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
+   "date": "2026-11-18T14:12:23+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: EnQuest/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/43807761436da658bfa0aa4756a6c6866170ca90/585_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=64d8ce169ecca496c73e8de08172e496",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T10:46:35+00:00"
   },
   {
    "id": "f3eaddaad9dbfcdf",
@@ -219,10 +281,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795011056.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795011056.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795011056.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795011056.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T14:20:04+00:00"
@@ -239,10 +301,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2025/02/AP25006293008822-1-1738612545.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2025/02/AP25006293008822-1-1738612545.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2025/02/AP25006293008822-1-1738612545.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2025/02/AP25006293008822-1-1738612545.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T14:20:04+00:00"
@@ -259,10 +321,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/cd9c93f4d2bc857399f8b29d244fd59b9a4d5a26/295_0_2953_2363/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=12f76d926d3ef910564ad91590de0f92",
-    "w": 700,
+    "credit": "Photograph: Stephen Kill/Alamy",
     "h": 560,
-    "credit": "Photograph: Stephen Kill/Alamy"
+    "url": "https://i.guim.co.uk/img/media/cd9c93f4d2bc857399f8b29d244fd59b9a4d5a26/295_0_2953_2363/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=12f76d926d3ef910564ad91590de0f92",
+    "w": 700
    },
    "breaking": true,
    "addedAt": "2026-11-18T14:20:04+00:00"
@@ -279,10 +341,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3b267577fe18325ce20cce7e2fbe3114054210c2/0_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=1e59a94e9ed6014afe3d6dec5f181ed3",
-    "w": 700,
+    "credit": "Photograph: Ammar Awad/Reuters",
     "h": 560,
-    "credit": "Photograph: Ammar Awad/Reuters"
+    "url": "https://i.guim.co.uk/img/media/3b267577fe18325ce20cce7e2fbe3114054210c2/0_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=1e59a94e9ed6014afe3d6dec5f181ed3",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T13:43:06+00:00"
@@ -319,35 +381,13 @@
    "tags": [],
    "kind": "analysis",
    "image": {
+    "credit": "Photograph: Greg Wood/AFP/Getty Images",
+    "h": 560,
     "url": "https://i.guim.co.uk/img/media/227dcc4be932d831c026650a4f387a0123b9c5be/581_0_2919_2335/master/2919.jpg?width=700&quality=85&auto=format&fit=max&s=e680854083fddb1a5f3938053d6c4343",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Greg Wood/AFP/Getty Images"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T14:20:04+00:00"
-  },
-  {
-   "id": "ecd1fcdc34435c6a",
-   "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
-   "summary": "Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-18T13:55:09+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chris McGrath/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-18T07:23:06+00:00"
+   "addedAt": "2026-11-18T14:20:04+00:00"
   },
   {
    "id": "7f0ebec0fc8ab15d",
@@ -370,26 +410,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T13:43:06+00:00"
-  },
-  {
-   "id": "92794bdb7e5223a3",
-   "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
-   "summary": "Leader of opposition accuses Labour of being party of welfare as he says the biggest rise in Neets came under the Tories In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "date": "2026-11-18T13:42:50+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Parliament Live",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=416b88bd10c66dd7f2169bc7c57fce6b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:14:11+00:00"
   },
   {
    "id": "d25265cb05e98911",
@@ -588,9 +608,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/e37efedf-7622-4f87-aee4-5b47ff442602,1795011731488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C2700%2C1518%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/5efbf693-00a0-45b0-921c-c074f9a56fb8,1794999891540/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C39%2C3989%2C2243%29%3B"
+    "caption": ""
    },
    "breaking": true,
    "addedAt": "2026-11-18T12:28:16+00:00"
@@ -959,26 +979,6 @@
    "addedAt": "2026-11-18T10:37:15+00:00"
   },
   {
-   "id": "3aaf5d92c0730172",
-   "title": "EnQuest and SSE plan to pull investment from UK fossil fuel projects",
-   "summary": "Big North Sea operator says it is quitting oil basin while SSE threatens to close Yorkshire gas storage site Business live – latest updates The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their investment from…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
-   "date": "2026-11-18T10:29:22+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/43807761436da658bfa0aa4756a6c6866170ca90/585_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=64d8ce169ecca496c73e8de08172e496",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: EnQuest/PA"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T10:46:35+00:00"
-  },
-  {
    "id": "fa692d8fdce0fab1",
    "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
    "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
@@ -1019,6 +1019,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T07:13:59+00:00"
+  },
+  {
+   "id": "0d43459e74cb3b5c",
+   "title": "Former Spain midfielder Mata retires aged 38",
+   "summary": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T10:12:46+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7628/live/c13178a0-e336-11f1-9479-d17d3e98c29d.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7628/live/c13178a0-e336-11f1-9479-d17d3e98c29d.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T14:29:42+00:00"
   },
   {
    "id": "8ddb226ee5fa5e36",
@@ -1192,9 +1212,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/dc76ffe4-cc05-4569-821a-125fc349d4bf,1794984513619/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C25%2C594%2C334%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/dc76ffe4-cc05-4569-821a-125fc349d4bf,1794984513619/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C25%2C594%2C334%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T10:18:25+00:00"
@@ -1567,6 +1587,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T07:50:33+00:00"
+  },
+  {
+   "id": "01e6b1fe95953a54",
+   "title": "From one of Ajax's future stars to quitting football for music",
+   "summary": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T07:02:42+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T14:29:42+00:00"
   },
   {
    "id": "0314dd6b89fbffa7",
@@ -8251,47 +8291,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T09:10:22+00:00"
-  },
-  {
-   "id": "91931edc59c478bc",
-   "title": "Canada presented itself as a global leader in methane reductions at COP31. But is Alberta holding it back?",
-   "summary": "Canada took centre stage at COP31 last week to showcase its track record on cutting methane emissions.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/climate/canada-alberta-methane-emissions-cop31-9.7419482?cmp=rss",
-   "date": "2026-11-16T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/92020be7-ff28-4a60-a2ff-f916f9efd506,1794510641139/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C94%2C5911%2C3324%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T09:19:52+00:00"
-  },
-  {
-   "id": "f22745931a571306",
-   "title": "Ahmad Tibi elected deputy speaker of Israel’s Knesset",
-   "summary": "Leader of alliance representing Palestinian citizens of Israel says election is 'rightful achievement' for Joint List.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
-   "date": "2026-11-16T08:45:07+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2298157854-1794819376.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2298157854-1794819376.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T10:51:51+00:00"
   }
  ]
 }

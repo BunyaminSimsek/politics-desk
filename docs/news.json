@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T04:54:47+00:00",
+ "generatedAt": "2026-11-18T05:04:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -149,7 +149,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/africa/rss",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Conversation",
@@ -166,13 +166,33 @@
  ],
  "items": [
   {
+   "id": "253d55efc9877a4b",
+   "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+   "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a landmark pact with the authoritarian…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+   "date": "2026-11-18T05:00:32+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/876babd774d84ecb98a5ee0e9eba98b14d862c89/1434_394_2316_1853/master/2316.jpg?width=700&quality=85&auto=format&fit=max&s=664a35f0fd15df22b560bf08afe6a27b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Stavros Ioannides/PIO/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T05:04:25+00:00"
+  },
+  {
    "id": "e54ccd81a1434eb7",
-   "title": "Apec summit live: Xi and Putin give opening speeches as world leaders gather in China",
+   "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
    "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec?",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T04:36:59+00:00",
-   "topic": "asia",
+   "date": "2026-11-18T04:46:35+00:00",
+   "topic": "us",
    "region": "world",
    "tags": [],
    "kind": "news",
@@ -570,9 +590,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/82c7d7d4-4d61-4828-a40f-c3c5947d6ace,1794958686571/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/82c7d7d4-4d61-4828-a40f-c3c5947d6ace,1794958686571/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:50:30+00:00"
@@ -8276,26 +8296,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:10:06+00:00"
-  },
-  {
-   "id": "fe5d1f46e92f759c",
-   "title": "Obama portrait artist draws Burnham for Big Issue cover to highlight rough sleeping vow",
-   "summary": "Exclusive: Shepard Fairey says image will hold PM accountable over promise to get people off the streets The “Hope” portrait of Barack Obama by the US street artist Shepard Fairey came to symbolise a historic 2008 presidential campaign, became one of the most…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/15/obama-portrait-artist-draws-burnham-big-issue-rough-sleeping-vow-shepard-fairey",
-   "date": "2026-11-15T12:00:15+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Shepard Fairey/Big Issue",
-    "h": 559,
-    "url": "https://i.guim.co.uk/img/media/208466e37890210b61c6218af791b07a065ebe46/0_20_1240_991/master/1240.jpg?width=700&quality=85&auto=format&fit=max&s=271f7499ea393ad7d679689aa26e0a37",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T12:28:25+00:00"
   }
  ]
 }

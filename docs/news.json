@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T18:26:14+00:00",
+ "generatedAt": "2026-11-18T18:35:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 14
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 28
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,110 @@
  ],
  "items": [
   {
+   "id": "33db60a875c2691b",
+   "title": "Talks with Meta ‘confidential’ following reports of possible deal, Miller says",
+   "summary": "Culture Minister Marc Miller says he won’t talk about any discussions the government has had with Meta about restoring news content to the company's platforms in Canada.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12156527/meta-talks-confidential/",
+   "date": "2026-11-18T18:29:03+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Miller-2-e1795026467594.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Miller-2-e1795026467594.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T18:35:37+00:00"
+  },
+  {
+   "id": "b822906e6de8ab6f",
+   "title": "The Leave campaign has been resurrected, so how does Burnham respond?",
+   "summary": "No 10 is confident the PM can make the case for closer EU ties, while others worry about leaving the campaign solely in his hands The launch of a pro-Brexit campaign was one of the few genuine surprises this week in Westminster, even if the arguments were…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
+   "date": "2026-11-18T18:23:25+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Andy Rain/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e7e77af1ae8f833009340ea6ee0c97de81ec17f2/0_0_4903_3922/master/4903.jpg?width=700&quality=85&auto=format&fit=max&s=decf75d8af5745eddff7ad1edd41b530",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T17:48:14+00:00"
+  },
+  {
+   "id": "ccd6ba57f213edd2",
+   "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
+   "summary": "An Israeli court extended the detention of Abu Safia nearly two years after Israel's army detained him.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+   "date": "2026-11-18T18:22:26+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a4aaec89d929-1783279304-1-1788435078.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a4aaec89d929-1783279304-1-1788435078.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T18:35:37+00:00"
+  },
+  {
+   "id": "251bcc5da014a43c",
+   "title": "Ex-Tory defectors barred from shaping Reform UK’s immigration policy, says Yusuf",
+   "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at the top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding a…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
+   "date": "2026-11-18T18:22:03+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/297daa4e63256807e9b1bfbba9295164f2d00efe/408_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=4f26bbca027faa6ab4d6c792b3d1d37b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Isabel Infantes/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T18:35:37+00:00"
+  },
+  {
+   "id": "c4915d5429f3bbeb",
+   "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+   "summary": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+   "date": "2026-11-18T18:18:16+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5877x3918+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Ff0%2Fc9512a594ebf8571a9747c9fbf91%2Fap25197732967711.jpg",
+    "w": 1200,
+    "h": 800,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5877x3918+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Ff0%2Fc9512a594ebf8571a9747c9fbf91%2Fap25197732967711.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T18:35:37+00:00"
+  },
+  {
    "id": "638791968d3ea097",
    "title": "Can progressives push Hakeem Jeffries to the left? | Norman Solomon",
    "summary": "The likely next House speaker has a record of defending corporate interests.",
@@ -177,13 +281,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9a919517241dc26e051ef41bc4f473db8289e685/1000_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=079fde11e97038168899db2ee396ac06",
-    "w": 700,
+    "credit": "Photograph: J Scott Applewhite/AP",
     "h": 560,
-    "credit": "Photograph: J Scott Applewhite/AP"
+    "url": "https://i.guim.co.uk/img/media/9a919517241dc26e051ef41bc4f473db8289e685/1000_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=079fde11e97038168899db2ee396ac06",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:26:14+00:00"
+  },
+  {
+   "id": "a607527b516f4d39",
+   "title": "Israeli forces launch new military operation in central Gaza",
+   "summary": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
+   "date": "2026-11-18T18:12:42+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795025520.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795025520.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T18:35:37+00:00"
   },
   {
    "id": "178f94915ff3cf34",
@@ -204,6 +330,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:00:21+00:00"
+  },
+  {
+   "id": "f41d7fd30b3fc4ae",
+   "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
+   "summary": "Trump told Philippine President Marcos he knew his parents 'very well'.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
+   "date": "2026-11-18T18:09:57+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250517__473B2TK__v1__HighRes__PhilippinesVote-1795017928.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250517__473B2TK__v1__HighRes__PhilippinesVote-1795017928.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T18:35:37+00:00"
   },
   {
    "id": "f1738c839d7d6767",
@@ -257,18 +403,18 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-17.45.41-1795024064.png?resize=1200%2C800",
-    "w": 1199,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-17.45.41-1795024064.png?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-17.45.41-1795024064.png?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-17.45.41-1795024064.png?resize=1200%2C800",
+    "w": 1199
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:26:14+00:00"
   },
   {
    "id": "e54ccd81a1434eb7",
-   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
+   "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+   "summary": "This blog is now closed, you can read more on this story here Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
    "date": "2026-11-18T17:48:24+00:00",
@@ -364,28 +510,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:07:03+00:00"
-  },
-  {
-   "id": "b822906e6de8ab6f",
-   "title": "New pro-Brexit campaign took Westminster by surprise, but it is relying on the same old playbook",
-   "summary": "No 10 is confident Burnham can make the case for closer EU ties, with polling showing support from 71% of voters The launch of a pro-Brexit campaign was one of the few genuine surprises this week in Westminster, even if the arguments were the most familiar…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
-   "date": "2026-11-18T17:27:12+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e7e77af1ae8f833009340ea6ee0c97de81ec17f2/0_0_4903_3922/master/4903.jpg?width=700&quality=85&auto=format&fit=max&s=decf75d8af5745eddff7ad1edd41b530",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T17:48:14+00:00"
   },
   {
    "id": "f21f255fd91ab703",
@@ -805,7 +929,7 @@
   {
    "id": "3aaf5d92c0730172",
    "title": "Labour faces double blow over UK fossil fuel projects",
-   "summary": "Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their investment from large fossil fuel…",
+   "summary": "Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site Nils Pratley: with more gas storage at risk. What’s the government plan for secure supplies?",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
    "date": "2026-11-18T16:19:41+00:00",
@@ -8171,130 +8295,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T15:14:30+00:00"
-  },
-  {
-   "id": "1b1c2b79a2a82c36",
-   "title": "Mamdani disbands NYPD unit accused of using excessive force",
-   "summary": "Mayor axes strategic response group that cracked down on protesters and announces new community safety division Zohran Mamdani, New York City’s mayor, announced Monday that he was disbanding a city police unit that has faced criticism over the years from…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani",
-   "date": "2026-11-16T14:57:26+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Julius Constantine Motal/The Guardian",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/273f35e243f22b1c02cb8c86f61c99bd5a80cf15/644_681_2479_1983/master/2479.jpg?width=700&quality=85&auto=format&fit=max&s=15a53db4c95c840bcf6927a9d8e69cef",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T15:23:51+00:00"
-  },
-  {
-   "id": "b5a71cc8da8f4148",
-   "title": "Infantino made things worse at FIFA than Blatter, says Jurgen Klopp",
-   "summary": "The Germany coach believes anyone who replaces the FIFA president should care deeply about the future of football.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
-   "date": "2026-11-16T14:36:23+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afad8caca-1794824394.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afad8caca-1794824394.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T14:46:06+00:00"
-  },
-  {
-   "id": "3a1007cf823fab4f",
-   "title": "Passing bill to speed up gas projects and datacenters would be ‘serious mistake’, Al Gore says",
-   "summary": "Former US vice-president at Cop31 urges lawmakers to rethink contentious bipartisan Baaja bill advanced by the US Senate It would be a “serious mistake” to pass a contentious bipartisan bill to speed up energy projects and datacenters that has divided…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/16/al-gore-baaja-cop-31-climate",
-   "date": "2026-11-16T14:34:17+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Eduardo Barraza/ZUMA Press Wire/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d881ae7ec90fe3df31e297b22c8ff5c5d63280cc/758_0_5693_4553/master/5693.jpg?width=700&quality=85&auto=format&fit=max&s=fb94f0ce3cc1fa18fd199f4ffd6f8f71",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T14:36:56+00:00"
-  },
-  {
-   "id": "2c96eaf38cc42044",
-   "title": "Democrat writes off Trump’s attempt to blame party for flight grounding as ‘absurd’",
-   "summary": "Dan Koh, an incoming House representative and ex-Biden staffer, blasts Trump for blaming previous administration Donald Trump ’s efforts to blame Friday’s four-hour nationwide flight stoppage – and the resulting travel chaos – on Democrats are “absurd”, an…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-flight-grounding-democrats-blame",
-   "date": "2026-11-16T14:24:21+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lindsey Wasson/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a07501dfe2a673b19817618af4cb5f90fb6e5076/629_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=393315e00ba2f9aaa1981112bc4c9d06",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T14:36:56+00:00"
-  },
-  {
-   "id": "72ba40acde8d0cb8",
-   "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-   "summary": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T14:22:36+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "immigration",
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/775e/live/126ac8e0-e1be-11f1-a339-49d4d3ed4c86.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/775e/live/126ac8e0-e1be-11f1-a339-49d4d3ed4c86.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T14:36:56+00:00"
-  },
-  {
-   "id": "7cdf637596563951",
-   "title": "Milton, Ont., to replace Canada's longest-serving mayor",
-   "summary": "The town of Milton is set to swear in a new mayor for the first time since 1980. George Minakakis and eight regional and town councillors will take their oaths of office at the council's inaugural meeting Monday night.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/milton-first-new-mayor-46-years-9.7423333?cmp=rss",
-   "date": "2026-11-16T14:12:12+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/dfb36435-07e6-45c6-8ad2-0a9a13fdba11,1794836910720/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5472%2C3078%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T14:17:37+00:00"
   }
  ]
 }

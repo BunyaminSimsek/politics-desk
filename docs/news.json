@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T21:52:22+00:00",
+ "generatedAt": "2026-11-18T22:02:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "CBC World",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -165,6 +165,62 @@
   }
  ],
  "items": [
+  {
+   "id": "178f94915ff3cf34",
+   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "date": "2026-11-18T21:53:51+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:00:21+00:00"
+  },
+  {
+   "id": "42a1b96d2410b3ed",
+   "title": "Mayor Chow points to city's fiscal challenges in 1st meeting of new Toronto council",
+   "summary": "Olivia Chow laid out her vision for a second term as Toronto's mayor Wednesday afternoon, underlining her campaign promises to tackle affordability issues while also pointing to the city's fiscal challenges.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/ont-toronto-council-9.7427153?cmp=rss",
+   "date": "2026-11-18T21:53:08+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/d3a4a392-a241-4875-ae99-ae28e5c8cc86,1794074273457/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T22:02:04+00:00"
+  },
+  {
+   "id": "e1a6cb5eb08583f4",
+   "title": "Democratic strategists think Montana House race could hold the secret to future wins",
+   "summary": "Montana is sending a Democrat to the U.S. House for the first time in three decades. Many in the party think Sam Forstag's campaign may be a playbook for how Democrats can win again in rural America.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6032798-e1/democratic-strategists-think-montana-house-race-could-hold-the-secret-to-future-wins",
+   "date": "2026-11-18T21:53:07+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-18T22:02:04+00:00"
+  },
   {
    "id": "21b857b319461766",
    "title": "Ford puts onus on Ottawa ahead of Stellantis Brampton plant talks",
@@ -225,26 +281,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T21:24:17+00:00"
-  },
-  {
-   "id": "178f94915ff3cf34",
-   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T20:57:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "ff2153902f759245",
@@ -523,9 +559,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/96a552b2-5bfd-4809-a5de-1d7724f9a577,1795030632353/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C308%2C4717%2C2653%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/96a552b2-5bfd-4809-a5de-1d7724f9a577,1795030632353/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C308%2C4717%2C2653%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T19:50:03+00:00"
@@ -921,7 +957,7 @@
   {
    "id": "e13ea879abbb1799",
    "title": "New program for children’s social, health services transfers responsibility to Inuit",
-   "summary": "OTTAWA - A new program co-developed by Indigenous Services Canada and Inuit Tapiriit Kanatami is set to replace the Inuit Child First Initiative next year.",
+   "summary": "OTTAWA - A new program to ensure Inuit children have access to critical health, education and social supports will be managed by the four Inuit treaty organizations -- and they'll have more control over how those services are delivered.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/new-program-for-children-s-social-health-services-transfers-responsibility-to-inuit/article_64208797-8f44-5a9c-824d-574001201468.html",
    "date": "2026-11-18T17:45:54+00:00",
@@ -8255,46 +8291,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
-  },
-  {
-   "id": "f582bf0dc53f6ed3",
-   "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
-   "summary": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, campaigners fear the window to act is closing.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-   "date": "2026-11-16T18:04:50+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2Fdc%2Fbe428cfe43728dcf909ce499cadf%2Fgettyimages-2273123489.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T19:15:26+00:00"
-  },
-  {
-   "id": "797d00ec636ba3b4",
-   "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – as it happened",
-   "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-   "date": "2026-11-16T18:02:54+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Toby Shepheard/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=700&quality=85&auto=format&fit=max&s=4332c7412e9cc4c7c4aef3a94d966559",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T09:29:24+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T14:29:42+00:00",
+ "generatedAt": "2026-11-18T14:39:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,12 +166,34 @@
  ],
  "items": [
   {
+   "id": "2d6e0dc8ee36eff3",
+   "title": "Canada weighs Chinese investment as US tariffs threaten its auto industry",
+   "summary": "Prime Minister Carney downplayed US concerns on Wednesday, saying its ties are not a \"top issue\" for President Trump as Canada eyes trade with Chinese carmakers.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T14:35:18+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:01:11+00:00"
+  },
+  {
    "id": "ecd1fcdc34435c6a",
    "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
    "summary": "Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-18T14:20:24+00:00",
+   "date": "2026-11-18T14:33:27+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -186,6 +208,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T07:23:06+00:00"
+  },
+  {
+   "id": "178f94915ff3cf34",
+   "title": "House Democrats begin leadership elections, with Hakeem Jeffries poised to clinch Speaker nomination – live",
+   "summary": "If elected, Jeffries would become the first Black person to hold the gavel in US history Trump in China for Apec summit – follow live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "date": "2026-11-18T14:29:01+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/94f3968d43eb5f8f2df2562497da3e35e1acedfd/394_0_3607_2887/master/3607.jpg?width=700&quality=85&auto=format&fit=max&s=d3bab3daafd12f71f3b5fcd46a2f37a5",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: J Scott Applewhite/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "92794bdb7e5223a3",
@@ -206,28 +250,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T09:14:11+00:00"
-  },
-  {
-   "id": "178f94915ff3cf34",
-   "title": "Mary Peltola’s Alaska win ‘a gift for all America’, says Schumer – US politics live",
-   "summary": "Senate Democratic leader hails result which will give the party a commanding 56-44 seat majority Trump in China for Apec summit – follow live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T14:14:15+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Charly Triballeau/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a6515916925b959ff16ca61b9965b12a7f3e61ff/516_0_2547_2038/master/2547.jpg?width=700&quality=85&auto=format&fit=max&s=ed1e3978c358b00cbdb77752e4f4661a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "716595acce2f6763",
@@ -549,9 +571,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/fb8aafdf-11c8-4002-9290-e40933e8baf9,1788916278558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C5699%2C3205%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/fb8aafdf-11c8-4002-9290-e40933e8baf9,1788916278558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C5699%2C3205%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:37:49+00:00"
@@ -608,9 +630,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/e37efedf-7622-4f87-aee4-5b47ff442602,1795011731488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C2700%2C1518%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/e37efedf-7622-4f87-aee4-5b47ff442602,1795011731488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C2700%2C1518%29%3B"
    },
    "breaking": true,
    "addedAt": "2026-11-18T12:28:16+00:00"
@@ -1032,10 +1054,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7628/live/c13178a0-e336-11f1-9479-d17d3e98c29d.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7628/live/c13178a0-e336-11f1-9479-d17d3e98c29d.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7628/live/c13178a0-e336-11f1-9479-d17d3e98c29d.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7628/live/c13178a0-e336-11f1-9479-d17d3e98c29d.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T14:29:42+00:00"
@@ -1600,10 +1622,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T14:29:42+00:00"
@@ -3255,28 +3277,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:10:25+00:00"
-  },
-  {
-   "id": "2d6e0dc8ee36eff3",
-   "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-   "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T18:58:57+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T19:01:11+00:00"
   },
   {
    "id": "ee3c63eaa00a4e5b",

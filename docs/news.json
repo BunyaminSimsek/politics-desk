@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T03:58:29+00:00",
+ "generatedAt": "2026-11-18T04:07:36+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "Global News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 26
+   "kept": 27
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,47 @@
   }
  ],
  "items": [
+  {
+   "id": "37a47fc35bcbe267",
+   "title": "Mary Peltola wins U.S. Senate seat in Alaska for Democrats",
+   "summary": "Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, overcoming allegations that members of her campaign helped recruit a candidate who shares the incumbent's name and completing a political comeback in a state U.S.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095?cmp=rss",
+   "date": "2026-11-18T03:56:54+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/9ce6302e-a4bc-4f2e-a174-47300a3fc68e,1794972452161/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C26%2C6592%2C3708%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": true,
+   "addedAt": "2026-11-18T04:07:36+00:00"
+  },
+  {
+   "id": "e54ccd81a1434eb7",
+   "title": "Apec summit live: Xi and Putin speak as world leaders gather in China",
+   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T03:46:24+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3fa9638225a04c28825b9ee191695af2",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: China Pool/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T04:07:36+00:00"
+  },
   {
    "id": "cf857a101766ccf2",
    "title": "Australia’s ‘problematic’ surrogacy laws could be transformed under proposed changes",
@@ -7847,7 +7888,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -8255,46 +8296,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:19:21+00:00"
-  },
-  {
-   "id": "30503268397897db",
-   "title": "Reform UK losing support to Labour after ‘difficult year’, says Danny Kruger",
-   "summary": "MP says party is being squeezed by arrival of ‘more plausible’ Labour leader in Andy Burnham Reform UK has been losing support to Labour after “a very difficult year”, Danny Kruger has said, just over 12 months after his defection to Nigel Farage’s party.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/15/reform-uk-losing-support-to-labour-after-difficult-year-says-danny-kruger",
-   "date": "2026-11-15T11:53:01+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Zeynep Demir/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/69519d357913a1109b72cce7c6bab8d6e86cd732/164_166_2096_1676/master/2096.jpg?width=700&quality=85&auto=format&fit=max&s=10662cba18ee75d09986da753cc08c05",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T12:10:06+00:00"
-  },
-  {
-   "id": "66a391e1da6f1601",
-   "title": "Freshwater supply challenges threaten Canada's security, internal federal memo says",
-   "summary": "OTTAWA - Pressures on the supply of fresh water pose challenges that will affect Canada's \"long-term security and prosperity\" if left unaddressed, an internal government memo warns.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/freshwater-supply-challenges-threaten-canada-s-security-internal-federal-memo-says/article_c88faf80-54c8-5530-b895-955633471ee8.html",
-   "date": "2026-11-15T11:00:09+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/2d/b2dc80c0-3bec-5a46-bfab-42cab952c3cd/6af991e0aac2d.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/2d/b2dc80c0-3bec-5a46-bfab-42cab952c3cd/6af991e0aac2d.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T11:15:16+00:00"
   }
  ]
 }

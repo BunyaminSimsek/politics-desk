@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T01:09:14+00:00",
+ "generatedAt": "2026-11-18T01:18:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "Global News",
@@ -166,6 +166,27 @@
  ],
  "items": [
   {
+   "id": "d3eb6d57cd6d15ea",
+   "title": "Appeals court blocks Pentagon from forcing transgender troops out of the U.S. army",
+   "summary": "A U.S. federal appeals court on Tuesday blocked the Pentagon from forcing more than two dozen transgender troops out of the military, several months after it found that President Donald Trump's administration unlawfully imposed the ban.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/transgender-us-army-troops-appeal-9.7425966?cmp=rss",
+   "date": "2026-11-18T01:10:08+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/dfb60bd1-5d77-4d04-b561-674bf3267b83,1794962544668/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C281%2C5400%2C3037%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T01:18:23+00:00"
+  },
+  {
    "id": "5df5cda1f6fb9d32",
    "title": "Trump administration pulls nomination of Heidi Overton to lead Food and Drug Administration – US politics live",
    "summary": "White House official says it appeared that Overton, a physician and abortion opponent, lacked the votes necessary for Senate confirmation",
@@ -177,10 +198,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/959d5fcd8e2a8580b1a2bf0b86946895bbf3daf4/335_0_4499_3601/master/4499.jpg?width=700&quality=85&auto=format&fit=max&s=1c84d8bb5448e61f00fe9c6d23e66400",
-    "w": 700,
+    "credit": "Photograph: Mariam Zuhaib/AP",
     "h": 560,
-    "credit": "Photograph: Mariam Zuhaib/AP"
+    "url": "https://i.guim.co.uk/img/media/959d5fcd8e2a8580b1a2bf0b86946895bbf3daf4/335_0_4499_3601/master/4499.jpg?width=700&quality=85&auto=format&fit=max&s=1c84d8bb5448e61f00fe9c6d23e66400",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:51:38+00:00"
@@ -197,10 +218,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/aljazeera-1-1794913170.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/aljazeera-1-1794913170.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/aljazeera-1-1794913170.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/aljazeera-1-1794913170.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T01:09:14+00:00"
@@ -239,10 +260,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794962808.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794962808.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794962808.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794962808.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T01:09:14+00:00"
@@ -371,8 +392,8 @@
   },
   {
    "id": "7918c93d47fcae66",
-   "title": "Man accused of destroying US military plane at Shannon airport in Ireland",
-   "summary": "Daithi O’Corrain, 48, is charged with destruction of US government property, after allegedly cutting hydraulic lines An axe-wielding man breached a security perimeter and destroyed an American military plane while it was parked at an Irish airport, US…",
+   "title": "Man armed with axe accused of destroying US military plane at Shannon airport in Ireland",
+   "summary": "Daithi O’Corrain charged with destruction of US government property, after allegedly smashing gauges and cutting hydraulic lines An axe-wielding man breached a security perimeter and destroyed an American military plane while it was parked at an Irish…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/18/man-accused-of-destroying-us-military-plane-at-shannon-airport-in-ireland",
    "date": "2026-11-18T00:06:15+00:00",
@@ -8271,26 +8292,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T06:31:42+00:00"
-  },
-  {
-   "id": "600d195ed7b733f7",
-   "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-   "summary": "International court of justice has never before found a state guilty of genocide, and ruling will have implications for case against Israel The world’s top court will deliver a judgment this week on whether Myanmar committed genocide against its Rohingya…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
-   "date": "2026-11-15T06:00:05+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c5d561832d1bf74db164791e4e9b6d4e167dfae9/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=37e1de4d1567457a7b64fe8fe6bea589",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T06:13:08+00:00"
   }
  ]
 }

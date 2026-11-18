@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T08:27:48+00:00",
+ "generatedAt": "2026-11-18T08:36:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "ef7ef8516cc1cef9",
+   "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?",
+   "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T08:33:21+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8eff/live/0fbc83f0-e11d-11f1-93e1-3b657b665bcf.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8eff/live/0fbc83f0-e11d-11f1-93e1-3b657b665bcf.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T09:41:54+00:00"
+  },
+  {
    "id": "ecd1fcdc34435c6a",
    "title": "Cop31 live: clock running down on climate talks as deep divisions remain",
    "summary": "Few signs of progress since draft deal exposed disagreements over what countries are willing to do stop the planet heating Debate continues on the global electrification pledge – a key priority set by the COP31 presidency of Turkey to transition to 35%…",
@@ -201,10 +223,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afd4e1427-1794985492.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afd4e1427-1794985492.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afd4e1427-1794985492.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afd4e1427-1794985492.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T08:27:48+00:00"
@@ -412,28 +434,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T05:04:25+00:00"
-  },
-  {
-   "id": "ef7ef8516cc1cef9",
-   "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?",
-   "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T04:34:39+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8eff/live/0fbc83f0-e11d-11f1-93e1-3b657b665bcf.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8eff/live/0fbc83f0-e11d-11f1-93e1-3b657b665bcf.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T09:41:54+00:00"
   },
   {
    "id": "ca0698dc066287a1",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T16:22:56+00:00",
+ "generatedAt": "2026-11-18T16:32:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "CTV News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,87 @@
  ],
  "items": [
   {
+   "id": "f38679cd7546964e",
+   "title": "Ontario to increase fines against drivers who create excessive noise",
+   "summary": "Transportation Minister Prabmeet Sarkaria says the province will soon table legislation to increase fines for drivers who are revving their engines or installing illegal mufflers.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12156246/ontario-to-increase-fines-against-drivers-who-create-excessive-noise/",
+   "date": "2026-11-18T16:29:54+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/46c9781e28b25dd7065ed3c1d85df58c9855654ed703e4c322ee44ddd194df3e.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/46c9781e28b25dd7065ed3c1d85df58c9855654ed703e4c322ee44ddd194df3e.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T16:32:12+00:00"
+  },
+  {
+   "id": "a346a69b954af666",
+   "title": "'If the U.S. doesn't want to do a deal, we're busy,' Carney says of a possible trade agreement",
+   "summary": "Prime Minister Mark Carney said Wednesday that Canada is willing to sign a mutually beneficial deal with the Americans, but if U.S.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/carney-trump-trade-canada-busy-9.7426568?cmp=rss",
+   "date": "2026-11-18T16:27:38+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/d3d8b8ba-30ba-4f9c-b8ce-2ec4c051bf4f,1795018366172/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3821%2C2149%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T16:32:12+00:00"
+  },
+  {
+   "id": "3aaf5d92c0730172",
+   "title": "Labour faces double blow over UK fossil fuel projects",
+   "summary": "Big North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their investment from a large fossil fuel…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
+   "date": "2026-11-18T16:19:41+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: EnQuest/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/43807761436da658bfa0aa4756a6c6866170ca90/585_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=64d8ce169ecca496c73e8de08172e496",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T10:46:35+00:00"
+  },
+  {
+   "id": "584d6f8fa91f982a",
+   "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
+   "summary": "Carney accuses Putin of ‘lying’ after the Russian leader dismissed Western sanctions as a ‘thing of the past’.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
+   "date": "2026-11-18T16:16:48+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/thunmb-1795018934.png?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/thunmb-1795018934.png?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T16:32:12+00:00"
+  },
+  {
    "id": "178f94915ff3cf34",
    "title": "Democrats nominate Hakeem Jeffries to become first Black House speaker – US politics live",
    "summary": "Jeffries was nominated with 251 yes votes and 11 no votes in closed-door process Democrats nominate Hakeem Jeffries as first Black House speaker Trump in China for Apec summit – follow live",
@@ -186,6 +267,28 @@
    "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
+   "id": "92794bdb7e5223a3",
+   "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – UK politics live",
+   "summary": "PM and leader of the opposition clashed at PMQs over welfare In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T16:11:04+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Parliament Live",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=416b88bd10c66dd7f2169bc7c57fce6b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
    "id": "6a33f337f6bec740",
    "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
    "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
@@ -204,28 +307,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:47:21+00:00"
-  },
-  {
-   "id": "92794bdb7e5223a3",
-   "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – UK politics live",
-   "summary": "PM and leader of the opposition clashed at PMQs over welfare In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "date": "2026-11-18T16:07:46+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Parliament Live",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=416b88bd10c66dd7f2169bc7c57fce6b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:14:11+00:00"
   },
   {
    "id": "531745f357f9547c",
@@ -410,7 +491,7 @@
   },
   {
    "id": "c35ea5dcbea50196",
-   "title": "Hakeem Jeffries becomes first Black nominee for US House speaker",
+   "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
    "summary": "The New York congressman was nominated after Democrats gained control of Congress in the midterm elections.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
@@ -484,10 +565,10 @@
    ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Tolga Akmen/EPA",
+    "url": "https://i.guim.co.uk/img/media/0895db8135c9db7822dc944c5428df981a256fe5/0_864_5563_4451/master/5563.jpg?width=700&quality=85&auto=format&fit=max&s=9cb765c5b3197bcd34fb432b52c633d2",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fd4a53ec54287465ec01b8e8411248e3f7adad8d/0_0_3760_3008/master/3760.jpg?width=700&quality=85&auto=format&fit=max&s=38d745daa80831f25c0a22917e1dbab4",
-    "w": 700
+    "credit": "Photograph: John Thys/AFP/Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-18T08:55:19+00:00"
@@ -673,26 +754,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T14:20:04+00:00"
-  },
-  {
-   "id": "3aaf5d92c0730172",
-   "title": "Labour faces double blow over UK fossil fuel projects",
-   "summary": "Big North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site Business live – latest updates The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
-   "date": "2026-11-18T14:12:23+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: EnQuest/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/43807761436da658bfa0aa4756a6c6866170ca90/585_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=64d8ce169ecca496c73e8de08172e496",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T10:46:35+00:00"
   },
   {
    "id": "f3eaddaad9dbfcdf",
@@ -973,9 +1034,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/e37efedf-7622-4f87-aee4-5b47ff442602,1795011731488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C2700%2C1518%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/e37efedf-7622-4f87-aee4-5b47ff442602,1795011731488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C2700%2C1518%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:28:16+00:00"
@@ -1158,7 +1219,7 @@
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795001843.jpg?quality=80&resize=1200%2C800",
     "w": 1200
    },
-   "breaking": true,
+   "breaking": false,
    "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
@@ -3084,10 +3145,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/49205240a8e75adf2f7dfcec0b4ab2d68d8e1b2d/117_24_1519_1215/master/1519.jpg?width=700&quality=85&auto=format&fit=max&s=fa774a3aef492931e886ddcdc889fbdc",
-    "w": 700,
+    "credit": "Photograph: Guajajara Community/Survival International/Reuters",
     "h": 560,
-    "credit": "Photograph: Guajajara Community/Survival International/Reuters"
+    "url": "https://i.guim.co.uk/img/media/49205240a8e75adf2f7dfcec0b4ab2d68d8e1b2d/117_24_1519_1215/master/1519.jpg?width=700&quality=85&auto=format&fit=max&s=fa774a3aef492931e886ddcdc889fbdc",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:41:23+00:00"
@@ -8220,69 +8281,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/a079ab0a449ab532375e30c24aa3a9afc3fa2d2d/131_0_1307_1045/master/1307.jpg?width=700&quality=85&auto=format&fit=max&s=7acb58a1608a126f7a340fb388cac10a",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:10:17+00:00"
-  },
-  {
-   "id": "099f95c2002ab804",
-   "title": "The Democratic party is at a critical crossroad. Can it do the right thing? | Osita Nwanevu",
-   "summary": "Americans are at a real point of decision – not election day, but this heady, uncertain moment after Until 2026, the most important midterm year of the last quarter-century was very probably 2010.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/16/democratic-party-critical-crossroad",
-   "date": "2026-11-16T11:00:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections",
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Nathan Posner/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ad243d2aae70514b1ec054b9cb5805a34ab1e4e0/420_0_4181_3347/master/4181.jpg?width=700&quality=85&auto=format&fit=max&s=2fea51d8fcb817713b67894e82e1db09",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:29:03+00:00"
-  },
-  {
-   "id": "d686c1c7ce7ac2d6",
-   "title": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
-   "summary": "Upload came as the Israeli military was increasing its reliance on Amazon’s cloud platform to meet the technological demands of its bombardment of Gaza The Israeli military uploaded 3.5m photos to Amazon’s cloud platform in order to use the US company’s…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
-   "date": "2026-11-16T11:00:56+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Illustration: Guardian Design",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/bc01b369b562e3e2bf256cd5482bab9f368d5175/1_0_2999_2400/master/2999.jpg?width=700&quality=85&auto=format&fit=max&s=27730105fa134de0e0a5b3912f39ec79",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:10:17+00:00"
-  },
-  {
-   "id": "599efef9dc0910db",
-   "title": "Mississauga’s data centre moratorium facing challenge from American company",
-   "summary": "An American-based logistics company is looking to overturn the municipality's one-year moratorium on artificial intelligence data centres.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12150219/mississaugas-data-centre-moratorium-facing-challenge-american-company/",
-   "date": "2026-11-16T11:00:56+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/09/CP173342377.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/09/CP173342377.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:10:17+00:00"

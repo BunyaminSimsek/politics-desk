@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T16:32:12+00:00",
+ "generatedAt": "2026-11-18T16:42:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 30
+   "kept": 31
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "f563f9ad21e7dbe5",
+   "title": "Senators castigate Apple and Google for letting teens access ‘nudify’ apps despite parental controls",
+   "summary": "Exclusive: three Senate Democrats sent letters to tech CEOs saying safeguards against nudification apps are insufficient on their platforms A trio of US Senators say Apple and Google are failing to effectively detect and remove apps that can be used to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/18/senate-democrats-nudify-apps-apple-google",
+   "date": "2026-11-18T16:39:25+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e2ed5d5a662380c8bc35eddb7768f22cbfcb9b8e/0_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=f4147d9c2ab64158456223cb212145b5",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Andrew Harnik/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T16:42:25+00:00"
+  },
+  {
    "id": "f38679cd7546964e",
    "title": "Ontario to increase fines against drivers who create excessive noise",
    "summary": "Transportation Minister Prabmeet Sarkaria says the province will soon table legislation to increase fines for drivers who are revving their engines or installing illegal mufflers.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/46c9781e28b25dd7065ed3c1d85df58c9855654ed703e4c322ee44ddd194df3e.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/46c9781e28b25dd7065ed3c1d85df58c9855654ed703e4c322ee44ddd194df3e.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/46c9781e28b25dd7065ed3c1d85df58c9855654ed703e4c322ee44ddd194df3e.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/46c9781e28b25dd7065ed3c1d85df58c9855654ed703e4c322ee44ddd194df3e.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:32:12+00:00"
@@ -199,17 +219,37 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d3d8b8ba-30ba-4f9c-b8ce-2ec4c051bf4f,1795018366172/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3821%2C2149%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d3d8b8ba-30ba-4f9c-b8ce-2ec4c051bf4f,1795018366172/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3821%2C2149%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:32:12+00:00"
   },
   {
+   "id": "178f94915ff3cf34",
+   "title": "Democrats nominate Hakeem Jeffries to become first Black House speaker – US politics live",
+   "summary": "Jeffries was nominated with 251 yes votes and 11 no votes in closed-door process Democrats nominate Hakeem Jeffries as first Black House speaker Trump in China for Apec summit – follow live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "date": "2026-11-18T16:23:09+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: J Scott Applewhite/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/94f3968d43eb5f8f2df2562497da3e35e1acedfd/394_0_3607_2887/master/3607.jpg?width=700&quality=85&auto=format&fit=max&s=d3bab3daafd12f71f3b5fcd46a2f37a5",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:00:21+00:00"
+  },
+  {
    "id": "3aaf5d92c0730172",
    "title": "Labour faces double blow over UK fossil fuel projects",
-   "summary": "Big North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their investment from a large fossil fuel…",
+   "summary": "Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their investment from large fossil fuel…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
    "date": "2026-11-18T16:19:41+00:00",
@@ -238,33 +278,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/thunmb-1795018934.png?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/thunmb-1795018934.png?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/thunmb-1795018934.png?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/thunmb-1795018934.png?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:32:12+00:00"
-  },
-  {
-   "id": "178f94915ff3cf34",
-   "title": "Democrats nominate Hakeem Jeffries to become first Black House speaker – US politics live",
-   "summary": "Jeffries was nominated with 251 yes votes and 11 no votes in closed-door process Democrats nominate Hakeem Jeffries as first Black House speaker Trump in China for Apec summit – follow live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T16:14:15+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: J Scott Applewhite/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/94f3968d43eb5f8f2df2562497da3e35e1acedfd/394_0_3607_2887/master/3607.jpg?width=700&quality=85&auto=format&fit=max&s=d3bab3daafd12f71f3b5fcd46a2f37a5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "92794bdb7e5223a3",
@@ -565,10 +585,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/0895db8135c9db7822dc944c5428df981a256fe5/0_864_5563_4451/master/5563.jpg?width=700&quality=85&auto=format&fit=max&s=9cb765c5b3197bcd34fb432b52c633d2",
-    "w": 700,
+    "credit": "Photograph: John Thys/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: John Thys/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/0895db8135c9db7822dc944c5428df981a256fe5/0_864_5563_4451/master/5563.jpg?width=700&quality=85&auto=format&fit=max&s=9cb765c5b3197bcd34fb432b52c633d2",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T08:55:19+00:00"
@@ -718,7 +738,7 @@
   {
    "id": "8884d95056be6c39",
    "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
-   "summary": "Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back idea Europe live – latest updates The EU executive has proposed a €45bn (£37.5bn) loan for Ukraine to help with a looming cash crisis and…",
+   "summary": "Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back idea The EU executive has proposed a €45bn (£37.5bn) loan for Ukraine to help with a looming cash crisis and reinforce its defences, as Russia’s…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
    "date": "2026-11-18T14:27:22+00:00",
@@ -975,9 +995,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/fb8aafdf-11c8-4002-9290-e40933e8baf9,1788916278558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C5699%2C3205%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/fb8aafdf-11c8-4002-9290-e40933e8baf9,1788916278558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C5699%2C3205%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:37:49+00:00"
@@ -1034,9 +1054,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/e37efedf-7622-4f87-aee4-5b47ff442602,1795011731488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C2700%2C1518%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/e37efedf-7622-4f87-aee4-5b47ff442602,1795011731488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C2700%2C1518%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:28:16+00:00"
@@ -1644,6 +1664,21 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T10:18:25+00:00"
+  },
+  {
+   "id": "990079cbb1cb7461",
+   "title": "Veteran reporter asks SCOTUS to hear case on protecting confidential sources",
+   "summary": "A longtime national security reporter is facing steep fines in a civil lawsuit for failing to disclose her source. She's asking the Supreme Court to weigh in.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6037730/veteran-reporter-asks-scotus-to-hear-case-on-protecting-confidential-sources",
+   "date": "2026-11-18T09:43:39+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-18T16:42:25+00:00"
   },
   {
    "id": "f3d421208ac49e3b",
@@ -8242,48 +8277,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T11:38:44+00:00"
-  },
-  {
-   "id": "ce624516788d43d4",
-   "title": "Yemeni forces retreat to defend port city from Houthis",
-   "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T11:09:38+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T03:15:41+00:00"
-  },
-  {
-   "id": "cf321b1f311b1a29",
-   "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
-   "summary": "Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
-   "date": "2026-11-16T11:00:58+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evan Vucci/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a079ab0a449ab532375e30c24aa3a9afc3fa2d2d/131_0_1307_1045/master/1307.jpg?width=700&quality=85&auto=format&fit=max&s=7acb58a1608a126f7a340fb388cac10a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:10:17+00:00"
   }
  ]
 }

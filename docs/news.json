@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T22:39:36+00:00",
+ "generatedAt": "2026-11-18T22:48:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "CTV News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "edeb9d8d7a33a8e2",
+   "title": "Ford admits his French needs work after shaky Montreal speech",
+   "summary": "Critics of the Ford government told reporters they didn’t find it funny that the premier of Canada’s largest province is unable to speak French, an official language.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12157068/ford-admits-french-needs-work-shaky-montreal-speech/",
+   "date": "2026-11-18T22:46:47+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP177293573.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP177293573.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T22:48:45+00:00"
+  },
+  {
    "id": "f5974850414e0694",
    "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
    "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
@@ -188,6 +208,26 @@
    "addedAt": "2026-11-18T20:18:34+00:00"
   },
   {
+   "id": "8884d95056be6c39",
+   "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
+   "summary": "Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back idea The EU executive has proposed a €45bn (£37.5bn) loan for Ukraine to help with a looming cash crisis and reinforce its defences, as Russia’s…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+   "date": "2026-11-18T22:34:03+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Oleksandr Gimanov/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/da7fa4cbbdc420d8de514a27bdb1e07b474f48b9/88_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=c88e63f71d53e9ee3be8136d4ca594d0",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T14:48:56+00:00"
+  },
+  {
    "id": "b567d0153b1321d2",
    "title": "Vancouver officer walks back description of response to Myles Gray as 'compassionate'",
    "summary": "VANCOUVER - One of seven Vancouver police officers involved in the fatal beating of Myles Gray says he was wrong to describe police conduct during the call as \"incredibly compassionate\" in an interview with an RCMP investigator in 2017.",
@@ -199,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
-    "w": 1200,
     "h": 1200,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T22:39:36+00:00"
@@ -1857,26 +1897,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T15:07:29+00:00"
-  },
-  {
-   "id": "8884d95056be6c39",
-   "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
-   "summary": "Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back idea The EU executive has proposed a €45bn (£37.5bn) loan for Ukraine to help with a looming cash crisis and reinforce its defences, as Russia’s…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
-   "date": "2026-11-18T14:27:22+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Oleksandr Gimanov/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/da7fa4cbbdc420d8de514a27bdb1e07b474f48b9/88_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=c88e63f71d53e9ee3be8136d4ca594d0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T14:48:56+00:00"
   },
   {
    "id": "716595acce2f6763",
@@ -4059,7 +4079,7 @@
    "id": "057c6824fef8e8ce",
    "title": "Trump should reverse Lake Ontario name change, says National Congress of American Indians",
    "summary": "The organization is calling on U.S. President Donald Trump to walk back his August executive order renaming Lake Ontario as Lake America.",
-   "source": "CBC World",
+   "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/national-congress-american-indians-trump-lake-ontario-9.7425638?cmp=rss",
    "date": "2026-11-17T22:15:29+00:00",
    "topic": "ontario",
@@ -8271,25 +8291,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/e78dc61a399ccaafc309ae88184215293ae61417/511_61_2396_1917/master/2396.jpg?width=700&quality=85&auto=format&fit=max&s=5db38548c9c34ea124b49b3fd53fb89a",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T19:15:26+00:00"
-  },
-  {
-   "id": "57c4c927fe095271",
-   "title": "Ontario Catholic school teachers vote in favour of strike mandate: union",
-   "summary": "The union representing 45,000 teachers in Ontario's English Catholic schools says 98 per cent of its members have voted in favour of a strike mandate.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/ontario-catholic-school-teachers-vote-strike-9.7423848?cmp=rss",
-   "date": "2026-11-16T18:30:06+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/c9a3d2dc-2019-41d4-93aa-c6326d16104e,1794851429024/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T01:28:01+00:00",
+ "generatedAt": "2026-11-18T01:37:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -220,10 +220,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcb93f966d-1794947391.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcb93f966d-1794947391.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcb93f966d-1794947391.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcb93f966d-1794947391.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T01:28:01+00:00"
@@ -242,10 +242,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/04/s1-1776319536.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/04/s1-1776319536.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/04/s1-1776319536.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/04/s1-1776319536.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T01:28:01+00:00"
@@ -545,10 +545,10 @@
   {
    "id": "0ff1c90758ed56ee",
    "title": "Canada, India on the cusp of finalizing free trade deal, says high envoy",
-   "summary": "OTTAWA - India's high commissioner to Canada says the two countries are on the cusp of finalizing a free trade agreement, 16 years after talks first began.",
+   "summary": "Prime Minister Mark Carney and Indian Prime Minister Narendra Modi formally revived trade negotiations almost a year ago.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/canada-india-on-the-cusp-of-finalizing-free-trade-deal-says-high-envoy/article_6ba78681-4c93-527a-acb1-93d666392c52.html",
-   "date": "2026-11-17T23:48:27+00:00",
+   "date": "2026-11-17T23:48:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [
@@ -7706,7 +7706,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T19:59:46+00:00",
+ "generatedAt": "2026-11-18T20:08:56+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,66 @@
  ],
  "items": [
   {
+   "id": "2d6e0dc8ee36eff3",
+   "title": "Why Carney is looking to China as Canada's car industry comes under US pressure",
+   "summary": "Prime Minister Carney said on Wednesday that \"if the US doesn't want to do the deal, we're busy\", as he eyes alternatives for Canada's auto sector in Beijing.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T20:02:02+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f49e/live/7260e220-e38a-11f1-a8ca-d7dfade8c64d.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f49e/live/7260e220-e38a-11f1-a8ca-d7dfade8c64d.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T19:01:11+00:00"
+  },
+  {
+   "id": "609db31c5913ac8a",
+   "title": "Doug Ford faces tougher tests as Trump threat recedes, pollster predicts",
+   "summary": "Premier Doug Ford may no longer be enjoying the Trump bump that propelled his popularity for months, a new poll suggests.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/doug-ford-faces-tougher-tests-as-trump-threat-recedes-pollster-predicts/article_3f99b9cf-be25-49c2-8303-386c0dc3e7fb.html",
+   "date": "2026-11-18T20:00:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/4e/54e092d3-c90a-57bd-bcfa-61988c6b6ee3/6afe00b5cf024.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/4e/54e092d3-c90a-57bd-bcfa-61988c6b6ee3/6afe00b5cf024.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T20:08:56+00:00"
+  },
+  {
+   "id": "0b21102c7dde1c79",
+   "title": "Liberal MP who chaired MAID study agrees with Tory proposal for separate votes",
+   "summary": "Marcus Powlowski says he agrees with Conservatives who have been calling for a government bill containing two key MAID amendments to be split.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/liberal-mp-who-chaired-maid-study-agrees-with-tory-proposal-for-separate-votes/article_04060efa-5640-4521-b302-41a5d16a749f.html",
+   "date": "2026-11-18T20:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/05/80559a75-1d5a-5b37-bed3-3e31440ea184/6afde946c8841.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 769,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/05/80559a75-1d5a-5b37-bed3-3e31440ea184/6afde946c8841.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T20:08:56+00:00"
+  },
+  {
    "id": "ddaa3f50c527a164",
    "title": "US admits ‘substantial’ change to extradition request translation for leftist activist",
    "summary": "DoJ cites three examples of alterations from English into Spanish for James ‘Fergie’ Chambers after Guardian report US authorities have admitted altering the translation of an extradition request for James “Fergie” Chambers from English into Spanish…",
@@ -177,10 +237,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f27c634fbe0907856aaa981eebb05679b55ad4aa/247_0_4681_3744/master/4681.jpg?width=700&quality=85&auto=format&fit=max&s=a12c16ce00d0a097e6e50bb3b2fb12e2",
-    "w": 700,
+    "credit": "Photograph: Chedly Ben Ibrahim/NurPhoto/Getty Images",
     "h": 560,
-    "credit": "Photograph: Chedly Ben Ibrahim/NurPhoto/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/f27c634fbe0907856aaa981eebb05679b55ad4aa/247_0_4681_3744/master/4681.jpg?width=700&quality=85&auto=format&fit=max&s=a12c16ce00d0a097e6e50bb3b2fb12e2",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T19:59:46+00:00"
@@ -1201,9 +1261,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/2d29eb16-7d89-42c8-9d4c-6446d656426d,1730477761333/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C125%2C4454%2C2505%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/2d29eb16-7d89-42c8-9d4c-6446d656426d,1730477761333/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C125%2C4454%2C2505%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:03:57+00:00"
@@ -1453,26 +1513,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T14:58:13+00:00"
-  },
-  {
-   "id": "2d6e0dc8ee36eff3",
-   "title": "Why Carney is looking to China as Canada's car industry comes under US pressure",
-   "summary": "Prime Minister Carney downplayed US concerns on Wednesday, saying its ties are not a \"top issue\" for President Trump as Canada eyes trade with Chinese carmakers.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T14:35:18+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/74e5/live/4a211e10-e371-11f1-99a1-253766e7ad8b.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/74e5/live/4a211e10-e371-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T19:01:11+00:00"
   },
   {
    "id": "ff5046da676c68b8",
@@ -8247,46 +8287,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T17:01:10+00:00"
-  },
-  {
-   "id": "bff1d80a5b36818d",
-   "title": "Mark Carney arrives in China seeking trade opportunities amid U.S. uncertainty",
-   "summary": "The prime minister makes his second trip in 11 months to China to attend the summit of the Asia-Pacific Economic Cooperation forum.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/mark-carney-arrives-in-china-seeking-trade-opportunities-amid-u-s-uncertainty/article_0b3518f8-bf6f-4c76-838e-1325f95f2434.html",
-   "date": "2026-11-16T16:30:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/27/f27a9690-7a3f-53e6-b8b0-84f9c9131c12/6afb154a5cf36.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/27/f27a9690-7a3f-53e6-b8b0-84f9c9131c12/6afb154a5cf36.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T16:50:03+00:00"
-  },
-  {
-   "id": "15065b20df5af940",
-   "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
-   "summary": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
-   "date": "2026-11-16T16:28:19+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 877,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2193+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F84%2F4f9289e644cc8e7469d181bc2598%2Fgettyimages-2292989149.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2193+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F57%2F84%2F4f9289e644cc8e7469d181bc2598%2Fgettyimages-2292989149.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T16:39:29+00:00"
   }
  ]
 }

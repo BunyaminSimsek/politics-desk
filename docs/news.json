@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T10:46:35+00:00",
+ "generatedAt": "2026-11-18T10:55:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -228,6 +228,26 @@
    "addedAt": "2026-11-18T09:14:11+00:00"
   },
   {
+   "id": "9fd527d5b8900dbf",
+   "title": "Traumas of Sudan war lead to wave of drug addiction",
+   "summary": "Anguish caused by conflict sees a growing number of young people turn to drugs.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction?traffic_source=rss",
+   "date": "2026-11-18T10:35:06+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A0790-1794829360.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A0790-1794829360.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T10:55:45+00:00"
+  },
+  {
    "id": "45c19e2f8827aac5",
    "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
    "summary": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
@@ -259,10 +279,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/6a989606bee929057d8be47888585bd18cb20062/386_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=f4a7ff3ce7de7131b7011656a9ad9523",
-    "w": 700,
+    "credit": "Photograph: Andrew Milligan/PA",
     "h": 560,
-    "credit": "Photograph: Andrew Milligan/PA"
+    "url": "https://i.guim.co.uk/img/media/6a989606bee929057d8be47888585bd18cb20062/386_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=f4a7ff3ce7de7131b7011656a9ad9523",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T10:46:35+00:00"
@@ -279,10 +299,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T05:59:59+00:00"
@@ -8288,26 +8308,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T20:28:27+00:00"
-  },
-  {
-   "id": "e2c24991db38b9de",
-   "title": "Trident nuclear submarine concludes record underwater deployment",
-   "summary": "HMS Vengeance’s seven-month patrol prompts fears over slow pace of maintenance of ageing fleet and strain on crew A Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland where its crew was…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
-   "date": "2026-11-15T18:50:33+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: LPhot Jaden Lovelady/UK MOD Crown copyright",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/092370dd24a52c58bc3c62c308a112aa0c5eccdc/426_0_2757_2206/master/2757.jpg?width=700&quality=85&auto=format&fit=max&s=e7113e4e6f4aa78de2544bee6370ba3e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T12:28:25+00:00"
   }
  ]
 }

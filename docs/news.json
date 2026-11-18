@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T23:35:47+00:00",
+ "generatedAt": "2026-11-18T23:45:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 48
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "a2c3574e4f0cbe70",
+   "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+   "summary": "Military incursion into Gaza, the first since ceasefire was agreed last October, comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+   "date": "2026-11-18T23:25:25+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/d94406113e8bb1466134873bf0554edf8a0ac2a7/340_0_3588_2871/master/3588.jpg?width=700&quality=85&auto=format&fit=max&s=4dc4559243f5b830ca95e17c91e4d419",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Eyad Baba/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T23:45:21+00:00"
+  },
+  {
    "id": "229d238de2adc2d4",
    "title": "Ontario English public elementary teachers vote 97% in favour of strike action, union says",
    "summary": "Ontario English public elementary teachers have voted 97 per cent in favour of strike action, the union that represents them said Wednesday.",
@@ -177,9 +199,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0bea4533-5871-4a58-8c5f-090f832ae67d,1795041393364/full/max/0/default.jpg?im=Crop%2Crect%3D%28126%2C0%2C8424%2C4738%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0bea4533-5871-4a58-8c5f-090f832ae67d,1795041393364/full/max/0/default.jpg?im=Crop%2Crect%3D%28126%2C0%2C8424%2C4738%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T23:35:47+00:00"
@@ -8274,25 +8296,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:15:26+00:00"
-  },
-  {
-   "id": "28e102425f78c76a",
-   "title": "Students urge Ontario to address sexual violence in high schools",
-   "summary": "A group of high school students is asking the Ontario government to amend the Education Act to address sexual violence and harassment. The students say a provincewide approach would prevent a patchwork of rules that differ between school boards.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/player/play/9.7423896?cmp=rss",
-   "date": "2026-11-16T18:41:47+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/34624e6f-3ba7-4141-887c-9e5e97c61534,1794854488780/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T23:49:05+00:00"
   }
  ]
 }

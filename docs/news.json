@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T17:20:31+00:00",
+ "generatedAt": "2026-11-18T17:29:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 28
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,66 @@
  ],
  "items": [
   {
+   "id": "f21f255fd91ab703",
+   "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+   "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+   "date": "2026-11-18T17:25:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Nathan Howard/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=700&quality=85&auto=format&fit=max&s=6d8bca1fa4fb3b7e62baf0ff0784dbfc",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T16:03:57+00:00"
+  },
+  {
+   "id": "9df76955d6a92ede",
+   "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
+   "summary": "Jeffries is set to become one of Trump’s most prominent opponents for final two years of his presidency US politics live – latest updates Democrats on Wednesday resoundingly nominated Hakeem Jeffries to serve as speaker of the House when the new Congress…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
+   "date": "2026-11-18T17:24:01+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: J Scott Applewhite/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/54ad357a2367f88feb3f8eba408df14fe343a97e/442_0_4415_3533/master/4415.jpg?width=700&quality=85&auto=format&fit=max&s=2037104de333b4ccbc3e6160883c35ad",
+    "w": 700
+   },
+   "breaking": true,
+   "addedAt": "2026-11-18T16:13:34+00:00"
+  },
+  {
+   "id": "36b91c05c1167b56",
+   "title": "Anti-vaccine group once led by RFK Jr back on Facebook and Instagram after being banned",
+   "summary": "Children’s Health Defense was removed from Facebook and Instagram in 2022.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/rfk-jr-childrens-health-defense-meta",
+   "date": "2026-11-18T17:13:23+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/78de2aa0f286beb0008ec97a690186109d5975bc/4_0_3331_2666/master/3331.jpg?width=700&quality=85&auto=format&fit=max&s=ed269939834de7f29c4483fa95b02ea3",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: MediaNews Group/The Riverside Press-Enterprise/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T17:29:38+00:00"
+  },
+  {
    "id": "15ea4892a6f10289",
    "title": "Hakeem Jeffries poised to become 1st Black U.S. House Speaker, after internal vote by Democrats",
    "summary": "Democrats nominated Hakeem Jeffries on Wednesday to be speaker of the U.S. House of Representatives, as he brushed past skeptics and was on track to make history as the country's first Black American with the gavel.",
@@ -181,7 +241,7 @@
     "credit": "",
     "url": "https://i.cbc.ca/ais/c934192d-dd6d-4604-be6d-f8c304498118,1795018072758/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C122%2C6000%2C3375%29%3B"
    },
-   "breaking": true,
+   "breaking": false,
    "addedAt": "2026-11-18T17:10:58+00:00"
   },
   {
@@ -618,46 +678,6 @@
    "addedAt": "2026-11-18T16:13:34+00:00"
   },
   {
-   "id": "9df76955d6a92ede",
-   "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
-   "summary": "Jeffries is set to become one of Trump’s most prominent opponents for final two years of his presidency US politics live – latest updates Democrats on Wednesday nominated Hakeem Jeffries to serve as speaker of the House when the new Congress begins next year.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
-   "date": "2026-11-18T15:55:22+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: J Scott Applewhite/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/54ad357a2367f88feb3f8eba408df14fe343a97e/442_0_4415_3533/master/4415.jpg?width=700&quality=85&auto=format&fit=max&s=2037104de333b4ccbc3e6160883c35ad",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T16:13:34+00:00"
-  },
-  {
-   "id": "f21f255fd91ab703",
-   "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
-   "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
-   "date": "2026-11-18T15:53:10+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Nathan Howard/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=700&quality=85&auto=format&fit=max&s=6d8bca1fa4fb3b7e62baf0ff0784dbfc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T16:03:57+00:00"
-  },
-  {
    "id": "841ded9f6e97a5f9",
    "title": "Ontario proposes raising minimum fines for excessive vehicle noise to $200",
    "summary": "The province is attempting to reduce excessive vehicle noise with a proposed increase to fines for offending drivers.",
@@ -781,7 +801,7 @@
   {
    "id": "600f03a897964ab8",
    "title": "Burnham should fight next election on promise to rejoin EU, says Peter Kyle",
-   "summary": "Exclusive: Former business secretary calls for Labour manifesto commitment with referendum on final decision UK politics live – latest updates Andy Burnham should fight the next election on a promise to rejoin the EU, the former business secretary Peter Kyle…",
+   "summary": "Exclusive: Former business secretary calls for Labour manifesto commitment with referendum on final decision Andy Burnham should fight the next election on a promise to rejoin the EU, the former business secretary Peter Kyle has said, with voters given a…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit",
    "date": "2026-11-18T15:18:34+00:00",
@@ -1621,10 +1641,10 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F0f%2F6973b0ff49ddaa8b47e07f223c0e%2Fap26322454124065.jpg",
+    "w": 1200,
     "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5124x3416+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2F5f%2F5300d36b41daab38cfccf78d8910%2Fap26322331417415.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5124x3416+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2F5f%2F5300d36b41daab38cfccf78d8910%2Fap26322331417415.jpg",
-    "w": 1200
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F0f%2F6973b0ff49ddaa8b47e07f223c0e%2Fap26322454124065.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-18T10:37:15+00:00"
@@ -8271,26 +8291,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T12:53:09+00:00"
-  },
-  {
-   "id": "0af1ea9ab31215f0",
-   "title": "Milton, Ont. to swear in first new mayor in 46 years as Gord Krantz leaves office",
-   "summary": "George Minakakis and eight regional and town councillors will take their oaths of office at the council’s inaugural meeting Monday night.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12152527/milton-mayor-gord-krantz/",
-   "date": "2026-11-16T12:39:58+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/31ae547b44e201c77a3dc3b459de7818dd59b6ebcab55bf9b8504d761573144c.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/31ae547b44e201c77a3dc3b459de7818dd59b6ebcab55bf9b8504d761573144c.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T12:44:00+00:00"
   }
  ]
 }

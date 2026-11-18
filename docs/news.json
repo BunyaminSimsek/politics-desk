@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T08:18:11+00:00",
+ "generatedAt": "2026-11-18T08:27:48+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -188,6 +188,28 @@
    "addedAt": "2026-11-18T07:23:06+00:00"
   },
   {
+   "id": "965e4f24c1e60b64",
+   "title": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions",
+   "summary": "The president says Beijing seeks to provide a 'stable, predictable and beneficial environment for global enterprises'.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/xis-pitch-for-free-trade-amid-trumps-global-trade-disruptions?traffic_source=rss",
+   "date": "2026-11-18T08:05:18+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afd4e1427-1794985492.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afd4e1427-1794985492.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T08:27:48+00:00"
+  },
+  {
    "id": "fef422c85df5c054",
    "title": "Burnham considering cuts to national insurance to create more youth jobs",
    "summary": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s Milburn urges Burnham to spend billions on young people Who are the Neets?",
@@ -199,10 +221,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/e7c724ea18187cf1562474492f2c3c9deb12ff39/451_0_4505_3604/master/4505.jpg?width=700&quality=85&auto=format&fit=max&s=cef9d3b36f6e514c22a725f911861e05",
-    "w": 700,
+    "credit": "Photograph: Russell Cheyne/Reuters",
     "h": 560,
-    "credit": "Photograph: Russell Cheyne/Reuters"
+    "url": "https://i.guim.co.uk/img/media/e7c724ea18187cf1562474492f2c3c9deb12ff39/451_0_4505_3604/master/4505.jpg?width=700&quality=85&auto=format&fit=max&s=cef9d3b36f6e514c22a725f911861e05",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T08:18:11+00:00"
@@ -239,10 +261,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afd458b349f4-1794983307.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afd458b349f4-1794983307.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afd458b349f4-1794983307.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afd458b349f4-1794983307.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T08:18:11+00:00"
@@ -469,9 +491,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9ce6302e-a4bc-4f2e-a174-47300a3fc68e,1794972452161/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C26%2C6592%2C3708%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9ce6302e-a4bc-4f2e-a174-47300a3fc68e,1794972452161/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C26%2C6592%2C3708%29%3B"
    },
    "breaking": true,
    "addedAt": "2026-11-18T04:07:36+00:00"
@@ -8289,26 +8311,6 @@
     "h": 561,
     "url": "https://i.guim.co.uk/img/media/0d2f7534afa128e24bf7652d723765d65c52efcc/536_430_3761_3012/master/3761.jpg?width=700&quality=85&auto=format&fit=max&s=6cfe1b97af9427cd2670cbc4c199bed9",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T13:51:25+00:00"
-  },
-  {
-   "id": "739cdbb117468f2b",
-   "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-   "summary": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
-   "date": "2026-11-15T13:37:08+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af715a9cd6a9-1794577833.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af715a9cd6a9-1794577833.jpg?resize=1200%2C800",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-15T13:51:25+00:00"

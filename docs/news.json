@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T11:41:58+00:00",
+ "generatedAt": "2026-11-18T11:51:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,90 @@
  ],
  "items": [
   {
+   "id": "ecd1fcdc34435c6a",
+   "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
+   "summary": "Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-18T11:48:47+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Chris McGrath/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T07:23:06+00:00"
+  },
+  {
+   "id": "f087d7c7855c3ac1",
+   "title": "Who to watch in Spain's election race",
+   "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T11:44:25+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T18:23:22+00:00"
+  },
+  {
+   "id": "92794bdb7e5223a3",
+   "title": "‘Many’ Tory votes would switch to Labour if it committed to rejoining EU, claims Lammy – UK politics live",
+   "summary": "Former foreign secretary has urged Andy Burnham to make rejoining a manifesto commitment Lammy urges Burnham to fight next election on rejoining EU In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T11:39:53+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/7b2a3ff43ff6fa32989aabeec476a93683a41c44/640_0_5810_4648/master/5810.jpg?width=700&quality=85&auto=format&fit=max&s=3aa7c67ee7a1b228b6d2639287d24233",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Carl Court/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
+   "id": "e54ccd81a1434eb7",
+   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
+   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T11:39:42+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Win McNamee/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/49986989a15aedf0b1ef64a91c15da5f6cdb5d9c/291_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=87b38a1367f1119d7a70d5e88f8112a4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T04:07:36+00:00"
+  },
+  {
    "id": "ccbce158cd36940f",
    "title": "Canada must curb predatory private equity buyouts",
    "summary": "It’s only a slight exaggeration to suggest that before much of Canada was a country, it was a company – the Hudson’s Bay Company. HBC was the economy, holding exclusive rights to trade and commerce. Its governance charter, the law of the land.",
@@ -184,68 +268,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T11:32:52+00:00"
-  },
-  {
-   "id": "92794bdb7e5223a3",
-   "title": "Shabana Mahmood pledges to tackle ‘corrosive and growing perception of two-tier policing’ – UK politics live",
-   "summary": "Home secretary to give speech to National Police Chiefs’ Council addressing concerns that officers treats groups differently In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "date": "2026-11-18T11:22:28+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Wiktor Szymanowicz/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/33254d2eac8860504ca73a4dff0ae32ca97afd18/218_0_2181_1745/master/2181.jpg?width=700&quality=85&auto=format&fit=max&s=0fe2a2d430cb4992a1d4001b54ec2a3b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:14:11+00:00"
-  },
-  {
-   "id": "ecd1fcdc34435c6a",
-   "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
-   "summary": "Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit Rich countries have been accused of offering “crumbs” to a fund for the developing world to adapt to climate…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-18T11:11:48+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chris McGrath/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T07:23:06+00:00"
-  },
-  {
-   "id": "e54ccd81a1434eb7",
-   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T11:08:37+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Win McNamee/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/49986989a15aedf0b1ef64a91c15da5f6cdb5d9c/291_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=87b38a1367f1119d7a70d5e88f8112a4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T04:07:36+00:00"
   },
   {
    "id": "e94da4f7dbdc7db0",
@@ -2708,28 +2730,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T13:06:00+00:00"
-  },
-  {
-   "id": "f087d7c7855c3ac1",
-   "title": "Who to watch in Spain's election race",
-   "summary": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T18:13:45+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T18:23:22+00:00"
   },
   {
    "id": "f6278a35aca044e6",

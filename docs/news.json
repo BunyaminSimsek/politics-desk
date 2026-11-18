@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T20:36:58+00:00",
+ "generatedAt": "2026-11-18T20:46:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "812a4aef58eba7b8",
+   "title": "Cadets being told to stand down as Canada spends billions on defence",
+   "summary": "The Canadian military has suspended most weekend cadet training and competitions in parts of the country until March, citing budget restraint. Leaked emails reveal mounting financial pressures despite billions in new defence spending.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/defence-budget-cadets-cuts-training-9.7426967?cmp=rss",
+   "date": "2026-11-18T20:38:54+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy",
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/36a43287-dd68-4616-85f2-86ccc427ddcd,1795033338863/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C218%2C8192%2C4608%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T20:46:14+00:00"
+  },
+  {
+   "id": "178f94915ff3cf34",
+   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "date": "2026-11-18T20:33:13+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:00:21+00:00"
+  },
+  {
+   "id": "234a1b5b2a798a2e",
+   "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
+   "summary": "High court judge issues order against Raise the Colours over flags on council-owned street furniture The campaign group Raise the Colours has been temporarily banned from placing union jacks on lamp-posts and roundabouts in Birmingham after a legal challenge…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
+   "date": "2026-11-18T20:32:58+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/8894065417af832fc62326275bc5ede991d87eb1/0_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=f05b6d0865aed698f9d28dd0212bb280",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Christopher Furlong/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T20:46:14+00:00"
+  },
+  {
    "id": "a2083364aaa5d83e",
    "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
    "summary": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
@@ -177,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795033480.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795033480.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795033480.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795033480.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:36:58+00:00"
@@ -206,6 +268,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:27:44+00:00"
+  },
+  {
+   "id": "3e2f25386df31613",
+   "title": "Doug Ford calls ‘botched’ attempt to speak French a show of respect",
+   "summary": "A clip of Ford's speech Tuesday to the Chamber of Commerce of Metropolitan Montreal went viral.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/doug-ford-calls-botched-attempt-to-speak-french-a-show-of-respect/article_ef14d9b0-ac3e-4dcb-a64b-fdeeffe92681.html",
+   "date": "2026-11-18T20:15:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/6d/06d05acc-e9fc-50d7-8723-1c26f9bf9d63/6afe07bfb444a.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/6d/06d05acc-e9fc-50d7-8723-1c26f9bf9d63/6afe07bfb444a.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T20:46:14+00:00"
   },
   {
    "id": "f5974850414e0694",
@@ -248,26 +330,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:27:44+00:00"
-  },
-  {
-   "id": "178f94915ff3cf34",
-   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T20:11:50+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "2d6e0dc8ee36eff3",
@@ -8230,63 +8292,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T17:48:58+00:00"
-  },
-  {
-   "id": "1cc4cd08b35a52e1",
-   "title": "Nearly two million people are behind bars in the US. How did we get here?",
-   "summary": "Lynn Novick's new, four-part PBS documentary series, Crime and Punishment in America , goes inside the U.S. prison system and explores how our approach to criminals has changed over time.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
-   "date": "2026-11-16T17:34:07+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-16T17:39:34+00:00"
-  },
-  {
-   "id": "cf29bd4f7f8e0541",
-   "title": "Who will be the next Bank of Canada governor? These are some contenders",
-   "summary": "OTTAWA - The Bank of Canada says governor Tiff Macklem is not seeking another term in the role after his current seven-year stint expires on June 2.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/who-will-be-the-next-bank-of-canada-governor-these-are-some-contenders/article_659cd621-a4ef-5921-afb0-1a7b754b8c27.html",
-   "date": "2026-11-16T17:26:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/6d/76d4fd04-2161-5133-a650-6989cb4e325b/6a291aaf33dc0.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/6d/76d4fd04-2161-5133-a650-6989cb4e325b/6a291aaf33dc0.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T17:39:34+00:00"
-  },
-  {
-   "id": "f078e08e109b0fc5",
-   "title": "Ontario Catholic teachers vote strongly in favour of strike mandate",
-   "summary": "The union representing Catholic teachers says educators are dealing with chronic classroom underfunding by the Ford government.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12152947/ontario-catholic-teachers-vote-strongly-in-favour-of-strike-mandate/",
-   "date": "2026-11-16T17:24:06+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP169361158.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP169361158.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T17:29:46+00:00"
   }
  ]
 }

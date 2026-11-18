@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T00:03:09+00:00",
+ "generatedAt": "2026-11-18T00:12:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "5df5cda1f6fb9d32",
+   "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
+   "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-17T23:59:24+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
    "id": "0ff1c90758ed56ee",
    "title": "Canada, India on the cusp of finalizing free trade deal, says high envoy",
    "summary": "OTTAWA - India's high commissioner to Canada says the two countries are on the cusp of finalizing a free trade agreement.",
@@ -179,33 +199,35 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/91/591b6633-5bb4-5474-8543-02c89073178b/6afce82d210b5.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 838,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/91/591b6633-5bb4-5474-8543-02c89073178b/6afce82d210b5.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/91/591b6633-5bb4-5474-8543-02c89073178b/6afce82d210b5.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/91/591b6633-5bb4-5474-8543-02c89073178b/6afce82d210b5.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:03:09+00:00"
   },
   {
-   "id": "5df5cda1f6fb9d32",
-   "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
-   "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T23:41:08+00:00",
-   "topic": "us",
+   "id": "1dc02b7067d63fc0",
+   "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+   "summary": "Kuwait's military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+   "date": "2026-11-17T23:38:38+00:00",
+   "topic": "mideast",
    "region": "world",
-   "tags": [],
+   "tags": [
+    "defence"
+   ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
-    "w": 700
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afcc965-1794951525.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afcc965-1794951525.jpg?resize=640%2C427"
    },
    "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
+   "addedAt": "2026-11-18T00:12:45+00:00"
   },
   {
    "id": "2d833973816ffeb4",
@@ -482,9 +504,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/0aa14623-09a4-44aa-8674-20f5dc3be8c3,1794952529127/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C150%2C6155%2C3462%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/0aa14623-09a4-44aa-8674-20f5dc3be8c3,1794952529127/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C150%2C6155%2C3462%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:10:01+00:00"
@@ -543,9 +565,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/871ba9db-e0ee-4926-9415-9169410d1b16,1794946047543/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C396%2C8083%2C4546%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/871ba9db-e0ee-4926-9415-9169410d1b16,1794946047543/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C396%2C8083%2C4546%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:00:23+00:00"
@@ -8181,46 +8203,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T02:14:41+00:00"
-  },
-  {
-   "id": "e7e42593e733e6bb",
-   "title": "Judo champion shakes up French presidential race with surprise candidacy",
-   "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-15T00:06:51+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1901/live/c7db8b90-df5e-11f1-a8af-15d7a25dc0d1.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1901/live/c7db8b90-df5e-11f1-a8af-15d7a25dc0d1.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T00:34:11+00:00"
-  },
-  {
-   "id": "a5bcef2fd5a21f8b",
-   "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
-   "summary": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
-   "date": "2026-11-15T00:03:52+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5035x3357+0+0/resize/640/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F0f%2F1063ea794a708c96e803c59414c7%2Fgettyimages-2301658899.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5035x3357+0+0/resize/1200/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F0f%2F1063ea794a708c96e803c59414c7%2Fgettyimages-2301658899.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T00:15:58+00:00"
   }
  ]
 }

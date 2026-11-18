@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T00:22:30+00:00",
+ "generatedAt": "2026-11-18T00:32:15+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,88 @@
  ],
  "items": [
   {
+   "id": "b33391a7cfd063ac",
+   "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+   "summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+   "date": "2026-11-18T00:21:33+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/470133f77dd96a905faa69a723f46914cdfdc04a/94_0_2813_2250/master/2813.jpg?width=700&quality=85&auto=format&fit=max&s=bdb6e2381c46bb9c1409d99316e77351",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jane Rosenberg/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T00:32:15+00:00"
+  },
+  {
+   "id": "fff113dd71f0e59d",
+   "title": "Why China’s Shenzhen was chosen for APEC summit",
+   "summary": "Al Jazeera’s Katrina Yu explains why China’s Shenzhen was chosen for APEC summit.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss",
+   "date": "2026-11-18T00:16:26+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-KATRINA-APEC-1794960953.png?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-KATRINA-APEC-1794960953.png?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T00:32:15+00:00"
+  },
+  {
+   "id": "566598e1eca81ebb",
+   "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+   "summary": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military, police have said.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+   "date": "2026-11-18T00:16:07+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Sgt Paul Shaw/UK Ministry of Defence 2019",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=700&quality=85&auto=format&fit=max&s=848d017d826f23317477e67a758df29c",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T20:44:46+00:00"
+  },
+  {
+   "id": "5df5cda1f6fb9d32",
+   "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
+   "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+   "date": "2026-11-18T00:15:32+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
    "id": "a671fda907fbb26d",
    "title": "Trade talks between top Canada, U.S. officials ramping up: sources",
    "summary": "As talks with the Trump administration begin to ramp up once again, the prime minister's point man on Canada-U.S. trade has been meeting with his counterparts weekly in a more formal way, according to three senior government officials.",
@@ -179,12 +261,34 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/711a974d-3aad-497f-acd7-e52e467f5e14,1794960435982/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C427%2C8190%2C4606%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/711a974d-3aad-497f-acd7-e52e467f5e14,1794960435982/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C427%2C8190%2C4606%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:22:30+00:00"
+  },
+  {
+   "id": "7918c93d47fcae66",
+   "title": "Man accused of destroying US military plane at Shannon airport in Ireland",
+   "summary": "Daithi O’Corrain, 48, is charged with destruction of US government property, after allegedly cutting hydraulic lines An axe-wielding man breached a security perimeter and destroyed an American military plane while it was parked at an Irish airport, US…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/man-accused-of-destroying-us-military-plane-at-shannon-airport-in-ireland",
+   "date": "2026-11-18T00:06:15+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/4c0e0bace2884a78c9689620fba6fdcc289cc848/0_161_4710_3767/master/4710.jpg?width=700&quality=85&auto=format&fit=max&s=a92b4558636cef6c661522859b462ec0",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: US Department of Justice/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T00:32:15+00:00"
   },
   {
    "id": "e566d508260a2198",
@@ -200,10 +304,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3ed391e009abd724b30b099d8a5378a1fc28ff5a/558_0_3100_2480/master/3100.jpg?width=700&quality=85&auto=format&fit=max&s=630082da5cc5d2ba0478820be34827af",
-    "w": 700,
+    "credit": "Photograph: Bloomberg/Getty Images",
     "h": 560,
-    "credit": "Photograph: Bloomberg/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/3ed391e009abd724b30b099d8a5378a1fc28ff5a/558_0_3100_2480/master/3100.jpg?width=700&quality=85&auto=format&fit=max&s=630082da5cc5d2ba0478820be34827af",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:22:30+00:00"
@@ -220,10 +324,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ffeba253961c8f7d3f85d079735e35f48a624de6/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=3475ccceb448a5c69b699a20be871ffb",
-    "w": 700,
+    "credit": "Photograph: Marcin Rogozinski Zwei/Alamy Stock Photo/Alamy Live News.",
     "h": 560,
-    "credit": "Photograph: Marcin Rogozinski Zwei/Alamy Stock Photo/Alamy Live News."
+    "url": "https://i.guim.co.uk/img/media/ffeba253961c8f7d3f85d079735e35f48a624de6/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=3475ccceb448a5c69b699a20be871ffb",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:22:30+00:00"
@@ -231,7 +335,7 @@
   {
    "id": "afc93e30dc534d30",
    "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
-   "summary": "Kuwait intercepts 'hostile' drone attacks as Bahrain warns of 'potential threat', urges citizens to remain calm.",
+   "summary": "Kuwait intercepts 'hostile' drone attacks as Bahrain issues an 'all-clear' alert, saying danger has passed.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
    "date": "2026-11-18T00:00:27+00:00",
@@ -242,10 +346,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcde1e1992-1794956830.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcde1e1992-1794956830.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcde1e1992-1794956830.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcde1e1992-1794956830.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:22:30+00:00"
@@ -264,33 +368,13 @@
    ],
    "kind": "news",
    "image": {
+    "credit": "Photograph: Nush Freedman Photography",
+    "h": 560,
     "url": "https://i.guim.co.uk/img/media/ad56fcfab9740583060ec012931312c05f9a1c11/295_0_2954_2363/master/2954.jpg?width=700&quality=85&auto=format&fit=max&s=a9a08aafe243a620d4d45c0b33a69ad6",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Nush Freedman Photography"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T00:22:30+00:00"
-  },
-  {
-   "id": "5df5cda1f6fb9d32",
-   "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
-   "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-17T23:59:24+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Paul J Richards/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
+   "addedAt": "2026-11-18T00:22:30+00:00"
   },
   {
    "id": "0ff1c90758ed56ee",
@@ -395,28 +479,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T23:15:50+00:00"
-  },
-  {
-   "id": "566598e1eca81ebb",
-   "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
-   "summary": "Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military, police have said.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
-   "date": "2026-11-17T23:05:43+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Sgt Paul Shaw/UK Ministry of Defence 2019",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=700&quality=85&auto=format&fit=max&s=848d017d826f23317477e67a758df29c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T20:44:46+00:00"
   },
   {
    "id": "2e8a2735ef156f35",
@@ -570,9 +632,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/bb81a0a8-5eef-424d-b0fc-7ff11f9479f5,1794952786431/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C4136%2C2326%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/bb81a0a8-5eef-424d-b0fc-7ff11f9479f5,1794952786431/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C4136%2C2326%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:19:40+00:00"
@@ -7458,7 +7520,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -8228,68 +8290,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T04:04:56+00:00"
-  },
-  {
-   "id": "5bd9f80ca24a46c4",
-   "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-   "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
-   "date": "2026-11-15T02:59:06+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af7a35f-1794614111.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af7a35f-1794614111.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T03:18:58+00:00"
-  },
-  {
-   "id": "41dd9117e0fa7c73",
-   "title": "Carney awarded ‘Democracy Medal’ by global group of political strategists",
-   "summary": "A group of global political consultants and strategists say Prime Minister Mark Carney's \"clarity\" and \"calm and clear thinking\" was worthy of international recognition.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12151482/carney-awarded-democracy-medal-by-global-group-of-political-strategists/",
-   "date": "2026-11-15T01:58:16+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/01/CP175653730-e1768927793200.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/01/CP175653730-e1768927793200.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T02:05:37+00:00"
-  },
-  {
-   "id": "00eede577e4b59fd",
-   "title": "Netanyahu sends plea to Eisenkot for unity government",
-   "summary": "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
-   "date": "2026-11-15T01:33:11+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794706376.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794706376.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T01:47:09+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T17:01:16+00:00",
+ "generatedAt": "2026-11-18T17:10:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 11
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 30
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,115 @@
  ],
  "items": [
   {
+   "id": "15ea4892a6f10289",
+   "title": "Hakeem Jeffries poised to become 1st Black U.S. House Speaker, after internal vote by Democrats",
+   "summary": "Democrats nominated Hakeem Jeffries on Wednesday to be speaker of the U.S. House of Representatives, as he brushed past skeptics and was on track to make history as the country's first Black American with the gavel.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/us-democrats-house-leader-jeffries-9.7426505?cmp=rss",
+   "date": "2026-11-18T17:03:55+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/c934192d-dd6d-4604-be6d-f8c304498118,1795018072758/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C122%2C6000%2C3375%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": true,
+   "addedAt": "2026-11-18T17:10:58+00:00"
+  },
+  {
+   "id": "29362b5d065b0e65",
+   "title": "California Republicans won only four of state’s 52 US House seats in midterms",
+   "summary": "California Democrats flipped five seats and will send 48 representatives to DC after successful redistricting effort California Republicans have taken an extraordinary hit in the midterm elections, with only four of the state’s 52 congressional seats going to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/california-republicans-us-house",
+   "date": "2026-11-18T17:03:46+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/22ba734646cc10409c899b424f330a69d214a858/259_0_4165_3333/master/4165.jpg?width=700&quality=85&auto=format&fit=max&s=89f5a1009604263cd7bff0b8997c928b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: J Scott Applewhite/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T17:10:58+00:00"
+  },
+  {
+   "id": "b64571709d6758a7",
+   "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+   "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle below ground and out of sight of Russian drones.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T17:00:40+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T17:10:58+00:00"
+  },
+  {
+   "id": "86b25768645308c4",
+   "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+   "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T17:00:04+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T17:10:58+00:00"
+  },
+  {
+   "id": "e54ccd81a1434eb7",
+   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T16:58:02+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Iori Sagisawa/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T04:07:36+00:00"
+  },
+  {
    "id": "4054a219c6193a40",
    "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
    "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog says The environment secretary, Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the “deeply…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
-   "date": "2026-11-18T16:53:52+00:00",
+   "date": "2026-11-18T16:56:18+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -184,6 +287,46 @@
    },
    "breaking": true,
    "addedAt": "2026-11-18T14:20:04+00:00"
+  },
+  {
+   "id": "178f94915ff3cf34",
+   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled Democrats nominate Hakeem Jeffries as first Black House speaker Trump in China for Apec summit – follow live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "date": "2026-11-18T16:53:41+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:00:21+00:00"
+  },
+  {
+   "id": "0d2f6ca4dec29f8c",
+   "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family’s business",
+   "summary": "Democratic lawmakers ask if commerce secretary favored Nvidia to enrich his adult children and Cantor Fitzgerald The US commerce secretary, Howard Lutnick, faces mounting questions over his handling of the Nvidia affair as Democratic lawmakers demand answers…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
+   "date": "2026-11-18T16:48:29+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/dc2504fd284ddacfaad901364262921f0cf11e1a/202_0_2028_1622/master/2028.jpg?width=700&quality=85&auto=format&fit=max&s=3d7b98e863b4e7adefdd7f469209df9d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Kylie Cooper/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T17:10:58+00:00"
   },
   {
    "id": "67c7a2bfdc6415ff",
@@ -199,33 +342,13 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/48/f48da717-30a3-57e8-843b-9a367b3ab290/6afdd73dc2f7d.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 835,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/48/f48da717-30a3-57e8-843b-9a367b3ab290/6afdd73dc2f7d.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/48/f48da717-30a3-57e8-843b-9a367b3ab290/6afdd73dc2f7d.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/48/f48da717-30a3-57e8-843b-9a367b3ab290/6afdd73dc2f7d.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T17:01:16+00:00"
-  },
-  {
-   "id": "178f94915ff3cf34",
-   "title": "Democrats nominate Hakeem Jeffries to become first Black House speaker – US politics live",
-   "summary": "Jeffries was nominated with 251 yes votes and 11 no votes in closed-door process Democrats nominate Hakeem Jeffries as first Black House speaker Trump in China for Apec summit – follow live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T16:41:35+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: J Scott Applewhite/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/94f3968d43eb5f8f2df2562497da3e35e1acedfd/394_0_3607_2887/master/3607.jpg?width=700&quality=85&auto=format&fit=max&s=d3bab3daafd12f71f3b5fcd46a2f37a5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "92794bdb7e5223a3",
@@ -261,10 +384,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sequence-01.00_05_12_24.Still002-1795019986.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sequence-01.00_05_12_24.Still002-1795019986.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sequence-01.00_05_12_24.Still002-1795019986.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sequence-01.00_05_12_24.Still002-1795019986.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T17:01:16+00:00"
@@ -301,13 +424,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/ce/7ce160be-39b0-5a03-9684-b87a99c3c1de/6afdd3c7d7a2e.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/ce/7ce160be-39b0-5a03-9684-b87a99c3c1de/6afdd3c7d7a2e.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/ce/7ce160be-39b0-5a03-9684-b87a99c3c1de/6afdd3c7d7a2e.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/ce/7ce160be-39b0-5a03-9684-b87a99c3c1de/6afdd3c7d7a2e.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T17:01:16+00:00"
+  },
+  {
+   "id": "678303faed6d7868",
+   "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+   "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T16:33:16+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f03b/live/031efcc0-e34f-11f1-99aa-0f40b013ad11.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f03b/live/031efcc0-e34f-11f1-99aa-0f40b013ad11.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T17:10:58+00:00"
   },
   {
    "id": "f38679cd7546964e",
@@ -343,12 +486,34 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9d04ffee-448c-4393-997a-1f11c7d1f515,1795020434081/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C625%2C6000%2C3375%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9d04ffee-448c-4393-997a-1f11c7d1f515,1795020434081/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C625%2C6000%2C3375%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:32:12+00:00"
+  },
+  {
+   "id": "8814397e52161f46",
+   "title": "Budget Fiat 500s complete 4,000km Rome challenge",
+   "summary": "Stuart Bailey and a group of men took £500 Fiats from Heathrow to Rome in three days, raising £13,000.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm2d93zpnyxeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T16:24:04+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f8c0/live/af5f4150-e36a-11f1-9f51-4bfc31543510.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f8c0/live/af5f4150-e36a-11f1-9f51-4bfc31543510.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T17:10:58+00:00"
   },
   {
    "id": "3aaf5d92c0730172",
@@ -530,26 +695,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:13:34+00:00"
-  },
-  {
-   "id": "e54ccd81a1434eb7",
-   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T15:40:40+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Iori Sagisawa/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T04:07:36+00:00"
   },
   {
    "id": "f19ef6b75cbfa748",
@@ -757,7 +902,7 @@
   },
   {
    "id": "2d6e0dc8ee36eff3",
-   "title": "Why Carney is looking to China as Canada's car industry comes US under pressure",
+   "title": "Why Carney is looking to China as Canada's car industry comes under US pressure",
    "summary": "Prime Minister Carney downplayed US concerns on Wednesday, saying its ties are not a \"top issue\" for President Trump as Canada eyes trade with Chinese carmakers.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
@@ -767,10 +912,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/74e5/live/4a211e10-e371-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/74e5/live/4a211e10-e371-11f1-99a1-253766e7ad8b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/74e5/live/4a211e10-e371-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/74e5/live/4a211e10-e371-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:01:11+00:00"
@@ -8146,136 +8291,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T12:44:00+00:00"
-  },
-  {
-   "id": "dd0fd43506cb1b69",
-   "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
-   "summary": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
-   "date": "2026-11-16T12:08:14+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-16T12:16:19+00:00"
-  },
-  {
-   "id": "db6cded58baa6c99",
-   "title": "Flying blind: inside the decline of the EPA’s chemical-detection plane",
-   "summary": "Agency’s Aspect plane once was a key part of tracking toxic chemicals during disasters – why is it now often grounded?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/16/epa-chemical-detection-plane",
-   "date": "2026-11-16T12:00:58+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Eric Vance / EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/024ab8f5461b45a4fb97f5c11618f35bbebcfce0/336_0_2350_1880/master/2350.jpg?width=700&quality=85&auto=format&fit=max&s=ff7daa63f68771e87ab430ccd8241f77",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T12:16:19+00:00"
-  },
-  {
-   "id": "6b8a3d787cc99aa8",
-   "title": "Great Britain’s oldest renewables projects could rake in nearly £9bn next year",
-   "summary": "Subsidy scheme, which is paid via taxes and energy bills, must be reformed, ECU analysis finds Business live – latest updates Great Britain’s oldest renewable energy projects are likely to rake in a near £9bn windfall next year because of soaring market…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/16/great-britain-renewable-energy-subsidies-wind-solar",
-   "date": "2026-11-16T11:56:20+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Murdo Macleod/The Guardian",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d77d3972f2c1caf3128ba878289175ef69677bd8/501_129_3955_3164/master/3955.jpg?width=700&quality=85&auto=format&fit=max&s=ef3c4098e9033532c51520f9f74551a0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T12:16:19+00:00"
-  },
-  {
-   "id": "000cbbad9d60b755",
-   "title": "Trump administration blames travel chaos on former presidents and Congress | First Thing",
-   "summary": "Donald Trump on Sunday blamed the Biden administration for the four-hour nationwide flight stoppage that led to thousands of canceled flights over the weekend.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/16/first-thing-trump-administration-blames-travel-chaos-on-former-presidents-and-congress",
-   "date": "2026-11-16T11:46:33+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Aaron Schwartz/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3895a73fc525e4b560bc91f0b5480fe71850c3d8/717_0_7144_5719/master/7144.jpg?width=700&quality=85&auto=format&fit=max&s=6b568ff543091279c68f290b0a7af033",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:57:52+00:00"
-  },
-  {
-   "id": "ff2b80eb981968b6",
-   "title": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
-   "summary": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
-   "date": "2026-11-16T11:40:25+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2020/03/c83ddbc80ee346baa03f767854b184cb_18.jpeg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2020/03/c83ddbc80ee346baa03f767854b184cb_18.jpeg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T11:57:52+00:00"
-  },
-  {
-   "id": "04a6be43e897197a",
-   "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
-   "summary": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
-   "date": "2026-11-16T11:39:14+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5032x3355+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F05%2F7f6a1f3e41a89d8061f70224b69a%2Fgettyimages-2305000048-1.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5032x3355+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb4%2F05%2F7f6a1f3e41a89d8061f70224b69a%2Fgettyimages-2305000048-1.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T15:04:58+00:00"
-  },
-  {
-   "id": "370bc9884f9a8ddd",
-   "title": "Regulating AI will being a top priority for congressional Democrats in the new year",
-   "summary": "A big priority for the incoming Congress will be regulating artificial intelligence. Democrats will face stiff opposition from the Trump administration and its hands-off policy towards AI.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/16/nx-s1-6037801/regulating-ai-will-being-a-top-priority-for-congressional-democrats-in-the-new-year",
-   "date": "2026-11-16T11:38:50+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-16T19:15:26+00:00"
   }
  ]
 }

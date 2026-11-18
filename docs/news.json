@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T04:45:36+00:00",
+ "generatedAt": "2026-11-18T04:54:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -221,10 +221,10 @@
    ],
    "kind": "analysis",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a746cc58fa65deee3aafa726758878f9bd801392/532_318_2937_2350/master/2937.jpg?width=700&quality=85&auto=format&fit=max&s=2343632f866c51ce7840b235790bca6c",
-    "w": 700,
+    "credit": "Photograph: Nathaniel Wilder/Bloomberg via Getty Images",
     "h": 560,
-    "credit": "Photograph: Nathaniel Wilder/Bloomberg via Getty Images"
+    "url": "https://i.guim.co.uk/img/media/a746cc58fa65deee3aafa726758878f9bd801392/532_318_2937_2350/master/2937.jpg?width=700&quality=85&auto=format&fit=max&s=2343632f866c51ce7840b235790bca6c",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T04:45:36+00:00"
@@ -570,9 +570,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/82c7d7d4-4d61-4828-a40f-c3c5947d6ace,1794958686571/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/82c7d7d4-4d61-4828-a40f-c3c5947d6ace,1794958686571/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:50:30+00:00"
@@ -746,7 +746,7 @@
   },
   {
    "id": "afc93e30dc534d30",
-   "title": "Iran war live: Bahrain, Kuwait intercept attacks, Manana blames Iran",
+   "title": "Iran war live: Bahrain, Kuwait intercept attacks, Manama blames Iran",
    "summary": "Bahrain slams 'criminal' Iranian attacks as Tehran claims it struck US base in Kuwait.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",

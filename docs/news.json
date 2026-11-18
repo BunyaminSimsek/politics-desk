@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T02:05:25+00:00",
+ "generatedAt": "2026-11-18T02:15:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,13 +11,13 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -166,12 +166,31 @@
  ],
  "items": [
   {
+   "id": "bdc16e5a8e45ec50",
+   "title": "Part of new bill would prevent lawsuits against Ontario government over OSAP pause",
+   "summary": "The Ontario government is taking steps to protect itself from lawsuits related to its provincewide pause on financial assistance payments to students at private post-secondary institutions.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/ontario-government-legislation-osap-pause-9.7426005?cmp=rss",
+   "date": "2026-11-18T02:03:35+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/9bd66015-1d5f-4b81-850f-d8b6a027839c,1794963819273/full/max/0/default.jpg?im=Crop%2Crect%3D%28293%2C634%2C5272%2C2965%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T02:15:02+00:00"
+  },
+  {
    "id": "5df5cda1f6fb9d32",
    "title": "White House pulls nomination of Heidi Overton to lead Food and Drug Administration – US politics live",
    "summary": "Trump administration official says it appeared that Overton, a physician and abortion opponent, lacked the votes necessary for Senate confirmation",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-18T01:41:35+00:00",
+   "date": "2026-11-18T01:57:40+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -197,10 +216,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T055201Z_50181537_RC2JLHASUIES_RTRMADP_3_SOUTHKOREA-USA-1794593795.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T055201Z_50181537_RC2JLHASUIES_RTRMADP_3_SOUTHKOREA-USA-1794593795.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T055201Z_50181537_RC2JLHASUIES_RTRMADP_3_SOUTHKOREA-USA-1794593795.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T055201Z_50181537_RC2JLHASUIES_RTRMADP_3_SOUTHKOREA-USA-1794593795.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T02:05:25+00:00"
@@ -868,7 +887,7 @@
   {
    "id": "efcae7e64164371e",
    "title": "Mark Carney’s budget includes billions in borrowing beyond the deficit, new analysis finds",
-   "summary": "Parliament's budget watchdog is shedding new light on potential weak spots in Prime Minister Mark Carney's heavy-spending fiscal plan — including hundreds of billions of dollars in shadowy government borrowing that goes beyond the $62.3-billion deficit.",
+   "summary": "Parliament's budget watchdog found hundreds of billions of dollars in shadowy government borrowing that goes beyond the $62.3-billion deficit.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/carney-s-budget-includes-billions-in-borrowing-beyond-the-deficit-new-analysis-finds/article_38335c9a-e698-4a3d-9d17-8c5e0c956265.html",
    "date": "2026-11-17T22:15:00+00:00",
@@ -899,9 +918,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/0aa14623-09a4-44aa-8674-20f5dc3be8c3,1794952529127/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C150%2C6155%2C3462%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/0aa14623-09a4-44aa-8674-20f5dc3be8c3,1794952529127/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C150%2C6155%2C3462%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:10:01+00:00"
@@ -960,9 +979,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/871ba9db-e0ee-4926-9415-9169410d1b16,1794946047543/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C396%2C8083%2C4546%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/871ba9db-e0ee-4926-9415-9169410d1b16,1794946047543/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C396%2C8083%2C4546%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:00:23+00:00"
@@ -7746,7 +7765,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -8276,26 +8295,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T10:11:32+00:00"
-  },
-  {
-   "id": "4c0557da6e6f2b1b",
-   "title": "Protesters condemn US policies as ASEAN summit begins in Manila",
-   "summary": "Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss",
-   "date": "2026-11-15T09:49:43+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794736177.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794736177.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T10:02:20+00:00"
   }
  ]
 }

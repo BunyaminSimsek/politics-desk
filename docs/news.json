@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T13:33:45+00:00",
+ "generatedAt": "2026-11-18T13:43:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 32
+   "kept": 31
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,12 +166,76 @@
  ],
  "items": [
   {
+   "id": "7f0ebec0fc8ab15d",
+   "title": "Labour drops plan to ban foie gras imports to help seal EU food trade deal",
+   "summary": "Animal welfare charities criticise ‘backwards step’ on foie gras, production of which has been banned in UK since 2007 Foie gras imports into the UK will no longer be banned as ministers drop the pledge in order to smooth a trade deal with the EU that will be…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal",
+   "date": "2026-11-18T13:37:47+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/70e660fd41167b951c370313da615a9538afcd67/145_272_4671_3738/master/4671.jpg?width=700&quality=85&auto=format&fit=max&s=602c88dbdb439ee9faae01351e187a79",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: 4k-Clips/Alamy"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T13:43:06+00:00"
+  },
+  {
+   "id": "ecd1fcdc34435c6a",
+   "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
+   "summary": "Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-18T13:36:12+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Chris McGrath/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T07:23:06+00:00"
+  },
+  {
+   "id": "ed344170b43a5e1a",
+   "title": "Israel postpones construction contracts for E1 West Bank settlement",
+   "summary": "Move comes days after UK’s sanctions on construction firms operating in area but said to be pending new government Israel has postponed the issuing of contracts for a large settlement construction on the West Bank seen as likely to render a two-state solution…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+   "date": "2026-11-18T13:35:47+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/5194b80555b6c2943edc4879929a9371fca4797c/421_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=4f29aa142b78beaa3b6ab2d89db887fa",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Ammar Awad/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T13:43:06+00:00"
+  },
+  {
    "id": "178f94915ff3cf34",
    "title": "Peltola’s Alaska win ‘a gift for all America,’ says Schumer – US politics live",
    "summary": "Senate Democratic leader hails result which will give the party a commanding 56-44 seat majority Trump in China for Apec summit – follow live",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T13:23:23+00:00",
+   "date": "2026-11-18T13:30:09+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -226,28 +290,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T13:24:38+00:00"
-  },
-  {
-   "id": "ecd1fcdc34435c6a",
-   "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
-   "summary": "Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-18T13:17:41+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chris McGrath/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T07:23:06+00:00"
   },
   {
    "id": "ff3942ae628f34da",
@@ -1036,8 +1078,8 @@
   },
   {
    "id": "19404597ef748560",
-   "title": "Carney to meet with Trump at APEC, says Canada's trade ties with China are not U.S. president's top concern",
-   "summary": "Prime Minister Mark Carney on Wednesday said that Canada 's growing trade relations with China are not a top priority for U.S.",
+   "title": "Carney meets with Trump at APEC, says Canada's trade with China isn't U.S. president's top concern",
+   "summary": "Prime Minister Mark Carney met with U.S. President Donald Trump on the margins of the Asia-Pacific Economic Co-operation Economic summit in Shenzhen, China, on Wednesday. Carney says Canada's growing trade relations with China are not a top priority for U.S.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/carney-china-trade-9.7426126?cmp=rss",
    "date": "2026-11-18T09:54:30+00:00",
@@ -8248,46 +8290,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T06:55:40+00:00"
-  },
-  {
-   "id": "022551b4aa7642dc",
-   "title": "UK exposed to polycrisis of threats amid government ‘complacency’",
-   "summary": "Lords report calls for urgent new approach to resilience planning in face of cyber-attacks, sabotage and climate crisis Ministers are complacent in the face of fast-changing and increasingly interconnected threats to the UK, and must act quickly to increase…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency",
-   "date": "2026-11-16T06:30:35+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Fred Tanneau/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=700&quality=85&auto=format&fit=max&s=cfe2a193d15f66ab4c0a55464b902496",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T06:37:32+00:00"
-  },
-  {
-   "id": "861e0c85bddf9a58",
-   "title": "Home Office accused of trying to cancel online talk by Andreas Malm",
-   "summary": "Hackney mayor decries ‘assault’ on free speech over event featuring Swedish academic who is banned from entering UK Shabana Mahmood has been accused of an “assault” on free speech over claims her officials tried to cancel an online talk by the climate…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/16/home-office-andreas-malm-climate-academic-online-talk",
-   "date": "2026-11-16T06:00:37+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Composite: Getty Images and Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/930d01efe71df8352c4ebe534faf5b61d3fc8f15/0_0_4724_3780/master/4724.jpg?width=700&quality=85&auto=format&fit=max&s=2ce9e03ee240835f193736469012ef85",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T06:19:08+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T08:55:19+00:00",
+ "generatedAt": "2026-11-18T09:04:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,13 +11,13 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,63 @@
   }
  ],
  "items": [
+  {
+   "id": "d6fdc70bb55e270c",
+   "title": "Toronto’s new council is meeting for the first time. Here's who is new and what to expect",
+   "summary": "Toronto's mayor and 25 councillors will take part in their first council meeting Wednesday, where they will swear an oath of office and Olivia Chow will make her first speech. There are seven new faces on the council floor this term.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/toronto-council-first-meeting-2026-9.7424770?cmp=rss",
+   "date": "2026-11-18T09:00:00+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/cb29f784-27c0-40a1-a21e-5ac05b3466d3,1794922724377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:04:26+00:00"
+  },
+  {
+   "id": "80c4e660a50cf54d",
+   "title": "What the U.S. might learn from Canada's privatized air traffic control",
+   "summary": "It's not often that commentators from the U.S. political right will look to Canada as a model for how their country should run a particular function. Yet the grounding of thousands of flights days ago has sparked renewed calls for the U.S.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/air-traffic-control-nav-canada-9.7425458?cmp=rss",
+   "date": "2026-11-18T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/ca025728-6112-4b64-9058-0d129c557131,1794965544393/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C254%2C4928%2C2772%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:04:26+00:00"
+  },
+  {
+   "id": "f4267749d5381c0e",
+   "title": "Oddly enough, this video game weighs in on Canada's fighter jet options",
+   "summary": "The gaming industry might not be the first place to look for military procurement advice, but a recently released video game offers a subtle suggestion for what Canada should pick for its new fighter jet fleet.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/politics/ace-combat-grippen-f-35-canada-procurement-9.7425376?cmp=rss",
+   "date": "2026-11-18T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/b99667de-37fc-4a43-a94f-e46001399283,1794957596939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C3000%2C1687%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:04:26+00:00"
+  },
   {
    "id": "e54ccd81a1434eb7",
    "title": "Apec summit live: Xi and Putin start talks as Trump arrives in China",
@@ -221,10 +278,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/e24256f82f3f23b14c7dfb48eaf889e17df6ae75/0_0_3807_3047/master/3807.jpg?width=700&quality=85&auto=format&fit=max&s=dca14749dbe44cb354d01c7d678b61ee",
-    "w": 700,
+    "credit": "Photograph: Jonathan Brady/PA",
     "h": 560,
-    "credit": "Photograph: Jonathan Brady/PA"
+    "url": "https://i.guim.co.uk/img/media/e24256f82f3f23b14c7dfb48eaf889e17df6ae75/0_0_3807_3047/master/3807.jpg?width=700&quality=85&auto=format&fit=max&s=dca14749dbe44cb354d01c7d678b61ee",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T08:55:19+00:00"
@@ -8176,7 +8233,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -8252,70 +8309,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T14:27:51+00:00"
-  },
-  {
-   "id": "bb8244e474ffb673",
-   "title": "‘We gotta do something’: the coalition that helped elect Scott Colom to Senate",
-   "summary": "Behind the Mississippi senator-elect’s victory is a coalition of groups that didn’t have a lot of money, but had collective power and post-Callais anger Long before national political leaders and media were paying any attention, long before the Louisiana v…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/15/coalition-scott-colom-mississippi-senate-win",
-   "date": "2026-11-15T14:00:20+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ellen Schmidt/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9a8eb652e4a76165df6393bca4f6d5dc04003a64/275_0_2802_2241/master/2802.jpg?width=700&quality=85&auto=format&fit=max&s=717ff035ee1d6599a10dceb390ec4f7f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T14:18:47+00:00"
-  },
-  {
-   "id": "13d9bad496d7dcd2",
-   "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
-   "summary": "Defence briefing released under freedom of information laws shows ADF beholden to US directives when in training Get our breaking news email , free app or daily news podcast Aukus is effectively forcing the Australian navy to comply with a US ban on…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
-   "date": "2026-11-15T14:00:19+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Dan Himbrechts/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/356f21ddc437a4887e83d6d01db9002f42e995fc/299_0_4101_3280/master/4101.jpg?width=700&quality=85&auto=format&fit=max&s=0a95632d7c5d68c9998b1972b9acf317",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T14:18:47+00:00"
-  },
-  {
-   "id": "365c61c687d5e337",
-   "title": "Iran targets US military base in Bahrain with drone attack",
-   "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-15T13:42:58+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T14:09:39+00:00"
   }
  ]
 }

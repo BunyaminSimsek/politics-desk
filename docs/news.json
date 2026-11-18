@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T20:18:34+00:00",
+ "generatedAt": "2026-11-18T20:27:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 27
+   "kept": 28
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "ee7b14dff8918da3",
+   "title": "Hegseth boasts about Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
+   "summary": "The US defense secretary called the former president’s capture the ‘most sophisticated military operation’ in Latin American history Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+   "date": "2026-11-18T20:24:19+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/5a2659b36cd46ba418be2f766406edf0de385668/204_0_2041_1632/master/2041.jpg?width=700&quality=85&auto=format&fit=max&s=48a3a514a65fe8de9ddc4f7a08deeadf",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Juan Barreto/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T20:27:44+00:00"
+  },
+  {
    "id": "f5974850414e0694",
    "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
    "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
@@ -179,13 +201,53 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:18:34+00:00"
+  },
+  {
+   "id": "3b3a6f9678f590e8",
+   "title": "Trump and Putin to meet one-on-one in China Thursday",
+   "summary": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
+   "date": "2026-11-18T20:12:20+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T114442Z_790680677_RC2BQOAGHXCC_RTRMADP_3_APEC-SUMMIT-1795002390.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T114442Z_790680677_RC2BQOAGHXCC_RTRMADP_3_APEC-SUMMIT-1795002390.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T20:27:44+00:00"
+  },
+  {
+   "id": "178f94915ff3cf34",
+   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "date": "2026-11-18T20:11:50+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "2d6e0dc8ee36eff3",
@@ -285,26 +347,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T19:50:03+00:00"
-  },
-  {
-   "id": "178f94915ff3cf34",
-   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T19:42:25+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "251bcc5da014a43c",
@@ -1329,6 +1371,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T15:44:38+00:00"
+  },
+  {
+   "id": "9458e9be620ec64c",
+   "title": "Anthony Albanese defies critics for Apec summit photo with Vladimir Putin",
+   "summary": "Despite pleas from pro-Ukraine Australians, the prime minister accepts wishes of Chinese hosts with group picture Get our daily political email , free app or daily news podcast Anthony Albanese has appeared in a leaders’ photo with Vladimir Putin at the Apec…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/18/anthony-albanese-defies-critics-for-apec-summit-photo-with-vladimir-putin",
+   "date": "2026-11-18T15:39:11+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0f51934b63e062c5243308f8cf7a169870c88c42/867_0_6420_5136/master/6420.jpg?width=700&quality=85&auto=format&fit=max&s=b79dc0c8b9334fc24b75401bc9e97878",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lukas Coch/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T20:27:44+00:00"
   },
   {
    "id": "c35ea5dcbea50196",
@@ -8227,66 +8289,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T17:10:47+00:00"
-  },
-  {
-   "id": "5f8e24a993c83c9b",
-   "title": "Iran braces for natural gas shortages during winter energy imbalance",
-   "summary": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
-   "date": "2026-11-16T16:58:46+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afb20d010cdd-1794842832.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afb20d010cdd-1794842832.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T17:20:24+00:00"
-  },
-  {
-   "id": "54a6b810290745d2",
-   "title": "Jerusalem Daily: Eisenkot wants Netanyahu out",
-   "summary": "Israeli opposition leader Gadi Eisenkot appears to be pushing to oust Benjamin Netanyahu as Prime Minister.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
-   "date": "2026-11-16T16:56:46+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/16-9-1794848180.png?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/16-9-1794848180.png?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T17:10:47+00:00"
-  },
-  {
-   "id": "4e32932ee6d39322",
-   "title": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
-   "summary": "Many countries surprised to see first version delivered with more than four days of negotiation remaining A draft text of a possible final outcome from the Cop31 UN climate summit is an attempt to “draw out parties” on their areas of agreement and…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
-   "date": "2026-11-16T16:54:42+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tolga Akmen/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a2d4b420ed47005796a742b6214ae07afc58f5e1/536_0_6113_4890/master/6113.jpg?width=700&quality=85&auto=format&fit=max&s=0b774c93d2e425c8ace144e6669e7a88",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T17:01:10+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T18:35:37+00:00",
+ "generatedAt": "2026-11-18T18:44:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,10 +177,52 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Miller-2-e1795026467594.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Miller-2-e1795026467594.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Miller-2-e1795026467594.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Miller-2-e1795026467594.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T18:35:37+00:00"
+  },
+  {
+   "id": "178f94915ff3cf34",
+   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "date": "2026-11-18T18:27:31+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:00:21+00:00"
+  },
+  {
+   "id": "251bcc5da014a43c",
+   "title": "Ex-Tory defectors barred from shaping Reform UK’s immigration policy, says Yusuf",
+   "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at the top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
+   "date": "2026-11-18T18:26:17+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Isabel Infantes/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/297daa4e63256807e9b1bfbba9295164f2d00efe/408_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=4f26bbca027faa6ab4d6c792b3d1d37b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:35:37+00:00"
@@ -219,32 +261,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a4aaec89d929-1783279304-1-1788435078.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a4aaec89d929-1783279304-1-1788435078.jpg?resize=640%2C427"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T18:35:37+00:00"
-  },
-  {
-   "id": "251bcc5da014a43c",
-   "title": "Ex-Tory defectors barred from shaping Reform UK’s immigration policy, says Yusuf",
-   "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at the top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
-   "date": "2026-11-18T18:22:03+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/297daa4e63256807e9b1bfbba9295164f2d00efe/408_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=4f26bbca027faa6ab4d6c792b3d1d37b",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Isabel Infantes/Reuters"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a4aaec89d929-1783279304-1-1788435078.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a4aaec89d929-1783279304-1-1788435078.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:35:37+00:00"
@@ -261,10 +281,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5877x3918+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Ff0%2Fc9512a594ebf8571a9747c9fbf91%2Fap25197732967711.jpg",
-    "w": 1200,
     "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5877x3918+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Ff0%2Fc9512a594ebf8571a9747c9fbf91%2Fap25197732967711.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5877x3918+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Ff0%2Fc9512a594ebf8571a9747c9fbf91%2Fap25197732967711.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5877x3918+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2Ff0%2Fc9512a594ebf8571a9747c9fbf91%2Fap25197732967711.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:35:37+00:00"
@@ -303,33 +323,13 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795025520.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795025520.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795025520.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795025520.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:35:37+00:00"
-  },
-  {
-   "id": "178f94915ff3cf34",
-   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T18:11:53+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "f41d7fd30b3fc4ae",
@@ -343,10 +343,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250517__473B2TK__v1__HighRes__PhilippinesVote-1795017928.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250517__473B2TK__v1__HighRes__PhilippinesVote-1795017928.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250517__473B2TK__v1__HighRes__PhilippinesVote-1795017928.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250517__473B2TK__v1__HighRes__PhilippinesVote-1795017928.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:35:37+00:00"

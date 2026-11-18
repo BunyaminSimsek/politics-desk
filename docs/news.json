@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T09:50:42+00:00",
+ "generatedAt": "2026-11-18T09:59:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -149,7 +149,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/africa/rss",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Conversation",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "a9cefeb130119d8e",
+   "title": "Fears grow over US sanctions on ICJ judges ahead of Myanmar genocide ruling",
+   "summary": "Ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay , if…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+   "date": "2026-11-18T09:58:28+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=700&quality=85&auto=format&fit=max&s=21ad8aa4d42ffde7743ab688025d217b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Danish Siddiqui/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:59:54+00:00"
+  },
+  {
+   "id": "92794bdb7e5223a3",
+   "title": "Shabana Mahmood pledges to tackle ‘corrosive and growing perception of two-tier policing’ – UK politics live",
+   "summary": "Home secretary to give speech to National Police Chiefs’ Council addressing concerns that officers treats groups differently David Lammy , the former foreign secretary and former deputy PM, has used an article in the Times to say that Andy Burnham should…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T09:49:12+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Wiktor Szymanowicz/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/33254d2eac8860504ca73a4dff0ae32ca97afd18/218_0_2181_1745/master/2181.jpg?width=700&quality=85&auto=format&fit=max&s=0fe2a2d430cb4992a1d4001b54ec2a3b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
   {
    "id": "ecd1fcdc34435c6a",
    "title": "Cop31 live: clock running down on climate talks as deep divisions remain",
@@ -199,33 +239,53 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/49986989a15aedf0b1ef64a91c15da5f6cdb5d9c/291_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=87b38a1367f1119d7a70d5e88f8112a4",
-    "w": 700,
+    "credit": "Photograph: Win McNamee/Getty Images",
     "h": 560,
-    "credit": "Photograph: Win McNamee/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/49986989a15aedf0b1ef64a91c15da5f6cdb5d9c/291_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=87b38a1367f1119d7a70d5e88f8112a4",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T04:07:36+00:00"
   },
   {
-   "id": "92794bdb7e5223a3",
-   "title": "Shabana Mahmood pledges to tackle ‘corrosive and growing perception of two-tier policing’ – UK politics live",
-   "summary": "Home secretary to give speech to National Police Chiefs’ Council addressing concerns that officers treats groups differently Energy bills across Great Britain are predicted to reach £2,166 a year for the typical household from January as the impact of the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "date": "2026-11-18T09:34:59+00:00",
-   "topic": "europe",
+   "id": "f3d421208ac49e3b",
+   "title": "Why Democrat Mary Peltola’s US Senate win in Alaska matters",
+   "summary": "Peltola’s Alaska win gives Democrats 56 Senate seats and a buffer in Republican states ahead of the 2028 elections.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss",
+   "date": "2026-11-18T09:38:50+00:00",
+   "topic": "us",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Wiktor Szymanowicz/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/33254d2eac8860504ca73a4dff0ae32ca97afd18/218_0_2181_1745/master/2181.jpg?width=700&quality=85&auto=format&fit=max&s=0fe2a2d430cb4992a1d4001b54ec2a3b",
-    "w": 700
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afd1b1e-1794972446.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afd1b1e-1794972446.jpg?resize=640%2C427"
    },
    "breaking": false,
-   "addedAt": "2026-11-18T09:14:11+00:00"
+   "addedAt": "2026-11-18T09:59:54+00:00"
+  },
+  {
+   "id": "932b1252e465e390",
+   "title": "As Trump arrives in China, low expectations for breakthroughs in rivalry",
+   "summary": "Analysts expect few concrete outcomes from talks between the leaders on the sidelines of the APEC summit.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss",
+   "date": "2026-11-18T09:30:01+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260925__C9DV8KZ__v2__MidRes__UsPresidentDonaldTrumpAndChinaSPresidentXiJinpin-1794969459_2548ad-1794970533_30d5a7-1794972474.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260925__C9DV8KZ__v2__MidRes__UsPresidentDonaldTrumpAndChinaSPresidentXiJinpin-1794969459_2548ad-1794970533_30d5a7-1794972474.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:59:54+00:00"
   },
   {
    "id": "5b173bcf7f47daa9",
@@ -8245,68 +8305,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T17:41:14+00:00"
-  },
-  {
-   "id": "e0955fd7534487b8",
-   "title": "Greens elect former MP Mike Morrice, the sole candidate, to lead party",
-   "summary": "OTTAWA - The Green Party of Canada has elected former MP Mike Morrice to lead the party — the sole candidate running in the leadership race.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/greens-elect-former-mp-mike-morrice-the-sole-candidate-to-lead-party/article_f18b573d-36ec-5961-8dd6-ec6db32dbb9c.html",
-   "date": "2026-11-15T17:16:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 821,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/d7/cd749736-ece4-5fa5-961c-bbee6a27c6d7/6af9e9c3d0f53.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/d7/cd749736-ece4-5fa5-961c-bbee6a27c6d7/6af9e9c3d0f53.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T17:22:59+00:00"
-  },
-  {
-   "id": "69108f79f000421d",
-   "title": "Somalia: We would not have recovered without the international community",
-   "summary": "Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss",
-   "date": "2026-11-15T16:47:36+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794761249.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794761249.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T17:22:59+00:00"
-  },
-  {
-   "id": "77828ca2a56f6add",
-   "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
-   "summary": "Democratic senator Chris Van Hollen says Trump administration has not properly invested existing funds Donald Trump’s administration on Sunday blamed the travel chaos stemming from Friday’s four-hour nationwide flight stoppage on prior presidents as well as a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
-   "date": "2026-11-15T16:18:49+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Aaron Schwartz/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a09839dd38148bdd17475e10c93caf952fd6b7f0/557_0_6663_5330/master/6663.jpg?width=700&quality=85&auto=format&fit=max&s=830c35505a52988b235fe24f297865e2",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T16:27:23+00:00"
   }
  ]
 }

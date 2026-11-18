@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T23:53:48+00:00",
+ "generatedAt": "2026-11-18T00:03:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "0ff1c90758ed56ee",
+   "title": "Canada, India on the cusp of finalizing free trade deal, says high envoy",
+   "summary": "OTTAWA - India's high commissioner to Canada says the two countries are on the cusp of finalizing a free trade agreement.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/canada-india-on-the-cusp-of-finalizing-free-trade-deal-says-high-envoy/article_6ba78681-4c93-527a-acb1-93d666392c52.html",
+   "date": "2026-11-17T23:48:27+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/91/591b6633-5bb4-5474-8543-02c89073178b/6afce82d210b5.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 838,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/91/591b6633-5bb4-5474-8543-02c89073178b/6afce82d210b5.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T00:03:09+00:00"
+  },
+  {
    "id": "5df5cda1f6fb9d32",
    "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
    "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
@@ -217,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26321467242182-1794953286.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26321467242182-1794953286.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26321467242182-1794953286.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26321467242182-1794953286.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T23:53:48+00:00"
@@ -521,9 +543,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/871ba9db-e0ee-4926-9415-9169410d1b16,1794946047543/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C396%2C8083%2C4546%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/871ba9db-e0ee-4926-9415-9169410d1b16,1794946047543/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C396%2C8083%2C4546%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:00:23+00:00"
@@ -930,7 +952,7 @@
   },
   {
    "id": "f38fc2cffad64253",
-   "title": "Australia sanctions individuals and company involved in illegal West Bank settlements",
+   "title": "‘Godmother’ of illegal Israeli West Bank settler project Daniella Weiss among group sanctioned by Australia",
    "summary": "Foreign affairs minister Penny Wong says rapid expansion of settlements and settler violence are ‘extinguishing the possibility of a two-state solution’ Get our breaking news email , free app or daily news podcast Australia has announced another tranche of…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
@@ -1191,7 +1213,7 @@
     "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
     "w": 1200
    },
-   "breaking": true,
+   "breaking": false,
    "addedAt": "2026-11-17T13:06:00+00:00"
   },
   {
@@ -7307,7 +7329,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "toronto",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "housing"
@@ -8199,26 +8221,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T00:15:58+00:00"
-  },
-  {
-   "id": "2fcbbe5c71bc9a55",
-   "title": "Iran war live: Bahrain targeted as Gulf nations warned against US support",
-   "summary": "Bahrain says it intercepted 'treacherous' Iranian attacks as tensions rise over heightened strikes in the Gulf.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-   "date": "2026-11-15T00:00:08+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af8f20a72c9-1794699786.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af8f20a72c9-1794699786.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T00:25:00+00:00"
   }
  ]
 }

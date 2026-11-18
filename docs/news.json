@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T19:03:31+00:00",
+ "generatedAt": "2026-11-18T19:13:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "178f94915ff3cf34",
+   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "date": "2026-11-18T19:04:50+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:00:21+00:00"
+  },
   {
    "id": "251bcc5da014a43c",
    "title": "Ex-Tory defectors barred from shaping Reform’s immigration policy, says Zia Yusuf",
@@ -230,6 +250,26 @@
    "addedAt": "2026-11-18T17:48:14+00:00"
   },
   {
+   "id": "0a7d9fa711832564",
+   "title": "Something else is lurking just ‘Below’ the surface of Newfoundland’s waters — raw sewage",
+   "summary": "A warning sign at Bartlett's Point Park in Corner Brook, NL. (Josie Wittmer) , CC BY The popular new Netflix thriller series Below portrays life in coastal Newfoundland and a frightening presence in the water that turns out to be a giant squid.",
+   "source": "The Conversation",
+   "url": "https://theconversation.com/something-else-is-lurking-just-below-the-surface-of-newfoundlands-waters-raw-sewage-296015",
+   "date": "2026-11-18T18:44:48+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "analysis",
+   "image": {
+    "url": "https://images.theconversation.com/files/772222/original/file-20261116-64-ejlzfp.jpg?ixlib=rb-4.1.1&rect=0%2C160%2C1920%2C1280&q=45&auto=format&h=700&w=1200&fit=clip",
+    "w": 1050,
+    "h": 700,
+    "small": "https://images.theconversation.com/files/772222/original/file-20261116-64-ejlzfp.jpg?ixlib=rb-4.1.1&rect=0%2C160%2C1920%2C1280&q=45&auto=format&h=700&w=640&fit=clip"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T19:13:14+00:00"
+  },
+  {
    "id": "fef422c85df5c054",
    "title": "Burnham considering cuts to national insurance to create more youth jobs",
    "summary": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s Who are the Neets? UK youth job crisis in five charts UK firms: what is stopping you hiring young people?",
@@ -268,26 +308,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:35:37+00:00"
-  },
-  {
-   "id": "178f94915ff3cf34",
-   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T18:27:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "ccd6ba57f213edd2",
@@ -937,9 +957,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9d04ffee-448c-4393-997a-1f11c7d1f515,1795020434081/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C625%2C6000%2C3375%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9d04ffee-448c-4393-997a-1f11c7d1f515,1795020434081/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C625%2C6000%2C3375%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:32:12+00:00"
@@ -8271,28 +8291,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T07:32:36+00:00"
-  },
-  {
-   "id": "33e3b5f68af72ad0",
-   "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
-   "summary": "Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
-   "date": "2026-11-16T14:58:30+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T121023Z_2060620919_RC2A4OAZTDXA_RTRMADP_3_UKRAINE-CRISIS-STARLINK-FRONTLINE-1792169044_17a937-1792492051.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-16T121023Z_2060620919_RC2A4OAZTDXA_RTRMADP_3_UKRAINE-CRISIS-STARLINK-FRONTLINE-1792169044_17a937-1792492051.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T15:33:32+00:00"
   }
  ]
 }

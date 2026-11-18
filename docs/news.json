@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T23:45:21+00:00",
+ "generatedAt": "2026-11-18T23:54:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "0bb34d16b41dac20",
+   "title": "'Last chance' meeting with Stellantis looms Friday in hopes of saving Brampton plant for auto production",
+   "summary": "Premier Doug Ford and federal Industry Minister Melanie Joly will both be at Friday's meeting to try to thwart Stellantis' deal to sell the plant.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/last-chance-meeting-with-stellantis-looms-friday-in-hopes-of-saving-brampton-plant-for-auto-production/article_f3ab9b40-bdb3-4d54-bc9c-e5d7bc8918a7.html",
+   "date": "2026-11-18T23:30:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/a8/fa815426-a66a-58a4-940d-ec49ee905409/6afe2f5a34135.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/a8/fa815426-a66a-58a4-940d-ec49ee905409/6afe2f5a34135.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T23:54:31+00:00"
+  },
+  {
+   "id": "09de4841cc3a2aa6",
+   "title": "Ontario elementary school teachers become third union to vote for strike mandate",
+   "summary": "The Elementary Teachers’ Federation of Ontario announced it had overwhelming support for job action.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/ontario-elementary-school-teachers-become-third-union-to-vote-for-strike-mandate/article_652825ec-a4cb-41bf-9f0e-c29674d62b19.html",
+   "date": "2026-11-18T23:30:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/e4/0e49957a-f2c7-5a0e-a309-9cdb8ae6ecb7/6afe26362d1f5.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/e4/0e49957a-f2c7-5a0e-a309-9cdb8ae6ecb7/6afe26362d1f5.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T23:54:31+00:00"
+  },
+  {
    "id": "a2c3574e4f0cbe70",
    "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
    "summary": "Military incursion into Gaza, the first since ceasefire was agreed last October, comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the…",
@@ -179,10 +219,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d94406113e8bb1466134873bf0554edf8a0ac2a7/340_0_3588_2871/master/3588.jpg?width=700&quality=85&auto=format&fit=max&s=4dc4559243f5b830ca95e17c91e4d419",
-    "w": 700,
+    "credit": "Photograph: Eyad Baba/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Eyad Baba/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/d94406113e8bb1466134873bf0554edf8a0ac2a7/340_0_3588_2871/master/3588.jpg?width=700&quality=85&auto=format&fit=max&s=4dc4559243f5b830ca95e17c91e4d419",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T23:45:21+00:00"
@@ -722,9 +762,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/96a552b2-5bfd-4809-a5de-1d7724f9a577,1795030632353/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C308%2C4717%2C2653%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/96a552b2-5bfd-4809-a5de-1d7724f9a577,1795030632353/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C308%2C4717%2C2653%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T19:50:03+00:00"
@@ -8251,47 +8291,6 @@
     "h": 850,
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/6a/26a8ed1c-a114-5c1d-bbc5-e8e4321be5f0/6afb53e0f0fc5.image.jpg?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/6a/26a8ed1c-a114-5c1d-bbc5-e8e4321be5f0/6afb53e0f0fc5.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T19:15:26+00:00"
-  },
-  {
-   "id": "11e70b03101063f9",
-   "title": "Toronto to help build over 9,000 new rental homes through phase 2 of plan to development incentives, Chow says",
-   "summary": "Toronto will support the building of over 9,000 more rental homes in the city, including over 2,000 affordable, rent-controlled units, through the second phase of a housing initiative, Toronto mayor Olivia Chow announced at the phase’s launch Monday morning.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/chow-housing-announcement-new-rental-homes-9.7423873?cmp=rss",
-   "date": "2026-11-16T18:56:10+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [
-    "housing"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/4576c1a9-b984-480d-b930-f0b193a64600,1794852306643/full/max/0/default.jpg?im=Crop%2Crect%3D%28160%2C0%2C1759%2C989%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T19:15:26+00:00"
-  },
-  {
-   "id": "45edaf2338125e32",
-   "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-   "summary": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-   "date": "2026-11-16T18:49:26+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5367x3578+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F22%2F5d8e832c4fd78402c75d44e19475%2Fgettyimages-2303986706-1.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5367x3578+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7c%2F22%2F5d8e832c4fd78402c75d44e19475%2Fgettyimages-2303986706-1.jpg",
     "w": 1200
    },
    "breaking": false,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T19:50:03+00:00",
+ "generatedAt": "2026-11-18T19:59:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "ddaa3f50c527a164",
+   "title": "US admits ‘substantial’ change to extradition request translation for leftist activist",
+   "summary": "DoJ cites three examples of alterations from English into Spanish for James ‘Fergie’ Chambers after Guardian report US authorities have admitted altering the translation of an extradition request for James “Fergie” Chambers from English into Spanish…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/fergie-chambers-extradition-request-translation",
+   "date": "2026-11-18T19:45:30+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f27c634fbe0907856aaa981eebb05679b55ad4aa/247_0_4681_3744/master/4681.jpg?width=700&quality=85&auto=format&fit=max&s=a12c16ce00d0a097e6e50bb3b2fb12e2",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Chedly Ben Ibrahim/NurPhoto/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T19:59:46+00:00"
+  },
+  {
    "id": "1603c72dee33fbfe",
    "title": "Nearly 300,000 people sign petition demanding U.S. Ambassador Pete Hoekstra's removal",
    "summary": "More than 285,000 people have signed a petition asking the federal government to remove U.S. Ambassador Pete Hoekstra from Canada.",
@@ -177,12 +197,32 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/96a552b2-5bfd-4809-a5de-1d7724f9a577,1795030632353/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C308%2C4717%2C2653%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/96a552b2-5bfd-4809-a5de-1d7724f9a577,1795030632353/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C308%2C4717%2C2653%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T19:50:03+00:00"
+  },
+  {
+   "id": "178f94915ff3cf34",
+   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "date": "2026-11-18T19:42:25+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "251bcc5da014a43c",
@@ -250,8 +290,8 @@
   },
   {
    "id": "51664ed2311ddc48",
-   "title": "EU to reject UK talks on longer-term ties pending clarity from Burnham on next steps",
-   "summary": "Diplomats says piecemeal approach of resets coming to an end and they want government decision on whether it will seek to reverse Brexit The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the…",
+   "title": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
+   "summary": "Diplomats say piecemeal approach of resets is coming to an end and Europe wants clarity on whether Britain wants to reverse its exit The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
    "date": "2026-11-18T19:17:19+00:00",
@@ -267,26 +307,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T19:31:35+00:00"
-  },
-  {
-   "id": "178f94915ff3cf34",
-   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T19:04:50+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=700&quality=85&auto=format&fit=max&s=4bc160ae174aa995cdb0f17806cdbd8a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "b822906e6de8ab6f",
@@ -675,7 +695,7 @@
   {
    "id": "9df76955d6a92ede",
    "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
-   "summary": "Jeffries is set to become one of Trump’s most prominent opponents for final two years of his presidency US politics live – latest updates Democrats on Wednesday resoundingly nominated Hakeem Jeffries to serve as speaker of the House when the new Congress…",
+   "summary": "Jeffries is set to become one of Trump’s most prominent opponents for final two years of his presidency US politics live – latest updates Democrats on Wednesday resoundingly nominated Hakeem Jeffries to serve as speaker of the House when the new Congress is…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
    "date": "2026-11-18T17:24:01+00:00",
@@ -769,9 +789,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/c534111c-4328-4bc7-937b-9ca76eee3654,1795023050121/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C483%2C6384%2C3591%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/c534111c-4328-4bc7-937b-9ca76eee3654,1795023050121/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C483%2C6384%2C3591%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T17:10:58+00:00"
@@ -8267,26 +8287,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T16:39:29+00:00"
-  },
-  {
-   "id": "0e930dbd08b09444",
-   "title": "DoJ warns Elizabeth Warren of ‘consequences’ unless she preserves Trump records",
-   "summary": "Letter to Warren, likely to chair Senate banking committee, echoes warnings to Democrats moving to investigate Trump The Trump administration has warned Elizabeth Warren , the senior Democratic senator expected to chair the powerful Senate banking committee…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/16/doj-elizabeth-warren-trump-investigation-records",
-   "date": "2026-11-16T15:50:59+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Heather Diehl/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e9abfc9d38fb847951ac25392dcdc53fcf6a2701/430_0_4292_3434/master/4292.jpg?width=700&quality=85&auto=format&fit=max&s=c6eed3537980cf5ad2aaaf9c465a8904",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T16:10:51+00:00"
   }
  ]
 }

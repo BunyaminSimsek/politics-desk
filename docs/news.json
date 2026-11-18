@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T11:23:51+00:00",
+ "generatedAt": "2026-11-18T11:32:52+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "ccbce158cd36940f",
+   "title": "Canada must curb predatory private equity buyouts",
+   "summary": "It’s only a slight exaggeration to suggest that before much of Canada was a country, it was a company – the Hudson’s Bay Company. HBC was the economy, holding exclusive rights to trade and commerce. Its governance charter, the law of the land.",
+   "source": "Policy Options",
+   "url": "https://policyoptions.irpp.org/2026/11/private-equity-resilience/",
+   "date": "2026-11-18T11:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "analysis",
+   "image": {
+    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Hudson-Bay.jpg?resize=1200%2C800",
+    "w": 1920,
+    "h": 1280,
+    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Hudson-Bay.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T11:32:52+00:00"
+  },
+  {
+   "id": "92794bdb7e5223a3",
+   "title": "Shabana Mahmood pledges to tackle ‘corrosive and growing perception of two-tier policing’ – UK politics live",
+   "summary": "Home secretary to give speech to National Police Chiefs’ Council addressing concerns that officers treats groups differently In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T11:22:28+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Wiktor Szymanowicz/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/33254d2eac8860504ca73a4dff0ae32ca97afd18/218_0_2181_1745/master/2181.jpg?width=700&quality=85&auto=format&fit=max&s=0fe2a2d430cb4992a1d4001b54ec2a3b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
   {
    "id": "ecd1fcdc34435c6a",
    "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
@@ -310,24 +350,24 @@
    "addedAt": "2026-11-18T11:05:03+00:00"
   },
   {
-   "id": "92794bdb7e5223a3",
-   "title": "Shabana Mahmood pledges to tackle ‘corrosive and growing perception of two-tier policing’ – UK politics live",
-   "summary": "Home secretary to give speech to National Police Chiefs’ Council addressing concerns that officers treats groups differently In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "date": "2026-11-18T10:57:54+00:00",
-   "topic": "europe",
+   "id": "2e0b6944471dc67d",
+   "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+   "summary": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T10:53:21+00:00",
+   "topic": "ukraine",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Wiktor Szymanowicz/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/33254d2eac8860504ca73a4dff0ae32ca97afd18/218_0_2181_1745/master/2181.jpg?width=700&quality=85&auto=format&fit=max&s=0fe2a2d430cb4992a1d4001b54ec2a3b",
-    "w": 700
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/331b/live/2dc2ba90-e33e-11f1-9479-d17d3e98c29d.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/331b/live/2dc2ba90-e33e-11f1-9479-d17d3e98c29d.jpg"
    },
    "breaking": false,
-   "addedAt": "2026-11-18T09:14:11+00:00"
+   "addedAt": "2026-11-18T11:32:52+00:00"
   },
   {
    "id": "9fd527d5b8900dbf",
@@ -8269,46 +8309,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T22:20:17+00:00"
-  },
-  {
-   "id": "ef2717616441a4f5",
-   "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
-   "summary": "Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis Get our daily political email , free app or daily news podcast In a joint statement the foreign ministers of Australia, Canada, the United…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
-   "date": "2026-11-15T21:57:21+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Moiz Salhi/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/682a0487f17cbff2735306182cdbb7ec07b2d56c/785_0_3912_3131/master/3912.jpg?width=700&quality=85&auto=format&fit=max&s=eb4dfb214a4848df466cabc6bef5aefc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T22:20:17+00:00"
-  },
-  {
-   "id": "9f1c366e6251cf4f",
-   "title": "Yemen’s Houthis unilaterally release 600 war detainees",
-   "summary": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
-   "date": "2026-11-15T21:19:08+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794777486.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794777486.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T21:34:23+00:00"
   }
  ]
 }

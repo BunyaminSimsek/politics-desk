@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T14:10:43+00:00",
+ "generatedAt": "2026-11-18T14:20:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 11
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 31
+   "kept": 32
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,168 @@
  ],
  "items": [
   {
+   "id": "178f94915ff3cf34",
+   "title": "Mary Peltola’s Alaska win ‘a gift for all America’, says Schumer – US politics live",
+   "summary": "Senate Democratic leader hails result which will give the party a commanding 56-44 seat majority Trump in China for Apec summit – follow live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "date": "2026-11-18T14:14:15+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Charly Triballeau/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/a6515916925b959ff16ca61b9965b12a7f3e61ff/516_0_2547_2038/master/2547.jpg?width=700&quality=85&auto=format&fit=max&s=ed1e3978c358b00cbdb77752e4f4661a",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:00:21+00:00"
+  },
+  {
+   "id": "716595acce2f6763",
+   "title": "Can the US and Iran sustain a ‘frozen war’?",
+   "summary": "Tehran may eventually decide that 'escalating confrontation' is preferable to status quo, says analyst Hamidreza Azizi.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
+   "date": "2026-11-18T14:13:51+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afda0fe31cb-1795006718.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afda0fe31cb-1795006718.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T14:20:04+00:00"
+  },
+  {
+   "id": "f3eaddaad9dbfcdf",
+   "title": "Mada Masr’s Lina Attalah due to appear before court in Egypt",
+   "summary": "Mada Masr Editor-in-Chief Lina Attalah is set to face a retrial before an Egyptian criminal court.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss",
+   "date": "2026-11-18T14:11:07+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795011056.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795011056.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T14:20:04+00:00"
+  },
+  {
+   "id": "00f15a68fadba190",
+   "title": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
+   "summary": "As Israel intensifies its incursions into southern Syria, analysts say there will be little change in the future.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
+   "date": "2026-11-18T14:08:08+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2025/02/AP25006293008822-1-1738612545.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2025/02/AP25006293008822-1-1738612545.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T14:20:04+00:00"
+  },
+  {
+   "id": "4054a219c6193a40",
+   "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
+   "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment regulator says Environment secretary Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the catastrophic…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
+   "date": "2026-11-18T14:07:35+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/cd9c93f4d2bc857399f8b29d244fd59b9a4d5a26/295_0_2953_2363/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=12f76d926d3ef910564ad91590de0f92",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Stephen Kill/Alamy"
+   },
+   "breaking": true,
+   "addedAt": "2026-11-18T14:20:04+00:00"
+  },
+  {
+   "id": "ed344170b43a5e1a",
+   "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
+   "summary": "Attorney general says E1 settlement decision should not be taken by caretaker government led by Netanyahu Israel has postponed issuing contracts for the construction of a large settlement on the West Bank seen as likely to render a two-state solution…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+   "date": "2026-11-18T14:05:38+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/3b267577fe18325ce20cce7e2fbe3114054210c2/0_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=1e59a94e9ed6014afe3d6dec5f181ed3",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Ammar Awad/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T13:43:06+00:00"
+  },
+  {
+   "id": "e54ccd81a1434eb7",
+   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T14:02:36+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Iori Sagisawa/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T04:07:36+00:00"
+  },
+  {
+   "id": "33ec29b36981d62b",
+   "title": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
+   "summary": "Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas supplies Get our breaking news email , free app or daily news podcast The Business Council of Australia is lobbying for gas…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
+   "date": "2026-11-18T14:00:02+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "analysis",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/227dcc4be932d831c026650a4f387a0123b9c5be/581_0_2919_2335/master/2919.jpg?width=700&quality=85&auto=format&fit=max&s=e680854083fddb1a5f3938053d6c4343",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Greg Wood/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T14:20:04+00:00"
+  },
+  {
    "id": "ecd1fcdc34435c6a",
    "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
    "summary": "Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summit California Governor Gavin Newsom was a big presence in Antalya last week, serving as the head of a US delegation…",
@@ -186,66 +348,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T07:23:06+00:00"
-  },
-  {
-   "id": "e54ccd81a1434eb7",
-   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T13:54:35+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Iori Sagisawa/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T04:07:36+00:00"
-  },
-  {
-   "id": "178f94915ff3cf34",
-   "title": "Mary Peltola’s Alaska win ‘a gift for all America’, says Schumer – US politics live",
-   "summary": "Senate Democratic leader hails result which will give the party a commanding 56-44 seat majority Trump in China for Apec summit – follow live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T13:50:17+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Charly Triballeau/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a6515916925b959ff16ca61b9965b12a7f3e61ff/516_0_2547_2038/master/2547.jpg?width=700&quality=85&auto=format&fit=max&s=ed1e3978c358b00cbdb77752e4f4661a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
-  },
-  {
-   "id": "ed344170b43a5e1a",
-   "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
-   "summary": "Israeli diplomats say decision on settlement expansion should not be taken by caretaker government led by Netanyahu Israel has postponed issuing contracts for the construction of a large settlement on the West Bank seen as likely to render a two-state…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
-   "date": "2026-11-18T13:47:19+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ammar Awad/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5194b80555b6c2943edc4879929a9371fca4797c/421_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=4f29aa142b78beaa3b6ab2d89db887fa",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T13:43:06+00:00"
   },
   {
    "id": "7f0ebec0fc8ab15d",
@@ -858,8 +960,8 @@
   },
   {
    "id": "3aaf5d92c0730172",
-   "title": "SSE threatens to close Yorkshire gas storage site unless ministers intervene",
-   "summary": "Energy firm says existing market arrangements do not sustain facility’s continued operation The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their investment from a series of major fossil fuel projects over…",
+   "title": "EnQuest and SSE plan to pull investment from UK fossil fuel projects",
+   "summary": "Big North Sea operator says it is quitting oil basin while SSE threatens to close Yorkshire gas storage site Business live – latest updates The energy secretary has been dealt a double blow after two UK companies signalled plans to pull their investment from…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
    "date": "2026-11-18T10:29:22+00:00",
@@ -868,10 +970,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Andrew Milligan/PA",
+    "url": "https://i.guim.co.uk/img/media/43807761436da658bfa0aa4756a6c6866170ca90/585_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=64d8ce169ecca496c73e8de08172e496",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6a989606bee929057d8be47888585bd18cb20062/386_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=f4a7ff3ce7de7131b7011656a9ad9523",
-    "w": 700
+    "credit": "Photograph: EnQuest/PA"
    },
    "breaking": false,
    "addedAt": "2026-11-18T10:46:35+00:00"
@@ -1090,9 +1192,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/dc76ffe4-cc05-4569-821a-125fc349d4bf,1794984513619/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C25%2C594%2C334%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/dc76ffe4-cc05-4569-821a-125fc349d4bf,1794984513619/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C25%2C594%2C334%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T10:18:25+00:00"
@@ -8190,108 +8292,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T10:51:51+00:00"
-  },
-  {
-   "id": "d2163a0002bf67b9",
-   "title": "Ecuador’s president denies existence of US military base",
-   "summary": "Daniel Noboa says US personnel in the country for 'temporary activities'.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
-   "date": "2026-11-16T08:14:48+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-09-13T010659Z_675633451_RC2S9GAHDNCJ_RTRMADP_3_ECUADOR-ECONOMY-1759872890.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-09-13T010659Z_675633451_RC2S9GAHDNCJ_RTRMADP_3_ECUADOR-ECONOMY-1759872890.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T08:33:31+00:00"
-  },
-  {
-   "id": "f07633489f2cc801",
-   "title": "Why is China resisting a nuclear treaty with the US and Russia?",
-   "summary": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
-   "date": "2026-11-16T07:54:09+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad3a28c-1792254604.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad3a28c-1792254604.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T08:24:25+00:00"
-  },
-  {
-   "id": "e8c339acc76cfeba",
-   "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
-   "summary": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s young people is politicians’ fault.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
-   "date": "2026-11-16T07:43:22+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Temilade Adelaja/Reuters Pool/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b9948bd228b02aa56a0356f2a3f2713b85d83833/290_0_4473_3579/master/4473.jpg?width=700&quality=85&auto=format&fit=max&s=0fb6d45417b97365cf3515989a3692e1",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T13:14:12+00:00"
-  },
-  {
-   "id": "bca39723b925640d",
-   "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
-   "summary": "PM to meet European leaders at summit this week aiming to secure agreements that ‘could raise GDP by 0.4%’ Andy Burnham will say on Monday that Brexit “has not worked” and that he will sign a new deal with the EU.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
-   "date": "2026-11-16T07:00:38+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kin Cheung/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a9167ab535ad3f6ea97ad5092601ebdb54f5d261/247_0_6155_4927/master/6155.jpg?width=700&quality=85&auto=format&fit=max&s=028c02653091abcb6fbb27728fc7ab65",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T07:14:00+00:00"
-  },
-  {
-   "id": "5e2ee5839e2646b3",
-   "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
-   "summary": "In today’s newsletter: From situationship to a possible makeup, a look at the evolving relationship, and the bloc’s big feelings about the future Good morning.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
-   "date": "2026-11-16T06:46:27+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Stefan Rousseau/Pool PA/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6e2cfa54b348df466a21d5a1c4d2bce3e5b12346/1359_0_2742_2194/master/2742.jpg?width=700&quality=85&auto=format&fit=max&s=cb50b6b18303f0a3cd5b923fb789bb5f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T06:55:40+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T19:40:49+00:00",
+ "generatedAt": "2026-11-18T19:50:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,69 @@
  ],
  "items": [
   {
+   "id": "1603c72dee33fbfe",
+   "title": "Nearly 300,000 people sign petition demanding U.S. Ambassador Pete Hoekstra's removal",
+   "summary": "More than 285,000 people have signed a petition asking the federal government to remove U.S. Ambassador Pete Hoekstra from Canada.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/hoekstra-petition-9.7426916?cmp=rss",
+   "date": "2026-11-18T19:45:07+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/96a552b2-5bfd-4809-a5de-1d7724f9a577,1795030632353/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C308%2C4717%2C2653%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T19:50:03+00:00"
+  },
+  {
+   "id": "251bcc5da014a43c",
+   "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
+   "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
+   "date": "2026-11-18T19:34:31+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Isabel Infantes/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/297daa4e63256807e9b1bfbba9295164f2d00efe/408_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=4f26bbca027faa6ab4d6c792b3d1d37b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T18:35:37+00:00"
+  },
+  {
+   "id": "d25265cb05e98911",
+   "title": "Mark Carney has surprise meeting with Donald Trump in China, but no progress on U.S.-Canada trade deal",
+   "summary": "Carney and Trump discussed 'the work underway to reach a mutually beneficial trade agreement,' according to an official readout from the Canadians.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/mark-carney-has-surprise-meeting-with-donald-trump-at-apec-summit-in-china/article_1add44b9-7acb-42ea-9d63-47d032bf61fc.html",
+   "date": "2026-11-18T19:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/17/517984a6-5012-5f78-b948-3a7ccbd3a32e/6afdbc82e3aea.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/17/517984a6-5012-5f78-b948-3a7ccbd3a32e/6afdbc82e3aea.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:47:21+00:00"
+  },
+  {
    "id": "b988ec5f43274486",
    "title": "Mullin defends taking government plane to college football game amid nationwide grounding – video",
    "summary": "The homeland security secretary, Markwayne Mullin, defended his decision to take a government plane to attend a football game between Louisiana State University and the University of Texas on Saturday, while thousands of flights had been canceled and airspace…",
@@ -177,10 +240,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/39f8dbc40fe25567b55c35eb91b485e50e9c716b/1135_0_5692_4554/master/5692.jpg?width=700&quality=85&auto=format&fit=max&s=89dbc56ad9f60f94c24d3bcfed2654b4",
-    "w": 700,
+    "credit": "Photograph: EPA",
     "h": 560,
-    "credit": "Photograph: EPA"
+    "url": "https://i.guim.co.uk/img/media/39f8dbc40fe25567b55c35eb91b485e50e9c716b/1135_0_5692_4554/master/5692.jpg?width=700&quality=85&auto=format&fit=max&s=89dbc56ad9f60f94c24d3bcfed2654b4",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T19:40:49+00:00"
@@ -246,28 +309,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T17:48:14+00:00"
-  },
-  {
-   "id": "251bcc5da014a43c",
-   "title": "Ex-Tory defectors barred from shaping Reform’s immigration policy, says Zia Yusuf",
-   "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
-   "date": "2026-11-18T18:50:40+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Isabel Infantes/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/297daa4e63256807e9b1bfbba9295164f2d00efe/408_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=4f26bbca027faa6ab4d6c792b3d1d37b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T18:35:37+00:00"
   },
   {
    "id": "6e6f70130b0cc577",
@@ -728,9 +769,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/c534111c-4328-4bc7-937b-9ca76eee3654,1795023050121/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C483%2C6384%2C3591%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/c534111c-4328-4bc7-937b-9ca76eee3654,1795023050121/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C483%2C6384%2C3591%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-18T17:10:58+00:00"
@@ -842,7 +883,7 @@
   {
    "id": "67c7a2bfdc6415ff",
    "title": "Housing minister won't reaffirm Liberal pledge to double home construction",
-   "summary": "OTTAWA - Housing Minister Gregor Robertson wouldn't reaffirm the Liberal government's long-standing goal of doubling the pace of home building when pressed by reporters today.",
+   "summary": "OTTAWA - Housing Minister Gregor Robertson wouldn't reaffirm the Liberal government's long-standing goal of doubling the pace of home building when pressed by reporters on Wednesday.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/housing-minister-won-t-reaffirm-liberal-pledge-to-double-home-construction/article_89116d32-ae10-5805-8766-35d4be399356.html",
    "date": "2026-11-18T16:47:37+00:00",
@@ -1574,28 +1615,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T13:43:06+00:00"
-  },
-  {
-   "id": "d25265cb05e98911",
-   "title": "Mark Carney has surprise meeting with Donald Trump in China, but no progress on U.S.-Canada trade deal",
-   "summary": "Carney and Trump discussed \"the work underway to reach a mutually beneficial trade agreement,\" according to an official readout from the Canadians.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/mark-carney-has-surprise-meeting-with-donald-trump-at-apec-summit-in-china/article_1add44b9-7acb-42ea-9d63-47d032bf61fc.html",
-   "date": "2026-11-18T13:30:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/17/517984a6-5012-5f78-b948-3a7ccbd3a32e/6afdbc82e3aea.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/17/517984a6-5012-5f78-b948-3a7ccbd3a32e/6afdbc82e3aea.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:47:21+00:00"
   },
   {
    "id": "87a1c12f9c05a0b8",
@@ -8268,27 +8287,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T16:10:51+00:00"
-  },
-  {
-   "id": "0dafb49aafe1a21d",
-   "title": "Bank of Canada governor Tiff Macklem to step down in 2027",
-   "summary": "Bank of Canada governor Tiff Macklem will not seek a second term leading Canada's central bank. His current term as governor will end on June 2, 2027.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/business/tiff-macklem-step-down-9.7423501?cmp=rss",
-   "date": "2026-11-16T15:44:46+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/d8192021-bc8b-4308-921d-6c616744a019,1794873916699/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C106%2C5000%2C2812%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T19:15:26+00:00"
   }
  ]
 }

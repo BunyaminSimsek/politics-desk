@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T00:12:45+00:00",
+ "generatedAt": "2026-11-18T00:22:30+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,113 @@
  ],
  "items": [
   {
+   "id": "a671fda907fbb26d",
+   "title": "Trade talks between top Canada, U.S. officials ramping up: sources",
+   "summary": "As talks with the Trump administration begin to ramp up once again, the prime minister's point man on Canada-U.S. trade has been meeting with his counterparts weekly in a more formal way, according to three senior government officials.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/trump-carney-tariffs-trade-latest-9.7425828?cmp=rss",
+   "date": "2026-11-18T00:12:47+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/711a974d-3aad-497f-acd7-e52e467f5e14,1794960435982/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C427%2C8190%2C4606%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T00:22:30+00:00"
+  },
+  {
+   "id": "e566d508260a2198",
+   "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
+   "summary": "Analysts say mooted move to let more petrol and diesel vehicles be sold would wreck plan to reach net zero by 2050 Weakening the UK’s electric car sales rules would probably cause the government to miss legally binding climate targets, according to advisers…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
+   "date": "2026-11-18T00:01:26+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/3ed391e009abd724b30b099d8a5378a1fc28ff5a/558_0_3100_2480/master/3100.jpg?width=700&quality=85&auto=format&fit=max&s=630082da5cc5d2ba0478820be34827af",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Bloomberg/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T00:22:30+00:00"
+  },
+  {
+   "id": "41dd4cd2bb85897f",
+   "title": "Brexit work travel rules need urgent improvement, say UK business leaders",
+   "summary": "CBI says restrictions on cross-Channel work trips are hindering investment and trade between UK and Europe Business chiefs have called on the UK government and the European Commission to urgently ease Brexit restrictions on business travel for cross-Channel…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/brexit-work-travel-rules-urgent-improvement-cbi",
+   "date": "2026-11-18T00:01:25+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ffeba253961c8f7d3f85d079735e35f48a624de6/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=3475ccceb448a5c69b699a20be871ffb",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Marcin Rogozinski Zwei/Alamy Stock Photo/Alamy Live News."
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T00:22:30+00:00"
+  },
+  {
+   "id": "afc93e30dc534d30",
+   "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+   "summary": "Kuwait intercepts 'hostile' drone attacks as Bahrain warns of 'potential threat', urges citizens to remain calm.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+   "date": "2026-11-18T00:00:27+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcde1e1992-1794956830.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcde1e1992-1794956830.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T00:22:30+00:00"
+  },
+  {
+   "id": "89e54ca09382f745",
+   "title": "Hugh Jackman, Rebel Wilson and 150 Australian artists join call to block Woodside gas development near Scott Reef",
+   "summary": "Actors, authors and musicians sign open letter urging Murray Watt to reject the fossil fuel company’s plan to drill for gas in Browse basin off Kimberley coast",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/18/hugh-jackman-rebel-wilson-australian-artists-greenpeace-campaign-woodside-energy-scott-reef",
+   "date": "2026-11-18T00:00:25+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ad56fcfab9740583060ec012931312c05f9a1c11/295_0_2954_2363/master/2954.jpg?width=700&quality=85&auto=format&fit=max&s=a9a08aafe243a620d4d45c0b33a69ad6",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Nush Freedman Photography"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T00:22:30+00:00"
+  },
+  {
    "id": "5df5cda1f6fb9d32",
    "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
    "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue",
@@ -221,10 +328,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afcc965-1794951525.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afcc965-1794951525.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afcc965-1794951525.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afcc965-1794951525.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T00:12:45+00:00"
@@ -463,9 +570,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/bb81a0a8-5eef-424d-b0fc-7ff11f9479f5,1794952786431/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C4136%2C2326%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/bb81a0a8-5eef-424d-b0fc-7ff11f9479f5,1794952786431/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C4136%2C2326%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:19:40+00:00"
@@ -504,9 +611,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0aa14623-09a4-44aa-8674-20f5dc3be8c3,1794952529127/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C150%2C6155%2C3462%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0aa14623-09a4-44aa-8674-20f5dc3be8c3,1794952529127/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C150%2C6155%2C3462%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:10:01+00:00"
@@ -7351,7 +7458,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -8183,26 +8290,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T01:47:09+00:00"
-  },
-  {
-   "id": "c9adf7023b03beb4",
-   "title": "Carney caps off ASEAN summit with focus on trade deals, heads to Francophonie",
-   "summary": "MANILA - Prime Minister Mark Carney has wrapped up a brief visit to the Philippines and is heading to Cambodia, as the government pushes for more trade access in the region.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/business/carney-to-cap-off-asean-summit-with-focus-on-trade-deals-ahead-of-francophonie/article_e4e58541-6d4c-55b6-b2a0-b8cdfae12770.html",
-   "date": "2026-11-15T00:23:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 791,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/7a/a7a881f9-6e31-5cda-bde9-15547e5a846e/6af8fbdef38da.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/7a/a7a881f9-6e31-5cda-bde9-15547e5a846e/6af8fbdef38da.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T02:14:41+00:00"
   }
  ]
 }

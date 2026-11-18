@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T05:50:49+00:00",
+ "generatedAt": "2026-11-18T05:59:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T05:26:06+00:00",
+   "date": "2026-11-18T05:41:54+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -246,6 +246,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T05:04:25+00:00"
+  },
+  {
+   "id": "fa692d8fdce0fab1",
+   "title": "Democrat Mary Peltola unseats Republican in Alaska Senate race",
+   "summary": "For two weeks, the race remained too close to call but the win allows Democrats an even greater majority in the US Senate.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T04:58:50+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8202/live/39cdb760-dc7a-11f1-b23d-9526db010e6c.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8202/live/39cdb760-dc7a-11f1-b23d-9526db010e6c.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T05:59:59+00:00"
   },
   {
    "id": "ef7ef8516cc1cef9",
@@ -433,6 +453,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:51:38+00:00"
+  },
+  {
+   "id": "3eb0b89a67c92996",
+   "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+   "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T02:29:52+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4eb6/live/fc391e70-e2f6-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4eb6/live/fc391e70-e2f6-11f1-99a1-253766e7ad8b.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T05:59:59+00:00"
   },
   {
    "id": "bdc16e5a8e45ec50",
@@ -7968,7 +8008,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"
@@ -8252,50 +8292,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:46:44+00:00"
-  },
-  {
-   "id": "a28f988fe14c78c8",
-   "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
-   "summary": "Iran’s IRGC says six drones were launched at a US radar installation at an air base in Bahrain.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
-   "date": "2026-11-15T12:15:51+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794744924.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794744924.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T12:37:34+00:00"
-  },
-  {
-   "id": "d0987560f0569a77",
-   "title": "Black voters helped Democrats win in Georgia. Now they expect to be heard",
-   "summary": "Activists have been shouting about economic issues for years – in January they will expect lawmakers to respond Stonecrest is resolutely middle class.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters",
-   "date": "2026-11-15T12:00:15+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bloomberg/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/965398d86ac792d2522a2a4d356cb2d6b2d3f207/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=7c3a2ec95500982d12cb096400f5a8a8",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T12:10:06+00:00"
   }
  ]
 }

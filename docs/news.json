@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T21:24:17+00:00",
+ "generatedAt": "2026-11-18T21:33:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -187,12 +187,12 @@
   },
   {
    "id": "631d6db2dccfd683",
-   "title": "US defence secretary announces military partnership on trip to Venezuela",
+   "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
    "summary": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
    "date": "2026-11-18T21:01:05+00:00",
-   "topic": "latam",
+   "topic": "us",
    "region": "world",
    "tags": [
     "defence"
@@ -219,9 +219,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/505e4b9b-dc7b-42c8-9da1-b24005e8d714,1795035459099/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/505e4b9b-dc7b-42c8-9da1-b24005e8d714,1795035459099/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T21:24:17+00:00"
@@ -307,7 +307,7 @@
   },
   {
    "id": "812a4aef58eba7b8",
-   "title": "Cadets being told to stand down as Canada spends billions on defence",
+   "title": "Cadets being told to stand down as Canada adds billions to defence",
    "summary": "The Canadian military has suspended most weekend cadet training and competitions in parts of the country until March, citing budget restraint. Leaked emails reveal mounting financial pressures despite billions in new defence spending.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/defence-budget-cadets-cuts-training-9.7426967?cmp=rss",

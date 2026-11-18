@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T12:28:16+00:00",
+ "generatedAt": "2026-11-18T12:37:49+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "CBC World",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 31
+   "kept": 32
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,67 @@
  ],
  "items": [
   {
+   "id": "c08de4835722644a",
+   "title": "From frontlines to city hall: Newly elected advocates determined to fix Toronto's housing, homelessness crisis",
+   "summary": "Toronto's newly elected city council includes well-known housing rights activists and advocates supporting the homeless population. They say they're bringing their lived experiences and expertise to the council table.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/housing-homelessness-toronto-city-council-advocates-9.7426171?cmp=rss",
+   "date": "2026-11-18T12:29:12+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/fb8aafdf-11c8-4002-9290-e40933e8baf9,1788916278558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C5699%2C3205%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:37:49+00:00"
+  },
+  {
+   "id": "9e4e152e2f5a2168",
+   "title": "First Thing: Peltola’s Alaska victory secures 56th Democratic seat in Senate",
+   "summary": "The ninth gain of the midterms in the upper chamber, it is the first time Alaska has elected a Democrat since 2008. Plus the impact the NAZA documentary is having inside Israel Good morning.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/first-thing-peltolas-alaska-victory-secures-56th-democratic-seat-in-senate",
+   "date": "2026-11-18T12:23:41+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/04a35388742a62db030fc59d805e35ab9abac401/149_0_1796_1437/master/1796.jpg?width=700&quality=85&auto=format&fit=max&s=6253e06db0d3e6fa6d1e9fe1ed0ccb2b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Kerry Tasker/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T12:37:49+00:00"
+  },
+  {
+   "id": "92794bdb7e5223a3",
+   "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
+   "summary": "Leader of opposition accuses Labour of being party of welfare as he says the biggest rise in Neets came under the Tories In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T12:22:23+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=416b88bd10c66dd7f2169bc7c57fce6b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Parliament Live"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
    "id": "ff6635a21e9a891a",
    "title": "Xi, Putin meet in China, ahead of summit with Trump",
    "summary": "China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, while his Russian counterpart Vladimir Putin criticized Western sanctions as the two set the stage for a high-stakes trilateral meeting with ‌U.S. President Donald Trump.",
@@ -177,12 +238,32 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/5efbf693-00a0-45b0-921c-c074f9a56fb8,1794999891540/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C39%2C3989%2C2243%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/5efbf693-00a0-45b0-921c-c074f9a56fb8,1794999891540/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C39%2C3989%2C2243%29%3B"
    },
    "breaking": true,
    "addedAt": "2026-11-18T12:28:16+00:00"
+  },
+  {
+   "id": "e54ccd81a1434eb7",
+   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T12:17:47+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Iori Sagisawa/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T04:07:36+00:00"
   },
   {
    "id": "cd4814f1f1b7893e",
@@ -220,26 +301,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T07:23:06+00:00"
-  },
-  {
-   "id": "92794bdb7e5223a3",
-   "title": "Burnham faces Badenoch at PMQs as Lammy urges PM to commit to rejoining EU – UK politics live",
-   "summary": "Former foreign secretary has urged Andy Burnham to make rejoining a manifesto commitment Lammy urges Burnham to fight next election on rejoining EU In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "date": "2026-11-18T12:08:01+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Stefan Rousseau/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9fbc1286192d052bb0517cc464b9f2bb7b8492cc/470_0_3289_2632/master/3289.jpg?width=700&quality=85&auto=format&fit=max&s=932714f3e3dce8689231c44495ff7e66",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:14:11+00:00"
   },
   {
    "id": "178f94915ff3cf34",
@@ -364,26 +425,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:18:44+00:00"
-  },
-  {
-   "id": "e54ccd81a1434eb7",
-   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T11:54:57+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Iori Sagisawa/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T04:07:36+00:00"
   },
   {
    "id": "794494a9cad37398",
@@ -8255,48 +8296,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T03:15:41+00:00"
-  },
-  {
-   "id": "f42f6afbcabb441a",
-   "title": "ASEAN, China fall short of agreeing on South China Sea code",
-   "summary": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country's leader attending bloc's summits.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
-   "date": "2026-11-16T02:46:35+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315082167925-1794791273.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315082167925-1794791273.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T02:57:23+00:00"
-  },
-  {
-   "id": "bd44e24fea90ff17",
-   "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
-   "summary": "Carney said Saturday in Manila, Philippines, that any trade agreement with Washington must leave Canada with a viable auto industry.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/world/asia/carney-says-canada-could-turn-to-chinese-automakers-if-trump-trade-talks-fail/article_7d0c30dc-7d8d-5cc6-a69f-fe6534ec4119.html",
-   "date": "2026-11-16T02:30:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 805,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/3e/73ee9c99-355b-4a69-ac2b-5d7e34719973/6afad65455a23.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/3e/73ee9c99-355b-4a69-ac2b-5d7e34719973/6afad65455a23.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T02:57:23+00:00"
   }
  ]
 }

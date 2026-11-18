@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T07:23:06+00:00",
+ "generatedAt": "2026-11-18T07:32:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "e54ccd81a1434eb7",
+   "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T07:19:53+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0011d23e2098b25ad493ea535b2c96ddaa8ef28f/579_0_4411_3529/master/4411.jpg?width=700&quality=85&auto=format&fit=max&s=09b98ce0efad58f7e3a327df81118061",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Sergei Bobylev/Pool Sputnik Kremlin/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T04:07:36+00:00"
+  },
+  {
    "id": "ecd1fcdc34435c6a",
    "title": "Cop31 live: clock running down on climate talks as deep divisions remain",
    "summary": "Few signs of progress since draft deal exposed disagreements over what countries are willing to do stop the planet heating Delegates arrived to the Cop31 conference centre under grey skies and showered by a fine drizzle this morning.",
@@ -179,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
-    "w": 700,
+    "credit": "Photograph: Chris McGrath/Getty Images",
     "h": 560,
-    "credit": "Photograph: Chris McGrath/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/7424fb56b2c2ae2cfde779cfb5afc8c4df3d701b/318_0_5490_4392/master/5490.jpg?width=700&quality=85&auto=format&fit=max&s=72a81738782b4886ad06afbc5244f2e8",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T07:23:06+00:00"
@@ -228,26 +248,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T05:59:59+00:00"
-  },
-  {
-   "id": "e54ccd81a1434eb7",
-   "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T06:56:14+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: China Pool/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3fa9638225a04c28825b9ee191695af2",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T04:07:36+00:00"
   },
   {
    "id": "0314dd6b89fbffa7",
@@ -8072,7 +8072,7 @@
    "source": "The Conversation",
    "url": "https://theconversation.com/was-a-kinder-fate-possible-for-marinelands-animals-how-the-planning-process-failed-them-295643",
    "date": "2026-11-15T15:20:51+00:00",
-   "topic": "ontario",
+   "topic": "toronto",
    "region": "local",
    "tags": [
     "housing"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T04:36:23+00:00",
+ "generatedAt": "2026-11-18T04:45:36+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 27
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "e54ccd81a1434eb7",
+   "title": "Apec summit live: Xi and Putin give opening speeches as world leaders gather in China",
+   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T04:36:59+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: China Pool/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3fa9638225a04c28825b9ee191695af2",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T04:07:36+00:00"
+  },
+  {
    "id": "ef7ef8516cc1cef9",
    "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?",
    "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
@@ -188,24 +208,26 @@
    "addedAt": "2026-11-17T09:41:54+00:00"
   },
   {
-   "id": "e54ccd81a1434eb7",
-   "title": "Apec summit live: Xi and Putin give opening speeches as world leaders gather in China",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec?",
+   "id": "ca0698dc066287a1",
+   "title": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
+   "summary": "Peltola, the first Alaska Native in the US Senate, ran a campaign that drew universal issues from her own Indigenous politics Late into the night on 3 November, while the lower 48 states were reeling from the blue wave crashing across the US, Mary Peltola…",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T04:18:23+00:00",
-   "topic": "asia",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
+   "date": "2026-11-18T04:25:29+00:00",
+   "topic": "us",
    "region": "world",
-   "tags": [],
-   "kind": "news",
+   "tags": [
+    "elections"
+   ],
+   "kind": "analysis",
    "image": {
-    "credit": "Photograph: China Pool/Getty Images",
+    "url": "https://i.guim.co.uk/img/media/a746cc58fa65deee3aafa726758878f9bd801392/532_318_2937_2350/master/2937.jpg?width=700&quality=85&auto=format&fit=max&s=2343632f866c51ce7840b235790bca6c",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3fa9638225a04c28825b9ee191695af2",
-    "w": 700
+    "credit": "Photograph: Nathaniel Wilder/Bloomberg via Getty Images"
    },
    "breaking": false,
-   "addedAt": "2026-11-18T04:07:36+00:00"
+   "addedAt": "2026-11-18T04:45:36+00:00"
   },
   {
    "id": "0fadced0a88d7c1f",
@@ -219,10 +241,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794975100.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794975100.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794975100.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794975100.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T04:36:23+00:00"
@@ -8274,26 +8296,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T12:28:25+00:00"
-  },
-  {
-   "id": "ae7159e7628aa654",
-   "title": "UN mission goes after Haitian gangs with backing from Canada",
-   "summary": "What's been cast as a last-ditch effort by the United Nations to stabilize Haiti is being bankrolled in large part by Canada.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/un-mission-goes-after-haitian-gangs-with-backing-from-canada/article_5b58017e-7e6b-422a-84a2-5f82daee604d.html",
-   "date": "2026-11-15T12:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/44/644bd7f5-8920-5246-9a15-dcb35618d3d4/6af5eba634250.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/44/644bd7f5-8920-5246-9a15-dcb35618d3d4/6af5eba634250.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T12:10:06+00:00"
   }
  ]
 }

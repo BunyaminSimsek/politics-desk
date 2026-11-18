@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T19:13:14+00:00",
+ "generatedAt": "2026-11-18T19:22:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -186,6 +186,28 @@
    "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
+   "id": "b822906e6de8ab6f",
+   "title": "The leave campaign has been resurrected, so how should Burnham respond?",
+   "summary": "No 10 is confident the PM can make the case for closer EU ties, while others worry about leaving the campaign solely in his hands The launch of a pro-Brexit campaign was one of the few genuine surprises this week in Westminster, even if the arguments were…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
+   "date": "2026-11-18T19:02:40+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Andy Rain/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e7e77af1ae8f833009340ea6ee0c97de81ec17f2/0_0_4903_3922/master/4903.jpg?width=700&quality=85&auto=format&fit=max&s=decf75d8af5745eddff7ad1edd41b530",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T17:48:14+00:00"
+  },
+  {
    "id": "251bcc5da014a43c",
    "title": "Ex-Tory defectors barred from shaping Reform’s immigration policy, says Zia Yusuf",
    "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in…",
@@ -228,28 +250,6 @@
    "addedAt": "2026-11-18T18:54:13+00:00"
   },
   {
-   "id": "b822906e6de8ab6f",
-   "title": "The leave campaign has been resurrected, so how does Burnham respond?",
-   "summary": "No 10 is confident the PM can make the case for closer EU ties, while others worry about leaving the campaign solely in his hands The launch of a pro-Brexit campaign was one of the few genuine surprises this week in Westminster, even if the arguments were…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
-   "date": "2026-11-18T18:48:08+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e7e77af1ae8f833009340ea6ee0c97de81ec17f2/0_0_4903_3922/master/4903.jpg?width=700&quality=85&auto=format&fit=max&s=decf75d8af5745eddff7ad1edd41b530",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T17:48:14+00:00"
-  },
-  {
    "id": "0a7d9fa711832564",
    "title": "Something else is lurking just ‘Below’ the surface of Newfoundland’s waters — raw sewage",
    "summary": "A warning sign at Bartlett's Point Park in Corner Brook, NL. (Josie Wittmer) , CC BY The popular new Netflix thriller series Below portrays life in coastal Newfoundland and a frightening presence in the water that turns out to be a giant squid.",
@@ -261,10 +261,10 @@
    "tags": [],
    "kind": "analysis",
    "image": {
-    "url": "https://images.theconversation.com/files/772222/original/file-20261116-64-ejlzfp.jpg?ixlib=rb-4.1.1&rect=0%2C160%2C1920%2C1280&q=45&auto=format&h=700&w=1200&fit=clip",
-    "w": 1050,
     "h": 700,
-    "small": "https://images.theconversation.com/files/772222/original/file-20261116-64-ejlzfp.jpg?ixlib=rb-4.1.1&rect=0%2C160%2C1920%2C1280&q=45&auto=format&h=700&w=640&fit=clip"
+    "small": "https://images.theconversation.com/files/772222/original/file-20261116-64-ejlzfp.jpg?ixlib=rb-4.1.1&rect=0%2C160%2C1920%2C1280&q=45&auto=format&h=700&w=640&fit=clip",
+    "url": "https://images.theconversation.com/files/772222/original/file-20261116-64-ejlzfp.jpg?ixlib=rb-4.1.1&rect=0%2C160%2C1920%2C1280&q=45&auto=format&h=700&w=1200&fit=clip",
+    "w": 1050
    },
    "breaking": false,
    "addedAt": "2026-11-18T19:13:14+00:00"

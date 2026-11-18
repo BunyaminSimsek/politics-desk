@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T15:54:16+00:00",
+ "generatedAt": "2026-11-18T16:03:57+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "CBC World",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 28
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,107 @@
   }
  ],
  "items": [
+  {
+   "id": "f21f255fd91ab703",
+   "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+   "summary": "As Democrats flag AI bank breaches and cyberattacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+   "date": "2026-11-18T15:53:10+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=700&quality=85&auto=format&fit=max&s=6d8bca1fa4fb3b7e62baf0ff0784dbfc",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Nathan Howard/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T16:03:57+00:00"
+  },
+  {
+   "id": "841ded9f6e97a5f9",
+   "title": "Ontario proposes raising minimum fines for excessive vehicle noise to $200",
+   "summary": "The province is attempting to reduce excessive vehicle noise with a proposed increase to fines for offending drivers.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/excessive-vehicle-noise-penalty-proposed-legislation-9.7426407?cmp=rss",
+   "date": "2026-11-18T15:53:09+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/2d29eb16-7d89-42c8-9d4c-6446d656426d,1730477761333/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C125%2C4454%2C2505%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T16:03:57+00:00"
+  },
+  {
+   "id": "92794bdb7e5223a3",
+   "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – UK politics live",
+   "summary": "PM and leader of the opposition clashed at PMQs over welfare In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "date": "2026-11-18T15:51:49+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Parliament Live",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=416b88bd10c66dd7f2169bc7c57fce6b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T09:14:11+00:00"
+  },
+  {
+   "id": "4054a219c6193a40",
+   "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
+   "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog says The environment secretary, Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the catastrophic…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
+   "date": "2026-11-18T15:49:08+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ec8ab6692ef60ad08b4c21283c2bd1f5159aa301/878_0_2879_2303/master/2879.jpg?width=700&quality=85&auto=format&fit=max&s=d182fb91a7923b085fc2c2fcff2ad5c3",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Nick Upton/Alamy"
+   },
+   "breaking": true,
+   "addedAt": "2026-11-18T14:20:04+00:00"
+  },
+  {
+   "id": "e54ccd81a1434eb7",
+   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "date": "2026-11-18T15:40:40+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Iori Sagisawa/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T04:07:36+00:00"
+  },
   {
    "id": "178f94915ff3cf34",
    "title": "House Democrats begin leadership elections, with Hakeem Jeffries poised to clinch speaker nomination – live",
@@ -219,10 +320,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afdb8b185efc-1795012785_7d572c-1795013292.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afdb8b185efc-1795012785_7d572c-1795013292.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afdb8b185efc-1795012785_7d572c-1795013292.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afdb8b185efc-1795012785_7d572c-1795013292.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T15:54:16+00:00"
@@ -261,10 +362,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T131136Z_2085035474_RC2CQOASEQ7K_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ODESA-1795008854.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T131136Z_2085035474_RC2CQOASEQ7K_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ODESA-1795008854.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T131136Z_2085035474_RC2CQOASEQ7K_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ODESA-1795008854.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T131136Z_2085035474_RC2CQOASEQ7K_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ODESA-1795008854.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T15:54:16+00:00"
@@ -290,48 +391,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T08:55:19+00:00"
-  },
-  {
-   "id": "92794bdb7e5223a3",
-   "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – UK politics live",
-   "summary": "PM and leader of the opposition clashed at PMQs over welfare In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "date": "2026-11-18T15:13:12+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Parliament Live",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=416b88bd10c66dd7f2169bc7c57fce6b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:14:11+00:00"
-  },
-  {
-   "id": "e54ccd81a1434eb7",
-   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T15:10:26+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Iori Sagisawa/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T04:07:36+00:00"
   },
   {
    "id": "7f29c74d2464ac63",
@@ -573,27 +632,6 @@
     "w": 1200
    },
    "breaking": false,
-   "addedAt": "2026-11-18T14:20:04+00:00"
-  },
-  {
-   "id": "4054a219c6193a40",
-   "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
-   "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment regulator says The environment secretary, Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the catastrophic…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
-   "date": "2026-11-18T14:07:35+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "The loss of wild birds includes some of Britain’s best-loved garden birds, including swifts.",
-    "credit": "Photograph: Stephen Kill/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cd9c93f4d2bc857399f8b29d244fd59b9a4d5a26/295_0_2953_2363/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=12f76d926d3ef910564ad91590de0f92",
-    "w": 700
-   },
-   "breaking": true,
    "addedAt": "2026-11-18T14:20:04+00:00"
   },
   {
@@ -3781,9 +3819,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1795016785947/full/max/0/default.jpg?im=Crop%2Crect%3D%28268%2C0%2C8942%2C5029%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1f3a853d-aeec-4d62-824e-67043ea76c5f,1795016785947/full/max/0/default.jpg?im=Crop%2Crect%3D%28268%2C0%2C8942%2C5029%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:36:48+00:00"
@@ -8250,50 +8288,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T10:42:31+00:00"
-  },
-  {
-   "id": "8011f752aeb1d116",
-   "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
-   "summary": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
-   "date": "2026-11-16T10:03:11+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af349e95bbe-1794329065.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af349e95bbe-1794329065.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T10:15:12+00:00"
-  },
-  {
-   "id": "d01ce23ff84361d9",
-   "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-   "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-   "date": "2026-11-16T10:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 761,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1903+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F43%2Fa1078a164917808b90cb7d9ece17%2Fgettyimages-2304645424.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1903+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F2a%2F43%2Fa1078a164917808b90cb7d9ece17%2Fgettyimages-2304645424.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T10:06:05+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T13:01:31+00:00",
+ "generatedAt": "2026-11-19T13:10:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "da28dacabaf0124f",
+   "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+   "summary": "The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T13:07:35+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T13:10:47+00:00"
+  },
+  {
+   "id": "5ac6485bd7372da0",
+   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T13:03:06+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
+  },
+  {
    "id": "e5b851ab534296ca",
    "title": "Avi Lewis sees Montreal byelections as a crucial part of rebuilding the NDP",
    "summary": "The NDP faces daunting challenges in the Dec. 7 federal byelections as it tries to hold its last seat east of Winnipeg while flipping a neighbouring Montreal riding.",
@@ -177,35 +219,55 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/334e772daf409dd6f728784d662e66c29503f312e22fd16f90befa7c4aeeb271.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 743,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/334e772daf409dd6f728784d662e66c29503f312e22fd16f90befa7c4aeeb271.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/334e772daf409dd6f728784d662e66c29503f312e22fd16f90befa7c4aeeb271.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/334e772daf409dd6f728784d662e66c29503f312e22fd16f90befa7c4aeeb271.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:01:31+00:00"
   },
   {
-   "id": "5ac6485bd7372da0",
-   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
+   "id": "3fdc8c957706c74f",
+   "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
+   "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because ‘double amputees run marathons’ These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T12:49:25+00:00",
-   "topic": "ukraine",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T12:58:05+00:00",
+   "topic": "europe",
    "region": "world",
    "tags": [
-    "defence"
+    "elections"
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
-    "w": 700,
+    "credit": "Photograph: House of Commons/PA",
     "h": 560,
-    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/8c13e43ae8c115541cac6e3f64d48248544771ec/1435_1494_3905_3124/master/3905.jpg?width=700&quality=85&auto=format&fit=max&s=71cc69df42682c960b6b02b70a9a83c4",
+    "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
+   "addedAt": "2026-11-19T09:18:37+00:00"
+  },
+  {
+   "id": "c38a95a63f92a4f3",
+   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-19T12:51:25+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "a2c3574e4f0cbe70",
@@ -312,26 +374,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T12:43:04+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T12:26:53+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "53b632b4ea42a152",
@@ -448,28 +490,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:18:33+00:00"
-  },
-  {
-   "id": "3fdc8c957706c74f",
-   "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
-   "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because ‘double amputees run marathons’ These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T12:03:57+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: House of Commons/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8c13e43ae8c115541cac6e3f64d48248544771ec/1435_1494_3905_3124/master/3905.jpg?width=700&quality=85&auto=format&fit=max&s=71cc69df42682c960b6b02b70a9a83c4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:18:37+00:00"
   },
   {
    "id": "e8502c2f7d93f0a0",
@@ -739,8 +759,8 @@
   },
   {
    "id": "2b645771c67d91ed",
-   "title": "UN top court finds Myanmar guilty of genocide against Rohingya",
-   "summary": "In case filed at the ICJ in 2019, The Gambia accused Myanmar of breaching the 1948 Genocide Convention.",
+   "title": "UN’s top court finds Myanmar guilty of genocide against Rohingya",
+   "summary": "It is the first time a state has been found responsible for genocide at the International Court of Justice.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
    "date": "2026-11-19T10:31:36+00:00",
@@ -8246,26 +8266,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/0d8cdefd132171b764db9f3d26c2ee2f77288fef/0_0_6626_5303/master/6626.jpg?width=700&quality=85&auto=format&fit=max&s=f04680e811e616d299b798a3df4d9eb7",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T10:09:28+00:00"
-  },
-  {
-   "id": "9f9c89781577afa5",
-   "title": "Sorry, Pierre Poilievre, Tim Hortons is a Liberal hangout now",
-   "summary": "You know there's change afoot when more fans of the iconic Canadian coffee chain support Liberals than Conservatives, Susan Delacourt writes.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/political-opinion/sorry-pierre-poilievre-tim-hortons-is-a-liberal-hangout-now/article_a907647d-198f-4128-b45c-fbeebc9d8b6c.html",
-   "date": "2026-11-17T10:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 804,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/ff/6ff473d9-7587-531e-9d2d-2288e8feae4f/6afb5cc8328ec.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/ff/6ff473d9-7587-531e-9d2d-2288e8feae4f/6afb5cc8328ec.image.jpg?resize=1200%2C",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T10:09:28+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T11:36:54+00:00",
+ "generatedAt": "2026-11-19T11:46:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 14
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -119,7 +119,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
    "ok": true,
-   "kept": 0
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "ddf29dc290aa4147",
+   "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
+   "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T11:43:06+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:46:12+00:00"
+  },
   {
    "id": "c38a95a63f92a4f3",
    "title": "Hakeem Jeffries on brink of Senate history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
@@ -252,7 +272,7 @@
   {
    "id": "144f0711e6f6d6a5",
    "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
-   "summary": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systematic betrayal of Kardell Lomas before her death recognised Guardian Australia journalists have won two Walkley awards, one for a story about the systematic betrayal of a woman who was…",
+   "summary": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systematic betrayal of Kardell Lomas before her death recognised Guardian Australia journalists have won two Walkley awards, one for a story about the systemic betrayal of a woman who was…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
    "date": "2026-11-19T11:13:32+00:00",
@@ -8244,26 +8264,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T07:14:39+00:00"
-  },
-  {
-   "id": "b6868768454bf25a",
-   "title": "‘Disgusted by it’: body of Melbourne Cup race horse found dumped in Sydney skip bin",
-   "summary": "So You Are placed eighth in race just two weeks ago and was put down after a severe bout of colic Get our daily political email , free app or daily news podcast The body of a horse that placed eighth in Australia’s Melbourne Cup two weeks ago and recently…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb",
-   "date": "2026-11-17T06:39:24+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Pat Scala/Racing Photos/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/dd139e0696a494665b7aa4358ff2cd286e480999/407_0_4073_3258/master/4073.jpg?width=700&quality=85&auto=format&fit=max&s=c0e098a6db19271f6b8dda4dad81422e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T07:51:12+00:00"
   }
  ]
 }

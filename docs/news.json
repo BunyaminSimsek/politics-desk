@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T12:04:32+00:00",
+ "generatedAt": "2026-11-19T12:14:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 31
   },
   {
    "source": "The Guardian",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "b3ec3e30f40da899",
-   "title": "Robert Pattinson to apply for 90,000 more jobs? UK government trolls James Bond actor",
-   "summary": "Westminster joins wave of ‘job-stealing’ memes after the actor’s late success edging out the other contenders to be the new 007 Everybody is trying to get a piece of the Bond action: even the UK government.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/film/2026/nov/19/robert-pattinson-james-bond-uk-government-youth-employment-scheme",
-   "date": "2026-11-19T11:44:55+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/bb255340ff495a85f3d9dc53a59fe54325fe236c/1599_118_3154_2524/master/3154.jpg?width=700&quality=85&auto=format&fit=max&s=30de8b4c0986ba6e8ee33cbd91f5c0fe",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Evan Agostini/Invision/AP"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T12:04:32+00:00"
-  },
-  {
    "id": "c38a95a63f92a4f3",
-   "title": "Hakeem Jeffries on brink of Senate history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Elon Musk denied being Maga on Wednesday, despite aligning himself intensely with Donald Trump’s Make America Great Again movement since 2024.",
+   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Democrats nominate Jeffries as first Black House speaker Trump leaves China after Apec meeting – follow live",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T11:43:43+00:00",
+   "date": "2026-11-19T12:05:04+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -206,24 +186,152 @@
    "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
+   "id": "3fdc8c957706c74f",
+   "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
+   "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because ‘double amputees run marathons’ These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T12:03:57+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: House of Commons/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/8c13e43ae8c115541cac6e3f64d48248544771ec/1435_1494_3905_3124/master/3905.jpg?width=700&quality=85&auto=format&fit=max&s=71cc69df42682c960b6b02b70a9a83c4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:18:37+00:00"
+  },
+  {
    "id": "5ac6485bd7372da0",
-   "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
-   "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of…",
+   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+   "summary": "Meeting comes after Trump met Putin in China and declared him a ‘friend’ For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or Europe…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T11:43:09+00:00",
+   "date": "2026-11-19T12:03:27+00:00",
    "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/177e95c8558613ce433c6415ecde5b3d35ad5857/470_0_3986_3189/master/3986.jpg?width=700&quality=85&auto=format&fit=max&s=45d5beab6444caf80ef4dc52cc55db6e",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Fabrizio Bensch/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
+  },
+  {
+   "id": "e8502c2f7d93f0a0",
+   "title": "Anti-vaccine group once led by RFK Jr says Meta removed posts after Guardian report",
+   "summary": "Children’s Health Defense, which was allowed back after misinformation ban, accuses tech company of censorship An anti-vaccine group led for years by Robert F Kennedy Jr said Meta has “taken down” posts on its accounts, after a Guardian report found the group…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/childrens-health-defense-meta-rfk-jr",
+   "date": "2026-11-19T12:00:07+00:00",
+   "topic": "us",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Fabrizio Bensch/Reuters",
+    "url": "https://i.guim.co.uk/img/media/be3aae71937a0410bc6494bee553abe2c0def6f0/509_0_5031_4024/master/5031.jpg?width=700&quality=85&auto=format&fit=max&s=962a555b2cb8ac9c28ff3187a34bcce8",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/194326eb18d0979185a01324bf8eb4f154a041d2/270_0_4520_3616/master/4520.jpg?width=700&quality=85&auto=format&fit=max&s=97db544bd77deeba36756638777aa8ac",
+    "credit": "Photograph: Samuel Boivin/NurPhoto/Shutterstock"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T12:14:02+00:00"
+  },
+  {
+   "id": "00a11f878a0e1901",
+   "title": "Senator-elect Peggy Flanagan on her road to victory in Minnesota: ‘I have been underestimated my entire life’",
+   "summary": "Flanagan will become the first Native American woman to serve in the Senate, and hopes young Native people see themselves in her win Peggy Flanagan, the incoming progressive US senator from Minnesota who claimed her seat after polls showed her in two tight…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/peggy-flanagan-minnesota-senator-native-american",
+   "date": "2026-11-19T12:00:07+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b0c7104ed351d64b109950a06e74a874094aaf75/813_0_4536_3627/master/4536.jpg?width=700&quality=85&auto=format&fit=max&s=f00bc7f57d2dfd2581d1e5ba080b6387",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Stephen Maturen/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T12:14:02+00:00"
+  },
+  {
+   "id": "bf81bed1e6acaea2",
+   "title": "Lack of early border controls made UK ‘extremely vulnerable’ to Covid, inquiry finds",
+   "summary": "Latest report also says test and trace failures allowed virus to spread quickly and unchecked UK politics live – latest updates The lack of international border controls at the start of the Covid-19 pandemic left the UK in an “extremely vulnerable position”…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/19/covid-inquiry-uk-report-lack-of-early-border-controls-virus-spread",
+   "date": "2026-11-19T12:00:06+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9f48ca68c40f6949ad41db2c7f564ebe5dd7e8e6/484_0_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=cb39147b56d30656d6d4f5b223588e74",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Justin Tallis/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T12:14:02+00:00"
+  },
+  {
+   "id": "e481cf0ebb471f46",
+   "title": "Tories select James Cleverly as candidate for London mayor",
+   "summary": "Former home secretary wins 86% support in a membership vote to stand in May 2028 James Cleverly has been chosen by the Conservatives as their candidate in the next London mayoral election and says he will stand up to “anti-London” Andy Burnham.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/19/tories-select-james-cleverly-candidate-london-mayor",
+   "date": "2026-11-19T11:53:11+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/35a9d897e2ed61d90967180863e80968f8991a81/366_0_3647_2919/master/3647.jpg?width=700&quality=85&auto=format&fit=max&s=0f68fb1cd7abfa1769c5fc9dd5cb4bbb",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Stefan Rousseau/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T12:14:02+00:00"
+  },
+  {
+   "id": "b3ec3e30f40da899",
+   "title": "Robert Pattinson to apply for 90,000 more jobs? UK government trolls James Bond actor",
+   "summary": "Westminster joins wave of ‘job-stealing’ memes after the actor’s late success edging out the other contenders to be the new 007 Everybody is trying to get a piece of the Bond action: even the UK government.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/film/2026/nov/19/robert-pattinson-james-bond-uk-government-youth-employment-scheme",
+   "date": "2026-11-19T11:44:55+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evan Agostini/Invision/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/bb255340ff495a85f3d9dc53a59fe54325fe236c/1599_118_3154_2524/master/3154.jpg?width=700&quality=85&auto=format&fit=max&s=30de8b4c0986ba6e8ee33cbd91f5c0fe",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
+   "addedAt": "2026-11-19T12:04:32+00:00"
   },
   {
    "id": "ddf29dc290aa4147",
@@ -288,31 +396,9 @@
    "addedAt": "2026-11-18T23:45:21+00:00"
   },
   {
-   "id": "3fdc8c957706c74f",
-   "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
-   "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because ‘double amputees run marathons’ These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T11:17:43+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: House of Commons/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8c13e43ae8c115541cac6e3f64d48248544771ec/1435_1494_3905_3124/master/3905.jpg?width=700&quality=85&auto=format&fit=max&s=71cc69df42682c960b6b02b70a9a83c4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:18:37+00:00"
-  },
-  {
    "id": "144f0711e6f6d6a5",
    "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
-   "summary": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systematic betrayal of Kardell Lomas before her death recognised Guardian Australia journalists have won two Walkley awards, one for a story about the systemic betrayal of a woman who was…",
+   "summary": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognised Guardian Australia journalists have won two Walkley awards, one for a story about the systemic betrayal of a woman who was…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
    "date": "2026-11-19T11:13:32+00:00",
@@ -649,9 +735,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/59400894-0f50-4862-a63e-db5a4108dbfa,1795078501939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C371%2C5000%2C2812%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/59400894-0f50-4862-a63e-db5a4108dbfa,1795078501939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C371%2C5000%2C2812%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T09:55:18+00:00"
@@ -668,9 +754,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/542bb6f5-d0b1-4acf-88ce-85c3757534a1,1795088754432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C289%2C5119%2C2879%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/542bb6f5-d0b1-4acf-88ce-85c3757534a1,1795088754432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C289%2C5119%2C2879%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T09:55:18+00:00"
@@ -2547,7 +2633,7 @@
   {
    "id": "0596e71fec8cfbfe",
    "title": "Military suspends most cadet activities amid cost cuts; weekly training to continue",
-   "summary": "OTTAWA - The Canadian Armed Forces is suspending most cadet activities across the country until next spring as military officials move to curtail spending.",
+   "summary": "The Canadian Armed Forces is suspending most cadet activities across the country until next spring as military officials move to curtail spending.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/military-suspends-most-cadet-activities-amid-cost-cuts-weekly-training-to-continue/article_82e149fb-266d-596d-9d2d-a9df39bbe56e.html",
    "date": "2026-11-18T17:24:00+00:00",
@@ -8182,88 +8268,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T08:27:48+00:00"
-  },
-  {
-   "id": "0922d1c918af0e5c",
-   "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-   "summary": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T07:44:17+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 676,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/af8a/live/92244d70-e25b-11f1-8bed-2b9fd907b22d.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/af8a/live/92244d70-e25b-11f1-8bed-2b9fd907b22d.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T08:55:50+00:00"
-  },
-  {
-   "id": "fb630625ce84792a",
-   "title": "Bahrain thwarts drone attack; Iran claims targeting US military radar",
-   "summary": "The IRGC says the attack is part of efforts to counter 'hostile activities of US forces in the region'.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
-   "date": "2026-11-17T07:35:54+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T07:51:12+00:00"
-  },
-  {
-   "id": "1f84788063ec2352",
-   "title": "The new French malaise",
-   "summary": "The ongoing student protests in France are a symptom of a much larger crisis affecting French society.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/17/the-new-french-malaise?traffic_source=rss",
-   "date": "2026-11-17T07:03:12+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae3ec62bb94-1793322082_d05345-1793322186.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae3ec62bb94-1793322082_d05345-1793322186.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T07:23:50+00:00"
-  },
-  {
-   "id": "71566e5ba7c129a7",
-   "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
-   "summary": "New tech wealth, amassed with remarkable speed, is now washing up on British shores Sporting hoodies and white trainers rather than the gilets of London’s banker and lawyer class, tech bros can struggle to be taken seriously by the capital’s luxury property…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
-   "date": "2026-11-17T07:00:07+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Fenton Whelan",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c213f20f82c61fd3ee1039ccda6aee6e28596124/135_0_3648_2919/master/3648.jpg?width=700&quality=85&auto=format&fit=max&s=e89911f9969a745d1e2999bda66e877e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T07:14:39+00:00"
   }
  ]
 }

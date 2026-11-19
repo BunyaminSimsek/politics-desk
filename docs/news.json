@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T20:30:54+00:00",
+ "generatedAt": "2026-11-19T20:40:43+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 30
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "84d7ad1fe702e707",
+   "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
+   "summary": "Measure failed 48-51 with GOP members again defending war that played a role in costing them midterm elections The Senate on Thursday rejected a war powers resolution aimed at forcing Donald Trump to halt fighting with Iran, with Republicans once again…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
+   "date": "2026-11-19T20:24:09+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e9cf75dcb88b9e08a70020610023fdba0e0a45c4/671_0_6707_5366/master/6707.jpg?width=700&quality=85&auto=format&fit=max&s=4a426ca62f245b01ddb8028a93f6d8ba",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Majid Saeedi"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T20:40:43+00:00"
+  },
   {
    "id": "c38a95a63f92a4f3",
    "title": "John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering’ 2028 re-election bid – live",
@@ -579,9 +601,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0a4698b6-a9cc-4aee-9eb8-4e689c071efe,1795111909319/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8186%2C4604%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0a4698b6-a9cc-4aee-9eb8-4e689c071efe,1795111909319/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8186%2C4604%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T18:29:22+00:00"
@@ -922,9 +944,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/89559731-1d56-438c-8917-efc8e894708e,1795104742715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/89559731-1d56-438c-8917-efc8e894708e,1795104742715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T18:29:22+00:00"
@@ -8223,26 +8245,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:36:48+00:00"
-  },
-  {
-   "id": "2f9d9e1d34f6e82a",
-   "title": "Gaming should be 'top priority' for new digital safety regulator, advocacy group says",
-   "summary": "OTTAWA - A children's advocacy group said Tuesday it wants the government's proposed digital safety bill to eventually cover gaming platforms.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/gaming-should-be-top-priority-for-new-digital-safety-regulator-advocacy-group-says/article_82bb28cb-7d9e-5770-ae4f-8653b204336a.html",
-   "date": "2026-11-17T17:28:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a1/9a154ec3-ef41-59f7-977f-f386be5ca04c/6afc8f1f2dcdc.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a1/9a154ec3-ef41-59f7-977f-f386be5ca04c/6afc8f1f2dcdc.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T22:00:23+00:00"
   }
  ]
 }

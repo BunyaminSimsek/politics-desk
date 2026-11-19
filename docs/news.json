@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T05:20:04+00:00",
+ "generatedAt": "2026-11-19T05:29:08+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 48
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "07e6ce0bedeab033",
+   "title": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
+   "summary": "HMCS Spitfire commissioned by colonial government to protect against Russian warships based at Vladivostok during Crimean war The wreck of Australia’s first locally-built warship has been discovered 128 years after sinking off the coast of far north Queensland.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
+   "date": "2026-11-19T05:22:38+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9734e9d44f73179fe8d05ffbe6249bf97bea3d45/0_41_1284_1027/master/1284.jpg?width=700&quality=85&auto=format&fit=max&s=e52b0a512012d40939e7c82be58b2d88",
+    "w": 700,
+    "h": 560,
+    "credit": "Illustration: Image courtesy NLA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T05:29:08+00:00"
+  },
+  {
+   "id": "c6e6b7a8cac534b9",
+   "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+   "summary": "World court to issue key verdict in its first genocide ruling in more than a decade.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
+   "date": "2026-11-19T05:13:13+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T032241Z_525030841_RC23QOASLZPW_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT-1795006680.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T032241Z_525030841_RC23QOASLZPW_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT-1795006680.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T05:29:08+00:00"
+  },
+  {
    "id": "b6a46e31c2256d80",
    "title": "Could measles and midterms bring down Maha? – podcast",
    "summary": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years.",
@@ -197,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795063808.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795063808.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795063808.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795063808.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T05:20:04+00:00"
@@ -219,10 +261,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-04-29T165126Z_1321080022_RC22ZKANUXXJ_RTRMADP_3_USA-COURT-TRUMP-MIGRANTS-1795057070.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-04-29T165126Z_1321080022_RC22ZKANUXXJ_RTRMADP_3_USA-COURT-TRUMP-MIGRANTS-1795057070.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-04-29T165126Z_1321080022_RC22ZKANUXXJ_RTRMADP_3_USA-COURT-TRUMP-MIGRANTS-1795057070.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-04-29T165126Z_1321080022_RC22ZKANUXXJ_RTRMADP_3_USA-COURT-TRUMP-MIGRANTS-1795057070.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T05:20:04+00:00"
@@ -242,10 +284,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe6cf33954-1795058931.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe6cf33954-1795058931.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe6cf33954-1795058931.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe6cf33954-1795058931.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T05:20:04+00:00"
@@ -8243,48 +8285,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T21:37:06+00:00"
-  },
-  {
-   "id": "b566a5b10defc581",
-   "title": "Vancouver officer tells Gray hearing that union told him not to make notes",
-   "summary": "VANCOUVER - A Vancouver police officer involved in the fatal altercation with Myles Gray testified on Monday that a union representative told him not to make notes about the incident, but that he couldn't remember who gave him that advice.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/british-columbia/vancouver-officer-tells-gray-hearing-he-shouldn-t-have-said-officer-was-assaulted/article_1d78c712-b5fc-551d-9949-f1191300b596.html",
-   "date": "2026-11-16T21:15:20+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 1200,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T21:27:25+00:00"
-  },
-  {
-   "id": "607d35342c8ae09f",
-   "title": "Third US aircraft carrier brings thousands more troops to Middle East",
-   "summary": "The US president oscillates between strike threats on Iran and insisting the war ‘militarily is effectively over’ A third US aircraft carrier has arrived in the Middle East, US Central Command said in a social media post on Monday, making a dramatic show of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
-   "date": "2026-11-16T21:13:02+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: US NAVY/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f8920d7c62e46771a24c52857d1e30a2b7a5ef2d/494_0_4935_3948/master/4935.jpg?width=700&quality=85&auto=format&fit=max&s=10d825b46faea50e36100baafb5ea09a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T21:27:25+00:00"
   }
  ]
 }

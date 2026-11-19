@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T20:12:23+00:00",
+ "generatedAt": "2026-11-19T20:21:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "CTV News",
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/c9aaf57517e901b7272f10ebe4bc4623d7ead0ab/0_0_6643_5315/master/6643.jpg?width=700&quality=85&auto=format&fit=max&s=b27db0f9edc67a5e4bde8da9c8f70e79",
-    "w": 700,
+    "credit": "Photograph: Tom Williams/CQ-Roll Call, Inc/Getty Images",
     "h": 560,
-    "credit": "Photograph: Tom Williams/CQ-Roll Call, Inc/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/c9aaf57517e901b7272f10ebe4bc4623d7ead0ab/0_0_6643_5315/master/6643.jpg?width=700&quality=85&auto=format&fit=max&s=b27db0f9edc67a5e4bde8da9c8f70e79",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:12:23+00:00"
@@ -217,13 +217,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/1356a09daee170664f996ae64d02ccc3dd0b8564/407_0_4068_3254/master/4068.jpg?width=700&quality=85&auto=format&fit=max&s=2d2f092b9a736ae43e7f318f9dfbd751",
-    "w": 700,
+    "credit": "Photograph: Lindsey Wasson/AP",
     "h": 560,
-    "credit": "Photograph: Lindsey Wasson/AP"
+    "url": "https://i.guim.co.uk/img/media/1356a09daee170664f996ae64d02ccc3dd0b8564/407_0_4068_3254/master/4068.jpg?width=700&quality=85&auto=format&fit=max&s=2d2f092b9a736ae43e7f318f9dfbd751",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:12:23+00:00"
+  },
+  {
+   "id": "c38a95a63f92a4f3",
+   "title": "John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering’ 2028 re-election bid – live",
+   "summary": "US senator from Pennsylvania also took shot at Chris Van Hollen, who is challenging Schumer for Democratic leadership",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-19T19:58:01+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/4445bb36efff4a7f4ccc2e4348e4771595c27c27/457_0_4570_3656/master/4570.jpg?width=700&quality=85&auto=format&fit=max&s=39378112c4f0f843097e7b2c45062460",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Kylie Cooper/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "12ff2b1f2a406df8",
@@ -237,10 +259,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff3853-1795110995.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff3853-1795110995.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff3853-1795110995.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff3853-1795110995.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:12:23+00:00"
@@ -342,28 +364,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:44:16+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T19:24:04+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "ec90b959028157df",

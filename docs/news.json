@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T18:01:40+00:00",
+ "generatedAt": "2026-11-19T18:10:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "CTV News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -166,6 +166,70 @@
  ],
  "items": [
   {
+   "id": "fd737119107954c7",
+   "title": "Jimmy Dimly is back and we should treasure him while we can | John Crace",
+   "summary": "Old-school Tory with a heart wants to make London fun again – just don’t mention Brexit Tories select James Cleverly as candidate for London mayor Sooner or later, Sadiq Khan’s luck was bound to run out. Or was it?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/19/james-cleverly-london-mayor-john-crace-sketch",
+   "date": "2026-11-19T17:54:48+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Stefan Rousseau/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ca1f1aed0ae22e539ea1748d91c405eae550b667/469_0_4688_3751/master/4688.jpg?width=700&quality=85&auto=format&fit=max&s=cb5062ff065771a62df5720a7dfed73a",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T17:43:23+00:00"
+  },
+  {
+   "id": "3fdc8c957706c74f",
+   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
+   "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T17:52:12+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Composite: Guardian Design",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=69e37efbef416d8cbf6343ef33aef9ac",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:18:37+00:00"
+  },
+  {
+   "id": "79b55625f26abbc4",
+   "title": "China’s Xi urges US and Russia to join forces to safeguard world peace",
+   "summary": "Chinese President Xi urged US President Trump and Russian President Putin to work with China to safeguard world peace.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
+   "date": "2026-11-19T17:50:21+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795110597.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795110597.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T18:10:53+00:00"
+  },
+  {
    "id": "5ac6485bd7372da0",
    "title": "Ukraine allies warn ‘Yalta format’ will not bring about peace – Europe live",
    "summary": "Berlin meeting of the ‘coalition of the willing’ comes after Trump declared Putin a ‘friend’ during trilateral meeting with Xi in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state…",
@@ -208,28 +272,6 @@
    "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
-   "id": "fd737119107954c7",
-   "title": "Jimmy Dimly is back and we should treasure him while we can | John Crace",
-   "summary": "Old-school Tory with a heart wants to make London fun again – just don’t mention Brexit Tories select James Cleverly as candidate for London mayor Sooner or later, Sadiq Khan’s luck was bound to run out. Or was it?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/19/james-cleverly-london-mayor-john-crace-sketch",
-   "date": "2026-11-19T17:38:48+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Stefan Rousseau/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ca1f1aed0ae22e539ea1748d91c405eae550b667/469_0_4688_3751/master/4688.jpg?width=700&quality=85&auto=format&fit=max&s=cb5062ff065771a62df5720a7dfed73a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T17:43:23+00:00"
-  },
-  {
    "id": "db18c3c5862651cb",
    "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
    "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
@@ -248,28 +290,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:31:30+00:00"
-  },
-  {
-   "id": "3fdc8c957706c74f",
-   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
-   "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T17:29:33+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Composite: Guardian Design",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=69e37efbef416d8cbf6343ef33aef9ac",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:18:37+00:00"
   },
   {
    "id": "74f73557d62f47a2",
@@ -303,10 +323,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c180/live/02a49130-e442-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c180/live/02a49130-e442-11f1-a094-5fdc692f3e33.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c180/live/02a49130-e442-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c180/live/02a49130-e442-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T17:43:23+00:00"
@@ -1142,7 +1162,7 @@
   {
    "id": "ffef7c361488aa79",
    "title": "Chow to shuffle city hall leadership, decide whether to sit on Toronto police board",
-   "summary": "Olivia Chow is set to shuffle her leadership team at Toronto City Hall as new faces are set to be picked for high-profile committee roles.",
+   "summary": "Toronto Mayor Olivia Chow is shaking up her leadership team, tapping a former Liberal MP to head up the housing committee and her Scarborough deputy as transit chair.",
    "source": "Global News",
    "url": "https://globalnews.ca/news/12157656/olivia-chow-toronto-leadership/",
    "date": "2026-11-19T13:11:21+00:00",
@@ -8227,26 +8247,6 @@
     "h": 800,
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/93/c93ae214-75fc-5996-b15f-5fcd28b0fc29/6afc742717157.image.jpg?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/93/c93ae214-75fc-5996-b15f-5fcd28b0fc29/6afc742717157.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T15:44:10+00:00"
-  },
-  {
-   "id": "cf9466f9c2110688",
-   "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
-   "summary": "Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
-   "date": "2026-11-17T15:26:55+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/2025-12-15T165556Z_678996810_RC22HIAH0IRP_RTRMADP_3_YEMEN-SECURITY-1792006124.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2025-12-15T165556Z_678996810_RC22HIAH0IRP_RTRMADP_3_YEMEN-SECURITY-1792006124.jpg?resize=1200%2C800",
     "w": 1200
    },
    "breaking": false,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T23:20:29+00:00",
+ "generatedAt": "2026-11-19T23:30:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -242,10 +242,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=700&quality=85&auto=format&fit=max&s=a0a540737ae6b09d6325376f709ba92c",
-    "w": 700,
+    "credit": "Photograph: Ann Wang/Reuters",
     "h": 560,
-    "credit": "Photograph: Ann Wang/Reuters"
+    "url": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=700&quality=85&auto=format&fit=max&s=a0a540737ae6b09d6325376f709ba92c",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:18:33+00:00"
@@ -889,9 +889,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/16d3b3d3-9946-4196-9946-fa4fdde33cd3,1795114459825/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C412%2C7526%2C4233%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/16d3b3d3-9946-4196-9946-fa4fdde33cd3,1795114459825/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C412%2C7526%2C4233%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:16:32+00:00"
@@ -921,7 +921,7 @@
   {
    "id": "f3a953927377bcea",
    "title": "Jill Dunlop, Ontario's colleges and universities minister until 2024, refuses to answer OSAP questions",
-   "summary": "Ontario's former minister of colleges and universities, who presided over the file for three years until 2024, is refusing to answer questions about a growing OSAP scandal.",
+   "summary": "Ontario's former minister of colleges and universities, who presided over the file for three years until 2024, is refusing to answer questions about a growing Ontario Student Assistance Program scandal.",
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/jill-dunlop-colleges-and-universities-osap-9.7428530?cmp=rss",
    "date": "2026-11-19T18:59:49+00:00",

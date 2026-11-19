@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T09:55:18+00:00",
+ "generatedAt": "2026-11-19T10:04:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -177,9 +177,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/59400894-0f50-4862-a63e-db5a4108dbfa,1795078501939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C371%2C5000%2C2812%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/59400894-0f50-4862-a63e-db5a4108dbfa,1795078501939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C371%2C5000%2C2812%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T09:55:18+00:00"
@@ -196,12 +196,32 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/00867b0d-2b07-4035-8e6a-f5591803d19a,1795081108142/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C398%2C6358%2C3576%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/00867b0d-2b07-4035-8e6a-f5591803d19a,1795081108142/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C398%2C6358%2C3576%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T09:55:18+00:00"
+  },
+  {
+   "id": "3fdc8c957706c74f",
+   "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
+   "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because ‘double amputees run marathons’ BAE Systems has announced plans to cut more than 1,000 jobs from its workforce, triggering calls for ministers to place extra orders with…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T09:48:19+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: House of Commons/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/8c13e43ae8c115541cac6e3f64d48248544771ec/1435_1494_3905_3124/master/3905.jpg?width=700&quality=85&auto=format&fit=max&s=71cc69df42682c960b6b02b70a9a83c4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:18:37+00:00"
   },
   {
    "id": "f8eebc0bcd043148",
@@ -217,6 +237,41 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-19T09:55:18+00:00"
+  },
+  {
+   "id": "1acf29425f808e79",
+   "title": "Ben Shapiro on conservative media and the future of the Republican Party",
+   "summary": "NPR's Steve Inskeep sits down with conservative commentator Ben Shapiro to discuss the future of the Republican party.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/19/nx-s1-6035863/ben-shapiro-on-conservative-media-and-the-future-of-the-republican-party",
+   "date": "2026-11-19T09:45:41+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-19T10:04:53+00:00"
+  },
+  {
+   "id": "5ac6485bd7372da0",
+   "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
+   "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ Meanwhile, Denmark’s parliament unanimously ratified a security agreement with US president Donald Trump covering Greenland, hoping to end a standoff over ⁠the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T09:45:36+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Fabrizio Bensch/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/194326eb18d0979185a01324bf8eb4f154a041d2/270_0_4520_3616/master/4520.jpg?width=700&quality=85&auto=format&fit=max&s=97db544bd77deeba36756638777aa8ac",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
   },
   {
    "id": "8744328b0c142249",
@@ -247,46 +302,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-19T09:55:18+00:00"
-  },
-  {
-   "id": "3fdc8c957706c74f",
-   "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
-   "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because ‘double amputees run marathons’ Alexandra Topping is a Guardian political correspondent.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T09:22:43+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: House of Commons/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8c13e43ae8c115541cac6e3f64d48248544771ec/1435_1494_3905_3124/master/3905.jpg?width=700&quality=85&auto=format&fit=max&s=71cc69df42682c960b6b02b70a9a83c4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:18:37+00:00"
-  },
-  {
-   "id": "5ac6485bd7372da0",
-   "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
-   "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ Meanwhile, a key bridge connecting annexed Crimea to Russia has been attacked again last night, a Russian-appointed regional governor has said, two days after…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T09:04:22+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Fabrizio Bensch/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/194326eb18d0979185a01324bf8eb4f154a041d2/270_0_4520_3616/master/4520.jpg?width=700&quality=85&auto=format&fit=max&s=97db544bd77deeba36756638777aa8ac",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
   },
   {
    "id": "a06cbc63e0ffdd8a",
@@ -8247,26 +8262,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T00:44:54+00:00"
-  },
-  {
-   "id": "ae6c6e252673a574",
-   "title": "UK seeks closer ties with EU after Brexit fail",
-   "summary": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
-   "date": "2026-11-17T00:30:21+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-16T213551Z_1833612859_RC26POAJK359_RTRMADP_3_BRITAIN-EU-BURNHAM-1794870258.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-16T213551Z_1833612859_RC26POAJK359_RTRMADP_3_BRITAIN-EU-BURNHAM-1794870258.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T00:54:33+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T16:56:51+00:00",
+ "generatedAt": "2026-11-19T17:06:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "f5974850414e0694",
+   "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+   "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T17:03:23+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T20:18:34+00:00"
+  },
+  {
    "id": "947e6ec924674139",
    "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
    "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
@@ -184,6 +206,50 @@
    },
    "breaking": true,
    "addedAt": "2026-11-19T16:37:59+00:00"
+  },
+  {
+   "id": "3fdc8c957706c74f",
+   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
+   "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T16:53:35+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Composite: Guardian Design",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=69e37efbef416d8cbf6343ef33aef9ac",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:18:37+00:00"
+  },
+  {
+   "id": "5ac6485bd7372da0",
+   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T16:50:26+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
   },
   {
    "id": "c38a95a63f92a4f3",
@@ -208,28 +274,6 @@
    "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
-   "id": "5ac6485bd7372da0",
-   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T16:40:13+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
-  },
-  {
    "id": "a2c201027f0695c9",
    "title": "Poilievre brushes off questions about staff departures from his office",
    "summary": "SAINT-HYACINTHE - Federal Conservative Leader Pierre Poilievre brushed off questions today about the departure of five staffers from his office.",
@@ -248,28 +292,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T16:47:37+00:00"
-  },
-  {
-   "id": "3fdc8c957706c74f",
-   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
-   "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T16:28:32+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Composite: Guardian Design",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=69e37efbef416d8cbf6343ef33aef9ac",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:18:37+00:00"
   },
   {
    "id": "1411c015818d8df7",
@@ -333,7 +355,7 @@
   {
    "id": "3ebe5aae4600782e",
    "title": "Liberal MAID committee chair wants separate votes for mental illness, diseases",
-   "summary": "OTTAWA - A Liberal MP who chaired a committee on medical assistance in dying says he agrees with calls from Conservative MPs for the government to split its MAID legislation to allow for separate votes on mental illness and degenerative…",
+   "summary": "OTTAWA - A Liberal MP who chaired a committee on medical assistance in dying says he agrees with Conservative MPs who want the government to split its MAID legislation to allow for separate votes on mental illness and degenerative diseases.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/liberal-maid-committee-chair-wants-separate-votes-for-mental-illness-diseases/article_60b3d823-bdfb-5be1-8585-873afe4cd62b.html",
    "date": "2026-11-19T16:09:04+00:00",
@@ -353,7 +375,7 @@
   {
    "id": "9b19fd96c1e6b73c",
    "title": "Four UK men convicted of sexual assault and rape of drugged woman at invitation of husband",
-   "summary": "Former Tory councillor advertised ex-wife on swinging websites and drugged and bound her for sex Four men have been convicted of sexually assaulting and raping a woman at the invitation of her husband who had drugged and bound her.",
+   "summary": "Former Tory councillor advertised then wife on swinging websites and drugged and bound her for sex • Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years Four men have been convicted of sexually assaulting and…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
    "date": "2026-11-19T16:08:06+00:00",
@@ -1403,28 +1425,6 @@
    "addedAt": "2026-11-19T11:27:43+00:00"
   },
   {
-   "id": "f5974850414e0694",
-   "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-   "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T11:07:37+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T20:18:34+00:00"
-  },
-  {
    "id": "a16f73d049f62b69",
    "title": "Measles has come raging back in the US. Robert F Kennedy Jr should be impeached | Judith Levine",
    "summary": "He is responsible for the health of the American people. On his watch, thousands have become seriously ill At least 11 Americans have died of measles since January 2025 – the month before Robert F Kennedy Jr became secretary of Health and Human Services.",
@@ -1789,8 +1789,8 @@
   },
   {
    "id": "a2e6600cde94a1ad",
-   "title": "Chow turns down police board seat, sticks with deputy mayor roster",
-   "summary": "Mayor Olivia Chow is again turning down a post on the Toronto police board while opting to stick with the same roster of deputy mayors as when she finished her first term.",
+   "title": "Chow turns down police board seat, taps new councillors for committees",
+   "summary": "TORONTO - Toronto Mayor Olivia Chow is shaking up her leadership team, tapping a former Liberal MP to head up the housing committee and her Scarborough deputy as transit chair.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/chow-to-shuffle-city-hall-leadership-decide-whether-to-sit-on-toronto-police-board/article_81f9f045-3772-553d-9765-1ba6dedd0038.html",
    "date": "2026-11-19T09:00:25+00:00",

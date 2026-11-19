@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T20:59:04+00:00",
+ "generatedAt": "2026-11-19T21:08:40+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -177,9 +177,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/062aaee9-a818-4683-8fed-d78a3d0c0588,1795119984529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C829%2C7972%2C4484%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/062aaee9-a818-4683-8fed-d78a3d0c0588,1795119984529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C829%2C7972%2C4484%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:59:04+00:00"
@@ -220,9 +220,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/b184e0f3-ae51-4b6c-b627-1d5808b202c6,1795119970288/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C326%2C6260%2C3521%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/b184e0f3-ae51-4b6c-b627-1d5808b202c6,1795119970288/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C326%2C6260%2C3521%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:59:04+00:00"
@@ -239,12 +239,52 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f8878b6a-3cdd-426a-a4e5-5951615da216,1795119506114/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C350%2C6720%2C3780%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f8878b6a-3cdd-426a-a4e5-5951615da216,1795119506114/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C350%2C6720%2C3780%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:59:04+00:00"
+  },
+  {
+   "id": "2b811efddb67c1a8",
+   "title": "What do Pierre Poilievre, a man's thigh, a tattoo and a charity have in common?",
+   "summary": "Kevin McIntyre of Winnipeg got an image of Conservative leader inked onto his leg as part of a fundraising drive.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/what-do-pierre-poilievre-a-man-s-thigh-a-tattoo-and-a-charity-have-in-common/article_093f99d6-133f-4629-9a48-cf6ee4ab1d33.html",
+   "date": "2026-11-19T20:45:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/c0/ec089c23-3fb2-5698-8a4f-6e4075fec030/6aff485e76c24.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 1627,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/c0/ec089c23-3fb2-5698-8a4f-6e4075fec030/6aff485e76c24.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T21:08:40+00:00"
+  },
+  {
+   "id": "5d79f869626173bc",
+   "title": "Will the Shenzhen summit safeguard world peace?",
+   "summary": "Xi, Putin and Trump issue 'Peace Declaration' after historic summit.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/19/will-the-shenzhen-summit-safeguard-world-peace?traffic_source=rss",
+   "date": "2026-11-19T20:43:51+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795117645.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795117645.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T21:08:40+00:00"
   },
   {
    "id": "bedc28ad0b09ab9c",
@@ -601,9 +641,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.7359817,1729623973000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.7359817,1729623973000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:06:49+00:00"
@@ -2119,6 +2159,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T14:16:42+00:00"
+  },
+  {
+   "id": "79caf38409df8dce",
+   "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+   "summary": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+   "date": "2026-11-19T11:20:37+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7849x5233+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2F44%2Fbfff6cb1428699b30904d968729a%2Fgettyimages-2304033240.jpg",
+    "w": 1200,
+    "h": 800,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7849x5233+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3b%2F44%2Fbfff6cb1428699b30904d968729a%2Fgettyimages-2304033240.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T21:08:40+00:00"
   },
   {
    "id": "144f0711e6f6d6a5",
@@ -8181,66 +8241,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T18:04:55+00:00"
-  },
-  {
-   "id": "455d52974762733a",
-   "title": "Ford government moves to shield itself from lawsuits related to OSAP fraud probe",
-   "summary": "Nolan Quinn, Ontario’s minister of colleges and universities sidestepped questions in the legislature Tuesday about the government looking to grant itself legal immunity.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12154532/ford-government-moves-to-shield-itself-from-lawsuits-related-to-osap-fraud-probe/",
-   "date": "2026-11-17T17:41:08+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/18956c1bcb08002d5b86664f87bf5f8399eac26ed5ba1035dfdc4cd5c802a946_d2289c.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/18956c1bcb08002d5b86664f87bf5f8399eac26ed5ba1035dfdc4cd5c802a946_d2289c.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T17:46:24+00:00"
-  },
-  {
-   "id": "5b565cfaa4953e93",
-   "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
-   "summary": "The former Nvidia CEO said he would be \"honored\" to return if the board allowed. But the board says it has no intention of reinstating him.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
-   "date": "2026-11-17T17:36:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2Fbd%2F038464ef47e8aca105d3fd442b4d%2Fgettyimages-2304269603.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2Fbd%2F038464ef47e8aca105d3fd442b4d%2Fgettyimages-2304269603.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T17:55:41+00:00"
-  },
-  {
-   "id": "9775fff4b2849085",
-   "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-   "summary": "Huang resigned last week over affairs with an alleged Chinese spy and multiple employees who reported to him Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company Thursday.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
-   "date": "2026-11-17T17:35:26+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Manami Yamada/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=700&quality=85&auto=format&fit=max&s=a5f4532d7b9b20599a9bd896474e933e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T16:59:26+00:00"
   }
  ]
 }

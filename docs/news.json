@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T19:44:16+00:00",
+ "generatedAt": "2026-11-19T19:53:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "7ff62bf3d3252fb3",
+   "title": "European leaders unite in Berlin to reaffirm support for Ukraine",
+   "summary": "German chancellor warns peace talks without Europe's involvement are doomed to fail, urging unity with Ukraine.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
+   "date": "2026-11-19T19:40:23+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-19T181515Z_1222114708_RC25ROAMOK1I_RTRMADP_3_UKRAINE-CRISIS-GERMANY-1795112208.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-19T181515Z_1222114708_RC25ROAMOK1I_RTRMADP_3_UKRAINE-CRISIS-GERMANY-1795112208.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T19:53:53+00:00"
+  },
+  {
+   "id": "38e47cf5e5fbcb56",
+   "title": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
+   "summary": "Nearly a million Rohingya fled to Bangladesh in 2017, forming one of the world's largest refugee camps near Cox's Bazar.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
+   "date": "2026-11-19T19:33:25+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ss11-1795108375.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ss11-1795108375.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T19:53:53+00:00"
+  },
+  {
    "id": "b9983076f3fb5e0f",
    "title": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
    "summary": "Prime Minister Mark Carney condemned Russia's war with Ukraine while President Vladimir Putin, the man prosecuting that war, was in the room for leaders' speeches at the APEC summit in China.",
@@ -177,9 +217,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/eacece62-df86-49b8-89be-93c466bf53d0,1795116383312/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C4206%2C2365%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/eacece62-df86-49b8-89be-93c466bf53d0,1795116383312/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C4206%2C2365%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:44:16+00:00"
@@ -196,9 +236,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/a123c0e8-e68f-4e75-9121-bd40f13db119,1795116003636/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4262%2C2397%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/a123c0e8-e68f-4e75-9121-bd40f13db119,1795116003636/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4262%2C2397%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:44:16+00:00"
@@ -1680,7 +1720,7 @@
   },
   {
    "id": "d4d7c2a2b380a56b",
-   "title": "Chow turns down police board seat, sticks with deputy mayor roster",
+   "title": "Chow turns down police board seat, selects new committee heads at city hall",
    "summary": "Mayor Olivia Chow again turned down a post on the Toronto police board Thursday. She also opted to shake up high-profile committee roles, charging newly elected and veteran allies with key positions.",
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/oliva-chow-city-hall-leadership-police-board-9.7427743?cmp=rss",
@@ -8200,45 +8240,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:29:18+00:00"
-  },
-  {
-   "id": "4f95822df2626f67",
-   "title": "Russian figure skaters out of Grand Prix event due to Finland's ban on Russian athletes",
-   "summary": "Seven Russian figure skaters have been withdrawn from a Grand Prix event in Finland this week after the Finnish government barred Russian athletes from entering the country, the Russian Figure Skating Federation said Tuesday.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/sports/olympics/winter/figure-skating/figure-skating-finland-russia-ban-update-9.7424974?cmp=rss",
-   "date": "2026-11-17T16:55:51+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/bdc3f2dc-e1e3-48be-897d-a4c3b61e2039,1794929867055/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C122%2C3262%2C1834%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T18:32:37+00:00"
-  },
-  {
-   "id": "e31015ea2fe8010c",
-   "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
-   "summary": "The law targets the group's financing and activities as Houthis make advances in southwestern Yemen.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
-   "date": "2026-11-17T16:53:25+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/HXQmoXHXMAAKpMH-1794927673.jpeg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/HXQmoXHXMAAKpMH-1794927673.jpeg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T17:08:40+00:00"
   }
  ]
 }

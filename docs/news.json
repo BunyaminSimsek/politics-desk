@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T12:23:26+00:00",
+ "generatedAt": "2026-11-19T12:32:34+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,102 @@
   }
  ],
  "items": [
+  {
+   "id": "53b632b4ea42a152",
+   "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+   "summary": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+   "date": "2026-11-19T12:26:01+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-19T12:32:34+00:00"
+  },
+  {
+   "id": "3224d5aac3d7b94d",
+   "title": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
+   "summary": "The blaze broke out during heightened violence before ousted Prime Minister Sheikh Hasina's planned return.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss",
+   "date": "2026-11-19T12:21:33+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afec68b-1795081867.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afec68b-1795081867.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T12:32:34+00:00"
+  },
+  {
+   "id": "d4d7c2a2b380a56b",
+   "title": "Chow to decide on city hall leadership, whether to join Toronto police board",
+   "summary": "Olivia Chow is set to shuffle her leadership team at Toronto City Hall as new faces are set to be picked for high-profile committee roles.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/oliva-chow-city-hall-leadership-police-board-9.7427743?cmp=rss",
+   "date": "2026-11-19T12:20:49+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/958d3b74-11de-4047-af2d-400ba4df0b48,1790621311540/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C309%2C5931%2C3336%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T12:32:34+00:00"
+  },
+  {
+   "id": "bf81bed1e6acaea2",
+   "title": "Lack of early border controls made UK ‘extremely vulnerable’ to Covid, inquiry finds",
+   "summary": "Latest report also says test and trace failures allowed virus to spread quickly and unchecked UK politics live – latest updates The lack of international border controls at the start of the Covid-19 pandemic left the UK in an “extremely vulnerable position”…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/19/covid-inquiry-uk-report-lack-of-early-border-controls-virus-spread",
+   "date": "2026-11-19T12:13:45+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Justin Tallis/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/9f48ca68c40f6949ad41db2c7f564ebe5dd7e8e6/484_0_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=cb39147b56d30656d6d4f5b223588e74",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T12:14:02+00:00"
+  },
+  {
+   "id": "fc19fc54f8c8451b",
+   "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
+   "summary": "Vladimir Putin's special briefcase - thought to carry access to nuclear weapons - made a rare appearance in Shenzhen.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss",
+   "date": "2026-11-19T12:11:42+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afecd2a-1795083562.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afecd2a-1795083562.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T12:32:34+00:00"
+  },
   {
    "id": "5ac6485bd7372da0",
    "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
@@ -284,28 +380,6 @@
     "credit": "Photograph: Stephen Maturen/Getty Images",
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/b0c7104ed351d64b109950a06e74a874094aaf75/813_0_4536_3627/master/4536.jpg?width=700&quality=85&auto=format&fit=max&s=f00bc7f57d2dfd2581d1e5ba080b6387",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T12:14:02+00:00"
-  },
-  {
-   "id": "bf81bed1e6acaea2",
-   "title": "Lack of early border controls made UK ‘extremely vulnerable’ to Covid, inquiry finds",
-   "summary": "Latest report also says test and trace failures allowed virus to spread quickly and unchecked UK politics live – latest updates The lack of international border controls at the start of the Covid-19 pandemic left the UK in an “extremely vulnerable position”…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/19/covid-inquiry-uk-report-lack-of-early-border-controls-virus-spread",
-   "date": "2026-11-19T12:00:06+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Justin Tallis/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9f48ca68c40f6949ad41db2c7f564ebe5dd7e8e6/484_0_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=cb39147b56d30656d6d4f5b223588e74",
     "w": 700
    },
    "breaking": false,
@@ -8186,88 +8260,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T09:04:51+00:00"
-  },
-  {
-   "id": "552e72f45612a566",
-   "title": "‘Line their own coffers’: independent MPs lambast Labor’s last-minute changes to election funding laws",
-   "summary": "Crossbenchers say the proposals could allow an ‘uncapped amount of money’ to flow to major parties through investment funds Get our daily political email , free app or daily news podcast Independent MPs say the government’s last-minute changes to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/17/line-their-own-coffers-independent-mps-lambast-labors-last-minute-changes-to-election-funding-laws",
-   "date": "2026-11-17T08:50:38+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lukas Coch/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a96c54d2157d7d99b1d0f9e10b3de8605acc182b/533_0_5333_4266/master/5333.jpg?width=700&quality=85&auto=format&fit=max&s=61871ac5992ed9fd7858b4a5b21aedcb",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T09:14:23+00:00"
-  },
-  {
-   "id": "676314db585952ee",
-   "title": "Communications watchdog leadership reversed findings of draft report into ABC Four Corners program, FoI documents reveal",
-   "summary": "Documents show draft Acma reports backed reporting of Gold Walkley award-winning journalist Mark Willacy about Australian War Memorial",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/media/2026/nov/17/communications-watchdog-leadership-reversed-findings-of-draft-report-into-abc-four-corners-program-foi-documents-ntwnfb",
-   "date": "2026-11-17T08:33:52+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lukas Coch/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0d764c3a0b9d99b7b928bcf01f38f03905f158e8/508_0_5033_4024/master/5033.jpg?width=700&quality=85&auto=format&fit=max&s=a93bc685ea220042bf95bd6312916c81",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T08:46:41+00:00"
-  },
-  {
-   "id": "d101656a5a74dd1f",
-   "title": "Vance calls out ‘neoconservatives’ over Iran war",
-   "summary": "US Vice President JD Vance told Fox News that ‘neoconservatives’ want the Iran war to become a forever war.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss",
-   "date": "2026-11-17T08:25:25+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794903888.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794903888.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T08:37:26+00:00"
-  },
-  {
-   "id": "bd602f0ff60f396c",
-   "title": "Andy Burnham says Brexit is what the UK’s ‘enemies’ wanted",
-   "summary": "UK Prime Minister Andy Burnham slammed Brexit in a speech at the Lord Mayor’s Banquet.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/andy-burnham-says-brexit-is-what-the-uks-enemies-wanted?traffic_source=rss",
-   "date": "2026-11-17T08:04:35+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/clean-wide-1794902614.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/clean-wide-1794902614.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T08:27:48+00:00"
   }
  ]
 }

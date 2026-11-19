@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T18:48:06+00:00",
+ "generatedAt": "2026-11-19T18:57:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 30
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "9c607d0e2e6ccc5b",
+   "title": "‘Difficult to predict’ timeline to end CAF ammunition shortage: official",
+   "summary": "Conflicts in Ukraine and Iran have led to global ammunition shortages that make procurement on the open market difficult, official says.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12158159/canadian-forces-ammunition-shortage-plans/",
+   "date": "2026-11-19T18:56:50+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2025/12/CAF-member-arrested.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2025/12/CAF-member-arrested.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T18:57:31+00:00"
+  },
+  {
+   "id": "c38a95a63f92a4f3",
+   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-19T18:51:29+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:18:33+00:00"
+  },
+  {
    "id": "77a30b594ecb45e9",
    "title": "Regulatory harmonization not a goal of associate membership for Canada: EU ambassador",
    "summary": "OTTAWA - Canada and the European Union aren't looking at sweeping regulatory harmonization as they work to establish closer ties, says the EU's ambassador to Canada.",
@@ -243,28 +285,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T18:20:11+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T18:05:08+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "689b4da307038f2d",
@@ -382,10 +402,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:31:30+00:00"
@@ -8223,26 +8243,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T16:49:49+00:00"
-  },
-  {
-   "id": "768d27897fad0034",
-   "title": "National Congress of American Indians calls on Trump to reverse Lake Ontario change",
-   "summary": "OTTAWA - The National Congress of American Indians is calling on U.S. President Donald Trump to walk back his August executive order renaming Lake Ontario as Lake America.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/national-congress-of-american-indians-calls-on-trump-to-reverse-lake-ontario-change/article_f05f0623-bf96-5eb6-a0b7-aa41e8566586.html",
-   "date": "2026-11-17T16:05:29+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/66/e66c8f02-82fa-5914-a305-03b25769329f/6afc7c5d75330.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/66/e66c8f02-82fa-5914-a305-03b25769329f/6afc7c5d75330.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T16:21:31+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T15:31:30+00:00",
+ "generatedAt": "2026-11-19T15:40:51+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 48
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,24 +166,68 @@
  ],
  "items": [
   {
-   "id": "db18c3c5862651cb",
-   "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-   "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T15:23:34+00:00",
+   "id": "bfad6145e3fb8837",
+   "title": "‘New page in history?’ Xi, Trump and Putin summit was more of a footnote",
+   "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda It is arguably true, given it was the first such meeting of the leaders of China, Russia and the US, that Thursday’s gathering in Shenzhen deserved the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
+   "date": "2026-11-19T15:35:01+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e830/live/46bca1a0-e406-11f1-ab35-e1af93fa5cce.jpg",
-    "w": 1200,
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e830/live/46bca1a0-e406-11f1-ab35-e1af93fa5cce.jpg"
+    "url": "https://i.guim.co.uk/img/media/82a515f04bc247c4248d7219eb825c2d67060618/1173_38_6573_5258/master/6573.jpg?width=700&quality=85&auto=format&fit=max&s=4df309ecc7781e6c8f1542fa405dc57e",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Win McNamee/Pool Getty Images AsiaPac/AP"
    },
    "breaking": false,
-   "addedAt": "2026-11-19T15:31:30+00:00"
+   "addedAt": "2026-11-19T15:40:51+00:00"
+  },
+  {
+   "id": "5ac6485bd7372da0",
+   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T15:34:38+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
+  },
+  {
+   "id": "3fdc8c957706c74f",
+   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
+   "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T15:32:28+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Composite: Guardian Design",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=69e37efbef416d8cbf6343ef33aef9ac",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:18:37+00:00"
   },
   {
    "id": "c38a95a63f92a4f3",
@@ -191,7 +235,7 @@
    "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T15:19:34+00:00",
+   "date": "2026-11-19T15:30:34+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -208,6 +252,46 @@
    "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
+   "id": "3e5b445196dda01a",
+   "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+   "summary": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+   "date": "2026-11-19T15:24:51+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1795101729.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1795101729.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T15:40:51+00:00"
+  },
+  {
+   "id": "db18c3c5862651cb",
+   "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+   "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T15:23:34+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T15:31:30+00:00"
+  },
+  {
    "id": "5107e59575ddcbbf",
    "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
    "summary": "Andy Burnham due in Brussels on Friday but sticking points on food rules and tuition fees remain unresolved The UK-EU reset talks will go “down to the wire” as the British government battles to have a say in shaping future European food and farming rules.",
@@ -219,10 +303,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/78f4d52aa44fb56369bd027db2731ab2539e3e15/426_0_4300_3440/master/4300.jpg?width=700&quality=85&auto=format&fit=max&s=8360524f770be439129d02222f155156",
-    "w": 700,
+    "credit": "Photograph: WPA/Getty Images",
     "h": 560,
-    "credit": "Photograph: WPA/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/78f4d52aa44fb56369bd027db2731ab2539e3e15/426_0_4300_3440/master/4300.jpg?width=700&quality=85&auto=format&fit=max&s=8360524f770be439129d02222f155156",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:31:30+00:00"
@@ -241,35 +325,13 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/f4/9f45e875-6118-5294-8cbe-973b887234a9/6aff127942bf6.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/f4/9f45e875-6118-5294-8cbe-973b887234a9/6aff127942bf6.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/f4/9f45e875-6118-5294-8cbe-973b887234a9/6aff127942bf6.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/f4/9f45e875-6118-5294-8cbe-973b887234a9/6aff127942bf6.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:31:30+00:00"
-  },
-  {
-   "id": "3fdc8c957706c74f",
-   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
-   "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T15:08:47+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Composite: Guardian Design",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=69e37efbef416d8cbf6343ef33aef9ac",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:18:37+00:00"
   },
   {
    "id": "0e9f1c68d2dc80d1",
@@ -333,28 +395,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:12:39+00:00"
-  },
-  {
-   "id": "5ac6485bd7372da0",
-   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T14:59:14+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
   },
   {
    "id": "5e1a661fe7a2a612",
@@ -8231,46 +8271,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T12:47:38+00:00"
-  },
-  {
-   "id": "f52ac736b9251845",
-   "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
-   "summary": "Trump says Washington doesn't need a deal with Tehran, while Iran rejects 'no war, no peace'. Is the war at an impasse?",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
-   "date": "2026-11-17T12:33:51+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afbfc9370a59-1794899091.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afbfc9370a59-1794899091.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T12:47:38+00:00"
-  },
-  {
-   "id": "5a6bf75205414396",
-   "title": "‘We are all in’: the Democrats trying to turn round the US’s reputation at Cop31",
-   "summary": "The 120-strong America Is All In group are trying to ensure that the US won’t remained sidelined at the climate talks for very much longer.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/17/down-to-earth-democrat-delegates-us-politics-cop31",
-   "date": "2026-11-17T12:30:54+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Khalil Hamra/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/052537657e853c5c521d78658804fd559992d254/242_0_1740_1392/master/1740.jpg?width=700&quality=85&auto=format&fit=max&s=1da8debe1d696eb78a281c6cf98a4d77",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T12:38:32+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T16:47:37+00:00",
+ "generatedAt": "2026-11-19T16:56:51+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "CBC World",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 48
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "947e6ec924674139",
+   "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+   "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T16:55:57+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
+   },
+   "breaking": true,
+   "addedAt": "2026-11-19T16:37:59+00:00"
+  },
+  {
+   "id": "c38a95a63f92a4f3",
+   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-19T16:46:49+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:18:33+00:00"
+  },
+  {
    "id": "5ac6485bd7372da0",
    "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
    "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
@@ -199,10 +241,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/aa/6aa68a56-8d30-5acc-946f-e291af455c7c/6aff253952d8c.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/aa/6aa68a56-8d30-5acc-946f-e291af455c7c/6aff253952d8c.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/aa/6aa68a56-8d30-5acc-946f-e291af455c7c/6aff253952d8c.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/aa/6aa68a56-8d30-5acc-946f-e291af455c7c/6aff253952d8c.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T16:47:37+00:00"
@@ -241,10 +283,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/481faa480b9827e373eef230007072e3dc9bdf46/322_0_4921_3940/master/4921.jpg?width=700&quality=85&auto=format&fit=max&s=48f27e69f7c24fa07c145393bd3f1483",
-    "w": 700,
+    "credit": "Photograph: Jonathan Brady/PA",
     "h": 560,
-    "credit": "Photograph: Jonathan Brady/PA"
+    "url": "https://i.guim.co.uk/img/media/481faa480b9827e373eef230007072e3dc9bdf46/322_0_4921_3940/master/4921.jpg?width=700&quality=85&auto=format&fit=max&s=48f27e69f7c24fa07c145393bd3f1483",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T16:47:37+00:00"
@@ -265,50 +307,8 @@
     "credit": "",
     "url": "https://i.cbc.ca/ais/fc0a7693-6925-42e7-ad0f-c90c0349baf1,1795104733311/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C423%2C8130%2C4573%29%3B"
    },
-   "breaking": true,
+   "breaking": false,
    "addedAt": "2026-11-19T15:21:53+00:00"
-  },
-  {
-   "id": "947e6ec924674139",
-   "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-   "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T16:19:23+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T16:37:59+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T16:16:50+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "26035da73ae0ea21",

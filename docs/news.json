@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T00:13:48+00:00",
+ "generatedAt": "2026-11-19T00:23:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 26
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "63f8d093e7784231",
-   "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-   "summary": "Saudi-led coalition has said it destroyed a missile platform in Saada, Yemen as Iran claims three ships hit mines.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
-   "date": "2026-11-19T00:01:02+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe32a94666-1795044009.jpg?resize=1200%2C800",
-    "w": 1200,
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe32a94666-1795044009.jpg?resize=640%2C427"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T00:13:48+00:00"
-  },
-  {
    "id": "178f94915ff3cf34",
    "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
    "summary": "US transportation secretary Sean Duffy blames contractor L3Harris for national ground stoppage and says ‘this was not identified quick enough’",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-18T23:44:00+00:00",
+   "date": "2026-11-19T00:04:06+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -204,6 +184,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:00:21+00:00"
+  },
+  {
+   "id": "63f8d093e7784231",
+   "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+   "summary": "Saudi-led coalition has said it destroyed a missile platform in Saada, Yemen as Iran claims three ships hit mines.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+   "date": "2026-11-19T00:01:02+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe32a94666-1795044009.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe32a94666-1795044009.jpg?resize=1200%2C800",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T00:13:48+00:00"
   },
   {
    "id": "0bb34d16b41dac20",
@@ -444,9 +444,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/de61a1fe-7966-46a3-b796-96f549d88920,1795045779483/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C370%2C7096%2C3991%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/de61a1fe-7966-46a3-b796-96f549d88920,1795045779483/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C370%2C7096%2C3991%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T22:02:04+00:00"

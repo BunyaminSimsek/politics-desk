@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T08:23:24+00:00",
+ "generatedAt": "2026-11-19T08:32:35+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 13
+   "kept": 14
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "26dd91784fd7dfb3",
+   "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+   "summary": "Material damage was reported after ​debris fell following the latest Houthi strikes launched towards Saudi Arabia.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
+   "date": "2026-11-19T08:19:17+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afea99c3cae6-1795074460.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afea99c3cae6-1795074460.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T08:32:35+00:00"
+  },
   {
    "id": "9c39f5be0ac94bfe",
    "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
@@ -8267,26 +8289,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T23:10:53+00:00"
-  },
-  {
-   "id": "b0cb91c0f09b413f",
-   "title": "This single mom owes $5,000 to her college. Ontario’s new bill does nothing to unfreeze her OSAP",
-   "summary": "The Ford government's legislation introduced Monday proposed a number of changes limiting access to student loans.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/this-single-mom-owes-5-000-to-her-college-ontario-s-new-bill-does-nothing-to-unfreeze-her-osap/article_44fc4908-05e5-40cc-8c02-97b9a6a53e65.html",
-   "date": "2026-11-16T22:41:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/53/a537899f-34a0-5da8-8b65-18a5ece86b40/6afb424b77d4d.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/53/a537899f-34a0-5da8-8b65-18a5ece86b40/6afb424b77d4d.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T22:52:14+00:00"
   }
  ]
 }

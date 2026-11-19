@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T13:30:03+00:00",
+ "generatedAt": "2026-11-19T13:39:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 28
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -118,14 +118,14 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 48
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -166,48 +166,46 @@
  ],
  "items": [
   {
-   "id": "5ac6485bd7372da0",
-   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T13:22:39+00:00",
-   "topic": "ukraine",
+   "id": "9a7a8ff25b12b7e3",
+   "title": "Venezuela signs military deal with US less than a year after Maduro's ouster",
+   "summary": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T13:31:23+00:00",
+   "topic": "latam",
    "region": "world",
    "tags": [
     "defence"
    ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T13:39:12+00:00"
+  },
+  {
+   "id": "c38a95a63f92a4f3",
+   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-19T13:22:55+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
+    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
-  },
-  {
-   "id": "3fdc8c957706c74f",
-   "title": "Jenrick mocked after criticising Thatcher’s policies, despite naming daughter after her – UK politics live",
-   "summary": "Reform UK MP says policies left a ‘deep scar’ on communities These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T13:20:37+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/1c435763e1f54d8b07eec454718b99204e42d6e1/485_0_6520_5216/master/6520.jpg?width=700&quality=85&auto=format&fit=max&s=999e4755b1cb8a845046f38421d20d16",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Christopher Furlong/Getty Images"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:18:37+00:00"
+   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "bf81bed1e6acaea2",
@@ -232,6 +230,50 @@
    "addedAt": "2026-11-19T12:14:02+00:00"
   },
   {
+   "id": "3fdc8c957706c74f",
+   "title": "Jenrick mocked after criticising Thatcher’s policies, despite naming daughter after her – UK politics live",
+   "summary": "Reform UK MP says policies left a ‘deep scar’ on communities These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T13:19:22+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Christopher Furlong/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/1c435763e1f54d8b07eec454718b99204e42d6e1/485_0_6520_5216/master/6520.jpg?width=700&quality=85&auto=format&fit=max&s=999e4755b1cb8a845046f38421d20d16",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:18:37+00:00"
+  },
+  {
+   "id": "5ac6485bd7372da0",
+   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T13:17:18+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
+  },
+  {
    "id": "727ee1260bb25fa0",
    "title": "‘Groundbreaking’ Trump-Xi-Putin summit: Five key takeaways",
    "summary": "Leaders hailed the unprecedented meeting as historic, with discussions spanning nuclear risks to energy flows.",
@@ -243,10 +285,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305839919-1795078098.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305839919-1795078098.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305839919-1795078098.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305839919-1795078098.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:30:03+00:00"
@@ -263,10 +305,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/21ddeb28259d25b93c94905de55f645b5eb1d446/620_27_3852_3082/master/3852.jpg?width=700&quality=85&auto=format&fit=max&s=f3bdfb224707031229f559c138921c86",
-    "w": 700,
+    "credit": "Photograph: Gareth Fuller/PA",
     "h": 560,
-    "credit": "Photograph: Gareth Fuller/PA"
+    "url": "https://i.guim.co.uk/img/media/21ddeb28259d25b93c94905de55f645b5eb1d446/620_27_3852_3082/master/3852.jpg?width=700&quality=85&auto=format&fit=max&s=f3bdfb224707031229f559c138921c86",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:30:03+00:00"
@@ -330,26 +372,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:01:31+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T12:51:25+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "a2c3574e4f0cbe70",
@@ -625,10 +647,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg",
-    "w": 1200,
     "h": 673,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:30:03+00:00"
@@ -1106,7 +1128,7 @@
   {
    "id": "7073f2bce7e23030",
    "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
-   "summary": "President Trump, Xi and Putin have met in Shenzhen for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
+   "summary": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
    "source": "NPR",
    "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
    "date": "2026-11-19T09:44:40+00:00",
@@ -8246,26 +8268,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:05:28+00:00"
-  },
-  {
-   "id": "ebb2a14e940faf4a",
-   "title": "Trump arrives in Philippines to kick off Asia trip",
-   "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-   "date": "2026-11-17T10:43:55+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7840x5227+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F04%2F49%2Fa294d8eb44928fd04761b88c0ba1%2Fap26321375771842.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7840x5227+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F04%2F49%2Fa294d8eb44928fd04761b88c0ba1%2Fap26321375771842.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T10:56:18+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T01:47:34+00:00",
+ "generatedAt": "2026-11-19T01:56:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 27
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 48
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -177,17 +177,17 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=700&quality=85&auto=format&fit=max&s=ba20d55057ae66a6c50b0dd1aafff4a8",
-    "w": 700,
+    "credit": "Photograph: Getty Images",
     "h": 560,
-    "credit": "Photograph: Getty Images"
+    "url": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=700&quality=85&auto=format&fit=max&s=ba20d55057ae66a6c50b0dd1aafff4a8",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:00:21+00:00"
   },
   {
    "id": "bef9892dbf553562",
-   "title": "Pre-Christmas rate hike unlikely as unemployment rate jumps to highest level in five years",
+   "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
    "summary": "Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures reveal Get our daily political email , free app or daily news podcast Australia may already have “one foot in recession” after unemployment surged to 4.9% in October, from…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
@@ -199,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ccbba5c44390f21ce8f21f8caaf8486c31bac8c4/529_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=3a6a8e98b1d1f2d76b399ad60059cd79",
-    "w": 700,
+    "credit": "Photograph: SOPA Images/LightRocket/Getty Images",
     "h": 560,
-    "credit": "Photograph: SOPA Images/LightRocket/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/ccbba5c44390f21ce8f21f8caaf8486c31bac8c4/529_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=3a6a8e98b1d1f2d76b399ad60059cd79",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T01:47:34+00:00"

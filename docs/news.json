@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T21:46:14+00:00",
+ "generatedAt": "2026-11-19T21:55:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 13
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -199,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2021/07/2018-01-08T180929Z_1992543077_RC1E7E122B70_RTRMADP_3_USA-IMMIGRATION-PROTECTION.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2021/07/2018-01-08T180929Z_1992543077_RC1E7E122B70_RTRMADP_3_USA-IMMIGRATION-PROTECTION.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2021/07/2018-01-08T180929Z_1992543077_RC1E7E122B70_RTRMADP_3_USA-IMMIGRATION-PROTECTION.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2021/07/2018-01-08T180929Z_1992543077_RC1E7E122B70_RTRMADP_3_USA-IMMIGRATION-PROTECTION.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T21:46:14+00:00"
@@ -433,7 +433,7 @@
   {
    "id": "bedc28ad0b09ab9c",
    "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-   "summary": "The resolution was defeated 51-48. Three Republicans broke rank, voting against the measure.",
+   "summary": "The resolution was defeated 51-48. Three Republicans broke rank, voting for the measure.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
    "date": "2026-11-19T20:30:54+00:00",
@@ -644,9 +644,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/eacece62-df86-49b8-89be-93c466bf53d0,1795116383312/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C4206%2C2365%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/eacece62-df86-49b8-89be-93c466bf53d0,1795116383312/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C4206%2C2365%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:44:16+00:00"
@@ -663,9 +663,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/a123c0e8-e68f-4e75-9121-bd40f13db119,1795116003636/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4262%2C2397%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/a123c0e8-e68f-4e75-9121-bd40f13db119,1795116003636/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4262%2C2397%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:44:16+00:00"

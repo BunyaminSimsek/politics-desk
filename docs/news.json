@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T15:12:39+00:00",
+ "generatedAt": "2026-11-19T15:21:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,13 +11,13 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 48
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "3fdc8c957706c74f",
+   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
+   "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T15:08:47+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Composite: Guardian Design",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=69e37efbef416d8cbf6343ef33aef9ac",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:18:37+00:00"
+  },
+  {
    "id": "0e9f1c68d2dc80d1",
    "title": "Canada’s Food-Link Fund gets rural policy partly right. Here’s what’s missing",
    "summary": "Canada’s National Food Security Strategy aims to improve food security, affordability and to support locally grown and produced food. This 10-year, $3.2 billion strategy includes historic investments in domestic food production, processing and distribution.",
@@ -180,10 +202,10 @@
    ],
    "kind": "analysis",
    "image": {
-    "url": "https://images.theconversation.com/files/772770/original/file-20261118-64-dhbrve.JPG?ixlib=rb-4.1.1&rect=0%2C797%2C7678%2C3839&q=45&auto=format&h=668&w=1200&fit=clip",
-    "w": 1200,
     "h": 600,
-    "small": "https://images.theconversation.com/files/772770/original/file-20261118-64-dhbrve.JPG?ixlib=rb-4.1.1&rect=0%2C797%2C7678%2C3839&q=45&auto=format&h=668&w=640&fit=clip"
+    "small": "https://images.theconversation.com/files/772770/original/file-20261118-64-dhbrve.JPG?ixlib=rb-4.1.1&rect=0%2C797%2C7678%2C3839&q=45&auto=format&h=668&w=640&fit=clip",
+    "url": "https://images.theconversation.com/files/772770/original/file-20261118-64-dhbrve.JPG?ixlib=rb-4.1.1&rect=0%2C797%2C7678%2C3839&q=45&auto=format&h=668&w=1200&fit=clip",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:12:39+00:00"
@@ -200,10 +222,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/edd007ef250e5a313f69749cd145e584cf626ff9/75_0_3657_2926/master/3657.jpg?width=700&quality=85&auto=format&fit=max&s=f7548328182d70afd4c7dfd00bbbf2ff",
-    "w": 700,
+    "credit": "Photograph: Elizabeth Cook/PA",
     "h": 560,
-    "credit": "Photograph: Elizabeth Cook/PA"
+    "url": "https://i.guim.co.uk/img/media/edd007ef250e5a313f69749cd145e584cf626ff9/75_0_3657_2926/master/3657.jpg?width=700&quality=85&auto=format&fit=max&s=f7548328182d70afd4c7dfd00bbbf2ff",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:12:39+00:00"
@@ -220,10 +242,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/4e8fb4847db96e2c1cef730981cf2263904fd291/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=91681786b84f45d6ae3764522f088034",
-    "w": 700,
+    "credit": "Photograph: The Washington Post/Getty Images",
     "h": 560,
-    "credit": "Photograph: The Washington Post/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/4e8fb4847db96e2c1cef730981cf2263904fd291/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=91681786b84f45d6ae3764522f088034",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:12:39+00:00"
@@ -249,28 +271,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T09:00:04+00:00"
-  },
-  {
-   "id": "3fdc8c957706c74f",
-   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
-   "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T14:52:35+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=69e37efbef416d8cbf6343ef33aef9ac",
-    "w": 700,
-    "h": 560,
-    "credit": "Composite: Guardian Design"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:18:37+00:00"
   },
   {
    "id": "c38a95a63f92a4f3",
@@ -455,7 +455,7 @@
     "url": "https://i.guim.co.uk/img/media/16e3b91946d9a70788aadd1f8242b43c0244fe94/443_0_2913_2329/master/2913.jpg?width=700&quality=85&auto=format&fit=max&s=18bd1d5044bb0e3cd9ce52df4557f22b",
     "w": 700
    },
-   "breaking": false,
+   "breaking": true,
    "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
@@ -621,6 +621,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:20:01+00:00"
+  },
+  {
+   "id": "6eadb39c7fe7f57e",
+   "title": "Myanmar committed genocide against Rohingya ethnic minority, International Court of Justice rules",
+   "summary": "In a landmark judgment, the United Nations top court ruled Thursday that Myanmar committed genocide against the Rohingya minority in a brutal 2017 military operation.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/hague-icj-court-myanmar-rohingya-ruling-9.7427764?cmp=rss",
+   "date": "2026-11-19T13:07:50+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/2726c08e-4b5d-44c1-b3aa-cd2c1606e474,1795090907961/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C116%2C8192%2C4608%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T15:21:53+00:00"
   },
   {
    "id": "da28dacabaf0124f",
@@ -1362,9 +1381,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/542bb6f5-d0b1-4acf-88ce-85c3757534a1,1795088754432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C289%2C5119%2C2879%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/542bb6f5-d0b1-4acf-88ce-85c3757534a1,1795088754432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C289%2C5119%2C2879%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:20:01+00:00"
@@ -8245,26 +8264,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-17T12:28:53+00:00"
-  },
-  {
-   "id": "0a0e369d3f8b767c",
-   "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-   "summary": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ Ed Miliband has announced the first set of sanctions against Israeli companies planning to build illegal settlements in the West…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
-   "date": "2026-11-17T12:18:08+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Menahem Kahana/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c9523ec5228a42aa647f50bbf3dbb4fc03f57ce3/28_0_3300_2640/master/3300.jpg?width=700&quality=85&auto=format&fit=max&s=5a32b1be1e65c7bc94d857eef346d6fc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:05:28+00:00"
   }
  ]
 }

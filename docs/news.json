@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T02:33:53+00:00",
+ "generatedAt": "2026-11-19T02:43:07+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "8d98eca7b4f90408",
+   "title": "One Nation’s general manager takes leave amid speculation he will be sidelined after leaks and vetting scandals",
+   "summary": "Exclusive: Kelvin Morton was hired in February in appointment heralded as turning point for professionalisation of party Get our daily political email , free app or daily news podcast One Nation’s general manager, Kelvin Morton, has taken leave amid…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/19/one-nation-general-manager-takes-leave-amid-sidelining-speculation-politics-ntwnfb",
+   "date": "2026-11-19T02:36:37+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/fc7bad15212bc92a35ac3e130045daf1a4822d57/163_0_1218_974/master/1218.jpg?width=700&quality=85&auto=format&fit=max&s=faa15b6e1d4cec6be89bb8fd6d8598f7",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Nine News"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T02:43:07+00:00"
+  },
   {
    "id": "178f94915ff3cf34",
    "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
@@ -8261,26 +8281,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-15T18:08:59+00:00"
-  },
-  {
-   "id": "1119ca9a9b88621e",
-   "title": "What will Europe do next in Ukraine?",
-   "summary": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
-   "date": "2026-11-16T20:12:21+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794858749.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794858749.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T20:31:10+00:00"
   }
  ]
 }

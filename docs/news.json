@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T16:09:28+00:00",
+ "generatedAt": "2026-11-19T16:19:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 30
+   "kept": 31
   },
   {
    "source": "The Guardian",
@@ -166,19 +166,24 @@
  ],
  "items": [
   {
-   "id": "03155278eabe1237",
-   "title": "The midterms were the largest win for either party in 50 years",
-   "summary": "Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
-   "date": "2026-11-19T15:55:05+00:00",
-   "topic": "us",
-   "region": "world",
+   "id": "3ebe5aae4600782e",
+   "title": "Liberal MAID committee chair wants separate votes for mental illness, diseases",
+   "summary": "OTTAWA - A Liberal MP who chaired a committee on medical assistance in dying says he agrees with calls from Conservative MPs for the government to split its MAID legislation to allow for separate votes on mental illness and degenerative…",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/liberal-maid-committee-chair-wants-separate-votes-for-mental-illness-diseases/article_60b3d823-bdfb-5be1-8585-873afe4cd62b.html",
+   "date": "2026-11-19T16:09:04+00:00",
+   "topic": "federal",
+   "region": "local",
    "tags": [],
    "kind": "news",
-   "image": null,
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/04/f044b9ec-f4ef-5d81-adbf-88cc5544977c/6aff1f5da3e2c.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 783,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/04/f044b9ec-f4ef-5d81-adbf-88cc5544977c/6aff1f5da3e2c.image.jpg?resize=640%2C"
+   },
    "breaking": false,
-   "addedAt": "2026-11-19T16:09:28+00:00"
+   "addedAt": "2026-11-19T16:19:09+00:00"
   },
   {
    "id": "5ac6485bd7372da0",
@@ -186,7 +191,7 @@
    "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T15:55:00+00:00",
+   "date": "2026-11-19T16:04:14+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [
@@ -203,6 +208,85 @@
    "addedAt": "2026-11-19T09:00:04+00:00"
   },
   {
+   "id": "8eeed620a2ddf0e7",
+   "title": "Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years",
+   "summary": "Joanne Young, who has waived anonymity, was subjected to years of drugging and rape by former Swindon councillor, who invited other men to assault her When Philip Young served as a Conservative party councillor for Swindon council, his contemporaries viewed…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/19/philip-young-sexual-abuse-spiked-nightcaps-strangers-joanne-young",
+   "date": "2026-11-19T16:00:06+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/960f6f5694611aacc2519336fc8f7778685a17b9/470_330_4130_3305/master/4130.jpg?width=700&quality=85&auto=format&fit=max&s=96cc6f568b860cf302abe232541db3c7",
+    "w": 700,
+    "h": 560,
+    "credit": "Composite: Guardian Design/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T16:19:09+00:00"
+  },
+  {
+   "id": "d4f3a86a03fa8cd6",
+   "title": "‘It stings to come close’: Louisiana Democrat’s narrow failure to make it 57 Senate seats",
+   "summary": "Jamie Davis falls just short as Democrats across south wonder whether blue wave could have been even bigger Democrats are celebrating after, with Mary Peltola’s victory in Alaska, they have officially secured 56 Senate seats after the midterm elections.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/louisiana-senate-seat-democrats-jamie-davis",
+   "date": "2026-11-19T16:00:06+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/78ffd9fbefd88522a4d14b971cbab660472cd374/302_0_4389_3511/master/4389.jpg?width=700&quality=85&auto=format&fit=max&s=9931ba0fb7d135628450b8c162f15431",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Kathleen Flynn/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T16:19:09+00:00"
+  },
+  {
+   "id": "c38a95a63f92a4f3",
+   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-19T15:58:13+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:18:33+00:00"
+  },
+  {
+   "id": "03155278eabe1237",
+   "title": "The midterms were the largest win for either party in 50 years",
+   "summary": "Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
+   "date": "2026-11-19T15:55:05+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-19T16:09:28+00:00"
+  },
+  {
    "id": "a31b1a585cb24ffe",
    "title": "Ottawa to study Divorce Act reform to address family violence",
    "summary": "OTTAWA - The federal government says it's launching a study of ways to strengthen the Divorce Act, one day after critics condemned its handling of a private member’s bill that sought to curb parental alienation claims.",
@@ -214,10 +298,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/8e/a8e589d8-8639-5e5b-9957-de9f00ce6ede/6af8406179e4a.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 761,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/8e/a8e589d8-8639-5e5b-9957-de9f00ce6ede/6af8406179e4a.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/8e/a8e589d8-8639-5e5b-9957-de9f00ce6ede/6af8406179e4a.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/8e/a8e589d8-8639-5e5b-9957-de9f00ce6ede/6af8406179e4a.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T16:09:28+00:00"
@@ -263,28 +347,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T16:00:15+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T15:41:08+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "bfad6145e3fb8837",
@@ -8202,69 +8264,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T14:10:58+00:00"
-  },
-  {
-   "id": "ec207f4236748f6d",
-   "title": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
-   "summary": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work Milburn urges Burnham to spend billions on young people Who are the Neets?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
-   "date": "2026-11-17T13:44:09+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Hall/The Observer",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fcacde2d064f282a10c275f3fffebc930491811a/528_156_3303_2643/master/3303.jpg?width=700&quality=85&auto=format&fit=max&s=1f5e4e65276d57f77d6306bdf76663c4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T07:32:58+00:00"
-  },
-  {
-   "id": "215eae9af39ca23a",
-   "title": "Former Nvidia CEO Jensen Huang to appear before U.S. Congress next month",
-   "summary": "Former Nvidia CEO Jensen Huang has agreed ‌to appear for transcribed interviews before U.S. Congress lawmakers next month as national security questions around the company intensify.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/business/jensen-huang-congress-nvidia-exports-9.7424742?cmp=rss",
-   "date": "2026-11-17T13:30:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/f45535e2-99c2-44cb-bab4-c22dbb1d0b44,1794498994529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C244%2C4692%2C2639%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T17:08:40+00:00"
-  },
-  {
-   "id": "2a25e8c6bdfa0819",
-   "title": "Ukraine critically damages Kerch Bridge linking occupied Crimea with Russia",
-   "summary": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’ Europe live – follow latest Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
-   "date": "2026-11-17T13:25:02+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Composite: UKRAINIAN SECURITY SERVICE/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/99e6f379e7967f001cc660aae2f7b71f118e92a8/0_0_1500_1200/master/1500.jpg?width=700&quality=85&auto=format&fit=max&s=6446471a0e2fec2dd90fc0cea8358a50",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T10:47:11+00:00"
   }
  ]
 }

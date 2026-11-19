@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T07:10:01+00:00",
+ "generatedAt": "2026-11-19T07:19:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "22f7a6d1abfd76ab",
+   "title": "Netanyahu’s last stand and the dangerous politics of survival",
+   "summary": "Facing political oblivion, Netanyahu is playing a high-stakes game that could push Israel towards violence and chaos.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
+   "date": "2026-11-19T06:58:44+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/03/AP23115630745406-1774082275.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/03/AP23115630745406-1774082275.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T07:19:09+00:00"
+  },
+  {
+   "id": "cd01ccb73b961d87",
+   "title": "Violent protests and killings in Bangladesh ahead of exiled Sheikh Hasina’s planned return",
+   "summary": "Awami League party called for ⁠nationwide protest on Thursday after the government rejected Hasina’s request for passport Parts of Bangladesh were shut down Thursday as protests by supporters of former prime minister Sheikh Hasina sparked clashes, bomb blasts…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/19/bangladesh-violent-protest-sheikh-hasina-planned-return",
+   "date": "2026-11-19T06:58:33+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/3f69b15ea7c8c18c019e40efbed19bad36e75bf3/28_0_3330_2664/master/3330.jpg?width=700&quality=85&auto=format&fit=max&s=32f5a108d5b095bc8a22b87968d41896",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T07:19:09+00:00"
+  },
+  {
    "id": "6d2cd392f2813d71",
    "title": "‘It’s my friend’: Moment Trump greets Putin at China summit",
    "summary": "‘It’s my friend’: Moment Trump greets Putin at China summit",
@@ -177,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795070639.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795070639.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795070639.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795070639.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T07:10:01+00:00"
@@ -396,8 +436,8 @@
   },
   {
    "id": "795335d36de6af32",
-   "title": "APEC Live: Ukraine, Iran, AI on table for historic Trump-Xi-Putin meeting",
-   "summary": "The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.",
+   "title": "APEC Live: Trump-Xi-Putin meeting to focus on Ukraine, Iran, AI",
+   "summary": "The unprecedented summit follows Trump's bilateral meetings with China's Xi and Russia's Putin.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
    "date": "2026-11-19T03:30:26+00:00",
@@ -8245,46 +8285,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T22:15:01+00:00"
-  },
-  {
-   "id": "6e0971f518a15e3f",
-   "title": "Quebec union executive resigns after posting altered image of Conservative politician",
-   "summary": "The image was shared on a social media account of Vincent Leclair, who served as president of the FTQ's Montreal regional council.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/quebec-union-executive-resigns-after-posting-altered-image-of-conservative-politician/article_23557bd7-b4f8-56ad-ad45-1e00a6cca785.html",
-   "date": "2026-11-16T21:49:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 857,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/9f/89f14582-30f2-5522-bb13-093198a39058/6afb7bc7b86d4.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/9f/89f14582-30f2-5522-bb13-093198a39058/6afb7bc7b86d4.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T22:05:54+00:00"
-  },
-  {
-   "id": "7b6dd12c306cf135",
-   "title": "Doug Ford defends Niagara casino plan against criticism from Tory insiders",
-   "summary": "The premier is pushing back against criticism from inside his own government that his dream to add as many as three new casinos in Niagara is flawed.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/doug-ford-defends-niagara-casino-plan-against-criticism-from-tory-insiders/article_45bc337d-7fd9-4252-989e-58aa1fb77064.html",
-   "date": "2026-11-16T21:45:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/18/8182318a-b8f2-55ea-90f8-ce50866374dc/6afb6c0316d0c.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/18/8182318a-b8f2-55ea-90f8-ce50866374dc/6afb6c0316d0c.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T21:56:23+00:00"
   }
  ]
 }

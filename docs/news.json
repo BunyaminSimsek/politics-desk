@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T19:35:09+00:00",
+ "generatedAt": "2026-11-19T19:44:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "CBC World",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 27
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,44 @@
   }
  ],
  "items": [
+  {
+   "id": "b9983076f3fb5e0f",
+   "title": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
+   "summary": "Prime Minister Mark Carney condemned Russia's war with Ukraine while President Vladimir Putin, the man prosecuting that war, was in the room for leaders' speeches at the APEC summit in China.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/carney-putin-apec-ukraine-9.7428573?cmp=rss",
+   "date": "2026-11-19T19:33:17+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/eacece62-df86-49b8-89be-93c466bf53d0,1795116383312/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C4206%2C2365%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T19:44:16+00:00"
+  },
+  {
+   "id": "3088fba70f84f0fa",
+   "title": "NSL champions AFC Toronto celebrated at city hall",
+   "summary": "Toronto Mayor Olivia Chow proclaimed November 19 as 'AFC Toronto Day' in celebration of the club's Northern Super League championship title. CBC News' Dana Roberts was there and spoke with players and fans.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/player/play/9.7428587?cmp=rss",
+   "date": "2026-11-19T19:25:47+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/a123c0e8-e68f-4e75-9121-bd40f13db119,1795116003636/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4262%2C2397%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T19:44:16+00:00"
+  },
   {
    "id": "c38a95a63f92a4f3",
    "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
@@ -8201,47 +8239,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T17:08:40+00:00"
-  },
-  {
-   "id": "08bf80c0d9e89e08",
-   "title": "Ontario secondary school teachers vote 96% in favour of strike mandate",
-   "summary": "Ontario public high school teachers have voted 96 per cent in favour of giving their union a strike mandate.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/ontario-secondary-teachers-vote-in-favor-strike-mandate-9.7425118?cmp=rss",
-   "date": "2026-11-17T16:44:35+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/1.5312570,1570484022000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1632%2C918%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T16:49:49+00:00"
-  },
-  {
-   "id": "2b2bac2136793b21",
-   "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
-   "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T16:41:09+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T08:27:48+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T13:48:39+00:00",
+ "generatedAt": "2026-11-19T13:57:52+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 28
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "42082cd18cd22833",
+   "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
+   "summary": "Advocates raised concerns about consumer privacy and data-sharing, involving a firm with ties to Israel's military.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss",
+   "date": "2026-11-19T13:49:49+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2014-08-27T000000Z_2093782590_GM1EA8R0WP001_RTRMADP_3_TIM-HORTONS-BURGER-KG-WLD-SHARES-1795085925.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2014-08-27T000000Z_2093782590_GM1EA8R0WP001_RTRMADP_3_TIM-HORTONS-BURGER-KG-WLD-SHARES-1795085925.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T13:57:52+00:00"
+  },
+  {
+   "id": "5ac6485bd7372da0",
+   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T13:48:04+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
+  },
+  {
+   "id": "f28b5387f9a4cc58",
+   "title": "UN warns against misuse of security laws as UK weighs Palestine Action ban",
+   "summary": "Human rights committee publishes guidance on freedom of association, which criticises vague laws targeting ‘extremism’ The UN human rights committee has warned against the misuse of counter-terrorism and national security legislation as the UK’s highest court…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban",
+   "date": "2026-11-19T13:43:15+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9f4d93b1adf994df308ddfcb361659b6251a1fe9/938_0_4671_3739/master/4671.jpg?width=700&quality=85&auto=format&fit=max&s=0d7cbc7f213c5919609e2ec8e889cb56",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Toby Shepheard/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T13:57:52+00:00"
+  },
+  {
    "id": "3fdc8c957706c74f",
    "title": "Jenrick mocked after criticising Thatcher’s policies, despite naming daughter after her – UK politics live",
    "summary": "Reform UK MP says policies left a ‘deep scar’ on communities These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
@@ -186,28 +248,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T09:18:37+00:00"
-  },
-  {
-   "id": "5ac6485bd7372da0",
-   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T13:33:00+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
   },
   {
    "id": "9a7a8ff25b12b7e3",
@@ -263,10 +303,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afee4a201-1795089570.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afee4a201-1795089570.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afee4a201-1795089570.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afee4a201-1795089570.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:48:39+00:00"
@@ -274,7 +314,7 @@
   {
    "id": "bf81bed1e6acaea2",
    "title": "Lack of early border controls made UK ‘extremely vulnerable’ to Covid, inquiry finds",
-   "summary": "Latest report also says test and trace failures allowed virus to spread quickly and unchecked UK politics live – latest updates The lack of international border controls at the start of the Covid-19 pandemic left the UK in an “extremely vulnerable position”…",
+   "summary": "Latest report also says test-and-trace failures allowed virus to spread quickly and unchecked UK politics live – latest updates The lack of international border controls at the start of the Covid-19 pandemic left the UK in an “extremely vulnerable position”…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/uk-news/2026/nov/19/covid-inquiry-uk-report-lack-of-early-border-controls-virus-spread",
    "date": "2026-11-19T13:19:44+00:00",
@@ -8219,51 +8259,6 @@
     "credit": "Photograph: Courtesy of James Thayer",
     "h": 559,
     "url": "https://i.guim.co.uk/img/media/ed3e07cd5e0b10a5fc2682daad71f29b8df71b54/0_1880_4512_3606/master/4512.jpg?width=700&quality=85&auto=format&fit=max&s=e781b011c8e76ca7b8e27cdec114e8af",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:15:05+00:00"
-  },
-  {
-   "id": "fc7fe1669c57645a",
-   "title": "What do Democrats’ sweeping midterm wins mean for Trump’s ICE crackdown?",
-   "summary": "Despite House and Senate majorities, Democrats face a battle to enact legislation – but they have the power to conduct tough new oversight The Democrats’ midterm “blue wave” wins gave them strong majorities in both chambers of Congress, new governors’…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/17/democrats-blue-wave-trump-ice-crackdown",
-   "date": "2026-11-17T11:00:35+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections",
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Madison Swart/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/348a69448387c2ea2ec024ee0dd0d209e02dbf12/499_0_2501_2000/master/2501.jpg?width=700&quality=85&auto=format&fit=max&s=9d921b55c4f896764ee8843d5c64782b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:15:05+00:00"
-  },
-  {
-   "id": "852086649ac03a89",
-   "title": "Can Chris Van Hollen really beat Chuck Schumer? – Stateside with Kai and Carter",
-   "summary": "The blue wave has hit Washington, and with the flood of new Democratic lawmakers comes a debate over who should lead the party.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/video/2026/nov/17/can-chris-van-hollen-really-beat-chuck-schumer-stateside-with-kai-and-carter",
-   "date": "2026-11-17T11:00:34+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Grid",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/bc3de38790bb783c9f8c444930c1162cc3e78fc4/0_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=69865cd66b9e9e60c4c1c57288c5e615",
     "w": 700
    },
    "breaking": false,

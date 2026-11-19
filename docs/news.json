@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T00:23:21+00:00",
+ "generatedAt": "2026-11-19T00:32:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "8ee7639c638c8230",
+   "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+   "summary": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+   "date": "2026-11-19T00:11:40+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2025-02-12T074119Z_1802006394_RC2RSCAYO210_RTRMADP_3_TOTW-TRADE-1795042196.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2025-02-12T074119Z_1802006394_RC2RSCAYO210_RTRMADP_3_TOTW-TRADE-1795042196.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T00:32:31+00:00"
+  },
   {
    "id": "178f94915ff3cf34",
    "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
@@ -8273,28 +8295,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:35:07+00:00"
-  },
-  {
-   "id": "3a910931f160ac9f",
-   "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
-   "summary": "Accusations of incompetence follow retreat of Riyadh-backed forces in effort to relieve siege of Taiz and protect Aden Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
-   "date": "2026-11-16T19:04:07+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yemen Giants Brigades Media Centre/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0ecb2503f6896c388697d436947fbafcc58a2e97/345_0_2250_1800/master/2250.jpg?width=700&quality=85&auto=format&fit=max&s=c64cee063580ab63301c388fac2895f1",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T19:15:26+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T12:43:04+00:00",
+ "generatedAt": "2026-11-19T12:52:15+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 48
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "cce4eee7a68c5b2b",
+   "title": "Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims",
+   "summary": "Kristine Blanche, named to US health advisory role, offered purported treatments for Epstein-Barr virus and HPV Attorney general Todd Blanche’s wife, Kristine Blanche, who was appointed earlier this year to a US government advisory board on alternative…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
+   "date": "2026-11-19T12:39:20+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/84bb349ef8eb955f382b5b9fd8dd9f42453e5324/0_358_6259_5008/master/6259.jpg?width=700&quality=85&auto=format&fit=max&s=1c47f4c05a0343ccdd785830e1385365",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Tom Williams/CQ-Roll Call, Inc/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T12:52:15+00:00"
+  },
+  {
    "id": "5ac6485bd7372da0",
    "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
    "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
@@ -201,10 +221,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/b6c8d2f794bc298e739a3d685877d86179db3d6f/1419_0_7094_5675/master/7094.jpg?width=700&quality=85&auto=format&fit=max&s=28ac5dedcf54163fb716b873fd9427c6",
-    "w": 700,
+    "credit": "Photograph: Mads Claus Rasmussen/EPA",
     "h": 560,
-    "credit": "Photograph: Mads Claus Rasmussen/EPA"
+    "url": "https://i.guim.co.uk/img/media/b6c8d2f794bc298e739a3d685877d86179db3d6f/1419_0_7094_5675/master/7094.jpg?width=700&quality=85&auto=format&fit=max&s=28ac5dedcf54163fb716b873fd9427c6",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T12:43:04+00:00"
@@ -223,10 +243,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/fe3fd3648dd9414ddf04cdd936e7a16097507170/200_0_1799_1440/master/1799.jpg?width=700&quality=85&auto=format&fit=max&s=74982f348a0178af5c69079a0c5750fc",
-    "w": 700,
+    "credit": "Photograph: Vyacheslav Prokofyev/SPUTNIK/KREMLIN POOL/EPA",
     "h": 560,
-    "credit": "Photograph: Vyacheslav Prokofyev/SPUTNIK/KREMLIN POOL/EPA"
+    "url": "https://i.guim.co.uk/img/media/fe3fd3648dd9414ddf04cdd936e7a16097507170/200_0_1799_1440/master/1799.jpg?width=700&quality=85&auto=format&fit=max&s=74982f348a0178af5c69079a0c5750fc",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T12:43:04+00:00"
@@ -243,10 +263,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7626x5084+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F3b%2F65170ca542b4b8f2a8692418a464%2Fgettyimages-2305284448.jpg",
-    "w": 1200,
     "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7626x5084+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F3b%2F65170ca542b4b8f2a8692418a464%2Fgettyimages-2305284448.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7626x5084+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F3b%2F65170ca542b4b8f2a8692418a464%2Fgettyimages-2305284448.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7626x5084+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F3b%2F65170ca542b4b8f2a8692418a464%2Fgettyimages-2305284448.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T12:43:04+00:00"
@@ -254,7 +274,7 @@
   {
    "id": "c38a95a63f92a4f3",
    "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Democrats nominate Jeffries as first Black House speaker Trump leaves China after Apec meeting – follow live",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
    "date": "2026-11-19T12:26:53+00:00",
@@ -483,10 +503,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f0db2be37d46c2975b22ab3b0be39a031950484a/775_113_5275_4222/master/5275.jpg?width=700&quality=85&auto=format&fit=max&s=9ccdec8693237d818cafb3d172d71e52",
-    "w": 700,
+    "credit": "Photograph: Felix Ursell/Reuters",
     "h": 560,
-    "credit": "Photograph: Felix Ursell/Reuters"
+    "url": "https://i.guim.co.uk/img/media/f0db2be37d46c2975b22ab3b0be39a031950484a/775_113_5275_4222/master/5275.jpg?width=700&quality=85&auto=format&fit=max&s=9ccdec8693237d818cafb3d172d71e52",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T12:04:32+00:00"
@@ -8244,26 +8264,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-17T09:51:02+00:00"
-  },
-  {
-   "id": "1132b23ff8cd96f7",
-   "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
-   "summary": "The anti-Netanyahu bloc holds the keys to electing a new parliamentary speaker, setting the momentum for change.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
-   "date": "2026-11-17T09:29:28+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2021/07/000_9E94GX.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2021/07/000_9E94GX.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T09:32:45+00:00"
   }
  ]
 }

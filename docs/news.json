@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T17:06:03+00:00",
+ "generatedAt": "2026-11-19T17:15:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 31
+   "kept": 32
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "c38a95a63f92a4f3",
+   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-19T17:05:19+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:18:33+00:00"
+  },
+  {
    "id": "f5974850414e0694",
    "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
    "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
@@ -186,6 +208,83 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:18:34+00:00"
+  },
+  {
+   "id": "2f2d6c8aee78b520",
+   "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
+   "summary": "Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his victory.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
+   "date": "2026-11-19T17:03:11+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-19T17:15:17+00:00"
+  },
+  {
+   "id": "832ede64c0e1c4f4",
+   "title": "Trump and Putin ‘hijacked’ China summit",
+   "summary": "Trump and Putin’s statements during trilateral talks distracted from the planned agenda, Einar Tangen says.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
+   "date": "2026-11-19T17:02:22+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795107690.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795107690.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T17:15:17+00:00"
+  },
+  {
+   "id": "33b9dab59bcc1490",
+   "title": "Cap all political donations, not only those from overseas, Burnham told",
+   "summary": "Experts say ‘insanely complex’ £100,000 limit proposed for overseas donors should be replaced by universal cap Andy Burnham is facing calls to commit to a cap on all political donations when the elections bill is in the House of Lords, instead of the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/19/andy-burnham-political-donations-cap-overseas-donors-elections",
+   "date": "2026-11-19T17:01:40+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/afcace2eaa57d4ac7dadfa329eb234b690964067/214_0_6553_5246/master/6553.jpg?width=700&quality=85&auto=format&fit=max&s=6fab7a65145dca3b79f0bea2c735de10",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: House of Commons/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T17:15:17+00:00"
+  },
+  {
+   "id": "5ac6485bd7372da0",
+   "title": "Ukraine allies warn ‘Yalta format’ will not bring about peace – Europe live",
+   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting with Xi in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T16:59:32+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/fead956d348558bd5d8167bb8812f2aaa84469d6/921_0_5583_4467/master/5583.jpg?width=700&quality=85&auto=format&fit=max&s=23fab7a2acb0f4a2ce49fa02d84a113d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Hannibal Hanschke/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
   },
   {
    "id": "947e6ec924674139",
@@ -228,50 +327,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T09:18:37+00:00"
-  },
-  {
-   "id": "5ac6485bd7372da0",
-   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T16:50:26+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T16:46:49+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "a2c201027f0695c9",
@@ -8200,68 +8255,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T15:06:57+00:00"
-  },
-  {
-   "id": "13af9aa1fa9c8072",
-   "title": "Jensen Huang’s departure as Nvidia CEO becomes a political proxy war",
-   "summary": "Huang’s exit sharpens debate over US stance towards Beijing; and as outages increase, do you get the feeling nothing works? This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china",
-   "date": "2026-11-17T14:50:24+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chesnot/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/411_0_3764_3013/master/3764.jpg?width=700&quality=85&auto=format&fit=max&s=1509b1071c4794eb90ab4f6edfeca7fe",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T15:06:57+00:00"
-  },
-  {
-   "id": "9d83a16f0eae6004",
-   "title": "Hundreds protest against ex-border patrol chief Greg Bovino at Rutgers University talk",
-   "summary": "New Jersey university’s Republicans club invited Bovino, who oversaw Trump’s ICE surges, to speak on campus Hundreds protested outside a Rutgers University campus building on Monday night, jeering former border patrol commander Greg Bovino, who was inside…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/17/protest-greg-bovino-rutgers-university",
-   "date": "2026-11-17T14:49:01+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Olga Fedorova/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/36635c27ae24d59f8307ce1f76450876a1f4133f/331_0_2501_2000/master/2501.jpg?width=700&quality=85&auto=format&fit=max&s=250ce9dd3da8062d20933a2e77ab26d0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T14:57:40+00:00"
-  },
-  {
-   "id": "e7bc50455c6efd37",
-   "title": "Bessent vs Lutnick: Who is winning the China chip debate?",
-   "summary": "A rift has emerged in Trump’s cabinet over China’s access to advanced AI chips as export controls tighten.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/17/bessent-vs-lutnick-who-is-winning-the-china-chip-debate?traffic_source=rss",
-   "date": "2026-11-17T14:46:37+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26033775438752-1770742847.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26033775438752-1770742847.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T15:16:34+00:00"
   }
  ]
 }

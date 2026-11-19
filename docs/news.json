@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T18:10:53+00:00",
+ "generatedAt": "2026-11-19T18:20:11+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "CTV News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,130 @@
  ],
  "items": [
   {
+   "id": "0ecfc64a20f6cebf",
+   "title": "Trump-Xi-Putin summit: Five things you need to know",
+   "summary": "Donald Trump, Xi Jinping and Vladimir Putin held their first trilateral summit in China.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
+   "date": "2026-11-19T18:13:52+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-18.06.48-1795111775.png?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-18.06.48-1795111775.png?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T18:20:11+00:00"
+  },
+  {
+   "id": "df6f0b34f645f980",
+   "title": "Former colleges and universities minister refuses to answer OSAP questions",
+   "summary": "Ontario's former minister of colleges and universities, who presided over the file for three years until 2024, is refusing to answer questions about a growing OSAP scandal.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12158137/jill-dunlop-osap/",
+   "date": "2026-11-19T18:13:36+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2024/10/CP171359705.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2024/10/CP171359705.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T18:20:11+00:00"
+  },
+  {
+   "id": "c38a95a63f92a4f3",
+   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-19T18:05:08+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:18:33+00:00"
+  },
+  {
+   "id": "689b4da307038f2d",
+   "title": "DoJ assigns pro-Trump prosecutor to handle inquiry into 2022 Mar-a-Lago raid, reports say",
+   "summary": "Bill Essayli reportedly dispatched to Florida to handle a criminal inquiry into Jack Smith’s handling of the classified documents case The US Department of Justice is, according to multiple reports, dispatching Bill Essayli, a California prosecutor who is a…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/bill-essayli-mar-a-lago-raid",
+   "date": "2026-11-19T18:04:17+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/a2453380f376ced82e5a73180123ea474eed2dcc/334_0_3331_2665/master/3331.jpg?width=700&quality=85&auto=format&fit=max&s=1a2c3147e31ce312d705c843cce2c513",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: David Crane/MediaNews Group/Los Angeles Daily News/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T18:20:11+00:00"
+  },
+  {
+   "id": "5ac6485bd7372da0",
+   "title": "Ukraine allies warn ‘Yalta format’ will not bring about peace – Europe live",
+   "summary": "Berlin meeting of the ‘coalition of the willing’ comes after Trump declared Putin a ‘friend’ during trilateral meeting with Xi in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T18:03:54+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Hannibal Hanschke/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/fead956d348558bd5d8167bb8812f2aaa84469d6/921_0_5583_4467/master/5583.jpg?width=700&quality=85&auto=format&fit=max&s=23fab7a2acb0f4a2ce49fa02d84a113d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
+  },
+  {
+   "id": "3fdc8c957706c74f",
+   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
+   "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T18:02:33+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Composite: Guardian Design",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=69e37efbef416d8cbf6343ef33aef9ac",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:18:37+00:00"
+  },
+  {
    "id": "fd737119107954c7",
    "title": "Jimmy Dimly is back and we should treasure him while we can | John Crace",
    "summary": "Old-school Tory with a heart wants to make London fun again – just don’t mention Brexit Tories select James Cleverly as candidate for London mayor Sooner or later, Sadiq Khan’s luck was bound to run out. Or was it?",
@@ -188,28 +312,6 @@
    "addedAt": "2026-11-19T17:43:23+00:00"
   },
   {
-   "id": "3fdc8c957706c74f",
-   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
-   "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T17:52:12+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Composite: Guardian Design",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=69e37efbef416d8cbf6343ef33aef9ac",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:18:37+00:00"
-  },
-  {
    "id": "79b55625f26abbc4",
    "title": "China’s Xi urges US and Russia to join forces to safeguard world peace",
    "summary": "Chinese President Xi urged US President Trump and Russian President Putin to work with China to safeguard world peace.",
@@ -221,55 +323,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795110597.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795110597.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795110597.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795110597.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T18:10:53+00:00"
-  },
-  {
-   "id": "5ac6485bd7372da0",
-   "title": "Ukraine allies warn ‘Yalta format’ will not bring about peace – Europe live",
-   "summary": "Berlin meeting of the ‘coalition of the willing’ comes after Trump declared Putin a ‘friend’ during trilateral meeting with Xi in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T17:49:59+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Hannibal Hanschke/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fead956d348558bd5d8167bb8812f2aaa84469d6/921_0_5583_4467/master/5583.jpg?width=700&quality=85&auto=format&fit=max&s=23fab7a2acb0f4a2ce49fa02d84a113d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T17:44:15+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "db18c3c5862651cb",
@@ -323,10 +383,10 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f353/live/34533260-e445-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c180/live/02a49130-e442-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c180/live/02a49130-e442-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f353/live/34533260-e445-11f1-99b6-a35a62fa4264.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-19T17:43:23+00:00"
@@ -334,7 +394,7 @@
   {
    "id": "5107e59575ddcbbf",
    "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-   "summary": "UK understood to have made concessions on youth mobility scheme as negotiations on wider agreement continue British and EU negotiators have provisionally agreed to allow 100,000 young EU citizens to come to the UK every year under a new mobility scheme, as…",
+   "summary": "UK understood to have made concessions on youth mobility scheme as negotiations on wider deal continue British and EU negotiators have provisionally agreed to allow 100,000 young EU citizens to come to the UK every year under a new mobility scheme, as…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
    "date": "2026-11-19T17:19:17+00:00",
@@ -8187,70 +8247,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T07:14:39+00:00"
-  },
-  {
-   "id": "9b3e4e64bfeabec8",
-   "title": "US Pentagon fails ninth straight audit despite progress in organizing finances",
-   "summary": "The audits check whether financial statements ​are fairly presented and financial systems ‌and processes are sound The Pentagon failed a financial audit for the ninth consecutive year, according to an inspector general ⁠report released on Monday – but an…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/17/pentagon-fails-audit",
-   "date": "2026-11-17T15:43:12+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kevin Carter/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a9600d17cc68a45ca7493e14c235396998c728ab/968_531_3336_2668/master/3336.jpg?width=700&quality=85&auto=format&fit=max&s=984f8124755e454e12909c8c8aeaa00e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T16:02:51+00:00"
-  },
-  {
-   "id": "961479e61fb9484f",
-   "title": "Ministers vow to create new welfare system for young people as they back Milburn report",
-   "summary": "Government promises spending cuts to pay for the proposals, described by prime minister as ‘watershed moment’ UK politics live – latest updates Neet ideas: what’s in Milburn’s report?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-report-young-people-work-neets-job-support-savingsalan-milburn-plan-young-people-work-neets-savings-200m-a-year",
-   "date": "2026-11-17T15:35:09+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Stefan Rousseau/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7902cdb79f148d1d0391151d406f13d8457d1446/541_134_3999_3200/master/3999.jpg?width=700&quality=85&auto=format&fit=max&s=2777d8d1522ebb48be4cc3a6389403f0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
-  },
-  {
-   "id": "4a67b315038c09eb",
-   "title": "Canada following Ukraine’s Starshield difficulties ‘very closely’: defence minister",
-   "summary": "Repeated restrictions on Ukraine's use of the Starshield system, run by Elon Musk's SpaceX company, have hampered its ability to intercept Russian attacks.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/canada-following-ukraine-s-starshield-difficulties-very-closely-defence-minister/article_42153992-3809-53f3-8e60-a17862d4656e.html",
-   "date": "2026-11-17T15:29:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/93/c93ae214-75fc-5996-b15f-5fcd28b0fc29/6afc742717157.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/93/c93ae214-75fc-5996-b15f-5fcd28b0fc29/6afc742717157.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T15:44:10+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T05:10:53+00:00",
+ "generatedAt": "2026-11-19T05:20:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -177,13 +177,78 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/507237693f77908c1a836e9797ff84cabae560f0/477_0_4759_3808/master/4759.jpg?width=700&quality=85&auto=format&fit=max&s=0c5b5ddee4b38215da9a70370918eb7e",
-    "w": 700,
+    "credit": "Photograph: Heather Diehl/Getty Images",
     "h": 560,
-    "credit": "Photograph: Heather Diehl/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/507237693f77908c1a836e9797ff84cabae560f0/477_0_4759_3808/master/4759.jpg?width=700&quality=85&auto=format&fit=max&s=0c5b5ddee4b38215da9a70370918eb7e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T05:10:53+00:00"
+  },
+  {
+   "id": "c56d99547b16ebcc",
+   "title": "Trump wants to talk nuclear with Putin and Xi",
+   "summary": "US President Donald Trump says he plans to raise nuclear non-proliferation with China’s Xi and Russia’s Putin.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
+   "date": "2026-11-19T04:50:28+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795063808.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795063808.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T05:20:04+00:00"
+  },
+  {
+   "id": "f473dd5ba6518b34",
+   "title": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
+   "summary": "Emergency appeal follows a California judge's ruling that ending their temporary protected status was unlawful.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
+   "date": "2026-11-19T04:46:59+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-04-29T165126Z_1321080022_RC22ZKANUXXJ_RTRMADP_3_USA-COURT-TRUMP-MIGRANTS-1795057070.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-04-29T165126Z_1321080022_RC22ZKANUXXJ_RTRMADP_3_USA-COURT-TRUMP-MIGRANTS-1795057070.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T05:20:04+00:00"
+  },
+  {
+   "id": "2d5a5720bc63fdee",
+   "title": "Elon Musk says he feels ‘pretty foolish’ about US midterm spending",
+   "summary": "Musk says campaign cash alone cannot decide elections, even as he heavily funded Republican candidates in Texas.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/elon-musk-says-he-feels-pretty-foolish-about-us-midterm-spending?traffic_source=rss",
+   "date": "2026-11-19T04:46:18+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections",
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe6cf33954-1795058931.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe6cf33954-1795058931.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T05:20:04+00:00"
   },
   {
    "id": "f63c37da22eef926",
@@ -8220,66 +8285,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T21:27:25+00:00"
-  },
-  {
-   "id": "5662fcc9d6b2e2f6",
-   "title": "English Catholic teachers vote overwhelmingly for strike if no deal with Ford government",
-   "summary": "Ontario English Catholic Teachers' Association released the results. Talks with the province are to resume next week.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/english-catholic-teachers-vote-overwhelmingly-for-strike-if-no-deal-with-ford-government/article_dec7f21f-6744-4344-a236-2fba6436df3a.html",
-   "date": "2026-11-16T21:03:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 801,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/61/c6157c8f-b2a2-5309-afd0-c27375522fde/6a9b33325f548.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/61/c6157c8f-b2a2-5309-afd0-c27375522fde/6a9b33325f548.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T17:20:24+00:00"
-  },
-  {
-   "id": "9406c455a5e51d9e",
-   "title": "How Carney’s China visit highlights the stakes—and risks—of closer ties",
-   "summary": "It’s not a question of 'if' but 'how' Canada wants to deepen economic cooperation with China, experts say, as Carney continues push for trade diversification.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12153426/mark-carney-china-visit-2026/",
-   "date": "2026-11-16T21:02:29+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 621,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1a66470ca8d87815ad5b38525c7814b4458d532d163ad5ad71332ca5f5a89b25_6e1785.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1a66470ca8d87815ad5b38525c7814b4458d532d163ad5ad71332ca5f5a89b25_6e1785.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T21:08:20+00:00"
-  },
-  {
-   "id": "db43089f31ad646a",
-   "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
-   "summary": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China’s efforts to dominate Get our daily political email , free app or daily news podcast Anthony Albanese will attempt to walk a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-   "date": "2026-11-16T21:00:21+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lukas Coch/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=700&quality=85&auto=format&fit=max&s=fe86b6044b3302a726aa13e51c1062e8",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T10:06:05+00:00"
   }
  ]
 }

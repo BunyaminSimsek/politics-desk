@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T11:46:12+00:00",
+ "generatedAt": "2026-11-19T11:55:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 48
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "ddf29dc290aa4147",
-   "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-   "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T11:43:06+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg",
-    "w": 1200,
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:46:12+00:00"
-  },
-  {
    "id": "c38a95a63f92a4f3",
    "title": "Hakeem Jeffries on brink of Senate history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Denmark’s parliament on Thursday approved a hard-wrought agreement with Greenland and the United States to strengthen security in the Arctic…",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Elon Musk denied being Maga on Wednesday, despite aligning himself intensely with Donald Trump’s Make America Great Again movement since 2024.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T11:24:28+00:00",
+   "date": "2026-11-19T11:43:43+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -204,6 +184,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:18:33+00:00"
+  },
+  {
+   "id": "ddf29dc290aa4147",
+   "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
+   "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T11:43:06+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:46:12+00:00"
+  },
+  {
+   "id": "5ac6485bd7372da0",
+   "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
+   "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T11:37:39+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Fabrizio Bensch/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/194326eb18d0979185a01324bf8eb4f154a041d2/270_0_4520_3616/master/4520.jpg?width=700&quality=85&auto=format&fit=max&s=97db544bd77deeba36756638777aa8ac",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
   },
   {
    "id": "0388a3d7701dd241",
@@ -288,26 +308,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:27:43+00:00"
-  },
-  {
-   "id": "5ac6485bd7372da0",
-   "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
-   "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T11:09:58+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Fabrizio Bensch/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/194326eb18d0979185a01324bf8eb4f154a041d2/270_0_4520_3616/master/4520.jpg?width=700&quality=85&auto=format&fit=max&s=97db544bd77deeba36756638777aa8ac",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
   },
   {
    "id": "b2e42f45439edeb2",

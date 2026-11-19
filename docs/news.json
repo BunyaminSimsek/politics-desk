@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T11:27:43+00:00",
+ "generatedAt": "2026-11-19T11:36:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -119,7 +119,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
    "ok": true,
-   "kept": 48
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "c38a95a63f92a4f3",
+   "title": "Hakeem Jeffries on brink of Senate history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Denmark’s parliament on Thursday approved a hard-wrought agreement with Greenland and the United States to strengthen security in the Arctic…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-19T11:24:28+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:18:33+00:00"
+  },
+  {
    "id": "0388a3d7701dd241",
    "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
    "summary": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech Get our breaking news email , free app or daily news podcast Former New South Wales opposition leader, Mark Speakman, will not contest his seat at…",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3efee6d1eaff0fd0c1f56834a875969ecd396eb3/2910_595_6221_4977/master/6221.jpg?width=700&quality=85&auto=format&fit=max&s=d6fa57a73e497949cbb0acee0fc728b6",
-    "w": 700,
+    "credit": "Photograph: Bianca de Marchi/AAP",
     "h": 560,
-    "credit": "Photograph: Bianca de Marchi/AAP"
+    "url": "https://i.guim.co.uk/img/media/3efee6d1eaff0fd0c1f56834a875969ecd396eb3/2910_595_6221_4977/master/6221.jpg?width=700&quality=85&auto=format&fit=max&s=d6fa57a73e497949cbb0acee0fc728b6",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:27:43+00:00"
@@ -241,10 +261,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3bbff637fb02e511e32ade930f414ad77d600ab4/0_0_4235_3388/master/4235.jpg?width=700&quality=85&auto=format&fit=max&s=7c8b647e3802182fd44fbb671a024ef3",
-    "w": 700,
+    "credit": "Composite: Mike Bowers/David L Kelly/The Guardian",
     "h": 560,
-    "credit": "Composite: Mike Bowers/David L Kelly/The Guardian"
+    "url": "https://i.guim.co.uk/img/media/3bbff637fb02e511e32ade930f414ad77d600ab4/0_0_4235_3388/master/4235.jpg?width=700&quality=85&auto=format&fit=max&s=7c8b647e3802182fd44fbb671a024ef3",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:27:43+00:00"
@@ -301,10 +321,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afecabe8240-1795082942.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afecabe8240-1795082942.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afecabe8240-1795082942.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afecabe8240-1795082942.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:27:43+00:00"
@@ -350,26 +370,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:18:34+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "Hakeem Jeffries on brink of Senate history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Hello and welcome to the US politics live blog.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T11:01:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "a16f73d049f62b69",
@@ -505,10 +505,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/7bf9a341fba5dbbab43e28b309e86834e12fbee2/684_319_2063_1650/master/2063.jpg?width=700&quality=85&auto=format&fit=max&s=6f30e702cc65d8abeb70d6efb6c27f46",
-    "w": 700,
+    "credit": "Photograph: UKRAINIAN SECURITY SERVICE/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: UKRAINIAN SECURITY SERVICE/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/7bf9a341fba5dbbab43e28b309e86834e12fbee2/684_319_2063_1650/master/2063.jpg?width=700&quality=85&auto=format&fit=max&s=6f30e702cc65d8abeb70d6efb6c27f46",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:27:43+00:00"

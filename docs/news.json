@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T23:10:50+00:00",
+ "generatedAt": "2026-11-19T23:20:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "70ca065fe6f88077",
+   "title": "Liberals' 2026 budget passes in House of Commons",
+   "summary": "OTTAWA - Members of Parliament have voted to pass the 2026 federal budget in the House of Commons.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/liberals-expected-to-face-house-of-commons-vote-on-budget-2026-today/article_21935b2f-5ff9-5445-b81d-39920771cc26.html",
+   "date": "2026-11-19T23:05:05+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/f4/9f45e875-6118-5294-8cbe-973b887234a9/6aff127942bf6.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/f4/9f45e875-6118-5294-8cbe-973b887234a9/6aff127942bf6.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T15:31:30+00:00"
+  },
+  {
    "id": "db7cfc2922f2e8af",
    "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
    "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
@@ -177,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795129120.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795129120.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795129120.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795129120.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T23:10:50+00:00"
@@ -197,32 +219,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/f8/6f8180b7-3e3d-5cd4-a4a9-36e69b9102a8/68deeb67d40db.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 900,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/f8/6f8180b7-3e3d-5cd4-a4a9-36e69b9102a8/68deeb67d40db.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/f8/6f8180b7-3e3d-5cd4-a4a9-36e69b9102a8/68deeb67d40db.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/f8/6f8180b7-3e3d-5cd4-a4a9-36e69b9102a8/68deeb67d40db.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T23:10:50+00:00"
   },
   {
    "id": "c38a95a63f92a4f3",
-   "title": "John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering things’ on 2028 re-election – live",
-   "summary": "US senator from Pennsylvania also took shot at Chris Van Hollen, who is challenging Schumer for Democratic leadership",
+   "title": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live",
+   "summary": "State’s attorney general Rob Bonta says ‘conduct of Nvidia and its former CEO raises bright red flags’ as he opens investigation",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
    "date": "2026-11-19T22:50:57+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
-    "elections"
+    "elections",
+    "defence"
    ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Kylie Cooper/Reuters",
+    "url": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=700&quality=85&auto=format&fit=max&s=a0a540737ae6b09d6325376f709ba92c",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4445bb36efff4a7f4ccc2e4348e4771595c27c27/457_0_4570_3656/master/4570.jpg?width=700&quality=85&auto=format&fit=max&s=39378112c4f0f843097e7b2c45062460",
-    "w": 700
+    "credit": "Photograph: Ann Wang/Reuters"
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:18:33+00:00"
@@ -866,9 +889,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/16d3b3d3-9946-4196-9946-fa4fdde33cd3,1795114459825/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C412%2C7526%2C4233%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/16d3b3d3-9946-4196-9946-fa4fdde33cd3,1795114459825/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C412%2C7526%2C4233%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:16:32+00:00"
@@ -907,9 +930,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.7359817,1729623973000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.7359817,1729623973000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:06:49+00:00"
@@ -1650,28 +1673,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:40:51+00:00"
-  },
-  {
-   "id": "70ca065fe6f88077",
-   "title": "Liberals expected to face House of Commons vote on Budget 2026",
-   "summary": "OTTAWA - The federal Liberals are expected to face a vote Thursday in the House of Commons on their 2026 budget.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/liberals-expected-to-face-house-of-commons-vote-on-budget-2026-today/article_21935b2f-5ff9-5445-b81d-39920771cc26.html",
-   "date": "2026-11-19T15:11:09+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/f4/9f45e875-6118-5294-8cbe-973b887234a9/6aff127942bf6.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/f4/9f45e875-6118-5294-8cbe-973b887234a9/6aff127942bf6.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T15:31:30+00:00"
   },
   {
    "id": "0e9f1c68d2dc80d1",

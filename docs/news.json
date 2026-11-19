@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T13:39:12+00:00",
+ "generatedAt": "2026-11-19T13:48:39+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 28
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -166,6 +166,50 @@
  ],
  "items": [
   {
+   "id": "3fdc8c957706c74f",
+   "title": "Jenrick mocked after criticising Thatcher’s policies, despite naming daughter after her – UK politics live",
+   "summary": "Reform UK MP says policies left a ‘deep scar’ on communities These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T13:33:07+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Christopher Furlong/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/1c435763e1f54d8b07eec454718b99204e42d6e1/485_0_6520_5216/master/6520.jpg?width=700&quality=85&auto=format&fit=max&s=999e4755b1cb8a845046f38421d20d16",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:18:37+00:00"
+  },
+  {
+   "id": "5ac6485bd7372da0",
+   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T13:33:00+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
+  },
+  {
    "id": "9a7a8ff25b12b7e3",
    "title": "Venezuela signs military deal with US less than a year after Maduro's ouster",
    "summary": "The US Secretary of Defence says Venezuela has 'gone from our most aggressive regional threat to a compliant security partner'.",
@@ -179,10 +223,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:39:12+00:00"
@@ -208,6 +252,26 @@
    "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
+   "id": "c5debe278e67b020",
+   "title": "South Korean court orders retrial for ex-PM Han over martial law attempt",
+   "summary": "The lower Seoul High Court will now retry the case based on the Supreme Court's legal interpretation of insurrection.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt?traffic_source=rss",
+   "date": "2026-11-19T13:22:17+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afee4a201-1795089570.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afee4a201-1795089570.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T13:48:39+00:00"
+  },
+  {
    "id": "bf81bed1e6acaea2",
    "title": "Lack of early border controls made UK ‘extremely vulnerable’ to Covid, inquiry finds",
    "summary": "Latest report also says test and trace failures allowed virus to spread quickly and unchecked UK politics live – latest updates The lack of international border controls at the start of the Covid-19 pandemic left the UK in an “extremely vulnerable position”…",
@@ -228,50 +292,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T12:14:02+00:00"
-  },
-  {
-   "id": "3fdc8c957706c74f",
-   "title": "Jenrick mocked after criticising Thatcher’s policies, despite naming daughter after her – UK politics live",
-   "summary": "Reform UK MP says policies left a ‘deep scar’ on communities These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T13:19:22+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Christopher Furlong/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/1c435763e1f54d8b07eec454718b99204e42d6e1/485_0_6520_5216/master/6520.jpg?width=700&quality=85&auto=format&fit=max&s=999e4755b1cb8a845046f38421d20d16",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:18:37+00:00"
-  },
-  {
-   "id": "5ac6485bd7372da0",
-   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T13:17:18+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
   },
   {
    "id": "727ee1260bb25fa0",
@@ -295,7 +315,7 @@
   },
   {
    "id": "89cb1d80a52448b4",
-   "title": "What is a stake at the EU-UK summit in Brussels?",
+   "title": "What is at stake at the EU-UK summit in Brussels?",
    "summary": "Leaders will wrestle with easing Brexit red tape, restoring emissions trading and opening up youth mobility UK politics live – latest updates The EU and UK will hold a long-awaited summit in Brussels on Friday – the second since Brexit – to hammer out the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
@@ -862,7 +882,7 @@
   {
    "id": "2b645771c67d91ed",
    "title": "UN’s top court finds Myanmar guilty of genocide against Rohingya",
-   "summary": "It is the first time a state has been found responsible for genocide at the International Court of Justice.",
+   "summary": "The ruling marks the first time a state has been found responsible for genocide by the International Court of Justice.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
    "date": "2026-11-19T10:31:36+00:00",
@@ -8248,26 +8268,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T11:15:05+00:00"
-  },
-  {
-   "id": "0b963784a555e303",
-   "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
-   "summary": "A former US Foreign Service officer ran a company that funded election adverts attacking Jeremy Corbyn’s Labour.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
-   "date": "2026-11-17T10:53:42+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-2.49.43-PM-1794907247.png?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-2.49.43-PM-1794907247.png?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:05:28+00:00"
   }
  ]
 }

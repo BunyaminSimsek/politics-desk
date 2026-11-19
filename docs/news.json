@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T02:05:59+00:00",
+ "generatedAt": "2026-11-19T02:15:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "ced773150d763501",
+   "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+   "summary": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+   "date": "2026-11-19T02:10:43+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe3a5d4d3b-1795045981.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe3a5d4d3b-1795045981.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T02:15:18+00:00"
+  },
+  {
+   "id": "253230d17cbe0959",
+   "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+   "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T01:56:28+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T02:15:18+00:00"
+  },
+  {
    "id": "a84d1d248302c696",
    "title": "Hegseth unveils new US-Venezuela military deal",
    "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
@@ -179,10 +221,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795052903.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795052903.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795052903.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795052903.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T02:05:59+00:00"
@@ -495,6 +537,21 @@
    "addedAt": "2026-11-18T14:48:56+00:00"
   },
   {
+   "id": "b3e1fce00abe9640",
+   "title": "The law releasing the Epstein files passed one year ago. What do his victims say?",
+   "summary": "It's been a year since the House passed the Epstein Files Transparency Act, forcing the Justice Department to release millions of files connected to the convicted sex offender. His victims speak out.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6041708/the-law-releasing-the-epstein-files-passed-one-year-ago-what-do-his-victims-say",
+   "date": "2026-11-18T22:27:43+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-19T02:15:18+00:00"
+  },
+  {
    "id": "b567d0153b1321d2",
    "title": "Vancouver officer walks back description of response to Myles Gray as 'compassionate'",
    "summary": "VANCOUVER - One of seven Vancouver police officers involved in the fatal beating of Myles Gray says he was wrong to describe police conduct during the call as \"incredibly compassionate\" in an interview with an RCMP investigator in 2017.",
@@ -513,6 +570,23 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T22:39:36+00:00"
+  },
+  {
+   "id": "d17f196e1d10656e",
+   "title": "Why the Nvidia scandal is a national security issue",
+   "summary": "The Nvidia scandal has spilled over into the Trump administration, which is now under intense scrutiny for how it allowed America's top AI chips to end up in China's hands.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6044275/why-the-nvidia-scandal-is-a-national-security-issue",
+   "date": "2026-11-18T22:12:56+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-19T02:15:18+00:00"
   },
   {
    "id": "b215a7e04e32b914",
@@ -586,6 +660,21 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-18T22:02:04+00:00"
+  },
+  {
+   "id": "ebcc70dfdbd782b4",
+   "title": "Democratic Black women take over almost all state agencies in Georgia soon",
+   "summary": "In January, most of Georgia's state agencies will be headed by Black women who were all elected in the 2026 midterms.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6043103/democratic-black-women-take-over-almost-all-state-agencies-in-georgia-soon",
+   "date": "2026-11-18T21:51:33+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-19T02:15:18+00:00"
   },
   {
    "id": "21b857b319461766",
@@ -8192,108 +8281,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:31:10+00:00"
-  },
-  {
-   "id": "f48c12af75722bcb",
-   "title": "Bat with rabies gets inside a long-term care facility northeast of Montreal",
-   "summary": "MONTRÉAL - Health authorities say a resident at a long-term care facility northeast of Montreal is being treated after coming into contact with a bat infected with rabies.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/bat-with-rabies-gets-inside-a-long-term-care-facility-northeast-of-montreal/article_5861678f-c14d-5991-810f-f564215f5a5c.html",
-   "date": "2026-11-16T20:11:46+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 841,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/a3/4a332689-38f7-5acd-8cf8-be23ba805a2d/6afb6457db78a.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/a3/4a332689-38f7-5acd-8cf8-be23ba805a2d/6afb6457db78a.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T20:21:58+00:00"
-  },
-  {
-   "id": "e71d5a80692062c4",
-   "title": "Refused UK asylum seekers to lose five-day grace period and face immediate removal",
-   "summary": "Home Office plans will cause unnecessary distress and anxiety, say refugee charities Asylum seekers who have exhausted the formal appeals process will be stripped of a five-day grace period and become eligible for immediate removal under Home Office plans…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal",
-   "date": "2026-11-16T20:06:24+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Wiktor Szymanowicz/Future Publishing/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/26d456813260a71cc5a24d0234d78199c8f8c003/535_59_1388_1110/master/1388.jpg?width=700&quality=85&auto=format&fit=max&s=ddecc20df3d1172d38281c4e77f49178",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T20:21:58+00:00"
-  },
-  {
-   "id": "bc8a8d2602bd4928",
-   "title": "Nationwide ground stop could cost US airlines hundreds of millions",
-   "summary": "Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
-   "date": "2026-11-16T20:05:06+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T020833Z_1696795389_RC2DNOANX3MH_RTRMADP_3_USA-FAA-GROUND-STOP-1794844657.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T020833Z_1696795389_RC2DNOANX3MH_RTRMADP_3_USA-FAA-GROUND-STOP-1794844657.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T20:21:58+00:00"
-  },
-  {
-   "id": "c65dcfb0d2ddf49e",
-   "title": "Ontario tables law to more quickly deal with intimate image abuse",
-   "summary": "TORONTO - Ontario Premier Doug Ford's government tabled a bill Monday that would create a new legal pathway for victims of intimate image abuse to have those images deleted.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/ontario/ontario-tables-law-to-more-quickly-deal-with-intimate-image-abuse/article_93e6bc9f-f626-5bc1-9a57-6ce49c7f0687.html",
-   "date": "2026-11-16T20:00:14+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/b3/db3ec526-9d66-5fe9-a12d-00a275110837/6afb61ffde1d6.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/b3/db3ec526-9d66-5fe9-a12d-00a275110837/6afb61ffde1d6.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T20:12:42+00:00"
-  },
-  {
-   "id": "65caae2cd770f6b3",
-   "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
-   "summary": "Rivals call for investigation into reports that PM's office tried to frame Arab parties.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
-   "date": "2026-11-16T20:00:07+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9a12272f26-1794744610.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af9a12272f26-1794744610.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T20:21:58+00:00"
   }
  ]
 }

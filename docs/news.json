@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T19:25:59+00:00",
+ "generatedAt": "2026-11-19T19:35:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,13 +11,13 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 48
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "c38a95a63f92a4f3",
+   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-19T19:24:04+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:18:33+00:00"
+  },
+  {
    "id": "ec90b959028157df",
    "title": "Rohingya survivors react to landmark genocide ruling against Myanmar",
    "summary": "Rohingya refugees in Bangladesh and an activist in New York react as the UN's top court rules Myanmar committed genocide",
@@ -177,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115764.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115764.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115764.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115764.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": true,
    "addedAt": "2026-11-19T19:25:59+00:00"
@@ -197,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:25:59+00:00"
@@ -217,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115693.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115693.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115693.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115693.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:25:59+00:00"
@@ -286,28 +308,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:06:49+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T18:58:38+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "9c607d0e2e6ccc5b",

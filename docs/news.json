@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T21:37:11+00:00",
+ "generatedAt": "2026-11-19T21:46:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "Global News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 14
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -186,13 +186,35 @@
    "addedAt": "2026-11-19T19:25:59+00:00"
   },
   {
+   "id": "44e59d4dd36f9aab",
+   "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
+   "summary": "The appeals court's ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans?traffic_source=rss",
+   "date": "2026-11-19T21:11:45+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2021/07/2018-01-08T180929Z_1992543077_RC1E7E122B70_RTRMADP_3_USA-IMMIGRATION-PROTECTION.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2021/07/2018-01-08T180929Z_1992543077_RC1E7E122B70_RTRMADP_3_USA-IMMIGRATION-PROTECTION.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T21:46:14+00:00"
+  },
+  {
    "id": "2b8018b3ed772360",
    "title": "College of physicians not investigating MP over MAID comments",
    "summary": "OTTAWA - The College of Physicians and Surgeons of Ontario says it's not investigating a member of Parliament who received a complaint over comments he made about medical assistance in dying.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -622,9 +644,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/eacece62-df86-49b8-89be-93c466bf53d0,1795116383312/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C4206%2C2365%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/eacece62-df86-49b8-89be-93c466bf53d0,1795116383312/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C4206%2C2365%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:44:16+00:00"
@@ -641,9 +663,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/a123c0e8-e68f-4e75-9121-bd40f13db119,1795116003636/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4262%2C2397%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/a123c0e8-e68f-4e75-9121-bd40f13db119,1795116003636/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4262%2C2397%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:44:16+00:00"
@@ -6371,7 +6393,7 @@
    "id": "f4267749d5381c0e",
    "title": "Oddly enough, this video game weighs in on Canada's fighter jet options",
    "summary": "The gaming industry might not be the first place to look for military procurement advice, but a recently released video game offers a subtle suggestion for what Canada should pick for its new fighter jet fleet.",
-   "source": "CBC World",
+   "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/ace-combat-grippen-f-35-canada-procurement-9.7425376?cmp=rss",
    "date": "2026-11-18T09:00:00+00:00",
    "topic": "federal",
@@ -8217,28 +8239,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T18:04:55+00:00"
-  },
-  {
-   "id": "574f499b55a7cf42",
-   "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
-   "summary": "High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
-   "date": "2026-11-17T17:58:05+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bloomberg/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=7a027b1f34b392f064b2ea75c698b14e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T18:14:11+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T12:52:15+00:00",
+ "generatedAt": "2026-11-19T13:01:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 31
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -166,6 +166,70 @@
  ],
  "items": [
   {
+   "id": "e5b851ab534296ca",
+   "title": "Avi Lewis sees Montreal byelections as a crucial part of rebuilding the NDP",
+   "summary": "The NDP faces daunting challenges in the Dec. 7 federal byelections as it tries to hold its last seat east of Winnipeg while flipping a neighbouring Montreal riding.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12157645/avi-lewis-ndp-montreal-byelections/",
+   "date": "2026-11-19T12:59:06+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/334e772daf409dd6f728784d662e66c29503f312e22fd16f90befa7c4aeeb271.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 743,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/334e772daf409dd6f728784d662e66c29503f312e22fd16f90befa7c4aeeb271.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T13:01:31+00:00"
+  },
+  {
+   "id": "5ac6485bd7372da0",
+   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T12:49:25+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
+  },
+  {
+   "id": "a2c3574e4f0cbe70",
+   "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+   "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+   "date": "2026-11-19T12:40:46+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Eyad Baba/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/d94406113e8bb1466134873bf0554edf8a0ac2a7/340_0_3588_2871/master/3588.jpg?width=700&quality=85&auto=format&fit=max&s=4dc4559243f5b830ca95e17c91e4d419",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-18T23:45:21+00:00"
+  },
+  {
    "id": "cce4eee7a68c5b2b",
    "title": "Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims",
    "summary": "Kristine Blanche, named to US health advisory role, offered purported treatments for Epstein-Barr virus and HPV Attorney general Todd Blanche’s wife, Kristine Blanche, who was appointed earlier this year to a US government advisory board on alternative…",
@@ -177,35 +241,13 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "credit": "Photograph: Tom Williams/CQ-Roll Call, Inc/Getty Images",
+    "h": 560,
     "url": "https://i.guim.co.uk/img/media/84bb349ef8eb955f382b5b9fd8dd9f42453e5324/0_358_6259_5008/master/6259.jpg?width=700&quality=85&auto=format&fit=max&s=1c47f4c05a0343ccdd785830e1385365",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Tom Williams/CQ-Roll Call, Inc/Getty Images"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T12:52:15+00:00"
-  },
-  {
-   "id": "5ac6485bd7372da0",
-   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T12:34:02+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Fabrizio Bensch/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/177e95c8558613ce433c6415ecde5b3d35ad5857/470_0_3986_3189/master/3986.jpg?width=700&quality=85&auto=format&fit=max&s=45d5beab6444caf80ef4dc52cc55db6e",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
+   "addedAt": "2026-11-19T12:52:15+00:00"
   },
   {
    "id": "fc1d57a3f5c7b403",
@@ -232,7 +274,7 @@
   {
    "id": "2ec7c02657102938",
    "title": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China",
-   "summary": "The three leaders spoke about international peace and nuclear weapons as Trump hailed Putin as a ‘friend’. Plus, yes, GTA IV is really finally here, and the critics have their verdict – masterpiece Good morning.",
+   "summary": "The three leaders spoke about international peace and nuclear weapons as Trump called Putin a ‘friend’. Plus, yes, GTA VI is really finally here, and the critics have their verdict: masterpiece Good morning.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
    "date": "2026-11-19T12:31:41+00:00",
@@ -390,7 +432,7 @@
   {
    "id": "d6d5a75fc790921b",
    "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
-   "summary": "Judgment ends seven-year legal battle and is seen as critical test for dealing with most serious of all state crimes Myanmar committed genocide against its Rohingya minority nearly a decade ago, the world’s highest court has ruled.",
+   "summary": "Judgment finds ‘intent to destroy a substantial part of the Rohingya population’ after case seen as critical test for dealing with most serious of state crimes Myanmar committed genocide against its Rohingya minority in its 2016-17 military campaign, the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
    "date": "2026-11-19T12:05:42+00:00",
@@ -550,28 +592,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:27:43+00:00"
-  },
-  {
-   "id": "a2c3574e4f0cbe70",
-   "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
-   "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
-   "date": "2026-11-19T11:23:11+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Eyad Baba/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d94406113e8bb1466134873bf0554edf8a0ac2a7/340_0_3588_2871/master/3588.jpg?width=700&quality=85&auto=format&fit=max&s=4dc4559243f5b830ca95e17c91e4d419",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T23:45:21+00:00"
   },
   {
    "id": "144f0711e6f6d6a5",
@@ -8249,21 +8269,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T10:09:28+00:00"
-  },
-  {
-   "id": "b29375f9b50098a7",
-   "title": "After Democrats' midterm wins, some hope attacks on DEI will ease",
-   "summary": "After the midterms, a Democratic congressman declared that DEI is back. What does Democrats' ascendance portend for diversity initiatives that the Trump administration has relentlessly attacked?",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/17/nx-s1-6036795/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease",
-   "date": "2026-11-17T09:46:10+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-17T09:51:02+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T20:03:06+00:00",
+ "generatedAt": "2026-11-19T20:12:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 27
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,86 @@
  ],
  "items": [
   {
+   "id": "947e6ec924674139",
+   "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+   "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T20:07:02+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
+   },
+   "breaking": true,
+   "addedAt": "2026-11-19T16:37:59+00:00"
+  },
+  {
+   "id": "4ceff601e2330ba1",
+   "title": "John Cornyn blocks Trump judicial nominee after Senate shouting match with Ted Cruz",
+   "summary": "Outgoing senator withheld ‘blue slip’ from T Elliot Gaiser, blocking his appointment to northern Texas district court An outgoing Republican senator blocked one of Donald Trump ’s judicial nominations on Wednesday, throwing a wrench in the party’s plans to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/judge-t-elliot-gaiser-nomination-fight",
+   "date": "2026-11-19T20:03:58+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/c9aaf57517e901b7272f10ebe4bc4623d7ead0ab/0_0_6643_5315/master/6643.jpg?width=700&quality=85&auto=format&fit=max&s=b27db0f9edc67a5e4bde8da9c8f70e79",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Tom Williams/CQ-Roll Call, Inc/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T20:12:23+00:00"
+  },
+  {
+   "id": "d7c5b3a2d95ee966",
+   "title": "Judge bans Trump’s restrictions on HIV funds for transgender patients",
+   "summary": "Federal court rules providers can acknowledge gender identity and provide gender-affirming care The Trump administration cannot impose restrictions barring healthcare providers that receive certain federal HIV-treatment ⁠funds from acknowledging the gender…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/hiv-treatment-trans-patients-trump",
+   "date": "2026-11-19T20:02:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/1356a09daee170664f996ae64d02ccc3dd0b8564/407_0_4068_3254/master/4068.jpg?width=700&quality=85&auto=format&fit=max&s=2d2f092b9a736ae43e7f318f9dfbd751",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lindsey Wasson/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T20:12:23+00:00"
+  },
+  {
+   "id": "12ff2b1f2a406df8",
+   "title": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
+   "summary": "The US defence secretary praised security cooperation with Colombia as country joins Americas Counter Cartel Coalition.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
+   "date": "2026-11-19T19:53:24+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff3853-1795110995.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff3853-1795110995.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T20:12:23+00:00"
+  },
+  {
    "id": "b8547a4c9cf2f0a5",
    "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
    "summary": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
@@ -177,10 +257,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3038+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F51%2F45f19489479aa954d177e2981de0%2Ftrump-construction-duo.png",
-    "w": 1200,
     "h": 675,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3038+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F51%2F45f19489479aa954d177e2981de0%2Ftrump-construction-duo.png"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3038+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F51%2F45f19489479aa954d177e2981de0%2Ftrump-construction-duo.png",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3038+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F51%2F45f19489479aa954d177e2981de0%2Ftrump-construction-duo.png",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:03:06+00:00"
@@ -302,7 +382,7 @@
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115764.jpg?quality=80&resize=1200%2C800",
     "w": 1200
    },
-   "breaking": true,
+   "breaking": false,
    "addedAt": "2026-11-19T19:25:59+00:00"
   },
   {
@@ -927,26 +1007,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T17:15:17+00:00"
-  },
-  {
-   "id": "947e6ec924674139",
-   "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-   "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T16:55:57+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T16:37:59+00:00"
   },
   {
    "id": "a2c201027f0695c9",
@@ -2404,7 +2464,7 @@
   },
   {
    "id": "3c27254e57b20f2f",
-   "title": "Sixty-four B.C. Conservatives including premier-designate Doerkson take office oath",
+   "title": "B.C. Conservatives, including premier-designate Doerkson, take office oath",
    "summary": "VICTORIA - Political change is coming to British Columbia as members of the incoming Conservative government are being sworn into office at the legislature today.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/british-columbia/sixty-four-b-c-conservatives-including-premier-designate-doerkson-take-office-oath/article_9f631382-0fd8-5279-914c-fae9c48d8e90.html",
@@ -8181,66 +8241,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:00:23+00:00"
-  },
-  {
-   "id": "e9d9b4aff228212e",
-   "title": "Former union executive apologizes after posting AI image of Conservative politician",
-   "summary": "MONTRÉAL - A former executive of a major Quebec labour union has apologized for posting an artificial intelligence-generated image of a provincial Conservative politician with a black eye.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/former-union-executive-apologizes-after-posting-ai-image-of-conservative-politician/article_e2a9aa71-2d9e-5acf-9b33-6820706322db.html",
-   "date": "2026-11-17T17:10:07+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 857,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/9f/89f14582-30f2-5522-bb13-093198a39058/6afb7bc7b86d4.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/9f/89f14582-30f2-5522-bb13-093198a39058/6afb7bc7b86d4.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T17:27:34+00:00"
-  },
-  {
-   "id": "2bcf792cd6757759",
-   "title": "CAIR defends civil rights work against Trump’s ‘smear’",
-   "summary": "The US's largest Muslim advocacy group urges President Trump to address rising hate crimes against Muslims.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
-   "date": "2026-11-17T17:09:49+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc8abd5e-1794935485.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc8abd5e-1794935485.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T19:48:36+00:00"
-  },
-  {
-   "id": "e86552dd8f934e2e",
-   "title": "House unanimously passes Conservative MP's bill honouring son who died by suicide",
-   "summary": "OTTAWA - The House of Commons has unanimously adopted a bill introduced by Conservative MP Luc Berthold, in memory of his son, that aims to help young people struggling with addiction.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/house-unanimously-passes-conservative-mp-s-bill-honouring-son-who-died-by-suicide/article_5eb7c643-8c50-56b7-ba17-557cd8f3ec3d.html",
-   "date": "2026-11-17T17:09:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 866,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/d3/9d375664-1d11-5598-b16a-b577f06fbca3/6afc8a7c82042.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/d3/9d375664-1d11-5598-b16a-b577f06fbca3/6afc8a7c82042.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T17:18:18+00:00"
   }
  ]
 }

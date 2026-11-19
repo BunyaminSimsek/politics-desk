@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T09:46:14+00:00",
+ "generatedAt": "2026-11-19T09:55:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 48
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,89 @@
   }
  ],
  "items": [
+  {
+   "id": "3c9ef39187fdaaa9",
+   "title": "South Korea's top court overturns charges against ex-prime minister for his role in martial law",
+   "summary": "South Korea's Supreme Court on Thursday overturned the conviction of former Prime Minister Han Duck-soo for aiding in the declaration of martial law in December 2024.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/south-korea-overturns-charges-against-ex-prime-minister-9.7427717?cmp=rss",
+   "date": "2026-11-19T09:50:40+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/59400894-0f50-4862-a63e-db5a4108dbfa,1795078501939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C371%2C5000%2C2812%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:55:18+00:00"
+  },
+  {
+   "id": "f3ec943b72346e65",
+   "title": "Trump, Xi, Putin begin historic meeting with Ukraine war on agenda",
+   "summary": "U.S. President Donald Trump and Chinese and Russian counterparts Xi Jinping and Vladimir Putin began an unprecedented three-way meeting on Thursday, where they said they will discuss the war in Ukraine and nuclear arms control.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/trump-xi-putin-historic-meeting-9.7427718?cmp=rss",
+   "date": "2026-11-19T09:49:18+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/00867b0d-2b07-4035-8e6a-f5591803d19a,1795081108142/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C398%2C6358%2C3576%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:55:18+00:00"
+  },
+  {
+   "id": "f8eebc0bcd043148",
+   "title": "Ben Shapiro on the future of the Republican Party and conservative media",
+   "summary": "NPR's Steve Inskeep sits down with conservative commentator Ben Shapiro to discuss the future of the Republican party.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/19/nx-s1-6035863/ben-shapiro-on-the-future-of-the-republican-party-and-conservative-media",
+   "date": "2026-11-19T09:45:41+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-19T09:55:18+00:00"
+  },
+  {
+   "id": "8744328b0c142249",
+   "title": "International Court of Justice to issue ruling on Myanmar genocide case",
+   "summary": "The International Court of Justice delivers a landmark ruling on Thursday whether Myanmar committed genocide against the Rohingya — a historic test of international justice that could reshape state accountability for genocide worldwide.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/19/nx-s1-6045884/international-court-of-justice-to-issue-ruling-on-myanmar-genocide-case",
+   "date": "2026-11-19T09:45:26+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-19T09:55:18+00:00"
+  },
+  {
+   "id": "df35fc983eb28eb4",
+   "title": "Markwayne Mullin testifies before Congress after series of nationwide tech outages",
+   "summary": "Homeland Security Secretary Markwayne Mullin testified before Congress about global security threats facing the nation. The recent cyber and technology problems dominated the annual hearing.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/19/nx-s1-6045903/markwayne-mullin-testifies-before-congress-after-series-of-nationwide-tech-outages",
+   "date": "2026-11-19T09:44:25+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-19T09:55:18+00:00"
+  },
   {
    "id": "3fdc8c957706c74f",
    "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
@@ -8184,110 +8267,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T00:54:33+00:00"
-  },
-  {
-   "id": "52a941d4d7398150",
-   "title": "Labor policy backflip will allow more backpackers to work in regional Australia",
-   "summary": "Number of people allowed to stay for third year on holidaymaker visa to be increased from 5,000 to 25,000 under revised plan Get our breaking news email , free app or daily news podcast The federal government has backpedalled on its plan to cut backpacker…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
-   "date": "2026-11-17T00:27:29+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lukas Coch/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/bdff9c57b687d49e9eb3c34f48dc8058f94fd3ca/736_0_4640_3712/master/4640.jpg?width=700&quality=85&auto=format&fit=max&s=8966281ae945044f9d1006ce7978648d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T23:39:29+00:00"
-  },
-  {
-   "id": "04aec821884b9900",
-   "title": "The battle for Trump's 'Trash Island' golf course | About That",
-   "summary": "Andrew Chang explains the fight over what U.S. President Donald Trump calls 'Trash Island' — and why a federal judge blocked the Trump administration from closing Washington's historic East Potomac Park.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/player/play/9.7424438?cmp=rss",
-   "date": "2026-11-17T00:05:23+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/647cdcbf-d668-438a-9dc8-31a14936827b,1794873871530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C230%2C5500%2C3093%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T00:16:59+00:00"
-  },
-  {
-   "id": "34ec8212ac90c506",
-   "title": "Iran war live: Bahrain targeted by drone barrage; new Hormuz warning issued",
-   "summary": "IRGC says it launched a drone attack targeting a US radar system at the Sheikh Isa Airbase in Bahrain.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
-   "date": "2026-11-16T23:57:49+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afb8cbb3b72-1794870459.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afb8cbb3b72-1794870459.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T02:09:17+00:00"
-  },
-  {
-   "id": "cad9fda7be9dec0a",
-   "title": "Several staffers leaving Poilievre's office weeks after B.C. election",
-   "summary": "OTTAWA - Five staff members are leaving the office of Opposition Conservative Leader Pierre Poilievre, including his deputy chief of staff and two of his senior communications aides.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/several-staffers-leaving-poilievre-s-office-weeks-after-b-c-election/article_dbd01e88-7543-5687-bfcc-566939505935.html",
-   "date": "2026-11-16T23:51:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/d9/1d9c9f6c-d842-556b-ac38-88bdc266f7fd/6afb97d925206.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/d9/1d9c9f6c-d842-556b-ac38-88bdc266f7fd/6afb97d925206.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T00:07:52+00:00"
-  },
-  {
-   "id": "60e1bc5a43fb8862",
-   "title": "How Ontario proposes to change OSAP rules for career colleges",
-   "summary": "Ontario Premier Doug Ford's government tabled a bill Monday reforming rules for how the student assistance program OSAP will work at career colleges. CBC’s Lorenda Reddekopp breaks down the changes.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/player/play/9.7424409?cmp=rss",
-   "date": "2026-11-16T23:46:42+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/3e65eabe-ae58-4a2e-9ed4-7300ca4e5724,1794863332449/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T23:49:05+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T20:21:41+00:00",
+ "generatedAt": "2026-11-19T20:30:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "c38a95a63f92a4f3",
+   "title": "John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering’ 2028 re-election bid – live",
+   "summary": "US senator from Pennsylvania also took shot at Chris Van Hollen, who is challenging Schumer for Democratic leadership",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-19T20:22:13+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kylie Cooper/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/4445bb36efff4a7f4ccc2e4348e4771595c27c27/457_0_4570_3656/master/4570.jpg?width=700&quality=85&auto=format&fit=max&s=39378112c4f0f843097e7b2c45062460",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:18:33+00:00"
+  },
+  {
    "id": "947e6ec924674139",
    "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
    "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
@@ -224,28 +246,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:12:23+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering’ 2028 re-election bid – live",
-   "summary": "US senator from Pennsylvania also took shot at Chris Van Hollen, who is challenging Schumer for Democratic leadership",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T19:58:01+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/4445bb36efff4a7f4ccc2e4348e4771595c27c27/457_0_4570_3656/master/4570.jpg?width=700&quality=85&auto=format&fit=max&s=39378112c4f0f843097e7b2c45062460",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Kylie Cooper/Reuters"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "12ff2b1f2a406df8",
@@ -579,9 +579,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/0a4698b6-a9cc-4aee-9eb8-4e689c071efe,1795111909319/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8186%2C4604%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/0a4698b6-a9cc-4aee-9eb8-4e689c071efe,1795111909319/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8186%2C4604%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-19T18:29:22+00:00"
@@ -922,9 +922,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/89559731-1d56-438c-8917-efc8e894708e,1795104742715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/89559731-1d56-438c-8917-efc8e894708e,1795104742715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-19T18:29:22+00:00"
@@ -2424,14 +2424,16 @@
   },
   {
    "id": "a2e6600cde94a1ad",
-   "title": "Chow turns down police board seat, taps new councillors for committees",
-   "summary": "TORONTO - Toronto Mayor Olivia Chow is shaking up her leadership team, tapping a former Liberal MP to head up the housing committee and her Scarborough deputy as transit chair.",
+   "title": "Chow shakes up city hall leadership, taps former Liberal MP for housing",
+   "summary": "TORONTO - Mayor Olivia Chow shuffled her leadership team at city hall on Thursday, tapping a former Liberal MP to head up the housing committee and her Scarborough deputy as transit chair.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/chow-to-shuffle-city-hall-leadership-decide-whether-to-sit-on-toronto-police-board/article_81f9f045-3772-553d-9765-1ba6dedd0038.html",
    "date": "2026-11-19T09:00:25+00:00",
    "topic": "toronto",
    "region": "local",
-   "tags": [],
+   "tags": [
+    "housing"
+   ],
    "kind": "news",
    "image": {
     "h": 800,

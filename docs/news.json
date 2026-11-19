@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T15:50:08+00:00",
+ "generatedAt": "2026-11-19T16:00:15+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 31
+   "kept": 30
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 48
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "bfad6145e3fb8837",
-   "title": "‘New page in history?’ Xi, Trump and Putin summit was more of a footnote",
-   "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda It is arguably true, given it was the first such meeting of the leaders of China, Russia and the US, that Thursday’s gathering in Shenzhen deserved the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
-   "date": "2026-11-19T15:35:01+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Win McNamee/Pool Getty Images AsiaPac/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/82a515f04bc247c4248d7219eb825c2d67060618/1173_38_6573_5258/master/6573.jpg?width=700&quality=85&auto=format&fit=max&s=4df309ecc7781e6c8f1542fa405dc57e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T15:40:51+00:00"
-  },
-  {
    "id": "5ac6485bd7372da0",
    "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
    "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T15:34:38+00:00",
+   "date": "2026-11-19T15:55:00+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [
@@ -213,7 +193,7 @@
    "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T15:32:28+00:00",
+   "date": "2026-11-19T15:52:13+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [
@@ -230,12 +210,32 @@
    "addedAt": "2026-11-19T09:18:37+00:00"
   },
   {
+   "id": "4dffa5bc2cfc8f13",
+   "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+   "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ Apec summit – latest updates China, Russia and the US have said they have agreed a peace statement after an unprecedented trilateral…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+   "date": "2026-11-19T15:50:03+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/3474c8032549af7447dd4759a18eff0069ccaf84/337_0_3599_2880/master/3599.jpg?width=700&quality=85&auto=format&fit=max&s=500128b4bc19940ba950eb4e00d24b1f",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Greg Baker/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T16:00:15+00:00"
+  },
+  {
    "id": "c38a95a63f92a4f3",
    "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
    "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T15:30:34+00:00",
+   "date": "2026-11-19T15:41:08+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -252,6 +252,26 @@
    "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
+   "id": "bfad6145e3fb8837",
+   "title": "‘New page in history?’ Xi, Trump and Putin summit was more of a footnote",
+   "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda Apec summit – latest updates It is arguably true, given it was the first such meeting of the leaders of China, Russia and the US, that Thursday’s…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
+   "date": "2026-11-19T15:35:01+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Win McNamee/Pool Getty Images AsiaPac/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/82a515f04bc247c4248d7219eb825c2d67060618/1173_38_6573_5258/master/6573.jpg?width=700&quality=85&auto=format&fit=max&s=4df309ecc7781e6c8f1542fa405dc57e",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T15:40:51+00:00"
+  },
+  {
    "id": "8efb8c3f64e434b8",
    "title": "Top court won't hear bid for class-action lawsuit on behalf of Indigenous children",
    "summary": "OTTAWA - The Supreme of Court of Canada will not hear a bid to certify a class-action lawsuit against Ottawa on behalf of Indigenous children who were taken from their families while living away from reserves and placed in non-Indigenous…",
@@ -263,10 +283,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/0c/b0cfb368-701b-5534-af46-341d6c5fab80/6aff17295c1ff.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/0c/b0cfb368-701b-5534-af46-341d6c5fab80/6aff17295c1ff.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/0c/b0cfb368-701b-5534-af46-341d6c5fab80/6aff17295c1ff.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/0c/b0cfb368-701b-5534-af46-341d6c5fab80/6aff17295c1ff.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:50:08+00:00"
@@ -378,7 +398,7 @@
   },
   {
    "id": "9b19fd96c1e6b73c",
-   "title": "Four UK men convicted of sexual assault and rape of woman at invitation of husband",
+   "title": "Four UK men convicted of sexual assault and rape of drugged woman at invitation of husband",
    "summary": "Former Tory councillor advertised ex-wife on swinging websites and drugged and bound her for sex Four men have been convicted of sexually assaulting and raping a woman at the invitation of her husband who had drugged and bound her.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
@@ -8251,26 +8271,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T15:06:57+00:00"
-  },
-  {
-   "id": "a0d6dc3af9b80d3a",
-   "title": "Trillium College students disappointed at selective return to classes",
-   "summary": "Students at one career college are decrying its approach to the OSAP pause, with the school allowing only those who can pay without the financial aid to continue learning.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12154178/trillium-college-students-disappointed-at-selective-return-to-classes/",
-   "date": "2026-11-17T12:54:58+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/6ba535ffdbeb84a2391050d444f600cbd80695d820386bacccf16f4a98a961ce.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/6ba535ffdbeb84a2391050d444f600cbd80695d820386bacccf16f4a98a961ce.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T12:56:47+00:00"
   }
  ]
 }

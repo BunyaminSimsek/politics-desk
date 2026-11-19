@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T13:20:01+00:00",
+ "generatedAt": "2026-11-19T13:30:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 28
   },
   {
    "source": "The Guardian",
@@ -125,7 +125,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "BBC News",
@@ -166,6 +166,112 @@
  ],
  "items": [
   {
+   "id": "5ac6485bd7372da0",
+   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T13:22:39+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
+  },
+  {
+   "id": "3fdc8c957706c74f",
+   "title": "Jenrick mocked after criticising Thatcher’s policies, despite naming daughter after her – UK politics live",
+   "summary": "Reform UK MP says policies left a ‘deep scar’ on communities These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T13:20:37+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/1c435763e1f54d8b07eec454718b99204e42d6e1/485_0_6520_5216/master/6520.jpg?width=700&quality=85&auto=format&fit=max&s=999e4755b1cb8a845046f38421d20d16",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Christopher Furlong/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:18:37+00:00"
+  },
+  {
+   "id": "bf81bed1e6acaea2",
+   "title": "Lack of early border controls made UK ‘extremely vulnerable’ to Covid, inquiry finds",
+   "summary": "Latest report also says test and trace failures allowed virus to spread quickly and unchecked UK politics live – latest updates The lack of international border controls at the start of the Covid-19 pandemic left the UK in an “extremely vulnerable position”…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/19/covid-inquiry-uk-report-lack-of-early-border-controls-virus-spread",
+   "date": "2026-11-19T13:19:44+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Justin Tallis/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/9f48ca68c40f6949ad41db2c7f564ebe5dd7e8e6/484_0_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=cb39147b56d30656d6d4f5b223588e74",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T12:14:02+00:00"
+  },
+  {
+   "id": "727ee1260bb25fa0",
+   "title": "‘Groundbreaking’ Trump-Xi-Putin summit: Five key takeaways",
+   "summary": "Leaders hailed the unprecedented meeting as historic, with discussions spanning nuclear risks to energy flows.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss",
+   "date": "2026-11-19T13:13:53+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305839919-1795078098.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305839919-1795078098.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T13:30:03+00:00"
+  },
+  {
+   "id": "89cb1d80a52448b4",
+   "title": "What is a stake at the EU-UK summit in Brussels?",
+   "summary": "Leaders will wrestle with easing Brexit red tape, restoring emissions trading and opening up youth mobility UK politics live – latest updates The EU and UK will hold a long-awaited summit in Brussels on Friday – the second since Brexit – to hammer out the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
+   "date": "2026-11-19T13:11:23+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/21ddeb28259d25b93c94905de55f645b5eb1d446/620_27_3852_3082/master/3852.jpg?width=700&quality=85&auto=format&fit=max&s=f3bdfb224707031229f559c138921c86",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Gareth Fuller/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T13:30:03+00:00"
+  },
+  {
    "id": "ffef7c361488aa79",
    "title": "Chow to shuffle city hall leadership, decide whether to sit on Toronto police board",
    "summary": "Olivia Chow is set to shuffle her leadership team at Toronto City Hall as new faces are set to be picked for high-profile committee roles.",
@@ -177,10 +283,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/9381e857fcbd5f98523b0a1d13252fa08c0c88091866a609bf35fa0052838219.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/9381e857fcbd5f98523b0a1d13252fa08c0c88091866a609bf35fa0052838219.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/9381e857fcbd5f98523b0a1d13252fa08c0c88091866a609bf35fa0052838219.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/9381e857fcbd5f98523b0a1d13252fa08c0c88091866a609bf35fa0052838219.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:20:01+00:00"
@@ -206,28 +312,6 @@
    "addedAt": "2026-11-19T13:10:47+00:00"
   },
   {
-   "id": "5ac6485bd7372da0",
-   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T13:03:06+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tobias Schwarz/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=700&quality=85&auto=format&fit=max&s=439d4053d69bf3d34510c9bf71dffcb4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
-  },
-  {
    "id": "e5b851ab534296ca",
    "title": "Avi Lewis sees Montreal byelections as a crucial part of rebuilding the NDP",
    "summary": "The NDP faces daunting challenges in the Dec. 7 federal byelections as it tries to hold its last seat east of Winnipeg while flipping a neighbouring Montreal riding.",
@@ -246,28 +330,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:01:31+00:00"
-  },
-  {
-   "id": "3fdc8c957706c74f",
-   "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
-   "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because ‘double amputees run marathons’ These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T12:58:05+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: House of Commons/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8c13e43ae8c115541cac6e3f64d48248544771ec/1435_1494_3905_3124/master/3905.jpg?width=700&quality=85&auto=format&fit=max&s=71cc69df42682c960b6b02b70a9a83c4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:18:37+00:00"
   },
   {
    "id": "c38a95a63f92a4f3",
@@ -450,28 +512,6 @@
    "addedAt": "2026-11-19T12:32:34+00:00"
   },
   {
-   "id": "bf81bed1e6acaea2",
-   "title": "Lack of early border controls made UK ‘extremely vulnerable’ to Covid, inquiry finds",
-   "summary": "Latest report also says test and trace failures allowed virus to spread quickly and unchecked UK politics live – latest updates The lack of international border controls at the start of the Covid-19 pandemic left the UK in an “extremely vulnerable position”…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/19/covid-inquiry-uk-report-lack-of-early-border-controls-virus-spread",
-   "date": "2026-11-19T12:13:45+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Justin Tallis/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9f48ca68c40f6949ad41db2c7f564ebe5dd7e8e6/484_0_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=cb39147b56d30656d6d4f5b223588e74",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T12:14:02+00:00"
-  },
-  {
    "id": "fc19fc54f8c8451b",
    "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
    "summary": "Vladimir Putin's special briefcase - thought to carry access to nuclear weapons - made a rare appearance in Shenzhen.",
@@ -572,6 +612,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T12:14:02+00:00"
+  },
+  {
+   "id": "0f9c66562d6989ce",
+   "title": "Florida pastor found guilty over role in assassination of Haitian president",
+   "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T11:44:57+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg",
+    "w": 1200,
+    "h": 673,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T13:30:03+00:00"
   },
   {
    "id": "b3ec3e30f40da899",
@@ -991,9 +1051,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/542bb6f5-d0b1-4acf-88ce-85c3757534a1,1795088754432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C289%2C5119%2C2879%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/542bb6f5-d0b1-4acf-88ce-85c3757534a1,1795088754432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C289%2C5119%2C2879%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:20:01+00:00"
@@ -8206,68 +8266,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T10:56:18+00:00"
-  },
-  {
-   "id": "5517c6cd9c87d59d",
-   "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
-   "summary": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T10:32:07+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/576c/live/d124d9e0-e26a-11f1-b19c-7b42f37bea48.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T12:38:32+00:00"
-  },
-  {
-   "id": "6ea9dd93d49bba43",
-   "title": "Will President Trump meet Kim Jong Un?",
-   "summary": "President Trump says he would be keen to meet the North Korea leader in China.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T10:13:27+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T10:28:11+00:00"
-  },
-  {
-   "id": "0afef9ad96823a16",
-   "title": "US President Trump arrives in Manila ahead of ASEAN summit",
-   "summary": "US President Donald Trump has landed in Manila ahead of a special ASEAN-US meeting.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
-   "date": "2026-11-17T10:13:12+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-10.09.05-1794910243.png?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-10.09.05-1794910243.png?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T10:28:11+00:00"
   }
  ]
 }

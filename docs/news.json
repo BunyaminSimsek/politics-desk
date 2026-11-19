@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T15:40:51+00:00",
+ "generatedAt": "2026-11-19T15:50:08+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/82a515f04bc247c4248d7219eb825c2d67060618/1173_38_6573_5258/master/6573.jpg?width=700&quality=85&auto=format&fit=max&s=4df309ecc7781e6c8f1542fa405dc57e",
-    "w": 700,
+    "credit": "Photograph: Win McNamee/Pool Getty Images AsiaPac/AP",
     "h": 560,
-    "credit": "Photograph: Win McNamee/Pool Getty Images AsiaPac/AP"
+    "url": "https://i.guim.co.uk/img/media/82a515f04bc247c4248d7219eb825c2d67060618/1173_38_6573_5258/master/6573.jpg?width=700&quality=85&auto=format&fit=max&s=4df309ecc7781e6c8f1542fa405dc57e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:40:51+00:00"
@@ -252,6 +252,26 @@
    "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
+   "id": "8efb8c3f64e434b8",
+   "title": "Top court won't hear bid for class-action lawsuit on behalf of Indigenous children",
+   "summary": "OTTAWA - The Supreme of Court of Canada will not hear a bid to certify a class-action lawsuit against Ottawa on behalf of Indigenous children who were taken from their families while living away from reserves and placed in non-Indigenous…",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/top-court-won-t-hear-bid-for-class-action-lawsuit-on-behalf-of-indigenous-children/article_f733d443-eefe-551e-a6fb-332df11291e9.html",
+   "date": "2026-11-19T15:30:05+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/0c/b0cfb368-701b-5534-af46-341d6c5fab80/6aff17295c1ff.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/0c/b0cfb368-701b-5534-af46-341d6c5fab80/6aff17295c1ff.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T15:50:08+00:00"
+  },
+  {
    "id": "3e5b445196dda01a",
    "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
    "summary": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
@@ -263,10 +283,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1795101729.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1795101729.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1795101729.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1795101729.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:40:51+00:00"
@@ -283,10 +303,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:31:30+00:00"
@@ -8251,26 +8271,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T12:56:47+00:00"
-  },
-  {
-   "id": "68e77b0c052443dd",
-   "title": "How is US Senate majority leader chosen?",
-   "summary": "Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
-   "date": "2026-11-17T12:38:39+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T194146Z_1432041765_RC25NOAN3FH9_RTRMADP_3_USA-ELECTION-DEMOCRATS-1-1-1794908962.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T194146Z_1432041765_RC25NOAN3FH9_RTRMADP_3_USA-ELECTION-DEMOCRATS-1-1-1794908962.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T12:47:38+00:00"
   }
  ]
 }

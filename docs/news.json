@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T13:10:47+00:00",
+ "generatedAt": "2026-11-19T13:20:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "CTV News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "ffef7c361488aa79",
+   "title": "Chow to shuffle city hall leadership, decide whether to sit on Toronto police board",
+   "summary": "Olivia Chow is set to shuffle her leadership team at Toronto City Hall as new faces are set to be picked for high-profile committee roles.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12157656/olivia-chow-toronto-leadership/",
+   "date": "2026-11-19T13:11:21+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/9381e857fcbd5f98523b0a1d13252fa08c0c88091866a609bf35fa0052838219.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/9381e857fcbd5f98523b0a1d13252fa08c0c88091866a609bf35fa0052838219.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T13:20:01+00:00"
+  },
+  {
    "id": "da28dacabaf0124f",
    "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
    "summary": "The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:10:47+00:00"
@@ -336,7 +356,7 @@
   {
    "id": "2ec7c02657102938",
    "title": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China",
-   "summary": "The three leaders spoke about international peace and nuclear weapons as Trump called Putin a ‘friend’. Plus, yes, GTA VI is really finally here, and the critics have their verdict: masterpiece Good morning.",
+   "summary": "The three leaders spoke about international peace and nuclear weapons as Trump called Putin a ‘friend’. Plus, yes, GTA VI is really finally here, and the critics have their verdict: masterpiece Don’t already get First Thing in your inbox?",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
    "date": "2026-11-19T12:31:41+00:00",
@@ -958,6 +978,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T09:55:18+00:00"
+  },
+  {
+   "id": "28c303449f167489",
+   "title": "Xi-Trump-Putin statement warns world bodies not to 'abuse their jurisdiction' after APEC meeting",
+   "summary": "U.S. President Donald Trump and Chinese and Russian counterparts Xi Jinping and Vladimir Putin met for an unprecedented three-way meeting on Thursday, concluding their talks after more than an hour.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/trump-xi-putin-apec-meeting-9.7427718?cmp=rss",
+   "date": "2026-11-19T09:49:18+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/542bb6f5-d0b1-4acf-88ce-85c3757534a1,1795088754432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C289%2C5119%2C2879%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T13:20:01+00:00"
   },
   {
    "id": "f8eebc0bcd043148",
@@ -8229,46 +8268,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T10:28:11+00:00"
-  },
-  {
-   "id": "2e48341a1a911ef1",
-   "title": "Religious symbols ban for Quebec schoolchildren? Conservatives leave door open",
-   "summary": "Quebec Conservative Leader Eric Duhaime is leaving the door open to supporting the PQ government's plan to extend a religious symbols ban to elementary school students.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12153880/quebec-conservatives-pq-religious-symbols-ban-children/",
-   "date": "2026-11-17T10:00:20+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2025/08/CP174635347.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2025/08/CP174635347.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T10:09:28+00:00"
-  },
-  {
-   "id": "06650cf0a9496dc4",
-   "title": "Chaos as crackdown on illegal mining in Guinea causes wave of regional displacement",
-   "summary": "Ban on illegal artisanal mining triggers mass exodus and diplomatic tensions with neighbouring Sahel states In the border town of Kourémalé, split between Guinea and Mali, thousands of families have been trudging across the frontier over the past week after a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/17/guinea-mining-crackdown-illgal-exodus-sahel",
-   "date": "2026-11-17T10:00:10+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0d8cdefd132171b764db9f3d26c2ee2f77288fef/0_0_6626_5303/master/6626.jpg?width=700&quality=85&auto=format&fit=max&s=f04680e811e616d299b798a3df4d9eb7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T10:09:28+00:00"
   }
  ]
 }

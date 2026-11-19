@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T01:56:47+00:00",
+ "generatedAt": "2026-11-19T02:05:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -166,12 +166,34 @@
  ],
  "items": [
   {
+   "id": "a84d1d248302c696",
+   "title": "Hegseth unveils new US-Venezuela military deal",
+   "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+   "date": "2026-11-19T01:48:46+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795052903.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795052903.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T02:05:59+00:00"
+  },
+  {
    "id": "178f94915ff3cf34",
    "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
    "summary": "Asked by Fox News about China’s alleged spying operation, president says: ‘We spy on them too. I think we spy better than they do.’",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-19T01:39:21+00:00",
+   "date": "2026-11-19T01:43:27+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -513,6 +535,21 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T22:30:23+00:00"
+  },
+  {
+   "id": "acf120fffe64ed56",
+   "title": "Democrats nominate Jeffries for speaker, prep investigations into Trump's orbit",
+   "summary": "Democrats gave the official nod to Hakeem Jeffries to be the next speaker of the House. Meanwhile, Democrats are ramping up their plans to investigate the Trump administration come January.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit",
+   "date": "2026-11-18T22:01:19+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-19T02:05:59+00:00"
   },
   {
    "id": "42a1b96d2410b3ed",
@@ -8257,47 +8294,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:21:58+00:00"
-  },
-  {
-   "id": "ec3f9ec8dface42e",
-   "title": "U.S. Supreme Court set to hear 3 major Trump agenda immigration cases",
-   "summary": "The U.S. Supreme Court made at least two significant rulings to shape immigration policy last year. In the coming months, there will at least three more opinions that could be impactful, as U.S.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/us-scotus-major-immigration-cases-9.7423295?cmp=rss",
-   "date": "2026-11-16T19:39:34+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/cf928dd0-cdfc-4ebc-8512-424d2b6fe65d,1794850952207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4995%2C2809%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T19:44:24+00:00"
-  },
-  {
-   "id": "5fd325fbc77a4a01",
-   "title": "Leave.EU and Vote Leave veterans launch rival campaigns to defend Brexit",
-   "summary": "Andy Wigmore says there will be no animosity this time between his Enough Official group and Michael Gove-backed Stay Out movement The Brexit wars were a bitter period in political history, fraught with tension and badmouthing – and that was just between the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit",
-   "date": "2026-11-16T19:38:45+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Peter Byrne/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f3c3c6f70f587ec003b3db770a4f62ade49142c9/80_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=886fafabcd5b45640316f4d75fddb782",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T19:44:24+00:00"
   }
  ]
 }

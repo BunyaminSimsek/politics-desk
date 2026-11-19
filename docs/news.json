@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T05:29:08+00:00",
+ "generatedAt": "2026-11-19T05:38:15+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9734e9d44f73179fe8d05ffbe6249bf97bea3d45/0_41_1284_1027/master/1284.jpg?width=700&quality=85&auto=format&fit=max&s=e52b0a512012d40939e7c82be58b2d88",
-    "w": 700,
+    "credit": "Illustration: Image courtesy NLA",
     "h": 560,
-    "credit": "Illustration: Image courtesy NLA"
+    "url": "https://i.guim.co.uk/img/media/9734e9d44f73179fe8d05ffbe6249bf97bea3d45/0_41_1284_1027/master/1284.jpg?width=700&quality=85&auto=format&fit=max&s=e52b0a512012d40939e7c82be58b2d88",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T05:29:08+00:00"
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T032241Z_525030841_RC23QOASLZPW_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT-1795006680.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T032241Z_525030841_RC23QOASLZPW_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT-1795006680.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T032241Z_525030841_RC23QOASLZPW_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT-1795006680.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T032241Z_525030841_RC23QOASLZPW_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT-1795006680.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T05:29:08+00:00"

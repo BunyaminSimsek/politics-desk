@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T19:16:32+00:00",
+ "generatedAt": "2026-11-19T19:25:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 30
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -166,6 +166,66 @@
  ],
  "items": [
   {
+   "id": "ec90b959028157df",
+   "title": "Rohingya survivors react to landmark genocide ruling against Myanmar",
+   "summary": "Rohingya refugees in Bangladesh and an activist in New York react as the UN's top court rules Myanmar committed genocide",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss",
+   "date": "2026-11-19T19:16:34+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115764.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115764.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": true,
+   "addedAt": "2026-11-19T19:25:59+00:00"
+  },
+  {
+   "id": "b5502e0ebc980de5",
+   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+   "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T19:16:21+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T19:25:59+00:00"
+  },
+  {
+   "id": "943a93e5b42d3c93",
+   "title": "Man protests on roof of Spanish embassy over Fergie Chambers extradition",
+   "summary": "A man protested on the roof of Spain’s embassy in London against the extradition of US media heir Fergie Chambers.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/man-protests-on-roof-of-spanish-embassy-over-fergie-chambers-extradition?traffic_source=rss",
+   "date": "2026-11-19T19:15:10+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115693.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795115693.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T19:25:59+00:00"
+  },
+  {
    "id": "eece29be197a2b16",
    "title": "Canada seeking interim trade arrangement with U.S. by end of year: sources",
    "summary": "Canada is seeking to reach an interim tariff arrangement with the Trump administration by the end of the year, rather than a full trade deal, sources tell CBC News.",
@@ -179,9 +239,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/16d3b3d3-9946-4196-9946-fa4fdde33cd3,1795114459825/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C412%2C7526%2C4233%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/16d3b3d3-9946-4196-9946-fa4fdde33cd3,1795114459825/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C412%2C7526%2C4233%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:16:32+00:00"
@@ -200,10 +260,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/751d97ed396bc08de15e2bc52aafe1c378b97113/522_0_2646_2117/master/2646.jpg?width=700&quality=85&auto=format&fit=max&s=358d1076d93efd0df820261f96fbb514",
-    "w": 700,
+    "credit": "Photograph: Florion Goga/Reuters",
     "h": 560,
-    "credit": "Photograph: Florion Goga/Reuters"
+    "url": "https://i.guim.co.uk/img/media/751d97ed396bc08de15e2bc52aafe1c378b97113/522_0_2646_2117/master/2646.jpg?width=700&quality=85&auto=format&fit=max&s=358d1076d93efd0df820261f96fbb514",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:16:32+00:00"
@@ -1784,7 +1844,7 @@
   {
    "id": "144f0711e6f6d6a5",
    "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
-   "summary": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognised Guardian Australia journalists have won two Walkley awards, one for a story about the systemic betrayal of a woman who was…",
+   "summary": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognised Get our breaking news email , free app or daily news podcast Guardian Australia journalists have won two Walkley awards, one…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
    "date": "2026-11-19T11:13:32+00:00",
@@ -8182,70 +8242,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T08:27:48+00:00"
-  },
-  {
-   "id": "d9f6d74fe11ff889",
-   "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
-   "summary": "Partial demolition of bridge linking Russia and occupied Crimea is obvious embarrassment to Putin days before meeting with Xi and Trump Europe live – latest updates Ukraine’s attack on the Kerch road bridge overnight is the culmination of weeks, and perhaps…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
-   "date": "2026-11-17T16:40:26+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: VANTOR/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6e5067fd3f834e6d5b85601c27ba90c5e02e9e24/1481_0_6287_5030/master/6287.jpg?width=700&quality=85&auto=format&fit=max&s=4296225f4d45128a6eaf81d1c0ef8e35",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T16:59:26+00:00"
-  },
-  {
-   "id": "8cd3c59916c7e3df",
-   "title": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
-   "summary": "Ukraine’s president says Russia continues to attack the country with Shaheed drones, cruise missiles, and, ballistic missiles Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "date": "2026-11-17T16:40:21+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Xinhua/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7b3f958711df37a4e270dd08ada3259ad62ef273/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=0e981116ef15e5241fcc46a41038d8ae",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T09:51:02+00:00"
-  },
-  {
-   "id": "d5b5e39a22be5866",
-   "title": "Photos: Tens of thousands rally in France over living standards and wages",
-   "summary": "France witnesses its third major public sector strike since September, as protests highlight wage and service concerns.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
-   "date": "2026-11-17T16:39:01+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PV2QT__v1__HighRes__FrancePoliticsSocialLabourUnionsStrikeDemo-1794923086.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PV2QT__v1__HighRes__FrancePoliticsSocialLabourUnionsStrikeDemo-1794923086.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T17:08:40+00:00"
   }
  ]
 }

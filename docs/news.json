@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T17:43:23+00:00",
+ "generatedAt": "2026-11-19T17:52:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "CBC World",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ca1f1aed0ae22e539ea1748d91c405eae550b667/469_0_4688_3751/master/4688.jpg?width=700&quality=85&auto=format&fit=max&s=cb5062ff065771a62df5720a7dfed73a",
-    "w": 700,
+    "credit": "Photograph: Stefan Rousseau/PA",
     "h": 560,
-    "credit": "Photograph: Stefan Rousseau/PA"
+    "url": "https://i.guim.co.uk/img/media/ca1f1aed0ae22e539ea1748d91c405eae550b667/469_0_4688_3751/master/4688.jpg?width=700&quality=85&auto=format&fit=max&s=cb5062ff065771a62df5720a7dfed73a",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T17:43:23+00:00"
@@ -303,10 +303,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4e7b/live/e701d890-e43a-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4e7b/live/e701d890-e43a-11f1-99b6-a35a62fa4264.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4e7b/live/e701d890-e43a-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4e7b/live/e701d890-e43a-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T17:43:23+00:00"
@@ -1343,7 +1343,7 @@
   {
    "id": "d4d7c2a2b380a56b",
    "title": "Chow turns down police board seat, sticks with deputy mayor roster",
-   "summary": "Mayor Olivia Chow is again turning down a post on the Toronto police board while opting to stick with the same roster of deputy mayors as when she finished her first term.",
+   "summary": "Mayor Olivia Chow again turned down a post on the Toronto police board Thursday. She also opted to shake up high-profile committee roles, charging newly elected and veteran allies with key positions.",
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/oliva-chow-city-hall-leadership-police-board-9.7427743?cmp=rss",
    "date": "2026-11-19T12:20:49+00:00",

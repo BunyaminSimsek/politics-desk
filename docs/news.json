@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T03:37:51+00:00",
+ "generatedAt": "2026-11-19T03:47:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,48 @@
   }
  ],
  "items": [
+  {
+   "id": "bef9892dbf553562",
+   "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
+   "summary": "Jobless rate rises from 4.7% to 4.9% in October, Bureau of Statistics figures reveal Get our daily political email , free app or daily news podcast Australia may already have “one foot in recession” after unemployment surged to 4.9% in October, from 4.7%, in…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
+   "date": "2026-11-19T03:32:42+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: SOPA Images/LightRocket/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ccbba5c44390f21ce8f21f8caaf8486c31bac8c4/529_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=3a6a8e98b1d1f2d76b399ad60059cd79",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T01:47:34+00:00"
+  },
+  {
+   "id": "795335d36de6af32",
+   "title": "APEC Live: Trump, Xi and Putin to meet in historic three-way China summit",
+   "summary": "The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+   "date": "2026-11-19T03:30:26+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afe505f486a3-1795051615.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afe505f486a3-1795051615.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T03:47:29+00:00"
+  },
   {
    "id": "178f94915ff3cf34",
    "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – as it happened",
@@ -308,28 +350,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T02:05:59+00:00"
-  },
-  {
-   "id": "bef9892dbf553562",
-   "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
-   "summary": "Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures reveal Get our daily political email , free app or daily news podcast Australia may already have “one foot in recession” after unemployment surged to 4.9% in October, from…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
-   "date": "2026-11-19T01:12:55+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: SOPA Images/LightRocket/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ccbba5c44390f21ce8f21f8caaf8486c31bac8c4/529_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=3a6a8e98b1d1f2d76b399ad60059cd79",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T01:47:34+00:00"
   },
   {
    "id": "dc8971aae4da6e37",
@@ -487,9 +507,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0bea4533-5871-4a58-8c5f-090f832ae67d,1795041393364/full/max/0/default.jpg?im=Crop%2Crect%3D%28126%2C0%2C8424%2C4738%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0bea4533-5871-4a58-8c5f-090f832ae67d,1795041393364/full/max/0/default.jpg?im=Crop%2Crect%3D%28126%2C0%2C8424%2C4738%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T23:35:47+00:00"
@@ -8259,28 +8279,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T20:58:48+00:00"
-  },
-  {
-   "id": "bf8b87e647986e48",
-   "title": "Ecuadorian politicians warn about legal provisions in free trade deal",
-   "summary": "OTTAWA - Twenty-five former cabinet ministers and former heads of parliament in Ecuador are warning that some provisions in the Canada-Ecuador free trade deal are putting the countries' economic relationship at risk.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/ecuadorian-politicians-warn-about-legal-provisions-in-free-trade-deal/article_4d246c70-09b1-5b85-9b0a-a311e901fc3b.html",
-   "date": "2026-11-16T20:41:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 819,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/53/6536c3a2-b4aa-5b16-bc9e-6f11d164a230/6afb6b5b82f05.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/53/6536c3a2-b4aa-5b16-bc9e-6f11d164a230/6afb6b5b82f05.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T00:26:31+00:00"
   }
  ]
 }

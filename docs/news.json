@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T17:34:16+00:00",
+ "generatedAt": "2026-11-19T17:43:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 32
+   "kept": 31
   },
   {
    "source": "The Guardian",
@@ -166,32 +166,34 @@
  ],
  "items": [
   {
-   "id": "74f73557d62f47a2",
-   "title": "Is Europe now in the shadow of a Trump, Putin and Xi alliance? – podcast",
-   "summary": "Andy Burnham is meeting western leaders in Berlin and Brussels this week, to discuss Ukraine and closer ties to the EU. Meanwhile, Donald Trump, Vladimir Putin and Xi Jinping have met at the Apec summit in China.",
+   "id": "fd737119107954c7",
+   "title": "Jimmy Dimly is back and we should treasure him while we can | John Crace",
+   "summary": "Old-school Tory with a heart wants to make London fun again – just don’t mention Brexit Tories select James Cleverly as candidate for London mayor Sooner or later, Sadiq Khan’s luck was bound to run out. Or was it?",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
-   "date": "2026-11-19T17:23:36+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
+   "url": "https://www.theguardian.com/politics/2026/nov/19/james-cleverly-london-mayor-john-crace-sketch",
+   "date": "2026-11-19T17:38:48+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3474c8032549af7447dd4759a18eff0069ccaf84/323_0_3599_2880/master/3599.jpg?width=700&quality=85&auto=format&fit=max&s=b5415f0c2f2c7a7aca17ffc2a0b53901",
+    "url": "https://i.guim.co.uk/img/media/ca1f1aed0ae22e539ea1748d91c405eae550b667/469_0_4688_3751/master/4688.jpg?width=700&quality=85&auto=format&fit=max&s=cb5062ff065771a62df5720a7dfed73a",
     "w": 700,
     "h": 560,
-    "credit": "Photograph: Greg Baker/AFP/Getty Images"
+    "credit": "Photograph: Stefan Rousseau/PA"
    },
    "breaking": false,
-   "addedAt": "2026-11-19T17:34:16+00:00"
+   "addedAt": "2026-11-19T17:43:23+00:00"
   },
   {
    "id": "5ac6485bd7372da0",
    "title": "Ukraine allies warn ‘Yalta format’ will not bring about peace – Europe live",
-   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting with Xi in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of…",
+   "summary": "Berlin meeting of the ‘coalition of the willing’ comes after Trump declared Putin a ‘friend’ during trilateral meeting with Xi in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T17:21:31+00:00",
+   "date": "2026-11-19T17:38:35+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [],
@@ -204,6 +206,110 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T09:00:04+00:00"
+  },
+  {
+   "id": "db18c3c5862651cb",
+   "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+   "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T17:38:22+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T15:31:30+00:00"
+  },
+  {
+   "id": "3fdc8c957706c74f",
+   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
+   "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T17:29:33+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Composite: Guardian Design",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=69e37efbef416d8cbf6343ef33aef9ac",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:18:37+00:00"
+  },
+  {
+   "id": "c38a95a63f92a4f3",
+   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-19T17:27:24+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:18:33+00:00"
+  },
+  {
+   "id": "74f73557d62f47a2",
+   "title": "Is Europe now in the shadow of a Trump, Putin and Xi alliance? – podcast",
+   "summary": "Andy Burnham is meeting western leaders in Berlin and Brussels this week, to discuss Ukraine and closer ties to the EU. Meanwhile, Donald Trump, Vladimir Putin and Xi Jinping have met at the Apec summit in China.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
+   "date": "2026-11-19T17:23:36+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Greg Baker/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3474c8032549af7447dd4759a18eff0069ccaf84/323_0_3599_2880/master/3599.jpg?width=700&quality=85&auto=format&fit=max&s=b5415f0c2f2c7a7aca17ffc2a0b53901",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T17:34:16+00:00"
+  },
+  {
+   "id": "53599df9cd5d5c7e",
+   "title": "What did Trump, Xi and Putin get out of their historic meeting?",
+   "summary": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T17:23:29+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4e7b/live/e701d890-e43a-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4e7b/live/e701d890-e43a-11f1-99b6-a35a62fa4264.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T17:43:23+00:00"
   },
   {
    "id": "5107e59575ddcbbf",
@@ -237,10 +343,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afd67b86b20-1794992056.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afd67b86b20-1794992056.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afd67b86b20-1794992056.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afd67b86b20-1794992056.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T17:34:16+00:00"
@@ -257,10 +363,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/12a1d2778195e55812e2b14410698d1ff3269a45/107_0_5160_4128/master/5160.jpg?width=700&quality=85&auto=format&fit=max&s=a3cb4fa30958ea89c7f814c427f834e0",
-    "w": 700,
+    "credit": "Photograph: Yassin Abdumonab/EPA",
     "h": 560,
-    "credit": "Photograph: Yassin Abdumonab/EPA"
+    "url": "https://i.guim.co.uk/img/media/12a1d2778195e55812e2b14410698d1ff3269a45/107_0_5160_4128/master/5160.jpg?width=700&quality=85&auto=format&fit=max&s=a3cb4fa30958ea89c7f814c427f834e0",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T17:34:16+00:00"
@@ -277,10 +383,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/8a7d32d3197bc67811a5805eb05a308525f47b92/153_59_1632_1306/master/1632.jpg?width=700&quality=85&auto=format&fit=max&s=37ccd4a9b84363c62c43287a1c2046b5",
-    "w": 700,
+    "credit": "Photograph: White House Office/APAImages/Shutterstock",
     "h": 560,
-    "credit": "Photograph: White House Office/APAImages/Shutterstock"
+    "url": "https://i.guim.co.uk/img/media/8a7d32d3197bc67811a5805eb05a308525f47b92/153_59_1632_1306/master/1632.jpg?width=700&quality=85&auto=format&fit=max&s=37ccd4a9b84363c62c43287a1c2046b5",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T16:00:15+00:00"
@@ -297,10 +403,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9a7a08432aefc55cf68fcacd78775e012efb2000/480_0_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=ef44d319955edcae3a41bbc66425c544",
-    "w": 700,
+    "credit": "Photograph: Mandel Ngan/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Mandel Ngan/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/9a7a08432aefc55cf68fcacd78775e012efb2000/480_0_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=ef44d319955edcae3a41bbc66425c544",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T17:34:16+00:00"
@@ -324,50 +430,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:57:52+00:00"
-  },
-  {
-   "id": "3fdc8c957706c74f",
-   "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
-   "summary": "The Guardian’s UK politics blogger is conducting a live Q&A These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T17:10:30+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Composite: Guardian Design",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=69e37efbef416d8cbf6343ef33aef9ac",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:18:37+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T17:05:19+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e8622d8b1bde50c44f1baf2cc3dcd5ed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "f5974850414e0694",
@@ -471,7 +533,7 @@
   {
    "id": "a2c201027f0695c9",
    "title": "Poilievre brushes off questions about staff departures from his office",
-   "summary": "SAINT-HYACINTHE - Federal Conservative Leader Pierre Poilievre brushed off questions today about the departure of five staffers from his office.",
+   "summary": "SAINT-HYACINTHE - Pierre Poilievre brushed off a suggestion his leadership of the federal Conservative party needs rebranding Thursday following the departure of five staffers from his office.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/poilievre-brushes-off-questions-about-staff-departures-from-his-office/article_a74353e6-2647-50d9-a894-df13997f231c.html",
    "date": "2026-11-19T16:32:31+00:00",
@@ -725,28 +787,8 @@
    "addedAt": "2026-11-19T15:40:51+00:00"
   },
   {
-   "id": "db18c3c5862651cb",
-   "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-   "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T15:23:34+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T15:31:30+00:00"
-  },
-  {
    "id": "70ca065fe6f88077",
-   "title": "Liberals expected to face House of Commons vote on Budget 2026 today",
+   "title": "Liberals expected to face House of Commons vote on Budget 2026",
    "summary": "OTTAWA - The federal Liberals are expected to face a vote Thursday in the House of Commons on their 2026 budget.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/liberals-expected-to-face-house-of-commons-vote-on-budget-2026-today/article_21935b2f-5ff9-5445-b81d-39920771cc26.html",
@@ -8209,46 +8251,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T15:44:10+00:00"
-  },
-  {
-   "id": "50db40d0a9e0fa6a",
-   "title": "Should JD Vance run for president? I say go for it, habibi! | Arwa Mahdawi",
-   "summary": "Now the vice-president’s luck is turning, he seems reluctant to commit himself to the next presidential race – and I, for one, hate to see it How do you think history will remember JD Vance?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/17/should-jd-vance-run-for-president-2028",
-   "date": "2026-11-17T15:21:32+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tom Brenner/Pool Getty Images North America/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/803bd64e074f236e8905ea052c853dcff41d607e/983_347_3872_3098/master/3872.jpg?width=700&quality=85&auto=format&fit=max&s=d16a18dfc830f7bb3236ecf829ef7c63",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T15:34:58+00:00"
-  },
-  {
-   "id": "1fa59fbdf9fc3fac",
-   "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
-   "summary": "President Donald Trump responded to a CNN report that Iran was working on plans to attack Washington, DC",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
-   "date": "2026-11-17T15:13:57+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794928429.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794928429.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T15:16:34+00:00"
   }
  ]
 }

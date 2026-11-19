@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T16:28:21+00:00",
+ "generatedAt": "2026-11-19T16:37:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "CBC World",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "BBC News",
@@ -177,12 +177,32 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/fc0a7693-6925-42e7-ad0f-c90c0349baf1,1795104733311/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C423%2C8130%2C4573%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/fc0a7693-6925-42e7-ad0f-c90c0349baf1,1795104733311/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C423%2C8130%2C4573%29%3B"
    },
    "breaking": true,
    "addedAt": "2026-11-19T15:21:53+00:00"
+  },
+  {
+   "id": "947e6ec924674139",
+   "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+   "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T16:19:23+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T16:37:59+00:00"
   },
   {
    "id": "c38a95a63f92a4f3",
@@ -218,10 +238,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/4e0b4c5c18a104b80eb856eb0e127b220dae2103/219_0_3448_2758/master/3448.jpg?width=700&quality=85&auto=format&fit=max&s=223e98dfbdb263af032d790f5058d24e",
-    "w": 700,
+    "credit": "Photograph: Yassin Abdumonab/EPA",
     "h": 560,
-    "credit": "Photograph: Yassin Abdumonab/EPA"
+    "url": "https://i.guim.co.uk/img/media/4e0b4c5c18a104b80eb856eb0e127b220dae2103/219_0_3448_2758/master/3448.jpg?width=700&quality=85&auto=format&fit=max&s=223e98dfbdb263af032d790f5058d24e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T16:28:21+00:00"
@@ -370,7 +390,7 @@
   {
    "id": "a31b1a585cb24ffe",
    "title": "Ottawa to study Divorce Act reform to address family violence",
-   "summary": "OTTAWA - The federal government says it's launching a study of ways to strengthen the Divorce Act, one day after critics condemned its handling of a private member’s bill that sought to curb parental alienation claims.",
+   "summary": "OTTAWA - The federal government says it's launching a study of ways to strengthen the Divorce Act — one day after critics condemned its handling of a private member's bill that sought to curb parental alienation claims.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/ottawa-to-study-divorce-act-reform-to-address-family-violence/article_1f4a4250-9ba2-5812-9fa6-3e638883c2c6.html",
    "date": "2026-11-19T15:53:19+00:00",
@@ -1083,8 +1103,8 @@
   },
   {
    "id": "d4d7c2a2b380a56b",
-   "title": "Chow to decide on city hall leadership, whether to join Toronto police board",
-   "summary": "Olivia Chow is set to shuffle her leadership team at Toronto City Hall as new faces are set to be picked for high-profile committee roles.",
+   "title": "Chow turns down police board seat, sticks with deputy mayor roster",
+   "summary": "Mayor Olivia Chow is again turning down a post on the Toronto police board while opting to stick with the same roster of deputy mayors as when she finished her first term.",
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/oliva-chow-city-hall-leadership-police-board-9.7427743?cmp=rss",
    "date": "2026-11-19T12:20:49+00:00",
@@ -1093,9 +1113,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/958d3b74-11de-4047-af2d-400ba4df0b48,1790621311540/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C309%2C5931%2C3336%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/958d3b74-11de-4047-af2d-400ba4df0b48,1790621311540/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C309%2C5931%2C3336%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-19T12:32:34+00:00"
@@ -8242,26 +8262,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T14:29:24+00:00"
-  },
-  {
-   "id": "0e0539f62700502c",
-   "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
-   "summary": "Settler group also sanctioned for blocking Gaza aid as foreign secretary calls for 'protecting the two-state solution'.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss",
-   "date": "2026-11-17T14:09:08+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc4bc538-1794919365.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc4bc538-1794919365.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T14:20:10+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T03:10:27+00:00",
+ "generatedAt": "2026-11-19T03:19:34+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "37c37d496ab051a8",
+   "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+   "summary": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+   "date": "2026-11-19T03:01:27+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795057277.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795057277.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T03:19:34+00:00"
+  },
+  {
    "id": "253230d17cbe0959",
    "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
    "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
@@ -186,6 +206,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T02:15:18+00:00"
+  },
+  {
+   "id": "dfbfb0dfd8f81e95",
+   "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+   "summary": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+   "date": "2026-11-19T02:57:19+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afd95b92724-1795003833_223de5-1795004696.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afd95b92724-1795003833_223de5-1795004696.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T03:19:34+00:00"
   },
   {
    "id": "178f94915ff3cf34",
@@ -356,7 +396,7 @@
   {
    "id": "63f8d093e7784231",
    "title": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
-   "summary": "Trump has claimed that Iran is seeking to develop biological weapons as the Saudi-led coalition combats Houthi missiles.",
+   "summary": "Trump claims Iran is seeking to develop biological weapons, as the Saudi-led coalition combats Houthi missiles.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
    "date": "2026-11-19T00:01:02+00:00",
@@ -8241,46 +8281,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T00:26:31+00:00"
-  },
-  {
-   "id": "1d4cc0267292caf8",
-   "title": "Ontario tables law to more quickly deal with intimate image abuse",
-   "summary": "The proposed new statutory tort giving those victims access to civil remedies is contained in an omnibus bill introduced on Monday.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12153377/ontario-tables-law-to-more-quickly-deal-with-intimate-image-abuse/",
-   "date": "2026-11-16T20:16:53+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 422,
-    "small": "https://globalnews.ca/wp-content/uploads/2018/09/cell-phone-internet-social-media.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2018/09/cell-phone-internet-social-media.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 720
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T20:21:58+00:00"
-  },
-  {
-   "id": "542b5ebf64de7475",
-   "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-   "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T20:16:15+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9a51/live/78372760-e180-11f1-9386-1b849272ca8f.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-15T18:08:59+00:00"
   }
  ]
 }

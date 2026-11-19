@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T11:55:17+00:00",
+ "generatedAt": "2026-11-19T12:04:32+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 28
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "b3ec3e30f40da899",
+   "title": "Robert Pattinson to apply for 90,000 more jobs? UK government trolls James Bond actor",
+   "summary": "Westminster joins wave of ‘job-stealing’ memes after the actor’s late success edging out the other contenders to be the new 007 Everybody is trying to get a piece of the Bond action: even the UK government.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/film/2026/nov/19/robert-pattinson-james-bond-uk-government-youth-employment-scheme",
+   "date": "2026-11-19T11:44:55+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/bb255340ff495a85f3d9dc53a59fe54325fe236c/1599_118_3154_2524/master/3154.jpg?width=700&quality=85&auto=format&fit=max&s=30de8b4c0986ba6e8ee33cbd91f5c0fe",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Evan Agostini/Invision/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T12:04:32+00:00"
+  },
+  {
    "id": "c38a95a63f92a4f3",
    "title": "Hakeem Jeffries on brink of Senate history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
    "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Elon Musk denied being Maga on Wednesday, despite aligning himself intensely with Donald Trump’s Make America Great Again movement since 2024.",
@@ -186,6 +206,26 @@
    "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
+   "id": "5ac6485bd7372da0",
+   "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
+   "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+   "date": "2026-11-19T11:43:09+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Fabrizio Bensch/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/194326eb18d0979185a01324bf8eb4f154a041d2/270_0_4520_3616/master/4520.jpg?width=700&quality=85&auto=format&fit=max&s=97db544bd77deeba36756638777aa8ac",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T09:00:04+00:00"
+  },
+  {
    "id": "ddf29dc290aa4147",
    "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
    "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
@@ -204,26 +244,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:46:12+00:00"
-  },
-  {
-   "id": "5ac6485bd7372da0",
-   "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
-   "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T11:37:39+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Fabrizio Bensch/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/194326eb18d0979185a01324bf8eb4f154a041d2/270_0_4520_3616/master/4520.jpg?width=700&quality=85&auto=format&fit=max&s=97db544bd77deeba36756638777aa8ac",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T09:00:04+00:00"
   },
   {
    "id": "0388a3d7701dd241",
@@ -455,7 +475,7 @@
   },
   {
    "id": "2b645771c67d91ed",
-   "title": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
+   "title": "UN top court finds Myanmar guilty of genocide against Rohingya",
    "summary": "In case filed at the ICJ in 2019, The Gambia accused Myanmar of breaching the 1948 Genocide Convention.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
@@ -629,9 +649,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/59400894-0f50-4862-a63e-db5a4108dbfa,1795078501939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C371%2C5000%2C2812%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/59400894-0f50-4862-a63e-db5a4108dbfa,1795078501939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C371%2C5000%2C2812%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-19T09:55:18+00:00"
@@ -648,9 +668,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/542bb6f5-d0b1-4acf-88ce-85c3757534a1,1795088754432/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C289%2C5119%2C2879%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/00867b0d-2b07-4035-8e6a-f5591803d19a,1795081108142/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C398%2C6358%2C3576%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-19T09:55:18+00:00"
@@ -8241,26 +8261,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/c213f20f82c61fd3ee1039ccda6aee6e28596124/135_0_3648_2919/master/3648.jpg?width=700&quality=85&auto=format&fit=max&s=e89911f9969a745d1e2999bda66e877e",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T07:14:39+00:00"
-  },
-  {
-   "id": "47fa28a061ef6199",
-   "title": "Will Netanyahu lose this time?",
-   "summary": "The Israeli prime minister has manoeuvred out of tough situations to retain power. But he may find it hard this time.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose?traffic_source=rss",
-   "date": "2026-11-17T06:53:23+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af341040cae-1794326788_795ac6-1794898337.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af341040cae-1794326788_795ac6-1794898337.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-17T07:14:39+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T16:00:15+00:00",
+ "generatedAt": "2026-11-19T16:09:28+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 48
   },
   {
    "source": "BBC News",
@@ -166,6 +166,21 @@
  ],
  "items": [
   {
+   "id": "03155278eabe1237",
+   "title": "The midterms were the largest win for either party in 50 years",
+   "summary": "Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
+   "date": "2026-11-19T15:55:05+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-19T16:09:28+00:00"
+  },
+  {
    "id": "5ac6485bd7372da0",
    "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
    "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or…",
@@ -186,6 +201,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T09:00:04+00:00"
+  },
+  {
+   "id": "a31b1a585cb24ffe",
+   "title": "Ottawa to study Divorce Act reform to address family violence",
+   "summary": "OTTAWA - The federal government says it's launching a study of ways to strengthen the Divorce Act, one day after critics condemned its handling of a private member’s bill that sought to curb parental alienation claims.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/ottawa-to-study-divorce-act-reform-to-address-family-violence/article_1f4a4250-9ba2-5812-9fa6-3e638883c2c6.html",
+   "date": "2026-11-19T15:53:19+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/8e/a8e589d8-8639-5e5b-9957-de9f00ce6ede/6af8406179e4a.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 761,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/8e/a8e589d8-8639-5e5b-9957-de9f00ce6ede/6af8406179e4a.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T16:09:28+00:00"
   },
   {
    "id": "3fdc8c957706c74f",
@@ -221,10 +256,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3474c8032549af7447dd4759a18eff0069ccaf84/337_0_3599_2880/master/3599.jpg?width=700&quality=85&auto=format&fit=max&s=500128b4bc19940ba950eb4e00d24b1f",
-    "w": 700,
+    "credit": "Photograph: Greg Baker/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Greg Baker/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/3474c8032549af7447dd4759a18eff0069ccaf84/337_0_3599_2880/master/3599.jpg?width=700&quality=85&auto=format&fit=max&s=500128b4bc19940ba950eb4e00d24b1f",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T16:00:15+00:00"
@@ -8230,47 +8265,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T10:47:11+00:00"
-  },
-  {
-   "id": "dbb62be151916a35",
-   "title": "At the origin of France’s education protests, students refuse to give up",
-   "summary": "Blockades continue at some schools in the Parisian suburbs as students and teachers say little has improved.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss",
-   "date": "2026-11-17T13:14:25+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/students_SS-1794915071.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/students_SS-1794915071.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T13:34:01+00:00"
-  },
-  {
-   "id": "ab2addd331948ea5",
-   "title": "Iran and U.S. trade fire as Iran denies reports of planned dirty bomb attack in D.C.",
-   "summary": "The U.S. and Iran exchanged fire on Tuesday, with the U.S. striking an Iranian missile launch site after Iran said it targeted a U.S. military radar system in Bahrain, despite talks between ‌Iran and mediators Oman and Qatar to end the conflict.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/iran-us-war-bahrain-drones-dirty-bomb-report-9.7424686?cmp=rss",
-   "date": "2026-11-17T13:07:05+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/ef110316-0624-4a82-a940-e914c5ca75a5,1794919046156/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C838%2C8293%2C4664%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T15:06:57+00:00"
   }
  ]
 }

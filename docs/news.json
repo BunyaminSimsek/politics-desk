@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T21:27:57+00:00",
+ "generatedAt": "2026-11-19T21:37:11+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "CBC World",
@@ -237,10 +237,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-20.42.20-1795121060.png?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-20.42.20-1795121060.png?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-20.42.20-1795121060.png?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-20.42.20-1795121060.png?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T21:27:57+00:00"
@@ -278,10 +278,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc71bd7d1d-1794929085.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc71bd7d1d-1794929085.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc71bd7d1d-1794929085.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc71bd7d1d-1794929085.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T21:27:57+00:00"
@@ -690,16 +690,14 @@
   },
   {
    "id": "eece29be197a2b16",
-   "title": "Canada seeking interim trade arrangement with U.S. by end of year: sources",
-   "summary": "Canada is seeking to reach an interim tariff arrangement with the Trump administration by the end of the year, rather than a full trade deal, sources tell CBC News.",
-   "source": "CBC News",
+   "title": "Canada seeking interim trade arrangement with U.S. by end of year",
+   "summary": "Canada is seeking to reach an interim tariff arrangement with the Trump administration by the end of the year, according to members of the federal government's Canada-U.S. advisory committee.",
+   "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/politics/canada-seeking-interim-trade-arrangment-9.7428540?cmp=rss",
    "date": "2026-11-19T19:04:59+00:00",
    "topic": "federal",
    "region": "local",
-   "tags": [
-    "trade"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
     "caption": "",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T01:37:39+00:00",
+ "generatedAt": "2026-11-19T01:47:34+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 27
   },
   {
    "source": "The Guardian",
@@ -167,23 +167,45 @@
  "items": [
   {
    "id": "178f94915ff3cf34",
-   "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
-   "summary": "US transportation secretary Sean Duffy blames contractor L3Harris for national ground stoppage and says ‘this was not identified quick enough’",
+   "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
+   "summary": "Asked by Fox News about China’s alleged spying operation, president says: ‘We spy on them too. I think we spy better than they do.’",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "date": "2026-11-19T01:22:35+00:00",
+   "date": "2026-11-19T01:39:21+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Jacquelyn Martin/AP",
+    "url": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=700&quality=85&auto=format&fit=max&s=ba20d55057ae66a6c50b0dd1aafff4a8",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c68dddfa25517e4a836d6347550de143282f7f6c/434_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=79a2cb3c555ed61dc1667b2790d1399e",
-    "w": 700
+    "credit": "Photograph: Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:00:21+00:00"
+  },
+  {
+   "id": "bef9892dbf553562",
+   "title": "Pre-Christmas rate hike unlikely as unemployment rate jumps to highest level in five years",
+   "summary": "Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures reveal Get our daily political email , free app or daily news podcast Australia may already have “one foot in recession” after unemployment surged to 4.9% in October, from…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
+   "date": "2026-11-19T01:12:55+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ccbba5c44390f21ce8f21f8caaf8486c31bac8c4/529_0_4164_3333/master/4164.jpg?width=700&quality=85&auto=format&fit=max&s=3a6a8e98b1d1f2d76b399ad60059cd79",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: SOPA Images/LightRocket/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T01:47:34+00:00"
   },
   {
    "id": "dc8971aae4da6e37",
@@ -341,9 +363,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0bea4533-5871-4a58-8c5f-090f832ae67d,1795041393364/full/max/0/default.jpg?im=Crop%2Crect%3D%28126%2C0%2C8424%2C4738%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0bea4533-5871-4a58-8c5f-090f832ae67d,1795041393364/full/max/0/default.jpg?im=Crop%2Crect%3D%28126%2C0%2C8424%2C4738%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-18T23:35:47+00:00"
@@ -8276,25 +8298,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-16T19:44:24+00:00"
-  },
-  {
-   "id": "980c8e52747ac854",
-   "title": "Carney arrives in China for meeting with Xi Jinping, Asia-Pacific summit",
-   "summary": "Prime Minister Mark Carney arrived in China on Monday, where he is set to meet with Chinese President Xi Jinping and leaders from across the Pacific Rim.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/carney-china-xi-apec-9.7423904?cmp=rss",
-   "date": "2026-11-16T19:21:16+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/d9272fdb-c08b-4c37-a668-0bd8977ff4b5,1794856339624/full/max/0/default.jpg?im=Crop%2Crect%3D%281683%2C525%2C5758%2C3238%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-16T19:25:10+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T05:10:16+00:00",
+ "generatedAt": "2026-11-20T05:19:35+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -179,13 +179,53 @@
    ],
    "kind": "news",
    "image": {
-    "h": 750,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9534/live/be6f9f00-e432-11f1-99a1-253766e7ad8b.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9534/live/be6f9f00-e432-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-20T01:02:09+00:00"
+  },
+  {
+   "id": "0388a3d7701dd241",
+   "title": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
+   "summary": "Former NSW opposition leader warns party against being ‘One Nation lite’ as he became eighth out of 24 Liberal MPs not to recontest seat in March Get our breaking news email , free app or daily news podcast The New South Wales opposition leader, Kellie…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
+   "date": "2026-11-20T05:02:16+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Bianca de Marchi/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3efee6d1eaff0fd0c1f56834a875969ecd396eb3/2910_595_6221_4977/master/6221.jpg?width=700&quality=85&auto=format&fit=max&s=d6fa57a73e497949cbb0acee0fc728b6",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:27:43+00:00"
+  },
+  {
+   "id": "26c67f7aec1ed250",
+   "title": "Iraq university’s removal of male professors teaching women sparks weeks of protests",
+   "summary": "Al-Qadisiyah University’s move a sign of the country’s slide into a Taliban-like gender segregation, say activists The removal of male professors teaching female students at a university in southern Iraq has sparked protests and been criticised by activists…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests",
+   "date": "2026-11-20T05:00:23+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/36dbd5a94532a5af971915dcd8ce0a00c8f9f570/0_334_1309_1047/master/1309.jpg?width=700&quality=85&auto=format&fit=max&s=94b7d75ab523fb036bde0be95320f675",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: supplied"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T05:19:35+00:00"
   },
   {
    "id": "6a5a75e0bc3f8837",
@@ -199,13 +239,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/5704d11cf9c0677c7080af747f4617ba2a51c1c6/327_0_3268_2615/master/3268.jpg?width=700&quality=85&auto=format&fit=max&s=c616ce1ccd3f69a2749cc918f6e128a6",
-    "w": 700,
+    "credit": "Photograph: Brian Snyder/Reuters",
     "h": 560,
-    "credit": "Photograph: Brian Snyder/Reuters"
+    "url": "https://i.guim.co.uk/img/media/5704d11cf9c0677c7080af747f4617ba2a51c1c6/327_0_3268_2615/master/3268.jpg?width=700&quality=85&auto=format&fit=max&s=c616ce1ccd3f69a2749cc918f6e128a6",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T05:10:16+00:00"
+  },
+  {
+   "id": "9a9488f940d92ea7",
+   "title": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
+   "summary": "US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has said.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
+   "date": "2026-11-20T04:44:53+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6affd015-1795149845.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6affd015-1795149845.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T05:19:35+00:00"
   },
   {
    "id": "3432b89d3c37b065",
@@ -626,26 +688,6 @@
    "addedAt": "2026-11-19T22:32:51+00:00"
   },
   {
-   "id": "0388a3d7701dd241",
-   "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
-   "summary": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech Get our breaking news email , free app or daily news podcast Former New South Wales opposition leader Mark Speakman will not contest his seat at…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-   "date": "2026-11-19T22:17:09+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bianca de Marchi/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3efee6d1eaff0fd0c1f56834a875969ecd396eb3/2910_595_6221_4977/master/6221.jpg?width=700&quality=85&auto=format&fit=max&s=d6fa57a73e497949cbb0acee0fc728b6",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:27:43+00:00"
-  },
-  {
    "id": "dfeae552472ea0af",
    "title": "Donald Trump issues posthumous pardon to MLB ‘superstar and legend’ Pete Rose",
    "summary": "Rose pleaded guilty to tax evasion in 1990 Player also banned from baseball over bets Donald Trump says he has posthumously pardoned Pete Rose more than two years after the baseball star’s death and a year after he was reinstated by Major League Baseball…",
@@ -736,7 +778,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7447,26 +7489,6 @@
    "addedAt": "2026-11-18T00:41:20+00:00"
   },
   {
-   "id": "b33391a7cfd063ac",
-   "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
-   "summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
-   "date": "2026-11-18T00:21:33+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jane Rosenberg/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/470133f77dd96a905faa69a723f46914cdfdc04a/94_0_2813_2250/master/2813.jpg?width=700&quality=85&auto=format&fit=max&s=bdb6e2381c46bb9c1409d99316e77351",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T00:32:15+00:00"
-  },
-  {
    "id": "fff113dd71f0e59d",
    "title": "Why China’s Shenzhen was chosen for APEC summit",
    "summary": "Al Jazeera’s Katrina Yu explains why China’s Shenzhen was chosen for APEC summit.",
@@ -8240,21 +8262,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:19:40+00:00"
-  },
-  {
-   "id": "137617fcd2e8b441",
-   "title": "Paris Hilton returns to Capitol Hill to push for DEFIANCE Act passage",
-   "summary": "NPR's Juana Summers speaks with Paris Hilton about her support of the DEFIANCE Act, which seeks to increase accountability in cases of deepfake pornography.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/17/nx-s1-6042450/paris-hilton-returns-to-capitol-hill-to-push-for-defiance-act-passage",
-   "date": "2026-11-17T21:13:54+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-17T21:22:25+00:00"
   }
  ]
 }

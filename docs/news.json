@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T22:12:58+00:00",
+ "generatedAt": "2026-11-20T22:22:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 13
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,9 +166,28 @@
  ],
  "items": [
   {
+   "id": "c18402a44c82edfd",
+   "title": "All Ontario teachers' unions vote in favour of strike action",
+   "summary": "Five unions representing more than 250,000 teachers and education workers held strike votes this week, before central bargaining is set to begin before the end of the month.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/ontario-teachers-unions-vote-strike-action-9.7430571?cmp=rss",
+   "date": "2026-11-20T22:20:11+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/1.7457471,1795210424930/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C8002%2C4501%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T22:22:09+00:00"
+  },
+  {
    "id": "27173930602c0888",
-   "title": "Trump says Vance’s statement blaming Iran war for Republican midterm wipeout was ‘fine’ in wide-ranging press conference – live",
-   "summary": "US president again claims Republicans’ midterms losses were because he ‘wasn’t on the ballot’, vows to fight for datacenters and boasts of his relationship with Xi Jinping",
+   "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – live",
+   "summary": "Thom Tillis, from North Carolina, placed hold on nomination of Michael LoSapio a day after his Senate confirmation hearing",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
    "date": "2026-11-20T21:58:50+00:00",
@@ -179,10 +198,10 @@
    ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Alex Wong/Getty Images",
+    "url": "https://i.guim.co.uk/img/media/22774e3086d492bb9ec8ba43f9c0d279af1aa6fe/533_0_4877_3902/master/4877.jpg?width=700&quality=85&auto=format&fit=max&s=74a4a01e6932cae12cebf3f114f9948d",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/1f41ef725487380d40c24dc1d0b73932c786a349/325_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=ea39a0e9aa98f85909a7d05bf629db64",
-    "w": 700
+    "credit": "Photograph: Allison Robbert/AP"
    },
    "breaking": false,
    "addedAt": "2026-11-20T10:59:55+00:00"
@@ -8239,26 +8258,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:47:21+00:00"
-  },
-  {
-   "id": "9e4e152e2f5a2168",
-   "title": "Peltola’s Alaska victory secures 56th Democratic seat in Senate | First Thing",
-   "summary": "The ninth gain of the midterms in the upper chamber, it is the first time Alaska has elected a Democrat since 2008. Plus the impact the NAZA documentary is having inside Israel Don’t already get First Thing in your inbox? Sign up here Good morning.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/first-thing-peltolas-alaska-victory-secures-56th-democratic-seat-in-senate",
-   "date": "2026-11-18T12:23:41+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kerry Tasker/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/04a35388742a62db030fc59d805e35ab9abac401/149_0_1796_1437/master/1796.jpg?width=700&quality=85&auto=format&fit=max&s=6253e06db0d3e6fa6d1e9fe1ed0ccb2b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:37:49+00:00"
   }
  ]
 }

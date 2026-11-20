@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T17:12:49+00:00",
+ "generatedAt": "2026-11-20T17:22:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "63055a90e8e46c4c",
+   "title": "Canada needs an independent intelligence assessment agency",
+   "summary": "As it navigates an increasingly dangerous and capricious world, Canada must deal with unpredictable actors including great powers such as China and Russia and even the United States, with its constantly shifting attitude towards allies and adversaries alike.",
+   "source": "Policy Options",
+   "url": "https://policyoptions.irpp.org/2026/11/canada-intelligence-assessment/",
+   "date": "2026-11-20T17:15:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "analysis",
+   "image": {
+    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/intel-analysis.jpg?resize=1200%2C800",
+    "w": 1732,
+    "h": 1732,
+    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/intel-analysis.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T17:22:03+00:00"
+  },
+  {
    "id": "ae58bd9e7f4a9216",
    "title": "Cybersecurity operation thwarts attack on UK supermarket fridges and freezers",
    "summary": "News of operation comes after supermarkets in at least seven European countries hit by cyber-attacks A secret government cybersecurity operation recently thwarted a cyber-attack on fridges and freezers in UK supermarkets, warehouses, restaurants, petrol…",
@@ -177,13 +197,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=700&quality=85&auto=format&fit=max&s=cfe2a193d15f66ab4c0a55464b902496",
-    "w": 700,
+    "credit": "Photograph: Fred Tanneau/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Fred Tanneau/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=700&quality=85&auto=format&fit=max&s=cfe2a193d15f66ab4c0a55464b902496",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:12:49+00:00"
+  },
+  {
+   "id": "27173930602c0888",
+   "title": "Second federal judge blocks construction of Trump’s triumphal arch project – live",
+   "summary": "Judge in Virginia says during a ⁠hearing ​that it ​was ​a ‘rushed job’ ​that ‌lacked ​a ​legal basis",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+   "date": "2026-11-20T17:06:58+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kevin Lamarque/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c96a6004cb1cd1c8d66f475a0c87dc3173c4f0c7/0_6_4375_3499/master/4375.jpg?width=700&quality=85&auto=format&fit=max&s=25190b3f4a7b043be7cc40e0c97fb583",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T10:59:55+00:00"
   },
   {
    "id": "af00d3fab5ed2435",
@@ -197,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00733e63a93-1795191614.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00733e63a93-1795191614.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00733e63a93-1795191614.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00733e63a93-1795191614.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:12:49+00:00"
@@ -241,35 +283,13 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4657x3136+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F8b%2F8f6f9ccc4492a5a6d3619a61182e%2Fgettyimages-2303366947.jpg",
-    "w": 1200,
     "h": 808,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4657x3136+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F8b%2F8f6f9ccc4492a5a6d3619a61182e%2Fgettyimages-2303366947.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4657x3136+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F8b%2F8f6f9ccc4492a5a6d3619a61182e%2Fgettyimages-2303366947.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4657x3136+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F8b%2F8f6f9ccc4492a5a6d3619a61182e%2Fgettyimages-2303366947.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:12:49+00:00"
-  },
-  {
-   "id": "27173930602c0888",
-   "title": "Second federal judge blocks construction of Trump’s triumphal arch project – live",
-   "summary": "Judge in Virginia says during a ⁠hearing ​that it ​was ​a ‘rushed job’ ​that ‌lacked ​a ​legal basis",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T16:56:10+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kevin Lamarque/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c96a6004cb1cd1c8d66f475a0c87dc3173c4f0c7/0_6_4375_3499/master/4375.jpg?width=700&quality=85&auto=format&fit=max&s=25190b3f4a7b043be7cc40e0c97fb583",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T10:59:55+00:00"
   },
   {
    "id": "1c65bd77cc62ed4b",
@@ -692,14 +712,16 @@
   },
   {
    "id": "b3cbf1cca10a82c5",
-   "title": "Melanie Joly, Doug Ford to announce supports for Canada’s auto industry",
+   "title": "As trade war hits auto sector, Ford gets $760M from taxpayers for Ontario plant",
    "summary": "Stellantis, the parent company of Jeep, announced earlier this month a deal to sell its Brampton, Ont. vehicle assembly plant to defence manufacturer Roshel.",
    "source": "Global News",
    "url": "https://globalnews.ca/news/12159444/auto-supports-canada-melanie-joly-doug-ford/",
    "date": "2026-11-20T14:51:30+00:00",
    "topic": "ontario",
    "region": "local",
-   "tags": [],
+   "tags": [
+    "trade"
+   ],
    "kind": "news",
    "image": {
     "h": 800,
@@ -1056,7 +1078,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2206,7 +2228,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8236,28 +8258,6 @@
     "h": 896,
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/d9/0d96d565-4b07-5082-8572-986a82f66958/6afd6a4164a2a.image.jpg?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/d9/0d96d565-4b07-5082-8572-986a82f66958/6afd6a4164a2a.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:14:11+00:00"
-  },
-  {
-   "id": "786cf60daf6c04c5",
-   "title": "Chow points to city's fiscal challenges in first meeting of new Toronto council",
-   "summary": "Mayor Olivia Chow will have seven new councillors to consider for high-profile roles, including former Liberal MPs Nate Erskine-Smith and Shaun Chen.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/ontario/chow-to-lay-out-vision-for-new-term-as-toronto-council-holds-first-meeting/article_987c3ab7-06a4-552a-93ac-74d2f8093dce.html",
-   "date": "2026-11-18T09:00:00+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/5a/b5a91b44-e175-58f8-b385-5f642c674903/6afd6a5010628.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/5a/b5a91b44-e175-58f8-b385-5f642c674903/6afd6a5010628.image.jpg?resize=1200%2C",
     "w": 1200
    },
    "breaking": false,

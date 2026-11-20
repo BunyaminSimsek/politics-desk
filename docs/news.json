@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T08:50:43+00:00",
+ "generatedAt": "2026-11-20T08:59:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "c8606f7a59d7ed62",
+   "title": "Andy Burnham in Brussels as UK and EU close in on Brexit reset deal – live",
+   "summary": "UK and EU have provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme. We are getting some lines from that meeting with business leaders in Brussels.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+   "date": "2026-11-20T08:50:18+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Virginia Mayo/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b1b7e7d5285fba221edebb3cdc8cbf11fe1e0710/632_0_6307_5047/master/6307.jpg?width=700&quality=85&auto=format&fit=max&s=b40ce3b97bcf03ef54a13b4f75b985cc",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T08:41:32+00:00"
+  },
+  {
    "id": "bc7ca4a145728fd4",
    "title": "Cop31 live: crunch time as deeply divided climate talks enter final day",
    "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Every day for the past two weeks, Turkish artist Ersut Biçkin has posted up in the breezy thoroughfare at the centre of the Blue Zone to…",
@@ -202,26 +222,6 @@
     "credit": "Photograph: Christopher Furlong/Getty Images",
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/2ccdf36f045447e0767df30dacd0ecc106d0d8c9/676_0_6759_5408/master/6759.jpg?width=700&quality=85&auto=format&fit=max&s=7507ab6456708d5497e835293b5ac35f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T08:41:32+00:00"
-  },
-  {
-   "id": "c8606f7a59d7ed62",
-   "title": "Andy Burnham heads to Brussels as UK and EU close in on Brexit reset deal – live",
-   "summary": "UK and EU have provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T08:28:08+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Virginia Mayo/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b1b7e7d5285fba221edebb3cdc8cbf11fe1e0710/632_0_6307_5047/master/6307.jpg?width=700&quality=85&auto=format&fit=max&s=b40ce3b97bcf03ef54a13b4f75b985cc",
     "w": 700
    },
    "breaking": false,
@@ -1026,7 +1026,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T23:46:47+00:00",
+ "generatedAt": "2026-11-20T23:56:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 13
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -199,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/fe/3fe6b07b-d4f6-5c90-aa99-977659961f96/6b00d655ae923.image.jpg?crop=1327%2C996%2C33%2C67&order=crop%2Cresize&resize=1200%2C",
-    "w": 1200,
     "h": 901,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/fe/3fe6b07b-d4f6-5c90-aa99-977659961f96/6b00d655ae923.image.jpg?crop=1327%2C996%2C33%2C67&order=crop%2Cresize&resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/fe/3fe6b07b-d4f6-5c90-aa99-977659961f96/6b00d655ae923.image.jpg?crop=1327%2C996%2C33%2C67&order=crop%2Cresize&resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/fe/3fe6b07b-d4f6-5c90-aa99-977659961f96/6b00d655ae923.image.jpg?crop=1327%2C996%2C33%2C67&order=crop%2Cresize&resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T23:46:47+00:00"
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/cms-wide-thumb-raga2011-1795216805.png?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/cms-wide-thumb-raga2011-1795216805.png?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/cms-wide-thumb-raga2011-1795216805.png?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/cms-wide-thumb-raga2011-1795216805.png?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T23:46:47+00:00"
@@ -323,9 +323,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.7457471,1795218323533/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C8002%2C4501%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.7457471,1795210424930/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C8002%2C4501%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T22:22:09+00:00"
@@ -439,9 +439,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/835a0414-341d-444e-9dcb-17bb050c5d01,1795206527673/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C5616%2C3159%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/835a0414-341d-444e-9dcb-17bb050c5d01,1795206527673/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C5616%2C3159%29%3B"
    },
    "breaking": true,
    "addedAt": "2026-11-20T21:44:39+00:00"
@@ -938,7 +938,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2042,7 +2042,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3172,7 +3172,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

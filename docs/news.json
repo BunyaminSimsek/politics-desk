@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T14:34:42+00:00",
+ "generatedAt": "2026-11-20T14:43:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "c8606f7a59d7ed62",
+   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+   "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+   "date": "2026-11-20T14:39:55+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Yves Herman/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3e896c5c72a70960c8e888a3e7e156426838be8d/566_219_3034_2427/master/3034.jpg?width=700&quality=85&auto=format&fit=max&s=af24f0cf49a41ba2a997760ec1726603",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T08:41:32+00:00"
+  },
+  {
    "id": "bc7ca4a145728fd4",
    "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
    "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
@@ -186,26 +206,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T07:18:47+00:00"
-  },
-  {
-   "id": "c8606f7a59d7ed62",
-   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-   "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T14:20:51+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yves Herman/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3e896c5c72a70960c8e888a3e7e156426838be8d/566_219_3034_2427/master/3034.jpg?width=700&quality=85&auto=format&fit=max&s=af24f0cf49a41ba2a997760ec1726603",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T08:41:32+00:00"
   },
   {
    "id": "f449a8a22fe0d45d",
@@ -313,7 +313,7 @@
   },
   {
    "id": "658331a48964a228",
-   "title": "Myanmar, China object to ‘unfair’ ICJ genocide ruling",
+   "title": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
    "summary": "A Myanmar government spokesperson said the ruling was unjust and noted that the court's decision was not unanimous.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
@@ -599,7 +599,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1707,7 +1707,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

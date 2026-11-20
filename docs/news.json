@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T21:35:10+00:00",
+ "generatedAt": "2026-11-20T21:44:39+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "Global News",
@@ -166,6 +166,60 @@
  ],
  "items": [
   {
+   "id": "5fc31b7e3334ec31",
+   "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
+   "summary": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T21:40:45+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/452c/live/6ef65d70-e52b-11f1-964d-a1d5fe40573e.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/452c/live/6ef65d70-e52b-11f1-964d-a1d5fe40573e.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T20:38:58+00:00"
+  },
+  {
+   "id": "2b46772c5167c98d",
+   "title": "Trump presser",
+   "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+   "date": "2026-11-20T21:38:21+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-20T21:44:39+00:00"
+  },
+  {
+   "id": "315db2d8827341e1",
+   "title": "Trump threatens to penalize U.S. tech companies that build AI data centres in other countries",
+   "summary": "U.S. tech companies that build artificial intelligence data centers in other countries will face \"a tremendous tax,\" President Donald Trump said on Friday.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/ai-data-centres-us-tech-companies-trump-9.7430426?cmp=rss",
+   "date": "2026-11-20T21:35:47+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/835a0414-341d-444e-9dcb-17bb050c5d01,1795206527673/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C5616%2C3159%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T21:44:39+00:00"
+  },
+  {
    "id": "27173930602c0888",
    "title": "Trump says Vance’s statement blaming Iran war for Republican midterm wipeout was ‘fine’ in wide-ranging press conference – live",
    "summary": "US president again claims Republicans’ midterms losses were because he ‘wasn’t on the ballot’, vows to fight for datacenters and boasts of his relationship with Xi Jinping",
@@ -199,10 +253,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795209047.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795209047.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795209047.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795209047.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T21:35:10+00:00"
@@ -259,10 +313,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T20:01:24+00:00"
@@ -388,26 +442,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T19:05:08+00:00"
-  },
-  {
-   "id": "5fc31b7e3334ec31",
-   "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
-   "summary": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T19:37:26+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dbb9/live/c954f440-d84f-11f1-b710-b15e87d8ef65.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/dbb9/live/c954f440-d84f-11f1-b710-b15e87d8ef65.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T20:38:58+00:00"
   },
   {
    "id": "497402baaf1855b7",
@@ -699,7 +733,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1007,9 +1041,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0e660aac-4296-46df-b2f9-23251f86a9e8,1795193359887/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7018%2C3947%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0e660aac-4296-46df-b2f9-23251f86a9e8,1795193359887/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7018%2C3947%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:31:11+00:00"
@@ -1803,7 +1837,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2933,7 +2967,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8219,48 +8253,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-18T12:28:16+00:00"
-  },
-  {
-   "id": "7b615282cad3ade6",
-   "title": "This Muslim civil rights group defended pro-Palestine protesters. Then Florida labeled it a terrorist organization",
-   "summary": "Cair-Florida is suing state officials after designation meant it had to shut its doors to victims of harassment and discrimination Omar Soboh, a student at the University of Florida, was organizing a campus panel about Islamophobia when he found out one of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-muslim-cair-civil-rights",
-   "date": "2026-11-18T12:00:59+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Composite: The Guardian/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/69c2f6cffc2166efcf2b417216a6bf1ab7b96f85/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=d261a1eda5d05b5837b14263d4025111",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:18:44+00:00"
-  },
-  {
-   "id": "04a2d02cd25f366e",
-   "title": "Key Hegseth adviser faces questions over ties to Israeli defense contractor and Saudi Arabia",
-   "summary": "A government watchdog has also labeled Hegseth’s defense policy appointee a ‘walking conflict of interest’ One of defense secretary Pete Hegseth ’s key advisers faces questions about potential conflicts of interest over his many roles, including advising the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/pete-hegseth-iran-war-pentagon",
-   "date": "2026-11-18T12:00:58+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Anna Moneymaker/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e7003dbab58ac06c59f727fae7b424e439481434/903_0_4524_3618/master/4524.jpg?width=700&quality=85&auto=format&fit=max&s=834757d8eec2b1d5802dacc659473c2d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:18:44+00:00"
   }
  ]
 }

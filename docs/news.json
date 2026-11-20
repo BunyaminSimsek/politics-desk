@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T20:29:47+00:00",
+ "generatedAt": "2026-11-20T20:38:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "4fa85ae7ae72f760",
+   "title": "Trump threatens ban on US firms building AI data centres overseas",
+   "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T20:35:26+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T20:01:24+00:00"
+  },
+  {
    "id": "2b0dd0e410fa1c99",
    "title": "First Nations youth plan day of action against Ottawa's major projects legislation",
    "summary": "OTTAWA - First Nations youth say they will hold a national day of action next month to protest the federal government's proposed major projects legislation.",
@@ -177,13 +197,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/86/986333b5-a3da-5c59-8f94-cd458d2261e1/6b00ab7555bc0.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/86/986333b5-a3da-5c59-8f94-cd458d2261e1/6b00ab7555bc0.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/86/986333b5-a3da-5c59-8f94-cd458d2261e1/6b00ab7555bc0.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/86/986333b5-a3da-5c59-8f94-cd458d2261e1/6b00ab7555bc0.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T20:29:47+00:00"
+  },
+  {
+   "id": "6e5811e7bb12c641",
+   "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+   "summary": "Drones cause 'fear and panic' among Palestinians as Israel continues attacks on the Strip despite 'ceasefire'.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+   "date": "2026-11-20T20:14:56+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe4b7f56bb-1795050367.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe4b7f56bb-1795050367.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T20:38:58+00:00"
   },
   {
    "id": "27173930602c0888",
@@ -228,24 +270,24 @@
    "addedAt": "2026-11-20T19:05:08+00:00"
   },
   {
-   "id": "4fa85ae7ae72f760",
-   "title": "Trump threatens ban on US firms building AI data centres overseas",
-   "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+   "id": "5fc31b7e3334ec31",
+   "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
+   "summary": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders.",
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T19:51:52+00:00",
-   "topic": "us",
+   "url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T19:37:26+00:00",
+   "topic": "africa",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/dbb9/live/c954f440-d84f-11f1-b710-b15e87d8ef65.jpg",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dbb9/live/c954f440-d84f-11f1-b710-b15e87d8ef65.jpg"
    },
    "breaking": false,
-   "addedAt": "2026-11-20T20:01:24+00:00"
+   "addedAt": "2026-11-20T20:38:58+00:00"
   },
   {
    "id": "497402baaf1855b7",
@@ -8217,46 +8259,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/2cd5cfea9935907152278d56832dbe067bf878e4/393_0_6318_5052/master/6318.jpg?width=700&quality=85&auto=format&fit=max&s=4acbd77bc3aa932f3739c34518053493",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T11:14:38+00:00"
-  },
-  {
-   "id": "e7b98edb127dda91",
-   "title": "Fresh off recent wins, the left has a new goal: get AOC to run for president",
-   "summary": "With its policy priorities more mainstream than ever, the left is directing its momentum toward 2028 A week after the US midterm elections swept an unprecedented number of leftists into office across the country, about 600 people joined a Zoom call.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/presidential-election-aoc-candidate",
-   "date": "2026-11-18T11:00:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tom Williams/CQ-Roll Call via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fcbdd13eb87efed150c236b2d6160a6fe219474e/435_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=dd21e1dedb58f35f186cce34369e2dbb",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T11:14:38+00:00"
-  },
-  {
-   "id": "1148540c6d7a4c63",
-   "title": "‘Pick one or the other’: Ontario Liberals slam former leader after accepting Ford government appointment",
-   "summary": "A prominent Ontario Liberal is questioning whether former party leader Steven Del Duca should have accepted an appointment from the Ford government.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12155573/ontario-liberals-steven-del-duca-ford-government-appointment/",
-   "date": "2026-11-18T11:00:36+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 712,
-    "small": "https://globalnews.ca/wp-content/uploads/2025/09/2aca7a726bb13988e487c10363d3e2ee21a7dfaa7f68ed7a806c778489a6ecf9.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2025/09/2aca7a726bb13988e487c10363d3e2ee21a7dfaa7f68ed7a806c778489a6ecf9.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-18T11:14:38+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T21:06:40+00:00",
+ "generatedAt": "2026-11-20T21:16:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/20261111_121337-1795187514.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/20261111_121337-1795187514.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/20261111_121337-1795187514.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/20261111_121337-1795187514.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T21:06:40+00:00"
@@ -381,9 +381,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/8a646e33-607e-43f8-b8e7-3ecfb542ec29,1795201429186/full/max/0/default.jpg?im=Crop%2Crect%3D%281888%2C190%2C6678%2C3756%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/8a646e33-607e-43f8-b8e7-3ecfb542ec29,1795201429186/full/max/0/default.jpg?im=Crop%2Crect%3D%281888%2C190%2C6678%2C3756%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T19:14:21+00:00"
@@ -432,14 +432,16 @@
   },
   {
    "id": "da987f8f6fc33628",
-   "title": "Trump says he's working on 'a deal that's fair' with Canada",
+   "title": "Trump says he's working on a 'fair' trade deal with Canada",
    "summary": "In a news conference at the White House on Friday after returning from his trip to Asia that included a brief meeting with Prime Minister Mark Carney, U.S.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/world/trump-canada-tariffs-trade-news-conference-9.7430092?cmp=rss",
    "date": "2026-11-20T18:49:15+00:00",
    "topic": "federal",
    "region": "local",
-   "tags": [],
+   "tags": [
+    "trade"
+   ],
    "kind": "news",
    "image": {
     "caption": "",
@@ -501,9 +503,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.3538116,1460749537000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C103%2C1113%2C626%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.3538116,1460749537000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C103%2C1113%2C626%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T21:06:40+00:00"
@@ -617,7 +619,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1721,7 +1723,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

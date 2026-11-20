@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T17:03:35+00:00",
+ "generatedAt": "2026-11-20T17:12:49+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 4
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,112 @@
  ],
  "items": [
   {
+   "id": "ae58bd9e7f4a9216",
+   "title": "Cybersecurity operation thwarts attack on UK supermarket fridges and freezers",
+   "summary": "News of operation comes after supermarkets in at least seven European countries hit by cyber-attacks A secret government cybersecurity operation recently thwarted a cyber-attack on fridges and freezers in UK supermarkets, warehouses, restaurants, petrol…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
+   "date": "2026-11-20T17:08:14+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=700&quality=85&auto=format&fit=max&s=cfe2a193d15f66ab4c0a55464b902496",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Fred Tanneau/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T17:12:49+00:00"
+  },
+  {
+   "id": "af00d3fab5ed2435",
+   "title": "Top US Democrat warns Trump admin against destroying records",
+   "summary": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
+   "date": "2026-11-20T17:05:42+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00733e63a93-1795191614.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00733e63a93-1795191614.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T17:12:49+00:00"
+  },
+  {
+   "id": "bc7ca4a145728fd4",
+   "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
+   "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-20T17:04:07+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Khalil Hamra/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T07:18:47+00:00"
+  },
+  {
+   "id": "656cdb405835b5f5",
+   "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+   "summary": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+   "date": "2026-11-20T17:00:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4657x3136+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F8b%2F8f6f9ccc4492a5a6d3619a61182e%2Fgettyimages-2303366947.jpg",
+    "w": 1200,
+    "h": 808,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4657x3136+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F8b%2F8f6f9ccc4492a5a6d3619a61182e%2Fgettyimages-2303366947.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T17:12:49+00:00"
+  },
+  {
+   "id": "27173930602c0888",
+   "title": "Second federal judge blocks construction of Trump’s triumphal arch project – live",
+   "summary": "Judge in Virginia says during a ⁠hearing ​that it ​was ​a ‘rushed job’ ​that ‌lacked ​a ​legal basis",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+   "date": "2026-11-20T16:56:10+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kevin Lamarque/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c96a6004cb1cd1c8d66f475a0c87dc3173c4f0c7/0_6_4375_3499/master/4375.jpg?width=700&quality=85&auto=format&fit=max&s=25190b3f4a7b043be7cc40e0c97fb583",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T10:59:55+00:00"
+  },
+  {
    "id": "1c65bd77cc62ed4b",
    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
    "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
@@ -186,28 +292,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T12:33:14+00:00"
-  },
-  {
-   "id": "bc7ca4a145728fd4",
-   "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
-   "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T16:53:26+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Khalil Hamra/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T07:18:47+00:00"
   },
   {
    "id": "acc7a3878954c01e",
@@ -243,10 +327,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ae323a28e78350bfb8aa0cc58ada95d577e65d9c/516_0_4393_3514/master/4393.jpg?width=700&quality=85&auto=format&fit=max&s=e115fa4b29b873bf16589d179abbe362",
-    "w": 700,
+    "credit": "Photograph: Jim Lo Scalzo/EPA",
     "h": 560,
-    "credit": "Photograph: Jim Lo Scalzo/EPA"
+    "url": "https://i.guim.co.uk/img/media/ae323a28e78350bfb8aa0cc58ada95d577e65d9c/516_0_4393_3514/master/4393.jpg?width=700&quality=85&auto=format&fit=max&s=e115fa4b29b873bf16589d179abbe362",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:03:35+00:00"
@@ -334,28 +418,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T16:45:01+00:00"
-  },
-  {
-   "id": "27173930602c0888",
-   "title": "US judge blocks construction of Trump’s triumphal arch project – live",
-   "summary": "Judge in Virginia says during a ⁠hearing ​that it ​was ​a ‘rushed job’ ​that ‌lacked ​a ​legal basis",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T16:29:40+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kevin Lamarque/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c96a6004cb1cd1c8d66f475a0c87dc3173c4f0c7/0_6_4375_3499/master/4375.jpg?width=700&quality=85&auto=format&fit=max&s=25190b3f4a7b043be7cc40e0c97fb583",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T10:59:55+00:00"
   },
   {
    "id": "ccf306b67fd2391e",
@@ -994,7 +1056,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2144,7 +2206,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8200,63 +8262,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T09:14:11+00:00"
-  },
-  {
-   "id": "d6fdc70bb55e270c",
-   "title": "Toronto’s new council is meeting for the first time. Here's who is new and what to expect",
-   "summary": "Toronto's mayor and 25 councillors will take part in their first council meeting Wednesday, where they will swear an oath of office and Olivia Chow will make her first speech. There are seven new faces on the council floor this term.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/toronto-council-first-meeting-2026-9.7424770?cmp=rss",
-   "date": "2026-11-18T09:00:00+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/cb29f784-27c0-40a1-a21e-5ac05b3466d3,1794922724377/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:04:26+00:00"
-  },
-  {
-   "id": "80c4e660a50cf54d",
-   "title": "What the U.S. might learn from Canada's privatized air traffic control",
-   "summary": "It's not often that commentators from the U.S. political right will look to Canada as a model for how their country should run a particular function. Yet the grounding of thousands of flights days ago has sparked renewed calls for the U.S.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/air-traffic-control-nav-canada-9.7425458?cmp=rss",
-   "date": "2026-11-18T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/ca025728-6112-4b64-9058-0d129c557131,1794965544393/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C254%2C4928%2C2772%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:04:26+00:00"
-  },
-  {
-   "id": "f4267749d5381c0e",
-   "title": "Oddly enough, this video game weighs in on Canada's fighter jet options",
-   "summary": "The gaming industry might not be the first place to look for military procurement advice, but a recently released video game offers a subtle suggestion for what Canada should pick for its new fighter jet fleet.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/ace-combat-grippen-f-35-canada-procurement-9.7425376?cmp=rss",
-   "date": "2026-11-18T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/b99667de-37fc-4a43-a94f-e46001399283,1794957596939/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C3000%2C1687%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:04:26+00:00"
   }
  ]
 }

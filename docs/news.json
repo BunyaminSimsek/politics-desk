@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T19:52:21+00:00",
+ "generatedAt": "2026-11-20T20:01:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "CBC World",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "4fa85ae7ae72f760",
+   "title": "Trump threatens ban on US firms building AI data centres overseas",
+   "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T19:51:52+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T20:01:24+00:00"
+  },
   {
    "id": "27173930602c0888",
    "title": "Trump says Vance’s statement blaming Iran war for Republican midterm wipeout was ‘fine’ in wide-ranging press conference – live",
@@ -320,9 +340,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/911f1964-7d85-4c69-bc0b-8103e3d379c8,1795204628530/full/max/0/default.jpg?im=Crop%2Crect%3D%28206%2C334%2C5690%2C3200%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/911f1964-7d85-4c69-bc0b-8103e3d379c8,1795195895956/full/max/0/default.jpg?im=Crop%2Crect%3D%28243%2C572%2C5406%2C3040%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T18:55:28+00:00"
@@ -476,7 +496,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -665,9 +685,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/d685e180-04ec-4d54-90da-dfcacfe53017,1795187704623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C42%2C3000%2C1687%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/d685e180-04ec-4d54-90da-dfcacfe53017,1795187704623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C42%2C3000%2C1687%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:59:43+00:00"
@@ -1580,7 +1600,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2710,7 +2730,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8236,28 +8256,6 @@
     "h": 800,
     "small": "https://globalnews.ca/wp-content/uploads/2026/08/CP28139516.jpg?w=640&h=427&crop=1&quality=70&strip=all",
     "url": "https://globalnews.ca/wp-content/uploads/2026/08/CP28139516.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T11:05:03+00:00"
-  },
-  {
-   "id": "4f23b21a185063bb",
-   "title": "Why Conservative insiders see the Brantford byelection as a crucial test for Pierre Poilievre",
-   "summary": "Some Conservatives are optimistic but some brace for bad news as a much-watched Dec. 7 byelection draws near.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/why-pierre-poilievre-s-leadership-may-depend-on-voters-in-costco-aisles-turning-out/article_9b39e2b9-7236-47aa-95ae-981558a88bf9.html",
-   "date": "2026-11-18T11:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 959,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/48/048faa37-6e44-59ed-b82c-8d25944067a4/6afcdd26b6ea7.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/48/048faa37-6e44-59ed-b82c-8d25944067a4/6afcdd26b6ea7.image.jpg?resize=1200%2C",
     "w": 1200
    },
    "breaking": false,

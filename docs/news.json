@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T22:40:40+00:00",
+ "generatedAt": "2026-11-20T22:50:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "BBC News",
@@ -160,11 +160,31 @@
   {
    "source": "Policy Options",
    "url": "https://policyoptions.irpp.org/feed/",
-   "ok": true,
-   "kept": 25
+   "ok": false,
+   "kept": 0
   }
  ],
  "items": [
+  {
+   "id": "4939f70f711bb596",
+   "title": "French police officers sentenced for beating of music producer Michel Zecler",
+   "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T22:37:09+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200,
+    "h": 799,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T22:50:17+00:00"
+  },
   {
    "id": "c18402a44c82edfd",
    "title": "All Ontario teachers' unions vote in favour of strike action",
@@ -198,10 +218,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a6/9a663740-5457-51c8-9c58-c105787f32f1/6b00c1f259f8f.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 866,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a6/9a663740-5457-51c8-9c58-c105787f32f1/6b00c1f259f8f.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a6/9a663740-5457-51c8-9c58-c105787f32f1/6b00c1f259f8f.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a6/9a663740-5457-51c8-9c58-c105787f32f1/6b00c1f259f8f.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T22:40:40+00:00"
@@ -566,8 +586,8 @@
   },
   {
    "id": "ef2dbe066d50357d",
-   "title": "Ontario Premier Ford says Stellantis owes feds $873M in auto plant subsidies",
-   "summary": "Ontario Premier Doug Ford says Stellantis owes the federal government \"roughly\" $873 million in subsidies, as Ottawa and the province look for a way to reopen the automaker's Brampton plant.",
+   "title": "Ontario Premier Ford says automaker Stellantis owes feds $873M",
+   "summary": "Ontario Premier Doug Ford says Stellantis owes the federal government \"roughly\" $873 million, as Ottawa and the province look for a way to reopen the automaker's Brampton plant.",
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/politics/joly-ford-stellantis-brampton-unifor-meeting-9.7430142?cmp=rss",
    "date": "2026-11-20T19:09:55+00:00",
@@ -576,9 +596,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/a0c00cdd-da4e-4b80-8cd3-d6d9181fa2f3,1795212439543/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C353%2C8640%2C4860%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/a0c00cdd-da4e-4b80-8cd3-d6d9181fa2f3,1795212439543/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C353%2C8640%2C4860%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T19:14:21+00:00"
@@ -8239,27 +8259,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T13:05:55+00:00"
-  },
-  {
-   "id": "c08de4835722644a",
-   "title": "From frontlines to city hall: Newly elected advocates determined to fix Toronto's housing, homelessness crisis",
-   "summary": "Toronto's newly elected city council includes well-known housing rights activists and advocates supporting the homeless population. They say they're bringing their lived experiences and expertise to the council table.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/housing-homelessness-toronto-city-council-advocates-9.7426171?cmp=rss",
-   "date": "2026-11-18T12:29:12+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [
-    "housing"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/fb8aafdf-11c8-4002-9290-e40933e8baf9,1788916278558/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C5699%2C3205%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:37:49+00:00"
   }
  ]
 }

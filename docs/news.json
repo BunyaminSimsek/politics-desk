@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T16:35:51+00:00",
+ "generatedAt": "2026-11-20T16:45:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,34 +166,12 @@
  ],
  "items": [
   {
-   "id": "27173930602c0888",
-   "title": "Trump officials consider appeal after agriculture secretary’s religious emails ruled unconstitutional – US politics live",
-   "summary": "US president expected to hail claimed summit impact after bruising midterms; Mike Johnson urges party to push bills through lame-duck Congress",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T16:29:40+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: VCG/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0e120cc64a06f80927c005866f5567b414dfce3b/636_0_6164_4932/master/6164.jpg?width=700&quality=85&auto=format&fit=max&s=21609431eb842c179f6639b5575fa260",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T10:59:55+00:00"
-  },
-  {
    "id": "bc7ca4a145728fd4",
    "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
    "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T16:22:33+00:00",
+   "date": "2026-11-20T16:36:19+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [
@@ -208,6 +186,70 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T07:18:47+00:00"
+  },
+  {
+   "id": "dd6e75c7a37a8357",
+   "title": "Construction of ⁠Trump’s ‌proposed ‘triumphal arch’ blocked by judge",
+   "summary": "Virginia judge says the US president’s pet project ​is ​a ‘rushed job’ ​that ‌lacks ​legal basis A federal judge on Friday morning issued an injunction to block construction of ⁠Donald Trump’s ‌proposed so-called “triumphal arch” as a huge presence near some…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-arch-blocked-judge",
+   "date": "2026-11-20T16:32:32+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ee86b9cf6f3a096add05db8731e750fb99d5818c/935_0_4665_3733/master/4665.jpg?width=700&quality=85&auto=format&fit=max&s=e8db1e3c467747ab2af5d6dcbb6de3d8",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Tom Brenner/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T16:45:01+00:00"
+  },
+  {
+   "id": "27173930602c0888",
+   "title": "US judge blocks construction of Trump’s triumphal arch project – live",
+   "summary": "Judge in Virginia says during a ⁠hearing ​that it ​was ​a ‘rushed job’ ​that ‌lacked ​a ​legal basis",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+   "date": "2026-11-20T16:29:40+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/c96a6004cb1cd1c8d66f475a0c87dc3173c4f0c7/0_6_4375_3499/master/4375.jpg?width=700&quality=85&auto=format&fit=max&s=25190b3f4a7b043be7cc40e0c97fb583",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Kevin Lamarque/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T10:59:55+00:00"
+  },
+  {
+   "id": "ccf306b67fd2391e",
+   "title": "'Most ambitious since Avro': Ottawa defence startup unveils partners for Scout drone",
+   "summary": "OTTAWA - Eliot Pence, the hard-charging founder of Canadian defence company Dominion Dynamics, has a message for the industry's leading contractors around the world: We're coming for your lunch.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/most-ambitious-since-avro-ottawa-defence-startup-unveils-partners-for-scout-drone/article_3d9d565e-e141-5d7a-9c9f-2baf1252f399.html",
+   "date": "2026-11-20T16:22:01+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/77/d772e45f-ef4e-52c0-84e7-e9b2a3da5314/6a4379db10dd8.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/77/d772e45f-ef4e-52c0-84e7-e9b2a3da5314/6a4379db10dd8.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T16:45:01+00:00"
   },
   {
    "id": "bea53ace23fa5ef2",
@@ -866,7 +908,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2016,7 +2058,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8213,46 +8255,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T07:50:33+00:00"
-  },
-  {
-   "id": "01e6b1fe95953a54",
-   "title": "From one of Ajax's future stars to quitting football for music",
-   "summary": "Former Ajax academy player Elikia Mbinga tells BBC Sport how he swapped football for music after playing with some Premier League stars.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmly053x643ro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T07:02:42+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d3af/live/99be3c70-cd5d-11f1-b962-b7ff822cde72.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T14:29:42+00:00"
-  },
-  {
-   "id": "0314dd6b89fbffa7",
-   "title": "How the Houthis fund war effort and tighten grip on Yemen",
-   "summary": "The Houthis’ expanding war economy fuels military recruitment while poverty deepens and public services deteriorate.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
-   "date": "2026-11-18T06:19:17+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afc9077dd1d-1794936951.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afc9077dd1d-1794936951.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T06:37:27+00:00"
   }
  ]
 }

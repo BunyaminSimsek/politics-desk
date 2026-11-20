@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T17:50:29+00:00",
+ "generatedAt": "2026-11-20T17:59:43+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "4e5c9cd58013c6ed",
+   "title": "Nikhil Gupta sentenced to over 19 years in prison for plot to kill U.S.-Canadian activist",
+   "summary": "An Indian man was sentenced to more than 19 years in prison in a federal court in New York on Friday after admitting guilt in a plot to kill dual U.S.-Canadian citizen Gurpatwant Pannun.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/world/ny-gupta-sentencing-pannun-plot-us-canada-9.7429637?cmp=rss",
+   "date": "2026-11-20T17:55:07+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/d685e180-04ec-4d54-90da-dfcacfe53017,1795187704623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C42%2C3000%2C1687%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T17:59:43+00:00"
+  },
+  {
    "id": "bc7ca4a145728fd4",
    "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
    "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
@@ -189,11 +208,11 @@
   },
   {
    "id": "27173930602c0888",
-   "title": "Trump again claims Republican midterm rout was because he ‘wasn’t on the ballot’ – live",
-   "summary": "Trump holds press conference in White House after trip to Asia",
+   "title": "White House touts ‘historic deals’ in handout to reporters ahead of Trump’s press conference – live",
+   "summary": "Handout given to reporters in the briefing room says Trump secured with the Philippines and Thailand this week",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T17:43:25+00:00",
+   "date": "2026-11-20T17:37:48+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -201,13 +220,33 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d26cd3a3f42c4d4ae4a09a2e8eff84f7d55cc1a2/916_0_6516_5213/master/6516.jpg?width=700&quality=85&auto=format&fit=max&s=dbd0cfb48648d00d1ba55f439dbbda92",
-    "w": 700,
+    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/d26cd3a3f42c4d4ae4a09a2e8eff84f7d55cc1a2/916_0_6516_5213/master/6516.jpg?width=700&quality=85&auto=format&fit=max&s=dbd0cfb48648d00d1ba55f439dbbda92",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T10:59:55+00:00"
+  },
+  {
+   "id": "d2969e8f1e87c281",
+   "title": "Protests held across Europe over wages, services, high living costs",
+   "summary": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
+   "date": "2026-11-20T17:32:32+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b006cd033bc-1795189968.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b006cd033bc-1795189968.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T17:59:43+00:00"
   },
   {
    "id": "77a1d80b29dd6f84",
@@ -669,7 +708,7 @@
    "summary": "OTTAWA - The head of a new federal agency tasked with driving adoption of AI and other technologies across the public service says he took the job for a salary of $1 a year.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/new-federal-digital-transformation-chief-says-he-took-the-job-for-1-a-year/article_1d056e6b-4a8f-5fde-b8b5-26dd8bddfb27.html",
-   "date": "2026-11-20T15:16:38+00:00",
+   "date": "2026-11-20T15:16:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -781,10 +820,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "h": 888,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4462x3301+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F6b%2F46915cb347f38e28da875203fab6%2Fgettyimages-2305282124.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4462x3301+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F6b%2F46915cb347f38e28da875203fab6%2Fgettyimages-2305282124.jpg",
-    "w": 1200
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg",
+    "w": 1200,
+    "h": 800,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:11:38+00:00"
@@ -2307,7 +2346,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8217,48 +8256,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T10:18:25+00:00"
-  },
-  {
-   "id": "932b1252e465e390",
-   "title": "As Trump arrives in China, low expectations for breakthroughs in rivalry",
-   "summary": "Analysts expect few concrete outcomes from talks between the leaders on the sidelines of the APEC summit.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss",
-   "date": "2026-11-18T09:30:01+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260925__C9DV8KZ__v2__MidRes__UsPresidentDonaldTrumpAndChinaSPresidentXiJinpin-1794969459_2548ad-1794970533_30d5a7-1794972474.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260925__C9DV8KZ__v2__MidRes__UsPresidentDonaldTrumpAndChinaSPresidentXiJinpin-1794969459_2548ad-1794970533_30d5a7-1794972474.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:59:54+00:00"
-  },
-  {
-   "id": "5b173bcf7f47daa9",
-   "title": "Photos: Thousands march in Haiti in support of Salvadoran troops",
-   "summary": "Haitians take to the streets to praise El Salvador’s Nayib Bukele and his soldiers for fighting gangs in their country.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/gallery/2026/11/18/photos-thousands-march-in-haiti-in-support-of-salvadoran-troops?traffic_source=rss",
-   "date": "2026-11-18T09:23:38+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7TC6KG__v2__HighRes__HaitiElSalvadorUnrestCrime-1794990359.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7TC6KG__v2__HighRes__HaitiElSalvadorUnrestCrime-1794990359.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:41:34+00:00"
   }
  ]
 }

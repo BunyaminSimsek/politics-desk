@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T11:18:31+00:00",
+ "generatedAt": "2026-11-20T11:28:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "f087d7c7855c3ac1",
+   "title": "Who to watch in Spain's election race",
+   "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T11:23:42+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-17T18:23:22+00:00"
+  },
   {
    "id": "c8606f7a59d7ed62",
    "title": "UK says EU reset deal agreed but talks will continue ‘in some areas’ – live",
@@ -241,17 +263,17 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3e289bd0c4dae807be31fa1f1a33fb5b5f7fa3c9/390_0_3881_3106/master/3881.jpg?width=700&quality=85&auto=format&fit=max&s=f6ca0e4ff5b6202a4190b75f415d4674",
-    "w": 700,
+    "credit": "Photograph: Tom Williams/CQ-Roll Call via Getty Images",
     "h": 560,
-    "credit": "Photograph: Tom Williams/CQ-Roll Call via Getty Images"
+    "url": "https://i.guim.co.uk/img/media/3e289bd0c4dae807be31fa1f1a33fb5b5f7fa3c9/390_0_3881_3106/master/3881.jpg?width=700&quality=85&auto=format&fit=max&s=f6ca0e4ff5b6202a4190b75f415d4674",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T11:18:31+00:00"
   },
   {
    "id": "fa351c7737963f83",
-   "title": "The Match review – conciliatory look back at England’s ‘hand of God’ clash with Argentina",
+   "title": "The Match review – Lineker, Shilton et al look back at England’s ‘hand of God’ clash with Argentina",
    "summary": "Argentinian co-directors Juan Cabral and Santiago Franco work hard to appear impartial in account that situates the game in a long continuum of conflict Here is a football documentary that is a cut above the drain-clogging content that loiters in streaming…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/film/2026/nov/20/the-match-review-conciliatory-look-back-at-englands-hand-of-god-clash-with-argentina",
@@ -283,10 +305,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a771041b26b6102943fceed92ba9290c1f609c2e/655_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=a05d47a4a3fcd8cf7c83b66b46d6eb37",
-    "w": 700,
+    "credit": "Photograph: Jeff Kowalsky/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Jeff Kowalsky/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/a771041b26b6102943fceed92ba9290c1f609c2e/655_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=a05d47a4a3fcd8cf7c83b66b46d6eb37",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T11:18:31+00:00"
@@ -475,9 +497,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/ebf12314-f8bc-4d0b-90aa-b812d63cfbc5,1795129526649/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C5000%2C2812%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/ebf12314-f8bc-4d0b-90aa-b812d63cfbc5,1795129526649/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C5000%2C2812%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T09:09:09+00:00"
@@ -6711,28 +6733,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:00:21+00:00"
-  },
-  {
-   "id": "f087d7c7855c3ac1",
-   "title": "Who to watch in Spain's election race",
-   "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T11:44:25+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T18:23:22+00:00"
   },
   {
    "id": "ff96299067217bce",

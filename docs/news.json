@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T07:18:47+00:00",
+ "generatedAt": "2026-11-20T07:27:57+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "bc7ca4a145728fd4",
+   "title": "Cop31 live: crunch time as deeply divided climate talks enter final day",
+   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Good morning. I’m Matthew Pearce, bringing you the Cop31 liveblog from London.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-20T07:27:56+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Yasin Akgül/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/bf2aefa654c56a510f3bb1bf2586a24294e1d22c/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=5d43a150b063743add2507c6bfbc6840",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T07:18:47+00:00"
+  },
+  {
    "id": "3432b89d3c37b065",
    "title": "UK and EU to agree youth mobility scheme, BBC understands",
    "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
@@ -186,28 +208,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T04:24:35+00:00"
-  },
-  {
-   "id": "bc7ca4a145728fd4",
-   "title": "Cop31 live: crunch time as deeply divided climate talks enter final day",
-   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Welcome to the final day of Cop31 in Antalya where the hosts Turkey and the president of negotiations, Australia, will bring the UN climate…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T07:10:51+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/bf2aefa654c56a510f3bb1bf2586a24294e1d22c/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=5d43a150b063743add2507c6bfbc6840",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Yasin Akgül/AFP/Getty Images"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T07:18:47+00:00"
   },
   {
    "id": "4c907ceadad6329d",
@@ -882,7 +882,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

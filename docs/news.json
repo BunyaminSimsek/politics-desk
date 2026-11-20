@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T07:37:14+00:00",
+ "generatedAt": "2026-11-20T07:46:34+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 26
+   "kept": 27
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -186,6 +186,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T07:18:47+00:00"
+  },
+  {
+   "id": "79fa21ef1dae9c16",
+   "title": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
+   "summary": "UK economy defies City predictions and Iran war fallout, with gap between spending and income about £1bn lower than expected in October, at £17bn The UK government borrowed less than expected in October despite a rise in debt interest costs, in a boost for…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
+   "date": "2026-11-20T07:25:31+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/d6d9c0c84f2abfeb43fbf3cce6e569b8864075f9/425_0_4173_3340/master/4173.jpg?width=700&quality=85&auto=format&fit=max&s=47a544936e5e9e30564ebe94a05765d9",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Alex Segre/Alamy"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T07:46:34+00:00"
   },
   {
    "id": "3432b89d3c37b065",
@@ -669,14 +691,16 @@
   },
   {
    "id": "5c16bf2a998fb398",
-   "title": "Iran war live: Houthis escalate attacks on Saudi Arabia",
-   "summary": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
+   "title": "Iran war live: Saudi coalition says repels Houthi missile, drone attacks",
+   "summary": "Saudi-led coalition forces say they have intercepted several Houthi missiles and drones headed for Riyadh and the south.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
    "date": "2026-11-19T23:58:40+00:00",
    "topic": "mideast",
    "region": "world",
-   "tags": [],
+   "tags": [
+    "defence"
+   ],
    "kind": "news",
    "image": {
     "h": 800,
@@ -1633,10 +1657,10 @@
    "tags": [],
    "kind": "analysis",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e1f4/live/f36e5af0-e448-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e1f4/live/f36e5af0-e448-11f1-99a1-253766e7ad8b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e1f4/live/f36e5af0-e448-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e1f4/live/f36e5af0-e448-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T07:37:14+00:00"
@@ -8242,26 +8266,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:51:02+00:00"
-  },
-  {
-   "id": "542e4d1fcea86b15",
-   "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
-   "summary": "Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory About 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
-   "date": "2026-11-17T21:40:56+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Guajajara Community/Survival International/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/49205240a8e75adf2f7dfcec0b4ab2d68d8e1b2d/117_24_1519_1215/master/1519.jpg?width=700&quality=85&auto=format&fit=max&s=fa774a3aef492931e886ddcdc889fbdc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T21:41:23+00:00"
   }
  ]
 }

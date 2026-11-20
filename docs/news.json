@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T07:27:57+00:00",
+ "generatedAt": "2026-11-20T07:37:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 27
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -882,7 +882,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1620,6 +1620,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T09:18:37+00:00"
+  },
+  {
+   "id": "214c29e91180ca62",
+   "title": "Analysis: Trilateral summit high on spectacle, short on substance",
+   "summary": "The visuals of the historic trilateral meeting may be the only lasting impression left by the summit.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T17:55:15+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "analysis",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e1f4/live/f36e5af0-e448-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e1f4/live/f36e5af0-e448-11f1-99a1-253766e7ad8b.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T07:37:14+00:00"
   },
   {
    "id": "fd737119107954c7",
@@ -8242,28 +8262,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:41:23+00:00"
-  },
-  {
-   "id": "26a9442b80f1ad36",
-   "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-   "summary": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
-   "date": "2026-11-17T21:35:24+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afcadfb52-1794944507.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afcadfb52-1794944507.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T21:51:02+00:00"
   }
  ]
 }

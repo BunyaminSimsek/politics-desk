@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T08:14:03+00:00",
+ "generatedAt": "2026-11-20T08:23:05+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -168,10 +168,10 @@
   {
    "id": "bc7ca4a145728fd4",
    "title": "Cop31 live: crunch time as deeply divided climate talks enter final day",
-   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end The end is in sight.",
+   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end “I need to go to sleep every night wondering what that means, you know?”",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T08:10:27+00:00",
+   "date": "2026-11-20T08:15:05+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [
@@ -188,6 +188,26 @@
    "addedAt": "2026-11-20T07:18:47+00:00"
   },
   {
+   "id": "13b8208971a61ca3",
+   "title": "What the Brussels summit could mean for the UK-EU Brexit deal",
+   "summary": "BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mobility.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T08:07:06+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/764b/live/acd646d0-e4ba-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/764b/live/acd646d0-e4ba-11f1-a094-5fdc692f3e33.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T08:23:05+00:00"
+  },
+  {
    "id": "96258bd38c2dd809",
    "title": "Senior Tories urge Badenoch to drop Brexit talk in major strategy shift, sources say",
    "summary": "Exclusive: While PM pushes for EU reset, Tory leader is moving away from ‘divisive’ issue that defined party for years Kemi Badenoch has been advised by her team to limit the amount of time she spends discussing Brexit and Europe, the Guardian has been told…",
@@ -199,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/6651d6665ae5290a9aa6da8c2e030ac90ebdb1bd/144_282_3818_3054/master/3818.jpg?width=700&quality=85&auto=format&fit=max&s=839574a1db0e45b17de8a4bd073875c1",
-    "w": 700,
+    "credit": "Photograph: James Manning/PA",
     "h": 560,
-    "credit": "Photograph: James Manning/PA"
+    "url": "https://i.guim.co.uk/img/media/6651d6665ae5290a9aa6da8c2e030ac90ebdb1bd/144_282_3818_3054/master/3818.jpg?width=700&quality=85&auto=format&fit=max&s=839574a1db0e45b17de8a4bd073875c1",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T08:14:03+00:00"
@@ -8251,21 +8271,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:00:23+00:00"
-  },
-  {
-   "id": "ac936a25779c6c32",
-   "title": "How often lawmakers miss congressional votes — and why it matters",
-   "summary": "NPR's Sacha Pfeiffer talks with Eric Schickler, UC Berkeley political science professor, about voting absenteeism on Capitol Hill, and how commonplace it is for lawmakers to miss votes.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/17/nx-s1-6042894/how-often-lawmakers-miss-congressional-votes-and-why-it-matters",
-   "date": "2026-11-17T21:43:10+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "analysis",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-17T21:51:02+00:00"
   }
  ]
 }

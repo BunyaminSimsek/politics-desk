@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T20:01:24+00:00",
+ "generatedAt": "2026-11-20T20:10:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "CBC World",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "234635f653a52633",
+   "title": "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal",
+   "summary": "African ministers say they ‘didn’t come here to beg’, with civil society groups calling it the ‘worst Cop ever’ Crucial climate talks headed into overtime on the last official day of the Cop31 UN summit as countries continued to argue over a draft deal that…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+   "date": "2026-11-20T20:04:46+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Ümit Bektaş/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/48abb5109f1943cf34ae69dd6982c9a991c9c4ef/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=6df08337c541c6c7c6f14d15f6216e34",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T19:05:08+00:00"
+  },
+  {
    "id": "4fa85ae7ae72f760",
    "title": "Trump threatens ban on US firms building AI data centres overseas",
    "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T20:01:24+00:00"
@@ -267,26 +287,6 @@
    "addedAt": "2026-11-20T19:14:21+00:00"
   },
   {
-   "id": "234635f653a52633",
-   "title": "Cop31 talks go into overtime as fossil fuels vanish from draft deal",
-   "summary": "African ministers say they ‘didn’t come here to beg’, with civil society groups calling it the ‘worst Cop ever’ Crucial climate talks headed into overtime on the last official day of the Cop31 UN summit as countries continued to argue over a draft deal that…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
-   "date": "2026-11-20T18:56:22+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ümit Bektaş/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/48abb5109f1943cf34ae69dd6982c9a991c9c4ef/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=6df08337c541c6c7c6f14d15f6216e34",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T19:05:08+00:00"
-  },
-  {
    "id": "7a65904af0ba1b33",
    "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
    "summary": "Democrats – including incoming banking chair and both majority leader candidates – said wealthy interests were prioritized over the needs of working Americans In response to a Guardian investigation , four US Senate Democrats say they will work to resurrect a…",
@@ -340,9 +340,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/911f1964-7d85-4c69-bc0b-8103e3d379c8,1795204628530/full/max/0/default.jpg?im=Crop%2Crect%3D%28206%2C334%2C5690%2C3200%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/911f1964-7d85-4c69-bc0b-8103e3d379c8,1795204628530/full/max/0/default.jpg?im=Crop%2Crect%3D%28206%2C334%2C5690%2C3200%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T18:55:28+00:00"
@@ -685,9 +685,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d685e180-04ec-4d54-90da-dfcacfe53017,1795187704623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C42%2C3000%2C1687%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d685e180-04ec-4d54-90da-dfcacfe53017,1795187704623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C42%2C3000%2C1687%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:59:43+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T06:14:55+00:00",
+ "generatedAt": "2026-11-20T06:24:05+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "c3c21837f1c04bbb",
+   "title": "Trump bows to pressure, replaces US cyber security director",
+   "summary": "President Trump has removed National Cyber Director Sean Cairncross and named a Defense Department official as interim.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss",
+   "date": "2026-11-20T05:48:35+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795153683.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795153683.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T06:24:05+00:00"
+  },
   {
    "id": "d21a196d9554d3dd",
    "title": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
@@ -8239,26 +8259,6 @@
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950729.jpg?quality=80&resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950729.jpg?quality=80&resize=1200%2C800",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T21:41:23+00:00"
-  },
-  {
-   "id": "70bea8d3b62980cf",
-   "title": "Acting US navy secretary refers to eight suicide attempts as 'suicide mitigations' – video",
-   "summary": "Hung Cao, the acting US navy secretary, who faced lawmakers to be confirmed as the permanent top official, said during his confirmation hearing that the eight suicide attempts on board the USS Abraham Lincoln – which returned last month from a record-breaking…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/video/2026/nov/17/hung-cao-acting-us-navy-secretary-refers-to-eight-suicide-attempts-as-suicide-mitigations-video",
-   "date": "2026-11-17T21:15:08+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/1e85a934e6f22ab1ae2128cb8413e4cf5cb32653/514_0_6882_5504/master/6882.jpg?width=700&quality=85&auto=format&fit=max&s=337e158f30cda40160c69294152b6507",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:41:23+00:00"

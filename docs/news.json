@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T07:46:34+00:00",
+ "generatedAt": "2026-11-20T07:55:43+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -168,10 +168,10 @@
   {
    "id": "bc7ca4a145728fd4",
    "title": "Cop31 live: crunch time as deeply divided climate talks enter final day",
-   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Good morning. I’m Matthew Pearce, bringing you the Cop31 liveblog from London.",
+   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end The end is in sight.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T07:27:56+00:00",
+   "date": "2026-11-20T07:50:19+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [
@@ -201,10 +201,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d6d9c0c84f2abfeb43fbf3cce6e569b8864075f9/425_0_4173_3340/master/4173.jpg?width=700&quality=85&auto=format&fit=max&s=47a544936e5e9e30564ebe94a05765d9",
-    "w": 700,
+    "credit": "Photograph: Alex Segre/Alamy",
     "h": 560,
-    "credit": "Photograph: Alex Segre/Alamy"
+    "url": "https://i.guim.co.uk/img/media/d6d9c0c84f2abfeb43fbf3cce6e569b8864075f9/425_0_4173_3340/master/4173.jpg?width=700&quality=85&auto=format&fit=max&s=47a544936e5e9e30564ebe94a05765d9",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T07:46:34+00:00"
@@ -906,7 +906,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

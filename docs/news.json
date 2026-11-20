@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T17:31:11+00:00",
+ "generatedAt": "2026-11-20T17:40:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 15
+   "kept": 11
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/04c9/live/c1fcac60-e4ed-11f1-a094-5fdc692f3e33.png",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/04c9/live/c1fcac60-e4ed-11f1-a094-5fdc692f3e33.png"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/04c9/live/c1fcac60-e4ed-11f1-a094-5fdc692f3e33.png",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/04c9/live/c1fcac60-e4ed-11f1-a094-5fdc692f3e33.png",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:31:11+00:00"
@@ -199,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/7228d79761d8b0eeb3f54619f0839b20ae24de2d/527_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=c160683530b4446d3a85dbf2f57254f4",
-    "w": 700,
+    "credit": "Photograph: Aaron Schwartz/UPI/Shutterstock",
     "h": 560,
-    "credit": "Photograph: Aaron Schwartz/UPI/Shutterstock"
+    "url": "https://i.guim.co.uk/img/media/7228d79761d8b0eeb3f54619f0839b20ae24de2d/527_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=c160683530b4446d3a85dbf2f57254f4",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T10:59:55+00:00"
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-17.09.45-1795194670.png?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-17.09.45-1795194670.png?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-17.09.45-1795194670.png?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-17.09.45-1795194670.png?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:31:11+00:00"
@@ -259,10 +259,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/f8/4f8ddc3a-de8e-57f3-a6e3-8e65ab9139b9/6b008153b177d.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/f8/4f8ddc3a-de8e-57f3-a6e3-8e65ab9139b9/6b008153b177d.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/f8/4f8ddc3a-de8e-57f3-a6e3-8e65ab9139b9/6b008153b177d.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/f8/4f8ddc3a-de8e-57f3-a6e3-8e65ab9139b9/6b008153b177d.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:31:11+00:00"
@@ -299,9 +299,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0e660aac-4296-46df-b2f9-23251f86a9e8,1795193359887/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7018%2C3947%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0e660aac-4296-46df-b2f9-23251f86a9e8,1795193359887/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7018%2C3947%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:31:11+00:00"
@@ -554,10 +554,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/068801c5c4db03d2d0704c601ccc0f2d84928155/752_0_2044_1636/master/2044.jpg?width=700&quality=85&auto=format&fit=max&s=835f978028c24daeb02d022f579fec6a",
-    "w": 700,
+    "credit": "Photograph: Social Media/Reuters",
     "h": 560,
-    "credit": "Photograph: Social Media/Reuters"
+    "url": "https://i.guim.co.uk/img/media/068801c5c4db03d2d0704c601ccc0f2d84928155/752_0_2044_1636/master/2044.jpg?width=700&quality=85&auto=format&fit=max&s=835f978028c24daeb02d022f579fec6a",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T12:51:30+00:00"
@@ -803,10 +803,10 @@
    ],
    "kind": "news",
    "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Ford-Oakville-Assembly.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Joly-Ford.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Joly-Ford.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Ford-Oakville-Assembly.jpg?w=640&h=427&crop=1&quality=70&strip=all"
    },
    "breaking": false,
    "addedAt": "2026-11-20T14:53:09+00:00"
@@ -1480,9 +1480,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/06174b8c-aa82-415a-84b4-624dc6fa7dfb,1794929032851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C1280%2C720%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/06174b8c-aa82-415a-84b4-624dc6fa7dfb,1794929032851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C1280%2C720%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:39:10+00:00"
@@ -1501,9 +1501,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/9cc57f1c-3bf5-481d-a9bd-2b2a3e8c74bc,1795120127416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5000%2C2812%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/9cc57f1c-3bf5-481d-a9bd-2b2a3e8c74bc,1795120127416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5000%2C2812%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:39:10+00:00"

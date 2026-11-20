@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T05:19:35+00:00",
+ "generatedAt": "2026-11-20T05:28:39+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T01:02:09+00:00"
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/36dbd5a94532a5af971915dcd8ce0a00c8f9f570/0_334_1309_1047/master/1309.jpg?width=700&quality=85&auto=format&fit=max&s=94b7d75ab523fb036bde0be95320f675",
-    "w": 700,
+    "credit": "Photograph: supplied",
     "h": 560,
-    "credit": "Photograph: supplied"
+    "url": "https://i.guim.co.uk/img/media/36dbd5a94532a5af971915dcd8ce0a00c8f9f570/0_334_1309_1047/master/1309.jpg?width=700&quality=85&auto=format&fit=max&s=94b7d75ab523fb036bde0be95320f675",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T05:19:35+00:00"
@@ -261,10 +261,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6affd015-1795149845.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6affd015-1795149845.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6affd015-1795149845.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6affd015-1795149845.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T05:19:35+00:00"
@@ -778,7 +778,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

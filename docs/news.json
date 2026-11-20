@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T09:18:54+00:00",
+ "generatedAt": "2026-11-20T09:28:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 27
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "345cd3aee9ffebb8",
+   "title": "British Columbia's premier-designate Lorne Doerkson, cabinet to be sworn in today",
+   "summary": "VICTORIA - British Columbia's first Conservative government in almost a century will take the reins of power when Lorne Doerkson becomes premier and unveils his first cabinet.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/british-columbia/british-columbia-s-premier-designate-lorne-doerkson-cabinet-to-be-sworn-in-today/article_afadbadc-52d8-54b7-b0d9-027f92a5ffe2.html",
+   "date": "2026-11-20T09:14:18+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/82/d827b386-357e-504e-a103-a434176801e1/6b0010c523fc1.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/82/d827b386-357e-504e-a103-a434176801e1/6b0010c523fc1.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T09:28:04+00:00"
+  },
+  {
    "id": "9a0b2f5cf1dbb713",
    "title": "Pakistan minister visits India for first time since 2025 war",
    "summary": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2025-05-14T171719Z_64379619_RC2CHEAZV0V3_RTRMADP_3_INDIA-PAKISTAN-1779188541.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/05/2025-05-14T171719Z_64379619_RC2CHEAZV0V3_RTRMADP_3_INDIA-PAKISTAN-1779188541.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/05/2025-05-14T171719Z_64379619_RC2CHEAZV0V3_RTRMADP_3_INDIA-PAKISTAN-1779188541.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2025-05-14T171719Z_64379619_RC2CHEAZV0V3_RTRMADP_3_INDIA-PAKISTAN-1779188541.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T09:18:54+00:00"
@@ -188,10 +208,10 @@
   {
    "id": "c8606f7a59d7ed62",
    "title": "Andy Burnham in Brussels as UK and EU close in on Brexit reset deal – live",
-   "summary": "UK and EU have provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme.",
+   "summary": "UK and EU have provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme. During his meeting with businesses in Brussels, PM Burnham said his EU deal would add up to 0.5% to the UK’s GDP.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T09:04:17+00:00",
+   "date": "2026-11-20T09:10:37+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -239,10 +259,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 674,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T09:18:54+00:00"
@@ -8248,28 +8268,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T22:19:40+00:00"
-  },
-  {
-   "id": "efcae7e64164371e",
-   "title": "Mark Carney’s budget includes billions in borrowing beyond the deficit, new analysis finds",
-   "summary": "Parliament's budget watchdog found hundreds of billions of dollars in shadowy government borrowing that goes beyond the $62.3-billion deficit.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/carney-s-budget-includes-billions-in-borrowing-beyond-the-deficit-new-analysis-finds/article_38335c9a-e698-4a3d-9d17-8c5e0c956265.html",
-   "date": "2026-11-17T22:15:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy"
-   ],
-   "kind": "analysis",
-   "image": {
-    "h": 830,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/d4/fd4a0a44-5175-5065-8fa2-6fd651ebb548/6afccadff0004.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/d4/fd4a0a44-5175-5065-8fa2-6fd651ebb548/6afccadff0004.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T22:29:18+00:00"
   }
  ]
 }

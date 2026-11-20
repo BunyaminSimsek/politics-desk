@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T16:45:01+00:00",
+ "generatedAt": "2026-11-20T16:54:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "CBC World",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 14
+   "kept": 15
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T16:36:19+00:00",
+   "date": "2026-11-20T16:53:26+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [
@@ -188,6 +188,72 @@
    "addedAt": "2026-11-20T07:18:47+00:00"
   },
   {
+   "id": "acc7a3878954c01e",
+   "title": "Cop31 draft climate text dissected: what it says and what it means",
+   "summary": "Fiona Harvey reads between the lines of the draft document that will end up outlining decisions and resolutions from the 31st climate summit Cop31 live – latest updates The final text is one of the most important documents that will come out of the Cop31…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/20/cop31-draft-climate-text-explained",
+   "date": "2026-11-20T16:47:05+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "analysis",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/a076237da6786a84fb44957e8df41dc09dc831aa/602_0_6024_4819/master/6024.jpg?width=700&quality=85&auto=format&fit=max&s=540fc8274f8c45466736d0f304fad691",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Yasin Akgül/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T16:54:16+00:00"
+  },
+  {
+   "id": "81c0414eb3e191b5",
+   "title": "Cost of living protests sweep across Europe",
+   "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T16:45:34+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f3b8/live/b5cf3660-e501-11f1-a8e4-b1e12a49db15.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f3b8/live/b5cf3660-e501-11f1-a8e4-b1e12a49db15.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T16:54:16+00:00"
+  },
+  {
+   "id": "8776071de06f7d77",
+   "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
+   "summary": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
+   "date": "2026-11-20T16:40:35+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae34c26ed650-1793281062.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae34c26ed650-1793281062.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T16:54:16+00:00"
+  },
+  {
    "id": "dd6e75c7a37a8357",
    "title": "Construction of ⁠Trump’s ‌proposed ‘triumphal arch’ blocked by judge",
    "summary": "Virginia judge says the US president’s pet project ​is ​a ‘rushed job’ ​that ‌lacks ​legal basis A federal judge on Friday morning issued an injunction to block construction of ⁠Donald Trump’s ‌proposed so-called “triumphal arch” as a huge presence near some…",
@@ -199,10 +265,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ee86b9cf6f3a096add05db8731e750fb99d5818c/935_0_4665_3733/master/4665.jpg?width=700&quality=85&auto=format&fit=max&s=e8db1e3c467747ab2af5d6dcbb6de3d8",
-    "w": 700,
+    "credit": "Photograph: Tom Brenner/Getty Images",
     "h": 560,
-    "credit": "Photograph: Tom Brenner/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/ee86b9cf6f3a096add05db8731e750fb99d5818c/935_0_4665_3733/master/4665.jpg?width=700&quality=85&auto=format&fit=max&s=e8db1e3c467747ab2af5d6dcbb6de3d8",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T16:45:01+00:00"
@@ -221,10 +287,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/c96a6004cb1cd1c8d66f475a0c87dc3173c4f0c7/0_6_4375_3499/master/4375.jpg?width=700&quality=85&auto=format&fit=max&s=25190b3f4a7b043be7cc40e0c97fb583",
-    "w": 700,
+    "credit": "Photograph: Kevin Lamarque/Reuters",
     "h": 560,
-    "credit": "Photograph: Kevin Lamarque/Reuters"
+    "url": "https://i.guim.co.uk/img/media/c96a6004cb1cd1c8d66f475a0c87dc3173c4f0c7/0_6_4375_3499/master/4375.jpg?width=700&quality=85&auto=format&fit=max&s=25190b3f4a7b043be7cc40e0c97fb583",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T10:59:55+00:00"
@@ -243,10 +309,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/77/d772e45f-ef4e-52c0-84e7-e9b2a3da5314/6a4379db10dd8.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/77/d772e45f-ef4e-52c0-84e7-e9b2a3da5314/6a4379db10dd8.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/77/d772e45f-ef4e-52c0-84e7-e9b2a3da5314/6a4379db10dd8.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/77/d772e45f-ef4e-52c0-84e7-e9b2a3da5314/6a4379db10dd8.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T16:45:01+00:00"
@@ -315,7 +381,7 @@
   },
   {
    "id": "141b9dbf5aff4c58",
-   "title": "What is Vox, and how did Spain’s far-right party rise to prominence?",
+   "title": "‘Expel invaders’: The dangerous promises of Spain’s far-right Vox party",
    "summary": "As Spain prepares to vote, Vox is campaigning on mass deportations and 'national priority'.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence?traffic_source=rss",
@@ -8193,68 +8259,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T09:41:54+00:00"
-  },
-  {
-   "id": "965e4f24c1e60b64",
-   "title": "China’s Xi pitches free trade at APEC amid Trump’s global trade disruptions",
-   "summary": "The president says Beijing seeks to provide a 'stable, predictable and beneficial environment for global enterprises'.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/xis-pitch-for-free-trade-amid-trumps-global-trade-disruptions?traffic_source=rss",
-   "date": "2026-11-18T08:05:18+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afd4e1427-1794985492.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afd4e1427-1794985492.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T08:27:48+00:00"
-  },
-  {
-   "id": "4e539aaad56fdaeb",
-   "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
-   "summary": "Putin says Western powers are 'former hegemons', with Europe in the midst of a 'humiliating decline'.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
-   "date": "2026-11-18T07:50:47+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afd458b349f4-1794983307.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afd458b349f4-1794983307.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T08:18:11+00:00"
-  },
-  {
-   "id": "55cb894b692a7617",
-   "title": "Nigeria approves law allowing states to run their own police",
-   "summary": "The push for state police comes amid persistent security crises across the country.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr20vpq58093o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T07:45:06+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 673,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/36f7/live/b66d0950-e31a-11f1-81d5-99b8785f3e51.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/36f7/live/b66d0950-e31a-11f1-81d5-99b8785f3e51.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T07:50:33+00:00"
   }
  ]
 }

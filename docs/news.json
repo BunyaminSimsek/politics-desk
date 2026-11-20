@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T09:09:09+00:00",
+ "generatedAt": "2026-11-20T09:18:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 28
+   "kept": 27
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "9a0b2f5cf1dbb713",
+   "title": "Pakistan minister visits India for first time since 2025 war",
+   "summary": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
+   "date": "2026-11-20T09:11:57+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2025-05-14T171719Z_64379619_RC2CHEAZV0V3_RTRMADP_3_INDIA-PAKISTAN-1779188541.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/05/2025-05-14T171719Z_64379619_RC2CHEAZV0V3_RTRMADP_3_INDIA-PAKISTAN-1779188541.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T09:18:54+00:00"
+  },
+  {
+   "id": "c8606f7a59d7ed62",
+   "title": "Andy Burnham in Brussels as UK and EU close in on Brexit reset deal – live",
+   "summary": "UK and EU have provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+   "date": "2026-11-20T09:04:17+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Virginia Mayo/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b1b7e7d5285fba221edebb3cdc8cbf11fe1e0710/632_0_6307_5047/master/6307.jpg?width=700&quality=85&auto=format&fit=max&s=b40ce3b97bcf03ef54a13b4f75b985cc",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T08:41:32+00:00"
+  },
+  {
    "id": "bc7ca4a145728fd4",
    "title": "Cop31 live: crunch time as deeply divided climate talks enter final day",
    "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Rich countries are undermining the process, trust and credibility of the UN climate summit process by failing to live up to their commitments…",
@@ -188,6 +228,26 @@
    "addedAt": "2026-11-20T07:18:47+00:00"
   },
   {
+   "id": "f80a63c7b698e0af",
+   "title": "Ontario Liberals to select third new leader since 2018",
+   "summary": "TORONTO - Ontario Liberals wrap up a long leadership race Saturday, and, they hope, an even longer stretch without a long-term leader, as the party gets set to name the person they have selected to shepherd them into the next…",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-select-third-new-leader-since-2018/article_843541fa-11c7-5f0f-9793-201060342b25.html",
+   "date": "2026-11-20T09:00:09+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 674,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T09:18:54+00:00"
+  },
+  {
    "id": "26fda125d8a7896e",
    "title": "Canada looks to break Starlink's grip on Arctic military communications",
    "summary": "Two Canadian high-tech firms have taken a step toward challenging Elon Musk's Starlink with plans for a homegrown military satellite communications system.",
@@ -201,32 +261,12 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/ebf12314-f8bc-4d0b-90aa-b812d63cfbc5,1795129526649/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C5000%2C2812%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/ebf12314-f8bc-4d0b-90aa-b812d63cfbc5,1795129526649/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C5000%2C2812%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T09:09:09+00:00"
-  },
-  {
-   "id": "c8606f7a59d7ed62",
-   "title": "Andy Burnham in Brussels as UK and EU close in on Brexit reset deal – live",
-   "summary": "UK and EU have provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme. We are getting some lines from that meeting with business leaders in Brussels.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T08:50:18+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Virginia Mayo/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b1b7e7d5285fba221edebb3cdc8cbf11fe1e0710/632_0_6307_5047/master/6307.jpg?width=700&quality=85&auto=format&fit=max&s=b40ce3b97bcf03ef54a13b4f75b985cc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T08:41:32+00:00"
   },
   {
    "id": "c8ab7ff78dd0aabd",
@@ -8226,45 +8266,6 @@
     "h": 830,
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/d4/fd4a0a44-5175-5065-8fa2-6fd651ebb548/6afccadff0004.image.jpg?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/d4/fd4a0a44-5175-5065-8fa2-6fd651ebb548/6afccadff0004.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T22:29:18+00:00"
-  },
-  {
-   "id": "630d907281cd675d",
-   "title": "Liberals limit debate on assisted dying bill as Conservatives call for changes",
-   "summary": "As Opposition MPs call for more study, the Liberal government has limited debate on its proposed changes to Canada's medical assistance in dying law.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/maid-bill-liberals-debate-9.7425597?cmp=rss",
-   "date": "2026-11-17T22:05:09+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/0aa14623-09a4-44aa-8674-20f5dc3be8c3,1794952529127/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C150%2C6155%2C3462%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T22:10:01+00:00"
-  },
-  {
-   "id": "3712e84ddadfc958",
-   "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
-   "summary": "US President Donald Trump has been trying to fire Cook since August 2025.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
-   "date": "2026-11-17T22:01:27+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2025/11/epa_6914e1b57b8c-1762976181.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2025/11/epa_6914e1b57b8c-1762976181.jpg?resize=1200%2C800",
     "w": 1200
    },
    "breaking": false,

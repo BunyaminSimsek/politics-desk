@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T21:16:18+00:00",
+ "generatedAt": "2026-11-20T21:25:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "27173930602c0888",
+   "title": "Trump says Vance’s statement blaming Iran war for Republican midterm wipeout was ‘fine’ in wide-ranging press conference – live",
+   "summary": "US president again claims Republicans’ midterms losses were because he ‘wasn’t on the ballot’, vows to fight for datacenters and boasts of his relationship with Xi Jinping",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+   "date": "2026-11-20T21:11:42+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Alex Wong/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/1f41ef725487380d40c24dc1d0b73932c786a349/325_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=ea39a0e9aa98f85909a7d05bf629db64",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T10:59:55+00:00"
+  },
+  {
+   "id": "d6132208e24afb09",
+   "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+   "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+   "date": "2026-11-20T21:05:07+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00ac25668c2-1795206181.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00ac25668c2-1795206181.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T21:25:58+00:00"
+  },
+  {
+   "id": "4ac43ec9386593c7",
+   "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+   "summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+   "date": "2026-11-20T20:59:04+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b00aef5d23d-1795206901.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b00aef5d23d-1795206901.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T21:25:58+00:00"
+  },
+  {
    "id": "4fa85ae7ae72f760",
    "title": "Trump threatens ban on US firms building AI data centres overseas",
    "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
@@ -186,26 +248,24 @@
    "addedAt": "2026-11-20T20:01:24+00:00"
   },
   {
-   "id": "27173930602c0888",
-   "title": "Trump says Vance’s statement blaming Iran war for Republican midterm wipeout was ‘fine’ in wide-ranging press conference – live",
-   "summary": "US president again claims Republicans’ midterms losses were because he ‘wasn’t on the ballot’, vows to fight for datacenters and boasts of his relationship with Xi Jinping",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T20:53:49+00:00",
-   "topic": "us",
+   "id": "c09db21377d24755",
+   "title": "Can the UK and EU turn the page on Brexit?",
+   "summary": "A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
+   "date": "2026-11-20T20:51:19+00:00",
+   "topic": "europe",
    "region": "world",
-   "tags": [
-    "elections"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Alex Wong/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/1f41ef725487380d40c24dc1d0b73932c786a349/325_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=ea39a0e9aa98f85909a7d05bf629db64",
-    "w": 700
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795207850.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795207850.jpg?quality=80&resize=640%2C427"
    },
    "breaking": false,
-   "addedAt": "2026-11-20T10:59:55+00:00"
+   "addedAt": "2026-11-20T21:25:58+00:00"
   },
   {
    "id": "88090e7d863b2579",
@@ -250,7 +310,7 @@
   {
    "id": "2b0dd0e410fa1c99",
    "title": "First Nations youth plan day of action against Ottawa's major projects legislation",
-   "summary": "OTTAWA - First Nations youth say they will hold a national day of action next month to protest the federal government's proposed major projects legislation.",
+   "summary": "OTTAWA - First Nations youth are planning a national day of action next month to protest the federal government's proposed major projects law, which they say would run roughshod over their rights and fail to protect the environment.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/first-nations-youth-plan-day-of-action-against-ottawa-s-major-projects-legislation/article_a1166642-8fd3-5e2e-9487-108d14e21b8f.html",
    "date": "2026-11-20T20:18:53+00:00",
@@ -381,9 +441,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/8a646e33-607e-43f8-b8e7-3ecfb542ec29,1795201429186/full/max/0/default.jpg?im=Crop%2Crect%3D%281888%2C190%2C6678%2C3756%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/8a646e33-607e-43f8-b8e7-3ecfb542ec29,1795201429186/full/max/0/default.jpg?im=Crop%2Crect%3D%281888%2C190%2C6678%2C3756%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T19:14:21+00:00"
@@ -619,7 +679,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1723,7 +1783,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8201,68 +8261,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:18:44+00:00"
-  },
-  {
-   "id": "06612b957537e5fc",
-   "title": "Annoying Trump and dodging Flock: inside MapQuest’s contrarian comeback",
-   "summary": "After refusing to obey the president’s Lake Ontario order, MapQuest briefly rose to No 1 in navigation apps.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/mapquest-google-apple-navigation-app-flock",
-   "date": "2026-11-18T12:00:56+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Illustration: Guardian Design / Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a6747b5a057c449317f63b1bafa3cd8aad85d566/0_1079_2400_1920/master/2400.jpg?width=700&quality=85&auto=format&fit=max&s=2b6ba294c1dde8d21d7ee5798a933e08",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:18:44+00:00"
-  },
-  {
-   "id": "e3bce8a79f3a94bd",
-   "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
-   "summary": "Houthis advance towards Aden as Saudi-led coalition conducts precision strikes on key military targets in Yemen.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
-   "date": "2026-11-18T11:57:09+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/14446764-1794892803.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/14446764-1794892803.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:18:44+00:00"
-  },
-  {
-   "id": "794494a9cad37398",
-   "title": "Who would gain from carving up Pakistan’s provinces?",
-   "summary": "Pakistan could split four provinces into 12, raising hopes of better governance and fears of greater military power.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/11-16-hosted-pakistan-provinces-plan-explainer?traffic_source=rss",
-   "date": "2026-11-18T11:47:32+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795002502.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795002502.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:00:21+00:00"
   }
  ]
 }

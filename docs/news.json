@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T23:28:21+00:00",
+ "generatedAt": "2026-11-20T23:37:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "CTV News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "BBC News",
@@ -65,13 +65,13 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,32 @@
  ],
  "items": [
   {
+   "id": "006483c428ae0c1e",
+   "title": "Stellantis meeting ‘challenging’ but ‘productive’, Premier Ford says",
+   "summary": "The meeting came as Minister of Industry Mélanie Joly said the automaker can either keep its Brampton plant open or face a multimillion-dollar lawsuit from the federal government.",
+   "source": "Global News Toronto",
+   "url": "https://globalnews.ca/news/12160415/stellantis-brampton-plant-meeting-doug-ford/",
+   "date": "2026-11-20T23:37:01+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T23:37:33+00:00"
+  },
+  {
    "id": "27173930602c0888",
    "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – live",
    "summary": "Thom Tillis, outgoing senator from North Carolina, placed hold on nomination of Michael LoSapio a day after his confirmation hearing",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T23:08:46+00:00",
+   "date": "2026-11-20T23:16:21+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -8239,26 +8259,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T13:24:38+00:00"
-  },
-  {
-   "id": "ff3942ae628f34da",
-   "title": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
-   "summary": "GOP lawmakers are rushing through high-priority bills before newly elected Democrats are sworn in Climate groups fear lawmakers could pass a bill by the end of the year that would give fossil fuel companies immunity from lawsuits and legislation that aims to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
-   "date": "2026-11-18T13:00:04+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fcfc6041e3ed36db7c3c31a6df310170c3d409e9/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=5b68a00b4196e588714a2197c4423a23",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T13:15:28+00:00"
   }
  ]
 }

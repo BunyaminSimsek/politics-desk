@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T19:42:46+00:00",
+ "generatedAt": "2026-11-20T19:52:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "27173930602c0888",
+   "title": "Trump says Vance’s statement blaming Iran war for Republican midterm wipeout was ‘fine’ in wide-ranging press conference – live",
+   "summary": "US president again claims Republicans’ midterms losses were because he ‘wasn’t on the ballot’, vows to fight for datacenters and boasts of his relationship with Xi Jinping",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+   "date": "2026-11-20T19:34:03+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Alex Wong/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/1f41ef725487380d40c24dc1d0b73932c786a349/325_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=ea39a0e9aa98f85909a7d05bf629db64",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T10:59:55+00:00"
+  },
+  {
    "id": "497402baaf1855b7",
    "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
    "summary": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
@@ -177,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00994a-1795201354.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00994a-1795201354.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00994a-1795201354.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00994a-1795201354.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T19:42:46+00:00"
@@ -197,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795199268.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795199268.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795199268.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795199268.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T19:42:46+00:00"
@@ -223,28 +245,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T19:14:21+00:00"
-  },
-  {
-   "id": "27173930602c0888",
-   "title": "Trump says Vance’s statement blaming Iran war for Republican midterm wipeout was ‘fine’ in wide-ranging press conference – live",
-   "summary": "US president again claims Republicans’ midterms losses were because he ‘wasn’t on the ballot’, vows to fight for datacenters and boasts of his relationship with Xi Jinping",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T19:08:53+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Alex Wong/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/1f41ef725487380d40c24dc1d0b73932c786a349/325_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=ea39a0e9aa98f85909a7d05bf629db64",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T10:59:55+00:00"
   },
   {
    "id": "234635f653a52633",
@@ -476,7 +476,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1580,7 +1580,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1883,9 +1883,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/06174b8c-aa82-415a-84b4-624dc6fa7dfb,1794929032851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C1280%2C720%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/06174b8c-aa82-415a-84b4-624dc6fa7dfb,1794929032851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C1280%2C720%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:39:10+00:00"
@@ -1904,9 +1904,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9cc57f1c-3bf5-481d-a9bd-2b2a3e8c74bc,1795120127416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5000%2C2812%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9cc57f1c-3bf5-481d-a9bd-2b2a3e8c74bc,1795120127416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5000%2C2812%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:39:10+00:00"

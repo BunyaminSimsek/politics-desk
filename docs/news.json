@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T08:04:49+00:00",
+ "generatedAt": "2026-11-20T08:14:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end The end is in sight.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T07:50:19+00:00",
+   "date": "2026-11-20T08:10:27+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [
@@ -186,6 +186,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T07:18:47+00:00"
+  },
+  {
+   "id": "96258bd38c2dd809",
+   "title": "Senior Tories urge Badenoch to drop Brexit talk in major strategy shift, sources say",
+   "summary": "Exclusive: While PM pushes for EU reset, Tory leader is moving away from ‘divisive’ issue that defined party for years Kemi Badenoch has been advised by her team to limit the amount of time she spends discussing Brexit and Europe, the Guardian has been told…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/20/kemi-badenoch-brexit-eu-conservatives",
+   "date": "2026-11-20T08:00:26+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/6651d6665ae5290a9aa6da8c2e030ac90ebdb1bd/144_282_3818_3054/master/3818.jpg?width=700&quality=85&auto=format&fit=max&s=839574a1db0e45b17de8a4bd073875c1",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: James Manning/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T08:14:03+00:00"
   },
   {
    "id": "79fa21ef1dae9c16",
@@ -8244,26 +8264,6 @@
    "tags": [],
    "kind": "analysis",
    "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-17T21:51:02+00:00"
-  },
-  {
-   "id": "58bd9d6a8cb698dc",
-   "title": "Left-wing Québec solidaire accuses rivals of trying to 'cancel' party",
-   "summary": "Quebec's left-wing party is accusing its rivals of trying to shut it out by denying it official parliamentary status in the provincial legislature.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/left-wing-qu-bec-solidaire-accuses-rivals-of-trying-to-cancel-party/article_48132fae-5e0c-573e-aada-7069e0ad3628.html",
-   "date": "2026-11-17T21:41:16+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 860,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/a0/fa08312f-36f9-522f-8e46-150143e7dc7f/6afccae11d10d.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/a0/fa08312f-36f9-522f-8e46-150143e7dc7f/6afccae11d10d.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
    "breaking": false,
    "addedAt": "2026-11-17T21:51:02+00:00"
   }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T04:33:42+00:00",
+ "generatedAt": "2026-11-20T04:42:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "3432b89d3c37b065",
+   "title": "UK and EU to agree youth mobility scheme, BBC understands",
+   "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T04:35:51+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T04:24:35+00:00"
+  },
+  {
    "id": "6bb7fc8f304864c7",
    "title": "‘Perfect weapon’: diabetic woman found guilty of murdering her 94-year-old parents with insulin",
    "summary": "Jury convicts Raelene Polymiadis after four-month trial in South Australian supreme court Get our breaking news email , free app or daily news podcast A jury has convicted a diabetic woman of murdering both her elderly parents with insulin after a marathon…",
@@ -177,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/526c54d5025c65a86473a42bf78176c1075209bc/0_0_3780_3024/master/3780.jpg?width=700&quality=85&auto=format&fit=max&s=db418c6ce0c7317c5af7067d7d065f07",
-    "w": 700,
+    "credit": "Photograph: Abe Maddison/AAP",
     "h": 560,
-    "credit": "Photograph: Abe Maddison/AAP"
+    "url": "https://i.guim.co.uk/img/media/526c54d5025c65a86473a42bf78176c1075209bc/0_0_3780_3024/master/3780.jpg?width=700&quality=85&auto=format&fit=max&s=db418c6ce0c7317c5af7067d7d065f07",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T04:33:42+00:00"
@@ -270,28 +292,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T03:01:26+00:00"
-  },
-  {
-   "id": "3432b89d3c37b065",
-   "title": "UK and EU to agree youth mobility scheme, BBC understands",
-   "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T02:40:49+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T04:24:35+00:00"
   },
   {
    "id": "02dfd629129d4193",
@@ -716,7 +716,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T22:31:37+00:00",
+ "generatedAt": "2026-11-20T22:40:40+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "CBC World",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -185,9 +185,31 @@
    "addedAt": "2026-11-20T22:22:09+00:00"
   },
   {
+   "id": "aaa9bee4f069f8ff",
+   "title": "Pierre Poilievre says he won't resign if Conservatives lose Brantford byelection",
+   "summary": "Pierre Poilievre says he will stay on as leader of the Conservatives even if they lose an upcoming byelection in what has previously been considered a safe riding for the party.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/pierre-poilievre-says-he-won-t-resign-if-conservatives-lose-brantford-byelection/article_67342d13-a880-4f89-961f-b6bf8e97cfe5.html",
+   "date": "2026-11-20T22:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a6/9a663740-5457-51c8-9c58-c105787f32f1/6b00c1f259f8f.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 866,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a6/9a663740-5457-51c8-9c58-c105787f32f1/6b00c1f259f8f.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T22:40:40+00:00"
+  },
+  {
    "id": "27173930602c0888",
    "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – live",
-   "summary": "Thom Tillis, from North Carolina, placed hold on nomination of Michael LoSapio a day after his Senate confirmation hearing",
+   "summary": "Thom Tillis, outgoing senator from North Carolina, placed hold on nomination of Michael LoSapio a day after his confirmation hearing",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
    "date": "2026-11-20T21:58:50+00:00",
@@ -544,9 +566,9 @@
   },
   {
    "id": "ef2dbe066d50357d",
-   "title": "Feds, Ontario meet with Stellantis execs in last-ditch effort to save Brampton plant",
-   "summary": "The federal and Ontario governments are meeting with auto executives from Stellantis on Friday in a last-ditch effort to save thousands of high-paying auto manufacturing jobs at the company's recently closed Brampton plant.",
-   "source": "CBC News",
+   "title": "Ontario Premier Ford says Stellantis owes feds $873M in auto plant subsidies",
+   "summary": "Ontario Premier Doug Ford says Stellantis owes the federal government \"roughly\" $873 million in subsidies, as Ottawa and the province look for a way to reopen the automaker's Brampton plant.",
+   "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/politics/joly-ford-stellantis-brampton-unifor-meeting-9.7430142?cmp=rss",
    "date": "2026-11-20T19:09:55+00:00",
    "topic": "ontario",
@@ -554,9 +576,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/a0c00cdd-da4e-4b80-8cd3-d6d9181fa2f3,1795212439543/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C353%2C8640%2C4860%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/8a646e33-607e-43f8-b8e7-3ecfb542ec29,1795201429186/full/max/0/default.jpg?im=Crop%2Crect%3D%281888%2C190%2C6678%2C3756%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T19:14:21+00:00"
@@ -792,7 +814,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1896,7 +1918,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8238,26 +8260,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:37:49+00:00"
-  },
-  {
-   "id": "bfb4cc22969362ea",
-   "title": "Rwanda and DRC: What is holding up the Washington peace process?",
-   "summary": "The two sides remain divided over key security commitments under the Washington Accords.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
-   "date": "2026-11-18T12:27:23+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/aljazeera-2-1794913408.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/aljazeera-2-1794913408.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:47:21+00:00"
   }
  ]
 }

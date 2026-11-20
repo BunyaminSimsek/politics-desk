@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T00:43:51+00:00",
+ "generatedAt": "2026-11-20T00:53:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 13
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "b5502e0ebc980de5",
+   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+   "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T00:50:24+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T19:25:59+00:00"
+  },
+  {
    "id": "c640d519dbf3ec5c",
    "title": "Trump's midterm defeat hasn't moved Canada-U.S. trade talks, sources say",
    "summary": "Sources say Canada-U.S. trade talks have not meaningfully changed since the U.S. midterm vote.",
@@ -179,13 +199,36 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/af/caf0b1ab-0f72-563d-93b7-d6537a4fd479/6aff8242be447.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/af/caf0b1ab-0f72-563d-93b7-d6537a4fd479/6aff8242be447.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/af/caf0b1ab-0f72-563d-93b7-d6537a4fd479/6aff8242be447.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/af/caf0b1ab-0f72-563d-93b7-d6537a4fd479/6aff8242be447.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T00:43:51+00:00"
+  },
+  {
+   "id": "c38a95a63f92a4f3",
+   "title": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live",
+   "summary": "State’s attorney general Rob Bonta says ‘conduct of Nvidia and its former CEO raises bright red flags’ as he opens investigation",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-20T00:27:39+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections",
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Ann Wang/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=700&quality=85&auto=format&fit=max&s=a0a540737ae6b09d6325376f709ba92c",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "afc94d1f9efcbf28",
@@ -206,29 +249,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T00:34:37+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live",
-   "summary": "State’s attorney general Rob Bonta says ‘conduct of Nvidia and its former CEO raises bright red flags’ as he opens investigation",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-20T00:18:50+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections",
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ann Wang/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=700&quality=85&auto=format&fit=max&s=a0a540737ae6b09d6325376f709ba92c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "ed0546a014b17392",
@@ -477,26 +497,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T22:14:14+00:00"
-  },
-  {
-   "id": "b5502e0ebc980de5",
-   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-   "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T21:21:43+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T19:25:59+00:00"
   },
   {
    "id": "44e59d4dd36f9aab",

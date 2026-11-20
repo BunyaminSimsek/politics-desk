@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T04:15:20+00:00",
+ "generatedAt": "2026-11-20T04:24:35+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "BBC News",
@@ -250,6 +250,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T03:01:26+00:00"
+  },
+  {
+   "id": "3432b89d3c37b065",
+   "title": "UK and EU to agree youth mobility scheme, BBC understands",
+   "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T02:40:49+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T04:24:35+00:00"
   },
   {
    "id": "02dfd629129d4193",
@@ -8232,26 +8254,6 @@
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T21:22:25+00:00"
-  },
-  {
-   "id": "99ecaad568acc0fe",
-   "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
-   "summary": "Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
-   "date": "2026-11-17T20:59:56+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Rep Juan Vargas via X",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6be98365559fdfcaa1449ed97d2c6354c78f0ef4/0_19_1084_867/master/1084.jpg?width=700&quality=85&auto=format&fit=max&s=671e099e372eaca822cd2afdc94b8e16",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:22:25+00:00"

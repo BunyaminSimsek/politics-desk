@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T07:09:39+00:00",
+ "generatedAt": "2026-11-20T07:18:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,50 @@
   }
  ],
  "items": [
+  {
+   "id": "3432b89d3c37b065",
+   "title": "UK and EU to agree youth mobility scheme, BBC understands",
+   "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T07:14:46+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T04:24:35+00:00"
+  },
+  {
+   "id": "bc7ca4a145728fd4",
+   "title": "Cop31 live: crunch time as deeply divided climate talks enter final day",
+   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Welcome to the final day of Cop31 in Antalya where the hosts Turkey and the president of negotiations, Australia, will bring the UN climate…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-20T07:10:51+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/bf2aefa654c56a510f3bb1bf2586a24294e1d22c/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=5d43a150b063743add2507c6bfbc6840",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Yasin Akgül/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T07:18:47+00:00"
+  },
   {
    "id": "4c907ceadad6329d",
    "title": "Nigeria moves to end jail terms for attempted suicide",
@@ -350,28 +394,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T05:19:35+00:00"
-  },
-  {
-   "id": "3432b89d3c37b065",
-   "title": "UK and EU to agree youth mobility scheme, BBC understands",
-   "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T04:35:51+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T04:24:35+00:00"
   },
   {
    "id": "6bb7fc8f304864c7",
@@ -8242,26 +8264,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:51:02+00:00"
-  },
-  {
-   "id": "a55b22db3ba1c815",
-   "title": "UK sanctions Israeli settlement firms to protect two-state solution",
-   "summary": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
-   "date": "2026-11-17T21:28:31+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950905.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950905.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T21:41:23+00:00"
   }
  ]
 }

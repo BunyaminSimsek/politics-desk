@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T23:58:04+00:00",
+ "generatedAt": "2026-11-20T00:07:11+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "5c16bf2a998fb398",
+   "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+   "summary": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+   "date": "2026-11-19T23:58:40+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aff72954cc3-1795125909.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aff72954cc3-1795125909.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T00:07:11+00:00"
+  },
+  {
    "id": "56802933dbed9181",
    "title": "‘Multiple trade issues’ outstanding in Canada, U.S. trade talks: Sources",
    "summary": "According to sources present at a meeting with Prime Minister Mark Carney and Donald Trump in China, the biggest trade issue is the 25 per cent U.S. tariff on Canadian automobiles.",
@@ -179,13 +199,36 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Trump-e1795132338773.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Trump-e1795132338773.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Trump-e1795132338773.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Trump-e1795132338773.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T23:58:04+00:00"
+  },
+  {
+   "id": "c38a95a63f92a4f3",
+   "title": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live",
+   "summary": "State’s attorney general Rob Bonta says ‘conduct of Nvidia and its former CEO raises bright red flags’ as he opens investigation",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "date": "2026-11-19T23:54:58+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections",
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Ann Wang/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=700&quality=85&auto=format&fit=max&s=a0a540737ae6b09d6325376f709ba92c",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "70ca065fe6f88077",
@@ -248,29 +291,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T23:10:50+00:00"
-  },
-  {
-   "id": "c38a95a63f92a4f3",
-   "title": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live",
-   "summary": "State’s attorney general Rob Bonta says ‘conduct of Nvidia and its former CEO raises bright red flags’ as he opens investigation",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-19T22:50:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections",
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ann Wang/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=700&quality=85&auto=format&fit=max&s=a0a540737ae6b09d6325376f709ba92c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
   },
   {
    "id": "2865a3eb444d55ac",
@@ -520,7 +540,7 @@
   {
    "id": "5107e59575ddcbbf",
    "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-   "summary": "Britain makes concessions on youth mobility scheme as negotiations on food and farming go down to the wire British and European negotiators were closing in on a reset deal on Thursday night as they provisionally agreed to allow 100,000 EU citizens to come to…",
+   "summary": "Britain makes concessions on youth mobility scheme as negotiations on food and farming go down to the wire British and European negotiators were striving to put the finishing touches to a deal on Thursday night as they provisionally agreed to allow 100,000 EU…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
    "date": "2026-11-19T20:52:05+00:00",
@@ -8227,25 +8247,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:48:36+00:00"
-  },
-  {
-   "id": "84a0c8ffdff7103a",
-   "title": "U.K. sanctions Israeli companies involved in building illegal settlements in West Bank",
-   "summary": "Britain said on Tuesday it would impose sanctions on eight Israeli construction companies involved in building settlements in the occupied West Bank, as part of its effort to protect the idea of a two-state solution.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/united-kingdom-israel-west-bank-construction-companies-settlements-9.7425375?cmp=rss",
-   "date": "2026-11-17T19:27:10+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/9427ab8a-df96-4947-935a-d4b2f67290a6,1794939693151/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C223%2C4240%2C2385%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T19:38:56+00:00"
   }
  ]
 }

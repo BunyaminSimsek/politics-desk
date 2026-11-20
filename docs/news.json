@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T15:02:21+00:00",
+ "generatedAt": "2026-11-20T15:11:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -166,13 +166,33 @@
  ],
  "items": [
   {
+   "id": "a596c1cec5852dfd",
+   "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
+   "summary": "Bipartisan legislation now goes to the House amid concerns by some Democrats and environmental groups The Senate approved bipartisan legislation on Thursday aimed at speeding up permitting reviews to build power plants, transmission lines and other energy…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
+   "date": "2026-11-20T15:09:09+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/8b551cbed6458ddfa1ec5a6a77a5814704c49850/2595_1276_3405_2724/master/3405.jpg?width=700&quality=85&auto=format&fit=max&s=64ab85bd6695665f2277c742ed8dea7e",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Charlie Riedel/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T15:11:38+00:00"
+  },
+  {
    "id": "bc7ca4a145728fd4",
-   "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
-   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
+   "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
+   "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T14:55:38+00:00",
-   "topic": "africa",
+   "date": "2026-11-20T15:04:24+00:00",
+   "topic": "turkey",
    "region": "world",
    "tags": [
     "climate"
@@ -186,6 +206,48 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T07:18:47+00:00"
+  },
+  {
+   "id": "745982f2dd95d774",
+   "title": "If Democrats want to win, blue-collar populists are the key | Dustin Guastella and Jared Abbott",
+   "summary": "Our analysis shows that ‘Bernie-Dog’ candidates are the most underrated success stories in US politics Democrats had a huge night on 3 November.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/20/democrats-blue-collar-populists",
+   "date": "2026-11-20T15:00:33+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ea4c1580da70e3a7298c2a8cec2937d0daea7dca/440_0_4620_3697/master/4620.jpg?width=700&quality=85&auto=format&fit=max&s=671c1b71539dcad90252d6101f4b7fa6",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Stephen Maturen/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T15:11:38+00:00"
+  },
+  {
+   "id": "d110e28f6dfb7de2",
+   "title": "Trump to hold press conference after meeting with Xi and Putin",
+   "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+   "date": "2026-11-20T15:00:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4462x3301+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F6b%2F46915cb347f38e28da875203fab6%2Fgettyimages-2305282124.jpg",
+    "w": 1200,
+    "h": 888,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4462x3301+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2F6b%2F46915cb347f38e28da875203fab6%2Fgettyimages-2305282124.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T15:11:38+00:00"
   },
   {
    "id": "27173930602c0888",
@@ -230,6 +292,26 @@
    "addedAt": "2026-11-20T14:53:09+00:00"
   },
   {
+   "id": "883e61c0c8de99e3",
+   "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
+   "summary": "Yemen's Houthis have warned airlines of military activity in Saudi airspace in the coming hours.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
+   "date": "2026-11-20T14:48:04+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b003d8ba895-1795177867.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b003d8ba895-1795177867.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T15:11:38+00:00"
+  },
+  {
    "id": "c8606f7a59d7ed62",
    "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
    "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise…",
@@ -241,10 +323,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=700&quality=85&auto=format&fit=max&s=208f4dc2f1acef8d1b4443cd0df870d0",
-    "w": 700,
+    "credit": "Photograph: Olivier Hoslet/EPA",
     "h": 560,
-    "credit": "Photograph: Olivier Hoslet/EPA"
+    "url": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=700&quality=85&auto=format&fit=max&s=208f4dc2f1acef8d1b4443cd0df870d0",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T08:41:32+00:00"
@@ -619,7 +701,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1727,7 +1809,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8171,85 +8253,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T03:49:20+00:00"
-  },
-  {
-   "id": "5df5cda1f6fb9d32",
-   "title": "White House pulls nomination of Heidi Overton to lead Food and Drug Administration – as it happened",
-   "summary": "This live blog is now closed. White House withdraws nomination of Heidi Overton to lead FDA",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-   "date": "2026-11-18T02:57:58+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mariam Zuhaib/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/959d5fcd8e2a8580b1a2bf0b86946895bbf3daf4/335_0_4499_3601/master/4499.jpg?width=700&quality=85&auto=format&fit=max&s=1c84d8bb5448e61f00fe9c6d23e66400",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T11:51:38+00:00"
-  },
-  {
-   "id": "3eb0b89a67c92996",
-   "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
-   "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T02:29:52+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4eb6/live/fc391e70-e2f6-11f1-99a1-253766e7ad8b.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4eb6/live/fc391e70-e2f6-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T05:59:59+00:00"
-  },
-  {
-   "id": "bdc16e5a8e45ec50",
-   "title": "Part of new bill would prevent lawsuits against Ontario government over OSAP pause",
-   "summary": "The Ontario government is taking steps to protect itself from lawsuits related to its provincewide pause on financial assistance payments to students at private post-secondary institutions.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/ontario-government-legislation-osap-pause-9.7426005?cmp=rss",
-   "date": "2026-11-18T02:03:35+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/9bd66015-1d5f-4b81-850f-d8b6a027839c,1794963819273/full/max/0/default.jpg?im=Crop%2Crect%3D%28293%2C634%2C5272%2C2965%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T02:15:02+00:00"
-  },
-  {
-   "id": "6b7effc88f7c3c34",
-   "title": "What is Trump hoping to achieve at APEC meeting in China?",
-   "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
-   "date": "2026-11-18T01:33:05+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T055201Z_50181537_RC2JLHASUIES_RTRMADP_3_SOUTHKOREA-USA-1794593795.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-10T055201Z_50181537_RC2JLHASUIES_RTRMADP_3_SOUTHKOREA-USA-1794593795.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T02:05:25+00:00"
   }
  ]
 }

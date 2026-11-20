@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T23:09:02+00:00",
+ "generatedAt": "2026-11-20T23:18:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,48 @@
   }
  ],
  "items": [
+  {
+   "id": "d8d064076f70f621",
+   "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+   "summary": "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+   "date": "2026-11-20T23:06:41+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00c08d262a-1795211405.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00c08d262a-1795211405.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T23:18:45+00:00"
+  },
+  {
+   "id": "785fa1f78c45c315",
+   "title": "Calgary man pleads guilty to threatening to kill PM Carney in YouTube posts",
+   "summary": "CALGARY - A man has admitted to posting online threats to kill Prime Minister Mark Carney.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/alberta/calgary-man-pleads-guilty-to-threatening-to-kill-pm-carney-in-youtube-posts/article_7bd8959a-bcf1-5529-a239-f6aa497705dc.html",
+   "date": "2026-11-20T23:05:52+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/66/566e1504-ef12-5e7a-8fc2-14b137a17544/6ab59789a107d.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 853,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/66/566e1504-ef12-5e7a-8fc2-14b137a17544/6ab59789a107d.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T23:18:45+00:00"
+  },
   {
    "id": "4939f70f711bb596",
    "title": "French police officers sentenced for beating of music producer Michel Zecler",
@@ -586,19 +628,19 @@
   },
   {
    "id": "ef2dbe066d50357d",
-   "title": "Ontario Premier Ford says automaker Stellantis owes feds $873M",
-   "summary": "Ontario Premier Doug Ford says Stellantis owes the federal government \"roughly\" $873 million, as Ottawa and the province look for a way to reopen the automaker's Brampton plant.",
-   "source": "CBC Toronto",
+   "title": "Stellantis would owe feds $831M if sale of Brampton, Ont., plant proceeds: source",
+   "summary": "The projected amount of money Stellantis would owe Ottawa should the sale of its Brampton, Ont., auto plant proceeds is roughly $831 million, a senior federal source tells CBC News.",
+   "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/joly-ford-stellantis-brampton-unifor-meeting-9.7430142?cmp=rss",
    "date": "2026-11-20T19:09:55+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/13456d71-5dd1-46ed-9028-7f32aa838115,1794510200404/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C110%2C6720%2C3780%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/a0c00cdd-da4e-4b80-8cd3-d6d9181fa2f3,1795212439543/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C353%2C8640%2C4860%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T19:14:21+00:00"
@@ -718,9 +760,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.3538116,1460749537000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C103%2C1113%2C626%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.3538116,1460749537000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C103%2C1113%2C626%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T21:06:40+00:00"
@@ -834,7 +876,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1938,7 +1980,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3068,7 +3110,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8217,48 +8259,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T13:15:28+00:00"
-  },
-  {
-   "id": "cb72fac7b0a9df7e",
-   "title": "Chow points to Toronto’s ‘enormous fiscal challenge’ in first meeting of new council",
-   "summary": "The election has also set the table for a shuffling of key committee roles, with the retirement of housing chair Gord Perks and the defeat of transit chair Jamaal Myers.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12155986/toronto-city-council-meeting-olivia-chow/",
-   "date": "2026-11-18T12:49:14+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/93fbf179e65889d2ed82c66b809d827597c1b09fa3bcd509deed2e535637ce80.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/93fbf179e65889d2ed82c66b809d827597c1b09fa3bcd509deed2e535637ce80.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:56:45+00:00"
-  },
-  {
-   "id": "92371f006e978c77",
-   "title": "Mark Carney says costs for Canadians a priority, but Quebecor-Telus deal will be decided by Competition Bureau, CRTC",
-   "summary": "Carney said \"at the same time that we recognize that there needs to be significant investment in, broadly speaking, telecom services.\"",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/mark-carney-says-costs-for-canadians-a-priority-but-quebecor-telus-deal-will-be-decided-by-competition-bureau-crtc/article_a0fa9423-e9ca-46c8-9a52-ea09daae8440.html",
-   "date": "2026-11-18T12:45:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/76/27671bef-ff95-59f3-a2b7-370090e2f4b2/6afd96c91d203.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/76/27671bef-ff95-59f3-a2b7-370090e2f4b2/6afd96c91d203.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T13:05:55+00:00"
   }
  ]
 }

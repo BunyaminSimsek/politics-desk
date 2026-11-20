@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T15:30:02+00:00",
+ "generatedAt": "2026-11-20T15:39:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 8
+   "kept": 6
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "bc7ca4a145728fd4",
+   "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
+   "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-20T15:36:04+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Khalil Hamra/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T07:18:47+00:00"
+  },
   {
    "id": "c8606f7a59d7ed62",
    "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
@@ -221,13 +243,33 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0057c1ee50-1795184577.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0057c1ee50-1795184577.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0057c1ee50-1795184577.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0057c1ee50-1795184577.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:30:02+00:00"
+  },
+  {
+   "id": "41f445a6d8b934ac",
+   "title": "New federal 'digital transformation' chief says he took the job for $1 a year",
+   "summary": "OTTAWA - The head of a new federal agency tasked with driving adoption of AI and other technologies across the public service says he took the job for a salary of $1 a year.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/new-federal-digital-transformation-chief-says-he-took-the-job-for-1-a-year/article_1d056e6b-4a8f-5fde-b8b5-26dd8bddfb27.html",
+   "date": "2026-11-20T15:16:38+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/e8/5e8ad6c6-b0de-5e12-a5bb-16e53bba3a65/6b00652b48406.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 806,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/e8/5e8ad6c6-b0de-5e12-a5bb-16e53bba3a65/6b00652b48406.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T15:39:10+00:00"
   },
   {
    "id": "da9d0908c1c1da59",
@@ -243,10 +285,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9c1bf9801071520c294977f97d1d1d9838a1dab4/390_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=4847ef576eafe14ab3a4f25fb4384264",
-    "w": 700,
+    "credit": "Photograph: Isabel Infantes/Reuters",
     "h": 560,
-    "credit": "Photograph: Isabel Infantes/Reuters"
+    "url": "https://i.guim.co.uk/img/media/9c1bf9801071520c294977f97d1d1d9838a1dab4/390_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=4847ef576eafe14ab3a4f25fb4384264",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:30:02+00:00"
@@ -292,28 +334,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:20:52+00:00"
-  },
-  {
-   "id": "bc7ca4a145728fd4",
-   "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
-   "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T15:04:24+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Khalil Hamra/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T07:18:47+00:00"
   },
   {
    "id": "745982f2dd95d774",
@@ -767,7 +787,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1075,6 +1095,48 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T09:09:09+00:00"
+  },
+  {
+   "id": "be1e85e9649ea427",
+   "title": "Tenants in Madrid say Toronto-based Brookfield is pricing them out of formerly public housing",
+   "summary": "Canadian investment firms, led by Toronto-based Brookfield, have become central targets in Spain's Nov. 29 election fight over housing affordability.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/tenants-in-madrid-say-toronto-based-brookfield-is-pricing-them-out-of-formerly-public-housing-9.7424797?cmp=rss",
+   "date": "2026-11-20T09:00:00+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/06174b8c-aa82-415a-84b4-624dc6fa7dfb,1794929032851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C1280%2C720%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T15:39:10+00:00"
+  },
+  {
+   "id": "710d73ba19b248df",
+   "title": "Migrant caravan makes its way through Mexico to U.S. after Democrats win midterms",
+   "summary": "Emboldened by the results of this month's U.S. midterm elections, giving the Democrats control of Congress in the new year, hundreds of migrants are making their way from southern Mexico to the border with the United States — despite having almost no chance…",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/mexico-u-s-caravan-migrants-9.7428712?cmp=rss",
+   "date": "2026-11-20T09:00:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/9cc57f1c-3bf5-481d-a9bd-2b2a3e8c74bc,1795120127416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5000%2C2812%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T15:39:10+00:00"
   },
   {
    "id": "ed220e25d6dafea0",
@@ -8196,67 +8258,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T04:45:36+00:00"
-  },
-  {
-   "id": "0fadced0a88d7c1f",
-   "title": "Australia issues sanctions targeting Israeli settlers",
-   "summary": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
-   "date": "2026-11-18T04:12:03+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794975100.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794975100.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T04:36:23+00:00"
-  },
-  {
-   "id": "37a47fc35bcbe267",
-   "title": "Mary Peltola wins U.S. Senate seat in Alaska for Democrats",
-   "summary": "Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, overcoming allegations that members of her campaign helped recruit a candidate who shares the incumbent's name and completing a political comeback in a state U.S.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095?cmp=rss",
-   "date": "2026-11-18T03:56:54+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/9ce6302e-a4bc-4f2e-a174-47300a3fc68e,1794972452161/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C26%2C6592%2C3708%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T04:07:36+00:00"
-  },
-  {
-   "id": "cf857a101766ccf2",
-   "title": "Australia’s ‘problematic’ surrogacy laws could be transformed under proposed changes",
-   "summary": "Law reform body recommends ongoing ban on commercial surrogacy, but greater compensation for surrogates, and safeguards around who the child’s legal parents are Get our breaking news email , free app or daily news podcast Surrogates would be entitled to full…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/law/2026/nov/18/australias-strict-surrogacy-laws-could-be-relaxed-under-proposed-changes",
-   "date": "2026-11-18T03:28:59+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Katie Collins/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b2c623a30296620a72ed884cc59ad89390f7ea5f/256_0_3221_2577/master/3221.jpg?width=700&quality=85&auto=format&fit=max&s=6c864e1fb40e205e062d2022d862d529",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T03:49:20+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T13:28:33+00:00",
+ "generatedAt": "2026-11-20T13:37:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "bc7ca4a145728fd4",
+   "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
+   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-20T13:32:11+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Khalil Hamra/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T07:18:47+00:00"
+  },
+  {
    "id": "c8606f7a59d7ed62",
    "title": "Andy Burnham and EU leaders speak after reaching agreement on reset deal – live",
    "summary": "UK statement comes after EU said deal would not take effect without future agreement over university tuition fees Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to…",
@@ -186,28 +208,6 @@
    "addedAt": "2026-11-20T08:41:32+00:00"
   },
   {
-   "id": "bc7ca4a145728fd4",
-   "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
-   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T13:24:20+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Khalil Hamra/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T07:18:47+00:00"
-  },
-  {
    "id": "61854d96040f3cd9",
    "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
    "summary": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’ Nigel Farage has said he does not see another person who could do his job as leader of Reform UK, in a warning shot to potential…",
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9eddad5b74dda0775bc48ef94b9d4dc105063b40/194_0_2514_2012/master/2514.jpg?width=700&quality=85&auto=format&fit=max&s=2048929419f532c39fea435f8f8feb15",
-    "w": 700,
+    "credit": "Photograph: Jonathan Brady/PA",
     "h": 560,
-    "credit": "Photograph: Jonathan Brady/PA"
+    "url": "https://i.guim.co.uk/img/media/9eddad5b74dda0775bc48ef94b9d4dc105063b40/194_0_2514_2012/master/2514.jpg?width=700&quality=85&auto=format&fit=max&s=2048929419f532c39fea435f8f8feb15",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T13:28:33+00:00"
@@ -517,7 +517,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1625,7 +1625,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

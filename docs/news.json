@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T22:22:09+00:00",
+ "generatedAt": "2026-11-20T22:31:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -177,9 +177,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.7457471,1795210424930/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C8002%2C4501%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.7457471,1795210424930/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C8002%2C4501%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T22:22:09+00:00"
@@ -198,10 +198,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/22774e3086d492bb9ec8ba43f9c0d279af1aa6fe/533_0_4877_3902/master/4877.jpg?width=700&quality=85&auto=format&fit=max&s=74a4a01e6932cae12cebf3f114f9948d",
-    "w": 700,
+    "credit": "Photograph: Allison Robbert/AP",
     "h": 560,
-    "credit": "Photograph: Allison Robbert/AP"
+    "url": "https://i.guim.co.uk/img/media/22774e3086d492bb9ec8ba43f9c0d279af1aa6fe/533_0_4877_3902/master/4877.jpg?width=700&quality=85&auto=format&fit=max&s=74a4a01e6932cae12cebf3f114f9948d",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T10:59:55+00:00"
@@ -792,7 +792,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1896,7 +1896,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

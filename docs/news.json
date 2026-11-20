@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T03:01:26+00:00",
+ "generatedAt": "2026-11-20T03:10:43+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "CTV News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,34 +166,32 @@
  ],
  "items": [
   {
-   "id": "feedd56ce83382c3",
-   "title": "Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win",
-   "summary": "President had sought to block results if Democrat won race that featured two candidates named Dan Sullivan In a legal filing on Thursday, the Trump administration asked a federal appeals court to dismiss the lawsuit it filed before the midterm elections…",
+   "id": "6dbf54c896805f1b",
+   "title": "Is it time to change the UK age of consent? – podcast",
+   "summary": "After Russell Brand’s conviction and accusations against David Walliams, campaigners are calling for a staggered age of consent.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate",
-   "date": "2026-11-20T02:43:33+00:00",
-   "topic": "us",
+   "url": "https://www.theguardian.com/news/audio/2026/nov/20/is-it-time-to-change-the-uk-age-of-consent-podcast",
+   "date": "2026-11-20T03:00:19+00:00",
+   "topic": "europe",
    "region": "world",
-   "tags": [
-    "elections"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/137c92397a23570d7587a4de4e41c0a66edf7caf/461_0_4610_3688/master/4610.jpg?width=700&quality=85&auto=format&fit=max&s=a2806fe258529985ce7dea3c7df54c33",
+    "url": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/279_0_2743_2194/master/2743.jpg?width=700&quality=85&auto=format&fit=max&s=6bff2ea746bf53cfb8078ca2d4806dc5",
     "w": 700,
     "h": 560,
-    "credit": "Photograph: Lindsey Wasson/AP"
+    "credit": "Photograph: Brook Mitchell/AFP/Getty Images"
    },
    "breaking": false,
-   "addedAt": "2026-11-20T03:01:26+00:00"
+   "addedAt": "2026-11-20T03:10:43+00:00"
   },
   {
    "id": "c38a95a63f92a4f3",
-   "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – live",
-   "summary": "Democrat Mary Peltola was declared winner earlier this week in highly scrutinized Senate race that featured two Dan Sullivans on the ballot",
+   "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – as it happened",
+   "summary": "This live blog is now closed. Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-   "date": "2026-11-20T02:43:17+00:00",
+   "date": "2026-11-20T02:58:52+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -208,6 +206,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:18:33+00:00"
+  },
+  {
+   "id": "feedd56ce83382c3",
+   "title": "Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win",
+   "summary": "President had sought to block results if Democrat won race that featured two candidates named Dan Sullivan In a legal filing on Thursday, the Trump administration asked a federal appeals court to dismiss the lawsuit it filed before the midterm elections…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate",
+   "date": "2026-11-20T02:43:33+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Lindsey Wasson/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/137c92397a23570d7587a4de4e41c0a66edf7caf/461_0_4610_3688/master/4610.jpg?width=700&quality=85&auto=format&fit=max&s=a2806fe258529985ce7dea3c7df54c33",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T03:01:26+00:00"
   },
   {
    "id": "02dfd629129d4193",
@@ -632,7 +652,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8233,26 +8253,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:12:42+00:00"
-  },
-  {
-   "id": "13a28b8f56ffbf00",
-   "title": "What’s behind the ANC’s decline in South Africa?",
-   "summary": "African National Congress won its lowest-ever vote share in local elections this month.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
-   "date": "2026-11-17T20:47:07+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794946749.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794946749.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T21:03:31+00:00"
   }
  ]
 }

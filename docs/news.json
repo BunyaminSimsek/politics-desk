@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T19:33:08+00:00",
+ "generatedAt": "2026-11-20T19:42:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "497402baaf1855b7",
+   "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
+   "summary": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
+   "date": "2026-11-20T19:15:18+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00994a-1795201354.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00994a-1795201354.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T19:42:46+00:00"
+  },
+  {
+   "id": "2fe9522e0a256010",
+   "title": "What are the implications of the ICJ Rohingya genocide ruling?",
+   "summary": "Verdict against Myanmar may have implications for Israel's genocide in Gaza.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
+   "date": "2026-11-20T19:12:14+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795199268.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795199268.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T19:42:46+00:00"
+  },
   {
    "id": "ef2dbe066d50357d",
    "title": "Feds, Ontario to meet with Stellantis execs in last-ditch effort to save Brampton plant",
@@ -436,7 +476,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -744,9 +784,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0e660aac-4296-46df-b2f9-23251f86a9e8,1795193359887/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7018%2C3947%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0e660aac-4296-46df-b2f9-23251f86a9e8,1795193359887/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7018%2C3947%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:31:11+00:00"
@@ -1540,7 +1580,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1843,9 +1883,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/06174b8c-aa82-415a-84b4-624dc6fa7dfb,1794929032851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C1280%2C720%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/06174b8c-aa82-415a-84b4-624dc6fa7dfb,1794929032851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C1280%2C720%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:39:10+00:00"
@@ -1864,9 +1904,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/9cc57f1c-3bf5-481d-a9bd-2b2a3e8c74bc,1795120127416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5000%2C2812%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/9cc57f1c-3bf5-481d-a9bd-2b2a3e8c74bc,1795120127416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5000%2C2812%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:39:10+00:00"
@@ -8222,46 +8262,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T11:05:03+00:00"
-  },
-  {
-   "id": "2e0b6944471dc67d",
-   "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
-   "summary": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T10:53:21+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T11:32:52+00:00"
-  },
-  {
-   "id": "9fd527d5b8900dbf",
-   "title": "Traumas of Sudan war lead to wave of drug addiction",
-   "summary": "Anguish caused by conflict sees a growing number of young people turn to drugs.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction?traffic_source=rss",
-   "date": "2026-11-18T10:35:06+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A0790-1794829360.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A0790-1794829360.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T10:55:45+00:00"
   }
  ]
 }

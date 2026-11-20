@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T13:37:41+00:00",
+ "generatedAt": "2026-11-20T13:47:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -149,7 +149,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/africa/rss",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Conversation",
@@ -171,7 +171,7 @@
    "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T13:32:11+00:00",
+   "date": "2026-11-20T13:46:23+00:00",
    "topic": "africa",
    "region": "world",
    "tags": [
@@ -189,11 +189,11 @@
   },
   {
    "id": "c8606f7a59d7ed62",
-   "title": "Andy Burnham and EU leaders speak after reaching agreement on reset deal – live",
-   "summary": "UK statement comes after EU said deal would not take effect without future agreement over university tuition fees Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to…",
+   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+   "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T13:24:24+00:00",
+   "date": "2026-11-20T13:38:07+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -206,6 +206,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T08:41:32+00:00"
+  },
+  {
+   "id": "27173930602c0888",
+   "title": "Trump officials consider appeal after agriculture secretary’s religious emails ruled unconstitutional – US politics live",
+   "summary": "US president expected to try to trumpet impact of Apec summit after bruising midterms results left him and Republicans reeling",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+   "date": "2026-11-20T13:33:18+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: VCG/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/0e120cc64a06f80927c005866f5567b414dfce3b/636_0_6164_4932/master/6164.jpg?width=700&quality=85&auto=format&fit=max&s=21609431eb842c179f6639b5575fa260",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T10:59:55+00:00"
   },
   {
    "id": "61854d96040f3cd9",
@@ -226,26 +246,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T13:28:33+00:00"
-  },
-  {
-   "id": "27173930602c0888",
-   "title": "Trump officials consider appeal after agriculture secretary’s religious emails ruled unconstitutional – US politics live",
-   "summary": "US president expected to try to trumpet impact of Apec summit after bruising midterms results left him and Republicans reeling",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T13:10:51+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: VCG/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0e120cc64a06f80927c005866f5567b414dfce3b/636_0_6164_4932/master/6164.jpg?width=700&quality=85&auto=format&fit=max&s=21609431eb842c179f6639b5575fa260",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T10:59:55+00:00"
   },
   {
    "id": "3be0be4848787af5",
@@ -291,8 +291,8 @@
   },
   {
    "id": "71c26b19046c44d0",
-   "title": "Fallout over tuition fees may snag Burnham’s EU deal, say insiders",
-   "summary": "No 10 pushing back on claims in Brussels that lack of agreement on fees for EU students could sink agreements The UK and EU have agreed a reset deal, Downing Street has said, although the level of tuition fees EU students will pay to study at UK universities…",
+   "title": "Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10",
+   "summary": "Discord between EU and UK on whether arrangements for food and drink, emissions trading and youth mobility scheme depend on settlement for students The UK and EU have agreed a reset deal, Downing Street has said, although the level of tuition fees EU students…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
    "date": "2026-11-20T12:42:08+00:00",
@@ -522,9 +522,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/b8981fa4-243c-40c7-b589-af80d311eba5,1795172846483/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/b8981fa4-243c-40c7-b589-af80d311eba5,1795172846483/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T11:46:31+00:00"

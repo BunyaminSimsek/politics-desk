@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T17:40:46+00:00",
+ "generatedAt": "2026-11-20T17:50:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,50 @@
  ],
  "items": [
   {
+   "id": "bc7ca4a145728fd4",
+   "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
+   "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-20T17:50:31+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Khalil Hamra/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T07:18:47+00:00"
+  },
+  {
+   "id": "27173930602c0888",
+   "title": "Trump again claims Republican midterm rout was because he ‘wasn’t on the ballot’ – live",
+   "summary": "Trump holds press conference in White House after trip to Asia",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+   "date": "2026-11-20T17:43:25+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/d26cd3a3f42c4d4ae4a09a2e8eff84f7d55cc1a2/916_0_6516_5213/master/6516.jpg?width=700&quality=85&auto=format&fit=max&s=dbd0cfb48648d00d1ba55f439dbbda92",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T10:59:55+00:00"
+  },
+  {
    "id": "77a1d80b29dd6f84",
    "title": "Fake forests hiding locations in Russia",
    "summary": "Fake forests on Yandex, Russia’s version of Google Maps, appear to be trying to hide military sites.",
@@ -184,28 +228,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:31:11+00:00"
-  },
-  {
-   "id": "27173930602c0888",
-   "title": "White House touts ‘historic deals’ in handout to reporters ahead of Trump’s press conference – live",
-   "summary": "Handout given to reporters in the briefing room says Trump secured with the Philippines and Thailand this week",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T17:20:26+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Aaron Schwartz/UPI/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7228d79761d8b0eeb3f54619f0839b20ae24de2d/527_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=c160683530b4446d3a85dbf2f57254f4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T10:59:55+00:00"
   },
   {
    "id": "7e6fb991af57f72d",
@@ -308,8 +330,8 @@
   },
   {
    "id": "ae58bd9e7f4a9216",
-   "title": "Cybersecurity operation thwarts attack on UK supermarket fridges and freezers",
-   "summary": "News of operation comes after supermarkets in at least seven European countries hit by cyber-attacks A secret government cybersecurity operation recently thwarted a cyber-attack on fridges and freezers in UK supermarkets, warehouses, restaurants, petrol…",
+   "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
+   "summary": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacks A secret government cybersecurity operation recently warded off the risk of a cyber-attack on fridges and freezers in UK supermarkets, warehouses…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
    "date": "2026-11-20T17:08:14+00:00",
@@ -345,28 +367,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:12:49+00:00"
-  },
-  {
-   "id": "bc7ca4a145728fd4",
-   "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
-   "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T17:04:07+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Khalil Hamra/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T07:18:47+00:00"
   },
   {
    "id": "656cdb405835b5f5",
@@ -771,7 +771,7 @@
   },
   {
    "id": "d110e28f6dfb7de2",
-   "title": "Trump to hold press conference after meeting with Xi and Putin",
+   "title": "Trump holds press conference after meeting with Xi and Putin",
    "summary": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips.",
    "source": "NPR",
    "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
@@ -803,10 +803,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Ford-Oakville-Assembly.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Ford-Oakville-Assembly.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Ford-Oakville-Assembly.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Ford-Oakville-Assembly.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T14:53:09+00:00"
@@ -1157,7 +1157,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1480,9 +1480,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/06174b8c-aa82-415a-84b4-624dc6fa7dfb,1794929032851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C1280%2C720%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/06174b8c-aa82-415a-84b4-624dc6fa7dfb,1794929032851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C1280%2C720%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:39:10+00:00"
@@ -1501,9 +1501,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9cc57f1c-3bf5-481d-a9bd-2b2a3e8c74bc,1795120127416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5000%2C2812%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9cc57f1c-3bf5-481d-a9bd-2b2a3e8c74bc,1795120127416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5000%2C2812%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:39:10+00:00"

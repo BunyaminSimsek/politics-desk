@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T21:54:10+00:00",
+ "generatedAt": "2026-11-20T22:03:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "8e3ceec613f9f9ec",
+   "title": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+   "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+   "date": "2026-11-20T21:47:41+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=700&quality=85&auto=format&fit=max&s=e3ce231e19384f7ffe08719d16fbacd2",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Finn Gomez/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T22:03:17+00:00"
+  },
+  {
    "id": "8bb9ea366d89db52",
    "title": "What the new UK-EU deal could mean for future post-Brexit relations",
    "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ff0d/live/4b4a48f0-e52b-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ff0d/live/4b4a48f0-e52b-11f1-99b6-a35a62fa4264.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ff0d/live/4b4a48f0-e52b-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ff0d/live/4b4a48f0-e52b-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T21:54:10+00:00"
@@ -207,7 +227,7 @@
   },
   {
    "id": "2b46772c5167c98d",
-   "title": "Trump presser",
+   "title": "The latest from Trump's press conference",
    "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
    "source": "NPR",
    "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
@@ -236,7 +256,7 @@
     "credit": "",
     "url": "https://i.cbc.ca/ais/835a0414-341d-444e-9dcb-17bb050c5d01,1795206527673/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C5616%2C3159%29%3B"
    },
-   "breaking": false,
+   "breaking": true,
    "addedAt": "2026-11-20T21:44:39+00:00"
   },
   {
@@ -578,9 +598,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/911f1964-7d85-4c69-bc0b-8103e3d379c8,1795204628530/full/max/0/default.jpg?im=Crop%2Crect%3D%28206%2C334%2C5690%2C3200%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/911f1964-7d85-4c69-bc0b-8103e3d379c8,1795204628530/full/max/0/default.jpg?im=Crop%2Crect%3D%28206%2C334%2C5690%2C3200%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T18:55:28+00:00"
@@ -666,7 +686,7 @@
   },
   {
    "id": "345cd3aee9ffebb8",
-   "title": "B.C.'s new Conservative Premier Lorne Doerkson sworn in",
+   "title": "First plan is cabinet meeting as B.C.'s Premier Doerkson works on keeping promises",
    "summary": "B.C.'s first Conservative government in almost a century will take power when Lorne Doerkson becomes premier and unveils his first cabinet.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/british-columbia/british-columbia-s-premier-designate-lorne-doerkson-cabinet-to-be-sworn-in-today/article_afadbadc-52d8-54b7-b0d9-027f92a5ffe2.html",
@@ -753,7 +773,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -942,9 +962,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/d685e180-04ec-4d54-90da-dfcacfe53017,1795187704623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C42%2C3000%2C1687%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/d685e180-04ec-4d54-90da-dfcacfe53017,1795187704623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C42%2C3000%2C1687%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:59:43+00:00"
@@ -1857,7 +1877,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2987,7 +3007,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8239,25 +8259,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:37:49+00:00"
-  },
-  {
-   "id": "ff6635a21e9a891a",
-   "title": "Xi, Putin and Trump expected to meet for about an hour, Kremlin says",
-   "summary": "China's President Xi Jinping on Wednesday pledged to stand up against trade protectionism, while his Russian counterpart Vladimir Putin criticized Western sanctions as the two set the stage for a high-stakes trilateral meeting with ‌U.S. President Donald Trump.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/shenzen-jinping-putin-trump-9.7426144?cmp=rss",
-   "date": "2026-11-18T12:21:51+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/e37efedf-7622-4f87-aee4-5b47ff442602,1795011731488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C2700%2C1518%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:28:16+00:00"
   }
  ]
 }

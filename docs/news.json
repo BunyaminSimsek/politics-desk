@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T23:37:33+00:00",
+ "generatedAt": "2026-11-20T23:46:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,13 +177,55 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T23:37:33+00:00"
+  },
+  {
+   "id": "c44eb31bc6ac5782",
+   "title": "Doug Ford urges Ottawa to ditch industrial carbon price to save Stellantis Brampton plant",
+   "summary": "A federal official told the Star said Ottawa is seeking $831 million from Stellantis if it goes ahead and sells the Brampton plant to Roshel.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/doug-ford-urges-ottawa-to-ditch-industrial-carbon-price-to-save-stellantis-brampton-plant/article_9dbe6c5e-6055-4515-9f88-255fff1e21f2.html",
+   "date": "2026-11-20T23:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/fe/3fe6b07b-d4f6-5c90-aa99-977659961f96/6b00d655ae923.image.jpg?crop=1327%2C996%2C33%2C67&order=crop%2Cresize&resize=1200%2C",
+    "w": 1200,
+    "h": 901,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/fe/3fe6b07b-d4f6-5c90-aa99-977659961f96/6b00d655ae923.image.jpg?crop=1327%2C996%2C33%2C67&order=crop%2Cresize&resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T23:46:47+00:00"
+  },
+  {
+   "id": "377074850dec828f",
+   "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+   "summary": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+   "date": "2026-11-20T23:20:50+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/cms-wide-thumb-raga2011-1795216805.png?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/cms-wide-thumb-raga2011-1795216805.png?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T23:46:47+00:00"
   },
   {
    "id": "27173930602c0888",
@@ -397,9 +439,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/835a0414-341d-444e-9dcb-17bb050c5d01,1795206527673/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C5616%2C3159%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/835a0414-341d-444e-9dcb-17bb050c5d01,1795206527673/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C5616%2C3159%29%3B"
+    "caption": ""
    },
    "breaking": true,
    "addedAt": "2026-11-20T21:44:39+00:00"
@@ -896,7 +938,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2000,7 +2042,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3130,7 +3172,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8215,50 +8257,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T14:20:04+00:00"
-  },
-  {
-   "id": "7f0ebec0fc8ab15d",
-   "title": "Ministers to drop foie gras imports ban to help seal EU food trade deal",
-   "summary": "Animal welfare charities criticise ‘backwards step’ on foie gras, production of which has been banned in UK since 2007 Ministers will drop plans to ban foie gras imports into the UK in order to smooth a trade deal with the EU that will be announced this week.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal",
-   "date": "2026-11-18T13:47:04+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: 4k-Clips/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/70e660fd41167b951c370313da615a9538afcd67/145_272_4671_3738/master/4671.jpg?width=700&quality=85&auto=format&fit=max&s=602c88dbdb439ee9faae01351e187a79",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T13:43:06+00:00"
-  },
-  {
-   "id": "87a1c12f9c05a0b8",
-   "title": "Trade talks with U.S. ‘more complex’ than other partners, Carney says",
-   "summary": "The two spoke shortly after a news conference, where Carney said he doesn't believe Trump is uncomfortable with Canada furthering its trade relationship with China.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12156009/carney-trump-china-meeting/",
-   "date": "2026-11-18T13:20:19+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Trump-China-meeting.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Trump-China-meeting.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T13:24:38+00:00"
   }
  ]
 }

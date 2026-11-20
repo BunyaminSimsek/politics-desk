@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T00:07:11+00:00",
+ "generatedAt": "2026-11-20T00:16:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "CBC World",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "60dbf1a85d3cc03a",
+   "title": "Liberals’ 2026 budget passes in House of Commons",
+   "summary": "The budget, tabled Nov. 5, outlined billions of dollars in new borrowing and tax measures largely aimed at stimulating infrastructure construction and other capital projects.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12158925/budget-2026-passes/",
+   "date": "2026-11-20T00:16:11+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Budget-2026-e1795133594928.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Budget-2026-e1795133594928.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T00:16:20+00:00"
+  },
+  {
    "id": "5c16bf2a998fb398",
    "title": "Iran war live: Houthis escalate attacks on Saudi capital",
    "summary": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
@@ -177,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aff72954cc3-1795125909.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aff72954cc3-1795125909.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aff72954cc3-1795125909.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aff72954cc3-1795125909.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T00:07:11+00:00"
@@ -355,7 +377,7 @@
   {
    "id": "3283d752c3acfd11",
    "title": "Decision to stop work on banning thermal coal exports was political: ECCC officials",
-   "summary": "OTTAWA - The decision to stop Environment Canada's work on banning exports of thermal coal came down from the political level, department officials said today.",
+   "summary": "OTTAWA - The decision to stop Environment Canada's work on banning exports of thermal coal came down from the political level, department officials told MPs Thursday.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/decision-to-stop-work-on-banning-thermal-coal-exports-was-political-eccc-officials/article_b573fedb-d96f-59ec-a9ee-bbc486238c37.html",
    "date": "2026-11-19T22:03:25+00:00",
@@ -443,7 +465,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -540,7 +562,7 @@
   {
    "id": "5107e59575ddcbbf",
    "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-   "summary": "Britain makes concessions on youth mobility scheme as negotiations on food and farming go down to the wire British and European negotiators were striving to put the finishing touches to a deal on Thursday night as they provisionally agreed to allow 100,000 EU…",
+   "summary": "Britain makes concessions on youth mobility scheme as negotiations on food and farming go down to the wire British and European negotiators were closing in on a reset deal on Thursday night as they provisionally agreed to allow 100,000 EU citizens to come to…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
    "date": "2026-11-19T20:52:05+00:00",
@@ -921,14 +943,16 @@
   },
   {
    "id": "eece29be197a2b16",
-   "title": "Canada seeking interim trade arrangement with U.S. by end of year",
-   "summary": "Canada is seeking to reach an interim tariff arrangement with the Trump administration by the end of the year, according to members of the federal government's Canada-U.S. advisory committee.",
-   "source": "CBC Toronto",
+   "title": "Reaching interim U.S. trade agreement would kickstart new CUSMA talks, minister says",
+   "summary": "Canada-U.S. Trade Minister Dominic LeBlanc says if Canada can reach an interim agreement with the Trump administration, then that would likely kickstart formal talks around reviewing the trilateral trade pact with the U.S. and Mexico.",
+   "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/canada-seeking-interim-trade-arrangment-9.7428540?cmp=rss",
    "date": "2026-11-19T19:04:59+00:00",
    "topic": "federal",
    "region": "local",
-   "tags": [],
+   "tags": [
+    "trade"
+   ],
    "kind": "news",
    "image": {
     "caption": "",
@@ -2897,7 +2921,7 @@
   {
    "id": "3c27254e57b20f2f",
    "title": "B.C. Conservatives, including premier-designate Doerkson, take office oath",
-   "summary": "VICTORIA - Political change is coming to British Columbia as members of the incoming Conservative government are being sworn into office at the legislature today.",
+   "summary": "VICTORIA - British Columbia's incoming premier says voters have made it clear they want no excuses from their new legislators and that his government must deliver on the promises it made.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/british-columbia/sixty-four-b-c-conservatives-including-premier-designate-doerkson-take-office-oath/article_9f631382-0fd8-5279-914c-fae9c48d8e90.html",
    "date": "2026-11-19T09:00:17+00:00",
@@ -8225,28 +8249,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:38:56+00:00"
-  },
-  {
-   "id": "873a904b57e5c2a4",
-   "title": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
-   "summary": "Youth unemployment review risks clash with unions and Labour left over workers’ rights and minimum wage Neet ideas: what’s in Alan Milburn’s youth unemployment report? Who are the Neets?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment",
-   "date": "2026-11-17T19:30:32+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Vanessa Nunes/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/94d5dbcaee84ef4860f15c907cea1bc38ec21f3b/663_0_2672_2138/master/2672.jpg?width=700&quality=85&auto=format&fit=max&s=5fe47fd68c8b5bea52b40e3aeb1e495e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T19:48:36+00:00"
   }
  ]
 }

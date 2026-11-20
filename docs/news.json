@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T00:34:37+00:00",
+ "generatedAt": "2026-11-20T00:43:51+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -119,7 +119,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
    "ok": true,
-   "kept": 48
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "c640d519dbf3ec5c",
+   "title": "Trump's midterm defeat hasn't moved Canada-U.S. trade talks, sources say",
+   "summary": "Sources say Canada-U.S. trade talks have not meaningfully changed since the U.S. midterm vote.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/donald-trump-s-midterm-drubbing-hasn-t-sped-up-canada-s-trade-talks-sources-say/article_ddb8650a-a844-434a-8513-7441ceba77d3.html",
+   "date": "2026-11-20T00:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/af/caf0b1ab-0f72-563d-93b7-d6537a4fd479/6aff8242be447.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/af/caf0b1ab-0f72-563d-93b7-d6537a4fd479/6aff8242be447.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T00:43:51+00:00"
+  },
+  {
    "id": "afc94d1f9efcbf28",
    "title": "Religion should be removed from terrorism definition under Australian law as it gives ‘false credibility’, watchdog says",
    "summary": "Independent National Security Legislation Monitor says reference to religion has ‘contributed to discrimination and violence against religious minorities’ Get our breaking news email , free app or daily news podcast Religion should be removed from Australia’s…",
@@ -177,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/0e521678d13ec104d5165d17b3b36354293bb89d/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=4794d8c59bbd259da5d5212e0e72101f",
-    "w": 700,
+    "credit": "Photograph: Mike Bowers/The Guardian",
     "h": 560,
-    "credit": "Photograph: Mike Bowers/The Guardian"
+    "url": "https://i.guim.co.uk/img/media/0e521678d13ec104d5165d17b3b36354293bb89d/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=4794d8c59bbd259da5d5212e0e72101f",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T00:34:37+00:00"
@@ -220,10 +242,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/36abe0c07983d9517697ee58dc02f807e9128811/1204_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=678139a8e4da61c12e7688022fce48ff",
-    "w": 700,
+    "credit": "Photograph: Richard Wainwright/AAP",
     "h": 560,
-    "credit": "Photograph: Richard Wainwright/AAP"
+    "url": "https://i.guim.co.uk/img/media/36abe0c07983d9517697ee58dc02f807e9128811/1204_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=678139a8e4da61c12e7688022fce48ff",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T00:34:37+00:00"
@@ -8228,26 +8250,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T20:25:35+00:00"
-  },
-  {
-   "id": "9c9549cbc0f6614b",
-   "title": "Ottawa spent some $3.45 million on legal fees in connection with Bill 21",
-   "summary": "OTTAWA - Canada’s Justice Department spent approximately $3.45 million in connection with the legal challenge to Quebec’s state secularism law, commonly known as Bill 21.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/ottawa-spent-some-3-45-million-on-legal-fees-in-connection-with-bill-21/article_77e97367-e15f-53f1-9baf-3b7906acf987.html",
-   "date": "2026-11-17T19:42:12+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 761,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/49/249843cb-fd62-5408-9b84-0d49b7a26bcd/6afcaecfb3ac2.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/49/249843cb-fd62-5408-9b84-0d49b7a26bcd/6afcaecfb3ac2.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T19:57:54+00:00"
   }
  ]
 }

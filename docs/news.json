@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T14:53:09+00:00",
+ "generatedAt": "2026-11-20T15:02:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "The Guardian",
@@ -166,44 +166,26 @@
  ],
  "items": [
   {
-   "id": "b3cbf1cca10a82c5",
-   "title": "Melanie Joly, Doug Ford to announce supports for Canada’s auto industry",
-   "summary": "Stellantis, the parent company of Jeep, announced earlier this month a deal to sell its Brampton, Ont. vehicle assembly plant to defence manufacturer Roshel.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12159444/auto-supports-canada-melanie-joly-doug-ford/",
-   "date": "2026-11-20T14:51:30+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Joly-Ford.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Joly-Ford.jpg?w=640&h=427&crop=1&quality=70&strip=all"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T14:53:09+00:00"
-  },
-  {
-   "id": "c8606f7a59d7ed62",
-   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-   "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise…",
+   "id": "bc7ca4a145728fd4",
+   "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
+   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T14:39:55+00:00",
-   "topic": "europe",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-20T14:55:38+00:00",
+   "topic": "africa",
    "region": "world",
-   "tags": [],
+   "tags": [
+    "climate"
+   ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Yves Herman/Reuters",
+    "credit": "Photograph: Khalil Hamra/AP",
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3e896c5c72a70960c8e888a3e7e156426838be8d/566_219_3034_2427/master/3034.jpg?width=700&quality=85&auto=format&fit=max&s=af24f0cf49a41ba2a997760ec1726603",
+    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-20T08:41:32+00:00"
+   "addedAt": "2026-11-20T07:18:47+00:00"
   },
   {
    "id": "27173930602c0888",
@@ -211,7 +193,7 @@
    "summary": "US president expected to try to trumpet impact of Apec summit after bruising midterms results left him and Republicans reeling",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T14:27:35+00:00",
+   "date": "2026-11-20T14:53:46+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -228,26 +210,44 @@
    "addedAt": "2026-11-20T10:59:55+00:00"
   },
   {
-   "id": "bc7ca4a145728fd4",
-   "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
-   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T14:23:29+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
+   "id": "b3cbf1cca10a82c5",
+   "title": "Melanie Joly, Doug Ford to announce supports for Canada’s auto industry",
+   "summary": "Stellantis, the parent company of Jeep, announced earlier this month a deal to sell its Brampton, Ont. vehicle assembly plant to defence manufacturer Roshel.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12159444/auto-supports-canada-melanie-joly-doug-ford/",
+   "date": "2026-11-20T14:51:30+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Khalil Hamra/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
-    "w": 700
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Joly-Ford.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Joly-Ford.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
-   "addedAt": "2026-11-20T07:18:47+00:00"
+   "addedAt": "2026-11-20T14:53:09+00:00"
+  },
+  {
+   "id": "c8606f7a59d7ed62",
+   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+   "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+   "date": "2026-11-20T14:42:14+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=700&quality=85&auto=format&fit=max&s=208f4dc2f1acef8d1b4443cd0df870d0",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Olivier Hoslet/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T08:41:32+00:00"
   },
   {
    "id": "f449a8a22fe0d45d",

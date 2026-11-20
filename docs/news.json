@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T06:33:14+00:00",
+ "generatedAt": "2026-11-20T06:42:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,48 @@
   }
  ],
  "items": [
+  {
+   "id": "4c907ceadad6329d",
+   "title": "Nigeria moves to end jail terms for attempted suicide",
+   "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T06:32:17+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9d5d/live/2a0c8580-e4a0-11f1-a01e-f1ba573bc781.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9d5d/live/2a0c8580-e4a0-11f1-a01e-f1ba573bc781.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T06:42:21+00:00"
+  },
+  {
+   "id": "5c415145afe3c9fa",
+   "title": "‘We don’t want our future decided by the military’: Young Germans protest",
+   "summary": "Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
+   "date": "2026-11-20T06:20:26+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/WERRING-ONE-1795103856.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/WERRING-ONE-1795103856.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T06:42:21+00:00"
+  },
   {
    "id": "c3c21837f1c04bbb",
    "title": "Trump bows to pressure, replaces US cyber security director",
@@ -239,10 +281,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Bianca de Marchi/AAP",
+    "url": "https://i.guim.co.uk/img/media/e41e022b19cd35c3926af707c79bb2a6a960adcc/1147_132_1834_1467/master/1834.jpg?width=700&quality=85&auto=format&fit=max&s=528fd4cf18e26b858af3bac5cae42398",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3efee6d1eaff0fd0c1f56834a875969ecd396eb3/2910_595_6221_4977/master/6221.jpg?width=700&quality=85&auto=format&fit=max&s=d6fa57a73e497949cbb0acee0fc728b6",
-    "w": 700
+    "credit": "Photograph: Sarah Wilson/AAP"
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:27:43+00:00"
@@ -8216,48 +8258,6 @@
     "h": 800,
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950905.jpg?quality=80&resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950905.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T21:41:23+00:00"
-  },
-  {
-   "id": "442cb51e4215448a",
-   "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
-   "summary": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
-   "date": "2026-11-17T21:26:42+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb64a7213a-1794860199.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb64a7213a-1794860199.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T21:41:23+00:00"
-  },
-  {
-   "id": "262648c6bdae9c1b",
-   "title": "Moment Russian military plane crashes in Siberia, killing 19",
-   "summary": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
-   "date": "2026-11-17T21:25:43+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950729.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950729.jpg?quality=80&resize=1200%2C800",
     "w": 1200
    },
    "breaking": false,

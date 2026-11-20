@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T10:41:30+00:00",
+ "generatedAt": "2026-11-20T10:50:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "c8606f7a59d7ed62",
+   "title": "UK says reset deal with EU agreed but talks will continue ‘in some areas’ – live",
+   "summary": "UK statement comes after EU said deal would not take effect without future agreement over university tuition fees Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+   "date": "2026-11-20T10:30:45+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: WPA/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/54da6151ea7baf4c326b9f74ea0f98da416b8954/665_25_4717_3773/master/4717.jpg?width=700&quality=85&auto=format&fit=max&s=c8202a9508b6be821b29c514b263076a",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T08:41:32+00:00"
+  },
+  {
    "id": "bc7ca4a145728fd4",
    "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
    "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end The International Indian Treaty Council, an international organisation of Indigenous Peoples, has said Cop31 has “failed across the board”…",
@@ -186,26 +206,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T07:18:47+00:00"
-  },
-  {
-   "id": "c8606f7a59d7ed62",
-   "title": "EU says Brexit reset deal with UK will not take effect without agreement on tuition fees – live",
-   "summary": "EU aims for leverage over UK by making the deals agreed today contingent on future agreement on tuition fees Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T10:13:43+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: WPA/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/54da6151ea7baf4c326b9f74ea0f98da416b8954/665_25_4717_3773/master/4717.jpg?width=700&quality=85&auto=format&fit=max&s=c8202a9508b6be821b29c514b263076a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T08:41:32+00:00"
   },
   {
    "id": "27ac58e8151bf2e3",

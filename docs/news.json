@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T01:20:51+00:00",
+ "generatedAt": "2026-11-20T01:30:00+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "529cb9d9ccc0a773",
+   "title": "Democrats say law firm gave $11.8m worth of service to Trump administration",
+   "summary": "Three top Democrats called Trump's dealings with law firms a case of 'official coercion' and pledged investigations.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
+   "date": "2026-11-20T01:10:06+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP18284469601975-1795136726.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP18284469601975-1795136726.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T01:30:00+00:00"
+  },
+  {
    "id": "c38a95a63f92a4f3",
    "title": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live",
    "summary": "State’s attorney general Rob Bonta says ‘conduct of Nvidia and its former CEO raises bright red flags’ as he opens investigation",
@@ -244,10 +264,10 @@
    ],
    "kind": "news",
    "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/af/caf0b1ab-0f72-563d-93b7-d6537a4fd479/6aff8242be447.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/af/caf0b1ab-0f72-563d-93b7-d6537a4fd479/6aff8242be447.image.jpg?resize=1200%2C",
-    "w": 1200
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/ce/7cee4e31-bf83-4df8-b89c-3e7c0f5c0347/6affa0050be68.image.png?resize=1200%2C",
+    "w": 1200,
+    "h": 900,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/ce/7cee4e31-bf83-4df8-b89c-3e7c0f5c0347/6affa0050be68.image.png?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-20T00:43:51+00:00"
@@ -549,7 +569,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8230,26 +8250,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T15:53:35+00:00"
-  },
-  {
-   "id": "f38fc2cffad64253",
-   "title": "‘Godmother’ of illegal Israeli West Bank settler project Daniella Weiss among group sanctioned by Australia",
-   "summary": "Foreign affairs minister, Penny Wong, says rapid expansion of settlements and settler violence are ‘extinguishing the possibility of a two-state solution’ Get our breaking news email , free app or daily news podcast Australia has announced another tranche of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
-   "date": "2026-11-17T20:20:31+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Erik Marmor/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d83aaa4dad589536ec892f076d1e8436415b22df/500_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=423a767ffbc6c5f72aceae1db8d9c015",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T20:34:56+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T04:24:35+00:00",
+ "generatedAt": "2026-11-20T04:33:42+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "6bb7fc8f304864c7",
+   "title": "‘Perfect weapon’: diabetic woman found guilty of murdering her 94-year-old parents with insulin",
+   "summary": "Jury convicts Raelene Polymiadis after four-month trial in South Australian supreme court Get our breaking news email , free app or daily news podcast A jury has convicted a diabetic woman of murdering both her elderly parents with insulin after a marathon…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/20/diabetic-woman-found-guilty-murdering-94-year-old-parents-with-insulin-ntwnfb",
+   "date": "2026-11-20T04:15:16+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/526c54d5025c65a86473a42bf78176c1075209bc/0_0_3780_3024/master/3780.jpg?width=700&quality=85&auto=format&fit=max&s=db418c6ce0c7317c5af7067d7d065f07",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Abe Maddison/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T04:33:42+00:00"
+  },
   {
    "id": "d0e310a3f6408c00",
    "title": "Thousands protest Colombia’s tax plans amid row over US military role",
@@ -265,10 +285,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T04:24:35+00:00"
@@ -8237,26 +8257,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:48:36+00:00"
-  },
-  {
-   "id": "f5b93eae040c3cd1",
-   "title": "Response in helping victims of Lapu Lapu attack 'insufficient': Filipino BC",
-   "summary": "VANCOUVER - The group that organized the Lapu Lapu Day festival where 11 people were killed in a vehicle-ramming attack wants British Columbia's auditor general to investigate the province's response to the tragedy, saying it was \"insufficient.\"",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/british-columbia/response-in-helping-victims-of-lapu-lapu-attack-insufficient-filipino-bc/article_d4d556db-bd2a-543e-a60c-9932ca01fcfe.html",
-   "date": "2026-11-17T21:01:46+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 1200,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T21:22:25+00:00"
   }
  ]
 }

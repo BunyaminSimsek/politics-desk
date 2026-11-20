@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T18:27:56+00:00",
+ "generatedAt": "2026-11-20T18:37:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -166,24 +166,106 @@
  ],
  "items": [
   {
+   "id": "b96eb16e4758d7f1",
+   "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+   "summary": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+   "date": "2026-11-20T18:25:09+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6968x4645+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Ff0%2F3f087dc140c29e91979734a212a3%2Fap26264499190048.jpg",
+    "w": 1200,
+    "h": 800,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6968x4645+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Ff0%2F3f087dc140c29e91979734a212a3%2Fap26264499190048.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T18:37:01+00:00"
+  },
+  {
+   "id": "27173930602c0888",
+   "title": "Trump says Vance’s statement blaming Iran war for Republican midterm wipeout was ‘fine’ in wide-ranging press conference – live",
+   "summary": "US president again claims Republicans’ midterms losses were because he ‘wasn’t on the ballot’, vows to fight for datacenters and boasts of his relationship with Xi Jinping",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+   "date": "2026-11-20T18:24:22+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/d26cd3a3f42c4d4ae4a09a2e8eff84f7d55cc1a2/916_0_6516_5213/master/6516.jpg?width=700&quality=85&auto=format&fit=max&s=dbd0cfb48648d00d1ba55f439dbbda92",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T10:59:55+00:00"
+  },
+  {
+   "id": "1dbd628dcd3565fb",
+   "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
+   "summary": "PM challenges rivals to rebuff plan he says could add 0.5% annual growth to economy and offer young people hope Several sentences in to a slightly convoluted answer about where UK-EU relations might go next, Andy Burnham abruptly changed tack.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
+   "date": "2026-11-20T18:22:50+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/298e2e76a81f2b29227315e2f639e4892114e948/507_0_4299_3440/master/4299.jpg?width=700&quality=85&auto=format&fit=max&s=4aafdbe80398ac5cbfe550a1af2f5d7a",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: WPA/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T18:37:01+00:00"
+  },
+  {
    "id": "802b839e86dac6e2",
    "title": "Ontario, Ottawa committing $250M to help fund new port in Sault Ste. Marie",
    "summary": "Ontario and the federal government say they're committing $250 million to help build a new port in Sault Ste. Marie on the north shore of the Saint Marys River.",
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1f177af5fc2dfa32087fe0b6142fba573b8a021d59af07370279de7ebb2f4f19.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1f177af5fc2dfa32087fe0b6142fba573b8a021d59af07370279de7ebb2f4f19.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1f177af5fc2dfa32087fe0b6142fba573b8a021d59af07370279de7ebb2f4f19.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1f177af5fc2dfa32087fe0b6142fba573b8a021d59af07370279de7ebb2f4f19.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-20T18:27:56+00:00"
+  },
+  {
+   "id": "80154fe65d348e4e",
+   "title": "Denmark to expel Russian diplomat over attempt to kill US-Ukrainian rapper",
+   "summary": "Moscow suspected of being behind plan to kill Kyivstoner before a performance in Denmark Denmark’s foreign minister has said Russia’s defence attaché in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+   "date": "2026-11-20T18:16:12+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/7a1c4d4674629a24286f9343122e2c3d6d8fc9cb/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2d02476e3e1ade53050aa95edab929f9",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Emil Nicolai Helms/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T18:37:01+00:00"
   },
   {
    "id": "c28dd5fd6341bbf3",
@@ -197,13 +279,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/9e/19eb39ce-3d71-58b2-987f-ad19f2fe5e23/6b008e295064b.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 794,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/9e/19eb39ce-3d71-58b2-987f-ad19f2fe5e23/6b008e295064b.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/9e/19eb39ce-3d71-58b2-987f-ad19f2fe5e23/6b008e295064b.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/9e/19eb39ce-3d71-58b2-987f-ad19f2fe5e23/6b008e295064b.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T18:27:56+00:00"
+  },
+  {
+   "id": "61854d96040f3cd9",
+   "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
+   "summary": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’ Nigel Farage has said he does not see another person who could do his job as leader of Reform UK, in a warning shot to potential…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
+   "date": "2026-11-20T18:11:25+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f8e40ebdb59af4c88a35f0a5831e5d5d9dafb33f/0_183_3993_3194/master/3993.jpg?width=700&quality=85&auto=format&fit=max&s=86edd8ae1433850f5e341fbae5f34b25",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Marius Burgelman/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T13:28:33+00:00"
   },
   {
    "id": "bc7ca4a145728fd4",
@@ -226,28 +328,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T07:18:47+00:00"
-  },
-  {
-   "id": "27173930602c0888",
-   "title": "Trump boasts of ‘great’ relationship with Xi in wide-ranging press conference after Asia trip – live",
-   "summary": "US president again claims Republicans’ midterms losses were because he ‘wasn’t on the ballot’ and vowed to ‘fight very hard’ for datacenters",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T18:07:21+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d26cd3a3f42c4d4ae4a09a2e8eff84f7d55cc1a2/916_0_6516_5213/master/6516.jpg?width=700&quality=85&auto=format&fit=max&s=dbd0cfb48648d00d1ba55f439dbbda92",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T10:59:55+00:00"
   },
   {
    "id": "ae58bd9e7f4a9216",
@@ -1033,26 +1113,6 @@
    "addedAt": "2026-11-20T14:16:09+00:00"
   },
   {
-   "id": "61854d96040f3cd9",
-   "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
-   "summary": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’ Nigel Farage has said he does not see another person who could do his job as leader of Reform UK, in a warning shot to potential…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
-   "date": "2026-11-20T13:23:22+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jonathan Brady/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9eddad5b74dda0775bc48ef94b9d4dc105063b40/194_0_2514_2012/master/2514.jpg?width=700&quality=85&auto=format&fit=max&s=2048929419f532c39fea435f8f8feb15",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T13:28:33+00:00"
-  },
-  {
    "id": "3be0be4848787af5",
    "title": "Trump inspired a blue revolution. Can Democrats meet the moment? | Dana R Fisher",
    "summary": "Political participation – in meetings, boycotts and demonstrations – has increased since Trump took office.",
@@ -1278,7 +1338,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2428,7 +2488,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8202,66 +8262,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T10:09:01+00:00"
-  },
-  {
-   "id": "fbbbd041bd1d99a0",
-   "title": "Can sport help hold Canada together? Adam van Koeverden thinks so",
-   "summary": "The Olympic medalist-turned-politician wants to raise our game on the national and international stages, Martin Regg Cohn writes.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/political-opinion/can-sport-help-hold-canada-together-adam-van-koeverden-thinks-so/article_e64c9435-f900-4898-8a46-bd46bc7f925f.html",
-   "date": "2026-11-18T10:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 752,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/b7/ab74c877-af72-5be4-b41f-697cc10dc78f/6afcad92b83ce.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/b7/ab74c877-af72-5be4-b41f-697cc10dc78f/6afcad92b83ce.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T10:09:01+00:00"
-  },
-  {
-   "id": "689560bf09bec457",
-   "title": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
-   "summary": "Meta said it launched its \"school partnership program\" to keep teens safe, but internal documents tell a different story.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
-   "date": "2026-11-18T10:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 837,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8064x5622+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2Fef%2Ff8dbd03c47e4bbe621c1757ede65%2Fgettyimages-2196627077.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8064x5622+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2Fef%2Ff8dbd03c47e4bbe621c1757ede65%2Fgettyimages-2196627077.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T10:18:25+00:00"
-  },
-  {
-   "id": "a9cefeb130119d8e",
-   "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-   "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay …",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-   "date": "2026-11-18T09:58:28+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Danish Siddiqui/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=700&quality=85&auto=format&fit=max&s=21ad8aa4d42ffde7743ab688025d217b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T09:59:54+00:00"
   }
  ]
 }

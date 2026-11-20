@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T03:38:33+00:00",
+ "generatedAt": "2026-11-20T03:47:43+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "d0e310a3f6408c00",
+   "title": "Thousands protest Colombia’s tax plans amid row over US military role",
+   "summary": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
+   "date": "2026-11-20T03:26:23+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261119__D8394LN__v1__HighRes__ColombiaPoliticsTaxProtest-1795139757.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261119__D8394LN__v1__HighRes__ColombiaPoliticsTaxProtest-1795139757.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T03:47:43+00:00"
+  },
   {
    "id": "6dbf54c896805f1b",
    "title": "Is it time to change the UK age of consent? – podcast",
@@ -8233,26 +8255,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T21:22:25+00:00"
-  },
-  {
-   "id": "05c4a60d12d237af",
-   "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-   "summary": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
-   "date": "2026-11-17T20:57:56+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afcad6d90e07-1794944365.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afcad6d90e07-1794944365.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T21:12:42+00:00"
   }
  ]
 }

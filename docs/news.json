@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T17:59:43+00:00",
+ "generatedAt": "2026-11-20T18:09:07+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,12 +177,34 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d685e180-04ec-4d54-90da-dfcacfe53017,1795187704623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C42%2C3000%2C1687%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d685e180-04ec-4d54-90da-dfcacfe53017,1795187704623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C42%2C3000%2C1687%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:59:43+00:00"
+  },
+  {
+   "id": "27173930602c0888",
+   "title": "Trump boasts of ‘great’ relationship with Xi in wide-ranging press conference after Asia trip – live",
+   "summary": "US president again claims Republicans’ midterms losses were because he ‘wasn’t on the ballot’ and vowed to ‘fight very hard’ for datacenters",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+   "date": "2026-11-20T17:53:14+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/d26cd3a3f42c4d4ae4a09a2e8eff84f7d55cc1a2/916_0_6516_5213/master/6516.jpg?width=700&quality=85&auto=format&fit=max&s=dbd0cfb48648d00d1ba55f439dbbda92",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T10:59:55+00:00"
   },
   {
    "id": "bc7ca4a145728fd4",
@@ -207,28 +229,6 @@
    "addedAt": "2026-11-20T07:18:47+00:00"
   },
   {
-   "id": "27173930602c0888",
-   "title": "White House touts ‘historic deals’ in handout to reporters ahead of Trump’s press conference – live",
-   "summary": "Handout given to reporters in the briefing room says Trump secured with the Philippines and Thailand this week",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T17:37:48+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brendan Smialowski/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d26cd3a3f42c4d4ae4a09a2e8eff84f7d55cc1a2/916_0_6516_5213/master/6516.jpg?width=700&quality=85&auto=format&fit=max&s=dbd0cfb48648d00d1ba55f439dbbda92",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T10:59:55+00:00"
-  },
-  {
    "id": "d2969e8f1e87c281",
    "title": "Protests held across Europe over wages, services, high living costs",
    "summary": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
@@ -240,10 +240,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b006cd033bc-1795189968.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b006cd033bc-1795189968.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b006cd033bc-1795189968.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b006cd033bc-1795189968.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:59:43+00:00"
@@ -820,10 +820,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg",
-    "w": 1200,
     "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:11:38+00:00"

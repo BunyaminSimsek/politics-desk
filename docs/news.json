@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T21:44:39+00:00",
+ "generatedAt": "2026-11-20T21:54:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "8bb9ea366d89db52",
+   "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+   "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T21:43:22+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ff0d/live/4b4a48f0-e52b-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ff0d/live/4b4a48f0-e52b-11f1-99b6-a35a62fa4264.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T21:54:10+00:00"
+  },
+  {
    "id": "5fc31b7e3334ec31",
    "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
    "summary": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/452c/live/6ef65d70-e52b-11f1-964d-a1d5fe40573e.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/452c/live/6ef65d70-e52b-11f1-964d-a1d5fe40573e.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/452c/live/6ef65d70-e52b-11f1-964d-a1d5fe40573e.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/452c/live/6ef65d70-e52b-11f1-964d-a1d5fe40573e.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T20:38:58+00:00"
@@ -212,9 +232,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/835a0414-341d-444e-9dcb-17bb050c5d01,1795206527673/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C5616%2C3159%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/835a0414-341d-444e-9dcb-17bb050c5d01,1795206527673/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C5616%2C3159%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T21:44:39+00:00"
@@ -733,7 +753,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1837,7 +1857,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2967,7 +2987,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8236,21 +8256,6 @@
     "credit": "",
     "url": "https://i.cbc.ca/ais/e37efedf-7622-4f87-aee4-5b47ff442602,1795011731488/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C148%2C2700%2C1518%29%3B"
    },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:28:16+00:00"
-  },
-  {
-   "id": "cd4814f1f1b7893e",
-   "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
-   "summary": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
-   "date": "2026-11-18T12:14:28+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
    "breaking": false,
    "addedAt": "2026-11-18T12:28:16+00:00"
   }

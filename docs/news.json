@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T18:18:41+00:00",
+ "generatedAt": "2026-11-20T18:27:56+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "CTV News",
@@ -166,8 +166,48 @@
  ],
  "items": [
   {
+   "id": "802b839e86dac6e2",
+   "title": "Ontario, Ottawa committing $250M to help fund new port in Sault Ste. Marie",
+   "summary": "Ontario and the federal government say they're committing $250 million to help build a new port in Sault Ste. Marie on the north shore of the Saint Marys River.",
+   "source": "Global News Toronto",
+   "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
+   "date": "2026-11-20T18:22:18+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1f177af5fc2dfa32087fe0b6142fba573b8a021d59af07370279de7ebb2f4f19.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1f177af5fc2dfa32087fe0b6142fba573b8a021d59af07370279de7ebb2f4f19.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T18:27:56+00:00"
+  },
+  {
+   "id": "c28dd5fd6341bbf3",
+   "title": "Supreme Court of Canada upholds conviction for aggravated sexual assault",
+   "summary": "OTTAWA - The Supreme Court of Canada says a judge made a clear legal error when he required evidence that a complainant in a sexual assault case communicated her lack of consent to the accused man.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/supreme-court-of-canada-upholds-conviction-for-aggravated-sexual-assault/article_789e18fb-9fcf-5b08-8998-2baee6d9f227.html",
+   "date": "2026-11-20T18:12:17+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/9e/19eb39ce-3d71-58b2-987f-ad19f2fe5e23/6b008e295064b.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 794,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/9e/19eb39ce-3d71-58b2-987f-ad19f2fe5e23/6b008e295064b.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T18:27:56+00:00"
+  },
+  {
    "id": "bc7ca4a145728fd4",
-   "title": "Cop31 live: factious climate talks enter overtime without new draft deal in sight",
+   "title": "Factious climate talks enter overtime without new draft deal in sight – as it happened",
    "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
@@ -261,10 +301,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/94e3fae494c08ea928538429f7f3a3632e56c95d/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=21b5639534e00347eb55e566229ab7ba",
-    "w": 700,
+    "credit": "Photograph: Nicolas Tucat/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Nicolas Tucat/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/94e3fae494c08ea928538429f7f3a3632e56c95d/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=21b5639534e00347eb55e566229ab7ba",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T18:18:41+00:00"
@@ -283,10 +323,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3e5b2a2b2017ce1fd94aee416c3105a330392403/644_0_6440_5152/master/6440.jpg?width=700&quality=85&auto=format&fit=max&s=d8cb5ad83e355df67fc6acb387b99f49",
-    "w": 700,
+    "credit": "Photograph: Thierry Monasse/Getty Images",
     "h": 560,
-    "credit": "Photograph: Thierry Monasse/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/3e5b2a2b2017ce1fd94aee416c3105a330392403/644_0_6440_5152/master/6440.jpg?width=700&quality=85&auto=format&fit=max&s=d8cb5ad83e355df67fc6acb387b99f49",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T18:18:41+00:00"
@@ -549,10 +589,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ddea/live/8dcffdf0-e50d-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ddea/live/8dcffdf0-e50d-11f1-99a1-253766e7ad8b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ddea/live/8dcffdf0-e50d-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ddea/live/8dcffdf0-e50d-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T16:54:16+00:00"
@@ -1238,7 +1278,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2388,7 +2428,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8222,40 +8262,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T09:59:54+00:00"
-  },
-  {
-   "id": "19404597ef748560",
-   "title": "Carney meets with Trump at APEC, says Canada's trade with China isn't U.S. president's top concern",
-   "summary": "Prime Minister Mark Carney met with U.S. President Donald Trump on the margins of the Asia-Pacific Economic Cooperation summit in Shenzhen, China, on Wednesday, saying that Canada's growing trade relations with China are not a top priority for Trump.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/carney-china-trade-9.7426126?cmp=rss",
-   "date": "2026-11-18T09:54:30+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/200c06d5-5a7e-4ef0-b864-c854c946c36f,1795016363534/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7931%2C4461%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T10:18:25+00:00"
-  },
-  {
-   "id": "990079cbb1cb7461",
-   "title": "Veteran reporter asks SCOTUS to hear case on protecting confidential sources",
-   "summary": "A longtime national security reporter is facing steep fines in a civil lawsuit for failing to disclose her source. She's asking the Supreme Court to weigh in.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/18/nx-s1-6037730/veteran-reporter-asks-scotus-to-hear-case-on-protecting-confidential-sources",
-   "date": "2026-11-18T09:43:39+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-18T16:42:25+00:00"
   }
  ]
 }

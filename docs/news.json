@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T15:20:52+00:00",
+ "generatedAt": "2026-11-20T15:30:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,92 @@
  ],
  "items": [
   {
+   "id": "c8606f7a59d7ed62",
+   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+   "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+   "date": "2026-11-20T15:24:09+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Olivier Hoslet/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=700&quality=85&auto=format&fit=max&s=208f4dc2f1acef8d1b4443cd0df870d0",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T08:41:32+00:00"
+  },
+  {
+   "id": "27173930602c0888",
+   "title": "Trump officials consider appeal after agriculture secretary’s religious emails ruled unconstitutional – US politics live",
+   "summary": "US president expected to hail claimed summit impact after bruising midterms; Mike Johnson urges party to push bills through lame-duck Congress",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+   "date": "2026-11-20T15:21:59+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: VCG/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/0e120cc64a06f80927c005866f5567b414dfce3b/636_0_6164_4932/master/6164.jpg?width=700&quality=85&auto=format&fit=max&s=21609431eb842c179f6639b5575fa260",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T10:59:55+00:00"
+  },
+  {
+   "id": "a0c321efc15e6aae",
+   "title": "Poland condemns Russian ‘provocation’ after airspace violations",
+   "summary": "The incidents came as European troops were taking part in a Ukraine post-war military exercise.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
+   "date": "2026-11-20T15:18:26+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0057c1ee50-1795184577.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0057c1ee50-1795184577.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T15:30:02+00:00"
+  },
+  {
+   "id": "da9d0908c1c1da59",
+   "title": "Young people across Europe stage coordinated ‘fight for our future’ protests",
+   "summary": "Activists in more than 20 countries demonstrate over cost of living, learning conditions and rising military spending Students and young workers have taken to the streets in more than 20 European countries in coordinated protests over the surging cost of…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
+   "date": "2026-11-20T15:15:28+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9c1bf9801071520c294977f97d1d1d9838a1dab4/390_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=4847ef576eafe14ab3a4f25fb4384264",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Isabel Infantes/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T15:30:02+00:00"
+  },
+  {
    "id": "a596c1cec5852dfd",
    "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
    "summary": "Bipartisan legislation now goes to the House amid concerns by some Democrats and environmental groups The Senate approved bipartisan legislation on Thursday aimed at speeding up permitting reviews to build power plants, transmission lines and other energy…",
@@ -199,10 +285,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/69/669e5383-adb3-5667-83eb-cc567db4a684/6b0063f94906e.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 837,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/69/669e5383-adb3-5667-83eb-cc567db4a684/6b0063f94906e.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/69/669e5383-adb3-5667-83eb-cc567db4a684/6b0063f94906e.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/69/669e5383-adb3-5667-83eb-cc567db4a684/6b0063f94906e.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:20:52+00:00"
@@ -272,28 +358,6 @@
    "addedAt": "2026-11-20T15:11:38+00:00"
   },
   {
-   "id": "27173930602c0888",
-   "title": "Trump officials consider appeal after agriculture secretary’s religious emails ruled unconstitutional – US politics live",
-   "summary": "US president expected to try to trumpet impact of Apec summit after bruising midterms results left him and Republicans reeling",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T14:53:46+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: VCG/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0e120cc64a06f80927c005866f5567b414dfce3b/636_0_6164_4932/master/6164.jpg?width=700&quality=85&auto=format&fit=max&s=21609431eb842c179f6639b5575fa260",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T10:59:55+00:00"
-  },
-  {
    "id": "b3cbf1cca10a82c5",
    "title": "Melanie Joly, Doug Ford to announce supports for Canada’s auto industry",
    "summary": "Stellantis, the parent company of Jeep, announced earlier this month a deal to sell its Brampton, Ont. vehicle assembly plant to defence manufacturer Roshel.",
@@ -332,26 +396,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:11:38+00:00"
-  },
-  {
-   "id": "c8606f7a59d7ed62",
-   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-   "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T14:42:14+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Olivier Hoslet/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=700&quality=85&auto=format&fit=max&s=208f4dc2f1acef8d1b4443cd0df870d0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T08:41:32+00:00"
   },
   {
    "id": "f449a8a22fe0d45d",
@@ -418,11 +462,11 @@
   {
    "id": "95e73dccb2889c7b",
    "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
-   "summary": "The philanthropist is accused by US authorities of financially supporting Hamas.",
+   "summary": "Chambers left Aranjuez prison near Madrid on Friday afternoon, shortly after Spain's High Court ordered him released.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
    "date": "2026-11-20T13:45:14+00:00",
-   "topic": "mideast",
+   "topic": "europe",
    "region": "world",
    "tags": [],
    "kind": "news",
@@ -507,10 +551,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/7ab90ee7eab9abe855627600310684a63cf95761/235_0_2599_2079/master/2599.jpg?width=700&quality=85&auto=format&fit=max&s=544c18042da196c015d65a6fa9a12cd4",
-    "w": 700,
+    "credit": "Photograph: Yves Herman/Reuters",
     "h": 560,
-    "credit": "Photograph: Yves Herman/Reuters"
+    "url": "https://i.guim.co.uk/img/media/7ab90ee7eab9abe855627600310684a63cf95761/235_0_2599_2079/master/2599.jpg?width=700&quality=85&auto=format&fit=max&s=544c18042da196c015d65a6fa9a12cd4",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T13:00:42+00:00"
@@ -723,7 +767,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8213,46 +8257,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T03:49:20+00:00"
-  },
-  {
-   "id": "fd8654b77e1182e7",
-   "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
-   "summary": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
-   "date": "2026-11-18T03:28:41+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afd1b1e-1794972446.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afd1b1e-1794972446.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T03:40:00+00:00"
-  },
-  {
-   "id": "e4b774a1e4bd0f17",
-   "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
-   "summary": "Former Democratic Rep. Mary Peltola has narrowly won Alaska's U.S. Senate race, toppling the Republican incumbent, according to a race call by The Associated Press.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
-   "date": "2026-11-18T03:27:23+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "analysis",
-   "image": {
-    "h": 803,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4285x2868+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F7b%2Fc9c8a3fc4d01bd1e6bf99f1f6d88%2Fmdt-peltola.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4285x2868+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F7b%2Fc9c8a3fc4d01bd1e6bf99f1f6d88%2Fmdt-peltola.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T03:40:00+00:00"
   }
  ]
 }

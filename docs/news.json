@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T14:06:56+00:00",
+ "generatedAt": "2026-11-20T14:16:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "CTV News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 3
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -166,46 +166,46 @@
  ],
  "items": [
   {
-   "id": "c8606f7a59d7ed62",
-   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-   "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T13:53:41+00:00",
-   "topic": "europe",
-   "region": "world",
+   "id": "f449a8a22fe0d45d",
+   "title": "Warning of credit rating downgrade ‘not a hinge moment’: Ontario finance minister",
+   "summary": "Ontario's Finance Minister is expressing confidence that the province will be able to avoid a credit rating downgrade amid \"negative outlook\" forcast",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12159424/credit-rating-downgrade-warning-not-a-hinge-moment-ontario-finance-minister/",
+   "date": "2026-11-20T14:14:46+00:00",
+   "topic": "ontario",
+   "region": "local",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Yves Herman/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b27d3ee34f879e3cdf8410a75595717f4585e5ed/358_0_2972_2378/master/2972.jpg?width=700&quality=85&auto=format&fit=max&s=faf787d7511ffc9e0ffdbdddfbb181a0",
-    "w": 700
+    "url": "https://globalnews.ca/wp-content/uploads/2026/10/2401df4bf13a086b9552441e2445634c4d7af7267d6221b62de54d7135fd1a59.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 683,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/10/2401df4bf13a086b9552441e2445634c4d7af7267d6221b62de54d7135fd1a59.jpg?w=640&h=427&crop=1&quality=70&strip=all"
    },
    "breaking": false,
-   "addedAt": "2026-11-20T08:41:32+00:00"
+   "addedAt": "2026-11-20T14:16:09+00:00"
   },
   {
-   "id": "1c65bd77cc62ed4b",
-   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T13:52:04+00:00",
-   "topic": "ukraine",
+   "id": "27173930602c0888",
+   "title": "Trump officials consider appeal after agriculture secretary’s religious emails ruled unconstitutional – US politics live",
+   "summary": "US president expected to try to trumpet impact of Apec summit after bruising midterms results left him and Republicans reeling",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+   "date": "2026-11-20T14:08:51+00:00",
+   "topic": "us",
    "region": "world",
    "tags": [
-    "defence"
+    "elections"
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200,
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
+    "credit": "Photograph: VCG/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/0e120cc64a06f80927c005866f5567b414dfce3b/636_0_6164_4932/master/6164.jpg?width=700&quality=85&auto=format&fit=max&s=21609431eb842c179f6639b5575fa260",
+    "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-20T12:33:14+00:00"
+   "addedAt": "2026-11-20T10:59:55+00:00"
   },
   {
    "id": "bc7ca4a145728fd4",
@@ -213,7 +213,7 @@
    "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T13:46:23+00:00",
+   "date": "2026-11-20T14:07:02+00:00",
    "topic": "africa",
    "region": "world",
    "tags": [
@@ -230,24 +230,106 @@
    "addedAt": "2026-11-20T07:18:47+00:00"
   },
   {
-   "id": "27173930602c0888",
-   "title": "Trump officials consider appeal after agriculture secretary’s religious emails ruled unconstitutional – US politics live",
-   "summary": "US president expected to try to trumpet impact of Apec summit after bruising midterms results left him and Republicans reeling",
+   "id": "c8606f7a59d7ed62",
+   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+   "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise…",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-20T13:33:18+00:00",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+   "date": "2026-11-20T14:00:55+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/3e896c5c72a70960c8e888a3e7e156426838be8d/566_219_3034_2427/master/3034.jpg?width=700&quality=85&auto=format&fit=max&s=af24f0cf49a41ba2a997760ec1726603",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Yves Herman/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T08:41:32+00:00"
+  },
+  {
+   "id": "8c001dfe6421839d",
+   "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
+   "summary": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream On a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop boat, docked in New…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
+   "date": "2026-11-20T14:00:31+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: VCG/Getty Images",
+    "url": "https://i.guim.co.uk/img/media/121c48abe318604b11e3134fcbc6c9f91546e514/0_921_4480_3584/master/4480.jpg?width=700&quality=85&auto=format&fit=max&s=d457794b86652ce2790e7eaba8241571",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0e120cc64a06f80927c005866f5567b414dfce3b/636_0_6164_4932/master/6164.jpg?width=700&quality=85&auto=format&fit=max&s=21609431eb842c179f6639b5575fa260",
-    "w": 700
+    "credit": "Photograph: Simon Simard/The Guardian"
    },
    "breaking": false,
-   "addedAt": "2026-11-20T10:59:55+00:00"
+   "addedAt": "2026-11-20T14:16:09+00:00"
+  },
+  {
+   "id": "1c65bd77cc62ed4b",
+   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+   "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T13:52:04+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T12:33:14+00:00"
+  },
+  {
+   "id": "95e73dccb2889c7b",
+   "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
+   "summary": "This is a breaking news story.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
+   "date": "2026-11-20T13:45:14+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/Fergie-Chambers1-1788295416.png?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/Fergie-Chambers1-1788295416.png?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T14:16:09+00:00"
+  },
+  {
+   "id": "658331a48964a228",
+   "title": "Myanmar, China object to ‘unfair’ ICJ genocide ruling",
+   "summary": "A Myanmar government spokesperson said the ruling was unjust and noted that the court's decision was not unanimous.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
+   "date": "2026-11-20T13:41:49+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00161225-1795167762.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00161225-1795167762.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T14:16:09+00:00"
   },
   {
    "id": "61854d96040f3cd9",
@@ -517,7 +599,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1625,7 +1707,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8168,91 +8250,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T01:46:39+00:00"
-  },
-  {
-   "id": "d3eb6d57cd6d15ea",
-   "title": "Appeals court blocks Pentagon from forcing transgender troops out of the U.S. army",
-   "summary": "A U.S. federal appeals court on Tuesday blocked the Pentagon from forcing more than two dozen transgender troops out of the military, several months after it found that President Donald Trump's administration unlawfully imposed the ban.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/transgender-us-army-troops-appeal-9.7425966?cmp=rss",
-   "date": "2026-11-18T01:10:08+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/dfb60bd1-5d77-4d04-b561-674bf3267b83,1794962544668/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C281%2C5400%2C3037%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T01:18:23+00:00"
-  },
-  {
-   "id": "96a742fd88dd7887",
-   "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-   "summary": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
-   "date": "2026-11-18T01:07:01+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcb93f966d-1794947391.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcb93f966d-1794947391.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T01:28:01+00:00"
-  },
-  {
-   "id": "a4893d7b977efe14",
-   "title": "Ecuadorian fishermen sue Trump administration over drone strike",
-   "summary": "Crew say their boat was attacked by drones launched from US-operated vessel as part of 'manifestly unlawful' campaign.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
-   "date": "2026-11-18T01:04:43+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/04/s1-1776319536.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/04/s1-1776319536.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T01:28:01+00:00"
-  },
-  {
-   "id": "dd5be05d4ceda3d2",
-   "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
-   "summary": "Diplomatic efforts struggle to end fighting in eastern DRC as civilians continue to bear the cost of conflict.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
-   "date": "2026-11-18T00:57:56+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/aljazeera-1-1794913170.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/aljazeera-1-1794913170.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T01:09:14+00:00"
   }
  ]
 }

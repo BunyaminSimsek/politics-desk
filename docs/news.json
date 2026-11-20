@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T09:28:04+00:00",
+ "generatedAt": "2026-11-20T09:37:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/82/d827b386-357e-504e-a103-a434176801e1/6b0010c523fc1.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/82/d827b386-357e-504e-a103-a434176801e1/6b0010c523fc1.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/82/d827b386-357e-504e-a103-a434176801e1/6b0010c523fc1.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/82/d827b386-357e-504e-a103-a434176801e1/6b0010c523fc1.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T09:28:04+00:00"
@@ -254,7 +254,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-select-third-new-leader-since-2018/article_843541fa-11c7-5f0f-9793-201060342b25.html",
    "date": "2026-11-20T09:00:09+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1107,7 +1107,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

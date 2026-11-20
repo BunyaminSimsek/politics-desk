@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T11:28:06+00:00",
+ "generatedAt": "2026-11-20T11:37:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "bc7ca4a145728fd4",
+   "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
+   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-20T11:28:24+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Khalil Hamra/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T07:18:47+00:00"
+  },
+  {
    "id": "f087d7c7855c3ac1",
    "title": "Who to watch in Spain's election race",
    "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
@@ -193,7 +215,7 @@
    "summary": "UK statement comes after EU said deal would not take effect without future agreement over university tuition fees Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "date": "2026-11-20T11:09:44+00:00",
+   "date": "2026-11-20T11:21:21+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -228,28 +250,6 @@
    "addedAt": "2026-11-20T10:59:55+00:00"
   },
   {
-   "id": "bc7ca4a145728fd4",
-   "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
-   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end In a huddle outside the African group’s media conference this morning, Dr Zanetor Agyeman-Rawlings , Ghana’s environment minister and chair of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T11:01:25+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Khalil Hamra/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T07:18:47+00:00"
-  },
-  {
    "id": "4d56cf5c96859181",
    "title": "Emails reveal how Trump allies pushed pardons for election deniers",
    "summary": "Former Trump lawyer urged justice department officials to seek pardons for those falsely claiming he won the 2020 presidential election in their states In the fall of 2025, Cleta Mitchell, a key lawyer in Donald Trump’s efforts to overturn the 2020…",
@@ -273,7 +273,7 @@
   },
   {
    "id": "fa351c7737963f83",
-   "title": "The Match review – Lineker, Shilton et al look back at England’s ‘hand of God’ clash with Argentina",
+   "title": "‘The hand of god’ and all that: Lineker, Shilton et al look back at 1986 England-Argentina clash – The Match review",
    "summary": "Argentinian co-directors Juan Cabral and Santiago Franco work hard to appear impartial in account that situates the game in a long continuum of conflict Here is a football documentary that is a cut above the drain-clogging content that loiters in streaming…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/film/2026/nov/20/the-match-review-conciliatory-look-back-at-englands-hand-of-god-clash-with-argentina",
@@ -1323,7 +1323,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

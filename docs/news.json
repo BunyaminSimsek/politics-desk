@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T22:50:17+00:00",
+ "generatedAt": "2026-11-20T22:59:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -160,8 +160,8 @@
   {
    "source": "Policy Options",
    "url": "https://policyoptions.irpp.org/feed/",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 25
   }
  ],
  "items": [
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200,
     "h": 799,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/eced/live/2313a9a0-e533-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T22:50:17+00:00"

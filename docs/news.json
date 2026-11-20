@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T00:53:02+00:00",
+ "generatedAt": "2026-11-20T01:02:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "CBC World",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "24f0933c7ee3ceb4",
+   "title": "More climate money for Africa? Europe says use what's already pledged",
+   "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T00:54:50+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9534/live/be6f9f00-e432-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
+    "h": 750,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9534/live/be6f9f00-e432-11f1-99a1-253766e7ad8b.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T01:02:09+00:00"
+  },
   {
    "id": "b5502e0ebc980de5",
    "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
@@ -527,7 +549,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -592,9 +614,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/062aaee9-a818-4683-8fed-d78a3d0c0588,1795119984529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C829%2C7972%2C4484%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/062aaee9-a818-4683-8fed-d78a3d0c0588,1795119984529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C829%2C7972%2C4484%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:59:04+00:00"
@@ -655,9 +677,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/b184e0f3-ae51-4b6c-b627-1d5808b202c6,1795119970288/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C326%2C6260%2C3521%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/b184e0f3-ae51-4b6c-b627-1d5808b202c6,1795119970288/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C326%2C6260%2C3521%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:59:04+00:00"
@@ -674,9 +696,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/f8878b6a-3cdd-426a-a4e5-5951615da216,1795119506114/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C350%2C6720%2C3780%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/f8878b6a-3cdd-426a-a4e5-5951615da216,1795119506114/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C350%2C6720%2C3780%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:59:04+00:00"
@@ -8228,28 +8250,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T20:34:56+00:00"
-  },
-  {
-   "id": "079425f07f1a861a",
-   "title": "China, Canada expand tariff relief after Carney-Xi meeting",
-   "summary": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
-   "date": "2026-11-17T20:11:41+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc982d1952-1794938925.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc982d1952-1794938925.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T20:25:35+00:00"
   }
  ]
 }

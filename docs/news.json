@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T13:00:42+00:00",
+ "generatedAt": "2026-11-20T13:09:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "bc7ca4a145728fd4",
+   "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
+   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-20T13:04:16+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Khalil Hamra/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T07:18:47+00:00"
+  },
+  {
    "id": "1c65bd77cc62ed4b",
    "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
    "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
@@ -179,10 +201,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T12:33:14+00:00"
@@ -201,10 +223,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/0e120cc64a06f80927c005866f5567b414dfce3b/636_0_6164_4932/master/6164.jpg?width=700&quality=85&auto=format&fit=max&s=21609431eb842c179f6639b5575fa260",
-    "w": 700,
+    "credit": "Photograph: VCG/Getty Images",
     "h": 560,
-    "credit": "Photograph: VCG/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/0e120cc64a06f80927c005866f5567b414dfce3b/636_0_6164_4932/master/6164.jpg?width=700&quality=85&auto=format&fit=max&s=21609431eb842c179f6639b5575fa260",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T10:59:55+00:00"
@@ -230,28 +252,6 @@
    "addedAt": "2026-11-20T08:41:32+00:00"
   },
   {
-   "id": "bc7ca4a145728fd4",
-   "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
-   "summary": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T12:46:35+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Khalil Hamra/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T07:18:47+00:00"
-  },
-  {
    "id": "71c26b19046c44d0",
    "title": "Fallout over tuition fees may snag Burnham’s EU deal, say insiders",
    "summary": "No 10 pushing back on claims in Brussels that lack of agreement on fees for EU students could sink agreements The UK and EU have agreed a reset deal, Downing Street has said, although the level of tuition fees EU students will pay to study at UK universities…",
@@ -263,10 +263,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/5c79dc09bc15f94162fd0c0df2043d4a0ba4bec8/324_0_3238_2591/master/3238.jpg?width=700&quality=85&auto=format&fit=max&s=223d5ff2bf02d07adcc450ba92b11185",
-    "w": 700,
+    "credit": "Photograph: Virginia Mayo/AP",
     "h": 560,
-    "credit": "Photograph: Virginia Mayo/AP"
+    "url": "https://i.guim.co.uk/img/media/5c79dc09bc15f94162fd0c0df2043d4a0ba4bec8/324_0_3238_2591/master/3238.jpg?width=700&quality=85&auto=format&fit=max&s=223d5ff2bf02d07adcc450ba92b11185",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T13:00:42+00:00"
@@ -578,7 +578,7 @@
   {
    "id": "eb38042c0b5cd1ef",
    "title": "‘I agree with the president’: incoming senator Abdul El-Sayed seeks to help Trump end military aid to Israel",
-   "summary": "Michigan senator-elect also secured a meeting with JD Vance, who called him a ‘terrible evil’ in lead-up to election The incoming US senator Abdul El-Sayed of Michigan said that he and Donald Trump are in agreement about ending foreign military aid to Israel…",
+   "summary": "Michigan senator-elect also secured a meeting with JD Vance, who called him a ‘terrible evil’ in lead-up to election The incoming US senator Abdul El-Sayed of Michigan said that he and Donald Trump were in agreement about ending foreign military aid to Israel…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/20/el-sayed-trump-israel-aid",
    "date": "2026-11-20T11:00:29+00:00",

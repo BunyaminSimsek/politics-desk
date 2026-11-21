@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T18:13:41+00:00",
+ "generatedAt": "2026-11-21T18:23:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "925a1909408b0d1b",
+   "title": "Could Brexit be reversed?",
+   "summary": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+   "date": "2026-11-21T18:18:11+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795283116.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795283116.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T18:23:12+00:00"
+  },
+  {
+   "id": "ad9ab7d2756a9c36",
+   "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
+   "summary": "EU thought to have backing of 130 countries in last-ditch push to get fossil fuels mentioned in outcome of UN climate summit. Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+   "date": "2026-11-21T18:17:50+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Chris McGrath/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b4da7d6ea28bae6380a9f013dbe3b27d6e171620/252_0_5883_4706/master/5883.jpg?width=700&quality=85&auto=format&fit=max&s=6080c10b38b1e681d1b0d391f90b9fb8",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T07:01:59+00:00"
+  },
+  {
    "id": "7ac6d14389feef65",
    "title": "Trump orders contractors to check with White House over any congressional inquiries",
    "summary": "Anticipating flood of Democratic requests, US president issues executive order in attempt to stymie oversight efforts Donald Trump is directing federal contractors and subcontractors to consult with his administration about inquiries they receive from…",
@@ -177,13 +217,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f021398e23c64249dd270de109b550a94bbd26fb/332_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=589910443b861ac3f8d1ba396f9820c7",
-    "w": 700,
+    "credit": "Photograph: Elizabeth Frantz/Reuters",
     "h": 560,
-    "credit": "Photograph: Elizabeth Frantz/Reuters"
+    "url": "https://i.guim.co.uk/img/media/f021398e23c64249dd270de109b550a94bbd26fb/332_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=589910443b861ac3f8d1ba396f9820c7",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T18:13:41+00:00"
+  },
+  {
+   "id": "5d4b6e627c695fe1",
+   "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+   "summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+   "date": "2026-11-21T18:05:51+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795284233.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795284233.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T18:23:12+00:00"
   },
   {
    "id": "ba154ba503f95303",
@@ -224,26 +284,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T18:04:26+00:00"
-  },
-  {
-   "id": "ad9ab7d2756a9c36",
-   "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
-   "summary": "EU thought to have backing of 130 countries in last-ditch push to get fossil fuels mentioned in outcome of UN climate summit. Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T17:48:54+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chris McGrath/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b4da7d6ea28bae6380a9f013dbe3b27d6e171620/252_0_5883_4706/master/5883.jpg?width=700&quality=85&auto=format&fit=max&s=6080c10b38b1e681d1b0d391f90b9fb8",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T07:01:59+00:00"
   },
   {
    "id": "2ea227e17ec6f4b7",
@@ -564,9 +604,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1dd60a20-59ca-4d7a-a8db-a8328b0c7f58,1795284604232/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C7%2C1280%2C720%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1dd60a20-59ca-4d7a-a8db-a8328b0c7f58,1795284604232/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C7%2C1280%2C720%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-21T13:36:25+00:00"
@@ -8203,47 +8243,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T19:59:46+00:00"
-  },
-  {
-   "id": "1603c72dee33fbfe",
-   "title": "Nearly 300,000 people sign petition demanding U.S. Ambassador Pete Hoekstra's removal",
-   "summary": "More than 285,000 people have signed a petition asking the federal government to remove U.S. Ambassador Pete Hoekstra from Canada.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/hoekstra-petition-9.7426916?cmp=rss",
-   "date": "2026-11-18T19:45:07+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/96a552b2-5bfd-4809-a5de-1d7724f9a577,1795030632353/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C308%2C4717%2C2653%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T19:50:03+00:00"
-  },
-  {
-   "id": "251bcc5da014a43c",
-   "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
-   "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
-   "date": "2026-11-18T19:34:31+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Isabel Infantes/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/297daa4e63256807e9b1bfbba9295164f2d00efe/408_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=4f26bbca027faa6ab4d6c792b3d1d37b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T18:35:37+00:00"
   }
  ]
 }

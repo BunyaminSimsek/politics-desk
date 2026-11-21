@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T15:45:41+00:00",
+ "generatedAt": "2026-11-21T15:54:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/c0ce942a27e560d3ae51a4e8900971d7de2d7ccb/574_0_5736_4589/master/5736.jpg?width=700&quality=85&auto=format&fit=max&s=46db8f7c2a63c2fbad50ec86091c9c9b",
-    "w": 700,
+    "credit": "Photograph: Annie Rice/AP",
     "h": 560,
-    "credit": "Photograph: Annie Rice/AP"
+    "url": "https://i.guim.co.uk/img/media/c0ce942a27e560d3ae51a4e8900971d7de2d7ccb/574_0_5736_4589/master/5736.jpg?width=700&quality=85&auto=format&fit=max&s=46db8f7c2a63c2fbad50ec86091c9c9b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T15:45:41+00:00"
@@ -207,7 +207,7 @@
   },
   {
    "id": "9837acf6063e3c9e",
-   "title": "Diallo present as Africa football boss Motsepe reiterates Infantino support",
+   "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
    "summary": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
@@ -232,7 +232,7 @@
    "source": "Global News",
    "url": "https://globalnews.ca/news/12160805/ontario-liberals-new-leader/",
    "date": "2026-11-21T15:13:02+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -835,7 +835,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2070,7 +2070,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3152,7 +3152,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T05:49:08+00:00",
+ "generatedAt": "2026-11-21T05:58:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 13
+   "kept": 14
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "aa368184f3168243",
+   "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
+   "summary": "Eisenkot's fragile alliance must overcome deep ideological divisions to turn its opposition into a government.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
+   "date": "2026-11-21T05:46:29+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00856e-1795196270.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00856e-1795196270.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T05:58:14+00:00"
+  },
+  {
    "id": "a5ae86279d6526d5",
    "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
    "summary": "Trump's comments came after Russia launched \"biggest attacks this year\" against Ukraine.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-21T05:21:38+00:00"
@@ -820,8 +840,8 @@
   },
   {
    "id": "4ac43ec9386593c7",
-   "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
-   "summary": "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
+   "title": "Three Salvadoran soldiers killed in Haiti while handling explosives",
+   "summary": "One other was injured in the explosion, marking the first deaths among troops deployed to Haiti since late October.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
    "date": "2026-11-20T20:59:04+00:00",
@@ -8241,26 +8261,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:27:44+00:00"
-  },
-  {
-   "id": "c35ea5dcbea50196",
-   "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
-   "summary": "The New York congressman is nominated after Democrats gained control of Congress in this month's midterm elections.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
-   "date": "2026-11-18T15:37:52+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afdb8b185efc-1795012785_7d572c-1795013292.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afdb8b185efc-1795012785_7d572c-1795013292.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T15:54:16+00:00"
   }
  ]
 }

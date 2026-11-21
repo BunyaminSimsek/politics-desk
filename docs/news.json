@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T18:50:30+00:00",
+ "generatedAt": "2026-11-21T18:59:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "d2ce1eae56928d5d",
+   "title": "Canada unaware of U.S. changes to military cooperation policy, McGuinty says",
+   "summary": "The Department of War is “taking steps to ensure its engagements with Canada advance tangible U.S. defense objectives, the Chief Pentagon spokesperson told Global News.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12160884/canada-us-defence/",
+   "date": "2026-11-21T18:53:58+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/McGuinty-e1795284391944.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/McGuinty-e1795284391944.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T18:59:37+00:00"
+  },
+  {
    "id": "ad9ab7d2756a9c36",
    "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
    "summary": "EU thought to have backing of 130 countries in last-ditch push to get fossil fuels mentioned in outcome of UN climate summit. Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today.",
@@ -270,20 +292,22 @@
   },
   {
    "id": "ba154ba503f95303",
-   "title": "Ontario Liberal leadership race live: Party set to elect new leader as Toronto convention gets underway",
+   "title": "Ontario Liberal leadership race live: Candidates arrive to Toronto convention centre as votes tallied",
    "summary": "Four candidates are vying to be the politician that finally returns the party to power.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberal-leadership-live/article_1f6f280d-80d7-4d59-92d0-2087a8a883e7.html",
    "date": "2026-11-21T18:00:00+00:00",
    "topic": "ontario",
    "region": "local",
-   "tags": [],
+   "tags": [
+    "elections"
+   ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/13/61314358-2323-5170-946f-d387150234d4/6b01e671e6643.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/13/61314358-2323-5170-946f-d387150234d4/6b01e671e6643.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/13/61314358-2323-5170-946f-d387150234d4/6b01e671e6643.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/13/61314358-2323-5170-946f-d387150234d4/6b01e671e6643.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-21T10:04:53+00:00"
@@ -350,28 +374,6 @@
    "addedAt": "2026-11-21T17:36:30+00:00"
   },
   {
-   "id": "75b3083c0038eda6",
-   "title": "McGuinty not aware U.S. has changed military co-operation policy with Canada",
-   "summary": "HALIFAX - Canada’s defence minister says he has not seen a memo from the U.S. secretary of war that reportedly restricts American defence co-operation with Canada.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/mcguinty-not-aware-u-s-has-changed-military-co-operation-policy-with-canada/article_ecf03de5-a7c9-5dcd-82ae-0d889ddf7f83.html",
-   "date": "2026-11-21T17:20:48+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/da/8dace795-551e-5775-b5db-c081c909f68f/6b009c3939827.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/da/8dace795-551e-5775-b5db-c081c909f68f/6b009c3939827.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T17:36:30+00:00"
-  },
-  {
    "id": "cf2547504110fc73",
    "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
    "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
@@ -392,6 +394,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T17:27:14+00:00"
+  },
+  {
+   "id": "75b3083c0038eda6",
+   "title": "McGuinty not aware U.S. has changed military co-operation policy with Canada",
+   "summary": "HALIFAX - Canada’s defence minister says he has not seen a memo from the U.S. secretary of war that reportedly restricts American defence co-operation with Canada.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/mcguinty-not-aware-u-s-has-changed-military-co-operation-policy-with-canada/article_ecf03de5-a7c9-5dcd-82ae-0d889ddf7f83.html",
+   "date": "2026-11-21T17:20:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/da/8dace795-551e-5775-b5db-c081c909f68f/6b009c3939827.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/da/8dace795-551e-5775-b5db-c081c909f68f/6b009c3939827.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T17:36:30+00:00"
   },
   {
    "id": "158994b8ae4ecd45",
@@ -8226,26 +8250,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T19:01:11+00:00"
-  },
-  {
-   "id": "609db31c5913ac8a",
-   "title": "Doug Ford faces tougher tests as Trump threat recedes, pollster predicts",
-   "summary": "Premier Doug Ford may no longer be enjoying the Trump bump that propelled his popularity for months, a new poll suggests.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/doug-ford-faces-tougher-tests-as-trump-threat-recedes-pollster-predicts/article_3f99b9cf-be25-49c2-8303-386c0dc3e7fb.html",
-   "date": "2026-11-18T20:00:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/4e/54e092d3-c90a-57bd-bcfa-61988c6b6ee3/6afe00b5cf024.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/4e/54e092d3-c90a-57bd-bcfa-61988c6b6ee3/6afe00b5cf024.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T20:08:56+00:00"
   }
  ]
 }

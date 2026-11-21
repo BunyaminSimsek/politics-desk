@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T08:42:16+00:00",
+ "generatedAt": "2026-11-21T08:51:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 19
+   "kept": 20
   },
   {
    "source": "The Guardian",
@@ -168,10 +168,10 @@
   {
    "id": "ad9ab7d2756a9c36",
    "title": "Cop31 live: climate talks drag into overtime as countries race to find agreement",
-   "summary": "Though the climate talks officially finished on Friday, no final deal was agreed and there are growing concerns an agreement may not be possible The conference centre is a lot emptier, my colleagues report.",
+   "summary": "Though the climate talks officially finished on Friday, no final deal was agreed and there are growing concerns an agreement may not be possible I have been talking to a few people here who are close to the negotiations and the Australian presidency about…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T08:37:26+00:00",
+   "date": "2026-11-21T08:49:46+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [
@@ -186,6 +186,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T07:01:59+00:00"
+  },
+  {
+   "id": "b421a74e964c578d",
+   "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
+   "summary": "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
+   "date": "2026-11-21T08:48:54+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b01488a4ebf-1795246218.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b01488a4ebf-1795246218.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T08:51:24+00:00"
+  },
+  {
+   "id": "dee7ae3761168536",
+   "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
+   "summary": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
+   "date": "2026-11-21T08:39:35+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795250294.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795250294.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T08:51:24+00:00"
   },
   {
    "id": "cb40b754313ffec3",
@@ -542,8 +582,8 @@
   },
   {
    "id": "a7dd2896b1422167",
-   "title": "Iran war live: Tanker reported hit by ‘unknown projectile’ north of Oman",
-   "summary": "UKMTO says no injuries reported in incident 11 nautical miles north of Khasab, but environmental impact remains unclear.",
+   "title": "Iran war live: 2 tankers reported hit by unknown projectiles off Oman coast",
+   "summary": "UKMTO says no injuries reported in incidents north and east of Oman's Khasab, but environmental impact remains unclear.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
    "date": "2026-11-21T00:00:06+00:00",
@@ -2145,6 +2185,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T14:16:09+00:00"
+  },
+  {
+   "id": "adfd6129676fb7a3",
+   "title": "As the Coalition stares down One Nation in NSW, a new threat is rising: independents",
+   "summary": "The opposition’s struggle is creating an opportunity for progressive independents who are boosted by shrewd political operator Chris Minns Get our daily political email , free app or daily news podcast The New South Wales Coalition is facing a renewed threat…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
+   "date": "2026-11-20T14:00:32+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/4a587781117ac3e5eb250fd3995c2d9a5ad2cc47/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=2a2bb0a673fc73292ffa05c0082d4bd0",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Sarah Wilson/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T08:51:24+00:00"
   },
   {
    "id": "8c001dfe6421839d",
@@ -8200,68 +8260,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:32:12+00:00"
-  },
-  {
-   "id": "6a33f337f6bec740",
-   "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-   "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T16:10:44+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T12:47:21+00:00"
-  },
-  {
-   "id": "531745f357f9547c",
-   "title": "ICE offers firm operating deportation flights windfall and secrecy, data shows",
-   "summary": "Exclusive: Trump administration continues to award deals to private contractor CSI Aviation and agreed to remove ICE flights from tracking websites Immigration and Customs Enforcement (ICE) has agreed to pay the private contractor CSI Aviation up to $305.7m…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/ice-deportation-flights-csi-deal",
-   "date": "2026-11-18T16:00:06+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: David Ryder/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/1e6b9eca8a6ee488d38702b7e33350a0f8215ed3/267_0_2665_2133/master/2665.jpg?width=700&quality=85&auto=format&fit=max&s=e61d212591f48c36028fbaa3753fb673",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T16:13:34+00:00"
-  },
-  {
-   "id": "8e0369d51c17b430",
-   "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
-   "summary": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
-   "date": "2026-11-18T15:56:30+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2F57%2F1cdfc9bb4447a18aa5df06a032bf%2Fgettyimages-2305571337.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff6%2F57%2F1cdfc9bb4447a18aa5df06a032bf%2Fgettyimages-2305571337.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T16:13:34+00:00"
   }
  ]
 }

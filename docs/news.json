@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T12:40:52+00:00",
+ "generatedAt": "2026-11-21T12:49:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Though the climate talks officially finished on Friday, no final deal was agreed.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T12:31:25+00:00",
+   "date": "2026-11-21T12:46:23+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [],
@@ -184,6 +184,51 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T07:01:59+00:00"
+  },
+  {
+   "id": "e49313fb751c4887",
+   "title": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
+   "summary": "In North Carolina, Republican lawmakers redrew voting maps, aiming to gain one seat in Congress. Instead, they lost two seats, in a classic example of what political scientists call a \"dummymander.\"",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats",
+   "date": "2026-11-21T12:40:21+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-21T12:49:59+00:00"
+  },
+  {
+   "id": "99289f0993e7967a",
+   "title": "The New Yorker's Jason Zengerle on Hakeem Jeffries' rise to first Black House speaker",
+   "summary": "Hakeem Jeffries is set to become the first-ever African American speaker of the U.S. House of Representatives. NPR's Scott Simon talks to Jason Zengerle of The New Yorker about the rise of Jeffries.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6047580/the-new-yorkers-jason-zengerle-on-hakeem-jeffries-rise-to-first-black-house-speaker",
+   "date": "2026-11-21T12:40:19+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-21T12:49:59+00:00"
+  },
+  {
+   "id": "d1fbb9e723f99f0e",
+   "title": "Week in Politics: Trump returns from Asia; hails trip as one of best in history",
+   "summary": "President Trump returned from his trip to Asia, saying it was one of the most successful presidential visits to that continent -- or anywhere else -- in American history.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6047376/week-in-politics-trump-returns-from-asia-hails-trip-as-one-of-best-in-history",
+   "date": "2026-11-21T12:40:15+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-21T12:49:59+00:00"
   },
   {
    "id": "b28eefa3bc614ca7",
@@ -444,7 +489,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-name-new-leader-after-weeks-of-voting-months-of-campaigning/article_dc8ece66-4041-5f42-84f1-0b9195d92fef.html",
    "date": "2026-11-21T11:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -529,10 +574,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/7b/e7bfbafe-8472-5ef4-abd0-f8494d25959f/6aff114af05f5.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/7b/e7bfbafe-8472-5ef4-abd0-f8494d25959f/6aff114af05f5.image.jpg?resize=1200%2C",
-    "w": 1200
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/18/e18a4e82-4481-5722-ae7d-615c56426165/6b01924f43e6e.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 675,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/18/e18a4e82-4481-5722-ae7d-615c56426165/6b01924f43e6e.image.jpg?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-21T10:04:53+00:00"
@@ -4076,7 +4121,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8196,66 +8241,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/5d438907b5a800f954658ec6bbd4a935fef933b8/333_0_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=2d3ac2ec259de127f9caa3bdcfeb3f63",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T18:07:03+00:00"
-  },
-  {
-   "id": "e13ea879abbb1799",
-   "title": "New program for children’s social, health services transfers responsibility to Inuit",
-   "summary": "OTTAWA - A new program to ensure Inuit children have access to critical health, education and social supports will be managed by the four Inuit treaty organizations -- and they'll have more control over how those services are delivered.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/new-program-for-children-s-social-health-services-transfers-responsibility-to-inuit/article_64208797-8f44-5a9c-824d-574001201468.html",
-   "date": "2026-11-18T17:45:54+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/4b/64b4692f-883c-596f-866a-5dd49320fb7c/6afde54dd7935.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/4b/64b4692f-883c-596f-866a-5dd49320fb7c/6afde54dd7935.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T17:57:54+00:00"
-  },
-  {
-   "id": "408c89e59ba0c4e4",
-   "title": "Ottawa to supply Ukraine with ammunition, winter clothing, food",
-   "summary": "OTTAWA - The federal government is funding more military aid for Ukraine, including ammunition, winter clothing and food.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/ottawa-to-supply-ukraine-with-ammunition-winter-clothing-food/article_5a8a7d42-62f2-5c86-9c03-cc2db5586e8c.html",
-   "date": "2026-11-18T17:45:28+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/f4/df41dc89-c416-50f8-ab86-e23650a175bd/6afde54d30bbd.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/f4/df41dc89-c416-50f8-ab86-e23650a175bd/6afde54d30bbd.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T17:57:54+00:00"
-  },
-  {
-   "id": "8317848a8d3e9b3b",
-   "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
-   "summary": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
-   "date": "2026-11-18T17:45:09+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Interactive_Baord-of-Peace_Members_Nov17_2026_Cover-1795003885.png?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Interactive_Baord-of-Peace_Members_Nov17_2026_Cover-1795003885.png?resize=1200%2C800",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:07:03+00:00"

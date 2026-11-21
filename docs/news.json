@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T13:45:58+00:00",
+ "generatedAt": "2026-11-21T13:55:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Yasin Akgül/AFP/Getty Images",
+    "url": "https://i.guim.co.uk/img/media/b4da7d6ea28bae6380a9f013dbe3b27d6e171620/252_0_5883_4706/master/5883.jpg?width=700&quality=85&auto=format&fit=max&s=6080c10b38b1e681d1b0d391f90b9fb8",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0d800100748e68cb865e3bb780a2031c2515a016/756_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=b8cd1831d609c0b3d41fe353ab30439e",
-    "w": 700
+    "credit": "Photograph: Chris McGrath/Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-21T07:01:59+00:00"
@@ -548,7 +548,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-name-new-leader-after-weeks-of-voting-months-of-campaigning/article_dc8ece66-4041-5f42-84f1-0b9195d92fef.html",
    "date": "2026-11-21T11:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -713,7 +713,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1948,7 +1948,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3030,7 +3030,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4160,7 +4160,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

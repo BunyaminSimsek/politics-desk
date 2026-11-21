@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T01:01:53+00:00",
+ "generatedAt": "2026-11-21T01:11:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -1008,9 +1008,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.3538116,1460749537000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C103%2C1113%2C626%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.3538116,1460749537000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C103%2C1113%2C626%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-20T21:06:40+00:00"
@@ -1124,7 +1124,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2228,7 +2228,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

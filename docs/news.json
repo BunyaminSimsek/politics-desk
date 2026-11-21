@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T01:20:40+00:00",
+ "generatedAt": "2026-11-21T01:29:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -184,6 +184,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T20:38:58+00:00"
+  },
+  {
+   "id": "08f48f73391d50af",
+   "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+   "summary": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
+   "date": "2026-11-21T01:12:48+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00d9433fcd-1795217731.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00d9433fcd-1795217731.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T01:29:50+00:00"
   },
   {
    "id": "17e1c5c1e63b4f10",
@@ -8241,26 +8261,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T15:16:44+00:00"
-  },
-  {
-   "id": "55279e491921b9fb",
-   "title": "What is Iraq’s Jurf al-Sakhar and what is behind gov’t push to control it?",
-   "summary": "Tensions surge between PM al-Zaidi's government and Kataib Hezbollah amid oil-smuggling scandal.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
-   "date": "2026-11-18T15:00:34+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7RP8QD__v1__HighRes__IraqIranConflict-1795001391.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7RP8QD__v1__HighRes__IraqIranConflict-1795001391.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T15:25:58+00:00"
   }
  ]
 }

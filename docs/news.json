@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T00:34:01+00:00",
+ "generatedAt": "2026-11-21T00:43:36+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "17e1c5c1e63b4f10",
+   "title": "ANC fights to keep control of South Africa's key cities after election setback",
+   "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T00:34:51+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/aad1/live/7d1c0de0-e4ff-11f1-a8e4-b1e12a49db15.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/aad1/live/7d1c0de0-e4ff-11f1-a8e4-b1e12a49db15.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T00:43:36+00:00"
+  },
+  {
    "id": "3ab02423d029a3f7",
    "title": "U.S. senator says Canada should make interim tariff agreement, let Congress 'legislate' long-term deal",
    "summary": "A senior Democrat in the U.S. Senate says he thinks Canada should seek an interim trade deal with the Trump administration — and the incoming U.S. Congress will figure out something better for the long term.",
@@ -179,9 +201,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/5f30a2a2-faf5-484e-a30f-1cf3ef0161c6,1795220525819/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C163%2C4649%2C2615%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/5f30a2a2-faf5-484e-a30f-1cf3ef0161c6,1795220525819/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C163%2C4649%2C2615%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-21T00:34:01+00:00"
@@ -198,10 +220,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/13a779743e2a0f56e66622d1d81ea56493964bed/454_0_4537_3631/master/4537.jpg?width=700&quality=85&auto=format&fit=max&s=7e3ba93507fee6b375f66a2e89ce762a",
-    "w": 700,
+    "credit": "Photograph: Evelyn Hockstein/Reuters",
     "h": 560,
-    "credit": "Photograph: Evelyn Hockstein/Reuters"
+    "url": "https://i.guim.co.uk/img/media/13a779743e2a0f56e66622d1d81ea56493964bed/454_0_4537_3631/master/4537.jpg?width=700&quality=85&auto=format&fit=max&s=7e3ba93507fee6b375f66a2e89ce762a",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T00:34:01+00:00"
@@ -1080,7 +1102,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2184,7 +2206,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3314,7 +3336,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8237,28 +8259,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T15:16:44+00:00"
-  },
-  {
-   "id": "78196c08c3b3cb3e",
-   "title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
-   "summary": "Many Palestinians started to flee refugee camps as the Israeli offensive got underway.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
-   "date": "2026-11-18T14:39:09+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T143829Z_1693416889_RC2DQOAT6FUK_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1795013302.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T143829Z_1693416889_RC2DQOAT6FUK_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1795013302.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T18:07:03+00:00"
   }
  ]
 }

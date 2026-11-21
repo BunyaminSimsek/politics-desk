@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T09:00:29+00:00",
+ "generatedAt": "2026-11-21T09:09:39+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -167,16 +167,14 @@
  "items": [
   {
    "id": "ad9ab7d2756a9c36",
-   "title": "Cop31 live: climate talks drag into overtime as countries race to find agreement",
-   "summary": "Though the climate talks officially finished on Friday, no final deal was agreed and there are growing concerns an agreement may not be possible I have been talking to a few people here who are close to the negotiations and the Australian presidency about…",
+   "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
+   "summary": "Though the climate talks officially finished on Friday, no final deal was agreed.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T08:49:46+00:00",
+   "date": "2026-11-21T09:04:19+00:00",
    "topic": "turkey",
    "region": "world",
-   "tags": [
-    "climate"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
     "credit": "Photograph: Yasin Akgül/AFP/Getty Images",
@@ -186,6 +184,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T07:01:59+00:00"
+  },
+  {
+   "id": "93cbe204bfbd2845",
+   "title": "Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'",
+   "summary": "Canada has a three-ocean coastline — 243,000 kilometres — and only 20 underwater drones to help defend it.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/canada-surveillance-gap-underwater-drone-technology-9.7425421?cmp=rss",
+   "date": "2026-11-21T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/e4983937-3ebf-487c-be17-b1f14899341c,1795198589269/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C964%2C542%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T09:09:39+00:00"
+  },
+  {
+   "id": "a3c51c4550babc25",
+   "title": "Ontario Liberals to elect new leader today after lengthy race",
+   "summary": "Ontario Liberals will choose their new leader today as the once dominant party makes its latest attempt to escape the political wilderness and insiders say no \"runaway winner\" has emerged over the course of the lenghty race.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
+   "date": "2026-11-21T09:00:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/1.6779579,1678895638000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C6016%2C3384%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T09:09:39+00:00"
   },
   {
    "id": "b421a74e964c578d",
@@ -279,10 +317,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6390/live/3985e760-e52a-11f1-964d-a1d5fe40573e.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6390/live/3985e760-e52a-11f1-964d-a1d5fe40573e.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6390/live/3985e760-e52a-11f1-964d-a1d5fe40573e.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6390/live/3985e760-e52a-11f1-964d-a1d5fe40573e.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-21T09:00:29+00:00"
@@ -8218,48 +8256,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:32:12+00:00"
-  },
-  {
-   "id": "8814397e52161f46",
-   "title": "Budget Fiat 500s complete 4,000km Rome challenge",
-   "summary": "Stuart Bailey and a group of men took £500 Fiats from Heathrow to Rome in three days, raising £13,000.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm2d93zpnyxeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T16:24:04+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f8c0/live/af5f4150-e36a-11f1-9f51-4bfc31543510.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f8c0/live/af5f4150-e36a-11f1-9f51-4bfc31543510.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T17:10:58+00:00"
-  },
-  {
-   "id": "3aaf5d92c0730172",
-   "title": "Labour faces double blow over UK fossil fuel projects",
-   "summary": "Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site Nils Pratley: with more gas storage at risk. What’s the government plan for secure supplies?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
-   "date": "2026-11-18T16:19:41+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: EnQuest/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/43807761436da658bfa0aa4756a6c6866170ca90/585_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=64d8ce169ecca496c73e8de08172e496",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T10:46:35+00:00"
   }
  ]
 }

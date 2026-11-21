@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T10:59:52+00:00",
+ "generatedAt": "2026-11-21T11:09:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -119,7 +119,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
    "ok": true,
-   "kept": 49
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -143,7 +143,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/americas/rss",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "Though the climate talks officially finished on Friday, no final deal was agreed.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T10:46:25+00:00",
+   "date": "2026-11-21T11:08:44+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [],
@@ -184,6 +184,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T07:01:59+00:00"
+  },
+  {
+   "id": "b537fedc25b3af7f",
+   "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
+   "summary": "Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situation A bullet-peppered mural of the Haitian striker Emmanuel Sanon covers the facade of Port-au-Prince’s main football…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+   "date": "2026-11-21T11:00:57+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/50cadcfc3b9aea76e63e685b18e73e9625ebe68b/479_0_4942_3957/master/4942.jpg?width=700&quality=85&auto=format&fit=max&s=b65c1967f140e753a6b2bca6122cec9a",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Fildor Pq Egeder/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T11:09:04+00:00"
   },
   {
    "id": "17074b3810332c6e",
@@ -309,7 +331,7 @@
   },
   {
    "id": "91cfe012df1c910a",
-   "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+   "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
    "summary": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
@@ -8235,28 +8257,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T17:10:58+00:00"
-  },
-  {
-   "id": "67c7a2bfdc6415ff",
-   "title": "Housing minister won't reaffirm Liberal pledge to double home construction",
-   "summary": "OTTAWA - Housing Minister Gregor Robertson wouldn't reaffirm the Liberal government's long-standing goal of doubling the pace of home building when pressed by reporters on Wednesday.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/housing-minister-won-t-reaffirm-liberal-pledge-to-double-home-construction/article_89116d32-ae10-5805-8766-35d4be399356.html",
-   "date": "2026-11-18T16:47:37+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "housing"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 835,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/48/f48da717-30a3-57e8-843b-9a367b3ab290/6afdd73dc2f7d.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/48/f48da717-30a3-57e8-843b-9a367b3ab290/6afdd73dc2f7d.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T17:01:16+00:00"
   }
  ]
 }

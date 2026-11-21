@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T12:04:08+00:00",
+ "generatedAt": "2026-11-21T12:13:19+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -179,13 +179,95 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/df413aa4cd50525f550788a1b149dd46b8453deb/458_0_1811_1450/master/1811.jpg?width=700&quality=85&auto=format&fit=max&s=f4b4aa9c3b791d1b61d71f6f4747cb8f",
-    "w": 700,
+    "credit": "Photograph: Anthony Wallace/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Anthony Wallace/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/df413aa4cd50525f550788a1b149dd46b8453deb/458_0_1811_1450/master/1811.jpg?width=700&quality=85&auto=format&fit=max&s=f4b4aa9c3b791d1b61d71f6f4747cb8f",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T12:04:08+00:00"
+  },
+  {
+   "id": "f608e5002b32c9df",
+   "title": "This is how badly Trump’s Republican endorsements did in the midterms",
+   "summary": "The Guardian analyzed US Senate, House and governors’ races, showing Trump’s dwindling influence over the GOP Donald Trump often boasts about the power of his “Complete and Total Endorsement” of candidates, but in the 2026 midterms , his endorsements carried…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-republican-endorsements-midterms",
+   "date": "2026-11-21T12:00:58+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/dec6d5c9b9485ac88e37877b77d73f827f8d6850/600_0_3006_2404/master/3006.jpg?width=700&quality=85&auto=format&fit=max&s=a60295e62dbdf9c3a5f87f0a9c168d03",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Callaghan O’Hare/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T12:13:19+00:00"
+  },
+  {
+   "id": "d0727a3fe2f2db73",
+   "title": "Race to lead Senate Democrats the latest battlefield in party’s tussle over Israel",
+   "summary": "Chris Van Hollen and Chuck Schumer represent conflicting visions on issue that has become ‘litmus test’ for Democratic voters The race to lead the Democratic Party’s incoming Senate majority has become the latest battlefield between two conflicting visions…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
+   "date": "2026-11-21T12:00:57+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/665c8c7e9d365a64246fa2cc883d42b50534ef84/0_0_1500_1200/master/1500.jpg?width=700&quality=85&auto=format&fit=max&s=771cd26388c804af9178d6f3e791f3ae",
+    "w": 700,
+    "h": 560,
+    "credit": "Composite: Jim Lo Scalzo/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T12:13:19+00:00"
+  },
+  {
+   "id": "2203c8f4b4989895",
+   "title": "Backdated OSAP applications raised red flags, career colleges association's letter says",
+   "summary": "Letter to the minister, obtained by the Star, cites \"unusual spikes\" in applications backdated to before the aid freeze.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/backdated-osap-applications-raised-red-flags-career-colleges-association-s-letter-says/article_21355e67-ee77-4bc3-a52b-2a0ab9fcbf68.html",
+   "date": "2026-11-21T12:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/68/16845ddc-c9d8-569b-aa3a-24f2e93556f8/6af6d2d022d30.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/68/16845ddc-c9d8-569b-aa3a-24f2e93556f8/6af6d2d022d30.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T12:13:19+00:00"
+  },
+  {
+   "id": "4d69f5e04ab5ef40",
+   "title": "Mark Carney keeps an insane pace in his quest for a saner world",
+   "summary": "Rather than wait for Canada-U.S. relations to normalize, the prime minister is racing around the world forging new relationships at a relentless pace, Tonda MacCharles writes.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/mark-carney-keeps-an-insane-pace-in-his-quest-for-a-saner-world/article_03cd7af6-6f0b-499d-a213-04d9e91b02dc.html",
+   "date": "2026-11-21T12:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/af/9af6ef4d-6aa8-56ce-9127-847b7e8fb053/6b00b9fc15c2b.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/af/9af6ef4d-6aa8-56ce-9127-847b7e8fb053/6b00b9fc15c2b.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T12:13:19+00:00"
   },
   {
    "id": "70bec3899003eb07",
@@ -201,10 +283,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795261961.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795261961.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795261961.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795261961.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-21T12:04:08+00:00"
@@ -320,7 +402,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-name-new-leader-after-weeks-of-voting-months-of-campaigning/article_dc8ece66-4041-5f42-84f1-0b9195d92fef.html",
    "date": "2026-11-21T11:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -485,7 +567,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1720,7 +1802,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2822,7 +2904,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3952,7 +4034,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8175,90 +8257,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T16:13:34+00:00"
-  },
-  {
-   "id": "0596e71fec8cfbfe",
-   "title": "Military suspends most cadet activities amid cost cuts; weekly training to continue",
-   "summary": "The Canadian Armed Forces is suspending most cadet activities across the country until next spring as military officials move to curtail spending.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/military-suspends-most-cadet-activities-amid-cost-cuts-weekly-training-to-continue/article_82e149fb-266d-596d-9d2d-a9df39bbe56e.html",
-   "date": "2026-11-18T17:24:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/d6/3d6e466e-6c7d-57cf-b07b-714e81eb0f28/6afde09d4dd50.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/d6/3d6e466e-6c7d-57cf-b07b-714e81eb0f28/6afde09d4dd50.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T17:38:52+00:00"
-  },
-  {
-   "id": "1b87f4bbf19c8b0b",
-   "title": "History shows Canada’s attempts to exploit Arctic oil have failed",
-   "summary": "Liberal members of Parliament in Canada recently agreed to amend the controversial proposed legislation, Bill C-39 , that critics say would undermine environmental protections and Indigenous and labour rights if passed into law.",
-   "source": "The Conversation",
-   "url": "https://theconversation.com/history-shows-canadas-attempts-to-exploit-arctic-oil-have-failed-296584",
-   "date": "2026-11-18T17:15:58+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy",
-    "climate"
-   ],
-   "kind": "analysis",
-   "image": {
-    "h": 600,
-    "small": "https://images.theconversation.com/files/772274/original/file-20261116-64-ljktp4.jpg?ixlib=rb-4.1.1&rect=0%2C380%2C3284%2C1642&q=45&auto=format&h=668&w=640&fit=clip",
-    "url": "https://images.theconversation.com/files/772274/original/file-20261116-64-ljktp4.jpg?ixlib=rb-4.1.1&rect=0%2C380%2C3284%2C1642&q=45&auto=format&h=668&w=1200&fit=clip",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T18:07:03+00:00"
-  },
-  {
-   "id": "36b91c05c1167b56",
-   "title": "Anti-vaccine group once led by RFK Jr back on Facebook and Instagram after being banned",
-   "summary": "Children’s Health Defense was removed from Facebook and Instagram in 2022.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/rfk-jr-childrens-health-defense-meta",
-   "date": "2026-11-18T17:13:23+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: MediaNews Group/The Riverside Press-Enterprise/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/78de2aa0f286beb0008ec97a690186109d5975bc/4_0_3331_2666/master/3331.jpg?width=700&quality=85&auto=format&fit=max&s=ed269939834de7f29c4483fa95b02ea3",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T17:29:38+00:00"
-  },
-  {
-   "id": "15ea4892a6f10289",
-   "title": "Hakeem Jeffries poised to become 1st Black U.S. House Speaker, after internal vote by Democrats",
-   "summary": "Democrats nominated Hakeem Jeffries on Wednesday to be speaker of the U.S. House of Representatives, as he brushed past skeptics and was on track to make history as the country's first Black American with the gavel.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/us-democrats-house-leader-jeffries-9.7426505?cmp=rss",
-   "date": "2026-11-18T17:03:55+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/c534111c-4328-4bc7-937b-9ca76eee3654,1795023050121/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C483%2C6384%2C3591%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T17:10:58+00:00"
   }
  ]
 }

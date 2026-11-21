@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T13:26:44+00:00",
+ "generatedAt": "2026-11-21T13:36:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "Global News",
@@ -165,6 +165,25 @@
   }
  ],
  "items": [
+  {
+   "id": "7bf9e401188cbf65",
+   "title": "Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60",
+   "summary": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164?cmp=rss",
+   "date": "2026-11-21T13:26:36+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/82509e47-551b-4bc0-9ae5-35e727168fc4,1795262576871/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C325%2C6240%2C3510%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T13:36:25+00:00"
+  },
   {
    "id": "ad9ab7d2756a9c36",
    "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
@@ -614,10 +633,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "h": 675,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/18/e18a4e82-4481-5722-ae7d-615c56426165/6b01924f43e6e.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/18/e18a4e82-4481-5722-ae7d-615c56426165/6b01924f43e6e.image.jpg?resize=1200%2C",
-    "w": 1200
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/7b/e7bfbafe-8472-5ef4-abd0-f8494d25959f/6aff114af05f5.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/7b/e7bfbafe-8472-5ef4-abd0-f8494d25959f/6aff114af05f5.image.jpg?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-21T10:04:53+00:00"
@@ -680,9 +699,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/e4983937-3ebf-487c-be17-b1f14899341c,1795198589269/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C964%2C542%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/e4983937-3ebf-487c-be17-b1f14899341c,1795198589269/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C964%2C542%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-21T09:09:39+00:00"
@@ -699,9 +718,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.6779579,1678895638000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C6016%2C3384%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.6779579,1678895638000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C6016%2C3384%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-21T09:09:39+00:00"
@@ -8224,26 +8243,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:26:14+00:00"
-  },
-  {
-   "id": "e54ccd81a1434eb7",
-   "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-   "summary": "This blog is now closed, you can read more on this story here Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "date": "2026-11-18T17:48:24+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Iori Sagisawa/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=700&quality=85&auto=format&fit=max&s=d74abb549650ed5e6a20be943c82f15f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T04:07:36+00:00"
   }
  ]
 }

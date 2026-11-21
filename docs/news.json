@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T12:49:59+00:00",
+ "generatedAt": "2026-11-21T12:59:15+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "Global News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "1c20aabfa0ef2b66",
+   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T12:52:00+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T12:22:32+00:00"
+  },
+  {
+   "id": "80154fe65d348e4e",
+   "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+   "summary": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+   "date": "2026-11-21T12:49:05+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Emil Nicolai Helms/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7a1c4d4674629a24286f9343122e2c3d6d8fc9cb/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2d02476e3e1ade53050aa95edab929f9",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-20T18:37:01+00:00"
+  },
+  {
    "id": "ad9ab7d2756a9c36",
    "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
    "summary": "Though the climate talks officially finished on Friday, no final deal was agreed.",
@@ -248,26 +288,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/5bbda4f2586156f3b160d70e965e0e2422a855c8/49_0_1180_944/master/1180.jpg?width=700&quality=85&auto=format&fit=max&s=a8408388159ff5a732bc68e0cab31072",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T12:22:32+00:00"
-  },
-  {
-   "id": "1c20aabfa0ef2b66",
-   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T12:20:55+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f21c/live/2c923cc0-e5a2-11f1-b7d5-65d6a750eced.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f21c/live/2c923cc0-e5a2-11f1-b7d5-65d6a750eced.jpg",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-21T12:22:32+00:00"
@@ -489,7 +509,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-name-new-leader-after-weeks-of-voting-months-of-campaigning/article_dc8ece66-4041-5f42-84f1-0b9195d92fef.html",
    "date": "2026-11-21T11:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -574,10 +594,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/18/e18a4e82-4481-5722-ae7d-615c56426165/6b01924f43e6e.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 675,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/18/e18a4e82-4481-5722-ae7d-615c56426165/6b01924f43e6e.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/18/e18a4e82-4481-5722-ae7d-615c56426165/6b01924f43e6e.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/18/e18a4e82-4481-5722-ae7d-615c56426165/6b01924f43e6e.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-21T10:04:53+00:00"
@@ -654,7 +674,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1889,7 +1909,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1901,26 +1921,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T18:27:56+00:00"
-  },
-  {
-   "id": "80154fe65d348e4e",
-   "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
-   "summary": "Russian intelligence thought to be behind plan to kill US-Ukrainian musician Kyivstoner before concert in Denmark Denmark’s foreign minister has said Russia’s defence attache in Copenhagen would be expelled after Moscow was suspected of being behind an…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-   "date": "2026-11-20T18:16:12+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Emil Nicolai Helms/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7a1c4d4674629a24286f9343122e2c3d6d8fc9cb/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2d02476e3e1ade53050aa95edab929f9",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T18:37:01+00:00"
   },
   {
    "id": "c28dd5fd6341bbf3",
@@ -2991,7 +2991,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4121,7 +4121,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

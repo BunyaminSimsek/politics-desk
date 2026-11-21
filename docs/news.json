@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T08:51:24+00:00",
+ "generatedAt": "2026-11-21T09:00:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b01488a4ebf-1795246218.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b01488a4ebf-1795246218.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b01488a4ebf-1795246218.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b01488a4ebf-1795246218.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-21T08:51:24+00:00"
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795250294.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795250294.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795250294.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795250294.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-21T08:51:24+00:00"
@@ -266,6 +266,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T05:21:38+00:00"
+  },
+  {
+   "id": "5a8d64ef0622348f",
+   "title": "Trafalgar Square Christmas tree felled in Norway",
+   "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T08:10:03+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6390/live/3985e760-e52a-11f1-964d-a1d5fe40573e.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6390/live/3985e760-e52a-11f1-964d-a1d5fe40573e.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T09:00:29+00:00"
   },
   {
    "id": "c8f733b5e17d1f3e",
@@ -2198,10 +2218,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/4a587781117ac3e5eb250fd3995c2d9a5ad2cc47/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=2a2bb0a673fc73292ffa05c0082d4bd0",
-    "w": 700,
+    "credit": "Photograph: Sarah Wilson/AAP",
     "h": 560,
-    "credit": "Photograph: Sarah Wilson/AAP"
+    "url": "https://i.guim.co.uk/img/media/4a587781117ac3e5eb250fd3995c2d9a5ad2cc47/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=2a2bb0a673fc73292ffa05c0082d4bd0",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T08:51:24+00:00"
@@ -8240,26 +8260,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T10:46:35+00:00"
-  },
-  {
-   "id": "584d6f8fa91f982a",
-   "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
-   "summary": "Carney accuses Putin of ‘lying’ after the Russian leader dismissed Western sanctions as a ‘thing of the past’.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
-   "date": "2026-11-18T16:16:48+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/thunmb-1795018934.png?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/thunmb-1795018934.png?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T16:32:12+00:00"
   }
  ]
 }

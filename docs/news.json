@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T17:55:16+00:00",
+ "generatedAt": "2026-11-21T18:04:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "Global News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 20
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "506d22f83e7b8912",
+   "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+   "summary": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+   "date": "2026-11-21T17:57:27+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795283760.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795283760.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T18:04:26+00:00"
+  },
   {
    "id": "ad9ab7d2756a9c36",
    "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
@@ -8226,26 +8246,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T12:47:21+00:00"
-  },
-  {
-   "id": "b988ec5f43274486",
-   "title": "Mullin defends taking government plane to college football game amid nationwide grounding – video",
-   "summary": "The homeland security secretary, Markwayne Mullin, defended his decision to take a government plane to attend a football game between Louisiana State University and the University of Texas on Saturday, while thousands of flights had been canceled and airspace…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/video/2026/nov/18/markwayne-mullin-defends-taking-government-plane-to-college-football-game-amid-nationwide-grounding-video",
-   "date": "2026-11-18T19:29:03+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/39f8dbc40fe25567b55c35eb91b485e50e9c716b/1135_0_5692_4554/master/5692.jpg?width=700&quality=85&auto=format&fit=max&s=89dbc56ad9f60f94c24d3bcfed2654b4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T19:40:49+00:00"
   }
  ]
 }

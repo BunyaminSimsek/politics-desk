@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T19:27:06+00:00",
+ "generatedAt": "2026-11-21T19:36:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -332,16 +332,14 @@
   },
   {
    "id": "ba154ba503f95303",
-   "title": "Ontario Liberal leadership race live: Candidates arrive to Toronto convention centre as votes tallied",
+   "title": "Ontario Liberal leadership race live: Convention begins as party faithful give interim leader ovation",
    "summary": "Four candidates are vying to be the politician that finally returns the party to power.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberal-leadership-live/article_1f6f280d-80d7-4d59-92d0-2087a8a883e7.html",
    "date": "2026-11-21T18:00:00+00:00",
    "topic": "ontario",
    "region": "local",
-   "tags": [
-    "elections"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
     "h": 800,
@@ -459,7 +457,7 @@
   },
   {
    "id": "373a4109d1e8395c",
-   "title": "McGuinty not aware U.S. has changed military co-operation policy with Canada",
+   "title": "U.S. senator says Hegseth memo does not change military co-operation with Canada",
    "summary": "Canada's defence minister said he has met with several different U.S. defence officials in the last week and has not been advised of a change.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/mcguinty-not-aware-u-s-has-changed-military-co-operation-policy-with-canada/article_ecf03de5-a7c9-5dcd-82ae-0d889ddf7f83.html",
@@ -606,7 +604,7 @@
    "source": "Global News",
    "url": "https://globalnews.ca/news/12160805/ontario-liberals-new-leader/",
    "date": "2026-11-21T15:13:02+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1189,7 +1187,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2424,7 +2422,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3506,7 +3504,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

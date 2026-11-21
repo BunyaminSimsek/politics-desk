@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T12:13:19+00:00",
+ "generatedAt": "2026-11-21T12:22:32+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "1c20aabfa0ef2b66",
+   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T12:20:55+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f21c/live/2c923cc0-e5a2-11f1-b7d5-65d6a750eced.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f21c/live/2c923cc0-e5a2-11f1-b7d5-65d6a750eced.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T12:22:32+00:00"
+  },
+  {
+   "id": "ad9ab7d2756a9c36",
+   "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
+   "summary": "Though the climate talks officially finished on Friday, no final deal was agreed.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+   "date": "2026-11-21T12:16:16+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Yasin Akgül/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/0d800100748e68cb865e3bb780a2031c2515a016/756_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=b8cd1831d609c0b3d41fe353ab30439e",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T07:01:59+00:00"
+  },
+  {
    "id": "62126f15378bd553",
    "title": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
    "summary": "Canadians have put a lot of trust in their prime minister but some question if it can last if the trade wars were to end In the hours after polls in the US midterm elections closed and it became clear that Donald Trump had been rebuked in historic fashion…",
@@ -201,10 +241,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/dec6d5c9b9485ac88e37877b77d73f827f8d6850/600_0_3006_2404/master/3006.jpg?width=700&quality=85&auto=format&fit=max&s=a60295e62dbdf9c3a5f87f0a9c168d03",
-    "w": 700,
+    "credit": "Photograph: Callaghan O’Hare/Reuters",
     "h": 560,
-    "credit": "Photograph: Callaghan O’Hare/Reuters"
+    "url": "https://i.guim.co.uk/img/media/dec6d5c9b9485ac88e37877b77d73f827f8d6850/600_0_3006_2404/master/3006.jpg?width=700&quality=85&auto=format&fit=max&s=a60295e62dbdf9c3a5f87f0a9c168d03",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T12:13:19+00:00"
@@ -221,10 +261,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/665c8c7e9d365a64246fa2cc883d42b50534ef84/0_0_1500_1200/master/1500.jpg?width=700&quality=85&auto=format&fit=max&s=771cd26388c804af9178d6f3e791f3ae",
-    "w": 700,
+    "credit": "Composite: Jim Lo Scalzo/EPA",
     "h": 560,
-    "credit": "Composite: Jim Lo Scalzo/EPA"
+    "url": "https://i.guim.co.uk/img/media/665c8c7e9d365a64246fa2cc883d42b50534ef84/0_0_1500_1200/master/1500.jpg?width=700&quality=85&auto=format&fit=max&s=771cd26388c804af9178d6f3e791f3ae",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T12:13:19+00:00"
@@ -241,10 +281,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/68/16845ddc-c9d8-569b-aa3a-24f2e93556f8/6af6d2d022d30.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/68/16845ddc-c9d8-569b-aa3a-24f2e93556f8/6af6d2d022d30.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/68/16845ddc-c9d8-569b-aa3a-24f2e93556f8/6af6d2d022d30.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/68/16845ddc-c9d8-569b-aa3a-24f2e93556f8/6af6d2d022d30.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-21T12:13:19+00:00"
@@ -261,10 +301,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/af/9af6ef4d-6aa8-56ce-9127-847b7e8fb053/6b00b9fc15c2b.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/af/9af6ef4d-6aa8-56ce-9127-847b7e8fb053/6b00b9fc15c2b.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/af/9af6ef4d-6aa8-56ce-9127-847b7e8fb053/6b00b9fc15c2b.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/af/9af6ef4d-6aa8-56ce-9127-847b7e8fb053/6b00b9fc15c2b.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-21T12:13:19+00:00"
@@ -292,26 +332,6 @@
    "addedAt": "2026-11-21T12:04:08+00:00"
   },
   {
-   "id": "ad9ab7d2756a9c36",
-   "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
-   "summary": "Though the climate talks officially finished on Friday, no final deal was agreed.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T11:47:45+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yasin Akgül/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0d800100748e68cb865e3bb780a2031c2515a016/756_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=b8cd1831d609c0b3d41fe353ab30439e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T07:01:59+00:00"
-  },
-  {
    "id": "d0d19939b320e45a",
    "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
    "summary": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’ The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has said.",
@@ -330,6 +350,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T10:04:53+00:00"
+  },
+  {
+   "id": "b28eefa3bc614ca7",
+   "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
+   "summary": "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into support Voters go to the polls in the village of Castle Bromwich this Thursday in a little-noticed election that is the latest test for Reform at a time…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
+   "date": "2026-11-21T11:08:14+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/5bbda4f2586156f3b160d70e965e0e2422a855c8/49_0_1180_944/master/1180.jpg?width=700&quality=85&auto=format&fit=max&s=a8408388159ff5a732bc68e0cab31072",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Maja Smiejkowska/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T12:22:32+00:00"
   },
   {
    "id": "b537fedc25b3af7f",
@@ -478,7 +520,7 @@
   {
    "id": "597036cf755c676d",
    "title": "New chapter for Ontario's struggling Liberal party begins this weekend",
-   "summary": "The party is making its third attempt since 2020 to pick a leader with staying power as Premier Doug Ford's Progressive Conservatives have cruised to three straight majorities.",
+   "summary": "The party is making its third attempt since 2020 to pick a leader with staying power.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/new-chapter-for-ontario-s-struggling-liberal-party-begins-this-weekend/article_d9bd3ab3-0240-4b20-b3b3-12e18145db2b.html",
    "date": "2026-11-21T10:00:00+00:00",
@@ -8217,46 +8259,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:07:03+00:00"
-  },
-  {
-   "id": "f21f255fd91ab703",
-   "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
-   "summary": "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
-   "date": "2026-11-18T17:25:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Nathan Howard/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=700&quality=85&auto=format&fit=max&s=6d8bca1fa4fb3b7e62baf0ff0784dbfc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T16:03:57+00:00"
-  },
-  {
-   "id": "9df76955d6a92ede",
-   "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
-   "summary": "Jeffries is set to become one of Trump’s most prominent opponents for final two years of his presidency US politics live – latest updates Democrats on Wednesday resoundingly nominated Hakeem Jeffries to serve as speaker of the House when the new Congress is…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
-   "date": "2026-11-18T17:24:01+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: J Scott Applewhite/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/54ad357a2367f88feb3f8eba408df14fe343a97e/442_0_4415_3533/master/4415.jpg?width=700&quality=85&auto=format&fit=max&s=2037104de333b4ccbc3e6160883c35ad",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T16:13:34+00:00"
   }
  ]
 }

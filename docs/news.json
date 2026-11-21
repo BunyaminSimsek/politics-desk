@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T13:17:35+00:00",
+ "generatedAt": "2026-11-21T13:26:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -171,7 +171,7 @@
    "summary": "Though the climate talks officially finished on Friday, no final deal was agreed.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T13:13:47+00:00",
+   "date": "2026-11-21T13:19:13+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [],
@@ -186,32 +186,12 @@
    "addedAt": "2026-11-21T07:01:59+00:00"
   },
   {
-   "id": "ee9aa2dd2ab75d74",
-   "title": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
-   "summary": "Iran war stretching fleet’s capacity, navy chief admits, as CBO finds estimated cost of new ships ‘unrealistically low’ The US navy’s commitment to the new Trump-class battleships has blown out the cost of its new fleet by billions of dollars, a report to the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
-   "date": "2026-11-21T13:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=700&quality=85&auto=format&fit=max&s=b1d807f54f6575437d70fc65b354368f",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Víctor R Caivano/AP"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T13:17:35+00:00"
-  },
-  {
    "id": "1c20aabfa0ef2b66",
    "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
    "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T12:52:00+00:00",
+   "date": "2026-11-21T13:17:38+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [],
@@ -224,6 +204,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T12:22:32+00:00"
+  },
+  {
+   "id": "ee9aa2dd2ab75d74",
+   "title": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
+   "summary": "Iran war stretching fleet’s capacity, navy chief admits, as CBO finds estimated cost of new ships ‘unrealistically low’ The US navy’s commitment to the new Trump-class battleships has blown out the cost of its new fleet by billions of dollars, a report to the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
+   "date": "2026-11-21T13:00:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Víctor R Caivano/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=700&quality=85&auto=format&fit=max&s=b1d807f54f6575437d70fc65b354368f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T13:17:35+00:00"
   },
   {
    "id": "80154fe65d348e4e",
@@ -529,7 +529,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-name-new-leader-after-weeks-of-voting-months-of-campaigning/article_dc8ece66-4041-5f42-84f1-0b9195d92fef.html",
    "date": "2026-11-21T11:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -680,9 +680,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/e4983937-3ebf-487c-be17-b1f14899341c,1795198589269/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C964%2C542%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/e4983937-3ebf-487c-be17-b1f14899341c,1795198589269/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C964%2C542%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-21T09:09:39+00:00"
@@ -694,14 +694,14 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.6779579,1678895638000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C6016%2C3384%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.6779579,1678895638000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C6016%2C3384%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-21T09:09:39+00:00"
@@ -1929,7 +1929,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3011,7 +3011,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4141,7 +4141,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

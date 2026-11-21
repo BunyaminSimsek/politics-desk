@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T11:55:05+00:00",
+ "generatedAt": "2026-11-21T12:04:08+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -143,7 +143,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/americas/rss",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,50 @@
   }
  ],
  "items": [
+  {
+   "id": "62126f15378bd553",
+   "title": "Mark Carney is so popular he can get away with a lot. Will it last if the Trump spell breaks?",
+   "summary": "Canadians have put a lot of trust in their prime minister but some question if it can last if the trade wars were to end In the hours after polls in the US midterm elections closed and it became clear that Donald Trump had been rebuked in historic fashion…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada",
+   "date": "2026-11-21T12:00:58+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/df413aa4cd50525f550788a1b149dd46b8453deb/458_0_1811_1450/master/1811.jpg?width=700&quality=85&auto=format&fit=max&s=f4b4aa9c3b791d1b61d71f6f4747cb8f",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Anthony Wallace/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T12:04:08+00:00"
+  },
+  {
+   "id": "70bec3899003eb07",
+   "title": "Mexico captures FBI-wanted cartel boss in military raid",
+   "summary": "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+   "date": "2026-11-21T11:53:56+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795261961.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795261961.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T12:04:08+00:00"
+  },
   {
    "id": "ad9ab7d2756a9c36",
    "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
@@ -8212,48 +8256,6 @@
     "caption": "",
     "credit": "",
     "url": "https://i.cbc.ca/ais/c534111c-4328-4bc7-937b-9ca76eee3654,1795023050121/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C483%2C6384%2C3591%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T17:10:58+00:00"
-  },
-  {
-   "id": "29362b5d065b0e65",
-   "title": "California Republicans won only four of state’s 52 US House seats in midterms",
-   "summary": "California Democrats flipped five seats and will send 48 representatives to DC after successful redistricting effort California Republicans have taken an extraordinary hit in the midterm elections, with only four of the state’s 52 congressional seats going to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/california-republicans-us-house",
-   "date": "2026-11-18T17:03:46+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: J Scott Applewhite/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/22ba734646cc10409c899b424f330a69d214a858/259_0_4165_3333/master/4165.jpg?width=700&quality=85&auto=format&fit=max&s=89f5a1009604263cd7bff0b8997c928b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T17:10:58+00:00"
-  },
-  {
-   "id": "b64571709d6758a7",
-   "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-   "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T17:00:40+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/16fe/live/c4ae1b30-e405-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/16fe/live/c4ae1b30-e405-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-18T17:10:58+00:00"

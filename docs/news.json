@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T15:17:59+00:00",
+ "generatedAt": "2026-11-21T15:27:11+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -125,7 +125,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "BBC News",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "946bce7c6f5acdc5",
-   "title": "Ontario Liberals to name new leader after weeks of voting",
-   "summary": "The favourites are said to be caucus member and former hospital president Lee Fairclough, and former Liberal cabinet minister and Rogers Communications executive Navdeep Bains.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12160805/ontario-liberals-new-leader/",
-   "date": "2026-11-21T15:13:02+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Liberals-e1795273956888.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Liberals-e1795273956888.jpg?w=640&h=427&crop=1&quality=70&strip=all"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T15:17:59+00:00"
-  },
-  {
    "id": "ad9ab7d2756a9c36",
    "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
    "summary": "EU thought to have backing of 130 countries in last-ditch push to get fossil fuels mentioned in outcome of UN climate summit. Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T15:10:02+00:00",
+   "date": "2026-11-21T15:26:57+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [],
@@ -204,6 +184,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T07:01:59+00:00"
+  },
+  {
+   "id": "946bce7c6f5acdc5",
+   "title": "Ontario Liberals to name new leader after weeks of voting",
+   "summary": "The favourites are said to be caucus member and former hospital president Lee Fairclough, and former Liberal cabinet minister and Rogers Communications executive Navdeep Bains.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12160805/ontario-liberals-new-leader/",
+   "date": "2026-11-21T15:13:02+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Liberals-e1795273956888.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Liberals-e1795273956888.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T15:17:59+00:00"
   },
   {
    "id": "5f7e494dc48ee2bc",
@@ -1783,7 +1783,7 @@
   {
    "id": "ef2dbe066d50357d",
    "title": "Stellantis would owe feds $831M if sale of Brampton, Ont., plant proceeds: source",
-   "summary": "The projected amount of money Stellantis would owe Ottawa should the sale of its Brampton, Ont., auto plant proceeds is $831 million, a senior federal source tells CBC News.",
+   "summary": "The projected amount of money Stellantis would owe Ottawa should the sale of its Brampton, Ont., auto plant proceed is $831 million, a senior federal source tells CBC News.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/joly-ford-stellantis-brampton-unifor-meeting-9.7430142?cmp=rss",
    "date": "2026-11-20T19:09:55+00:00",

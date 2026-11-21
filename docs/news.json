@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T16:22:12+00:00",
+ "generatedAt": "2026-11-21T16:31:28+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "10ffcdceeddf6de3",
-   "title": "Wes Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
-   "summary": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T16:16:29+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d960/live/d9b714f0-e5bd-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200,
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d960/live/d9b714f0-e5bd-11f1-a094-5fdc692f3e33.jpg"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T16:22:12+00:00"
-  },
-  {
    "id": "ad9ab7d2756a9c36",
    "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
    "summary": "EU thought to have backing of 130 countries in last-ditch push to get fossil fuels mentioned in outcome of UN climate summit. Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T16:10:04+00:00",
+   "date": "2026-11-21T16:29:40+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [],
@@ -204,6 +184,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T07:01:59+00:00"
+  },
+  {
+   "id": "10ffcdceeddf6de3",
+   "title": "Wes Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+   "summary": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T16:16:29+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d960/live/d9b714f0-e5bd-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d960/live/d9b714f0-e5bd-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T16:22:12+00:00"
   },
   {
    "id": "3b48cc532e5f5f5a",

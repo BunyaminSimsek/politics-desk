@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T13:08:28+00:00",
+ "generatedAt": "2026-11-21T13:17:35+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "ad9ab7d2756a9c36",
+   "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
+   "summary": "Though the climate talks officially finished on Friday, no final deal was agreed.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+   "date": "2026-11-21T13:13:47+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Yasin Akgül/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/0d800100748e68cb865e3bb780a2031c2515a016/756_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=b8cd1831d609c0b3d41fe353ab30439e",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T07:01:59+00:00"
+  },
+  {
+   "id": "ee9aa2dd2ab75d74",
+   "title": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
+   "summary": "Iran war stretching fleet’s capacity, navy chief admits, as CBO finds estimated cost of new ships ‘unrealistically low’ The US navy’s commitment to the new Trump-class battleships has blown out the cost of its new fleet by billions of dollars, a report to the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
+   "date": "2026-11-21T13:00:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=700&quality=85&auto=format&fit=max&s=b1d807f54f6575437d70fc65b354368f",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Víctor R Caivano/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T13:17:35+00:00"
+  },
+  {
    "id": "1c20aabfa0ef2b66",
    "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
    "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
@@ -204,26 +244,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T18:37:01+00:00"
-  },
-  {
-   "id": "ad9ab7d2756a9c36",
-   "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
-   "summary": "Though the climate talks officially finished on Friday, no final deal was agreed.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T12:46:23+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yasin Akgül/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0d800100748e68cb865e3bb780a2031c2515a016/756_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=b8cd1831d609c0b3d41fe353ab30439e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T07:01:59+00:00"
   },
   {
    "id": "e49313fb751c4887",
@@ -509,7 +529,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-name-new-leader-after-weeks-of-voting-months-of-campaigning/article_dc8ece66-4041-5f42-84f1-0b9195d92fef.html",
    "date": "2026-11-21T11:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -674,7 +694,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1909,7 +1929,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2991,7 +3011,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4121,7 +4141,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8224,26 +8244,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T04:07:36+00:00"
-  },
-  {
-   "id": "421fe2bd9b346442",
-   "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
-   "summary": "Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts Jim O’Neill will not undergo a confirmation hearing on Wednesday to head he National Science Foundation (NSF) because he “did not do…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
-   "date": "2026-11-18T17:46:34+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Stefani Reynolds/Bloomberg via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5d438907b5a800f954658ec6bbd4a935fef933b8/333_0_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=2d3ac2ec259de127f9caa3bdcfeb3f63",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T18:07:03+00:00"
   }
  ]
 }

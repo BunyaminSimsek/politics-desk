@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T11:09:04+00:00",
+ "generatedAt": "2026-11-21T11:18:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -119,7 +119,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
    "ok": true,
-   "kept": 0
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -199,13 +199,75 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/50cadcfc3b9aea76e63e685b18e73e9625ebe68b/479_0_4942_3957/master/4942.jpg?width=700&quality=85&auto=format&fit=max&s=b65c1967f140e753a6b2bca6122cec9a",
-    "w": 700,
+    "credit": "Photograph: Fildor Pq Egeder/Reuters",
     "h": 560,
-    "credit": "Photograph: Fildor Pq Egeder/Reuters"
+    "url": "https://i.guim.co.uk/img/media/50cadcfc3b9aea76e63e685b18e73e9625ebe68b/479_0_4942_3957/master/4942.jpg?width=700&quality=85&auto=format&fit=max&s=b65c1967f140e753a6b2bca6122cec9a",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T11:09:04+00:00"
+  },
+  {
+   "id": "f5022eb10131b352",
+   "title": "Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
+   "summary": "From Elon Musk to Palantir’s Alex Karp, CEOs are softening hardline stances in expectation of an influx of Democrats A short two years ago, Elon Musk stood before an audience of tens of thousands of people in New York City and proudly told them: “I’m not just…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
+   "date": "2026-11-21T11:00:56+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/5f6eeefbb8b785df9624aa30929b8131436bb7a8/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=b5e9b08db507f40d3e6ae74793728477",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jim Watson/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T11:18:14+00:00"
+  },
+  {
+   "id": "3ee9e565daea4788",
+   "title": "Did Democrats fail Florida? Angie Nixon on ‘missed opportunity’ in midterms",
+   "summary": "The party invested in key battlegrounds, netting stunning wins at the expense of candidates in Florida and Louisiana To call it a blue wave, said the Florida governor, Ron DeSantis , would be an epic understatement.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/democrats-florida-midterm-election-loss",
+   "date": "2026-11-21T11:00:55+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/2a8b141d0ac692a3128edbd0b58410a43425def6/1193_620_4227_3380/master/4227.jpg?width=700&quality=85&auto=format&fit=max&s=62f290fb31e7137f64418aad4eb97d8d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Joe Raedle/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T11:18:14+00:00"
+  },
+  {
+   "id": "22eb4b1169de4af9",
+   "title": "Ontario Liberals to name new leader after weeks of voting, months of campaigning",
+   "summary": "TORONTO - Ontario Liberals are getting ready to name their new party leader, with results from members' ranked ballots set to be revealed later today.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-name-new-leader-after-weeks-of-voting-months-of-campaigning/article_dc8ece66-4041-5f42-84f1-0b9195d92fef.html",
+   "date": "2026-11-21T11:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 674,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T11:18:14+00:00"
   },
   {
    "id": "17074b3810332c6e",
@@ -365,9 +427,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/e4983937-3ebf-487c-be17-b1f14899341c,1795198589269/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C964%2C542%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/e4983937-3ebf-487c-be17-b1f14899341c,1795198589269/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C964%2C542%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-21T09:09:39+00:00"
@@ -379,14 +441,14 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.6779579,1678895638000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C6016%2C3384%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.6779579,1678895638000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C315%2C6016%2C3384%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-21T09:09:39+00:00"
@@ -1614,7 +1676,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2716,7 +2778,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3846,7 +3908,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8192,68 +8254,6 @@
     "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/16fe/live/c4ae1b30-e405-11f1-a094-5fdc692f3e33.jpg",
     "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/16fe/live/c4ae1b30-e405-11f1-a094-5fdc692f3e33.jpg",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T17:10:58+00:00"
-  },
-  {
-   "id": "86b25768645308c4",
-   "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-   "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T17:00:04+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T17:10:58+00:00"
-  },
-  {
-   "id": "4054a219c6193a40",
-   "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
-   "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog says The environment secretary, Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the “deeply…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
-   "date": "2026-11-18T16:56:18+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Nick Upton/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ec8ab6692ef60ad08b4c21283c2bd1f5159aa301/878_0_2879_2303/master/2879.jpg?width=700&quality=85&auto=format&fit=max&s=d182fb91a7923b085fc2c2fcff2ad5c3",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T14:20:04+00:00"
-  },
-  {
-   "id": "0d2f6ca4dec29f8c",
-   "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family’s business",
-   "summary": "Democratic lawmakers ask if commerce secretary favored Nvidia to enrich his adult children and Cantor Fitzgerald The US commerce secretary, Howard Lutnick, faces mounting questions over his handling of the Nvidia affair as Democratic lawmakers demand answers…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
-   "date": "2026-11-18T16:48:29+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kylie Cooper/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/dc2504fd284ddacfaad901364262921f0cf11e1a/202_0_2028_1622/master/2028.jpg?width=700&quality=85&auto=format&fit=max&s=3d7b98e863b4e7adefdd7f469209df9d",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-18T17:10:58+00:00"

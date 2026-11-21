@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T15:08:51+00:00",
+ "generatedAt": "2026-11-21T15:17:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "CTV News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 20
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,32 @@
  ],
  "items": [
   {
+   "id": "946bce7c6f5acdc5",
+   "title": "Ontario Liberals to name new leader after weeks of voting",
+   "summary": "The favourites are said to be caucus member and former hospital president Lee Fairclough, and former Liberal cabinet minister and Rogers Communications executive Navdeep Bains.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12160805/ontario-liberals-new-leader/",
+   "date": "2026-11-21T15:13:02+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Liberals-e1795273956888.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Liberals-e1795273956888.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T15:17:59+00:00"
+  },
+  {
    "id": "ad9ab7d2756a9c36",
    "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
    "summary": "EU thought to have backing of 130 countries in last-ditch push to get fossil fuels mentioned in outcome of UN climate summit. Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T15:00:37+00:00",
+   "date": "2026-11-21T15:10:02+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [],
@@ -199,10 +219,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/b7cd93f6008b4c4b5a411a1c48698ec3368fecbe/119_0_2077_1662/master/2077.jpg?width=700&quality=85&auto=format&fit=max&s=adff644fff899a9d8517bb21e5483e08",
-    "w": 700,
+    "credit": "Photograph: New York City Police Department/AP",
     "h": 560,
-    "credit": "Photograph: New York City Police Department/AP"
+    "url": "https://i.guim.co.uk/img/media/b7cd93f6008b4c4b5a411a1c48698ec3368fecbe/119_0_2077_1662/master/2077.jpg?width=700&quality=85&auto=format&fit=max&s=adff644fff899a9d8517bb21e5483e08",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T15:08:51+00:00"
@@ -610,7 +630,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-name-new-leader-after-weeks-of-voting-months-of-campaigning/article_dc8ece66-4041-5f42-84f1-0b9195d92fef.html",
    "date": "2026-11-21T11:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -775,7 +795,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2010,7 +2030,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3092,7 +3112,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4222,7 +4242,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8221,26 +8241,6 @@
     "h": 800,
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795025520.jpg?quality=80&resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795025520.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T18:35:37+00:00"
-  },
-  {
-   "id": "f41d7fd30b3fc4ae",
-   "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
-   "summary": "Trump told Philippine President Marcos he knew his parents 'very well'.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
-   "date": "2026-11-18T18:09:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250517__473B2TK__v1__HighRes__PhilippinesVote-1795017928.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250517__473B2TK__v1__HighRes__PhilippinesVote-1795017928.jpg?resize=1200%2C800",
     "w": 1200
    },
    "breaking": false,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T00:24:43+00:00",
+ "generatedAt": "2026-11-21T00:34:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,47 @@
  ],
  "items": [
   {
+   "id": "3ab02423d029a3f7",
+   "title": "U.S. senator says Canada should make interim tariff agreement, let Congress 'legislate' long-term deal",
+   "summary": "A senior Democrat in the U.S. Senate says he thinks Canada should seek an interim trade deal with the Trump administration — and the incoming U.S. Congress will figure out something better for the long term.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/us-canada-interim-deal-tariffs-senator-long-term-9.7430913?cmp=rss",
+   "date": "2026-11-21T00:25:49+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/5f30a2a2-faf5-484e-a30f-1cf3ef0161c6,1795220525819/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C163%2C4649%2C2615%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T00:34:01+00:00"
+  },
+  {
+   "id": "d9d55b2a7cb96960",
+   "title": "Trump turns White House press conference into a 2028 succession audition",
+   "summary": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight “Which of you shall we say doth love us most?”",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
+   "date": "2026-11-21T00:16:26+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/13a779743e2a0f56e66622d1d81ea56493964bed/454_0_4537_3631/master/4537.jpg?width=700&quality=85&auto=format&fit=max&s=7e3ba93507fee6b375f66a2e89ce762a",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Evelyn Hockstein/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T00:34:01+00:00"
+  },
+  {
    "id": "27173930602c0888",
    "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – as it happened",
    "summary": "This live blog is now closed. Republican senator blocks Trump cyber nominee over January 6 denial",
@@ -221,10 +262,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00dbc90b00-1795218377.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00dbc90b00-1795218377.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00dbc90b00-1795218377.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00dbc90b00-1795218377.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-21T00:24:43+00:00"
@@ -8218,46 +8259,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:07:03+00:00"
-  },
-  {
-   "id": "83bbd0409df60085",
-   "title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
-   "summary": "Iran and the US have continued to exchange strikes in recent days, but all-out war has so far been avoided.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
-   "date": "2026-11-18T14:36:20+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afda004-1795006468.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afda004-1795006468.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T14:58:13+00:00"
-  },
-  {
-   "id": "ff5046da676c68b8",
-   "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
-   "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T14:30:33+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T15:07:29+00:00"
   }
  ]
 }

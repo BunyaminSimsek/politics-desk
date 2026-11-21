@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T01:57:50+00:00",
+ "generatedAt": "2026-11-21T02:07:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "1168a6bfee28c245",
+   "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
+   "summary": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
+   "date": "2026-11-21T01:49:07+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00e93a45-1795221818.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00e93a45-1795221818.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T02:07:29+00:00"
+  },
   {
    "id": "2948ac41c91364a2",
    "title": "Calgary man pleads guilty to threatening to kill Prime Minister Mark Carney and family",
@@ -386,9 +406,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/e7be82db-c6a4-47b0-b535-48f6d02d5488,1795213793884/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C435%2C8356%2C4700%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/e7be82db-c6a4-47b0-b535-48f6d02d5488,1795213793884/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C435%2C8356%2C4700%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-21T00:05:50+00:00"
@@ -569,9 +589,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.7457471,1795218323533/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C8002%2C4501%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.7457471,1795218323533/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C155%2C8002%2C4501%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-20T22:22:09+00:00"
@@ -1164,7 +1184,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2268,7 +2288,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3398,7 +3418,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8241,26 +8261,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T08:55:19+00:00"
-  },
-  {
-   "id": "7f29c74d2464ac63",
-   "title": "Alaska Democrat Mary Peltola wins U.S Senate race, defeating Dan Sullivan",
-   "summary": "The Alaska race was the last U.S. Senate contest to be resolved in this year’s midterm elections and gave Democrats a 56-44 majority after they flipped nine GOP-held seats.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12156025/mary-peltola-alaska-senate-us-midterm-elections/",
-   "date": "2026-11-18T15:03:53+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 620,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/mary-peltola-wins-alaska-senate-race.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/mary-peltola-wins-alaska-senate-race.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T15:07:29+00:00"
   }
  ]
 }

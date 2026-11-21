@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T00:05:50+00:00",
+ "generatedAt": "2026-11-21T00:15:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "89fcbe70d366afaa",
+   "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+   "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-21T00:01:39+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T00:15:29+00:00"
+  },
+  {
    "id": "4a3735ba7d212712",
    "title": "NDP makes plea for stronger Indigenous rights protections in major projects bill",
    "summary": "New Democrats are accusing the Liberals of taking a colonial approach to their major projects legislation.",
@@ -177,9 +197,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/e7be82db-c6a4-47b0-b535-48f6d02d5488,1795213793884/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C435%2C8356%2C4700%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/e7be82db-c6a4-47b0-b535-48f6d02d5488,1795213793884/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C435%2C8356%2C4700%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-21T00:05:50+00:00"
@@ -218,10 +238,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/cac7b215020ab17f2e1926d910d082e9f9ca8ad3/444_0_4416_3535/master/4416.jpg?width=700&quality=85&auto=format&fit=max&s=4a04958e10540d591086e2d7824c311d",
-    "w": 700,
+    "credit": "Photograph: Heather Diehl/Getty Images",
     "h": 560,
-    "credit": "Photograph: Heather Diehl/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/cac7b215020ab17f2e1926d910d082e9f9ca8ad3/444_0_4416_3535/master/4416.jpg?width=700&quality=85&auto=format&fit=max&s=4a04958e10540d591086e2d7824c311d",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T00:05:50+00:00"
@@ -238,10 +258,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=ff5a462ec05a7f678af1a3bad4b916e2",
-    "w": 700,
+    "credit": "Photograph: Robyn Beck/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Robyn Beck/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=ff5a462ec05a7f678af1a3bad4b916e2",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T00:05:50+00:00"
@@ -910,7 +930,7 @@
   },
   {
    "id": "345cd3aee9ffebb8",
-   "title": "First plan is cabinet meeting as B.C.'s Premier Doerkson works on keeping promises",
+   "title": "Promises of new B.C. government are a 'gargantuan' task, Doerkson says",
    "summary": "B.C.'s first Conservative government in almost a century will take power when Lorne Doerkson becomes premier and unveils his first cabinet.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/british-columbia/british-columbia-s-premier-designate-lorne-doerkson-cabinet-to-be-sworn-in-today/article_afadbadc-52d8-54b7-b0d9-027f92a5ffe2.html",
@@ -8232,26 +8252,6 @@
     "h": 800,
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afda0fe31cb-1795006718.jpg?resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afda0fe31cb-1795006718.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T14:20:04+00:00"
-  },
-  {
-   "id": "f3eaddaad9dbfcdf",
-   "title": "Mada Masr’s Lina Attalah due to appear before court in Egypt",
-   "summary": "Mada Masr Editor-in-Chief Lina Attalah is set to face a retrial before an Egyptian criminal court.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss",
-   "date": "2026-11-18T14:11:07+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795011056.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795011056.jpg?quality=80&resize=1200%2C800",
     "w": 1200
    },
    "breaking": false,

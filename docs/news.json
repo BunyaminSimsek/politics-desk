@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T19:17:52+00:00",
+ "generatedAt": "2026-11-21T19:27:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "ad9ab7d2756a9c36",
+   "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
+   "summary": "EU thought to have backing of 130 countries in last-ditch push to get fossil fuels mentioned in outcome of UN climate summit. Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+   "date": "2026-11-21T19:25:34+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Chris McGrath/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b4da7d6ea28bae6380a9f013dbe3b27d6e171620/252_0_5883_4706/master/5883.jpg?width=700&quality=85&auto=format&fit=max&s=6080c10b38b1e681d1b0d391f90b9fb8",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T07:01:59+00:00"
+  },
+  {
    "id": "3977b4ac2205104f",
    "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
    "summary": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’ Get our breaking news email , free app or daily news podcast An Australian beauty company that promotes “clean” ingredients “free from skin…",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/6ce0bb93a4da40d20b813c67e99af09399f8268b/214_0_1747_1398/master/1747.jpg?width=700&quality=85&auto=format&fit=max&s=f53043f731375d7e2b5c050b504a313b",
-    "w": 700,
+    "credit": "Photograph: Copini Beauty Instagram",
     "h": 560,
-    "credit": "Photograph: Copini Beauty Instagram"
+    "url": "https://i.guim.co.uk/img/media/6ce0bb93a4da40d20b813c67e99af09399f8268b/214_0_1747_1398/master/1747.jpg?width=700&quality=85&auto=format&fit=max&s=f53043f731375d7e2b5c050b504a313b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T19:17:52+00:00"
@@ -197,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f407e25401074b0d9b8e2c21e82c592c40e9f9f0/512_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=f9dbf45ff7a968bafb64857ce7ef27b6",
-    "w": 700,
+    "credit": "Photograph: d3sign/Getty Images",
     "h": 560,
-    "credit": "Photograph: d3sign/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/f407e25401074b0d9b8e2c21e82c592c40e9f9f0/512_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=f9dbf45ff7a968bafb64857ce7ef27b6",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T19:17:52+00:00"
@@ -226,26 +246,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T18:59:37+00:00"
-  },
-  {
-   "id": "ad9ab7d2756a9c36",
-   "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
-   "summary": "EU thought to have backing of 130 countries in last-ditch push to get fossil fuels mentioned in outcome of UN climate summit. Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T18:46:29+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chris McGrath/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b4da7d6ea28bae6380a9f013dbe3b27d6e171620/252_0_5883_4706/master/5883.jpg?width=700&quality=85&auto=format&fit=max&s=6080c10b38b1e681d1b0d391f90b9fb8",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T07:01:59+00:00"
   },
   {
    "id": "0b0e060ad4ed3c25",
@@ -471,10 +471,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/da/8dace795-551e-5775-b5db-c081c909f68f/6b009c3939827.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/da/8dace795-551e-5775-b5db-c081c909f68f/6b009c3939827.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/da/8dace795-551e-5775-b5db-c081c909f68f/6b009c3939827.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/da/8dace795-551e-5775-b5db-c081c909f68f/6b009c3939827.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-21T19:17:52+00:00"
@@ -606,7 +606,7 @@
    "source": "Global News",
    "url": "https://globalnews.ca/news/12160805/ontario-liberals-new-leader/",
    "date": "2026-11-21T15:13:02+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1189,7 +1189,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2424,7 +2424,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3506,7 +3506,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

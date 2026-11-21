@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T11:27:52+00:00",
+ "generatedAt": "2026-11-21T11:37:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "ad9ab7d2756a9c36",
+   "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
+   "summary": "Though the climate talks officially finished on Friday, no final deal was agreed.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+   "date": "2026-11-21T11:34:39+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Yasin Akgül/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/0d800100748e68cb865e3bb780a2031c2515a016/756_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=b8cd1831d609c0b3d41fe353ab30439e",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T07:01:59+00:00"
+  },
+  {
    "id": "d0d19939b320e45a",
    "title": "Rejoining EU ‘on the table’ as UK strikes deals on trade and young people",
    "summary": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’ The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has said.",
@@ -184,26 +204,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T10:04:53+00:00"
-  },
-  {
-   "id": "ad9ab7d2756a9c36",
-   "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
-   "summary": "Though the climate talks officially finished on Friday, no final deal was agreed.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T11:08:44+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yasin Akgül/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0d800100748e68cb865e3bb780a2031c2515a016/756_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=b8cd1831d609c0b3d41fe353ab30439e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T07:01:59+00:00"
   },
   {
    "id": "b537fedc25b3af7f",
@@ -276,7 +276,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-name-new-leader-after-weeks-of-voting-months-of-campaigning/article_dc8ece66-4041-5f42-84f1-0b9195d92fef.html",
    "date": "2026-11-21T11:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -441,7 +441,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1676,7 +1676,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2778,7 +2778,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3908,7 +3908,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T21:36:02+00:00",
+ "generatedAt": "2026-11-21T21:45:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "EU thought to have backing of 130 countries in last-ditch push to get cause of climate crisis mentioned in outcome of UN summit Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T21:35:34+00:00",
+   "date": "2026-11-21T21:43:27+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [],
@@ -184,6 +184,65 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T07:01:59+00:00"
+  },
+  {
+   "id": "4d88766791b082be",
+   "title": "Ontario Liberals elect Navdeep Bains as new party leader",
+   "summary": "The Ontario Liberal Party has elected Navdeep Bains as the party's new leader after a marathon leadership race.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
+   "date": "2026-11-21T21:35:51+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/30690b4b-150c-4b8b-9883-ce3f56442a81,1795278309500/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C8%2C8640%2C4860%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T21:45:17+00:00"
+  },
+  {
+   "id": "22eb4b1169de4af9",
+   "title": "Canadian Press NewsAlert: Navdeep Bains named new Ontario Liberal leader",
+   "summary": "TORONTO - Ontario Liberals have selected Navdeep Bains as their new leader.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-name-new-leader-after-weeks-of-voting-months-of-campaigning/article_dc8ece66-4041-5f42-84f1-0b9195d92fef.html",
+   "date": "2026-11-21T21:35:19+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T11:18:14+00:00"
+  },
+  {
+   "id": "0a231aee0003d9fd",
+   "title": "Bahrain says Iranian attack causes fire at industrial facility",
+   "summary": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+   "date": "2026-11-21T21:31:03+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0202985284a-1795293848.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0202985284a-1795293848.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T21:45:17+00:00"
   },
   {
    "id": "eae34af2e53bfd1b",
@@ -416,8 +475,8 @@
   },
   {
    "id": "ba154ba503f95303",
-   "title": "Ontario Liberal leadership race live: Hopefuls take the stage for speeches ahead of results",
-   "summary": "Four candidates are vying to be the politician that finally returns the party to power.",
+   "title": "Ontario Liberal leadership race live: Navdeep Bains named new party leader",
+   "summary": "Bains defeated runner-up MPP Lee Fairclough, MPP Stephanie Bowman and policy adviser Dylan Marando.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/ontario-liberal-leadership-live/article_1f6f280d-80d7-4d59-92d0-2087a8a883e7.html",
    "date": "2026-11-21T18:00:00+00:00",
@@ -426,10 +485,10 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/e5/be554cbd-5b4f-502d-b54a-26b540dbf16d/6b0202932d16b.image.jpg?resize=1200%2C",
+    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/13/61314358-2323-5170-946f-d387150234d4/6b01e671e6643.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/13/61314358-2323-5170-946f-d387150234d4/6b01e671e6643.image.jpg?resize=1200%2C",
-    "w": 1200
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/e5/be554cbd-5b4f-502d-b54a-26b540dbf16d/6b0202932d16b.image.jpg?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-21T10:04:53+00:00"
@@ -702,8 +761,8 @@
   },
   {
    "id": "946bce7c6f5acdc5",
-   "title": "Ontario Liberals to name new leader after weeks of voting",
-   "summary": "The favourites are said to be caucus member and former hospital president Lee Fairclough, and former Liberal cabinet minister and Rogers Communications executive Navdeep Bains.",
+   "title": "Navdeep Bains named new Ontario Liberal leader",
+   "summary": "Bains is new to provincial elected office, but previously represented Mississauga ridings federally and served as federal minister of innovation, science and industry.",
    "source": "Global News",
    "url": "https://globalnews.ca/news/12160805/ontario-liberals-new-leader/",
    "date": "2026-11-21T15:13:02+00:00",
@@ -712,10 +771,10 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Bains-e1795297235164.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Liberals-e1795273956888.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Liberals-e1795273956888.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Bains-e1795297235164.jpg?w=640&h=427&crop=1&quality=70&strip=all"
    },
    "breaking": false,
    "addedAt": "2026-11-21T15:17:59+00:00"
@@ -1139,26 +1198,6 @@
    "addedAt": "2026-11-21T11:18:14+00:00"
   },
   {
-   "id": "22eb4b1169de4af9",
-   "title": "Ontario Liberals to name new leader after weeks of voting, months of campaigning",
-   "summary": "TORONTO - Ontario Liberals are getting ready to name their new party leader, with results from members' ranked ballots set to be revealed later today.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-name-new-leader-after-weeks-of-voting-months-of-campaigning/article_dc8ece66-4041-5f42-84f1-0b9195d92fef.html",
-   "date": "2026-11-21T11:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T11:18:14+00:00"
-  },
-  {
    "id": "17074b3810332c6e",
    "title": "Promise Me, America by Joe Biden review – former president defends his decisions",
    "summary": "New memoir tells of policy feats and battles with Trump but struggles to take responsibility for re-election debacle Inevitably, readers of Joe Biden’s new memoir will flick forward to find what he says about the events that ended his presidency: increasing…",
@@ -1290,7 +1329,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2525,7 +2564,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3607,7 +3646,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
    "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

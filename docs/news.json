@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T17:18:04+00:00",
+ "generatedAt": "2026-11-21T17:27:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "EU thought to have backing of 130 countries in last-ditch push to get fossil fuels mentioned in outcome of UN climate summit. Although not quite deserted, the halls of the Cop31 conference centre are considerably less peopled today.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-   "date": "2026-11-21T17:11:21+00:00",
+   "date": "2026-11-21T17:25:08+00:00",
    "topic": "turkey",
    "region": "world",
    "tags": [],
@@ -184,6 +184,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T07:01:59+00:00"
+  },
+  {
+   "id": "cf2547504110fc73",
+   "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+   "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+   "date": "2026-11-21T17:20:03+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26325498278414-1795277500.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26325498278414-1795277500.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-21T17:27:14+00:00"
   },
   {
    "id": "158994b8ae4ecd45",
@@ -8223,26 +8245,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T18:54:13+00:00"
-  },
-  {
-   "id": "0a7d9fa711832564",
-   "title": "Something else is lurking just ‘Below’ the surface of Newfoundland’s waters — raw sewage",
-   "summary": "A warning sign at Bartlett's Point Park in Corner Brook, NL. (Josie Wittmer) , CC BY The popular new Netflix thriller series Below portrays life in coastal Newfoundland and a frightening presence in the water that turns out to be a giant squid.",
-   "source": "The Conversation",
-   "url": "https://theconversation.com/something-else-is-lurking-just-below-the-surface-of-newfoundlands-waters-raw-sewage-296015",
-   "date": "2026-11-18T18:44:48+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "analysis",
-   "image": {
-    "h": 700,
-    "small": "https://images.theconversation.com/files/772222/original/file-20261116-64-ejlzfp.jpg?ixlib=rb-4.1.1&rect=0%2C160%2C1920%2C1280&q=45&auto=format&h=700&w=640&fit=clip",
-    "url": "https://images.theconversation.com/files/772222/original/file-20261116-64-ejlzfp.jpg?ixlib=rb-4.1.1&rect=0%2C160%2C1920%2C1280&q=45&auto=format&h=700&w=1200&fit=clip",
-    "w": 1050
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T19:13:14+00:00"
   }
  ]
 }

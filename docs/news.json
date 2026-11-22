@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T14:17:13+00:00",
+ "generatedAt": "2026-11-22T14:26:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "Although parties are still talking, the summit president said there can be no agreement on key deal Full report: Cop31 climate talks set to end in deep division as key deal rejected Mohamed Adow, director of Power Shift Africa, has been looking through the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-22T14:13:32+00:00",
+   "date": "2026-11-22T14:24:44+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/75572d989e49430c572626c68c8e4da3241921a3/148_0_3062_2449/master/3062.jpg?width=700&quality=85&auto=format&fit=max&s=c1c7cbd296713e20c33be99c1c1a6401",
-    "w": 700,
+    "credit": "Photograph: Jeffrey Phelps/Getty Images",
     "h": 560,
-    "credit": "Photograph: Jeffrey Phelps/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/75572d989e49430c572626c68c8e4da3241921a3/148_0_3062_2449/master/3062.jpg?width=700&quality=85&auto=format&fit=max&s=c1c7cbd296713e20c33be99c1c1a6401",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T14:17:13+00:00"
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/5ae22b836fc60fa1a5cc21e59c9b0a1cf60ec948/236_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=28e16e41c8dbada4ae66eeacb515b2a5",
-    "w": 700,
+    "credit": "Photograph: James D Morgan/Getty Images",
     "h": 560,
-    "credit": "Photograph: James D Morgan/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/5ae22b836fc60fa1a5cc21e59c9b0a1cf60ec948/236_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=28e16e41c8dbada4ae66eeacb515b2a5",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T14:17:13+00:00"
@@ -682,9 +682,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/9ec22625-2e37-493c-ad4c-9877ef6de366,1795310686838/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/9ec22625-2e37-493c-ad4c-9877ef6de366,1795310686838/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-22T10:08:47+00:00"
@@ -1269,7 +1269,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2488,7 +2488,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3701,7 +3701,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5913,7 +5913,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

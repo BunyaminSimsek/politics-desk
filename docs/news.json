@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T22:19:15+00:00",
+ "generatedAt": "2026-11-22T22:28:22+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -65,7 +65,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "Al Jazeera",
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/78f33ce8c7f9ce573db8956e2c3886261286f04f/232_0_4113_3290/master/4113.jpg?width=700&quality=85&auto=format&fit=max&s=724301389237418347353d40b6a22ab5",
-    "w": 700,
+    "credit": "Photograph: Kevin Lamarque/Reuters",
     "h": 560,
-    "credit": "Photograph: Kevin Lamarque/Reuters"
+    "url": "https://i.guim.co.uk/img/media/78f33ce8c7f9ce573db8956e2c3886261286f04f/232_0_4113_3290/master/4113.jpg?width=700&quality=85&auto=format&fit=max&s=724301389237418347353d40b6a22ab5",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T22:19:15+00:00"
@@ -1867,7 +1867,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3086,7 +3086,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4299,7 +4299,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6399,26 +6399,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T23:10:50+00:00"
-  },
-  {
-   "id": "2865a3eb444d55ac",
-   "title": "Supreme Court sets March date to hear challenge of Saskatchewan's pronoun law",
-   "summary": "The law, passed in 2023, prevents children under 16 from changing their names or pronouns at school without parental consent.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/saskatchewan/supreme-court-sets-march-date-to-hear-challenge-of-saskatchewan-s-pronoun-law/article_e6bb2170-503d-5892-aacb-400a49b5987b.html",
-   "date": "2026-11-19T22:26:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/78/97832111-185b-51fa-821f-2e5b6fd2e686/6aff786d196bb.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/78/97832111-185b-51fa-821f-2e5b6fd2e686/6aff786d196bb.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T22:32:51+00:00"
   }
  ]
 }

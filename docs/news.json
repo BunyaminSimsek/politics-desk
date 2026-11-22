@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T11:50:01+00:00",
+ "generatedAt": "2026-11-22T11:59:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Another version of the draft text has been published and negotiators have been called in for the final session Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout Mohamed Adow, director of Power Shift…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-22T11:49:22+00:00",
+   "date": "2026-11-22T11:59:06+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -188,6 +188,46 @@
    "addedAt": "2026-11-22T06:11:10+00:00"
   },
   {
+   "id": "66e999a9f0a5f7df",
+   "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+   "summary": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+   "date": "2026-11-22T11:46:42+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T054830Z_561340037_RC2TSOAVQ66D_RTRMADP_3_IRAN-CRISIS-BAHRAIN-1-1795348266.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T054830Z_561340037_RC2TSOAVQ66D_RTRMADP_3_IRAN-CRISIS-BAHRAIN-1-1795348266.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T11:59:12+00:00"
+  },
+  {
+   "id": "9925099c67744163",
+   "title": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
+   "summary": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU European Relations Minister Hamish Falconer on Sky this morning criticised the post from earlier this…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
+   "date": "2026-11-22T11:46:21+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Andy Rain/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/fe3c1f101f487524f1490010fbd18d991551cffe/198_0_1961_1569/master/1961.jpg?width=700&quality=85&auto=format&fit=max&s=364fbcc5217af6cb9fc37a09173b4c92",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T09:14:07+00:00"
+  },
+  {
    "id": "6ea93ef6abc3e932",
    "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
    "summary": "Foreign secretary says there is clear case to integrate more closely but does not say if he backs talks on possibly rejoining UK politics live – latest updates Closer links with the EU will mean the UK having a say on decisions made by Brussels, Ed Miliband…",
@@ -199,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d52885f93bc4024b6c560d78a474ee70d290dc03/673_164_4900_3920/master/4900.jpg?width=700&quality=85&auto=format&fit=max&s=c4f82d08a74371204278f01207f288f8",
-    "w": 700,
+    "credit": "Photograph: Nicolas Tucat/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Nicolas Tucat/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/d52885f93bc4024b6c560d78a474ee70d290dc03/673_164_4900_3920/master/4900.jpg?width=700&quality=85&auto=format&fit=max&s=c4f82d08a74371204278f01207f288f8",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T11:50:01+00:00"
@@ -219,33 +259,13 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "credit": "Photograph: Amer Ghazzal/Shutterstock",
+    "h": 560,
     "url": "https://i.guim.co.uk/img/media/aa0bf12f49eeebd485fd9555186b69c332c0ab1d/558_45_4628_3703/master/4628.jpg?width=700&quality=85&auto=format&fit=max&s=2f3db3c28d10831fb9091620215cf6fa",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Amer Ghazzal/Shutterstock"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T11:50:01+00:00"
-  },
-  {
-   "id": "9925099c67744163",
-   "title": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
-   "summary": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU European Relations Minister Hamish Falconer on Sky this morning criticised the post from earlier this…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
-   "date": "2026-11-22T11:36:07+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fe3c1f101f487524f1490010fbd18d991551cffe/198_0_1961_1569/master/1961.jpg?width=700&quality=85&auto=format&fit=max&s=364fbcc5217af6cb9fc37a09173b4c92",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-22T09:14:07+00:00"
+   "addedAt": "2026-11-22T11:50:01+00:00"
   },
   {
    "id": "6cfafb674561f3f2",
@@ -422,10 +442,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T09:32:20+00:00"
@@ -931,7 +951,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2150,7 +2170,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3363,7 +3383,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7458,28 +7478,6 @@
     "credit": "Photograph: Stephen Maturen/Getty Images",
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/b0c7104ed351d64b109950a06e74a874094aaf75/813_0_4536_3627/master/4536.jpg?width=700&quality=85&auto=format&fit=max&s=f00bc7f57d2dfd2581d1e5ba080b6387",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T12:14:02+00:00"
-  },
-  {
-   "id": "e481cf0ebb471f46",
-   "title": "Tories select James Cleverly as candidate for London mayor",
-   "summary": "Former home secretary wins 86% support in a membership vote to stand in May 2028 James Cleverly has been chosen by the Conservatives as their candidate in the next London mayoral election, with the former cabinet minister saying he would stand up to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/19/tories-select-james-cleverly-candidate-london-mayor",
-   "date": "2026-11-19T11:53:11+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Stefan Rousseau/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/35a9d897e2ed61d90967180863e80968f8991a81/366_0_3647_2919/master/3647.jpg?width=700&quality=85&auto=format&fit=max&s=0f68fb1cd7abfa1769c5fc9dd5cb4bbb",
     "w": 700
    },
    "breaking": false,

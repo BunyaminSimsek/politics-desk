@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T15:22:00+00:00",
+ "generatedAt": "2026-11-22T15:31:19+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Countries failed to reach consensus on a key deal that did not mention fossil fuels Full report: Cop31 climate talks set to end in deep division as key deal rejected Mohamed Adow, director of Power Shift Africa, has been looking through the text and says…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-22T15:07:54+00:00",
+   "date": "2026-11-22T15:30:29+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -188,6 +188,26 @@
    "addedAt": "2026-11-22T06:11:10+00:00"
   },
   {
+   "id": "d4bb76db92bf4198",
+   "title": "Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank",
+   "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+   "date": "2026-11-22T15:22:38+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=02cd87d09d705f7a50460fa0fe12f59e",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Alaa Badarneh/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T15:31:19+00:00"
+  },
+  {
    "id": "c868416eb404069d",
    "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
    "summary": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.",
@@ -201,10 +221,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03005929fe-1795358809.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03005929fe-1795358809.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03005929fe-1795358809.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03005929fe-1795358809.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T15:22:00+00:00"
@@ -221,10 +241,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/5d2a6cedacc58722d23ad3e97679243dd5038818/1104_445_3625_2899/master/3625.jpg?width=700&quality=85&auto=format&fit=max&s=7b913cd0527d5d00841a87b40f16deac",
-    "w": 700,
+    "credit": "Photograph: Kylie Cooper/Reuters",
     "h": 560,
-    "credit": "Photograph: Kylie Cooper/Reuters"
+    "url": "https://i.guim.co.uk/img/media/5d2a6cedacc58722d23ad3e97679243dd5038818/1104_445_3625_2899/master/3625.jpg?width=700&quality=85&auto=format&fit=max&s=7b913cd0527d5d00841a87b40f16deac",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T15:22:00+00:00"
@@ -7208,46 +7228,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/82a515f04bc247c4248d7219eb825c2d67060618/1173_38_6573_5258/master/6573.jpg?width=700&quality=85&auto=format&fit=max&s=4df309ecc7781e6c8f1542fa405dc57e",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T15:40:51+00:00"
-  },
-  {
-   "id": "8efb8c3f64e434b8",
-   "title": "Top court won't hear bid for class-action lawsuit on behalf of Indigenous children",
-   "summary": "OTTAWA - The Supreme of Court of Canada will not hear a bid to certify a class-action lawsuit against Ottawa on behalf of Indigenous children who were taken from their families while living away from reserves and placed in non-Indigenous…",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/top-court-won-t-hear-bid-for-class-action-lawsuit-on-behalf-of-indigenous-children/article_f733d443-eefe-551e-a6fb-332df11291e9.html",
-   "date": "2026-11-19T15:30:05+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/0c/b0cfb368-701b-5534-af46-341d6c5fab80/6aff17295c1ff.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/0c/b0cfb368-701b-5534-af46-341d6c5fab80/6aff17295c1ff.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T15:50:08+00:00"
-  },
-  {
-   "id": "3e5b445196dda01a",
-   "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
-   "summary": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
-   "date": "2026-11-19T15:24:51+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1795101729.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1795101729.jpg?resize=1200%2C800",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:40:51+00:00"

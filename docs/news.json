@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T05:43:46+00:00",
+ "generatedAt": "2026-11-22T05:52:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "BBC News",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "b562b9609d14edbc",
+   "title": "New draft deal aims to avert collapse of talks at climate summit",
+   "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T05:26:10+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T05:52:58+00:00"
+  },
   {
    "id": "f908da6e29c938c7",
    "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",

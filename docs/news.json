@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T19:41:35+00:00",
+ "generatedAt": "2026-11-22T19:50:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "fb61cc4234e2e4e6",
+   "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+   "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+   "date": "2026-11-22T19:34:59+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=700&quality=85&auto=format&fit=max&s=0ce74b5525126b4a655a92cda2bfc6b5",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Edgar Su/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T19:50:45+00:00"
+  },
+  {
    "id": "e2830407b36aa712",
    "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
    "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
@@ -199,10 +221,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/aber-1-1794942045.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/aber-1-1794942045.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/aber-1-1794942045.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/aber-1-1794942045.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T19:41:35+00:00"
@@ -6642,26 +6664,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:12:23+00:00"
-  },
-  {
-   "id": "b8547a4c9cf2f0a5",
-   "title": "Judges have put Trump's arch and golf course on hold, but only for a matter of days",
-   "summary": "A federal judge has twice delayed construction of Trump's arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursday.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
-   "date": "2026-11-19T19:46:27+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3038+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F51%2F45f19489479aa954d177e2981de0%2Ftrump-construction-duo.png",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3038+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcb%2F51%2F45f19489479aa954d177e2981de0%2Ftrump-construction-duo.png",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T20:03:06+00:00"
   }
  ]
 }

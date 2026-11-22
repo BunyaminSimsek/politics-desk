@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T18:54:49+00:00",
+ "generatedAt": "2026-11-22T19:03:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "BBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 13
+   "kept": 14
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 20
   },
   {
    "source": "The Guardian",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "8eecf8eba2334227",
+   "title": "What's next after no deal at COP31 climate talks?",
+   "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T18:57:24+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg"
+   },
+   "breaking": true,
+   "addedAt": "2026-11-22T19:03:59+00:00"
+  },
   {
    "id": "9262e5fe5f547f12",
    "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
@@ -6719,67 +6741,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:16:32+00:00"
-  },
-  {
-   "id": "372e8dc43d48a12c",
-   "title": "UK and EU plan first talks on sending refused asylum seekers to third countries",
-   "summary": "Two sides to commit to discussing third-country hubs as part of reset pact after five-country deal with Rwanda UK-EU summit live: latest news updates The UK and the EU plan to establish formal talks for the first time about sending rejected asylum seekers to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
-   "date": "2026-11-19T19:02:45+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Florion Goga/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/751d97ed396bc08de15e2bc52aafe1c378b97113/522_0_2646_2117/master/2646.jpg?width=700&quality=85&auto=format&fit=max&s=358d1076d93efd0df820261f96fbb514",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T19:16:32+00:00"
-  },
-  {
-   "id": "f3a953927377bcea",
-   "title": "Jill Dunlop, Ontario's colleges and universities minister until 2024, refuses to answer OSAP questions",
-   "summary": "Ontario's former minister of colleges and universities, who presided over the file for three years until 2024, is refusing to answer questions about a growing Ontario Student Assistance Program scandal.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/jill-dunlop-colleges-and-universities-osap-9.7428530?cmp=rss",
-   "date": "2026-11-19T18:59:49+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/1.7359817,1729623973000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T19:06:49+00:00"
-  },
-  {
-   "id": "9c607d0e2e6ccc5b",
-   "title": "‘Difficult to predict’ timeline to end CAF ammunition shortage: official",
-   "summary": "Conflicts in Ukraine and Iran have led to global ammunition shortages that make procurement on the open market difficult, official says.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12158159/canadian-forces-ammunition-shortage-plans/",
-   "date": "2026-11-19T18:56:50+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2025/12/CAF-member-arrested.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2025/12/CAF-member-arrested.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T18:57:31+00:00"
   }
  ]
 }

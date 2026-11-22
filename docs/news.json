@@ -1,11 +1,11 @@
 {
- "generatedAt": "2026-11-22T16:26:18+00:00",
+ "generatedAt": "2026-11-22T16:35:32+00:00",
  "feeds": [
   {
    "source": "CBC News",
    "url": "https://www.cbc.ca/webfeed/rss/rss-politics",
    "ok": true,
-   "kept": 19
+   "kept": 20
   },
   {
    "source": "CBC Toronto",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "8bef96f3ec7bc375",
+   "title": "Pierre Poilievre holds a press conference",
+   "summary": "The Conservative leadder is speaking to reporters alongside his immigration critic, Conservative MP Michelle Rempel Garner",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/player/play/9.7431803?cmp=rss",
+   "date": "2026-11-22T16:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/c53b92a7-45c1-4167-85e5-6db6090f6528,1795358646496/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C110%2C1920%2C1080%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T16:35:32+00:00"
+  },
+  {
    "id": "db8b49c438173e53",
    "title": "Cop31 live: EU and others reject deal as longest climate summit ever faces collapse",
    "summary": "Countries failed to reach consensus on a key deal that did not mention fossil fuels Full report: Cop31 climate talks set to end in deep division as key deal rejected Mohamed Adow, director of Power Shift Africa, has been looking through the text and says…",
@@ -210,9 +229,29 @@
    "addedAt": "2026-11-22T13:03:23+00:00"
   },
   {
+   "id": "9e0e59e94b700d88",
+   "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
+   "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+   "date": "2026-11-22T16:12:54+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/323290cab4a059e743deb4e7ae0928f6d847b2af/681_32_4857_3885/master/4857.jpg?width=700&quality=85&auto=format&fit=max&s=4b11d44d7ade66f2f41b91bb001c5ba9",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Amer Ghazzal/Shutterstock"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T16:35:32+00:00"
+  },
+  {
    "id": "e2830407b36aa712",
    "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-   "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+   "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-22T16:05:25+00:00",
@@ -223,10 +262,10 @@
    ],
    "kind": "news",
    "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg",
-    "w": 1200
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-22T15:59:07+00:00"
@@ -1375,7 +1414,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2594,7 +2633,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3807,7 +3846,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6019,7 +6058,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7057,46 +7096,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T17:15:17+00:00"
-  },
-  {
-   "id": "a2c201027f0695c9",
-   "title": "Poilievre brushes off questions about staff departures from his office",
-   "summary": "SAINT-HYACINTHE - Pierre Poilievre brushed off a suggestion his leadership of the federal Conservative party needs rebranding Thursday following the departure of five staffers from his office.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/poilievre-brushes-off-questions-about-staff-departures-from-his-office/article_a74353e6-2647-50d9-a894-df13997f231c.html",
-   "date": "2026-11-19T16:32:31+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/aa/6aa68a56-8d30-5acc-946f-e291af455c7c/6aff253952d8c.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/aa/6aa68a56-8d30-5acc-946f-e291af455c7c/6aff253952d8c.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T16:47:37+00:00"
-  },
-  {
-   "id": "1411c015818d8df7",
-   "title": "‘Take temperature down’ over guidance on single-sex spaces, head of UK equalities body urges",
-   "summary": "EHRC chair says ‘misinformation’ about guidance issued after supreme court ruling has created ‘more anxiety’ The head of the UK’s equalities watchdog has urged people to “take the temperature down” on reaction to guidance issued on single-sex spaces.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/19/ehrc-guidance-single-sex-spaces-transgender-supreme-court",
-   "date": "2026-11-19T16:27:10+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jonathan Brady/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/481faa480b9827e373eef230007072e3dc9bdf46/322_0_4921_3940/master/4921.jpg?width=700&quality=85&auto=format&fit=max&s=48f27e69f7c24fa07c145393bd3f1483",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T16:47:37+00:00"
   }
  ]
 }

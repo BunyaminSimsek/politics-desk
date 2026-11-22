@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T09:59:37+00:00",
+ "generatedAt": "2026-11-22T10:08:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "CBC World",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "A third version of the draft text was published overnight and negotiators have been called in for what organisers say will be the final session Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout Mohamed…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-22T09:56:10+00:00",
+   "date": "2026-11-22T10:03:23+00:00",
    "topic": "mideast",
    "region": "world",
    "tags": [
@@ -186,6 +186,45 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T06:11:10+00:00"
+  },
+  {
+   "id": "93b0930b5feaf436",
+   "title": "Bains faces serious challenge rebuilding Ontario's Liberal party, insiders say",
+   "summary": "Navdeep Bains has been elected Ontario's new Liberal leader, taking over a party that has been in the political wilderness for almost a decade. He admits there will be \"no shortcuts\" back to power.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/navdeep-bains-liberal-leader-9.7431590?cmp=rss",
+   "date": "2026-11-22T10:00:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/9ec22625-2e37-493c-ad4c-9877ef6de366,1795310686838/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T10:08:47+00:00"
+  },
+  {
+   "id": "c1d19bebb454a090",
+   "title": "‘Intimidating’ vigilantes posing as far-right security on the rise, UK experts say",
+   "summary": "Volunteers in black uniforms and body armour increasingly seen with figures such as Tommy Robinson There is a worrying rise in “reckless and intimidating” vigilantes posing as security guards around far-right figures, security experts have said.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/22/intimidating-vigilantes-posing-as-far-right-security-on-the-rise-uk-experts-say",
+   "date": "2026-11-22T09:49:16+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/861d664ba85228e72cb0a7f3db310a200a7f892d/1369_308_4539_3631/master/4539.jpg?width=700&quality=85&auto=format&fit=max&s=8fbc362480ba1cb023c91f1baa2291c4",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Matthew Chattle/Shutterstock"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T10:08:47+00:00"
   },
   {
    "id": "9925099c67744163",
@@ -768,7 +807,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1987,7 +2026,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3200,7 +3239,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7563,130 +7602,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T10:50:47+00:00"
-  },
-  {
-   "id": "f4d0f1f2cfe889e8",
-   "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
-   "summary": "With two million Palestinians confined to an area of less than 130sq km, UN-backed Gaza peace plan has collapsed.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
-   "date": "2026-11-19T10:05:33+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A0709-copy-1794143945.jpeg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A0709-copy-1794143945.jpeg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T10:32:29+00:00"
-  },
-  {
-   "id": "7f5dccfcc1fb8c9b",
-   "title": "Crimea bridge has been attacked again, says Russian-installed governor",
-   "summary": "Assessment of damage under way, days after two attacks that destroyed road section of key bridge across Kerch strait linking annexed peninsula to Russia Apec summit – latest updates The remaining Kerch rail bridge connecting Crimea to Russia was attacked…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
-   "date": "2026-11-19T10:03:42+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: UKRAINIAN SECURITY SERVICE/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7bf9a341fba5dbbab43e28b309e86834e12fbee2/684_319_2063_1650/master/2063.jpg?width=700&quality=85&auto=format&fit=max&s=6f30e702cc65d8abeb70d6efb6c27f46",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:27:43+00:00"
-  },
-  {
-   "id": "56cc2253a4f17601",
-   "title": "Trump calls for nuclear arms reduction at APEC summit",
-   "summary": "Trump calls for nuclear arms reduction at APEC summit",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
-   "date": "2026-11-19T10:03:27+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/trmp-apec-1795082587.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/trmp-apec-1795082587.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T10:32:29+00:00"
-  },
-  {
-   "id": "d5ef4fb08b3058a3",
-   "title": "Canada's steel industry says China deal undercuts fight against cheap imports",
-   "summary": "While the steel industry braces for impact from Ottawa's new trade deal with China, Canadian pork producers are celebrating an end to a slow period.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/business/carney-s-new-deal-with-xi-jinping-has-jeopardized-progress-to-reduce-chinese-steel-imports-steel-producers/article_c06b94aa-1202-48e3-ae32-b8e503909661.html",
-   "date": "2026-11-19T10:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/3c/63c5595e-edf2-5d54-9a78-8cdafa106e1c/6aff730654d1f.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/3c/63c5595e-edf2-5d54-9a78-8cdafa106e1c/6aff730654d1f.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T10:14:10+00:00"
-  },
-  {
-   "id": "d9205c3e945acca0",
-   "title": "Ontario teacher unions claim key wins over bargaining, setting stage for tense contract talks",
-   "summary": "The rulings pave the way for bargaining to begin between teachers, education workers and the province.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/ontario-labour-board-has-ruled-on-what-teachers-support-staff-can-negotiate-with-the-province/article_506b89e4-6f21-40c9-bb10-7b492128f3de.html",
-   "date": "2026-11-19T10:00:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/c9/dc962085-1ca2-5270-a709-8c5a61228695/6a3ff000774a1.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/c9/dc962085-1ca2-5270-a709-8c5a61228695/6a3ff000774a1.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T10:14:10+00:00"
-  },
-  {
-   "id": "bd3186367b0ec6cc",
-   "title": "Ontario universities warn a new Ford government bill could hike student rent by $1,000 a year",
-   "summary": "The province is being urged to amend the proposed legislation to ensure the residences remain exempt from property tax.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/new-bill-could-raise-ontario-student-housing-costs-universities-warn-ford-government-disagrees/article_8627676f-fa17-4e68-8183-86f4ea0a5bb1.html",
-   "date": "2026-11-19T10:00:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [
-    "housing"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/58/f58df0bb-5d9f-52c7-8c4d-ff06b3ac647f/6afe300e2051e.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/58/f58df0bb-5d9f-52c7-8c4d-ff06b3ac647f/6afe300e2051e.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T10:14:10+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T09:32:20+00:00",
+ "generatedAt": "2026-11-22T09:41:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "A third version of the draft text was published overnight and negotiators have been called in for what organisers say will be the final session Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout Mohamed…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-22T09:24:35+00:00",
+   "date": "2026-11-22T09:41:15+00:00",
    "topic": "mideast",
    "region": "world",
    "tags": [
@@ -186,6 +186,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T06:11:10+00:00"
+  },
+  {
+   "id": "cc89ea0f9e40ab94",
+   "title": "Photos: People rally across France over living costs, public services",
+   "summary": "Protests held on sixth weekend as tens of thousands march over inequality and organisers plan more rallies.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
+   "date": "2026-11-22T09:27:48+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D88Z66X__v1__HighRes__FrancePoliticsEducationStrikeDemo-1795332915.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D88Z66X__v1__HighRes__FrancePoliticsEducationStrikeDemo-1795332915.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T09:41:24+00:00"
   },
   {
    "id": "9925099c67744163",
@@ -221,10 +241,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1f58/live/2ab01bc0-e651-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1f58/live/2ab01bc0-e651-11f1-a094-5fdc692f3e33.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1f58/live/2ab01bc0-e651-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1f58/live/2ab01bc0-e651-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T09:32:20+00:00"
@@ -241,10 +261,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/b47066e8f0c23f30a75722f5b8d6c5aa66dacd69/0_691_1056_844/master/1056.jpg?width=700&quality=85&auto=format&fit=max&s=8c60d6db17dc2cfd1947fd5efd4b5e38",
-    "w": 700,
+    "credit": "Photograph: Indian Youth Congress/IYC/Reuters",
     "h": 559,
-    "credit": "Photograph: Indian Youth Congress/IYC/Reuters"
+    "url": "https://i.guim.co.uk/img/media/b47066e8f0c23f30a75722f5b8d6c5aa66dacd69/0_691_1056_844/master/1056.jpg?width=700&quality=85&auto=format&fit=max&s=8c60d6db17dc2cfd1947fd5efd4b5e38",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T09:32:20+00:00"
@@ -730,7 +750,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1949,7 +1969,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3162,7 +3182,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5374,7 +5394,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

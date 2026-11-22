@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T01:09:08+00:00",
+ "generatedAt": "2026-11-22T01:18:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795307837.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795307837.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795307837.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795307837.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T01:09:08+00:00"
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/4d437bc81d1032afb812de5027b40b3c646fa358/288_0_3708_2967/master/3708.jpg?width=700&quality=85&auto=format&fit=max&s=47d5162af25d320a7024edee7be1fdb0",
-    "w": 700,
+    "credit": "Photograph: Dan Himbrechts/AAP",
     "h": 560,
-    "credit": "Photograph: Dan Himbrechts/AAP"
+    "url": "https://i.guim.co.uk/img/media/4d437bc81d1032afb812de5027b40b3c646fa358/288_0_3708_2967/master/3708.jpg?width=700&quality=85&auto=format&fit=max&s=47d5162af25d320a7024edee7be1fdb0",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T01:09:08+00:00"
@@ -414,7 +414,7 @@
    "summary": "TORONTO - Former MP Navdeep Bains eked out a narrow victory Saturday to become the next Ontario Liberal leader, pledging to focus now on uniting the party and getting it in fighting shape for the next election.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-name-new-leader-after-weeks-of-voting-months-of-campaigning/article_dc8ece66-4041-5f42-84f1-0b9195d92fef.html",
-   "date": "2026-11-21T21:35:19+00:00",
+   "date": "2026-11-21T21:35:00+00:00",
    "topic": "ontario",
    "region": "local",
    "tags": [],

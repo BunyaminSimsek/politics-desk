@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T10:46:05+00:00",
+ "generatedAt": "2026-11-22T10:55:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "db8b49c438173e53",
+   "title": "Cop31 live: final session under way at divided climate summit as chance of deal hangs in the balance",
+   "summary": "Another version of the draft text has just been published and negotiators have been called in for the final session Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout Mohamed Adow, director of Power Shift…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-22T10:54:27+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Murad Sezer/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=700&quality=85&auto=format&fit=max&s=1e10bb7ae7582838cdc3c6655db62fb5",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T06:11:10+00:00"
+  },
+  {
    "id": "9925099c67744163",
    "title": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
    "summary": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU The Tories and Reform have made the argument this morning that the new food deal is “bad” for British…",
@@ -184,28 +206,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T09:14:07+00:00"
-  },
-  {
-   "id": "db8b49c438173e53",
-   "title": "Cop31 live: final session under way at divided climate summit as chance of deal hangs in the balance",
-   "summary": "Another version of the draft text has just been published and negotiators have been called in for the final session Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout Mohamed Adow, director of Power Shift…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-22T10:37:09+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Murad Sezer/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=700&quality=85&auto=format&fit=max&s=1e10bb7ae7582838cdc3c6655db62fb5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T06:11:10+00:00"
   },
   {
    "id": "93b0930b5feaf436",
@@ -807,7 +807,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2026,7 +2026,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3239,7 +3239,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5451,7 +5451,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T19:50:45+00:00",
+ "generatedAt": "2026-11-22T19:59:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "e2830407b36aa712",
+   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+   "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T19:52:50+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T15:59:07+00:00"
+  },
+  {
+   "id": "83c8a30ff39af264",
+   "title": "Australian politics live: small business carveout in digital duty of care; countdown to pass key legislation begins",
+   "summary": "Get our breaking news email , free app or daily news podcast Good morning and welcome to Guardian Australia’s coverage of Australian politics. Krishani Dhanji will be with us shortly. Let’s begin.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+   "date": "2026-11-22T19:47:18+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/137309f86d6d9310dcac2f083391023259be0594/1096_0_5360_4288/master/5360.jpg?width=700&quality=85&auto=format&fit=max&s=2fe4349ca74bebbeafe0da5329a3dbf2",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Darren England/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T19:59:55+00:00"
+  },
+  {
+   "id": "7020b5a3700c3e2c",
+   "title": "Cockroaches, dissent and a paradigm shift in India",
+   "summary": "The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
+   "date": "2026-11-22T19:40:12+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/WEB-THUMB-SPL-TX43-WIDE-1795376389.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/WEB-THUMB-SPL-TX43-WIDE-1795376389.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T19:59:55+00:00"
+  },
+  {
    "id": "fb61cc4234e2e4e6",
    "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
    "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair…",
@@ -179,35 +241,13 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=700&quality=85&auto=format&fit=max&s=0ce74b5525126b4a655a92cda2bfc6b5",
-    "w": 700,
+    "credit": "Photograph: Edgar Su/Reuters",
     "h": 560,
-    "credit": "Photograph: Edgar Su/Reuters"
+    "url": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=700&quality=85&auto=format&fit=max&s=0ce74b5525126b4a655a92cda2bfc6b5",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T19:50:45+00:00"
-  },
-  {
-   "id": "e2830407b36aa712",
-   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-   "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-22T19:26:54+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T15:59:07+00:00"
   },
   {
    "id": "490fe1287b08b5ba",
@@ -6641,26 +6681,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/1356a09daee170664f996ae64d02ccc3dd0b8564/407_0_4068_3254/master/4068.jpg?width=700&quality=85&auto=format&fit=max&s=2d2f092b9a736ae43e7f318f9dfbd751",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T20:12:23+00:00"
-  },
-  {
-   "id": "12ff2b1f2a406df8",
-   "title": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
-   "summary": "The US defence secretary praised security cooperation with Colombia as country joins Americas Counter Cartel Coalition.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
-   "date": "2026-11-19T19:53:24+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff3853-1795110995.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff3853-1795110995.jpg?resize=1200%2C800",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:12:23+00:00"

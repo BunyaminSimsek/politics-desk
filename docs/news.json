@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T02:31:43+00:00",
+ "generatedAt": "2026-11-22T02:40:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b00990b1735-1795201291.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b00990b1735-1795201291.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b00990b1735-1795201291.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b00990b1735-1795201291.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T02:31:43+00:00"
@@ -221,10 +221,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795313120.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795313120.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795313120.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795313120.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T02:31:43+00:00"
@@ -434,6 +434,26 @@
    "addedAt": "2026-11-21T22:13:37+00:00"
   },
   {
+   "id": "dbbc023a3aaa37f3",
+   "title": "Q&A: Ask us anything about the Ontario Liberal leadership race",
+   "summary": "Join Queen's Park reporter Rob Ferguson and business columnist Adam Radwanski in the comments for a live Q&A on Ontario's next Liberal leader.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/q-a-ask-us-anything-about-the-ontario-liberal-leadership-race/article_4a7fbea0-683c-449b-9a35-70d6ea7c24e4.html",
+   "date": "2026-11-21T21:55:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/d9/1d911e31-5419-4552-9a27-72cf80edc1e4/6aff2e89daf10.image.webp?crop=1476%2C775%2C0%2C104&order=crop%2Cresize&resize=1200%2C",
+    "w": 1200,
+    "h": 630,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/d9/1d911e31-5419-4552-9a27-72cf80edc1e4/6aff2e89daf10.image.webp?crop=1476%2C775%2C0%2C104&order=crop%2Cresize&resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T02:40:53+00:00"
+  },
+  {
    "id": "8139436f722c5b5b",
    "title": "Ontario Liberals bet on Navdeep Bains to revive party fortunes",
    "summary": "Third Ontario Liberal leader in six years without a seat in the legislature faces Doug Ford's Progressive Conservatives.",
@@ -460,7 +480,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1679,7 +1699,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2892,7 +2912,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5104,7 +5124,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8093,26 +8113,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T03:19:34+00:00"
-  },
-  {
-   "id": "8d98eca7b4f90408",
-   "title": "One Nation’s general manager takes leave amid speculation he will be sidelined after leaks and vetting scandals",
-   "summary": "Exclusive: Kelvin Morton was hired in February in appointment heralded as turning point for professionalisation of party Get our daily political email , free app or daily news podcast One Nation’s general manager, Kelvin Morton, has taken leave amid…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/19/one-nation-general-manager-takes-leave-amid-sidelining-speculation-politics-ntwnfb",
-   "date": "2026-11-19T02:36:37+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Nine News",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fc7bad15212bc92a35ac3e130045daf1a4822d57/163_0_1218_974/master/1218.jpg?width=700&quality=85&auto=format&fit=max&s=faa15b6e1d4cec6be89bb8fd6d8598f7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T02:43:07+00:00"
   }
  ]
 }

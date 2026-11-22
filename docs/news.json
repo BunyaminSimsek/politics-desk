@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T22:00:35+00:00",
+ "generatedAt": "2026-11-22T22:09:43+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -199,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/92374d04a6b87ec2995da31768a8015be7e26a0b/313_0_2620_2096/master/2620.jpg?width=700&quality=85&auto=format&fit=max&s=ca0b9a525d2c15606ae2a9f3afdcedb9",
-    "w": 700,
+    "credit": "Photograph: Murad Sezer/Reuters",
     "h": 560,
-    "credit": "Photograph: Murad Sezer/Reuters"
+    "url": "https://i.guim.co.uk/img/media/92374d04a6b87ec2995da31768a8015be7e26a0b/313_0_2620_2096/master/2620.jpg?width=700&quality=85&auto=format&fit=max&s=ca0b9a525d2c15606ae2a9f3afdcedb9",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T22:00:35+00:00"
@@ -531,9 +531,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/e07000a3-ac0f-406e-b916-ad08a7109618,1795366826527/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/e07000a3-ac0f-406e-b916-ad08a7109618,1795366826527/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-22T18:08:20+00:00"
@@ -552,9 +552,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/4f23d387-cf07-435c-b2a9-640fc1703981,1795369895171/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/4f23d387-cf07-435c-b2a9-640fc1703981,1795369895171/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-22T18:08:20+00:00"
@@ -6399,48 +6399,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T22:32:51+00:00"
-  },
-  {
-   "id": "dfeae552472ea0af",
-   "title": "Donald Trump issues posthumous pardon to MLB ‘superstar and legend’ Pete Rose",
-   "summary": "Rose pleaded guilty to tax evasion in 1990 Player also banned from baseball over bets Donald Trump says he has posthumously pardoned Pete Rose more than two years after the baseball star’s death and a year after he was reinstated by Major League Baseball…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/19/donald-trump-issues-posthumous-pardon-to-mlb-superstar-and-legend-pete-rose",
-   "date": "2026-11-19T22:09:12+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Gary Gershoff/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/bc807c70dd4d2e930281e76a9ea17e044e5f63f2/409_0_3983_3185/master/3983.jpg?width=700&quality=85&auto=format&fit=max&s=5c91b64bedef589c9494569eceda8280",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T22:23:28+00:00"
-  },
-  {
-   "id": "3283d752c3acfd11",
-   "title": "Decision to stop work on banning thermal coal exports was political: ECCC officials",
-   "summary": "OTTAWA - The decision to stop Environment Canada's work on banning exports of thermal coal came down from the political level, department officials told MPs Thursday.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/decision-to-stop-work-on-banning-thermal-coal-exports-was-political-eccc-officials/article_b573fedb-d96f-59ec-a9ee-bbc486238c37.html",
-   "date": "2026-11-19T22:03:25+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 841,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/9e/29e65a0c-6dd0-5b5d-8681-5ac4efa71653/6aff729032d0a.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/9e/29e65a0c-6dd0-5b5d-8681-5ac4efa71653/6aff729032d0a.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T22:14:14+00:00"
   }
  ]
 }

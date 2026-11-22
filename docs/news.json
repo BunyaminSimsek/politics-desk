@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T10:55:09+00:00",
+ "generatedAt": "2026-11-22T11:04:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -167,12 +167,12 @@
  "items": [
   {
    "id": "db8b49c438173e53",
-   "title": "Cop31 live: final session under way at divided climate summit as chance of deal hangs in the balance",
+   "title": "Cop31 live: EU rejects deal as longest climate summit ever faces collapse",
    "summary": "Another version of the draft text has just been published and negotiators have been called in for the final session Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout Mohamed Adow, director of Power Shift…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-22T10:54:27+00:00",
-   "topic": "mideast",
+   "date": "2026-11-22T11:02:36+00:00",
+   "topic": "europe",
    "region": "world",
    "tags": [
     "climate"
@@ -7500,46 +7500,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:27:43+00:00"
-  },
-  {
-   "id": "a16f73d049f62b69",
-   "title": "Measles has come raging back in the US. Robert F Kennedy Jr should be impeached | Judith Levine",
-   "summary": "He is responsible for the health of the American people. On his watch, thousands have become seriously ill At least 11 Americans have died of measles since January 2025 – the month before Robert F Kennedy Jr became secretary of Health and Human Services.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/19/measles-robert-f-kennedy-jr-impeach",
-   "date": "2026-11-19T11:00:25+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kevin Lamarque/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d94e7bf8f4d929fc556ccebf5615ab20c5d1e346/265_0_5417_4335/master/5417.jpg?width=700&quality=85&auto=format&fit=max&s=92a5672843a0c7ceaf7bb010e4cb21ec",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:09:23+00:00"
-  },
-  {
-   "id": "533d11fe1a65249d",
-   "title": "The Northlander train is back — and scheduled to start in December. Here's what riders need to know",
-   "summary": "The first ride is scheduled for Dec. 10 and comes some 14 years after the rail service was eliminated.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/the-northlander-train-is-back-and-scheduled-to-start-in-december-here-s-what-riders-need-to-know/article_a17324d9-5fe7-4ec5-8bd3-1a809240675a.html",
-   "date": "2026-11-19T11:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/7b/27b04ee4-4999-55c4-a633-42f4f769f844/6afded0adae04.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/7b/27b04ee4-4999-55c4-a633-42f4f769f844/6afded0adae04.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:09:23+00:00"
   }
  ]
 }

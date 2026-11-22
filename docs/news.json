@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T20:27:49+00:00",
+ "generatedAt": "2026-11-22T20:36:51+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 10
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "83c8a30ff39af264",
-   "title": "Australian politics live: small business carveout in digital duty of care; countdown to pass key legislation begins",
-   "summary": "Get our breaking news email , free app or daily news podcast Anthony Albanese returns from a series of overseas summits to crunch negotiations on multiple proposed changes as his popularity takes a further nosedive, as Australian Associated Press reports.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "date": "2026-11-22T20:00:04+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Darren England/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/137309f86d6d9310dcac2f083391023259be0594/1096_0_5360_4288/master/5360.jpg?width=700&quality=85&auto=format&fit=max&s=2fe4349ca74bebbeafe0da5329a3dbf2",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T19:59:55+00:00"
-  },
-  {
    "id": "e2830407b36aa712",
    "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
    "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-22T19:52:50+00:00",
+   "date": "2026-11-22T20:28:09+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [
@@ -206,6 +186,48 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T15:59:07+00:00"
+  },
+  {
+   "id": "83c8a30ff39af264",
+   "title": "Australian politics live: small business carveout in digital duty of care; countdown to pass key legislation begins",
+   "summary": "Get our breaking news email , free app or daily news podcast ‘Pretty extraordinary’: Liberals blast Cop negotiations The Liberals say it’s quite extraordinary the government put its hand up to co-host the UN climate summit in Turkey and failed to secure an…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+   "date": "2026-11-22T20:23:58+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Darren England/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/137309f86d6d9310dcac2f083391023259be0594/1096_0_5360_4288/master/5360.jpg?width=700&quality=85&auto=format&fit=max&s=2fe4349ca74bebbeafe0da5329a3dbf2",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T19:59:55+00:00"
+  },
+  {
+   "id": "fb61cc4234e2e4e6",
+   "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+   "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+   "date": "2026-11-22T20:23:36+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Edgar Su/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=700&quality=85&auto=format&fit=max&s=0ce74b5525126b4a655a92cda2bfc6b5",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T19:50:45+00:00"
   },
   {
    "id": "7020b5a3700c3e2c",
@@ -226,28 +248,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T19:59:55+00:00"
-  },
-  {
-   "id": "fb61cc4234e2e4e6",
-   "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-   "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-   "date": "2026-11-22T19:34:59+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Edgar Su/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=700&quality=85&auto=format&fit=max&s=0ce74b5525126b4a655a92cda2bfc6b5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T19:50:45+00:00"
   },
   {
    "id": "490fe1287b08b5ba",
@@ -314,21 +314,21 @@
   {
    "id": "8eecf8eba2334227",
    "title": "What's next after no deal at COP31 climate talks?",
-   "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+   "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-22T18:57:24+00:00",
-   "topic": "turkey",
+   "topic": "europe",
    "region": "world",
    "tags": [
     "climate"
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
+    "w": 1200
    },
    "breaking": true,
    "addedAt": "2026-11-22T19:03:59+00:00"
@@ -6562,26 +6562,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T21:08:40+00:00"
-  },
-  {
-   "id": "bedc28ad0b09ab9c",
-   "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-   "summary": "The resolution was defeated 51-48. Three Republicans broke rank, voting for the measure.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
-   "date": "2026-11-19T20:30:54+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T101104Z_1871363908_RC2QGNAAWSCL_RTRMADP_3_YEAR-END-2026-PHOTOS-BEST-1795119785.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T101104Z_1871363908_RC2QGNAAWSCL_RTRMADP_3_YEAR-END-2026-PHOTOS-BEST-1795119785.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T20:49:55+00:00"
   }
  ]
 }

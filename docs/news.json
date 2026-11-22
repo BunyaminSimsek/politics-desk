@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T13:40:06+00:00",
+ "generatedAt": "2026-11-22T13:49:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "Global News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -188,6 +188,26 @@
    "addedAt": "2026-11-22T06:11:10+00:00"
   },
   {
+   "id": "0ce79e9e9d880d64",
+   "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+   "summary": "UN patron Lewis Pugh saw ships ablaze and fighter jets overhead during three-day swim as Iran conflict continues A British endurance swimmer has completed a three-day swim through the strait of Hormuz to highlight the environmental cost of the Iran war.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+   "date": "2026-11-22T13:36:01+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e6a395e17ba14aa21ecea678066783a153abb5d1/316_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=372b847909a417a76014f4c56e279b57",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lewis Pugh Foundation/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T13:49:18+00:00"
+  },
+  {
    "id": "abce69213c3dc8e6",
    "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
    "summary": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
@@ -199,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A1199-copy-1795348763.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A1199-copy-1795348763.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A1199-copy-1795348763.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A1199-copy-1795348763.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T13:40:06+00:00"
@@ -750,6 +770,25 @@
    "addedAt": "2026-11-22T09:23:11+00:00"
   },
   {
+   "id": "42f03829e07bc55d",
+   "title": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
+   "summary": "Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss",
+   "date": "2026-11-22T09:00:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795104008103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T13:49:18+00:00"
+  },
+  {
    "id": "4cf483bac6d559fa",
    "title": "Why Somalia’s president turned against his former ally, the UAE",
    "summary": "Behind Somalia's break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
@@ -1210,7 +1249,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2429,7 +2468,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3642,7 +3681,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5854,7 +5893,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

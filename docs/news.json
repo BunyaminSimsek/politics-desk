@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T21:51:03+00:00",
+ "generatedAt": "2026-11-22T22:00:35+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "date": "2026-11-22T21:37:11+00:00",
+   "date": "2026-11-22T21:51:23+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [],
@@ -184,6 +184,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T19:59:55+00:00"
+  },
+  {
+   "id": "5ef7582c1147383f",
+   "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the failure to say the f-word is not his alone",
+   "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point After delivering a major speech to the UN climate talks in Turkey last week, the Australian prime…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
+   "date": "2026-11-22T21:46:40+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/92374d04a6b87ec2995da31768a8015be7e26a0b/313_0_2620_2096/master/2620.jpg?width=700&quality=85&auto=format&fit=max&s=ca0b9a525d2c15606ae2a9f3afdcedb9",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Murad Sezer/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T22:00:35+00:00"
   },
   {
    "id": "969b3e367a9a8e12",
@@ -219,10 +241,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6acf49d4178a-1791969748.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6acf49d4178a-1791969748.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6acf49d4178a-1791969748.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6acf49d4178a-1791969748.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T21:51:03+00:00"
@@ -1337,9 +1359,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795383594380/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795383594380/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-22T13:49:18+00:00"
@@ -1825,7 +1847,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3044,7 +3066,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4257,7 +4279,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6416,26 +6438,6 @@
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/9e/29e65a0c-6dd0-5b5d-8681-5ac4efa71653/6aff729032d0a.image.jpg?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/9e/29e65a0c-6dd0-5b5d-8681-5ac4efa71653/6aff729032d0a.image.jpg?resize=1200%2C",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T22:14:14+00:00"
-  },
-  {
-   "id": "4447f5511cca0269",
-   "title": "Appeals court rejects Democrat LaMonica McIver’s bid to toss charges over ICE protest",
-   "summary": "New Jersey congresswoman, charged with interfering with immigration arrest, set to face trial over May 2025 incident An appeals court decided on Thursday that the Democratic New Jersey representative LaMonica McIver will continue to face charges related to a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/19/lamonica-mciver-ice-delaney-hall",
-   "date": "2026-11-19T21:57:39+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Angelina Katsanis/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/1931e15dccc2840631f2099770407cfd0fa619a7/327_0_3346_2675/master/3346.jpg?width=700&quality=85&auto=format&fit=max&s=22bd11a6aa9b927193f18c209fe203db",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T22:14:14+00:00"

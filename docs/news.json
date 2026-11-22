@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T06:02:02+00:00",
+ "generatedAt": "2026-11-22T06:11:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -65,7 +65,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "Al Jazeera",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "db8b49c438173e53",
+   "title": "Cop31 live: A new draft deal on the table as talks go into final hours",
+   "summary": "A third version of the draft text was published overnight, and negotiators have now been called in for what organisers say will be the final plenary Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "date": "2026-11-22T06:06:33+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b3af68f0e62aec37feb23f801aa2b9118c97630e/463_0_4633_3707/master/4633.jpg?width=700&quality=85&auto=format&fit=max&s=d83854f7ce4346a1fecbf9d49c27be23",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Adem Kutucu/Anadolu/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T06:11:10+00:00"
+  },
+  {
    "id": "76d3c6778770d905",
    "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
    "summary": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
@@ -179,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2012/12/201212151725297734_20.jpeg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2012/12/201212151725297734_20.jpeg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2012/12/201212151725297734_20.jpeg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2012/12/201212151725297734_20.jpeg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T06:02:02+00:00"
@@ -544,7 +564,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1763,7 +1783,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2976,7 +2996,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5188,7 +5208,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7866,26 +7886,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T07:10:01+00:00"
-  },
-  {
-   "id": "a0f1d5cca4efaa4b",
-   "title": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
-   "summary": "The three leaders have divergent geopolitical goals and visions for the world order.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
-   "date": "2026-11-19T06:07:05+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2025-02-08T125019Z_845525369_RC2AQCACANAG_RTRMADP_3_UKRAINE-CRISIS-YALTA-1794929324.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2025-02-08T125019Z_845525369_RC2AQCACANAG_RTRMADP_3_UKRAINE-CRISIS-YALTA-1794929324.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T06:24:05+00:00"
   }
  ]
 }

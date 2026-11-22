@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T17:03:16+00:00",
+ "generatedAt": "2026-11-22T17:12:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "e2830407b36aa712",
+   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+   "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T17:12:01+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T15:59:07+00:00"
+  },
+  {
    "id": "969b3e367a9a8e12",
    "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
    "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia An explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s…",
@@ -179,10 +201,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=700&quality=85&auto=format&fit=max&s=389050a974b0973f247fd793512e2024",
-    "w": 700,
+    "credit": "Photograph: 2026 Planet Labs PBC/Reuters",
     "h": 560,
-    "credit": "Photograph: 2026 Planet Labs PBC/Reuters"
+    "url": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=700&quality=85&auto=format&fit=max&s=389050a974b0973f247fd793512e2024",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T17:03:16+00:00"
@@ -231,7 +253,7 @@
   {
    "id": "a13ce2be8e707384",
    "title": "Cop31 climate talks break down as key deal rejected",
-   "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what they called…",
+   "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels The EU, the UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate, which…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
    "date": "2026-11-22T16:14:46+00:00",
@@ -269,28 +291,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T16:35:32+00:00"
-  },
-  {
-   "id": "e2830407b36aa712",
-   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-   "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-22T16:05:25+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T15:59:07+00:00"
   },
   {
    "id": "d4bb76db92bf4198",
@@ -1436,7 +1436,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2655,7 +2655,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3868,7 +3868,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6080,7 +6080,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6980,87 +6980,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T16:00:15+00:00"
-  },
-  {
-   "id": "38e3030e7f0cdbf3",
-   "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
-   "summary": "US president appeared to doze off while Chinese leader made speech, but White House insisted he was awake Donald Trump was, again, accused of falling asleep during a televised event, this time during the speech of the Chinese president, Xi Jinping, at the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
-   "date": "2026-11-19T17:12:11+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mandel Ngan/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9a7a08432aefc55cf68fcacd78775e012efb2000/480_0_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=ef44d319955edcae3a41bbc66425c544",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T17:34:16+00:00"
-  },
-  {
-   "id": "f28b5387f9a4cc58",
-   "title": "UN warns against misuse of security laws as UK weighs Palestine Action ban",
-   "summary": "Human rights committee publishes guidance on freedom of association, which criticises vague laws targeting ‘extremism’ The UN human rights committee has warned against the misuse of counter-terrorism and national security legislation as the UK’s highest court…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban",
-   "date": "2026-11-19T17:11:11+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Toby Shepheard/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9f4d93b1adf994df308ddfcb361659b6251a1fe9/938_0_4671_3739/master/4671.jpg?width=700&quality=85&auto=format&fit=max&s=0d7cbc7f213c5919609e2ec8e889cb56",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T13:57:52+00:00"
-  },
-  {
-   "id": "8ee15ff966f462d3",
-   "title": "Liberals won't pull advance requests out of MAID legislation for separate vote: minister",
-   "summary": "The Liberal government will not pull advance directives out of its update to medically assisted dying legislation so MPs can vote on the measure separately, Justice Minister Sean Fraser told a committee of MPs on Thursday.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/sean-fraser-maid-advance-requests-9.7428208?cmp=rss",
-   "date": "2026-11-19T17:08:37+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/89559731-1d56-438c-8917-efc8e894708e,1795104742715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C450%2C8640%2C4860%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T18:29:22+00:00"
-  },
-  {
-   "id": "f5974850414e0694",
-   "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-   "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T17:03:23+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T20:18:34+00:00"
   }
  ]
 }

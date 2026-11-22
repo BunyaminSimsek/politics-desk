@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T17:21:25+00:00",
+ "generatedAt": "2026-11-22T17:31:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-22T15:59:07+00:00"
@@ -201,9 +201,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/b8ccf557-7b6b-4ab6-bef7-d49a4c07c3e8,1795367412925/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C190%2C3639%2C2046%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/b8ccf557-7b6b-4ab6-bef7-d49a4c07c3e8,1795367412925/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C190%2C3639%2C2046%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-22T17:21:25+00:00"
@@ -1017,6 +1017,46 @@
    "addedAt": "2026-11-22T13:49:18+00:00"
   },
   {
+   "id": "ab4666aaaef765b7",
+   "title": "WhatsApp is a 'lifeline' for refugees. Advocates fear it could be severed in fight over federal bill",
+   "summary": "Meta said this week that Bill C-22 could force it to \"consider\" withdrawing encrypted services like WhatsApp from Canada.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/canada/lawful-access-bill-whatsapp-newcomers-9.7429493?cmp=rss",
+   "date": "2026-11-22T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/505c422b-f7dc-42ba-8f08-0ae5b37f055a,1795046759459/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C256%2C7849%2C4415%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T17:31:04+00:00"
+  },
+  {
+   "id": "947f0e2b14a1627a",
+   "title": "Quebecor CEO defends Telus bid, cites falling wireless prices and Canada's sovereignty",
+   "summary": "Quebecor CEO Pierre Karl Péladeau is defending his company's $31-billion bid to buy Telus amid concerns over competition in Canada's telecom sector, arguing the cost of wireless plans is dropping and non-Canadian companies are trying to expand.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/pierre-karl-peladeau-quebecor-telus-bid-9.7431320?cmp=rss",
+   "date": "2026-11-22T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/026b960f-a838-446c-bc5b-544c5b612d8f,1795281794767/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C354%2C6500%2C3656%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T17:31:04+00:00"
+  },
+  {
    "id": "4cf483bac6d559fa",
    "title": "Why Somalia’s president turned against his former ally, the UAE",
    "summary": "Behind Somalia's break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
@@ -1457,7 +1497,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2676,7 +2716,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3889,7 +3929,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6101,7 +6141,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6901,46 +6941,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T15:31:30+00:00"
-  },
-  {
-   "id": "74f73557d62f47a2",
-   "title": "Is Europe now in the shadow of a Trump, Putin and Xi alliance? – podcast",
-   "summary": "Andy Burnham is meeting western leaders in Berlin and Brussels this week, to discuss Ukraine and closer ties to the EU. Meanwhile, Donald Trump, Vladimir Putin and Xi Jinping have met at the Apec summit in China.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
-   "date": "2026-11-19T17:23:36+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Greg Baker/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3474c8032549af7447dd4759a18eff0069ccaf84/323_0_3599_2880/master/3599.jpg?width=700&quality=85&auto=format&fit=max&s=b5415f0c2f2c7a7aca17ffc2a0b53901",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T17:34:16+00:00"
-  },
-  {
-   "id": "53599df9cd5d5c7e",
-   "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
-   "summary": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T17:23:29+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f353/live/34533260-e445-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f353/live/34533260-e445-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T17:43:23+00:00"
   }
  ]
 }

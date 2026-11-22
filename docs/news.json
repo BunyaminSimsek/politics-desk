@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T20:18:38+00:00",
+ "generatedAt": "2026-11-22T20:27:49+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -325,10 +325,10 @@
    ],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg"
    },
    "breaking": true,
    "addedAt": "2026-11-22T19:03:59+00:00"
@@ -6582,48 +6582,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:49:55+00:00"
-  },
-  {
-   "id": "a572556ccda76fb3",
-   "title": "What does the Myanmar genocide ruling mean for the Rohingya?",
-   "summary": "Rohingya refugees in Bangladesh cheered an International Court of Justice finding that Myanmar committed genocide.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/what-does-the-myanmar-genocide-ruling-mean-for-the-rohingya?traffic_source=rss",
-   "date": "2026-11-19T20:26:09+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795119930.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795119930.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T20:49:55+00:00"
-  },
-  {
-   "id": "84d7ad1fe702e707",
-   "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
-   "summary": "Measure fails 48-51 with GOP members again defending war that played a role in costing them midterm elections The Senate on Thursday rejected a war powers resolution aimed at forcing Donald Trump to halt fighting with Iran, with Republicans once again…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
-   "date": "2026-11-19T20:24:09+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Majid Saeedi",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e9cf75dcb88b9e08a70020610023fdba0e0a45c4/671_0_6707_5366/master/6707.jpg?width=700&quality=85&auto=format&fit=max&s=4a426ca62f245b01ddb8028a93f6d8ba",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T20:40:43+00:00"
   }
  ]
 }

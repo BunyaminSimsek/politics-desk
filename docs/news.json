@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T21:32:19+00:00",
+ "generatedAt": "2026-11-22T21:41:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -149,7 +149,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/africa/rss",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Conversation",
@@ -166,21 +166,43 @@
  ],
  "items": [
   {
+   "id": "969b3e367a9a8e12",
+   "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+   "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+   "date": "2026-11-22T21:33:44+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: 2026 Planet Labs PBC/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=700&quality=85&auto=format&fit=max&s=389050a974b0973f247fd793512e2024",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T17:03:16+00:00"
+  },
+  {
    "id": "83c8a30ff39af264",
    "title": "Australian politics live: Labor to extend PBS medicine freeze to 2030; Bowen ‘failed’ on Cop, Hume says",
    "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "date": "2026-11-22T21:28:30+00:00",
+   "date": "2026-11-22T21:24:54+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/807a7655d731bfbb7ed51cf1b1cc24c153a66ea9/503_0_5014_4013/master/5014.jpg?width=700&quality=85&auto=format&fit=max&s=7d67ce0f57dee2238c138420fc4a3748",
-    "w": 700,
+    "credit": "Photograph: Lukas Coch/AAP",
     "h": 560,
-    "credit": "Photograph: Lukas Coch/AAP"
+    "url": "https://i.guim.co.uk/img/media/807a7655d731bfbb7ed51cf1b1cc24c153a66ea9/503_0_5014_4013/master/5014.jpg?width=700&quality=85&auto=format&fit=max&s=7d67ce0f57dee2238c138420fc4a3748",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T19:59:55+00:00"
@@ -197,13 +219,33 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/46/546c6bf7-bb9d-563f-be0b-0310233a0532/6b03580e8475b.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/46/546c6bf7-bb9d-563f-be0b-0310233a0532/6b03580e8475b.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T21:32:19+00:00"
+  },
+  {
+   "id": "ee4453aeff39ae58",
+   "title": "New Ontario Liberal boss girds for attack ad blitz from Premier Doug Ford's PCs",
+   "summary": "Navdeep Bains also faces internal pressure to win a legislative seat after a narrow leadership win over MPP Lee Fairclough.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/new-ontario-liberal-boss-girds-for-attack-ad-blitz-from-premier-doug-fords-pcs/article_b3173033-cc92-4e30-95ae-5afac26b0173.html",
+   "date": "2026-11-22T21:00:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/46/546c6bf7-bb9d-563f-be0b-0310233a0532/6b03580e8475b.image.jpg?resize=1200%2C",
     "w": 1200,
     "h": 800,
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/46/546c6bf7-bb9d-563f-be0b-0310233a0532/6b03580e8475b.image.jpg?resize=640%2C"
    },
    "breaking": false,
-   "addedAt": "2026-11-22T21:32:19+00:00"
+   "addedAt": "2026-11-22T21:41:53+00:00"
   },
   {
    "id": "16bb4b229baf69d1",
@@ -495,28 +537,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T17:21:25+00:00"
-  },
-  {
-   "id": "969b3e367a9a8e12",
-   "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
-   "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia An explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-   "date": "2026-11-22T16:55:49+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: 2026 Planet Labs PBC/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=700&quality=85&auto=format&fit=max&s=389050a974b0973f247fd793512e2024",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T17:03:16+00:00"
   },
   {
    "id": "db8b49c438173e53",
@@ -1318,9 +1338,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/505c422b-f7dc-42ba-8f08-0ae5b37f055a,1795046759459/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C256%2C7849%2C4415%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/505c422b-f7dc-42ba-8f08-0ae5b37f055a,1795046759459/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C256%2C7849%2C4415%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-22T17:31:04+00:00"
@@ -1337,9 +1357,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/026b960f-a838-446c-bc5b-544c5b612d8f,1795281794767/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C354%2C6500%2C3656%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/026b960f-a838-446c-bc5b-544c5b612d8f,1795281794767/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C354%2C6500%2C3656%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-22T17:31:04+00:00"
@@ -1785,7 +1805,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3004,7 +3024,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4217,7 +4237,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

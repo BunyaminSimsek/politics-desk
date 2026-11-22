@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T23:04:52+00:00",
+ "generatedAt": "2026-11-22T23:13:52+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "The Guardian",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a1733c8d20d91e90b3db6172e139927f1099faab/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=6d4fa4b3f293f3c1cf15958147c44065",
-    "w": 700,
+    "credit": "Photograph: Mick Tsikas/AAP",
     "h": 560,
-    "credit": "Photograph: Mick Tsikas/AAP"
+    "url": "https://i.guim.co.uk/img/media/a1733c8d20d91e90b3db6172e139927f1099faab/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=6d4fa4b3f293f3c1cf15958147c44065",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T19:59:55+00:00"
@@ -1867,7 +1867,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3086,7 +3086,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4299,7 +4299,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6337,28 +6337,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T23:58:04+00:00"
-  },
-  {
-   "id": "70ca065fe6f88077",
-   "title": "Liberals' 2026 budget passes in House of Commons",
-   "summary": "OTTAWA - Members of Parliament have voted to pass the 2026 federal budget in the House of Commons.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/liberals-expected-to-face-house-of-commons-vote-on-budget-2026-today/article_21935b2f-5ff9-5445-b81d-39920771cc26.html",
-   "date": "2026-11-19T23:05:05+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/f4/9f45e875-6118-5294-8cbe-973b887234a9/6aff127942bf6.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/f4/9f45e875-6118-5294-8cbe-973b887234a9/6aff127942bf6.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T15:31:30+00:00"
   }
  ]
 }

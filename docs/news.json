@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T01:45:36+00:00",
+ "generatedAt": "2026-11-22T01:54:40+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -401,9 +401,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/30690b4b-150c-4b8b-9883-ce3f56442a81,1795278309500/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C8%2C8640%2C4860%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/30690b4b-150c-4b8b-9883-ce3f56442a81,1795278309500/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C8%2C8640%2C4860%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-21T21:45:17+00:00"
@@ -573,6 +573,46 @@
    "addedAt": "2026-11-21T20:50:23+00:00"
   },
   {
+   "id": "e49683193dc837e0",
+   "title": "Alberta's Smith says amendments coming to proposed bike lane legislation",
+   "summary": "EDMONTON - Alberta Premier Danielle Smith said Saturday her government is planning to make changes to its proposed bike lane legislation just two days after it was tabled in the legislature.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/alberta/alberta-s-smith-says-amendments-coming-to-proposed-bike-lane-legislation/article_73d62909-a1ef-5e37-8e6b-3fb5a1a44059.html",
+   "date": "2026-11-21T19:52:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=1200%2C",
+    "w": 1200,
+    "h": 1200,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/custom/image/f84403b8-7d76-11ee-9d02-a72a4951957f.png?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T01:54:40+00:00"
+  },
+  {
+   "id": "e153ee2343bbb11f",
+   "title": "B.C. business groups are praising plans by Conservative government to cut red tape",
+   "summary": "VICTORIA - Various business group are praising plans by Conservative Premier Lorne Doerkson to cut red tape and speed up approvals through the creation of a dedicated cabinet post.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/british-columbia/b-c-business-groups-are-praising-plans-by-conservative-government-to-cut-red-tape/article_2d36e3a4-38e5-5fd6-b018-67175f97dea2.html",
+   "date": "2026-11-21T19:43:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/f8/ef86e6e9-c894-5e5d-b917-86fc6f626f86/6b01f4c11ab4c.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/f8/ef86e6e9-c894-5e5d-b917-86fc6f626f86/6b01f4c11ab4c.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T01:54:40+00:00"
+  },
+  {
    "id": "3977b4ac2205104f",
    "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
    "summary": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’ Get our breaking news email , free app or daily news podcast An Australian beauty company that promotes “clean” ingredients “free from skin…",
@@ -736,6 +776,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T18:04:26+00:00"
+  },
+  {
+   "id": "54ba2a34ca351b8c",
+   "title": "Conservative Premier Doerkson gets ready to tear housing plans: NDP interim leader",
+   "summary": "VICTORIA - British Columbia's official Opposition says the new Conservative cabinet is getting ready to tear down existing housing plans after eliminating the Ministry of Housing and Municipal Affairs as a separate office.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/british-columbia/conservative-premier-doerkson-gets-ready-to-tear-housing-plans-ndp-interim-leader/article_3d427ca8-f849-50a0-85ca-fd41a1ae3873.html",
+   "date": "2026-11-21T17:50:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/cd/6cd3bfe6-939e-527c-a505-de183af469e9/67fecb373c0c7.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 827,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/cd/6cd3bfe6-939e-527c-a505-de183af469e9/67fecb373c0c7.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T01:54:40+00:00"
   },
   {
    "id": "2ea227e17ec6f4b7",
@@ -8029,28 +8091,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T02:15:18+00:00"
-  },
-  {
-   "id": "a84d1d248302c696",
-   "title": "Hegseth unveils new US-Venezuela military deal",
-   "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
-   "date": "2026-11-19T01:48:46+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795052903.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795052903.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T02:05:59+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T13:49:18+00:00",
+ "generatedAt": "2026-11-22T13:58:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/e6a395e17ba14aa21ecea678066783a153abb5d1/316_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=372b847909a417a76014f4c56e279b57",
+    "url": "https://i.guim.co.uk/img/media/7d1fe0b76a02fb1cbed49470fb53746f00e897fd/418_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=b79df6fe29b198316f49cfc75c1f1823",
     "w": 700,
     "h": 560,
-    "credit": "Photograph: Lewis Pugh Foundation/AFP/Getty Images"
+    "credit": "Photograph: Lewis Pugh Foundation/AP"
    },
    "breaking": false,
    "addedAt": "2026-11-22T13:49:18+00:00"
@@ -781,9 +781,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795104008103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795104008103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-22T13:49:18+00:00"
@@ -1249,7 +1249,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1284,7 +1284,7 @@
   {
    "id": "c150fab2fad381d6",
    "title": "From Trudeau cabinet minister to Ontario Liberal leader: Who is Navdeep Bains?",
-   "summary": "The former MP takes the helm of a provincial party that desperately needs a rebuild after losing badly to Premier Doug Ford's Progressive Conservatives in the last three elections.",
+   "summary": "The former MP takes the helm of a provincial party that desperately needs a rebuild.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/from-trudeau-cabinet-minister-to-ontario-liberal-leader-who-is-navdeep-bains/article_a91177ba-f47f-419b-9f7a-ff2b8a173120.html",
    "date": "2026-11-21T21:35:00+00:00",
@@ -2468,7 +2468,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3681,7 +3681,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5893,7 +5893,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7334,66 +7334,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T14:07:09+00:00"
-  },
-  {
-   "id": "eaa2b3bd6dffc774",
-   "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
-   "summary": "The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
-   "date": "2026-11-19T13:54:10+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1795096333.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1795096333.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T14:26:04+00:00"
-  },
-  {
-   "id": "d6d5a75fc790921b",
-   "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
-   "summary": "Judgment finds ‘intent to destroy a substantial part of the Rohingya population’ after case seen as critical test for dealing with most serious of state crimes Myanmar committed genocide against its Rohingya minority during a 2017 military campaign, the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
-   "date": "2026-11-19T13:52:10+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Fred Dufour/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/16e3b91946d9a70788aadd1f8242b43c0244fe94/443_0_2913_2329/master/2913.jpg?width=700&quality=85&auto=format&fit=max&s=18bd1d5044bb0e3cd9ce52df4557f22b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
-  },
-  {
-   "id": "42082cd18cd22833",
-   "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
-   "summary": "Advocates raised concerns about consumer privacy and data-sharing, involving a firm with ties to Israel's military.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss",
-   "date": "2026-11-19T13:49:49+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2014-08-27T000000Z_2093782590_GM1EA8R0WP001_RTRMADP_3_TIM-HORTONS-BURGER-KG-WLD-SHARES-1795085925.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2014-08-27T000000Z_2093782590_GM1EA8R0WP001_RTRMADP_3_TIM-HORTONS-BURGER-KG-WLD-SHARES-1795085925.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T13:57:52+00:00"
   }
  ]
 }

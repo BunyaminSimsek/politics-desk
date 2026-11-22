@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T12:35:58+00:00",
+ "generatedAt": "2026-11-22T12:45:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Another version of the draft text has been published and negotiators have been called in for the final session Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout Mohamed Adow, director of Power Shift…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-22T12:30:19+00:00",
+   "date": "2026-11-22T12:38:53+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -186,6 +186,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T06:11:10+00:00"
+  },
+  {
+   "id": "9537481dc5fc6afc",
+   "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
+   "summary": "Reform deputy leader calls Russian leader ‘a murderous dictator’ after US president appears to endorse him UK politics live – latest updates Reform UK and the Conservatives have distanced themselves from Donald Trump after the US president posted a photo of…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/22/british-right-reform-tory-party-distances-itself-from-trump-putin-friend-post",
+   "date": "2026-11-22T12:36:58+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9d90a7d8b6f21d4c00d9de61f70de2d1a4a80ebf/82_0_4618_3696/master/4618.jpg?width=700&quality=85&auto=format&fit=max&s=dd6a0fbf75ca97d950fd01c74338726d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T12:45:06+00:00"
+  },
+  {
+   "id": "3e2b016a40c954b2",
+   "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
+   "summary": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+   "date": "2026-11-22T12:31:30+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a2215a2cfe4c-1780618658.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a2215a2cfe4c-1780618658.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T12:45:06+00:00"
   },
   {
    "id": "f908da6e29c938c7",
@@ -7282,48 +7322,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T13:01:31+00:00"
-  },
-  {
-   "id": "a2c3574e4f0cbe70",
-   "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
-   "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
-   "date": "2026-11-19T12:40:46+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Eyad Baba/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d94406113e8bb1466134873bf0554edf8a0ac2a7/340_0_3588_2871/master/3588.jpg?width=700&quality=85&auto=format&fit=max&s=4dc4559243f5b830ca95e17c91e4d419",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-18T23:45:21+00:00"
-  },
-  {
-   "id": "cce4eee7a68c5b2b",
-   "title": "Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims",
-   "summary": "Kristine Blanche, named to US health advisory role, offered purported treatments for Epstein-Barr virus and HPV Attorney general Todd Blanche’s wife, Kristine Blanche, who was appointed earlier this year to a US government advisory board on alternative…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
-   "date": "2026-11-19T12:39:20+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tom Williams/CQ-Roll Call, Inc/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/84bb349ef8eb955f382b5b9fd8dd9f42453e5324/0_358_6259_5008/master/6259.jpg?width=700&quality=85&auto=format&fit=max&s=1c47f4c05a0343ccdd785830e1385365",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T12:52:15+00:00"
   }
  ]
 }

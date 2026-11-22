@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T17:12:21+00:00",
+ "generatedAt": "2026-11-22T17:21:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "Global News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-22T17:12:01+00:00",
+   "date": "2026-11-22T17:16:47+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [
@@ -186,6 +186,27 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T15:59:07+00:00"
+  },
+  {
+   "id": "bbab271a29a08286",
+   "title": "COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
+   "summary": "Climate talks collapsed on Sunday at COP31 in Turkey, ending the longest ever UN climate summit with no deal to show for it.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847?cmp=rss",
+   "date": "2026-11-22T17:11:00+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/b8ccf557-7b6b-4ab6-bef7-d49a4c07c3e8,1795367412925/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C190%2C3639%2C2046%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T17:21:25+00:00"
   },
   {
    "id": "969b3e367a9a8e12",
@@ -659,7 +680,7 @@
    "summary": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-   "date": "2026-11-22T12:12:08+00:00",
+   "date": "2026-11-22T12:12:07+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [],
@@ -1436,7 +1457,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2655,7 +2676,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3868,7 +3889,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6080,7 +6101,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6920,66 +6941,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T17:43:23+00:00"
-  },
-  {
-   "id": "726c98fcc0b63f44",
-   "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
-   "summary": "A week after a fizzled impeachment bid, analysts say Hegseth continues to face backlash for his leadership at Pentagon.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
-   "date": "2026-11-19T17:15:30+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afd67b86b20-1794992056.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afd67b86b20-1794992056.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T17:34:16+00:00"
-  },
-  {
-   "id": "f3004053344a2862",
-   "title": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
-   "summary": "Hailed as ‘a rare moment of justice’, judges’ decision sets out a roadmap for assessing the question of intent The international court of justice (ICJ) verdict making Myanmar the first country in history to be found guilty of committing genocide does not just…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel",
-   "date": "2026-11-19T17:14:55+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yassin Abdumonab/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/12a1d2778195e55812e2b14410698d1ff3269a45/107_0_5160_4128/master/5160.jpg?width=700&quality=85&auto=format&fit=max&s=a3cb4fa30958ea89c7f814c427f834e0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T17:34:16+00:00"
-  },
-  {
-   "id": "4dffa5bc2cfc8f13",
-   "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-   "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ China, Russia and the US say they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
-   "date": "2026-11-19T17:13:23+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: White House Office/APAImages/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8a7d32d3197bc67811a5805eb05a308525f47b92/153_59_1632_1306/master/1632.jpg?width=700&quality=85&auto=format&fit=max&s=37ccd4a9b84363c62c43287a1c2046b5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T16:00:15+00:00"
   }
  ]
 }

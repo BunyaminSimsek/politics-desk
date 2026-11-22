@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T15:59:07+00:00",
+ "generatedAt": "2026-11-22T16:08:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "e2830407b36aa712",
+   "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+   "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T16:05:25+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T15:59:07+00:00"
+  },
+  {
    "id": "db8b49c438173e53",
    "title": "Cop31 live: EU and others reject deal as longest climate summit ever faces collapse",
    "summary": "Countries failed to reach consensus on a key deal that did not mention fossil fuels Full report: Cop31 climate talks set to end in deep division as key deal rejected Mohamed Adow, director of Power Shift Africa, has been looking through the text and says…",
@@ -186,28 +208,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T06:11:10+00:00"
-  },
-  {
-   "id": "e2830407b36aa712",
-   "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
-   "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-22T15:50:13+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg",
-    "w": 1200,
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T15:59:07+00:00"
   },
   {
    "id": "d4bb76db92bf4198",
@@ -479,10 +479,10 @@
    ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Abdullah Guclu/Anadolu/Getty Images",
+    "url": "https://i.guim.co.uk/img/media/f4d171fdee03f0450e71d98657eea9f310f36fd9/435_0_3766_3014/master/3766.jpg?width=700&quality=85&auto=format&fit=max&s=522cbdd26a4d444b141a899b5a43071d",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2e9444383cb19d7aedfac136aec519fef28f1ce2/526_182_3885_3108/master/3885.jpg?width=700&quality=85&auto=format&fit=max&s=8252b7d302d4b25707e6eface74ae69e",
-    "w": 700
+    "credit": "Photograph: Yasin Akgül/AFP/Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-22T13:03:23+00:00"
@@ -1375,7 +1375,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2594,7 +2594,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3807,7 +3807,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6019,7 +6019,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7153,48 +7153,6 @@
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/04/f044b9ec-f4ef-5d81-adbf-88cc5544977c/6aff1f5da3e2c.image.jpg?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/04/f044b9ec-f4ef-5d81-adbf-88cc5544977c/6aff1f5da3e2c.image.jpg?resize=1200%2C",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T16:19:09+00:00"
-  },
-  {
-   "id": "8eeed620a2ddf0e7",
-   "title": "Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years",
-   "summary": "Joanne Young, who has waived anonymity, was subjected to years of drugging and rape by former Swindon councillor, who invited other men to assault her When Philip Young served as a Conservative party councillor for Swindon council, his contemporaries viewed…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/19/philip-young-sexual-abuse-spiked-nightcaps-strangers-joanne-young",
-   "date": "2026-11-19T16:00:06+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Composite: Guardian Design/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/960f6f5694611aacc2519336fc8f7778685a17b9/470_330_4130_3305/master/4130.jpg?width=700&quality=85&auto=format&fit=max&s=96cc6f568b860cf302abe232541db3c7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T16:19:09+00:00"
-  },
-  {
-   "id": "d4f3a86a03fa8cd6",
-   "title": "‘It stings to come close’: Louisiana Democrat’s narrow failure to make it 57 Senate seats",
-   "summary": "Jamie Davis falls just short as Democrats across south wonder whether blue wave could have been even bigger Democrats are celebrating after, with Mary Peltola’s victory in Alaska, they have officially secured 56 Senate seats after the midterm elections.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/19/louisiana-senate-seat-democrats-jamie-davis",
-   "date": "2026-11-19T16:00:06+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kathleen Flynn/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/78ffd9fbefd88522a4d14b971cbab660472cd374/302_0_4389_3511/master/4389.jpg?width=700&quality=85&auto=format&fit=max&s=9931ba0fb7d135628450b8c162f15431",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-19T16:19:09+00:00"

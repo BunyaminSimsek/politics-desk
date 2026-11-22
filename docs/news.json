@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T15:31:19+00:00",
+ "generatedAt": "2026-11-22T15:40:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Countries failed to reach consensus on a key deal that did not mention fossil fuels Full report: Cop31 climate talks set to end in deep division as key deal rejected Mohamed Adow, director of Power Shift Africa, has been looking through the text and says…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-22T15:30:29+00:00",
+   "date": "2026-11-22T15:32:36+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=02cd87d09d705f7a50460fa0fe12f59e",
-    "w": 700,
+    "credit": "Photograph: Alaa Badarneh/EPA",
     "h": 560,
-    "credit": "Photograph: Alaa Badarneh/EPA"
+    "url": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=02cd87d09d705f7a50460fa0fe12f59e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T15:31:19+00:00"
@@ -7211,26 +7211,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T16:09:28+00:00"
-  },
-  {
-   "id": "bfad6145e3fb8837",
-   "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
-   "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda It is arguably true, given it was the first such meeting of the leaders of China, Russia and the US, that Thursday’s gathering in Shenzhen deserved the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
-   "date": "2026-11-19T15:35:01+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Win McNamee/Pool Getty Images AsiaPac/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/82a515f04bc247c4248d7219eb825c2d67060618/1173_38_6573_5258/master/6573.jpg?width=700&quality=85&auto=format&fit=max&s=4df309ecc7781e6c8f1542fa405dc57e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T15:40:51+00:00"
   }
  ]
 }

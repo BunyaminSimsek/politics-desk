@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T19:31:58+00:00",
+ "generatedAt": "2026-11-22T19:41:35+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "The Guardian",
@@ -188,6 +188,26 @@
    "addedAt": "2026-11-22T15:59:07+00:00"
   },
   {
+   "id": "490fe1287b08b5ba",
+   "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
+   "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+   "date": "2026-11-22T19:18:29+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/aber-1-1794942045.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/aber-1-1794942045.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T19:41:35+00:00"
+  },
+  {
    "id": "e1de8a9341eea70a",
    "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
    "summary": "Milestone reached Sunday, after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina House Democrats have secured their best general election result in decades, winning at least 258 seats in a midterm election sweep unseen since 1992…",
@@ -201,10 +221,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/5f402191919a3838c9536ca633ae08dfe18991da/530_0_4817_3854/master/4817.jpg?width=700&quality=85&auto=format&fit=max&s=2620a31ff89b69898c1c25b848ecf6cf",
-    "w": 700,
+    "credit": "Photograph: Anna Moneymaker/Getty Images",
     "h": 560,
-    "credit": "Photograph: Anna Moneymaker/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/5f402191919a3838c9536ca633ae08dfe18991da/530_0_4817_3854/master/4817.jpg?width=700&quality=85&auto=format&fit=max&s=2620a31ff89b69898c1c25b848ecf6cf",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T19:31:58+00:00"
@@ -1196,9 +1216,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/505c422b-f7dc-42ba-8f08-0ae5b37f055a,1795046759459/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C256%2C7849%2C4415%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/505c422b-f7dc-42ba-8f08-0ae5b37f055a,1795046759459/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C256%2C7849%2C4415%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-22T17:31:04+00:00"
@@ -1215,9 +1235,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/026b960f-a838-446c-bc5b-544c5b612d8f,1795281794767/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C354%2C6500%2C3656%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/026b960f-a838-446c-bc5b-544c5b612d8f,1795281794767/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C354%2C6500%2C3656%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-22T17:31:04+00:00"
@@ -1663,7 +1683,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2882,7 +2902,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4095,7 +4115,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6307,7 +6327,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6642,67 +6662,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T20:03:06+00:00"
-  },
-  {
-   "id": "7ff62bf3d3252fb3",
-   "title": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
-   "summary": "European leaders meet in Berlin after Trump summit with Putin and Xi. Putin vows to retaliate for Kerch Bridge strikes.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
-   "date": "2026-11-19T19:40:23+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-19T181515Z_1222114708_RC25ROAMOK1I_RTRMADP_3_UKRAINE-CRISIS-GERMANY-1795112208.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-19T181515Z_1222114708_RC25ROAMOK1I_RTRMADP_3_UKRAINE-CRISIS-GERMANY-1795112208.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T19:53:53+00:00"
-  },
-  {
-   "id": "38e47cf5e5fbcb56",
-   "title": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
-   "summary": "Nearly a million Rohingya fled to Bangladesh in 2017, forming one of the world's largest refugee camps near Cox's Bazar.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
-   "date": "2026-11-19T19:33:25+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ss11-1795108375.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ss11-1795108375.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T19:53:53+00:00"
-  },
-  {
-   "id": "b9983076f3fb5e0f",
-   "title": "With Putin in the room, Carney condemns Russia's illegal invasion of Ukraine",
-   "summary": "Prime Minister Mark Carney condemned Russia's war with Ukraine while President Vladimir Putin, the man prosecuting that war, was in the room for leaders' speeches at the APEC summit in China.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/carney-putin-apec-ukraine-9.7428573?cmp=rss",
-   "date": "2026-11-19T19:33:17+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/eacece62-df86-49b8-89be-93c466bf53d0,1795116383312/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C219%2C4206%2C2365%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T19:44:16+00:00"
   }
  ]
 }

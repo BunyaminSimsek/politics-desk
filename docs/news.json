@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T11:40:51+00:00",
+ "generatedAt": "2026-11-22T11:50:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "Another version of the draft text has been published and negotiators have been called in for the final session Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout Mohamed Adow, director of Power Shift…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-22T11:36:31+00:00",
+   "date": "2026-11-22T11:49:22+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -188,12 +188,52 @@
    "addedAt": "2026-11-22T06:11:10+00:00"
   },
   {
+   "id": "6ea93ef6abc3e932",
+   "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
+   "summary": "Foreign secretary says there is clear case to integrate more closely but does not say if he backs talks on possibly rejoining UK politics live – latest updates Closer links with the EU will mean the UK having a say on decisions made by Brussels, Ed Miliband…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
+   "date": "2026-11-22T11:41:49+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/d52885f93bc4024b6c560d78a474ee70d290dc03/673_164_4900_3920/master/4900.jpg?width=700&quality=85&auto=format&fit=max&s=c4f82d08a74371204278f01207f288f8",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Nicolas Tucat/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T11:50:01+00:00"
+  },
+  {
+   "id": "b50fe2c3326321a9",
+   "title": "Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU",
+   "summary": "Former PM who opted for minimal ties with bloc says moves towards membership would dominate government’s time UK politics live – latest updates Theresa May has said she feels “aghast” at Andy Burnham’s plan for potentially rejoining the EU, arguing in a rare…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu",
+   "date": "2026-11-22T11:37:52+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/aa0bf12f49eeebd485fd9555186b69c332c0ab1d/558_45_4628_3703/master/4628.jpg?width=700&quality=85&auto=format&fit=max&s=2f3db3c28d10831fb9091620215cf6fa",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Amer Ghazzal/Shutterstock"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T11:50:01+00:00"
+  },
+  {
    "id": "9925099c67744163",
    "title": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
-   "summary": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU Critics of the youth mobility deal have mainly focused on the idea of an “influx” of European youth…",
+   "summary": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU European Relations Minister Hamish Falconer on Sky this morning criticised the post from earlier this…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
-   "date": "2026-11-22T11:22:34+00:00",
+   "date": "2026-11-22T11:36:07+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -382,10 +422,10 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1f58/live/2ab01bc0-e651-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1f58/live/2ab01bc0-e651-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-22T09:32:20+00:00"
@@ -7444,66 +7484,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T12:14:02+00:00"
-  },
-  {
-   "id": "0f9c66562d6989ce",
-   "title": "Florida pastor found guilty over role in assassination of Haitian president",
-   "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T11:44:57+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 673,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e31d/live/a9425010-e409-11f1-ab35-e1af93fa5cce.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T13:30:03+00:00"
-  },
-  {
-   "id": "b3ec3e30f40da899",
-   "title": "Robert Pattinson to apply for 90,000 more jobs? UK government trolls James Bond actor",
-   "summary": "Westminster joins wave of ‘job-stealing’ memes after the actor’s late success edging out the other contenders to be the new 007 Everybody is trying to get a piece of the Bond action: even the UK government.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/film/2026/nov/19/robert-pattinson-james-bond-uk-government-youth-employment-scheme",
-   "date": "2026-11-19T11:44:55+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Felix Ursell/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f0db2be37d46c2975b22ab3b0be39a031950484a/775_113_5275_4222/master/5275.jpg?width=700&quality=85&auto=format&fit=max&s=9ccdec8693237d818cafb3d172d71e52",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T12:04:32+00:00"
-  },
-  {
-   "id": "ddf29dc290aa4147",
-   "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-   "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T11:43:06+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/14d3/live/332a20b0-e40e-11f1-b37c-b3a71d7200af.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:46:12+00:00"
   }
  ]
 }

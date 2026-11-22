@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T05:52:58+00:00",
+ "generatedAt": "2026-11-22T06:02:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "76d3c6778770d905",
+   "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
+   "summary": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
+   "date": "2026-11-22T05:38:52+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2012/12/201212151725297734_20.jpeg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2012/12/201212151725297734_20.jpeg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T06:02:02+00:00"
+  },
   {
    "id": "b562b9609d14edbc",
    "title": "New draft deal aims to avert collapse of talks at climate summit",
@@ -7864,26 +7886,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T06:24:05+00:00"
-  },
-  {
-   "id": "41281cef2db6c182",
-   "title": "Tulip Siddiq says she is considering legal action against former Bangladesh leader",
-   "summary": "Former minister, who was sentenced to prison in Bangladesh in her absence, says she was victim of ‘malicious prosecution’ The former minister Tulip Siddiq has said she is considering taking legal action against the former interim leader of Bangladesh over…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/19/tulip-siddiq-says-she-is-considering-legal-action-against-former-bangladesh-leader",
-   "date": "2026-11-19T06:00:18+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Peter Nicholls/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8855d537c98024a3980af1a52e6d724b5a59685c/456_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=18dace8f4eead3dd29c762c8270b0a1c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T06:14:59+00:00"
   }
  ]
 }

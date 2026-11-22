@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T00:59:56+00:00",
+ "generatedAt": "2026-11-22T01:09:08+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "eb9bbb926ee76103",
+   "title": "Clashes erupt across France in another night of protest",
+   "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+   "date": "2026-11-22T00:37:32+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795307837.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795307837.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T01:09:08+00:00"
+  },
+  {
+   "id": "1a833297790b9635",
+   "title": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
+   "summary": "Controversial figure frequently took positions against drug use, abortion and homosexuality, but in later years supported legislation expunging homosexual convictions Get our daily political email , free app or daily news podcast The former New South Wales MP…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
+   "date": "2026-11-22T00:26:35+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/4d437bc81d1032afb812de5027b40b3c646fa358/288_0_3708_2967/master/3708.jpg?width=700&quality=85&auto=format&fit=max&s=47d5162af25d320a7024edee7be1fdb0",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Dan Himbrechts/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T01:09:08+00:00"
+  },
+  {
    "id": "f03a82a7ba205934",
    "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
    "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
@@ -189,16 +229,14 @@
   },
   {
    "id": "3198fd18632ebc90",
-   "title": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
-   "summary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.",
+   "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+   "summary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
    "date": "2026-11-21T23:59:03+00:00",
    "topic": "mideast",
    "region": "world",
-   "tags": [
-    "defence"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
     "h": 800,
@@ -358,7 +396,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1515,7 +1553,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2750,7 +2788,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4962,7 +5000,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8013,26 +8051,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T02:05:59+00:00"
-  },
-  {
-   "id": "dc8971aae4da6e37",
-   "title": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans",
-   "summary": "Musk, who aligned with Trump and was frequent White House guest, says he feels ‘pretty foolish’ about record midterm spending Elon Musk denied being Maga on Wednesday, despite aligning himself intensely with Donald Trump’s Make America Great Again movement…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
-   "date": "2026-11-19T01:07:51+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andrew Harnik/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0d10d08459c8b09152e92f3ebf55f9712a98d380/2128_149_4811_3852/master/4811.jpg?width=700&quality=85&auto=format&fit=max&s=e88e037c98e9ffad23113373fa4fa59d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T01:18:51+00:00"
   }
  ]
 }

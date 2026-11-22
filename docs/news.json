@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T23:50:30+00:00",
+ "generatedAt": "2026-11-22T23:59:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -217,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/73/173e4f30-ed7a-56e4-99cd-955f429b5c21/6b03683d38bac.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/73/173e4f30-ed7a-56e4-99cd-955f429b5c21/6b03683d38bac.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/73/173e4f30-ed7a-56e4-99cd-955f429b5c21/6b03683d38bac.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/73/173e4f30-ed7a-56e4-99cd-955f429b5c21/6b03683d38bac.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T23:50:30+00:00"
@@ -286,6 +286,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T22:00:35+00:00"
+  },
+  {
+   "id": "c259c2c49eb9152f",
+   "title": "U.S. trade chief sees progress in Canada talks, raises China concerns",
+   "summary": "OTTAWA - U.S. Trade Representative Jamieson Greer says Washington and Ottawa are making progress toward a trade agreement, but Canada's growing trade relationship with China remains a concern.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/u-s-trade-chief-sees-progress-in-canada-talks-raises-china-concerns/article_b9b3c8ce-0a04-5597-a99a-70dba1f8d86a.html",
+   "date": "2026-11-22T21:46:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/03/60333da3-da66-5014-94ab-b7af5e729ff7/6abed910dc594.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/03/60333da3-da66-5014-94ab-b7af5e729ff7/6abed910dc594.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T23:59:38+00:00"
   },
   {
    "id": "969b3e367a9a8e12",
@@ -6333,50 +6353,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T00:16:20+00:00"
-  },
-  {
-   "id": "5c16bf2a998fb398",
-   "title": "Iran war live: Saudi coalition says repels Houthi missile, drone attacks",
-   "summary": "Saudi-led coalition forces say they have intercepted several Houthi missiles and drones headed for Riyadh and the south.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-   "date": "2026-11-19T23:58:40+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aff72954cc3-1795125909.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aff72954cc3-1795125909.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T00:07:11+00:00"
-  },
-  {
-   "id": "56802933dbed9181",
-   "title": "‘Multiple trade issues’ outstanding in Canada, U.S. trade talks: Sources",
-   "summary": "According to sources present at a meeting with Prime Minister Mark Carney and Donald Trump in China, the biggest trade issue is the 25 per cent U.S. tariff on Canadian automobiles.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12158821/canada-us-trade-talks-outstanding-issues/",
-   "date": "2026-11-19T23:55:40+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Trump-e1795132338773.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Trump-e1795132338773.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T23:58:04+00:00"
   }
  ]
 }

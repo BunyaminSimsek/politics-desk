@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T11:04:20+00:00",
+ "generatedAt": "2026-11-22T11:13:28+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Another version of the draft text has just been published and negotiators have been called in for the final session Full report: Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout Mohamed Adow, director of Power Shift…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-22T11:02:36+00:00",
+   "date": "2026-11-22T11:10:09+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -186,6 +186,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T06:11:10+00:00"
+  },
+  {
+   "id": "25d8cb92f84bbaa2",
+   "title": "All signs show Canada can’t meet its Paris target — here’s why Ottawa won’t admit it",
+   "summary": "OTTAWA - In June, Prime Minister Mark Carney told Canadians that the country's emissions would be higher “in the next few years” than previously projected.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/all-signs-show-canada-can-t-meet-its-paris-target-here-s-why-ottawa-won-t-admit-it/article_2df27d53-ee30-5e8b-8683-527816deac68.html",
+   "date": "2026-11-22T11:00:03+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/25/a2559dc3-12ac-5fcc-a334-afd77c1e79be/6b02cc6162934.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/25/a2559dc3-12ac-5fcc-a334-afd77c1e79be/6b02cc6162934.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T11:13:28+00:00"
   },
   {
    "id": "9925099c67744163",
@@ -807,7 +829,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2026,7 +2048,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3239,7 +3261,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5451,7 +5473,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7460,46 +7482,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T21:08:40+00:00"
-  },
-  {
-   "id": "b2e42f45439edeb2",
-   "title": "Ford says he won’t impose AI data centres on unwilling municipalities, bolstering municipal moratoriums",
-   "summary": "Premier Ford said he plans to sit down with Mississauga's mayor to discuss the proposed data centres in his city and indicated that he's willing to respect the moratorium.",
-   "source": "Global News Toronto",
-   "url": "https://globalnews.ca/news/12157281/ford-says-he-wont-impose-ai-data-centres-on-unwilling-municipalities-bolstering-municipal-moratoriums/",
-   "date": "2026-11-19T11:09:30+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP177298244.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP177298244.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:18:33+00:00"
-  },
-  {
-   "id": "e85db24daa34101e",
-   "title": "Denmark parliament approves security deal with Greenland and US",
-   "summary": "All 109 Danish lawmakers present approved the deal, easing tensions over Trump's desire to annex the Arctic island.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
-   "date": "2026-11-19T11:09:00+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afecabe8240-1795082942.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afecabe8240-1795082942.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T11:27:43+00:00"
   }
  ]
 }

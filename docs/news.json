@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T19:03:59+00:00",
+ "generatedAt": "2026-11-22T19:13:08+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 14
+   "kept": 15
   },
   {
    "source": "BBC News",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg",
+    "w": 1200
    },
    "breaking": true,
    "addedAt": "2026-11-22T19:03:59+00:00"
@@ -6720,27 +6720,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:25:59+00:00"
-  },
-  {
-   "id": "eece29be197a2b16",
-   "title": "Reaching interim U.S. trade agreement would kickstart new CUSMA talks, minister says",
-   "summary": "Canada-U.S. Trade Minister Dominic LeBlanc says if Canada can reach an interim agreement with the Trump administration, then that would likely kickstart formal talks around reviewing the trilateral trade pact with the U.S. and Mexico.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/canada-seeking-interim-trade-arrangment-9.7428540?cmp=rss",
-   "date": "2026-11-19T19:04:59+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/16d3b3d3-9946-4196-9946-fa4fdde33cd3,1795114459825/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C412%2C7526%2C4233%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T19:16:32+00:00"
   }
  ]
 }

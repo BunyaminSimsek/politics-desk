@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T18:27:04+00:00",
+ "generatedAt": "2026-11-22T18:36:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "9262e5fe5f547f12",
+   "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
+   "summary": "Incoming House speaker says party focused on affordability and fixing ‘broken’ healthcare and immigration systems The incoming US House speaker, Hakeem Jeffries , has said he and his fellow Democrats are focused on affordability, expanding healthcare and…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
+   "date": "2026-11-22T18:25:42+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/4e6eb28d17340c345907199ceb683c4277945b37/471_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=c2b5e9dd5d30693241d365d10927c7cd",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T18:36:12+00:00"
+  },
+  {
    "id": "da2e50e01e2b7bfe",
    "title": "‘We are close,’ to deal with Canada, Trump’s trade representative says",
    "summary": "Trade talks collapsed between Canada and the United States in August after Ottawa walked away from the negotiating table in response to last-minute terms.",
@@ -177,13 +197,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Jamieson-Greer-trade-deal-Canada.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Jamieson-Greer-trade-deal-Canada.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Jamieson-Greer-trade-deal-Canada.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Jamieson-Greer-trade-deal-Canada.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T18:27:04+00:00"
+  },
+  {
+   "id": "c21a3b05e4bf3321",
+   "title": "UN climate talks collapse without a deal",
+   "summary": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
+   "date": "2026-11-22T18:04:25+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795370588.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795370588.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T18:36:12+00:00"
   },
   {
    "id": "5813862cad8eb9d1",
@@ -6778,26 +6820,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T19:06:49+00:00"
-  },
-  {
-   "id": "77a30b594ecb45e9",
-   "title": "Regulatory harmonization not a goal of associate membership for Canada: EU ambassador",
-   "summary": "OTTAWA - Canada and the European Union aren't looking at sweeping regulatory harmonization as they work to establish closer ties, the EU's ambassador to Canada said Thursday.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/regulatory-harmonization-not-a-goal-of-associate-membership-for-canada-eu-ambassador/article_c7c590bb-3c34-5015-8334-151c8c05f069.html",
-   "date": "2026-11-19T18:29:01+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 900,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/39/939fd3ed-147c-575b-922d-2b952ab1214d/6aff402d1479b.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/39/939fd3ed-147c-575b-922d-2b952ab1214d/6aff402d1479b.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T18:39:00+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T16:54:10+00:00",
+ "generatedAt": "2026-11-22T17:03:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -149,7 +149,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/africa/rss",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Conversation",
@@ -166,8 +166,30 @@
  ],
  "items": [
   {
+   "id": "969b3e367a9a8e12",
+   "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
+   "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia An explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+   "date": "2026-11-22T16:55:49+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=700&quality=85&auto=format&fit=max&s=389050a974b0973f247fd793512e2024",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: 2026 Planet Labs PBC/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T17:03:16+00:00"
+  },
+  {
    "id": "db8b49c438173e53",
-   "title": "Cop31 live: EU and others reject deal as longest climate summit ever faces collapse",
+   "title": "Cop31 as it happened: EU and others reject deal as longest climate summit comes to fractious end",
    "summary": "Countries failed to reach consensus on a key deal that did not mention fossil fuels Full report: Cop31 climate talks set to end in deep division as key deal rejected Mohamed Adow, director of Power Shift Africa, has been looking through the text and says…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
@@ -7039,63 +7061,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-18T20:18:34+00:00"
-  },
-  {
-   "id": "2f2d6c8aee78b520",
-   "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
-   "summary": "Scott Colom is now this Southern state's first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his victory.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
-   "date": "2026-11-19T17:03:11+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-19T17:15:17+00:00"
-  },
-  {
-   "id": "832ede64c0e1c4f4",
-   "title": "Trump and Putin ‘hijacked’ China summit",
-   "summary": "Trump and Putin’s statements during trilateral talks distracted from the planned agenda, Einar Tangen says.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
-   "date": "2026-11-19T17:02:22+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795107690.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795107690.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T17:15:17+00:00"
-  },
-  {
-   "id": "33b9dab59bcc1490",
-   "title": "Cap all political donations, not only those from overseas, Burnham told",
-   "summary": "Experts say ‘insanely complex’ £100,000 limit proposed for overseas donors should be replaced by universal cap Andy Burnham is facing calls to commit to a cap on all political donations when the elections bill is in the House of Lords, instead of the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/19/andy-burnham-political-donations-cap-overseas-donors-elections",
-   "date": "2026-11-19T17:01:40+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: House of Commons/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/afcace2eaa57d4ac7dadfa329eb234b690964067/214_0_6553_5246/master/6553.jpg?width=700&quality=85&auto=format&fit=max&s=6fab7a65145dca3b79f0bea2c735de10",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T17:15:17+00:00"
   }
  ]
 }

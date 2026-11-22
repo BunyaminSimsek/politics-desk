@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T00:23:00+00:00",
+ "generatedAt": "2026-11-22T00:32:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T00:23:00+00:00"
@@ -358,7 +358,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -838,9 +838,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/eff18bc4-d33a-434f-a6db-2f5c18f6a7be,1795290611746/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C479%2C6499%2C3655%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/eff18bc4-d33a-434f-a6db-2f5c18f6a7be,1795290611746/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C479%2C6499%2C3655%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-21T20:22:33+00:00"
@@ -1515,7 +1515,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2750,7 +2750,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4962,7 +4962,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/college-of-physicians-not-investigating-mp-over-maid-comments/article_11114ff4-2c39-50f7-a0c8-d4a10bb74b69.html",
    "date": "2026-11-19T21:07:48+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

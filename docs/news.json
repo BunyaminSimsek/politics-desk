@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T17:23:53+00:00",
+ "generatedAt": "2026-11-23T17:33:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 27
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -166,46 +166,24 @@
  ],
  "items": [
   {
-   "id": "974bf4b3ad667431",
-   "title": "Cop31 collapses: why did climate talks fall apart? - The Latest",
-   "summary": "Countries at the Cop31 climate summit failed to reach a keystone agreement for the first time in 17 years.",
+   "id": "f2286b4f32edfc60",
+   "title": "Jensen Huang reinstated as Nvidia CEO",
+   "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy Business live – latest updates US politics – live updates Nvidia has reinstated Jensen Huang as chief executive in a stunning reversal…",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest",
-   "date": "2026-11-23T17:19:55+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/bfd5ba75d2fef1972b3c75b1a735ae9b05d31036/156_27_6787_5429/master/6787.jpg?width=700&quality=85&auto=format&fit=max&s=14b74307767edaf04cd7a397b5a5831f",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Björn Larsson Rosvall/TT/Shutterstock"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T17:23:53+00:00"
-  },
-  {
-   "id": "9d50e4f5338758f0",
-   "title": "Democrats to hold a dozen 2028 presidential primary debates starting in June",
-   "summary": "DNC unveils plans to hold 12 primary debates over 10 months, allowing up to 20 candidates to participate The Democratic National Committee (DNC) unveiled on Monday its plans to hold a dozen 2028 presidential primary debates over 10 months, with the first set…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/23/dnc-democrats-presidential-primary-debates",
-   "date": "2026-11-23T17:07:55+00:00",
+   "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+   "date": "2026-11-23T17:27:33+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/5a444acc6109dc445787853c686acd301112ee14/1945_890_3917_3134/master/3917.jpg?width=700&quality=85&auto=format&fit=max&s=7ddfcc5a73ee86404ff31e5c71c179b4",
-    "w": 700,
+    "credit": "Photograph: Hannibal Hanschke/EPA",
     "h": 560,
-    "credit": "Photograph: Robyn Beck/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=700&quality=85&auto=format&fit=max&s=658e86246071171621361c388415456a",
+    "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-23T17:23:53+00:00"
+   "addedAt": "2026-11-23T16:37:10+00:00"
   },
   {
    "id": "f1abf2755af8d1ad",
@@ -213,7 +191,7 @@
    "summary": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T17:03:53+00:00",
+   "date": "2026-11-23T17:26:25+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -235,7 +213,7 @@
    "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T17:01:01+00:00",
+   "date": "2026-11-23T17:20:19+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -250,6 +228,48 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
+   "id": "974bf4b3ad667431",
+   "title": "Cop31 collapses: why did climate talks fall apart? - The Latest",
+   "summary": "Countries at the Cop31 climate summit failed to reach a keystone agreement for the first time in 17 years.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest",
+   "date": "2026-11-23T17:19:55+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Björn Larsson Rosvall/TT/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/bfd5ba75d2fef1972b3c75b1a735ae9b05d31036/156_27_6787_5429/master/6787.jpg?width=700&quality=85&auto=format&fit=max&s=14b74307767edaf04cd7a397b5a5831f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T17:23:53+00:00"
+  },
+  {
+   "id": "9d50e4f5338758f0",
+   "title": "Democrats to hold a dozen 2028 presidential primary debates starting in June",
+   "summary": "DNC unveils plans to hold 12 primary debates over 10 months, allowing up to 20 candidates to participate The Democratic National Committee (DNC) unveiled on Monday its plans to hold a dozen 2028 presidential primary debates over 10 months, with the first set…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/23/dnc-democrats-presidential-primary-debates",
+   "date": "2026-11-23T17:07:55+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Robyn Beck/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/5a444acc6109dc445787853c686acd301112ee14/1945_890_3917_3134/master/3917.jpg?width=700&quality=85&auto=format&fit=max&s=7ddfcc5a73ee86404ff31e5c71c179b4",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T17:23:53+00:00"
   },
   {
    "id": "9294551a6f1eeab6",
@@ -631,32 +651,12 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.7583658,1752282028000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.7583658,1752282028000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T15:30:47+00:00"
-  },
-  {
-   "id": "f2286b4f32edfc60",
-   "title": "Jensen Huang reinstated as Nvidia CEO",
-   "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy Business live – latest updates US politics – live updates Nvidia has reinstated Jensen Huang as chief executive in a stunning reversal…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-   "date": "2026-11-23T15:23:21+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Hannibal Hanschke/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=700&quality=85&auto=format&fit=max&s=658e86246071171621361c388415456a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:37:10+00:00"
   },
   {
    "id": "7911af757ca8d395",
@@ -3642,7 +3642,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4881,7 +4881,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6266,26 +6266,6 @@
     "caption": "",
     "credit": "",
     "url": "https://i.cbc.ca/ais/d685e180-04ec-4d54-90da-dfcacfe53017,1795187704623/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C42%2C3000%2C1687%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T17:59:43+00:00"
-  },
-  {
-   "id": "d2969e8f1e87c281",
-   "title": "Protests held across Europe over wages, services, high living costs",
-   "summary": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
-   "date": "2026-11-20T17:32:32+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b006cd033bc-1795189968.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b006cd033bc-1795189968.jpg?resize=1200%2C800",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:59:43+00:00"

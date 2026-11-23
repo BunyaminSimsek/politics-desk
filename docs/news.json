@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T08:34:16+00:00",
+ "generatedAt": "2026-11-23T08:43:27+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "1db6c2307217f7b3",
+   "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+   "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T08:41:08+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T03:12:46+00:00"
+  },
+  {
+   "id": "e2830407b36aa712",
+   "title": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
+   "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T08:36:57+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T15:59:07+00:00"
+  },
+  {
+   "id": "e2be825e0d55bb5f",
+   "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+   "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump has headlined his third cryptocurrency gala at his ​country club in Virginia, rewarding top holders of his own meme coin, as Democrats…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+   "date": "2026-11-23T08:33:10+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kevin Dietsch/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/79b37a2f8a198376688fa54f0cdba008ce48d808/801_0_3988_3192/master/3988.jpg?width=700&quality=85&auto=format&fit=max&s=ad04a537268aeda6ddd71fc03bc516dd",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T00:36:19+00:00"
+  },
+  {
    "id": "e7e69ac7ea24c607",
    "title": "Constitutional law expert brands defence bill allowing secret security rules ‘lazy and irresponsible’",
    "summary": "Anne Twomey says lack of proper debate around bill is ‘flabbergasting’ amid concerns over extension of ministerial powers Labor’s new defence bill is “lazy and irresponsible” lawmaking, one of Australia’s leading constitutional scholars has warned, claiming…",
@@ -179,33 +241,13 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/365d2e6449a8aa487abccf8060963566f52cd4dc/135_0_3175_2541/master/3175.jpg?width=700&quality=85&auto=format&fit=max&s=dca18fdc6103c8f748438d2f47341014",
-    "w": 700,
+    "credit": "Photograph: Pte Jacob Joseph/AUSTRALIAN DOD HANDOUT/EPA",
     "h": 560,
-    "credit": "Photograph: Pte Jacob Joseph/AUSTRALIAN DOD HANDOUT/EPA"
+    "url": "https://i.guim.co.uk/img/media/365d2e6449a8aa487abccf8060963566f52cd4dc/135_0_3175_2541/master/3175.jpg?width=700&quality=85&auto=format&fit=max&s=dca18fdc6103c8f748438d2f47341014",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T08:34:16+00:00"
-  },
-  {
-   "id": "1db6c2307217f7b3",
-   "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-   "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T08:13:27+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T03:12:46+00:00"
   },
   {
    "id": "765653bc3eeeec5d",
@@ -254,7 +296,7 @@
   {
    "id": "51072258fb5d6380",
    "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
-   "summary": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation",
+   "summary": "President Zelenskyy says Ukrainian forces sank the Russian warship Merkury in an \"exemplary\" sea drone operation.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
    "date": "2026-11-23T07:37:09+00:00",
@@ -588,28 +630,6 @@
    "addedAt": "2026-11-23T04:16:39+00:00"
   },
   {
-   "id": "e2830407b36aa712",
-   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-   "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T02:59:35+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T15:59:07+00:00"
-  },
-  {
    "id": "14133e8440d3b199",
    "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
    "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
@@ -689,26 +709,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T00:54:44+00:00"
-  },
-  {
-   "id": "e2be825e0d55bb5f",
-   "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
-   "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump is scheduled to headline his third cryptocurrency gala on ⁠Sunday night at his ​country club in Virginia, rewarding top holders of his…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
-   "date": "2026-11-23T00:31:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kevin Dietsch/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/79b37a2f8a198376688fa54f0cdba008ce48d808/801_0_3988_3192/master/3988.jpg?width=700&quality=85&auto=format&fit=max&s=ad04a537268aeda6ddd71fc03bc516dd",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T00:36:19+00:00"
   },
   {
    "id": "3ecf1ecb43f07a79",

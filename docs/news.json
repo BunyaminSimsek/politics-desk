@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T08:52:38+00:00",
+ "generatedAt": "2026-11-23T09:01:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 15
+   "kept": 16
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,47 @@
  ],
  "items": [
   {
+   "id": "85b9e1aba37a466e",
+   "title": "Big tech, law enforcement make final pitches as Senate considers data access bill's future",
+   "summary": "Big tech is launching its final salvo to scale back the Liberal government's contentious proposed national security legislation, which would change how companies retain and hand over user data to Canadian police and intelligence officers, as it nears its last…",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/bill-c-22-lawful-access-privacy-senate-9.7430455?cmp=rss",
+   "date": "2026-11-23T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/f0b5056e-0e98-4db0-8f2f-c6506bb09d73,1795209808241/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C245%2C4707%2C2647%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:01:53+00:00"
+  },
+  {
+   "id": "77ece0992320838f",
+   "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live",
+   "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack And here’s Zelenskyy’s video from the attack: Ukraine’s…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+   "date": "2026-11-23T08:56:15+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=700&quality=85&auto=format&fit=max&s=adb6bbda3e76bedb7e0bd07ed6f4f638",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: VANTOR/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:01:53+00:00"
+  },
+  {
    "id": "1db6c2307217f7b3",
    "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
    "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
@@ -230,7 +271,7 @@
   {
    "id": "e7e69ac7ea24c607",
    "title": "Constitutional law expert brands defence bill allowing secret security rules ‘lazy and irresponsible’",
-   "summary": "Anne Twomey says lack of proper debate around bill is ‘flabbergasting’ amid concerns over extension of ministerial powers Labor’s new defence bill is “lazy and irresponsible” lawmaking, one of Australia’s leading constitutional scholars has warned, claiming…",
+   "summary": "Anne Twomey says lack of proper debate around bill is ‘flabbergasting’ amid concerns over extension of ministerial powers Get our daily political email , free app or daily news podcast Labor’s new defence bill is “lazy and irresponsible” lawmaking, one of…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible",
    "date": "2026-11-23T08:23:55+00:00",
@@ -398,6 +439,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T06:25:30+00:00"
+  },
+  {
+   "id": "f3a1a57bc1b67585",
+   "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+   "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T06:01:31+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a13e/live/60282c80-e70e-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a13e/live/60282c80-e70e-11f1-99b6-a35a62fa4264.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:01:53+00:00"
   },
   {
    "id": "cb372748e574f8a4",
@@ -6209,89 +6270,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T09:18:54+00:00"
-  },
-  {
-   "id": "f80a63c7b698e0af",
-   "title": "Ontario Liberals to select third new leader since 2018",
-   "summary": "The party has been in relative political wilderness since 2018, when the Liberals not only lost to Doug Ford's Progressive Conservatives, but their official party status.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-select-third-new-leader-since-2018/article_843541fa-11c7-5f0f-9793-201060342b25.html",
-   "date": "2026-11-20T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/3a/03ada4a0-d28e-43cd-95cd-a319864bb54c/6b002397f26a4.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/3a/03ada4a0-d28e-43cd-95cd-a319864bb54c/6b002397f26a4.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T09:18:54+00:00"
-  },
-  {
-   "id": "26fda125d8a7896e",
-   "title": "Canada looks to break Starlink's grip on Arctic military communications",
-   "summary": "Two Canadian high-tech firms have taken a step toward challenging Elon Musk's Starlink with plans for a homegrown military satellite communications system.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/canada-arctic-starlink-musk-satellites-9.7428908?cmp=rss",
-   "date": "2026-11-20T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/ebf12314-f8bc-4d0b-90aa-b812d63cfbc5,1795129526649/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C5000%2C2812%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T09:09:09+00:00"
-  },
-  {
-   "id": "be1e85e9649ea427",
-   "title": "Tenants in Madrid say Toronto-based Brookfield is pricing them out of formerly public housing",
-   "summary": "Canadian investment firms, led by Toronto-based Brookfield, have become central targets in Spain's Nov. 29 election fight over housing affordability.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/tenants-in-madrid-say-toronto-based-brookfield-is-pricing-them-out-of-formerly-public-housing-9.7424797?cmp=rss",
-   "date": "2026-11-20T09:00:00+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "housing"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/06174b8c-aa82-415a-84b4-624dc6fa7dfb,1794929032851/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C1280%2C720%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T15:39:10+00:00"
-  },
-  {
-   "id": "710d73ba19b248df",
-   "title": "Migrant caravan makes its way through Mexico to U.S. after Democrats win midterms",
-   "summary": "Emboldened by the results of this month's U.S. midterm elections, giving the Democrats control of Congress in the new year, hundreds of migrants are making their way from southern Mexico to the border with the United States — despite having almost no chance…",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/mexico-u-s-caravan-migrants-9.7428712?cmp=rss",
-   "date": "2026-11-20T09:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/9cc57f1c-3bf5-481d-a9bd-2b2a3e8c74bc,1795120127416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C261%2C5000%2C2812%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T15:39:10+00:00"
   }
  ]
 }

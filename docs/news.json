@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T21:17:34+00:00",
+ "generatedAt": "2026-11-23T21:27:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "dfa4db2f66ca0142",
+   "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Nvidia shares surge on Huang‘s return –…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T21:14:08+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
+   "id": "4578896294e6351b",
+   "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
+   "summary": "Outcry builds over Trump-backed move to bring back CEO as lawmakers call for Huang’s testimony before Congress Nvidia reinstates Jensen Huang – latest updates US politics – live updates Republican lawmakers roundly criticized the Nvidia board’s decision to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
+   "date": "2026-11-23T21:09:10+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:37:10+00:00"
+  },
+  {
    "id": "54218a61834f0012",
    "title": "Republican sheriff racked up $3m security bill for California taxpayers, including Ritz-Carlton stays and steak",
    "summary": "High costs incurred during Chad Bianco’s failed run for state governor, including a $665 steak dinner, have raised concerns A southern California county spent more than $3m in a year on a security detail for its sheriff Chad Bianco, a former Republican…",
@@ -179,10 +219,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/541ccbc5478002d99bff5bf7321c5626fd35920c/531_227_3036_2429/master/3036.jpg?width=700&quality=85&auto=format&fit=max&s=823ffbda7d6e89fcea24df3e534f4a56",
-    "w": 700,
+    "credit": "Photograph: Noah Berger/AP",
     "h": 560,
-    "credit": "Photograph: Noah Berger/AP"
+    "url": "https://i.guim.co.uk/img/media/541ccbc5478002d99bff5bf7321c5626fd35920c/531_227_3036_2429/master/3036.jpg?width=700&quality=85&auto=format&fit=max&s=823ffbda7d6e89fcea24df3e534f4a56",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T21:17:34+00:00"
@@ -199,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/1c4d7ed77371df91b6e83e3235fa20a1fb3f56bc/812_0_3186_2550/master/3186.jpg?width=700&quality=85&auto=format&fit=max&s=ad474a9642bb0444790dec329b74bbd4",
-    "w": 700,
+    "credit": "Photograph: Parastoo Ahmadi/Youtube",
     "h": 560,
-    "credit": "Photograph: Parastoo Ahmadi/Youtube"
+    "url": "https://i.guim.co.uk/img/media/1c4d7ed77371df91b6e83e3235fa20a1fb3f56bc/812_0_3186_2550/master/3186.jpg?width=700&quality=85&auto=format&fit=max&s=ad474a9642bb0444790dec329b74bbd4",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T21:17:34+00:00"
@@ -248,26 +288,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T20:21:47+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
-   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Nvidia shares surge on Huang‘s return –…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T20:38:30+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "0b24eb156c2877b8",
@@ -580,26 +600,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:55:47+00:00"
-  },
-  {
-   "id": "4578896294e6351b",
-   "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
-   "summary": "Senators criticize move, and say Huang needs to testify before Congress and address national security concerns Nvidia reinstates Jensen Huang – latest updates US politics – live updates Republican US lawmakers are criticizing the Nvidia board’s decision to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
-   "date": "2026-11-23T19:08:37+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:37:10+00:00"
   },
   {
    "id": "9c9d202d317ea6ba",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T06:52:46+00:00",
+ "generatedAt": "2026-11-23T07:02:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 28
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,50 @@
   }
  ],
  "items": [
+  {
+   "id": "1db6c2307217f7b3",
+   "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+   "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T07:01:31+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T03:12:46+00:00"
+  },
+  {
+   "id": "af75c65b14939e5d",
+   "title": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
+   "summary": "In today’s newsletter: The prime minister has reopened the debate over a future relationship with a changed EU – as the bloc faces the rise of the far right, a protectionist economic agenda and growing defence ambitions Good morning.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
+   "date": "2026-11-23T06:46:49+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections",
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/23982dd7bf21c4a556aaef5d8e716b31dde60ae4/432_0_4320_3456/master/4320.jpg?width=700&quality=85&auto=format&fit=max&s=ffe729812bc99dfb3a8ab76afea82032",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: JLBvdWOLF/Alamy",
+    "caption": "Whether or not the UK should rejoin the EU will be back on the agenda in parliament this week."
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T07:02:01+00:00"
+  },
   {
    "id": "83c8a30ff39af264",
    "title": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
@@ -489,9 +533,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/dcb903a2-c31e-49e4-ac73-0d3859cae4fa,1795398121842/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C3778%2C2125%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/dcb903a2-c31e-49e4-ac73-0d3859cae4fa,1795398121842/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C3778%2C2125%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T02:44:50+00:00"
@@ -597,26 +641,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T23:41:21+00:00"
-  },
-  {
-   "id": "1db6c2307217f7b3",
-   "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-   "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-22T22:49:10+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T03:12:46+00:00"
   },
   {
    "id": "9f4874e413be4bd5",
@@ -2296,7 +2320,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3515,7 +3539,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4728,7 +4752,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

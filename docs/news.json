@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T23:59:38+00:00",
+ "generatedAt": "2026-11-23T00:08:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -166,21 +166,41 @@
  ],
  "items": [
   {
+   "id": "3ecf1ecb43f07a79",
+   "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+   "summary": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+   "date": "2026-11-22T23:59:22+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T00:08:45+00:00"
+  },
+  {
    "id": "83c8a30ff39af264",
    "title": "Australian politics live: Tehan says Bowen should resign over Cop; Taylor pays tribute to ‘kind, gentle’ Meldrum",
    "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "date": "2026-11-22T23:44:13+00:00",
+   "date": "2026-11-22T23:51:38+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Mick Tsikas/AAP",
+    "url": "https://i.guim.co.uk/img/media/12b68809cdb848106010a87d38612ef94da18f0c/552_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=f0f956723fe178f4edf972923e750231",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a1733c8d20d91e90b3db6172e139927f1099faab/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=6d4fa4b3f293f3c1cf15958147c44065",
-    "w": 700
+    "credit": "Photograph: Mick Tsikas/AAP"
    },
    "breaking": false,
    "addedAt": "2026-11-22T19:59:55+00:00"
@@ -299,10 +319,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/03/60333da3-da66-5014-94ab-b7af5e729ff7/6abed910dc594.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/03/60333da3-da66-5014-94ab-b7af5e729ff7/6abed910dc594.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/03/60333da3-da66-5014-94ab-b7af5e729ff7/6abed910dc594.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/03/60333da3-da66-5014-94ab-b7af5e729ff7/6abed910dc594.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-22T23:59:38+00:00"
@@ -1927,7 +1947,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3146,7 +3166,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4359,7 +4379,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

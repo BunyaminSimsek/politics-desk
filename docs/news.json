@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T17:42:38+00:00",
+ "generatedAt": "2026-11-23T17:51:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -166,24 +166,46 @@
  ],
  "items": [
   {
-   "id": "f2286b4f32edfc60",
-   "title": "Jensen Huang reinstated as Nvidia CEO",
-   "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy Business live – latest updates US politics – live updates Nvidia has reinstated Jensen Huang as chief executive in a stunning reversal…",
+   "id": "4e17b3cf39e8087a",
+   "title": "What tactics will Burnham use to sell his EU plans? – podcast",
+   "summary": "Andy Burnham has set out his plans to win parliamentary backing for a new EU deal. But the various options for how Britain could rejoin the EU, or ‘Breturn’, will not be outlined until December.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-   "date": "2026-11-23T17:27:33+00:00",
-   "topic": "us",
+   "url": "https://www.theguardian.com/politics/audio/2026/nov/23/what-tactics-will-burnham-use-to-sell-his-eu-plans-podcast",
+   "date": "2026-11-23T17:42:13+00:00",
+   "topic": "europe",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Hannibal Hanschke/EPA",
+    "url": "https://i.guim.co.uk/img/media/780e376c30452f47a88c6a3829f08b80d2f5f59d/1666_61_5305_4244/master/5305.jpg?width=700&quality=85&auto=format&fit=max&s=5f71d61d3ac3d747d66512ab40d0855a",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=700&quality=85&auto=format&fit=max&s=658e86246071171621361c388415456a",
+    "credit": "Photograph: Simon Dawson/No 10 Downing Street"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T17:51:55+00:00"
+  },
+  {
+   "id": "dfa4db2f66ca0142",
+   "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+   "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T17:36:38+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evan Vucci/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=f27c02772cbf21f095eab5ebf9976f71",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-23T16:37:10+00:00"
+   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "f1abf2755af8d1ad",
@@ -191,7 +213,7 @@
    "summary": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T17:22:09+00:00",
+   "date": "2026-11-23T17:36:35+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -208,26 +230,44 @@
    "addedAt": "2026-11-23T09:39:29+00:00"
   },
   {
-   "id": "dfa4db2f66ca0142",
-   "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
-   "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T17:20:19+00:00",
-   "topic": "us",
+   "id": "a19c022caec494fd",
+   "title": "Tajikistan moves to leave ICC amid US push against court",
+   "summary": "The ICC found that Tajikistan failed to comply with its request to arrest Russian President Vladimir Putin.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss",
+   "date": "2026-11-23T17:36:17+00:00",
+   "topic": "ukraine",
    "region": "world",
-   "tags": [
-    "defence"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Evan Vucci/Reuters",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04560c429e-1795446284.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04560c429e-1795446284.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T17:51:55+00:00"
+  },
+  {
+   "id": "f2286b4f32edfc60",
+   "title": "Jensen Huang reinstated as Nvidia CEO",
+   "summary": "Chipmaker reverses decision it made to remove chief executive after reports of affairs including with alleged Chinese spy Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates US politics – live updates Nvidia…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+   "date": "2026-11-23T17:27:33+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Hannibal Hanschke/EPA",
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=f27c02772cbf21f095eab5ebf9976f71",
+    "url": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=700&quality=85&auto=format&fit=max&s=658e86246071171621361c388415456a",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
+   "addedAt": "2026-11-23T16:37:10+00:00"
   },
   {
    "id": "974bf4b3ad667431",
@@ -265,10 +305,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T17:42:38+00:00"
@@ -873,10 +913,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T17:42:38+00:00"

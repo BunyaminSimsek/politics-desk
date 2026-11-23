@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T09:30:21+00:00",
+ "generatedAt": "2026-11-23T09:39:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 27
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "48ebf8f039165620",
+   "title": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+   "summary": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
+   "date": "2026-11-23T09:33:59+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795426432.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795426432.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:39:29+00:00"
+  },
+  {
+   "id": "3834868d10c480eb",
+   "title": "Zelenskyy says Ukraine behind attacks on Russian ships near Libya",
+   "summary": "Ukrainian President Volodymyr Zelenskyy has claimed responsibility for an attack that sank the Russian ship ‘Merkury’.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/zelenskyy-says-ukraine-behind-attacks-on-russian-ships-near-libya?traffic_source=rss",
+   "date": "2026-11-23T09:33:46+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-23-at-09.29.15-1795426302.png?resize=1200%2C800",
+    "w": 1200,
+    "h": 799,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-23-at-09.29.15-1795426302.png?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:39:29+00:00"
+  },
+  {
    "id": "3e9e41bd2736c519",
    "title": "Who is behind the recent street protests in France?",
    "summary": "President Macron has blamed the unrest on the radical left, but who are the protesters and what are they fighting for?",
@@ -177,13 +217,55 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1809/live/4a45f590-e71e-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1809/live/4a45f590-e71e-11f1-99b6-a35a62fa4264.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1809/live/4a45f590-e71e-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1809/live/4a45f590-e71e-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:30:21+00:00"
+  },
+  {
+   "id": "77ece0992320838f",
+   "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live",
+   "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Zelenskyy also said that “partners” – presumably the US…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+   "date": "2026-11-23T09:23:27+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: VANTOR/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=700&quality=85&auto=format&fit=max&s=adb6bbda3e76bedb7e0bd07ed6f4f638",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:01:53+00:00"
+  },
+  {
+   "id": "f1abf2755af8d1ad",
+   "title": "Andy Burnham to give update to MPs after ‘landmark’ UK-EU summit – UK politics live",
+   "summary": "PM expected to tell Commons that Friday’s deal will be ‘the single biggest growth measure to be delivered in this parliament’ Good morning.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+   "date": "2026-11-23T09:17:33+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/fe35515f5ca59e0f87bf7503bb1dc9120a924044/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=85ab0391274214a29359dd58b981734d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: WPA/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:39:29+00:00"
   },
   {
    "id": "85b9e1aba37a466e",
@@ -222,28 +304,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:11:38+00:00"
-  },
-  {
-   "id": "77ece0992320838f",
-   "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live",
-   "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack And here’s Zelenskyy’s video from the attack: Ukraine’s…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-   "date": "2026-11-23T08:56:15+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: VANTOR/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=700&quality=85&auto=format&fit=max&s=adb6bbda3e76bedb7e0bd07ed6f4f638",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:01:53+00:00"
   },
   {
    "id": "d072cc68e8f6a860",
@@ -299,10 +359,10 @@
    ],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-22T15:59:07+00:00"
@@ -615,10 +675,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a5fe/live/bf5d6f10-e71f-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a5fe/live/bf5d6f10-e71f-11f1-99a1-253766e7ad8b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a5fe/live/bf5d6f10-e71f-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a5fe/live/bf5d6f10-e71f-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T05:21:11+00:00"

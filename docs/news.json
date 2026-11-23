@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T15:21:33+00:00",
+ "generatedAt": "2026-11-23T15:30:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "CBC World",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,12 +166,31 @@
  ],
  "items": [
   {
+   "id": "a7a6748862d201e0",
+   "title": "Toronto's top bureaucrat leaving city hall, mayoral decision shows",
+   "summary": "Olivia Chow has signed off on an overhaul of some of Toronto’s top bureaucratic roles including the city manager and deputy managers, according to decisions from the mayor’s office.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/toronto-city-manager-leaving-role-9.7432479?cmp=rss",
+   "date": "2026-11-23T15:30:35+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/1.7583658,1752282028000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T15:30:47+00:00"
+  },
+  {
    "id": "77ece0992320838f",
    "title": "Moscow accuses Estonia of acting ‘on verge of unleashing open war with Russia’ – Europe live",
    "summary": "Estonia has continued to deny it has allowed Ukrainian drones to operate from its territory despite repeated unsubstantiated claims from the Kremlin Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-   "date": "2026-11-23T15:11:45+00:00",
+   "date": "2026-11-23T15:23:37+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [
@@ -186,6 +205,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:01:53+00:00"
+  },
+  {
+   "id": "f1abf2755af8d1ad",
+   "title": "Former Tory PMs ‘can’t face up to their bad Brexit deal’, says Burnham – UK politics live",
+   "summary": "Rishi Sunak joins other former Tory PMs in urging Burnham not to reopen the debate on Brexit In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+   "date": "2026-11-23T15:20:17+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Composite: Manuel Orbegozo/Reuters; Olivier Hoslet/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c1db663bc7667222692d12878f5578031da69604/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=68a1bda2bd25c1212df4b7e41d3722ca",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:39:29+00:00"
   },
   {
    "id": "dfa4db2f66ca0142",
@@ -208,26 +247,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:11:58+00:00"
-  },
-  {
-   "id": "f1abf2755af8d1ad",
-   "title": "Former Tory PMs ‘can’t face up to their bad Brexit deal’, says Burnham – UK politics live",
-   "summary": "Rishi Sunak joins other former Tory PMs in urging Burnham not to reopen the debate on Brexit In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T15:03:59+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Composite: Manuel Orbegozo/Reuters; Olivier Hoslet/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c1db663bc7667222692d12878f5578031da69604/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=68a1bda2bd25c1212df4b7e41d3722ca",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:39:29+00:00"
   },
   {
    "id": "7911af757ca8d395",
@@ -3135,7 +3154,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4374,7 +4393,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5587,7 +5606,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

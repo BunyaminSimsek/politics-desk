@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T08:25:04+00:00",
+ "generatedAt": "2026-11-23T08:34:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "e7e69ac7ea24c607",
+   "title": "Constitutional law expert brands defence bill allowing secret security rules ‘lazy and irresponsible’",
+   "summary": "Anne Twomey says lack of proper debate around bill is ‘flabbergasting’ amid concerns over extension of ministerial powers Labor’s new defence bill is “lazy and irresponsible” lawmaking, one of Australia’s leading constitutional scholars has warned, claiming…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible",
+   "date": "2026-11-23T08:23:55+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/365d2e6449a8aa487abccf8060963566f52cd4dc/135_0_3175_2541/master/3175.jpg?width=700&quality=85&auto=format&fit=max&s=dca18fdc6103c8f748438d2f47341014",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Pte Jacob Joseph/AUSTRALIAN DOD HANDOUT/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T08:34:16+00:00"
+  },
+  {
    "id": "1db6c2307217f7b3",
    "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
    "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
@@ -199,10 +221,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T08:25:04+00:00"
@@ -221,10 +243,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D88Z66X__v1__HighRes__FrancePoliticsEducationStrikeDemo-1795332915.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D88Z66X__v1__HighRes__FrancePoliticsEducationStrikeDemo-1795332915.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D88Z66X__v1__HighRes__FrancePoliticsEducationStrikeDemo-1795332915.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D88Z66X__v1__HighRes__FrancePoliticsEducationStrikeDemo-1795332915.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T08:25:04+00:00"
@@ -243,10 +265,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T08:25:04+00:00"
@@ -2406,7 +2428,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3645,7 +3667,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4858,7 +4880,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

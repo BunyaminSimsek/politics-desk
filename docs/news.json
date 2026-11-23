@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T15:49:32+00:00",
+ "generatedAt": "2026-11-23T15:58:49+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/07/7aa79cc09f47eb3a018176853cb16ef38ec75599b59af114f7f5e551dfad2cdc.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/07/7aa79cc09f47eb3a018176853cb16ef38ec75599b59af114f7f5e551dfad2cdc.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/07/7aa79cc09f47eb3a018176853cb16ef38ec75599b59af114f7f5e551dfad2cdc.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/07/7aa79cc09f47eb3a018176853cb16ef38ec75599b59af114f7f5e551dfad2cdc.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-23T15:49:32+00:00"
@@ -191,16 +191,16 @@
    "summary": "Prime minister addressing MPs about his deal with the EU after Friday’s summit in Brussels In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T15:38:43+00:00",
+   "date": "2026-11-23T15:44:12+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/fb65ccc5c15ba30a33e74dbbe320840bf7c179b2/840_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=5aad1325cb462acef25a9d9789c87831",
-    "w": 700,
+    "credit": "Photograph: Nicolas Economou/NurPhoto/Shutterstock",
     "h": 560,
-    "credit": "Photograph: Nicolas Economou/NurPhoto/Shutterstock"
+    "url": "https://i.guim.co.uk/img/media/fb65ccc5c15ba30a33e74dbbe320840bf7c179b2/840_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=5aad1325cb462acef25a9d9789c87831",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:39:29+00:00"
@@ -217,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/b5/9b523fa6-e79c-50bc-8168-ad56f140ea2c/6b045e63a36c4.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 798,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/b5/9b523fa6-e79c-50bc-8168-ad56f140ea2c/6b045e63a36c4.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/b5/9b523fa6-e79c-50bc-8168-ad56f140ea2c/6b045e63a36c4.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/b5/9b523fa6-e79c-50bc-8168-ad56f140ea2c/6b045e63a36c4.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T15:49:32+00:00"
@@ -237,10 +237,10 @@
    "tags": [],
    "kind": "analysis",
    "image": {
-    "url": "https://images.theconversation.com/files/773626/original/file-20261123-62-q8dawg.JPG?ixlib=rb-4.1.1&rect=0%2C389%2C3778%2C1889&q=45&auto=format&h=668&w=1200&fit=clip",
-    "w": 1200,
     "h": 600,
-    "small": "https://images.theconversation.com/files/773626/original/file-20261123-62-q8dawg.JPG?ixlib=rb-4.1.1&rect=0%2C389%2C3778%2C1889&q=45&auto=format&h=668&w=640&fit=clip"
+    "small": "https://images.theconversation.com/files/773626/original/file-20261123-62-q8dawg.JPG?ixlib=rb-4.1.1&rect=0%2C389%2C3778%2C1889&q=45&auto=format&h=668&w=640&fit=clip",
+    "url": "https://images.theconversation.com/files/773626/original/file-20261123-62-q8dawg.JPG?ixlib=rb-4.1.1&rect=0%2C389%2C3778%2C1889&q=45&auto=format&h=668&w=1200&fit=clip",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T15:49:32+00:00"
@@ -472,7 +472,7 @@
   },
   {
    "id": "7b8bae570643d666",
-   "title": "Flights and train services cancelled in Belgium due to strike",
+   "title": "Flights cancelled in Belgium due to cost-of-living strike",
    "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
@@ -3214,7 +3214,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4453,7 +4453,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

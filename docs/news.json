@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T16:37:10+00:00",
+ "generatedAt": "2026-11-23T16:46:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -167,14 +167,16 @@
  "items": [
   {
    "id": "f1abf2755af8d1ad",
-   "title": "Burnham says next decade can be ‘better one for Britain’ as he sets out new EU-UK deal in Commons – UK politics live",
-   "summary": "Prime minister gives update to MPs about his deal with the EU after Friday’s summit in Brussels In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and…",
+   "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – UK politics live",
+   "summary": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T16:27:24+00:00",
+   "date": "2026-11-23T16:39:41+00:00",
    "topic": "europe",
    "region": "world",
-   "tags": [],
+   "tags": [
+    "elections"
+   ],
    "kind": "news",
    "image": {
     "credit": "Photograph: PRU/AFP/Getty Images",
@@ -184,6 +186,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:39:29+00:00"
+  },
+  {
+   "id": "dfa4db2f66ca0142",
+   "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+   "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T16:32:30+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evan Vucci/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=f27c02772cbf21f095eab5ebf9976f71",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "62ee797c7eee5477",
@@ -206,6 +230,26 @@
    "addedAt": "2026-11-23T16:27:26+00:00"
   },
   {
+   "id": "56b22a9072be08e1",
+   "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+   "summary": "Russia has reacted with fury to Ukraine's continued campaign targeting its naval and merchant shipping.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+   "date": "2026-11-23T16:23:33+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0346590eba8-1795376729.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0346590eba8-1795376729.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:46:25+00:00"
+  },
+  {
    "id": "4578896294e6351b",
    "title": "Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang",
    "summary": "President says he spoke with board ‘directly and indirectly’ and assured them on national security risks Nvidia reinstates Jensen Huang – latest updates US politics – live updates Donald Trump said on Monday that he spoke “directly and indirectly” with…",
@@ -217,35 +261,13 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
+    "h": 560,
     "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:37:10+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
-   "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T16:13:46+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evan Vucci/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=f27c02772cbf21f095eab5ebf9976f71",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
+   "addedAt": "2026-11-23T16:37:10+00:00"
   },
   {
    "id": "6a16b32fcddcb446",
@@ -422,10 +444,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=700&quality=85&auto=format&fit=max&s=658e86246071171621361c388415456a",
-    "w": 700,
+    "credit": "Photograph: Hannibal Hanschke/EPA",
     "h": 560,
-    "credit": "Photograph: Hannibal Hanschke/EPA"
+    "url": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=700&quality=85&auto=format&fit=max&s=658e86246071171621361c388415456a",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:37:10+00:00"
@@ -492,7 +514,7 @@
   },
   {
    "id": "d4c43e046f97320e",
-   "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+   "title": "Nigeria's president says he is also hit by water and power cuts plaguing country",
    "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
@@ -3414,7 +3436,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4653,7 +4675,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6221,70 +6243,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/a076237da6786a84fb44957e8df41dc09dc831aa/602_0_6024_4819/master/6024.jpg?width=700&quality=85&auto=format&fit=max&s=540fc8274f8c45466736d0f304fad691",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T16:54:16+00:00"
-  },
-  {
-   "id": "9237bb24fb41222c",
-   "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
-   "summary": "Zacharia’s spokesperson called allegations she falsely represented herself as an attorney ‘baseless’ US politics live – latest updates Katie Zacharia, the former White House press secretary hired and fired in the same week , is under investigation by the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
-   "date": "2026-11-20T16:46:05+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jim Lo Scalzo/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ae323a28e78350bfb8aa0cc58ada95d577e65d9c/516_0_4393_3514/master/4393.jpg?width=700&quality=85&auto=format&fit=max&s=e115fa4b29b873bf16589d179abbe362",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T17:03:35+00:00"
-  },
-  {
-   "id": "81c0414eb3e191b5",
-   "title": "Cost of living protests sweep across Europe",
-   "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T16:45:34+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "housing"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ddea/live/8dcffdf0-e50d-11f1-99a1-253766e7ad8b.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ddea/live/8dcffdf0-e50d-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T16:54:16+00:00"
-  },
-  {
-   "id": "8776071de06f7d77",
-   "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
-   "summary": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
-   "date": "2026-11-20T16:40:35+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae34c26ed650-1793281062.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae34c26ed650-1793281062.jpg?resize=1200%2C800",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T16:54:16+00:00"

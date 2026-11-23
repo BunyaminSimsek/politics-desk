@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T14:17:09+00:00",
+ "generatedAt": "2026-11-23T14:26:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/03aa52f0987850c324b556d4816c0daa1cf9cd23/250_0_2500_2001/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=8e88a4e0ef5625414621a838a6379ac0",
-    "w": 700,
+    "credit": "Photograph: Arwen Clemans/Los Angeles Times/Getty Images",
     "h": 560,
-    "credit": "Photograph: Arwen Clemans/Los Angeles Times/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/03aa52f0987850c324b556d4816c0daa1cf9cd23/250_0_2500_2001/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=8e88a4e0ef5625414621a838a6379ac0",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T14:17:09+00:00"
@@ -219,10 +219,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/703d8afdbb3092d99aeb037de8ec6e9eea3b3902/1637_195_3204_2563/master/3204.jpg?width=700&quality=85&auto=format&fit=max&s=b918828b797ba2b26f8da24f9a1a365b",
-    "w": 700,
+    "credit": "Photograph: Julia Demaree Nikhinson/AP",
     "h": 560,
-    "credit": "Photograph: Julia Demaree Nikhinson/AP"
+    "url": "https://i.guim.co.uk/img/media/703d8afdbb3092d99aeb037de8ec6e9eea3b3902/1637_195_3204_2563/master/3204.jpg?width=700&quality=85&auto=format&fit=max&s=b918828b797ba2b26f8da24f9a1a365b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T14:17:09+00:00"
@@ -239,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d96e8d58fffcdc5739b8a2ad4eaf7b69ef919284/500_0_5000_4002/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=18bb1dda370d32640b7c986453c77f14",
-    "w": 700,
+    "credit": "Photograph: Evan Agostini/Invision/AP",
     "h": 560,
-    "credit": "Photograph: Evan Agostini/Invision/AP"
+    "url": "https://i.guim.co.uk/img/media/d96e8d58fffcdc5739b8a2ad4eaf7b69ef919284/500_0_5000_4002/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=18bb1dda370d32640b7c986453c77f14",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T14:17:09+00:00"
@@ -3053,7 +3053,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4292,7 +4292,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5505,7 +5505,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

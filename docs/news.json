@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T23:47:59+00:00",
+ "generatedAt": "2026-11-23T23:57:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "dfa4db2f66ca0142",
+   "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T23:45:12+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
    "id": "dd4cd606cf5d50df",
    "title": "Pentagon takes fresh aim at Canada's military readiness, defence spending priorities",
    "summary": "The Pentagon has escalated its criticism of Canada, accusing Ottawa of failing to meet NATO and NORAD obligations and putting domestic economic interests ahead of military effectiveness.",
@@ -199,33 +219,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04b62a0b8f-1795470890_f46624-1795476355.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04b62a0b8f-1795470890_f46624-1795476355.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04b62a0b8f-1795470890_f46624-1795476355.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04b62a0b8f-1795470890_f46624-1795476355.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T23:47:59+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
-   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T23:23:30+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "fa8c959861e68aac",
@@ -327,7 +327,7 @@
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795474436.jpg?quality=80&resize=1200%2C800",
     "w": 1200
    },
-   "breaking": true,
+   "breaking": false,
    "addedAt": "2026-11-23T23:10:33+00:00"
   },
   {
@@ -4687,7 +4687,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6364,26 +6364,6 @@
     "caption": "",
     "credit": "",
     "url": "https://i.cbc.ca/ais/e7be82db-c6a4-47b0-b535-48f6d02d5488,1795213793884/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C435%2C8356%2C4700%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T00:05:50+00:00"
-  },
-  {
-   "id": "19c0628393b866ea",
-   "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
-   "summary": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’ Senator Thom Tillis, the outgoing North Carolina Republican who is due to be replaced by a Democrat, has reportedly blocked a confirmation…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
-   "date": "2026-11-20T23:48:38+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Heather Diehl/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cac7b215020ab17f2e1926d910d082e9f9ca8ad3/444_0_4416_3535/master/4416.jpg?width=700&quality=85&auto=format&fit=max&s=4a04958e10540d591086e2d7824c311d",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T00:05:50+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T19:16:00+00:00",
+ "generatedAt": "2026-11-23T19:25:11+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -186,6 +186,46 @@
    "addedAt": "2026-11-23T16:55:47+00:00"
   },
   {
+   "id": "4578896294e6351b",
+   "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
+   "summary": "Senators criticize move, and say Huang needs to testify before Congress and address national security concerns Nvidia reinstates Jensen Huang – latest updates US politics – live updates Republican US lawmakers are criticizing the Nvidia board’s decision to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
+   "date": "2026-11-23T19:08:37+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:37:10+00:00"
+  },
+  {
+   "id": "9c9d202d317ea6ba",
+   "title": "CP NewsAlert: Cadet weekend activities to be restored after pause: minister",
+   "summary": "OTTAWA - Defence Minister David McGuinty says more funding will be coming to the cadet programs so weekend and supplemental activities can continue for the remainder of the fiscal year.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/cp-newsalert-cadet-weekend-activities-to-be-restored-after-pause-minister/article_003cb163-3472-55ef-a0bc-f40cfe40d954.html",
+   "date": "2026-11-23T19:05:07+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/69/669e5383-adb3-5667-83eb-cc567db4a684/6b0063f94906e.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 837,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/69/669e5383-adb3-5667-83eb-cc567db4a684/6b0063f94906e.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T19:25:11+00:00"
+  },
+  {
    "id": "dfa4db2f66ca0142",
    "title": "Republicans voice concerns over Jensen Huang’s Nvidia reinstatement after Trump urged board to rehire CEO – live",
    "summary": "Several Republican lawmakers raise questions and concerns about Nvidia’s reinstatement of Jensen Huang, saying his ‘behavior does not support reinstatement’ Nvidia shares surge 33% on Huang‘s return – business live",
@@ -206,29 +246,9 @@
    "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
-   "id": "4578896294e6351b",
-   "title": "Republican dissent after Trump says he ‘convinced’ Nvidia to reinstate Jensen Huang",
-   "summary": "Senators critical, with some saying Huang needs to testify before Congress and address national security concerns Nvidia reinstates Jensen Huang – latest updates US politics – live updates Republican US lawmakers are criticizing the Nvidia board’s decision to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
-   "date": "2026-11-23T18:58:02+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:37:10+00:00"
-  },
-  {
    "id": "f2286b4f32edfc60",
-   "title": "Jensen Huang reinstated as Nvidia CEO",
-   "summary": "Chipmaker reverses decision it made to remove chief executive after Donald Trump intervenes directly with board Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates US politics – live updates Nvidia has…",
+   "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+   "summary": "Chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates US politics – live updates Nvidia has reinstated Jensen Huang…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
    "date": "2026-11-23T18:51:56+00:00",
@@ -268,7 +288,7 @@
   {
    "id": "6c6d34a4d03213d2",
    "title": "Minister defends not initially cutting off college with skyrocketing OSAP usage",
-   "summary": "TORONTO - Ontario's minister of colleges and universities says a career college with student financial aid usage that grew thousands of per cent in a few years was not one of six he cut off in May because of the…",
+   "summary": "TORONTO - A career college with student financial aid usage that grew thousands of per cent in a few years was not one of six the Ontario government cut off in May because of the \"evolving\" nature of the data,…",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/minister-defends-not-initially-cutting-off-college-with-skyrocketing-osap-usage/article_70b402f9-f0bf-586f-aebf-3435368f79f5.html",
    "date": "2026-11-23T18:32:55+00:00",
@@ -3885,7 +3905,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5124,7 +5144,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T17:05:27+00:00",
+ "generatedAt": "2026-11-23T17:14:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "9294551a6f1eeab6",
+   "title": "COP31 outcome not what Ottawa had 'hoped' for: environment minister",
+   "summary": "OTTAWA - Federal Environment Minister Julie Dabrusin says the outcome of the recent annual United Nations climate conference was not what her government had \"hoped\" for.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/cop31-outcome-not-what-ottawa-had-hoped-for-environment-minister/article_5f2f2d77-5dd1-5138-ab00-64ea2923f225.html",
+   "date": "2026-11-23T16:57:43+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/43/543f219e-7eb2-5aa2-a714-4538d2172e4c/6b0471136bf9a.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/43/543f219e-7eb2-5aa2-a714-4538d2172e4c/6b0471136bf9a.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T17:14:41+00:00"
+  },
   {
    "id": "dfa4db2f66ca0142",
    "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
@@ -263,10 +283,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/23b8b75ffc3ddb1e9211cd7e735aa5d294d8e27d/338_0_2793_2234/master/2793.jpg?width=700&quality=85&auto=format&fit=max&s=d48ecfc9ae101e3ad669d23b1bf322a8",
-    "w": 700,
+    "credit": "Photograph: Deltona TV",
     "h": 560,
-    "credit": "Photograph: Deltona TV"
+    "url": "https://i.guim.co.uk/img/media/23b8b75ffc3ddb1e9211cd7e735aa5d294d8e27d/338_0_2793_2234/master/2793.jpg?width=700&quality=85&auto=format&fit=max&s=d48ecfc9ae101e3ad669d23b1bf322a8",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T17:05:27+00:00"
@@ -305,10 +325,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/8d0b2aa07aef04841b4d35eb7ba1dfe6f5ffc3ad/643_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=19cb0bd006c4fbc9958b61f3eff31909",
-    "w": 700,
+    "credit": "Photograph: Jordan Pettitt/PA",
     "h": 560,
-    "credit": "Photograph: Jordan Pettitt/PA"
+    "url": "https://i.guim.co.uk/img/media/8d0b2aa07aef04841b4d35eb7ba1dfe6f5ffc3ad/643_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=19cb0bd006c4fbc9958b61f3eff31909",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T17:05:27+00:00"
@@ -325,10 +345,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/e7777a1987dbf50dcccb3faf1ad701f1a91ceb1c/1702_373_6049_4840/master/6049.jpg?width=700&quality=85&auto=format&fit=max&s=07492ac1d5211de7c1f241b63ada0e30",
-    "w": 700,
+    "credit": "Photograph: Jack Hill/PA",
     "h": 560,
-    "credit": "Photograph: Jack Hill/PA"
+    "url": "https://i.guim.co.uk/img/media/e7777a1987dbf50dcccb3faf1ad701f1a91ceb1c/1702_373_6049_4840/master/6049.jpg?width=700&quality=85&auto=format&fit=max&s=07492ac1d5211de7c1f241b63ada0e30",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T17:05:27+00:00"
@@ -6307,45 +6327,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:22:03+00:00"
-  },
-  {
-   "id": "6c29f2a04e3ccce6",
-   "title": "Ford Motor Co. officially producing Super Duty trucks at Oakville, Ont., assembly plant after retool",
-   "summary": "Ford Motor Co. is betting its Oakville, Ont., assembly complex can help the company drive growth and demonstrate the automaker's commitment to Canadian manufacturing for the long haul.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/canada/toronto/ford-super-duty-trucks-oakville-assembly-plant-9.7429968?cmp=rss",
-   "date": "2026-11-20T17:12:22+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/0e660aac-4296-46df-b2f9-23251f86a9e8,1795193359887/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7018%2C3947%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T17:31:11+00:00"
-  },
-  {
-   "id": "af00d3fab5ed2435",
-   "title": "Top US Democrat warns Trump admin against destroying records",
-   "summary": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
-   "date": "2026-11-20T17:05:42+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00733e63a93-1795191614.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00733e63a93-1795191614.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T17:12:49+00:00"
   }
  ]
 }

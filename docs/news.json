@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T07:48:18+00:00",
+ "generatedAt": "2026-11-23T07:57:30+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "1db6c2307217f7b3",
+   "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+   "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T07:55:59+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T03:12:46+00:00"
+  },
+  {
    "id": "89c495cb337b18f3",
    "title": "India-Pakistan cricket fans want ‘dirty politics’ kept out of beloved sport",
    "summary": "Cricket's die-hard fans say players are being forced to take part in acts of aggression for the benefit of politicians.",
@@ -184,26 +204,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T07:20:44+00:00"
-  },
-  {
-   "id": "1db6c2307217f7b3",
-   "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-   "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T07:01:31+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T03:12:46+00:00"
   },
   {
    "id": "af75c65b14939e5d",

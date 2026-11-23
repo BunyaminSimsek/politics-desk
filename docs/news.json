@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T09:11:38+00:00",
+ "generatedAt": "2026-11-23T09:21:08+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "BBC News",
@@ -196,9 +196,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/7722f026-102f-4527-9797-5664857c6c00,1795206896662/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C275%2C5288%2C2974%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/7722f026-102f-4527-9797-5664857c6c00,1795206896662/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C275%2C5288%2C2974%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:11:38+00:00"
@@ -237,10 +237,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1-1795342162.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1-1795342162.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1-1795342162.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1-1795342162.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:11:38+00:00"
@@ -2528,7 +2528,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3767,7 +3767,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4980,7 +4980,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6289,26 +6289,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-20T09:46:19+00:00"
-  },
-  {
-   "id": "9a0b2f5cf1dbb713",
-   "title": "Pakistan minister visits India for first time since 2025 war",
-   "summary": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
-   "date": "2026-11-20T09:11:57+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/05/2025-05-14T171719Z_64379619_RC2CHEAZV0V3_RTRMADP_3_INDIA-PAKISTAN-1779188541.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/05/2025-05-14T171719Z_64379619_RC2CHEAZV0V3_RTRMADP_3_INDIA-PAKISTAN-1779188541.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T09:18:54+00:00"
   }
  ]
 }

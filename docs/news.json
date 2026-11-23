@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T12:26:09+00:00",
+ "generatedAt": "2026-11-23T12:35:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -166,28 +166,90 @@
  ],
  "items": [
   {
+   "id": "d4c43e046f97320e",
+   "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+   "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T12:33:44+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:21:38+00:00"
+  },
+  {
+   "id": "5b99461c51325257",
+   "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
+   "summary": "Former US vice-president Al Gore among climate leaders demanding change to consensus rule after Antalya summit The failure at Cop31 to reach a keystone agreement has exposed the need to reform how the UN’s climate summits make decisions, say international…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits",
+   "date": "2026-11-23T12:21:23+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9f3afbe1e7378450a625c5b7e95926fb65e79fa7/1064_0_6136_4911/master/6136.jpg?width=700&quality=85&auto=format&fit=max&s=150fa33636305429bfc299ff49df7a3e",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Chris McGrath/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T12:35:16+00:00"
+  },
+  {
    "id": "f1abf2755af8d1ad",
-   "title": "Haigh tells CBI that even US which is ‘hardly a hotbed of socialism’ has more public control of utilities than UK – UK politics live",
-   "summary": "First secretary of state gives further detail on Burnham’s plans and says the government is not against the markets In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern…",
+   "title": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU – UK politics live",
+   "summary": "Former prime minister says issue is ‘huge distraction’ for government as Burham prepares to update MPs on his deal In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T12:02:23+00:00",
+   "date": "2026-11-23T12:20:54+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Corey Rudy/Reuters",
+    "url": "https://i.guim.co.uk/img/media/ecc3dc6198e74a17c992bae9f8e1832c967f58bb/972_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=926faca822d19811794c3ae9ae98af79",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/980ab169b7f9761bd062909fb7335adfbbd30fa7/346_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=105cbb7a136bc52abd7dc33decf5cb85",
-    "w": 700
+    "credit": "Photograph: Jonathan Brady/PA"
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:39:29+00:00"
   },
   {
+   "id": "dfa4db2f66ca0142",
+   "title": "Democrats reveal details for 2028 presidential primary following midterm victories – US politics live",
+   "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Democrats capture at least 258 House seats in largest sweep since 1992",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T12:15:52+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Julia Demaree Nikhinson/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=c5b3f76d7a9a22075c7dd9bdac042f21",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
    "id": "77ece0992320838f",
-   "title": "Albania denies Ukrainian drones that sank Russian ships were launched from its territory, as Kremlin warns of ‘escalation’ in Baltic– Europe live",
+   "title": "Kremlin warns of ‘escalation’ as Albania denies Ukrainian drones that sank Russian ships launched from its territory – Europe live",
    "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
@@ -228,6 +290,26 @@
    "addedAt": "2026-11-23T12:16:59+00:00"
   },
   {
+   "id": "dc8b0e4d523f2e11",
+   "title": "Inside the talks between student protest leaders and Macron’s government",
+   "summary": "Al Jazeera interviews two French student leaders who have met with top government officials as protests continue.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/they-smile-but-do-nothing-students-on-meeting-macron-and-other-leaders?traffic_source=rss",
+   "date": "2026-11-23T11:58:09+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-07T102752Z_1343869352_RC29YNAFYJSS_RTRMADP_3_FRANCE-PROTEST-1795435038.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-07T102752Z_1343869352_RC29YNAFYJSS_RTRMADP_3_FRANCE-PROTEST-1795435038.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T12:35:16+00:00"
+  },
+  {
    "id": "966ae809ac53c456",
    "title": "Morocco and Senegal await Afcon final verdict after court case",
    "summary": "The Court of Arbitration for Sport is set to rule on the decision to strip Senegal of the Afcon 2025 title.",
@@ -246,28 +328,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T12:16:59+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Democrats reveal details for 2028 presidential primary following midterm victories – US politics live",
-   "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Democrats capture at least 258 House seats in largest sweep since 1992",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T11:56:26+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Julia Demaree Nikhinson/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=c5b3f76d7a9a22075c7dd9bdac042f21",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "e2830407b36aa712",
@@ -336,7 +396,7 @@
   {
    "id": "8086b43b969c14a3",
    "title": "First Thing: Cop31 talks collapse without deal in blow to planet’s future climate",
-   "summary": "More than two weeks of talks in Turkey fail to produce a resolution to tackle climate crisis. Plus, a savage review of Melania’s new documentary Good morning. The world’s nations have failed to reach agreement at the Cop31 talks in Turkey.",
+   "summary": "More than two weeks of talks in Turkey fail to produce a resolution to tackle climate crisis. Plus, a savage review of Melania’s new documentary Don’t already get First Thing in your inbox? Sign up here Good morning.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/23/first-thing-cop31-talks-collapse-no-deal-future-global-climate",
    "date": "2026-11-23T11:26:45+00:00",
@@ -355,26 +415,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:49:18+00:00"
-  },
-  {
-   "id": "d4c43e046f97320e",
-   "title": "Presidential villa also hit by water and power cuts, Nigerian leader says",
-   "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T11:15:16+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:21:38+00:00"
   },
   {
    "id": "f571db581dd57e94",
@@ -2874,7 +2914,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4113,7 +4153,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5326,7 +5366,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6221,26 +6261,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T12:42:24+00:00"
-  },
-  {
-   "id": "c8ab7ff78dd0aabd",
-   "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
-   "summary": "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergencies Business live – latest updates Retail sales in Great Britain surged last month as the public rushed to buy products including…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
-   "date": "2026-11-20T12:28:12+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Christopher Furlong/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2ccdf36f045447e0767df30dacd0ecc106d0d8c9/676_0_6759_5408/master/6759.jpg?width=700&quality=85&auto=format&fit=max&s=7507ab6456708d5497e835293b5ac35f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T08:41:32+00:00"
   }
  ]
 }

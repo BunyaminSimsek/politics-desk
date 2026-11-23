@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T08:15:52+00:00",
+ "generatedAt": "2026-11-23T08:25:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -184,6 +184,72 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T03:12:46+00:00"
+  },
+  {
+   "id": "765653bc3eeeec5d",
+   "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
+   "summary": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss",
+   "date": "2026-11-23T08:12:29+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T08:25:04+00:00"
+  },
+  {
+   "id": "73d8680086076ac1",
+   "title": "Europe’s hot autumn of protests is a symptom of economic breakdown",
+   "summary": "European governments beholden to corporate interests no longer have the wellbeing of their nations as a top priority.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
+   "date": "2026-11-23T08:08:00+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D88Z66X__v1__HighRes__FrancePoliticsEducationStrikeDemo-1795332915.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D88Z66X__v1__HighRes__FrancePoliticsEducationStrikeDemo-1795332915.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T08:25:04+00:00"
+  },
+  {
+   "id": "51072258fb5d6380",
+   "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
+   "summary": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+   "date": "2026-11-23T07:37:09+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T08:25:04+00:00"
   },
   {
    "id": "89c495cb337b18f3",
@@ -2340,7 +2406,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3579,7 +3645,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4792,7 +4858,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6204,46 +6270,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T15:39:10+00:00"
-  },
-  {
-   "id": "ed220e25d6dafea0",
-   "title": "Joanne Young praised for bravery in exposing rape by husband and strangers",
-   "summary": "Woman who waived anonymity says she hopes her case will mean other victims of abuse are more likely to come forward A woman who was drugged and raped by her husband and strangers he had invited to their family home has been praised for her bravery in exposing…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/20/joanne-young-drugged-raped-by-husband-praised-bravery-anonymity",
-   "date": "2026-11-20T08:22:16+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ian Sheridan/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/73c77c52c51ef56affefe47af014e07e9badd691/586_609_1167_933/master/1167.jpg?width=700&quality=85&auto=format&fit=max&s=f50dda453ff320379b1175ef9799b10d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T08:32:21+00:00"
-  },
-  {
-   "id": "5107e59575ddcbbf",
-   "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-   "summary": "Two sides find provisional compromise on scheme but food and farming negotiations go down to the wire UK-EU summit live – latest news updates British and European negotiators were closing in on a reset deal on Thursday night as they provisionally agreed to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-   "date": "2026-11-20T08:19:28+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Hannah McKay/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a336fb77a4aa4c7e47ea3fc416e63babf551e1e9/649_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=495f02aa84d577d7f96d0fe34e616732",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T15:31:30+00:00"
   }
  ]
 }

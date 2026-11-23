@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T12:35:16+00:00",
+ "generatedAt": "2026-11-23T12:44:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,41 @@
  ],
  "items": [
   {
+   "id": "a643e877c3bf15fd",
+   "title": "Search and rescue teams race against time after Nigeria boat tragedy",
+   "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T12:43:40+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:49:18+00:00"
+  },
+  {
+   "id": "97e4769547f8d05e",
+   "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+   "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+   "date": "2026-11-23T12:42:03+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-23T12:44:24+00:00"
+  },
+  {
    "id": "d4c43e046f97320e",
    "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
    "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
@@ -199,10 +234,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9f3afbe1e7378450a625c5b7e95926fb65e79fa7/1064_0_6136_4911/master/6136.jpg?width=700&quality=85&auto=format&fit=max&s=150fa33636305429bfc299ff49df7a3e",
-    "w": 700,
+    "credit": "Photograph: Chris McGrath/Getty Images",
     "h": 560,
-    "credit": "Photograph: Chris McGrath/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/9f3afbe1e7378450a625c5b7e95926fb65e79fa7/1064_0_6136_4911/master/6136.jpg?width=700&quality=85&auto=format&fit=max&s=150fa33636305429bfc299ff49df7a3e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T12:35:16+00:00"
@@ -219,18 +254,18 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ecc3dc6198e74a17c992bae9f8e1832c967f58bb/972_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=926faca822d19811794c3ae9ae98af79",
-    "w": 700,
+    "credit": "Photograph: Jonathan Brady/PA",
     "h": 560,
-    "credit": "Photograph: Jonathan Brady/PA"
+    "url": "https://i.guim.co.uk/img/media/ecc3dc6198e74a17c992bae9f8e1832c967f58bb/972_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=926faca822d19811794c3ae9ae98af79",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:39:29+00:00"
   },
   {
    "id": "dfa4db2f66ca0142",
-   "title": "Democrats reveal details for 2028 presidential primary following midterm victories – US politics live",
-   "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Democrats capture at least 258 House seats in largest sweep since 1992",
+   "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
+   "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
    "date": "2026-11-23T12:15:52+00:00",
@@ -301,10 +336,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-07T102752Z_1343869352_RC29YNAFYJSS_RTRMADP_3_FRANCE-PROTEST-1795435038.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-07T102752Z_1343869352_RC29YNAFYJSS_RTRMADP_3_FRANCE-PROTEST-1795435038.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-07T102752Z_1343869352_RC29YNAFYJSS_RTRMADP_3_FRANCE-PROTEST-1795435038.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-07T102752Z_1343869352_RC29YNAFYJSS_RTRMADP_3_FRANCE-PROTEST-1795435038.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T12:35:16+00:00"
@@ -352,24 +387,24 @@
    "addedAt": "2026-11-22T15:59:07+00:00"
   },
   {
-   "id": "a643e877c3bf15fd",
-   "title": "Search and rescue teams race against time after Nigeria boat tragedy",
-   "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
+   "id": "93e285e5c9b2f40b",
+   "title": "Ukraine shares video of strikes on Russian ships off Libya",
+   "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T11:38:55+00:00",
-   "topic": "africa",
+   "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T11:34:10+00:00",
+   "topic": "ukraine",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg"
    },
    "breaking": false,
-   "addedAt": "2026-11-23T11:49:18+00:00"
+   "addedAt": "2026-11-23T12:44:24+00:00"
   },
   {
    "id": "0bf896f1b2209ae1",
@@ -2914,7 +2949,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4153,7 +4188,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5366,7 +5401,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6241,26 +6276,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T13:18:57+00:00"
-  },
-  {
-   "id": "0457493e9243ed45",
-   "title": "Ontario Liberals to select third new leader since 2018",
-   "summary": "Ontario's Liberal Party will wrap up a long leadership race Saturday, and, they hope, an even longer stretch without a long-term leader.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12159363/ontario-liberals-2026-leaders/",
-   "date": "2026-11-20T12:39:12+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 575,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/0e9e25c30e963263183ab2056d8643d2651ffa7c3df841c16e7ce616e1b59245_186180.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/0e9e25c30e963263183ab2056d8643d2651ffa7c3df841c16e7ce616e1b59245_186180.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T12:42:24+00:00"
   }
  ]
 }

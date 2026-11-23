@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T04:25:46+00:00",
+ "generatedAt": "2026-11-23T04:34:57+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "date": "2026-11-23T04:09:17+00:00",
+   "date": "2026-11-23T04:27:40+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [],
@@ -184,6 +184,50 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T19:59:55+00:00"
+  },
+  {
+   "id": "aae51d5e942a94a9",
+   "title": "‘Difficult geopolitical times’: Albanese defends Bowen after Cop31 deal failure",
+   "summary": "Coalition calls for climate change minister to resign immediately or be sacked over ‘catastrophic diplomatic disaster’, despite offering no alternatives on reducing emissions",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure",
+   "date": "2026-11-23T04:21:00+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b9df393984e43418731394be8b2ebe70ca5aaf7c/845_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=96d98b4a5c5bad00dcbbcc04e631f6b9",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lukas Coch/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T04:34:57+00:00"
+  },
+  {
+   "id": "756073f765a59932",
+   "title": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns",
+   "summary": "Economists flag rising recession risk as government forecasts economy will grow by less than 2% in 2027 and 2028 Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Jim Chalmers has warned…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
+   "date": "2026-11-23T04:17:27+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f71980e7e1c20fd35fcef4d6b977444721eadfd1/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=e1275691a836f3568b6d95a39fe1cfe7",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lukas Coch/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T04:34:57+00:00"
   },
   {
    "id": "d137cc38db6898b0",
@@ -2130,7 +2174,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3349,7 +3393,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4562,7 +4606,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T14:44:32+00:00",
+ "generatedAt": "2026-11-23T14:54:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -177,13 +177,55 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/6cd8540b66a37c1344e6bc170e9d76fecda158d097770bb4c11b445ac114ed52.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 705,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/6cd8540b66a37c1344e6bc170e9d76fecda158d097770bb4c11b445ac114ed52.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/6cd8540b66a37c1344e6bc170e9d76fecda158d097770bb4c11b445ac114ed52.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/6cd8540b66a37c1344e6bc170e9d76fecda158d097770bb4c11b445ac114ed52.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-23T14:44:32+00:00"
+  },
+  {
+   "id": "dfa4db2f66ca0142",
+   "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
+   "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T14:38:52+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Julia Demaree Nikhinson/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=c5b3f76d7a9a22075c7dd9bdac042f21",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
+   "id": "77ece0992320838f",
+   "title": "Moscow accuses Estonia of acting ‘on verge of unleashing open war with Russia’ – Europe live",
+   "summary": "Estonia has continued to deny it has allowed Ukrainian drones to operate from its territory despite repeated unsubstantiated claims from the Kremlin Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+   "date": "2026-11-23T14:35:49+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ecdd39c673437b312d3f50d55e6ea129410a5ab0/287_0_4531_3627/master/4531.jpg?width=700&quality=85&auto=format&fit=max&s=098a12adbfbf6eade3d8c5676cf45a92",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Beata Zawrzel/NurPhoto/Shutterstock"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:01:53+00:00"
   },
   {
    "id": "d4c43e046f97320e",
@@ -206,50 +248,8 @@
    "addedAt": "2026-11-23T11:21:38+00:00"
   },
   {
-   "id": "dfa4db2f66ca0142",
-   "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
-   "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T14:24:50+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Julia Demaree Nikhinson/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=c5b3f76d7a9a22075c7dd9bdac042f21",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
-  },
-  {
-   "id": "77ece0992320838f",
-   "title": "Kremlin warns of ‘escalation’ as Albania denies Ukrainian drones that sank Russian ships launched from its territory – Europe live",
-   "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-   "date": "2026-11-23T14:20:15+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Planet Labs Pbc/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=700&quality=85&auto=format&fit=max&s=175d7d4be5655844eec97982c5e780c0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:01:53+00:00"
-  },
-  {
    "id": "fd0f48e8fd6df022",
-   "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons in to space",
+   "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space",
    "summary": "Move would be breach of Outer Space treaty and Partial Nuclear Test Ban treaty, which prohibit placing of nuclear weapons in orbit The German government has said it is taking very seriously reports that Russia may be planning to launch a satellite armed with…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/23/russia-nuclear-weapons-space-german-intelligence",
@@ -786,10 +786,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1816/live/87274fe0-e74b-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1816/live/87274fe0-e74b-11f1-99a1-253766e7ad8b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1816/live/87274fe0-e74b-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1816/live/87274fe0-e74b-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:30:21+00:00"
@@ -6254,48 +6254,6 @@
     "h": 800,
     "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg",
     "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5742x3827+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fd9%2F6666a29741a3a9cd3bf00907418d%2Fgettyimages-2306087994.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T15:11:38+00:00"
-  },
-  {
-   "id": "b3cbf1cca10a82c5",
-   "title": "As trade war hits auto sector, Ford gets $760M from taxpayers for Ontario plant",
-   "summary": "Once the retooling and expansion of the Oakville, Ont., plant is complete, Canada will 'give Kentucky a run for their money,' Ontario Premier Doug Ford said.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12159444/auto-supports-canada-melanie-joly-doug-ford/",
-   "date": "2026-11-20T14:51:30+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Ford-Oakville-Assembly.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Ford-Oakville-Assembly.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T14:53:09+00:00"
-  },
-  {
-   "id": "883e61c0c8de99e3",
-   "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
-   "summary": "Yemen's Houthis have warned airlines of military activity in Saudi airspace in the coming hours.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
-   "date": "2026-11-20T14:48:04+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b003d8ba895-1795177867.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b003d8ba895-1795177867.jpg?resize=1200%2C800",
     "w": 1200
    },
    "breaking": false,

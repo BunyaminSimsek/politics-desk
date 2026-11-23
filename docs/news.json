@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T21:36:14+00:00",
+ "generatedAt": "2026-11-23T21:45:48+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "2a92a8c28fe00525",
+   "title": "CSIS plans ‘significant’ increase to foreign posts after $6b budget boost",
+   "summary": "The Canadian Security Intelligence Service is currently limited in what information it can collect outside of the country, but there are signs that’s about to change.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12162999/canadas-spy-agency-foreign-posts-6-billion/",
+   "date": "2026-11-23T21:40:51+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2025/06/csis-hq.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2025/06/csis-hq.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T21:45:48+00:00"
+  },
+  {
+   "id": "2588b599a0490915",
+   "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+   "summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+   "date": "2026-11-23T21:30:40+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-06-23T163901Z_2116085940_RC2G8FAM4IDS_RTRMADP_3_IRAN-NUCLEAR-ENERGY-1755798951.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-06-23T163901Z_2116085940_RC2G8FAM4IDS_RTRMADP_3_IRAN-NUCLEAR-ENERGY-1755798951.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T21:45:48+00:00"
+  },
+  {
    "id": "dfa4db2f66ca0142",
    "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
    "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Nvidia shares surge on Huang‘s return –…",
@@ -197,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d3de/live/763cfd00-e77e-11f1-823e-6f2dbf55c7cd.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d3de/live/763cfd00-e77e-11f1-823e-6f2dbf55c7cd.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d3de/live/763cfd00-e77e-11f1-823e-6f2dbf55c7cd.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d3de/live/763cfd00-e77e-11f1-823e-6f2dbf55c7cd.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T21:36:14+00:00"
@@ -217,9 +259,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/ada87791-758c-4b56-905e-207f11520e13,1795468894181/full/max/0/default.jpg?im=Crop%2Crect%3D%2840%2C0%2C1411%2C793%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/ada87791-758c-4b56-905e-207f11520e13,1795468894181/full/max/0/default.jpg?im=Crop%2Crect%3D%2840%2C0%2C1411%2C793%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T21:36:14+00:00"
@@ -265,6 +307,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T21:17:34+00:00"
+  },
+  {
+   "id": "1e8d527100dd7796",
+   "title": "It’s time for scientists to boycott the climate COPs and the IPCC",
+   "summary": "On Nov. 22, the day after COP31 climate talks collapsed in Antalya , Turkey, the global average temperature at noon UTC was estimated to be a record-setting 2.36 C above the pre-industrial average . Climate change is driving up global temperatures.",
+   "source": "The Conversation",
+   "url": "https://theconversation.com/its-time-for-scientists-to-boycott-the-climate-cops-and-the-ipcc-297279",
+   "date": "2026-11-23T20:59:37+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "climate"
+   ],
+   "kind": "analysis",
+   "image": {
+    "url": "https://images.theconversation.com/files/773491/original/file-20261122-62-ywavrh.jpg?ixlib=rb-4.1.1&rect=0%2C937%2C5616%2C2808&q=45&auto=format&h=668&w=1200&fit=clip",
+    "w": 1200,
+    "h": 600,
+    "small": "https://images.theconversation.com/files/773491/original/file-20261122-62-ywavrh.jpg?ixlib=rb-4.1.1&rect=0%2C937%2C5616%2C2808&q=45&auto=format&h=668&w=640&fit=clip"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T21:45:48+00:00"
   },
   {
    "id": "85fce92ddad952a5",
@@ -6203,41 +6267,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T22:03:17+00:00"
-  },
-  {
-   "id": "8bb9ea366d89db52",
-   "title": "What the new UK-EU deal could mean for future post-Brexit relations",
-   "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T21:43:22+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ff0d/live/4b4a48f0-e52b-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ff0d/live/4b4a48f0-e52b-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T21:54:10+00:00"
-  },
-  {
-   "id": "2b46772c5167c98d",
-   "title": "The latest from Trump's press conference",
-   "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
-   "date": "2026-11-20T21:38:21+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-20T21:44:39+00:00"
   }
  ]
 }

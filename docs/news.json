@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T11:58:28+00:00",
+ "generatedAt": "2026-11-23T12:07:48+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 16
+   "kept": 15
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 13
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "f1abf2755af8d1ad",
+   "title": "Haigh tells CBI that even US which is ‘hardly a hotbed of socialism’ has more public control of utilities than UK – UK politics live",
+   "summary": "First secretary of state gives further detail on Burnham’s plans and says the government is not against the markets In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+   "date": "2026-11-23T11:48:01+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Corey Rudy/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/980ab169b7f9761bd062909fb7335adfbbd30fa7/346_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=105cbb7a136bc52abd7dc33decf5cb85",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:39:29+00:00"
+  },
   {
    "id": "e2830407b36aa712",
    "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
@@ -231,8 +251,8 @@
   },
   {
    "id": "77ece0992320838f",
-   "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live",
-   "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
+   "title": "Albania denies Ukrainian drones that sank Russian ships were launched from its territory – Europe live",
+   "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
    "date": "2026-11-23T11:29:42+00:00",
@@ -273,26 +293,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:49:18+00:00"
-  },
-  {
-   "id": "f1abf2755af8d1ad",
-   "title": "Haigh tells CBI that even US which is ‘hardly a hotbed of socialism’ has more public control of utilities than UK – UK politics live",
-   "summary": "First secretary of state gives further detail on Burnham’s plans and says the government is not against the markets In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T11:26:27+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Corey Rudy/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/980ab169b7f9761bd062909fb7335adfbbd30fa7/346_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=105cbb7a136bc52abd7dc33decf5cb85",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:39:29+00:00"
   },
   {
    "id": "dfa4db2f66ca0142",
@@ -6241,65 +6241,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T12:33:14+00:00"
-  },
-  {
-   "id": "b838cca1a5c39c0c",
-   "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-   "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-   "date": "2026-11-20T12:04:57+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-20T12:14:13+00:00"
-  },
-  {
-   "id": "b4f12f918ca1aa53",
-   "title": "Could Pete Buttigieg win the White House in 2028? | Politics Weekly America",
-   "summary": "Democrats who might be thinking of launching a presidential run in 2028 are starting to make moves. One such contender is Pete Buttigieg, the former transportation secretary under Joe Biden. Is he the candidate who can unite the broad church in his party?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/video/2026/nov/20/could-pete-buttigieg-win-the-white-house-in-2028-politics-weekly-america",
-   "date": "2026-11-20T12:00:20+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9470743750e33a5508138294b7ddc12eb52f1e7b/228_0_2282_1825/master/2282.jpg?width=700&quality=85&auto=format&fit=max&s=9fcaaf7d3fcc76af0cdb45a8097105ab",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T12:14:13+00:00"
-  },
-  {
-   "id": "5c119ba786344a5b",
-   "title": "From Beto to ‘Blexas’: how Democrats flipped Texas during the midterm elections",
-   "summary": "For organizers who spent decades trying to mobilize voters against a Republican government, a blue Texas felt like a pipe dream Democratic victories in Texas came down like a deluge on election night after decades of drought.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/how-democrats-flip-texas",
-   "date": "2026-11-20T12:00:19+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ronaldo Schemidt/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cb5de5075b21825a9c6afa351add8229b7f0a728/533_0_4350_3480/master/4350.jpg?width=700&quality=85&auto=format&fit=max&s=fe35fa0889a68b2e5435366ab9722065",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T12:14:13+00:00"
   }
  ]
 }

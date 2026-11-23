@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T07:39:06+00:00",
+ "generatedAt": "2026-11-23T07:48:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 28
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -2941,10 +2941,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/af51/live/b6455810-e5c2-11f1-a188-ff49e70cc466.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/af51/live/b6455810-e5c2-11f1-a188-ff49e70cc466.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/af51/live/b6455810-e5c2-11f1-a188-ff49e70cc466.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/af51/live/b6455810-e5c2-11f1-a188-ff49e70cc466.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T07:39:06+00:00"

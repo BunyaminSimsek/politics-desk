@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T16:55:47+00:00",
+ "generatedAt": "2026-11-23T17:05:27+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,13 +41,13 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 27
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,44 +166,26 @@
  ],
  "items": [
   {
-   "id": "f748ddfc92521a62",
-   "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
-   "summary": "Island’s labour minister, Tony Dyer, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade A town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with the UK city, marking a new chapter in a…",
+   "id": "dfa4db2f66ca0142",
+   "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+   "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
-   "date": "2026-11-23T16:53:13+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/24fed4fd10403e24fe12b5488f5534556ec94642/381_0_2926_2340/master/2926.jpg?width=700&quality=85&auto=format&fit=max&s=8ac9493bc31e143edb6a591356bcd8a6",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Bristol City Council"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:55:47+00:00"
-  },
-  {
-   "id": "2aa9fd24f84b5e13",
-   "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
-   "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T16:49:51+00:00",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T16:55:24+00:00",
    "topic": "us",
    "region": "world",
-   "tags": [],
+   "tags": [
+    "defence"
+   ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg",
-    "w": 1200,
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg"
+    "credit": "Photograph: Evan Vucci/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=f27c02772cbf21f095eab5ebf9976f71",
+    "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-23T16:55:47+00:00"
+   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "f1abf2755af8d1ad",
@@ -211,7 +193,7 @@
    "summary": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T16:39:41+00:00",
+   "date": "2026-11-23T16:54:55+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -228,6 +210,130 @@
    "addedAt": "2026-11-23T09:39:29+00:00"
   },
   {
+   "id": "f748ddfc92521a62",
+   "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
+   "summary": "Island’s labour minister, Tony Dyer, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade A town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with the UK city, marking a new chapter in a…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
+   "date": "2026-11-23T16:53:13+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Bristol City Council",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/24fed4fd10403e24fe12b5488f5534556ec94642/381_0_2926_2340/master/2926.jpg?width=700&quality=85&auto=format&fit=max&s=8ac9493bc31e143edb6a591356bcd8a6",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:55:47+00:00"
+  },
+  {
+   "id": "2aa9fd24f84b5e13",
+   "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+   "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T16:49:51+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:55:47+00:00"
+  },
+  {
+   "id": "540d07d0d8688243",
+   "title": "Florida city cancels Christmas parade after tax amendment forces budget cuts",
+   "summary": "Deltona officials say parade is getting cancelled due to the state’s voter-approved Amendment 3 property tax overhaul A city in southwestern Florida has cancelled its Christmas parade, citing pending state legislation, to ensure the city remains “fiscally…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/23/deltona-florida-christmas-parade-amendment-3",
+   "date": "2026-11-23T16:48:11+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/23b8b75ffc3ddb1e9211cd7e735aa5d294d8e27d/338_0_2793_2234/master/2793.jpg?width=700&quality=85&auto=format&fit=max&s=d48ecfc9ae101e3ad669d23b1bf322a8",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Deltona TV"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T17:05:27+00:00"
+  },
+  {
+   "id": "77ece0992320838f",
+   "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
+   "summary": "European Commission president Ursula von der Leyen sets out 22nd package of sanctions Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+   "date": "2026-11-23T16:42:56+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evgeniy Maloletka/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/4c509a9f9850f0d11a9c0ed02922a5b31f2ff85f/720_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=243ed2b7cb1ce8a7f78e103fe32a3433",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:01:53+00:00"
+  },
+  {
+   "id": "f7f45b0454353983",
+   "title": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
+   "summary": "Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interference The education secretary, Lucy Powell, is travelling to Beijing this week to promote UK education, weeks after MI5 issued a rare public…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
+   "date": "2026-11-23T16:42:09+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/8d0b2aa07aef04841b4d35eb7ba1dfe6f5ffc3ad/643_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=19cb0bd006c4fbc9958b61f3eff31909",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jordan Pettitt/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T17:05:27+00:00"
+  },
+  {
+   "id": "00ee9db08ed19d5a",
+   "title": "Burnham: I won’t listen to ex-Tory PMs who left UK with ‘bad Brexit deal’",
+   "summary": "PM says closer ties with EU will lower cost of living, with ‘brainstorming’ sessions being mooted to discuss shape of future relationship UK politics live – latest updates Andy Burnham has criticised former prime ministers for being “stuck in the past” amid…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
+   "date": "2026-11-23T16:40:47+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e7777a1987dbf50dcccb3faf1ad701f1a91ceb1c/1702_373_6049_4840/master/6049.jpg?width=700&quality=85&auto=format&fit=max&s=07492ac1d5211de7c1f241b63ada0e30",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jack Hill/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T17:05:27+00:00"
+  },
+  {
    "id": "50b17fe112bc5842",
    "title": "Why did COP31 climate talks collapse without a deal?",
    "summary": "The longest UN climate summit in history collapsed without a final deal in Turkiye, the first such failure in 17 years.",
@@ -241,10 +347,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795451844.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795451844.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795451844.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795451844.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:55:47+00:00"
@@ -261,35 +367,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26267592693269-1790451525.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26267592693269-1790451525.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26267592693269-1790451525.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26267592693269-1790451525.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:55:47+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
-   "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T16:32:30+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evan Vucci/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=f27c02772cbf21f095eab5ebf9976f71",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "62ee797c7eee5477",
@@ -412,28 +496,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:27:26+00:00"
-  },
-  {
-   "id": "77ece0992320838f",
-   "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – Europe live",
-   "summary": "European Commission president Ursula von der Leyen sets out 22nd package of sanctions Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-   "date": "2026-11-23T15:46:40+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evgeniy Maloletka/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4c509a9f9850f0d11a9c0ed02922a5b31f2ff85f/720_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=243ed2b7cb1ce8a7f78e103fe32a3433",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:01:53+00:00"
   },
   {
    "id": "085bd95bdde6af73",
@@ -6280,28 +6342,6 @@
     "h": 800,
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00733e63a93-1795191614.jpg?resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b00733e63a93-1795191614.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T17:12:49+00:00"
-  },
-  {
-   "id": "656cdb405835b5f5",
-   "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-   "summary": "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-   "date": "2026-11-20T17:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 808,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4657x3136+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F8b%2F8f6f9ccc4492a5a6d3619a61182e%2Fgettyimages-2303366947.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4657x3136+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F8b%2F8f6f9ccc4492a5a6d3619a61182e%2Fgettyimages-2303366947.jpg",
     "w": 1200
    },
    "breaking": false,

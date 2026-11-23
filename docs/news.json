@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T21:27:09+00:00",
+ "generatedAt": "2026-11-23T21:36:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 13
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Nvidia shares surge on Huang‘s return –…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T21:14:08+00:00",
+   "date": "2026-11-23T21:30:15+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -184,6 +184,45 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
+   "id": "48112c23751e9133",
+   "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
+   "summary": "Jimmy Gomez, who lost his election this month and only serving in the House until the year's end, was accused of sexual misconduct with a staff member.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T21:29:42+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d3de/live/763cfd00-e77e-11f1-823e-6f2dbf55c7cd.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d3de/live/763cfd00-e77e-11f1-823e-6f2dbf55c7cd.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T21:36:14+00:00"
+  },
+  {
+   "id": "2d158f0b04225f9c",
+   "title": "How Ukraine destroyed one of Russia's newest warships",
+   "summary": "Ukraine says its naval drones sank one of Russia's newest vessels – the corvette Merkury – in a Libyan port. Seven drones were used in the attack, which also hit a cargo ship which President Volodymyr Zelenskyy said Russia used to transport weapons.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/player/play/9.7433139?cmp=rss",
+   "date": "2026-11-23T21:26:22+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/ada87791-758c-4b56-905e-207f11520e13,1795468894181/full/max/0/default.jpg?im=Crop%2Crect%3D%2840%2C0%2C1411%2C793%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T21:36:14+00:00"
   },
   {
    "id": "4578896294e6351b",
@@ -208,7 +247,7 @@
   {
    "id": "54218a61834f0012",
    "title": "Republican sheriff racked up $3m security bill for California taxpayers, including Ritz-Carlton stays and steak",
-   "summary": "High costs incurred during Chad Bianco’s failed run for state governor, including a $665 steak dinner, have raised concerns A southern California county spent more than $3m in a year on a security detail for its sheriff Chad Bianco, a former Republican…",
+   "summary": "High costs during Chad Bianco’s failed run for governor, including a $665 steak dinner, have raised concerns A southern California county spent more than $3m in a year on a security detail for its sheriff, Chad Bianco, a former Republican candidate for…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/23/sheriff-chad-bianco-security-spending-california-governor-candidate",
    "date": "2026-11-23T21:04:31+00:00",
@@ -6197,25 +6236,6 @@
    "tags": [],
    "kind": "news",
    "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-20T21:44:39+00:00"
-  },
-  {
-   "id": "315db2d8827341e1",
-   "title": "Trump threatens to penalize U.S. tech companies that build AI data centres in other countries",
-   "summary": "U.S. tech companies that build artificial intelligence data centers in other countries will face \"a tremendous tax,\" President Donald Trump said on Friday.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/ai-data-centres-us-tech-companies-trump-9.7430426?cmp=rss",
-   "date": "2026-11-20T21:35:47+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/835a0414-341d-444e-9dcb-17bb050c5d01,1795206527673/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C5616%2C3159%29%3B"
-   },
    "breaking": false,
    "addedAt": "2026-11-20T21:44:39+00:00"
   }

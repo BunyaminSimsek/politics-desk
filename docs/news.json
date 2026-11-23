@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T18:01:07+00:00",
+ "generatedAt": "2026-11-23T18:10:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,24 +166,24 @@
  ],
  "items": [
   {
-   "id": "4e17b3cf39e8087a",
-   "title": "What tactics will Burnham use to sell his EU plans? – podcast",
-   "summary": "Andy Burnham has set out his plans to win parliamentary backing for a new EU deal. But the various options for how Britain could rejoin the EU, or ‘Breturn’, will not be outlined until December.",
+   "id": "4578896294e6351b",
+   "title": "Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang",
+   "summary": "After his announcement, Trump posted a photo on Truth Social depicting Huang prevailing by holding up red bra Nvidia reinstates Jensen Huang – latest updates US politics – live updates Donald Trump said on Monday that he spoke “directly and indirectly” with…",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/audio/2026/nov/23/what-tactics-will-burnham-use-to-sell-his-eu-plans-podcast",
-   "date": "2026-11-23T17:42:13+00:00",
-   "topic": "europe",
+   "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
+   "date": "2026-11-23T17:55:04+00:00",
+   "topic": "us",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Simon Dawson/No 10 Downing Street",
+    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/780e376c30452f47a88c6a3829f08b80d2f5f59d/1666_61_5305_4244/master/5305.jpg?width=700&quality=85&auto=format&fit=max&s=5f71d61d3ac3d747d66512ab40d0855a",
+    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-23T17:51:55+00:00"
+   "addedAt": "2026-11-23T16:37:10+00:00"
   },
   {
    "id": "dfa4db2f66ca0142",
@@ -191,7 +191,7 @@
    "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T17:36:38+00:00",
+   "date": "2026-11-23T17:54:05+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -213,7 +213,7 @@
    "summary": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T17:36:35+00:00",
+   "date": "2026-11-23T17:53:11+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -228,6 +228,47 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:39:29+00:00"
+  },
+  {
+   "id": "4c187e78c80c35df",
+   "title": "U.S. army to detonate unstable, lead-rich explosives, worrying people in Iowa",
+   "summary": "The U.S. army will detonate 68 barrels of a toxic lead explosive in Iowa this week on emergency legal powers that allow it to bypass a court order blocking the controversial ‌plan, the Trump administration told a court this weekend.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/iowa-lead-azide-explosion-explosive-army-9.7432313?cmp=rss",
+   "date": "2026-11-23T17:52:57+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/4c99da99-dd28-4d0b-8d9f-fcb23dc53be0,1795441946358/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8640%2C4860%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T18:10:18+00:00"
+  },
+  {
+   "id": "4e17b3cf39e8087a",
+   "title": "What tactics will Burnham use to sell his EU plans? – podcast",
+   "summary": "Andy Burnham has set out his plans to win parliamentary backing for a new EU deal. But the various options for how Britain could rejoin the EU, or ‘Breturn’, will not be outlined until December.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/audio/2026/nov/23/what-tactics-will-burnham-use-to-sell-his-eu-plans-podcast",
+   "date": "2026-11-23T17:42:13+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Simon Dawson/No 10 Downing Street",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/780e376c30452f47a88c6a3829f08b80d2f5f59d/1666_61_5305_4244/master/5305.jpg?width=700&quality=85&auto=format&fit=max&s=5f71d61d3ac3d747d66512ab40d0855a",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T17:51:55+00:00"
   },
   {
    "id": "a19c022caec494fd",
@@ -396,7 +437,7 @@
   {
    "id": "540d07d0d8688243",
    "title": "Florida city cancels Christmas parade after tax amendment forces budget cuts",
-   "summary": "Deltona officials say parade is getting cancelled due to the state’s voter-approved Amendment 3 property tax overhaul A city in southwestern Florida has cancelled its Christmas parade, citing pending state legislation, to ensure the city remains “fiscally…",
+   "summary": "Deltona officials say parade is getting cancelled due to the state’s voter-approved Amendment 3 property tax overhaul A city in south-western Florida has cancelled its Christmas parade, citing pending state legislation, to ensure the city remains “fiscally…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/23/deltona-florida-christmas-parade-amendment-3",
    "date": "2026-11-23T16:48:11+00:00",
@@ -558,26 +599,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:46:25+00:00"
-  },
-  {
-   "id": "4578896294e6351b",
-   "title": "Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang",
-   "summary": "President says he spoke with board ‘directly and indirectly’ and assured them on national security risks Nvidia reinstates Jensen Huang – latest updates US politics – live updates Donald Trump said on Monday that he spoke “directly and indirectly” with…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
-   "date": "2026-11-23T16:19:22+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:37:10+00:00"
   },
   {
    "id": "6a16b32fcddcb446",
@@ -1303,9 +1324,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/5c8a8e97-7852-41af-816b-34fbd85c611b,1795393189103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C4032%2C2268%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/5c8a8e97-7852-41af-816b-34fbd85c611b,1795393189103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C4032%2C2268%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:08:29+00:00"
@@ -1456,9 +1477,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/7db94b86-dfa7-4e63-98ae-468c5580e0b7,1795360314802/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3779%2C2125%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/7db94b86-dfa7-4e63-98ae-468c5580e0b7,1795360314802/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3779%2C2125%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:08:29+00:00"
@@ -3724,7 +3745,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4963,7 +4984,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6250,26 +6271,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T07:18:47+00:00"
-  },
-  {
-   "id": "ae58bd9e7f4a9216",
-   "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
-   "summary": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacks A secret government cybersecurity operation recently warded off the risk of a cyber-attack on fridges and freezers in UK supermarkets, warehouses…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
-   "date": "2026-11-20T18:06:52+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Fred Tanneau/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=700&quality=85&auto=format&fit=max&s=cfe2a193d15f66ab4c0a55464b902496",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T17:12:49+00:00"
   }
  ]
 }

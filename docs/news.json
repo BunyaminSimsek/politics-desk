@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T23:38:26+00:00",
+ "generatedAt": "2026-11-23T23:47:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -65,13 +65,13 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -180,12 +180,32 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/981af887-be87-4eae-bea5-79e107f3f6cc,1795476335739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C47%2C3519%2C1979%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/981af887-be87-4eae-bea5-79e107f3f6cc,1795476335739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C47%2C3519%2C1979%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T23:38:26+00:00"
+  },
+  {
+   "id": "6856c16999107c18",
+   "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
+   "summary": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+   "date": "2026-11-23T23:26:16+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04b62a0b8f-1795470890_f46624-1795476355.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04b62a0b8f-1795470890_f46624-1795476355.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T23:47:59+00:00"
   },
   {
    "id": "dfa4db2f66ca0142",
@@ -626,9 +646,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/ada87791-758c-4b56-905e-207f11520e13,1795468894181/full/max/0/default.jpg?im=Crop%2Crect%3D%2840%2C0%2C1411%2C793%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/ada87791-758c-4b56-905e-207f11520e13,1795468894181/full/max/0/default.jpg?im=Crop%2Crect%3D%2840%2C0%2C1411%2C793%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T21:36:14+00:00"
@@ -4667,7 +4687,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6363,26 +6383,6 @@
     "credit": "Photograph: Heather Diehl/Getty Images",
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/cac7b215020ab17f2e1926d910d082e9f9ca8ad3/444_0_4416_3535/master/4416.jpg?width=700&quality=85&auto=format&fit=max&s=4a04958e10540d591086e2d7824c311d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T00:05:50+00:00"
-  },
-  {
-   "id": "96a7f9767d2d2403",
-   "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
-   "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer ’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
-   "date": "2026-11-20T23:42:43+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Robyn Beck/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=ff5a462ec05a7f678af1a3bad4b916e2",
     "w": 700
    },
    "breaking": false,

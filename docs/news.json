@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T13:58:37+00:00",
+ "generatedAt": "2026-11-23T14:07:57+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -166,9 +166,31 @@
  ],
  "items": [
   {
+   "id": "77ece0992320838f",
+   "title": "Kremlin warns of ‘escalation’ as Albania denies Ukrainian drones that sank Russian ships launched from its territory – Europe live",
+   "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+   "date": "2026-11-23T13:48:25+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Planet Labs Pbc/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=700&quality=85&auto=format&fit=max&s=175d7d4be5655844eec97982c5e780c0",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:01:53+00:00"
+  },
+  {
    "id": "f1abf2755af8d1ad",
-   "title": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU – UK politics live",
-   "summary": "Former prime minister says issue is ‘huge distraction’ for government as Burham prepares to update MPs on his deal In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy…",
+   "title": "Former Tory PMs ‘can’t face up to their bad Brexit deal’, says Burnham – UK politics live",
+   "summary": "Rishi Sunak joins other former Tory PMs in urging Burnham not to reopen the debate on Brexit In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
    "date": "2026-11-23T13:38:55+00:00",
@@ -224,28 +246,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:11:58+00:00"
-  },
-  {
-   "id": "77ece0992320838f",
-   "title": "Kremlin warns of ‘escalation’ as Albania denies Ukrainian drones that sank Russian ships launched from its territory – Europe live",
-   "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-   "date": "2026-11-23T13:12:27+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Planet Labs Pbc/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=700&quality=85&auto=format&fit=max&s=175d7d4be5655844eec97982c5e780c0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:01:53+00:00"
   },
   {
    "id": "f3a1a57bc1b67585",
@@ -6215,46 +6215,6 @@
     "small": "https://globalnews.ca/wp-content/uploads/2026/10/2401df4bf13a086b9552441e2445634c4d7af7267d6221b62de54d7135fd1a59.jpg?w=640&h=427&crop=1&quality=70&strip=all",
     "url": "https://globalnews.ca/wp-content/uploads/2026/10/2401df4bf13a086b9552441e2445634c4d7af7267d6221b62de54d7135fd1a59.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
     "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T14:16:09+00:00"
-  },
-  {
-   "id": "adfd6129676fb7a3",
-   "title": "As the Coalition stares down One Nation in NSW, a new threat is rising: independents",
-   "summary": "The opposition’s struggle is creating an opportunity for progressive independents who are boosted by shrewd political operator Chris Minns Get our daily political email , free app or daily news podcast The New South Wales Coalition is facing a renewed threat…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
-   "date": "2026-11-20T14:00:32+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Sarah Wilson/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4a587781117ac3e5eb250fd3995c2d9a5ad2cc47/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=2a2bb0a673fc73292ffa05c0082d4bd0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T08:51:24+00:00"
-  },
-  {
-   "id": "8c001dfe6421839d",
-   "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
-   "summary": "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income stream On a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop boat, docked in New…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
-   "date": "2026-11-20T14:00:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Simon Simard/The Guardian",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/121c48abe318604b11e3134fcbc6c9f91546e514/0_921_4480_3584/master/4480.jpg?width=700&quality=85&auto=format&fit=max&s=d457794b86652ce2790e7eaba8241571",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-20T14:16:09+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T10:16:18+00:00",
+ "generatedAt": "2026-11-23T10:25:30+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 26
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "f1abf2755af8d1ad",
+   "title": "Tories welcome Louise Haigh’s hint government could adopt their plan to scrap Natural England – UK politics live",
+   "summary": "First secretary of state has declined to say whether Natural England will be abolished as part of plans to cut the number of quangos Natural England could be abolished as part of quango cull, says Louise Haigh Louise Haigh , the first secretary of state, is…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+   "date": "2026-11-23T10:09:20+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Stefan Rousseau/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f19877fad077a0f724fe4ffa567383839f14e822/35_0_2240_1792/master/2240.jpg?width=700&quality=85&auto=format&fit=max&s=c8f5417c3f21dda8286b41fb1e3e23cc",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:39:29+00:00"
+  },
+  {
    "id": "356eb746f9e5465d",
    "title": "A dementia diagnosis — and then nothing: Ontario families struggle to find care",
    "summary": "A new task force blueprint calls for a centralized navigation system so families can find dementia programs they don't know exist.",
@@ -184,26 +204,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T10:07:12+00:00"
-  },
-  {
-   "id": "f1abf2755af8d1ad",
-   "title": "Tories welcome Louise Haigh’s hint government could adopt their plan to scrap Natural England – UK politics live",
-   "summary": "First secretary of state has declined to say whether Natural England will be abolished as part of plans to cut the number of quangos Natural England could be abolished as part of quango cull, says Louise Haigh Rain Newton-Smith , the CBI chief executive…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T09:59:26+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Stefan Rousseau/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f19877fad077a0f724fe4ffa567383839f14e822/35_0_2240_1792/master/2240.jpg?width=700&quality=85&auto=format&fit=max&s=c8f5417c3f21dda8286b41fb1e3e23cc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:39:29+00:00"
   },
   {
    "id": "77ece0992320838f",
@@ -2643,7 +2643,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3882,7 +3882,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5095,7 +5095,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

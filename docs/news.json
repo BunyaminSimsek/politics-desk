@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T02:35:31+00:00",
+ "generatedAt": "2026-11-23T02:44:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "date": "2026-11-23T02:19:04+00:00",
+   "date": "2026-11-23T02:36:52+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [],
@@ -184,6 +184,45 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T19:59:55+00:00"
+  },
+  {
+   "id": "14133e8440d3b199",
+   "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+   "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+   "date": "2026-11-23T02:23:13+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b037a2f-1795389999.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b037a2f-1795389999.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T02:44:50+00:00"
+  },
+  {
+   "id": "4de92c2c9b981d87",
+   "title": "Carney, opposition leaders trade comedic jabs at press gallery dinner",
+   "summary": "Two Mark Carneys and a Donald Trump shared the stage at the Parliamentary Press Gallery dinner Saturday, when the prime minister got a little help from This Hour Has 22 Minutes impersonators to give the traditional comedic speech.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/carney-press-gallery-dinner-9.7432138?cmp=rss",
+   "date": "2026-11-23T01:55:29+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/dcb903a2-c31e-49e4-ac73-0d3859cae4fa,1795398121842/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C3778%2C2125%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T02:44:50+00:00"
   },
   {
    "id": "d0bc63222d2b60e4",
@@ -6267,28 +6306,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-19T11:18:33+00:00"
-  },
-  {
-   "id": "feedd56ce83382c3",
-   "title": "Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win",
-   "summary": "President had sought to block results if Democrat won race that featured two candidates named Dan Sullivan In a legal filing on Thursday, the Trump administration asked a federal appeals court to dismiss the lawsuit it filed before the midterm elections…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate",
-   "date": "2026-11-20T02:43:33+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lindsey Wasson/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/137c92397a23570d7587a4de4e41c0a66edf7caf/461_0_4610_3688/master/4610.jpg?width=700&quality=85&auto=format&fit=max&s=a2806fe258529985ce7dea3c7df54c33",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T03:01:26+00:00"
   }
  ]
 }

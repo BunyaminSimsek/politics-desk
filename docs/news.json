@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T00:45:29+00:00",
+ "generatedAt": "2026-11-23T00:54:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "625f75768949574d",
+   "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+   "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+   "date": "2026-11-23T00:39:51+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26224654243554-1795391797.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26224654243554-1795391797.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T00:54:44+00:00"
+  },
+  {
+   "id": "83c8a30ff39af264",
+   "title": "Australian politics live: Hanson calls Coalition and Labor a ‘uni’ party; Liberals demand Bowen resign over Cop ‘disaster’",
+   "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+   "date": "2026-11-23T00:35:39+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Mick Tsikas/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=c0de52eefa98171c47179d260b3c3af8",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T19:59:55+00:00"
+  },
+  {
    "id": "e2be825e0d55bb5f",
    "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
    "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump is scheduled to headline his third cryptocurrency gala on ⁠Sunday night at his ​country club in Virginia, rewarding top holders of his…",
@@ -184,26 +224,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T00:36:19+00:00"
-  },
-  {
-   "id": "83c8a30ff39af264",
-   "title": "Australian politics live: Hanson calls Coalition and Labor a ‘uni’ party; Liberals demand Bowen resign over Cop ‘disaster’",
-   "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "date": "2026-11-23T00:26:56+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mick Tsikas/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=c0de52eefa98171c47179d260b3c3af8",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T19:59:55+00:00"
   },
   {
    "id": "3ecf1ecb43f07a79",
@@ -1967,7 +1987,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3186,7 +3206,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4399,7 +4419,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6289,26 +6309,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T01:30:00+00:00"
-  },
-  {
-   "id": "b5502e0ebc980de5",
-   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-   "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T00:50:24+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-19T19:25:59+00:00"
   }
  ]
 }

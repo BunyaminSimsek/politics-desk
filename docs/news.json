@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T05:48:33+00:00",
+ "generatedAt": "2026-11-23T05:57:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -171,7 +171,7 @@
    "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "date": "2026-11-23T05:45:00+00:00",
+   "date": "2026-11-23T05:36:36+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [],
@@ -327,10 +327,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f1717a2a58a718f26e5ea27c390dc3e864b3b906/0_0_3000_2399/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=bbcb76e569f2baeffca7ca2c61ef84ba",
-    "w": 700,
+    "credit": "Photograph: gofundme.com",
     "h": 560,
-    "credit": "Photograph: gofundme.com"
+    "url": "https://i.guim.co.uk/img/media/f1717a2a58a718f26e5ea27c390dc3e864b3b906/0_0_3000_2399/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=bbcb76e569f2baeffca7ca2c61ef84ba",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T04:16:39+00:00"
@@ -2216,7 +2216,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3435,7 +3435,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4648,7 +4648,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6226,26 +6226,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T06:42:21+00:00"
-  },
-  {
-   "id": "c3c21837f1c04bbb",
-   "title": "Trump bows to pressure, replaces US cyber security director",
-   "summary": "President Trump has removed National Cyber Director Sean Cairncross and named a Defense Department official as interim.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss",
-   "date": "2026-11-20T05:48:35+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795153683.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795153683.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T06:24:05+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T16:18:08+00:00",
+ "generatedAt": "2026-11-23T16:27:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "62ee797c7eee5477",
+   "title": "Navdeep Bains vows united front at Queen’s Park after narrow Liberal leadership win",
+   "summary": "Bains has a long road ahead of him if he wants to challenge the Ford government in the next election, which could be as far away as 2030.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12162363/navdeep-bains-vows-united-front-at-queens-park-after-narrow-liberal-leadership-win/",
+   "date": "2026-11-23T16:24:32+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP177314704.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP177314704.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:27:26+00:00"
+  },
+  {
    "id": "dfa4db2f66ca0142",
    "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
    "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’",
@@ -221,10 +241,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3034b87937184d9bc9b3561e8cd4a6ff98b6556a/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2d6ce7bc4c1416d77015777d66a5711c",
-    "w": 700,
+    "credit": "Composite: Reuters / Guardian design / Getty Images",
     "h": 560,
-    "credit": "Composite: Reuters / Guardian design / Getty Images"
+    "url": "https://i.guim.co.uk/img/media/3034b87937184d9bc9b3561e8cd4a6ff98b6556a/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2d6ce7bc4c1416d77015777d66a5711c",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:18:08+00:00"
@@ -241,13 +261,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/60fe37a744d510b18190ce6c8663f20f3cb62cbd/0_0_5000_3999/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=6b5580169ff48323ff4a3ac371731730",
-    "w": 700,
+    "credit": "Composite: Getty Images / EPA / Guardian / Guardian design",
     "h": 560,
-    "credit": "Composite: Getty Images / EPA / Guardian / Guardian design"
+    "url": "https://i.guim.co.uk/img/media/60fe37a744d510b18190ce6c8663f20f3cb62cbd/0_0_5000_3999/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=6b5580169ff48323ff4a3ac371731730",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:18:08+00:00"
+  },
+  {
+   "id": "03ea7a924f947f90",
+   "title": "Toronto Star's Tonda MacCharles receives prestigious Charles Lynch Award",
+   "summary": "The longtime Star political journalist was honoured at the Parliamentary Press Gallery dinner in Ottawa on Saturday.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/toronto-star-s-tonda-maccharles-receives-prestigious-charles-lynch-award/article_803d06a2-ffda-4991-9e3f-cf1de506159f.html",
+   "date": "2026-11-23T16:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/d7/9d7948c3-98d1-59e6-953d-e221fd8f59d9/6b043f26e7ef4.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/d7/9d7948c3-98d1-59e6-953d-e221fd8f59d9/6b043f26e7ef4.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:27:26+00:00"
   },
   {
    "id": "77ece0992320838f",
@@ -333,8 +373,8 @@
   },
   {
    "id": "a7a6748862d201e0",
-   "title": "Toronto's top bureaucrat leaving city hall, mayoral decision shows",
-   "summary": "Olivia Chow has signed off on an overhaul of some of Toronto’s top bureaucratic roles including the city manager and deputy managers, according to decisions from the mayor’s office.",
+   "title": "Toronto's top bureaucrat leaving city hall, says Chow",
+   "summary": "Toronto Mayor Olivia Chow has signed off on an overhaul of some of Toronto’s top bureaucratic roles, including city manager, as part of a restructuring of the city's internal operations.",
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/toronto-city-manager-leaving-role-9.7432479?cmp=rss",
    "date": "2026-11-23T15:30:35+00:00",
@@ -429,6 +469,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:21:38+00:00"
+  },
+  {
+   "id": "d48de40623043aab",
+   "title": "Nvidia reinstates Jensen Huang as CEO",
+   "summary": "Nvidia's board reinstated Jensen Huang as its president and CEO on Monday in a surprise move shortly after rejecting his offer to return. It's the latest twist in the fallout from Huang's admission of an affair with a woman suspected of being a Chinese spy.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/business/jensen-huang-reinstated-nvidia-9.7432353?cmp=rss",
+   "date": "2026-11-23T14:18:53+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/335994d6-980a-4c1e-a9b4-abbcb9a1b34c,1795443564678/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:27:26+00:00"
   },
   {
    "id": "fd0f48e8fd6df022",
@@ -900,6 +959,27 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:08:29+00:00"
+  },
+  {
+   "id": "f63a9a8716ff8dba",
+   "title": "Zelenskyy confirms Ukraine was behind attack on Russian warship off Libya",
+   "summary": "Ukraine carried out an attack on a Russian warship moored at a naval base in Libya, President Volodymyr Zelenskyy said Monday, claiming that sea drones sank the vessel in a surprise assault the previous day.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/ukraine-attack-russian-warship-libya-merkury-9.7432215?cmp=rss",
+   "date": "2026-11-23T09:47:02+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/43fb80f9-b1a2-4e6e-8ada-c2c36ad662ad,1795432744334/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C2940%2C1653%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:27:26+00:00"
   },
   {
    "id": "a6168390bde62554",
@@ -3294,7 +3374,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4533,7 +4613,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5019,7 +5099,7 @@
    "id": "006483c428ae0c1e",
    "title": "Stellantis meeting ‘challenging’ but ‘productive’, Premier Ford says",
    "summary": "The meeting came as Minister of Industry Mélanie Joly said the automaker can either keep its Brampton plant open or face a multimillion-dollar lawsuit from the federal government.",
-   "source": "Global News Toronto",
+   "source": "Global News",
    "url": "https://globalnews.ca/news/12160415/stellantis-brampton-plant-meeting-doug-ford/",
    "date": "2026-11-20T23:37:01+00:00",
    "topic": "ontario",
@@ -6185,28 +6265,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/ee86b9cf6f3a096add05db8731e750fb99d5818c/935_0_4665_3733/master/4665.jpg?width=700&quality=85&auto=format&fit=max&s=e8db1e3c467747ab2af5d6dcbb6de3d8",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T16:45:01+00:00"
-  },
-  {
-   "id": "ccf306b67fd2391e",
-   "title": "'Most ambitious since Avro': Ottawa defence startup unveils partners for Scout drone",
-   "summary": "OTTAWA - Eliot Pence, the hard-charging founder of Canadian defence company Dominion Dynamics, has a message for the industry's leading contractors around the world: We're coming for your lunch.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/most-ambitious-since-avro-ottawa-defence-startup-unveils-partners-for-scout-drone/article_3d9d565e-e141-5d7a-9c9f-2baf1252f399.html",
-   "date": "2026-11-20T16:22:01+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/77/d772e45f-ef4e-52c0-84e7-e9b2a3da5314/6a4379db10dd8.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/77/d772e45f-ef4e-52c0-84e7-e9b2a3da5314/6a4379db10dd8.image.jpg?resize=1200%2C",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T16:45:01+00:00"

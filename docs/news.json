@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T17:33:04+00:00",
+ "generatedAt": "2026-11-23T17:42:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,13 +41,13 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -191,7 +191,7 @@
    "summary": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T17:26:25+00:00",
+   "date": "2026-11-23T17:22:09+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -250,6 +250,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T17:23:53+00:00"
+  },
+  {
+   "id": "356c846027652ad0",
+   "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+   "summary": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T17:14:50+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T17:42:38+00:00"
   },
   {
    "id": "9d50e4f5338758f0",
@@ -651,9 +673,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.7583658,1752282028000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.7583658,1752282028000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T15:30:47+00:00"
@@ -838,6 +860,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T14:17:09+00:00"
+  },
+  {
+   "id": "33fc5939f65f224f",
+   "title": "India pledges $1.6bn to Nepal in reset of ties",
+   "summary": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T13:39:30+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T17:42:38+00:00"
   },
   {
    "id": "7b8bae570643d666",
@@ -3597,7 +3639,7 @@
   },
   {
    "id": "dbbc023a3aaa37f3",
-   "title": "Q&A: Ask us anything about the Ontario Liberal leadership race",
+   "title": "Q&A: Navdeep Bains, Queen's Park and the Ontario Liberal leadership race",
    "summary": "Join Queen's Park reporter Rob Ferguson and business columnist Adam Radwanski in the comments for a live Q&A on Ontario's new Liberal leader, Navdeep Bains.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/q-a-ask-us-anything-about-the-ontario-liberal-leadership-race/article_4a7fbea0-683c-449b-9a35-70d6ea7c24e4.html",
@@ -3642,7 +3684,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4881,7 +4923,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

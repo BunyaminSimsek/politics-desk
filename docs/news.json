@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T13:40:15+00:00",
+ "generatedAt": "2026-11-23T13:49:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "f1abf2755af8d1ad",
+   "title": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU – UK politics live",
+   "summary": "Former prime minister says issue is ‘huge distraction’ for government as Burham prepares to update MPs on his deal In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+   "date": "2026-11-23T13:38:55+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/c1db663bc7667222692d12878f5578031da69604/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=68a1bda2bd25c1212df4b7e41d3722ca",
+    "w": 700,
+    "h": 560,
+    "credit": "Composite: Manuel Orbegozo/Reuters; Olivier Hoslet/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:39:29+00:00"
+  },
+  {
    "id": "7b8bae570643d666",
    "title": "Flights and train services cancelled in Belgium due to strike",
    "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
@@ -226,26 +246,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:01:53+00:00"
-  },
-  {
-   "id": "f1abf2755af8d1ad",
-   "title": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU – UK politics live",
-   "summary": "Former prime minister says issue is ‘huge distraction’ for government as Burham prepares to update MPs on his deal In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T13:11:16+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jonathan Brady/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ecc3dc6198e74a17c992bae9f8e1832c967f58bb/972_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=926faca822d19811794c3ae9ae98af79",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:39:29+00:00"
   },
   {
    "id": "f3a1a57bc1b67585",
@@ -6255,46 +6255,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/121c48abe318604b11e3134fcbc6c9f91546e514/0_921_4480_3584/master/4480.jpg?width=700&quality=85&auto=format&fit=max&s=d457794b86652ce2790e7eaba8241571",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T14:16:09+00:00"
-  },
-  {
-   "id": "95e73dccb2889c7b",
-   "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
-   "summary": "Chambers left Aranjuez prison near Madrid on Friday afternoon, shortly after Spain's High Court ordered him released.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers?traffic_source=rss",
-   "date": "2026-11-20T13:45:14+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/Fergie-Chambers1-1788295416.png?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/Fergie-Chambers1-1788295416.png?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T14:16:09+00:00"
-  },
-  {
-   "id": "658331a48964a228",
-   "title": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
-   "summary": "A Myanmar government spokesperson said the ruling was unjust and noted that the court's decision was not unanimous.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
-   "date": "2026-11-20T13:41:49+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00161225-1795167762.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00161225-1795167762.jpg?resize=1200%2C800",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-20T14:16:09+00:00"

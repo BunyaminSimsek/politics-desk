@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T18:10:18+00:00",
+ "generatedAt": "2026-11-23T18:19:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 27
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,6 +166,108 @@
  ],
  "items": [
   {
+   "id": "0dbbf8511ac62987",
+   "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+   "summary": "Nepal's Prime Minister Balendra Shah is in New Delhi for a two-day visit — his first since coming to power in March.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
+   "date": "2026-11-23T18:12:55+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T092817Z_1123569228_RC2KTOAJTMT8_RTRMADP_3_INDIA-NEPAL-1795445216.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T092817Z_1123569228_RC2KTOAJTMT8_RTRMADP_3_INDIA-NEPAL-1795445216.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T18:19:53+00:00"
+  },
+  {
+   "id": "351f1717fcb17030",
+   "title": "Olivia Chow uses strong mayor powers to replace Toronto's city manager",
+   "summary": "TORONTO - Toronto Mayor Olivia Chow is using her strong mayor powers to replace the city's top bureaucrat with an interim hire and shake up the city's organizational structure.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/olivia-chow-uses-strong-mayor-powers-to-replace-toronto-s-city-manager/article_81cdd6a7-61a0-5074-8385-57b15143ba4d.html",
+   "date": "2026-11-23T18:08:10+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/70/a70487d1-28ce-5d80-aa89-61f2386c4a66/6b04818bbda00.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/70/a70487d1-28ce-5d80-aa89-61f2386c4a66/6b04818bbda00.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T18:19:53+00:00"
+  },
+  {
+   "id": "9b7b304f4756020a",
+   "title": "Only six beds for trans victims of domestic abuse in UK, report finds",
+   "summary": "Exclusive: Services say the supreme court ruling on single-sex spaces has made it ‘almost impossible’ to find refuges for trans people There are only six beds for trans victims of domestic abuse in the UK, a new report has found, with services saying it is…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/society/2026/nov/23/only-six-beds-for-trans-victims-of-domestic-abuse-in-uk-report-finds",
+   "date": "2026-11-23T18:07:04+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/69af2b48ea96a862944eafa5ea96ece5ec5a7b75/814_0_4067_3254/master/4067.jpg?width=700&quality=85&auto=format&fit=max&s=e0f166ec12844b54c530407488e1e49b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lindsey Wasson/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T18:19:53+00:00"
+  },
+  {
+   "id": "1a4f66fe2284b473",
+   "title": "Public service union calls on Liberals to criminalize residential school denialism",
+   "summary": "OTTAWA - The Public Service Alliance of Canada is echoing calls from Indigenous leaders for the federal government to criminalize residential school denialism.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/public-service-union-calls-on-liberals-to-criminalize-residential-school-denialism/article_51976cf3-4259-5e58-95af-e82fa0e28bde.html",
+   "date": "2026-11-23T18:05:54+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/1a/31a5c3e3-30c4-56b0-9e61-c09e6e25a7c0/6b04817dc550c.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 564,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/1a/31a5c3e3-30c4-56b0-9e61-c09e6e25a7c0/6b04817dc550c.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T18:19:53+00:00"
+  },
+  {
+   "id": "dfa4db2f66ca0142",
+   "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
+   "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T18:05:13+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evan Vucci/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=f27c02772cbf21f095eab5ebf9976f71",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
    "id": "4578896294e6351b",
    "title": "Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang",
    "summary": "After his announcement, Trump posted a photo on Truth Social depicting Huang prevailing by holding up red bra Nvidia reinstates Jensen Huang – latest updates US politics – live updates Donald Trump said on Monday that he spoke “directly and indirectly” with…",
@@ -184,28 +286,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:37:10+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
-   "summary": "US president praises Nvidia’s reinstatement of Jensen Huang as CEO, calling it ‘the correct and proper decision’ Nvidia shares surge 33% on Huang‘s return – business live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T17:54:05+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evan Vucci/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=f27c02772cbf21f095eab5ebf9976f71",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "f1abf2755af8d1ad",
@@ -243,9 +323,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/4c99da99-dd28-4d0b-8d9f-fcb23dc53be0,1795441946358/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8640%2C4860%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/4c99da99-dd28-4d0b-8d9f-fcb23dc53be0,1795441946358/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8640%2C4860%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T18:10:18+00:00"
@@ -437,7 +517,7 @@
   {
    "id": "540d07d0d8688243",
    "title": "Florida city cancels Christmas parade after tax amendment forces budget cuts",
-   "summary": "Deltona officials say parade is getting cancelled due to the state’s voter-approved Amendment 3 property tax overhaul A city in south-western Florida has cancelled its Christmas parade, citing pending state legislation, to ensure the city remains “fiscally…",
+   "summary": "Deltona officials say parade is getting cancelled due to state’s voter-approved Amendment 3 property tax overhaul A city in south-western Florida has cancelled its Christmas parade, citing pending state legislation, to ensure the city remains “fiscally…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/23/deltona-florida-christmas-parade-amendment-3",
    "date": "2026-11-23T16:48:11+00:00",
@@ -1324,9 +1404,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/5c8a8e97-7852-41af-816b-34fbd85c611b,1795393189103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C4032%2C2268%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/5c8a8e97-7852-41af-816b-34fbd85c611b,1795393189103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C4032%2C2268%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:08:29+00:00"
@@ -1477,9 +1557,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/7db94b86-dfa7-4e63-98ae-468c5580e0b7,1795360314802/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3779%2C2125%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/7db94b86-dfa7-4e63-98ae-468c5580e0b7,1795360314802/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C199%2C3779%2C2125%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:08:29+00:00"
@@ -6209,68 +6289,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T18:27:56+00:00"
-  },
-  {
-   "id": "c28dd5fd6341bbf3",
-   "title": "Supreme Court of Canada upholds conviction for aggravated sexual assault",
-   "summary": "OTTAWA - The Supreme Court of Canada says a judge made a clear legal error when he required evidence that a complainant in a sexual assault case communicated her lack of consent to the accused man.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/supreme-court-of-canada-upholds-conviction-for-aggravated-sexual-assault/article_789e18fb-9fcf-5b08-8998-2baee6d9f227.html",
-   "date": "2026-11-20T18:12:17+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 794,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/9e/19eb39ce-3d71-58b2-987f-ad19f2fe5e23/6b008e295064b.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/9e/19eb39ce-3d71-58b2-987f-ad19f2fe5e23/6b008e295064b.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T18:27:56+00:00"
-  },
-  {
-   "id": "61854d96040f3cd9",
-   "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
-   "summary": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’ Nigel Farage has said he does not see another person who could do his job as leader of Reform UK, in a warning shot to potential…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
-   "date": "2026-11-20T18:11:25+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Marius Burgelman/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f8e40ebdb59af4c88a35f0a5831e5d5d9dafb33f/0_183_3993_3194/master/3993.jpg?width=700&quality=85&auto=format&fit=max&s=86edd8ae1433850f5e341fbae5f34b25",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T13:28:33+00:00"
-  },
-  {
-   "id": "bc7ca4a145728fd4",
-   "title": "Factious climate talks enter overtime without new draft deal in sight – as it happened",
-   "summary": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official end Antalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final press conference at the UN climate summit.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-20T18:11:16+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Khalil Hamra/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/014e8e90cb60127dc1056169cec2565890ae8e84/309_0_3092_2473/master/3092.jpg?width=700&quality=85&auto=format&fit=max&s=9363d4867175698034135438b97d1fc7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T07:18:47+00:00"
   }
  ]
 }

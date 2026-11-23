@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T23:28:49+00:00",
+ "generatedAt": "2026-11-23T23:38:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,34 @@
  ],
  "items": [
   {
+   "id": "dd4cd606cf5d50df",
+   "title": "Pentagon takes fresh aim at Canada's military readiness, defence spending priorities",
+   "summary": "The Pentagon has escalated its criticism of Canada, accusing Ottawa of failing to meet NATO and NORAD obligations and putting domestic economic interests ahead of military effectiveness.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/pentagon-criticizes-canadian-military-readiness-9.7433335?cmp=rss",
+   "date": "2026-11-23T23:32:21+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy",
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/981af887-be87-4eae-bea5-79e107f3f6cc,1795476335739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C47%2C3519%2C1979%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T23:38:26+00:00"
+  },
+  {
    "id": "dfa4db2f66ca0142",
    "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
-   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Nvidia shares surge on Huang‘s return –…",
+   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T23:12:51+00:00",
+   "date": "2026-11-23T23:23:30+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -197,9 +219,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.1811302,1379217307000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.1811302,1379217307000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T23:28:49+00:00"
@@ -604,9 +626,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/ada87791-758c-4b56-905e-207f11520e13,1795468894181/full/max/0/default.jpg?im=Crop%2Crect%3D%2840%2C0%2C1411%2C793%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/ada87791-758c-4b56-905e-207f11520e13,1795468894181/full/max/0/default.jpg?im=Crop%2Crect%3D%2840%2C0%2C1411%2C793%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T21:36:14+00:00"
@@ -1135,7 +1157,7 @@
    "summary": "TORONTO - Toronto Mayor Olivia Chow is using her strong mayor powers to replace the city's top bureaucrat with an interim hire and shake up the city's organizational structure.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/olivia-chow-uses-strong-mayor-powers-to-replace-toronto-s-city-manager/article_81cdd6a7-61a0-5074-8385-57b15143ba4d.html",
-   "date": "2026-11-23T18:08:10+00:00",
+   "date": "2026-11-23T18:08:00+00:00",
    "topic": "toronto",
    "region": "local",
    "tags": [],
@@ -6365,48 +6387,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T00:05:50+00:00"
-  },
-  {
-   "id": "006483c428ae0c1e",
-   "title": "Stellantis meeting ‘challenging’ but ‘productive’, Premier Ford says",
-   "summary": "The meeting came as Minister of Industry Mélanie Joly said the automaker can either keep its Brampton plant open or face a multimillion-dollar lawsuit from the federal government.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12160415/stellantis-brampton-plant-meeting-doug-ford/",
-   "date": "2026-11-20T23:37:01+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T23:37:33+00:00"
-  },
-  {
-   "id": "c44eb31bc6ac5782",
-   "title": "Doug Ford urges Ottawa to ditch industrial carbon price to save Stellantis Brampton plant",
-   "summary": "A federal official told the Star Ottawa is seeking $831 million from Stellantis if it goes ahead and sells the Brampton plant to Roshel.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/doug-ford-urges-ottawa-to-ditch-industrial-carbon-price-to-save-stellantis-brampton-plant/article_9dbe6c5e-6055-4515-9f88-255fff1e21f2.html",
-   "date": "2026-11-20T23:30:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 901,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/fe/3fe6b07b-d4f6-5c90-aa99-977659961f96/6b00d655ae923.image.jpg?crop=1327%2C996%2C33%2C67&order=crop%2Cresize&resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/fe/3fe6b07b-d4f6-5c90-aa99-977659961f96/6b00d655ae923.image.jpg?crop=1327%2C996%2C33%2C67&order=crop%2Cresize&resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T23:46:47+00:00"
   }
  ]
 }

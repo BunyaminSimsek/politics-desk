@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T23:01:19+00:00",
+ "generatedAt": "2026-11-23T23:10:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "2aa9fd24f84b5e13",
+   "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+   "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T23:06:53+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:55:47+00:00"
+  },
+  {
    "id": "48112c23751e9133",
    "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
    "summary": "Jimmy Gomez, who lost his election this month and only serving in the House until the year's end, was accused of sexual misconduct with a staff member.",
@@ -184,6 +206,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T21:36:14+00:00"
+  },
+  {
+   "id": "13c61ff595494a4e",
+   "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
+   "summary": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
+   "date": "2026-11-23T22:54:47+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795474436.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795474436.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": true,
+   "addedAt": "2026-11-23T23:10:33+00:00"
   },
   {
    "id": "f251d809d996cc13",
@@ -923,26 +967,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T19:53:20+00:00"
-  },
-  {
-   "id": "2aa9fd24f84b5e13",
-   "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
-   "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T19:14:44+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:55:47+00:00"
   },
   {
    "id": "9c9d202d317ea6ba",
@@ -4582,7 +4606,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6364,48 +6388,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T23:46:47+00:00"
-  },
-  {
-   "id": "d8d064076f70f621",
-   "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-   "summary": "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
-   "date": "2026-11-20T23:06:41+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00c08d262a-1795211405.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00c08d262a-1795211405.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T23:18:45+00:00"
-  },
-  {
-   "id": "785fa1f78c45c315",
-   "title": "Calgary man pleads guilty to threatening to kill PM Carney in YouTube posts",
-   "summary": "Sitting in court, Dacosta yawned and laughed as his posts were shown in court.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/alberta/calgary-man-pleads-guilty-to-threatening-to-kill-pm-carney-in-youtube-posts/article_7bd8959a-bcf1-5529-a239-f6aa497705dc.html",
-   "date": "2026-11-20T23:05:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 853,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/66/566e1504-ef12-5e7a-8fc2-14b137a17544/6ab59789a107d.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/66/566e1504-ef12-5e7a-8fc2-14b137a17544/6ab59789a107d.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T23:18:45+00:00"
   }
  ]
 }

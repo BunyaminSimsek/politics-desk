@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T03:21:57+00:00",
+ "generatedAt": "2026-11-23T03:30:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "83c8a30ff39af264",
+   "title": "Australian politics live: Crossbenchers urge protection for political cartoons from AI; Singapore PM flying in via Western Sydney airport",
+   "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+   "date": "2026-11-23T03:12:25+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0992e3b6b0f7bc5a000ad9d071fae956ac18557d/0_196_5733_4586/master/5733.jpg?width=700&quality=85&auto=format&fit=max&s=6131c99a19c8b4df837efdf54807202a",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Mick Tsikas/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T19:59:55+00:00"
+  },
+  {
    "id": "94e8727b585e7042",
    "title": "Beau Lamarre-Condon acted like a ‘poorly behaved boyfriend’ before alleged double murders, defence argues",
    "summary": "Crown says accused developed ‘jealous obsession’ but defence says ‘love makes fools of us’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon acted like a “poorly behaved…",
@@ -186,26 +206,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T01:22:17+00:00"
-  },
-  {
-   "id": "83c8a30ff39af264",
-   "title": "Australian politics live: PM’s staff numbers exceed crossbench’s allocation combined; Minns ends presser after heckling",
-   "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "date": "2026-11-23T03:06:21+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mick Tsikas/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/be8178f5c5e3de46c0382feac86201617d03820f/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=bd66d35f70889973442f05e2c4bec9bd",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T19:59:55+00:00"
   },
   {
    "id": "e2830407b36aa712",
@@ -2090,7 +2090,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3309,7 +3309,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4522,7 +4522,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6264,28 +6264,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T04:33:42+00:00"
-  },
-  {
-   "id": "d0e310a3f6408c00",
-   "title": "Thousands protest Colombia’s tax plans amid row over US military role",
-   "summary": "Trade unions, students and opposition groups demonstrated in Bogota and other major cities on Thursday.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role?traffic_source=rss",
-   "date": "2026-11-20T03:26:23+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261119__D8394LN__v1__HighRes__ColombiaPoliticsTaxProtest-1795139757.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261119__D8394LN__v1__HighRes__ColombiaPoliticsTaxProtest-1795139757.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T03:47:43+00:00"
   }
  ]
 }

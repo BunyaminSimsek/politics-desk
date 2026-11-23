@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T07:02:01+00:00",
+ "generatedAt": "2026-11-23T07:11:36+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -200,11 +200,11 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/23982dd7bf21c4a556aaef5d8e716b31dde60ae4/432_0_4320_3456/master/4320.jpg?width=700&quality=85&auto=format&fit=max&s=ffe729812bc99dfb3a8ab76afea82032",
-    "w": 700,
-    "h": 560,
+    "caption": "Whether or not the UK should rejoin the EU will be back on the agenda in parliament this week.",
     "credit": "Photograph: JLBvdWOLF/Alamy",
-    "caption": "Whether or not the UK should rejoin the EU will be back on the agenda in parliament this week."
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/23982dd7bf21c4a556aaef5d8e716b31dde60ae4/432_0_4320_3456/master/4320.jpg?width=700&quality=85&auto=format&fit=max&s=ffe729812bc99dfb3a8ab76afea82032",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T07:02:01+00:00"
@@ -533,9 +533,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/dcb903a2-c31e-49e4-ac73-0d3859cae4fa,1795398121842/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C3778%2C2125%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/dcb903a2-c31e-49e4-ac73-0d3859cae4fa,1795398121842/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C3778%2C2125%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T02:44:50+00:00"
@@ -604,8 +604,8 @@
   },
   {
    "id": "3ecf1ecb43f07a79",
-   "title": "Iran war live: Rubio due to meet Qatari PM; Iran warns of internal threats",
-   "summary": "US Secretary of State due to meet Qatari PM as Iran warned its enemies sought to stoke domestic unrest.",
+   "title": "Iran war live: Hormuz tankers set ablaze; Tehran warns of internal threats",
+   "summary": "Oil tankers were set ablaze in the Strait of Hormuz as Iran warned that its enemies sought to stoke domestic unrest.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
    "date": "2026-11-22T23:59:22+00:00",
@@ -2320,7 +2320,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3539,7 +3539,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4752,7 +4752,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

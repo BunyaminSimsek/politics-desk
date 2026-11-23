@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T19:25:11+00:00",
+ "generatedAt": "2026-11-23T19:34:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "Global News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "dfa4db2f66ca0142",
+   "title": "Republicans voice concerns over Jensen Huang’s Nvidia reinstatement after Trump urged board to rehire CEO – live",
+   "summary": "Several Republican lawmakers raise questions and concerns about Nvidia’s reinstatement of Jensen Huang, saying his ‘behavior does not support reinstatement’ Nvidia shares surge 33% on Huang‘s return – business live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T19:28:31+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
+   "id": "00ee9db08ed19d5a",
+   "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
+   "summary": "Prime minister also says former Tory premiers who have criticised revival of Brexit debate are ‘stuck in the past’ UK politics live – latest updates Andy Burnham has said it would be “unthinkable” for the UK to rejoin the EU without holding another…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
+   "date": "2026-11-23T19:26:01+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Jack Hill/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e7777a1987dbf50dcccb3faf1ad701f1a91ceb1c/1702_373_6049_4840/master/6049.jpg?width=700&quality=85&auto=format&fit=max&s=07492ac1d5211de7c1f241b63ada0e30",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T17:05:27+00:00"
+  },
+  {
    "id": "2aa9fd24f84b5e13",
    "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
    "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
@@ -207,8 +249,8 @@
   },
   {
    "id": "9c9d202d317ea6ba",
-   "title": "CP NewsAlert: Cadet weekend activities to be restored after pause: minister",
-   "summary": "OTTAWA - Defence Minister David McGuinty says more funding will be coming to the cadet programs so weekend and supplemental activities can continue for the remainder of the fiscal year.",
+   "title": "Cadet weekend activities to be restored with new funding for programs: minister",
+   "summary": "OTTAWA - Defence Minister David McGuinty says more funding is coming for cadet programs so that weekend and supplemental activities can continue as planned until the end of March.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/cp-newsalert-cadet-weekend-activities-to-be-restored-after-pause-minister/article_003cb163-3472-55ef-a0bc-f40cfe40d954.html",
    "date": "2026-11-23T19:05:07+00:00",
@@ -217,33 +259,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/69/669e5383-adb3-5667-83eb-cc567db4a684/6b0063f94906e.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 837,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/69/669e5383-adb3-5667-83eb-cc567db4a684/6b0063f94906e.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/69/669e5383-adb3-5667-83eb-cc567db4a684/6b0063f94906e.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/69/669e5383-adb3-5667-83eb-cc567db4a684/6b0063f94906e.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T19:25:11+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Republicans voice concerns over Jensen Huang’s Nvidia reinstatement after Trump urged board to rehire CEO – live",
-   "summary": "Several Republican lawmakers raise questions and concerns about Nvidia’s reinstatement of Jensen Huang, saying his ‘behavior does not support reinstatement’ Nvidia shares surge 33% on Huang‘s return – business live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T19:00:10+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "f2286b4f32edfc60",
@@ -657,28 +679,6 @@
    "addedAt": "2026-11-23T17:05:27+00:00"
   },
   {
-   "id": "00ee9db08ed19d5a",
-   "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
-   "summary": "Andy Burnham also said former Tory prime ministers who have criticised the revival of the Brexit debate were ‘stuck in the past’ UK politics live – latest updates Andy Burnham has said it would be “unthinkable” for the UK to rejoin the EU without holding…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
-   "date": "2026-11-23T16:40:47+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jack Hill/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e7777a1987dbf50dcccb3faf1ad701f1a91ceb1c/1702_373_6049_4840/master/6049.jpg?width=700&quality=85&auto=format&fit=max&s=07492ac1d5211de7c1f241b63ada0e30",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T17:05:27+00:00"
-  },
-  {
    "id": "50b17fe112bc5842",
    "title": "Why did COP31 climate talks collapse without a deal?",
    "summary": "The longest UN climate summit in history collapsed without a final deal in Turkiye, the first such failure in 17 years.",
@@ -894,9 +894,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.7583658,1752282028000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.7583658,1752282028000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T15:30:47+00:00"

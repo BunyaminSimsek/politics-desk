@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T19:06:48+00:00",
+ "generatedAt": "2026-11-23T19:16:00+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "2aa9fd24f84b5e13",
+   "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+   "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T19:14:44+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:55:47+00:00"
+  },
   {
    "id": "dfa4db2f66ca0142",
    "title": "Republicans voice concerns over Jensen Huang’s Nvidia reinstatement after Trump urged board to rehire CEO – live",
@@ -350,7 +370,7 @@
   {
    "id": "9b7b304f4756020a",
    "title": "Only six beds for trans victims of domestic abuse in UK, report finds",
-   "summary": "Exclusive: Services say supreme court ruling on single-sex spaces has made it ‘almost impossible’ to find refuges for trans people There are only six beds specifically for trans victims of domestic abuse in the UK, a new report has found, with services saying…",
+   "summary": "Exclusive: Services say supreme court ruling on single-sex spaces has made it ‘almost impossible’ to find refuges for trans people There are only six beds specifically for trans victims of domestic abuse in the UK, a report has found, with services saying it…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/society/2026/nov/23/only-six-beds-for-trans-victims-of-domestic-abuse-in-uk-report-finds",
    "date": "2026-11-23T18:07:04+00:00",
@@ -389,8 +409,8 @@
   },
   {
    "id": "4c187e78c80c35df",
-   "title": "U.S. army to detonate unstable, lead-rich explosives, worrying people in Iowa",
-   "summary": "The U.S. army will detonate 68 barrels of a toxic lead explosive in Iowa this week on emergency legal powers that allow it to bypass a court order blocking the controversial ‌plan, the Trump administration told a court this weekend.",
+   "title": "Trump tells U.S. army not to detonate unstable, lead-rich explosives without court approval",
+   "summary": "U.S. President Donald Trump said Monday he will defer to a federal appeals court on whether the administration moves ahead with plans to detonate several tons of degraded bomb-making material at an Iowa ammunition plant.",
    "source": "CBC World",
    "url": "https://www.cbc.ca/news/world/iowa-lead-azide-explosion-explosive-army-9.7432313?cmp=rss",
    "date": "2026-11-23T17:52:57+00:00",
@@ -548,26 +568,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/24fed4fd10403e24fe12b5488f5534556ec94642/381_0_2926_2340/master/2926.jpg?width=700&quality=85&auto=format&fit=max&s=8ac9493bc31e143edb6a591356bcd8a6",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:55:47+00:00"
-  },
-  {
-   "id": "2aa9fd24f84b5e13",
-   "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
-   "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T16:49:51+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:55:47+00:00"
@@ -6046,65 +6046,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T19:05:08+00:00"
-  },
-  {
-   "id": "497402baaf1855b7",
-   "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
-   "summary": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
-   "date": "2026-11-20T19:15:18+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00994a-1795201354.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00994a-1795201354.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T19:42:46+00:00"
-  },
-  {
-   "id": "2fe9522e0a256010",
-   "title": "What are the implications of the ICJ Rohingya genocide ruling?",
-   "summary": "Verdict against Myanmar may have implications for Israel's genocide in Gaza.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
-   "date": "2026-11-20T19:12:14+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795199268.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795199268.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T19:42:46+00:00"
-  },
-  {
-   "id": "ef2dbe066d50357d",
-   "title": "Stellantis would owe feds $831M if sale of Brampton, Ont., plant proceeds: source",
-   "summary": "The projected amount of money Stellantis would owe Ottawa should the sale of its Brampton, Ont., auto plant proceed is $831 million, a senior federal source tells CBC News.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/joly-ford-stellantis-brampton-unifor-meeting-9.7430142?cmp=rss",
-   "date": "2026-11-20T19:09:55+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/13456d71-5dd1-46ed-9028-7f32aa838115,1794510200404/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C110%2C6720%2C3780%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T19:14:21+00:00"
   }
  ]
 }

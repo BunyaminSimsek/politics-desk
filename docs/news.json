@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T18:19:53+00:00",
+ "generatedAt": "2026-11-23T18:28:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T092817Z_1123569228_RC2KTOAJTMT8_RTRMADP_3_INDIA-NEPAL-1795445216.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T092817Z_1123569228_RC2KTOAJTMT8_RTRMADP_3_INDIA-NEPAL-1795445216.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T092817Z_1123569228_RC2KTOAJTMT8_RTRMADP_3_INDIA-NEPAL-1795445216.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T092817Z_1123569228_RC2KTOAJTMT8_RTRMADP_3_INDIA-NEPAL-1795445216.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T18:19:53+00:00"
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/70/a70487d1-28ce-5d80-aa89-61f2386c4a66/6b04818bbda00.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/70/a70487d1-28ce-5d80-aa89-61f2386c4a66/6b04818bbda00.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/70/a70487d1-28ce-5d80-aa89-61f2386c4a66/6b04818bbda00.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/70/a70487d1-28ce-5d80-aa89-61f2386c4a66/6b04818bbda00.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T18:19:53+00:00"
@@ -217,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/69af2b48ea96a862944eafa5ea96ece5ec5a7b75/814_0_4067_3254/master/4067.jpg?width=700&quality=85&auto=format&fit=max&s=e0f166ec12844b54c530407488e1e49b",
-    "w": 700,
+    "credit": "Photograph: Lindsey Wasson/AP",
     "h": 560,
-    "credit": "Photograph: Lindsey Wasson/AP"
+    "url": "https://i.guim.co.uk/img/media/69af2b48ea96a862944eafa5ea96ece5ec5a7b75/814_0_4067_3254/master/4067.jpg?width=700&quality=85&auto=format&fit=max&s=e0f166ec12844b54c530407488e1e49b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T18:19:53+00:00"
@@ -237,10 +237,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/1a/31a5c3e3-30c4-56b0-9e61-c09e6e25a7c0/6b04817dc550c.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 564,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/1a/31a5c3e3-30c4-56b0-9e61-c09e6e25a7c0/6b04817dc550c.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/1a/31a5c3e3-30c4-56b0-9e61-c09e6e25a7c0/6b04817dc550c.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/1a/31a5c3e3-30c4-56b0-9e61-c09e6e25a7c0/6b04817dc550c.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T18:19:53+00:00"
@@ -804,7 +804,7 @@
   },
   {
    "id": "a7a6748862d201e0",
-   "title": "Toronto's top bureaucrat leaving city hall, says Chow",
+   "title": "Toronto's top bureaucrat leaving city hall, Chow uses 'strong mayor' powers to appoint interim replacement",
    "summary": "Toronto Mayor Olivia Chow has signed off on an overhaul of some of Toronto’s top bureaucratic roles, including city manager, as part of a restructuring of the city's internal operations.",
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/toronto-city-manager-leaving-role-9.7432479?cmp=rss",
@@ -913,9 +913,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/335994d6-980a-4c1e-a9b4-abbcb9a1b34c,1795443564678/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/335994d6-980a-4c1e-a9b4-abbcb9a1b34c,1795443564678/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:27:26+00:00"
@@ -1425,9 +1425,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/43fb80f9-b1a2-4e6e-8ada-c2c36ad662ad,1795432744334/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C2940%2C1653%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/43fb80f9-b1a2-4e6e-8ada-c2c36ad662ad,1795432744334/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C2940%2C1653%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:27:26+00:00"
@@ -3781,7 +3781,7 @@
   {
    "id": "dbbc023a3aaa37f3",
    "title": "Q&A: Navdeep Bains, Queen's Park and the Ontario Liberal leadership race",
-   "summary": "Join Queen's Park reporter Rob Ferguson and business columnist Adam Radwanski in the comments for a live Q&A on Ontario's new Liberal leader, Navdeep Bains.",
+   "summary": "Queen's Park reporter Rob Ferguson and business columnist Adam Radwanski took reader questions on Ontario's new Liberal leader, Navdeep Bains.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/q-a-ask-us-anything-about-the-ontario-liberal-leadership-race/article_4a7fbea0-683c-449b-9a35-70d6ea7c24e4.html",
    "date": "2026-11-21T21:55:00+00:00",
@@ -6207,88 +6207,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T09:28:04+00:00"
-  },
-  {
-   "id": "f025997d1ccc5b2d",
-   "title": "What to know about the US permitting bill, from datacenters to Trump’s arch",
-   "summary": "Environmental groups are aghast, but supporters say bill might be only chance to speed up clean energy projects The US Senate has passed a bill to fast-track energy and datacenter projects by removing environmental and legal guardrails.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
-   "date": "2026-11-20T18:26:08+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "analysis",
-   "image": {
-    "credit": "Photograph: Kevin Dietsch/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4321696de6a9bf15cc0f98987f1c8ea36ca64c37/0_0_2805_2243/master/2805.jpg?width=700&quality=85&auto=format&fit=max&s=4653d3bf41a1ccc5935b50b98486f87c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T18:46:16+00:00"
-  },
-  {
-   "id": "b96eb16e4758d7f1",
-   "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-   "summary": "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
-   "date": "2026-11-20T18:25:09+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6968x4645+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Ff0%2F3f087dc140c29e91979734a212a3%2Fap26264499190048.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6968x4645+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Ff0%2F3f087dc140c29e91979734a212a3%2Fap26264499190048.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T18:37:01+00:00"
-  },
-  {
-   "id": "1dbd628dcd3565fb",
-   "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
-   "summary": "PM challenges rivals to rebuff plan he says could add 0.5% annual growth to economy and offer young people hope Several sentences into a slightly convoluted answer about where UK-EU relations might go next, Andy Burnham abruptly changed tack.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
-   "date": "2026-11-20T18:22:50+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: WPA/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/298e2e76a81f2b29227315e2f639e4892114e948/507_0_4299_3440/master/4299.jpg?width=700&quality=85&auto=format&fit=max&s=4aafdbe80398ac5cbfe550a1af2f5d7a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T18:37:01+00:00"
-  },
-  {
-   "id": "802b839e86dac6e2",
-   "title": "Ontario, Ottawa committing $250M to help fund new port in Sault Ste. Marie",
-   "summary": "Ontario and the federal government say they're committing $250 million to help build a new port in Sault Ste. Marie on the north shore of the Saint Marys River.",
-   "source": "Global News Toronto",
-   "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
-   "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1f177af5fc2dfa32087fe0b6142fba573b8a021d59af07370279de7ebb2f4f19.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1f177af5fc2dfa32087fe0b6142fba573b8a021d59af07370279de7ebb2f4f19.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T18:27:56+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T23:10:33+00:00",
+ "generatedAt": "2026-11-23T23:19:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,32 @@
  ],
  "items": [
   {
+   "id": "dfa4db2f66ca0142",
+   "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Nvidia shares surge on Huang‘s return –…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T23:12:51+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
    "id": "2aa9fd24f84b5e13",
    "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
    "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T23:06:53+00:00",
+   "date": "2026-11-23T23:10:27+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -179,13 +199,33 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:55:47+00:00"
+  },
+  {
+   "id": "068b9f1e9c0cf0be",
+   "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
+   "summary": "Trump claims credit for Huang's return, raising concerns over federal government meddling in corporate board decisions.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
+   "date": "2026-11-23T23:06:03+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b049efd4a19f-1795464957.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b049efd4a19f-1795464957.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T23:19:38+00:00"
   },
   {
    "id": "48112c23751e9133",
@@ -221,10 +261,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795474436.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795474436.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795474436.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795474436.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": true,
    "addedAt": "2026-11-23T23:10:33+00:00"
@@ -267,26 +307,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T22:41:50+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
-   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Nvidia shares surge on Huang‘s return –…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T22:37:08+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "31d777bedd56f55a",
@@ -4606,7 +4626,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

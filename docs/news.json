@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T12:53:43+00:00",
+ "generatedAt": "2026-11-23T13:02:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 13
+   "kept": 14
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,48 @@
   }
  ],
  "items": [
+  {
+   "id": "f1abf2755af8d1ad",
+   "title": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU – UK politics live",
+   "summary": "Former prime minister says issue is ‘huge distraction’ for government as Burham prepares to update MPs on his deal In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+   "date": "2026-11-23T12:52:00+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Jonathan Brady/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ecc3dc6198e74a17c992bae9f8e1832c967f58bb/972_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=926faca822d19811794c3ae9ae98af79",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:39:29+00:00"
+  },
+  {
+   "id": "77ece0992320838f",
+   "title": "Kremlin warns of ‘escalation’ as Albania denies Ukrainian drones that sank Russian ships launched from its territory – Europe live",
+   "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+   "date": "2026-11-23T12:50:57+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Planet Labs Pbc/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=700&quality=85&auto=format&fit=max&s=175d7d4be5655844eec97982c5e780c0",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:01:53+00:00"
+  },
   {
    "id": "a643e877c3bf15fd",
    "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
@@ -201,26 +243,6 @@
    "addedAt": "2026-11-23T12:44:24+00:00"
   },
   {
-   "id": "f1abf2755af8d1ad",
-   "title": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU – UK politics live",
-   "summary": "Former prime minister says issue is ‘huge distraction’ for government as Burham prepares to update MPs on his deal In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T12:39:19+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jonathan Brady/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ecc3dc6198e74a17c992bae9f8e1832c967f58bb/972_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=926faca822d19811794c3ae9ae98af79",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:39:29+00:00"
-  },
-  {
    "id": "d4c43e046f97320e",
    "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
    "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
@@ -239,28 +261,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:21:38+00:00"
-  },
-  {
-   "id": "77ece0992320838f",
-   "title": "Kremlin warns of ‘escalation’ as Albania denies Ukrainian drones that sank Russian ships launched from its territory – Europe live",
-   "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-   "date": "2026-11-23T12:31:09+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Planet Labs Pbc/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=700&quality=85&auto=format&fit=max&s=175d7d4be5655844eec97982c5e780c0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:01:53+00:00"
   },
   {
    "id": "5b99461c51325257",
@@ -454,7 +454,7 @@
   {
    "id": "f571db581dd57e94",
    "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
-   "summary": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
+   "summary": "Drone strikes on two Russian vessels near Libyan coast fuels fears of Ukraine war's spread.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
    "date": "2026-11-23T11:10:12+00:00",
@@ -642,9 +642,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/f0b5056e-0e98-4db0-8f2f-c6506bb09d73,1795209808241/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C245%2C4707%2C2647%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/f0b5056e-0e98-4db0-8f2f-c6506bb09d73,1795209808241/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C245%2C4707%2C2647%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:01:53+00:00"
@@ -2949,7 +2949,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4188,7 +4188,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5401,7 +5401,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6256,26 +6256,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T14:16:09+00:00"
-  },
-  {
-   "id": "3be0be4848787af5",
-   "title": "Trump inspired a blue revolution. Can Democrats meet the moment? | Dana R Fisher",
-   "summary": "Political participation – in meetings, boycotts and demonstrations – has increased since Trump took office.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/20/trump-blue-revolution-democrats",
-   "date": "2026-11-20T13:00:30+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jeenah Moon/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cbef22a9b0059a1330d8c76f991dc491374475ed/458_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=8142f3b8d0554b86dba3c437194fb57f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T13:18:57+00:00"
   }
  ]
 }

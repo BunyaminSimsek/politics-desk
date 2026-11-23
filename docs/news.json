@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T00:08:45+00:00",
+ "generatedAt": "2026-11-23T00:17:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "83c8a30ff39af264",
+   "title": "Australian politics live: Hanson calls Coalition and Labor a ‘uni’ party; Liberals demand Bowen resign over Cop ‘disaster’",
+   "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+   "date": "2026-11-23T00:14:34+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=c0de52eefa98171c47179d260b3c3af8",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Mick Tsikas/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T19:59:55+00:00"
+  },
+  {
    "id": "3ecf1ecb43f07a79",
    "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
    "summary": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
@@ -177,33 +197,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T00:08:45+00:00"
-  },
-  {
-   "id": "83c8a30ff39af264",
-   "title": "Australian politics live: Tehan says Bowen should resign over Cop; Taylor pays tribute to ‘kind, gentle’ Meldrum",
-   "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "date": "2026-11-22T23:51:38+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/12b68809cdb848106010a87d38612ef94da18f0c/552_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=f0f956723fe178f4edf972923e750231",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Mick Tsikas/AAP"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T19:59:55+00:00"
   },
   {
    "id": "1807cf7613f2f0bd",
@@ -1947,7 +1947,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3166,7 +3166,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4379,7 +4379,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6331,48 +6331,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T00:34:37+00:00"
-  },
-  {
-   "id": "ed0546a014b17392",
-   "title": "US warned supplying nuclear-powered submarines to Australia would diminish its own fleet for ‘many years’",
-   "summary": "Congressional Budget Office also questions whether Australian-flagged vessels could be compelled into a conflict with China under Aukus deal Get our breaking news email , free app or daily news podcast Providing nuclear-powered submarines to Australia would…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years",
-   "date": "2026-11-20T00:16:29+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Richard Wainwright/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/36abe0c07983d9517697ee58dc02f807e9128811/1204_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=678139a8e4da61c12e7688022fce48ff",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T00:34:37+00:00"
-  },
-  {
-   "id": "60dbf1a85d3cc03a",
-   "title": "Liberals’ 2026 budget passes in House of Commons",
-   "summary": "The budget, tabled Nov. 5, outlined billions of dollars in new borrowing and tax measures largely aimed at stimulating infrastructure construction and other capital projects.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12158925/budget-2026-passes/",
-   "date": "2026-11-20T00:16:11+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Budget-2026-e1795133594928.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Budget-2026-e1795133594928.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T00:16:20+00:00"
   }
  ]
 }

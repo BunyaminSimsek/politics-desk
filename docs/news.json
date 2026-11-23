@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T11:40:02+00:00",
+ "generatedAt": "2026-11-23T11:49:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -149,7 +149,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/africa/rss",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Conversation",
@@ -165,6 +165,48 @@
   }
  ],
  "items": [
+  {
+   "id": "e2830407b36aa712",
+   "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+   "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T11:40:01+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T15:59:07+00:00"
+  },
+  {
+   "id": "a643e877c3bf15fd",
+   "title": "Search and rescue teams race against time after Nigeria boat tragedy",
+   "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T11:38:55+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:49:18+00:00"
+  },
   {
    "id": "0bf896f1b2209ae1",
    "title": "Don’t let the race for investment leave communities behind",
@@ -188,12 +230,12 @@
    "addedAt": "2026-11-23T11:30:48+00:00"
   },
   {
-   "id": "e2830407b36aa712",
-   "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-   "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T11:25:16+00:00",
+   "id": "77ece0992320838f",
+   "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live",
+   "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+   "date": "2026-11-23T11:29:42+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [
@@ -201,13 +243,36 @@
    ],
    "kind": "news",
    "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
+    "credit": "Photograph: Planet Labs Pbc/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=700&quality=85&auto=format&fit=max&s=175d7d4be5655844eec97982c5e780c0",
+    "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-22T15:59:07+00:00"
+   "addedAt": "2026-11-23T09:01:53+00:00"
+  },
+  {
+   "id": "8086b43b969c14a3",
+   "title": "First Thing: Cop31 talks collapse without deal in blow to planet’s future climate",
+   "summary": "More than two weeks of talks in Turkey fail to produce a resolution to tackle climate crisis. Plus, a savage review of Melania’s new documentary Good morning. The world’s nations have failed to reach agreement at the Cop31 talks in Turkey.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/23/first-thing-cop31-talks-collapse-no-deal-future-global-climate",
+   "date": "2026-11-23T11:26:45+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence",
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f823f29b162d2e0232bbb01345b0add347a6b072/935_0_3702_2962/master/3702.jpg?width=700&quality=85&auto=format&fit=max&s=b9dfc58180b28be9f050a82d5b6ffc61",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Anadolu Agency/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:49:18+00:00"
   },
   {
    "id": "f1abf2755af8d1ad",
@@ -215,19 +280,41 @@
    "summary": "First secretary of state gives further detail on Burnham’s plans and says the government is not against the markets In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T11:21:03+00:00",
+   "date": "2026-11-23T11:26:27+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/980ab169b7f9761bd062909fb7335adfbbd30fa7/346_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=105cbb7a136bc52abd7dc33decf5cb85",
-    "w": 700,
+    "credit": "Photograph: Corey Rudy/Reuters",
     "h": 560,
-    "credit": "Photograph: Corey Rudy/Reuters"
+    "url": "https://i.guim.co.uk/img/media/980ab169b7f9761bd062909fb7335adfbbd30fa7/346_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=105cbb7a136bc52abd7dc33decf5cb85",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:39:29+00:00"
+  },
+  {
+   "id": "dfa4db2f66ca0142",
+   "title": "Democrats reveal details for 2028 presidential primary following midterm victories – US politics live",
+   "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Democrats capture at least 258 House seats in largest sweep since 1992",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T11:25:42+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Julia Demaree Nikhinson/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=c5b3f76d7a9a22075c7dd9bdac042f21",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "d4c43e046f97320e",
@@ -250,28 +337,6 @@
    "addedAt": "2026-11-23T11:21:38+00:00"
   },
   {
-   "id": "77ece0992320838f",
-   "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live",
-   "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-   "date": "2026-11-23T11:15:14+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Planet Labs Pbc/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=700&quality=85&auto=format&fit=max&s=175d7d4be5655844eec97982c5e780c0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:01:53+00:00"
-  },
-  {
    "id": "f571db581dd57e94",
    "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
    "summary": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
@@ -292,28 +357,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:30:48+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Democrats reveal details for 2028 presidential primary following midterm victories – US politics live",
-   "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Democrats capture at least 258 House seats in largest sweep since 1992",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T11:08:04+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Julia Demaree Nikhinson/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=c5b3f76d7a9a22075c7dd9bdac042f21",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "0361d5737063ee43",
@@ -6277,26 +6320,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T12:14:13+00:00"
-  },
-  {
-   "id": "73cbb5564f7951e3",
-   "title": "Measles is officially back in the USA. Will Maha pay the price? - video",
-   "summary": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/science/video/2026/nov/20/measles-is-officially-back-in-the-usa-will-maha-pay-the-price-video",
-   "date": "2026-11-20T11:40:07+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/507237693f77908c1a836e9797ff84cabae560f0/477_0_4759_3808/master/4759.jpg?width=700&quality=85&auto=format&fit=max&s=0c5b5ddee4b38215da9a70370918eb7e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T12:05:08+00:00"
   }
  ]
 }

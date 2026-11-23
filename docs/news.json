@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T20:31:06+00:00",
+ "generatedAt": "2026-11-23T20:40:39+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "0b24eb156c2877b8",
+   "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
+   "summary": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
+   "date": "2026-11-23T20:26:40+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795462137.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795462137.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T20:40:39+00:00"
+  },
+  {
+   "id": "f690546e5251faac",
+   "title": "Australian politics live: Penny Wong to defend US alliance; rental affordability plummets to 14-year low",
+   "summary": "Get our breaking news email , free app or daily news podcast ‘It’s making news’: Wong on Nvidia’s Jensen Huang Well, John Howard might have called his book Lazarus Rising (for his several attempts at the Liberal leadership before finally getting it to stick)…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+   "date": "2026-11-23T20:24:22+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Hollie Adams/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/4167a1e7f11df6dfeace154f41bc766312ebf83a/1339_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=2b54888b7df58cc6819ef40d5339d8bb",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T20:21:47+00:00"
+  },
+  {
    "id": "659bf92f7bbd7813",
    "title": "Doug Ford links new Liberal Leader Navdeep Bains to Trudeau carbon tax",
    "summary": "Premier Doug Ford is attacking new Liberal Leader Navdeep Bains for backing former prime minister Justin Trudeau's carbon tax.",
@@ -179,38 +221,18 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/37/83725d59-438f-549e-8b91-1c5adfb8c7e6/6b049d5ebeac1.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 900,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/37/83725d59-438f-549e-8b91-1c5adfb8c7e6/6b049d5ebeac1.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/37/83725d59-438f-549e-8b91-1c5adfb8c7e6/6b049d5ebeac1.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/37/83725d59-438f-549e-8b91-1c5adfb8c7e6/6b049d5ebeac1.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T20:31:06+00:00"
   },
   {
-   "id": "f690546e5251faac",
-   "title": "Australian politics live: Penny Wong to defend US alliance; Coalition condemns Vanuatu deal",
-   "summary": "Get our breaking news email , free app or daily news podcast ‘We all wish a consensus statement had been reached’: Wong Penny Wong knows a thing or two about not landing a deal at COP. Well, we all wish that a consensus statement had been reached.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-   "date": "2026-11-23T20:14:59+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Hollie Adams/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4167a1e7f11df6dfeace154f41bc766312ebf83a/1339_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=2b54888b7df58cc6819ef40d5339d8bb",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T20:21:47+00:00"
-  },
-  {
    "id": "dfa4db2f66ca0142",
-   "title": "Republicans voice concerns over Jensen Huang’s Nvidia reinstatement after Trump urged board to rehire CEO – live",
-   "summary": "Several Republican lawmakers raise questions and concerns about Nvidia’s reinstatement of Jensen Huang, saying his ‘behavior does not support reinstatement’ Nvidia shares surge on Huang‘s return – business live",
+   "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Nvidia shares surge on Huang‘s return –…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
    "date": "2026-11-23T20:13:41+00:00",
@@ -279,10 +301,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b048a3c-1795459644.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b048a3c-1795459644.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b048a3c-1795459644.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b048a3c-1795459644.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T20:31:06+00:00"
@@ -1263,9 +1285,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/335994d6-980a-4c1e-a9b4-abbcb9a1b34c,1795443564678/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/335994d6-980a-4c1e-a9b4-abbcb9a1b34c,1795443564678/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:27:26+00:00"
@@ -1775,9 +1797,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/43fb80f9-b1a2-4e6e-8ada-c2c36ad662ad,1795432744334/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C2940%2C1653%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/43fb80f9-b1a2-4e6e-8ada-c2c36ad662ad,1795432744334/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C2940%2C1653%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:27:26+00:00"
@@ -4175,7 +4197,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5414,7 +5436,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6254,26 +6276,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T21:06:40+00:00"
-  },
-  {
-   "id": "fe3974e69c265a05",
-   "title": "Supreme Court of Canada to issue decision on Quebec's secularism law next week",
-   "summary": "MONTREAL - The Supreme Court of Canada will issue a landmark decision next Friday on Quebec’s secularism law, known as Bill 21.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/supreme-court-of-canada-to-issue-decision-on-quebec-s-secularism-law-next-week/article_7c91e1d8-a712-5274-aefd-6e1099150cca.html",
-   "date": "2026-11-20T20:33:28+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 886,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/99/59924c2e-0d64-5883-8e8a-b5cdc62a8ffd/6b00af07addcd.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/99/59924c2e-0d64-5883-8e8a-b5cdc62a8ffd/6b00af07addcd.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T20:48:06+00:00"
   }
  ]
 }

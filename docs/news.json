@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T14:26:16+00:00",
+ "generatedAt": "2026-11-23T14:35:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,88 @@
   }
  ],
  "items": [
+  {
+   "id": "d4c43e046f97320e",
+   "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
+   "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T14:26:33+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:21:38+00:00"
+  },
+  {
+   "id": "dfa4db2f66ca0142",
+   "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
+   "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T14:24:50+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Julia Demaree Nikhinson/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=c5b3f76d7a9a22075c7dd9bdac042f21",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
+   "id": "77ece0992320838f",
+   "title": "Kremlin warns of ‘escalation’ as Albania denies Ukrainian drones that sank Russian ships launched from its territory – Europe live",
+   "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+   "date": "2026-11-23T14:20:15+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Planet Labs Pbc/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=700&quality=85&auto=format&fit=max&s=175d7d4be5655844eec97982c5e780c0",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:01:53+00:00"
+  },
+  {
+   "id": "fd0f48e8fd6df022",
+   "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons in to space",
+   "summary": "Move would be breach of Outer Space treaty and Partial Nuclear Test Ban treaty, which prohibit placing of nuclear weapons in orbit The German government has said it is taking very seriously reports that Russia may be planning to launch a satellite armed with…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/23/russia-nuclear-weapons-space-german-intelligence",
+   "date": "2026-11-23T14:18:33+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/da8ac93a647a5b8021eb40012dcaa4d54584db73/670_0_1798_1440/master/1798.jpg?width=700&quality=85&auto=format&fit=max&s=2d26a8c0d504300002279c3f675ef07b",
+    "w": 700,
+    "h": 561,
+    "credit": "Photograph: SPACEX/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T14:35:23+00:00"
+  },
   {
    "id": "f1abf2755af8d1ad",
    "title": "Former Tory PMs ‘can’t face up to their bad Brexit deal’, says Burnham – UK politics live",
@@ -246,48 +328,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T14:17:09+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
-   "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T13:56:20+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Julia Demaree Nikhinson/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=c5b3f76d7a9a22075c7dd9bdac042f21",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
-  },
-  {
-   "id": "77ece0992320838f",
-   "title": "Kremlin warns of ‘escalation’ as Albania denies Ukrainian drones that sank Russian ships launched from its territory – Europe live",
-   "summary": "Zelenskyy says Ukraine responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-   "date": "2026-11-23T13:48:25+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Planet Labs Pbc/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=700&quality=85&auto=format&fit=max&s=175d7d4be5655844eec97982c5e780c0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:01:53+00:00"
   },
   {
    "id": "7b8bae570643d666",
@@ -385,26 +425,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-23T12:44:24+00:00"
-  },
-  {
-   "id": "d4c43e046f97320e",
-   "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
-   "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T12:33:44+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:21:38+00:00"
   },
   {
    "id": "5b99461c51325257",
@@ -3009,7 +3029,7 @@
   {
    "id": "dbbc023a3aaa37f3",
    "title": "Q&A: Ask us anything about the Ontario Liberal leadership race",
-   "summary": "Join Queen's Park reporter Rob Ferguson and business columnist Adam Radwanski in the comments for a live Q&A on Ontario's next Liberal leader.",
+   "summary": "Join Queen's Park reporter Rob Ferguson and business columnist Adam Radwanski in the comments for a live Q&A on Ontario's new Liberal leader, Navdeep Bains.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/q-a-ask-us-anything-about-the-ontario-liberal-leadership-race/article_4a7fbea0-683c-449b-9a35-70d6ea7c24e4.html",
    "date": "2026-11-21T21:55:00+00:00",

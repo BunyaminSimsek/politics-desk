@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T19:44:05+00:00",
+ "generatedAt": "2026-11-23T19:53:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 27
+   "kept": 28
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,90 @@
  ],
  "items": [
   {
+   "id": "b9d1aefd5c5577c1",
+   "title": "Trump orders US military not to detonate toxic explosives in Iowa without court approval",
+   "summary": "The US Army had said it planned to detonate the explosives on Wednesday despite a court-ordered pausea as public outcry intensified.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T19:52:52+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T19:53:20+00:00"
+  },
+  {
+   "id": "dfa4db2f66ca0142",
+   "title": "Republicans voice concerns over Jensen Huang’s Nvidia reinstatement after Trump urged board to rehire CEO – live",
+   "summary": "Several Republican lawmakers raise questions and concerns about Nvidia’s reinstatement of Jensen Huang, saying his ‘behavior does not support reinstatement’ Nvidia shares surge 33% on Huang‘s return – business live",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T19:44:42+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
+   "id": "5cf4131f85f66c67",
+   "title": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
+   "summary": "Environmentalists sued last week to stop detonation of 68 barrels of lead azide over health and pollution concerns Donald Trump on Monday said he would defer to a federal appeals court on whether the administration moves ahead with plans to detonate several…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+   "date": "2026-11-23T19:42:40+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=700&quality=85&auto=format&fit=max&s=b7c309e540e260b09d3cf0b441417178",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jim Urquhart/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T19:53:20+00:00"
+  },
+  {
+   "id": "02498e5ba3612deb",
+   "title": "Premiers Ford, Smith say interprovincial trade remains complicated despite efforts",
+   "summary": "TORONTO - The leaders of Ontario and Alberta say internal trade barriers remain across the country despite moves to open up interprovincial free trade.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/premiers-ford-smith-say-interprovincial-trade-remains-complicated-despite-efforts/article_b17e9c45-2cc6-5e29-8f0a-9335ace232db.html",
+   "date": "2026-11-23T19:42:09+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/cd/4cdf3303-578e-5ca9-9ec6-050aa22f750c/6aba1fb160bf2.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 738,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/cd/4cdf3303-578e-5ca9-9ec6-050aa22f750c/6aba1fb160bf2.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T19:53:20+00:00"
+  },
+  {
    "id": "8fdb6164a28ebdbb",
    "title": "Steven Del Duca fires top civil servant using ‘strong chair’ powers",
    "summary": "One source in the region, granted confidentiality to speak freely, said staff felt “blindsided” and that the decision feels “ruthless and mean.”",
@@ -177,10 +261,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2025/09/CP165145379.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2025/09/CP165145379.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2025/09/CP165145379.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2025/09/CP165145379.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T19:44:05+00:00"
@@ -199,33 +283,13 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/17b5c7b2b2928a8343972cfa986d69ad4e462d7526741e7ea33e4f7178b8e18f.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 729,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/17b5c7b2b2928a8343972cfa986d69ad4e462d7526741e7ea33e4f7178b8e18f.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/17b5c7b2b2928a8343972cfa986d69ad4e462d7526741e7ea33e4f7178b8e18f.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/17b5c7b2b2928a8343972cfa986d69ad4e462d7526741e7ea33e4f7178b8e18f.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-23T19:44:05+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Republicans voice concerns over Jensen Huang’s Nvidia reinstatement after Trump urged board to rehire CEO – live",
-   "summary": "Several Republican lawmakers raise questions and concerns about Nvidia’s reinstatement of Jensen Huang, saying his ‘behavior does not support reinstatement’ Nvidia shares surge 33% on Huang‘s return – business live",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T19:28:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "00ee9db08ed19d5a",
@@ -248,6 +312,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T17:05:27+00:00"
+  },
+  {
+   "id": "1f7deb7a37bc829c",
+   "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+   "summary": "Moscow accuses Tallinn of 'hostile actions' citing border closure and claiming it is allowing Ukraine to launch attacks.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
+   "date": "2026-11-23T19:20:30+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00a388-1795203976.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00a388-1795203976.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T19:53:20+00:00"
   },
   {
    "id": "2aa9fd24f84b5e13",
@@ -3947,7 +4031,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5186,7 +5270,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

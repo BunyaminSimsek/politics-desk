@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T11:49:18+00:00",
+ "generatedAt": "2026-11-23T11:58:28+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:49:18+00:00"
@@ -266,10 +266,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f823f29b162d2e0232bbb01345b0add347a6b072/935_0_3702_2962/master/3702.jpg?width=700&quality=85&auto=format&fit=max&s=b9dfc58180b28be9f050a82d5b6ffc61",
-    "w": 700,
+    "credit": "Photograph: Anadolu Agency/Getty Images",
     "h": 560,
-    "credit": "Photograph: Anadolu Agency/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/f823f29b162d2e0232bbb01345b0add347a6b072/935_0_3702_2962/master/3702.jpg?width=700&quality=85&auto=format&fit=max&s=b9dfc58180b28be9f050a82d5b6ffc61",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:49:18+00:00"
@@ -6296,26 +6296,6 @@
     "credit": "Photograph: Ronaldo Schemidt/AFP/Getty Images",
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/cb5de5075b21825a9c6afa351add8229b7f0a728/533_0_4350_3480/master/4350.jpg?width=700&quality=85&auto=format&fit=max&s=fe35fa0889a68b2e5435366ab9722065",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T12:14:13+00:00"
-  },
-  {
-   "id": "1deeaf75e4251d2f",
-   "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
-   "summary": "Reactions to ICJ ruling underline global divisions over court with China raising concerns about judicial overreach The US has greeted with caution the world’s highest court’s ruling that Myanmar committed genocide against its Rohingya minority, while China…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
-   "date": "2026-11-20T11:57:43+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Salahuddin Ahmed/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5988d82b73797347e49b6c59007fbef9ae747fbb/264_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=a0361b3769d9dade685e2c1ff3740e23",
     "w": 700
    },
    "breaking": false,

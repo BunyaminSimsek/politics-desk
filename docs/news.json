@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T11:11:58+00:00",
+ "generatedAt": "2026-11-23T11:21:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "d4c43e046f97320e",
+   "title": "Presidential villa also hit by water and power cuts, Nigerian leader says",
+   "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T11:15:16+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:21:38+00:00"
+  },
+  {
    "id": "dfa4db2f66ca0142",
    "title": "Democrats reveal details for 2028 presidential primary following midterm victories – US politics live",
    "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Democrats capture at least 258 House seats in largest sweep since 1992",
@@ -179,13 +199,55 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/b3d3ed0bfe60670723ffcba5553102b4f0199076/161_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=d308bd4bb36582cfe68ed13f50f28347",
-    "w": 700,
+    "credit": "Photograph: Robin Rayne/Anadolu/Getty Images",
     "h": 560,
-    "credit": "Photograph: Robin Rayne/Anadolu/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/b3d3ed0bfe60670723ffcba5553102b4f0199076/161_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=d308bd4bb36582cfe68ed13f50f28347",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
+   "id": "f1abf2755af8d1ad",
+   "title": "Tories welcome Louise Haigh’s hint government could adopt their plan to scrap Natural England – UK politics live",
+   "summary": "First secretary of state has declined to say whether Natural England will be abolished as part of plans to cut the number of quangos Natural England could be abolished as part of quango cull, says Louise Haigh In her speech to the CBI, Louise Haigh , the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+   "date": "2026-11-23T11:06:58+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Stefan Rousseau/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f19877fad077a0f724fe4ffa567383839f14e822/35_0_2240_1792/master/2240.jpg?width=700&quality=85&auto=format&fit=max&s=c8f5417c3f21dda8286b41fb1e3e23cc",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:39:29+00:00"
+  },
+  {
+   "id": "77ece0992320838f",
+   "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live",
+   "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+   "date": "2026-11-23T11:06:53+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Planet Labs Pbc/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=700&quality=85&auto=format&fit=max&s=175d7d4be5655844eec97982c5e780c0",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:01:53+00:00"
   },
   {
    "id": "0361d5737063ee43",
@@ -208,28 +270,6 @@
    "addedAt": "2026-11-23T11:02:15+00:00"
   },
   {
-   "id": "77ece0992320838f",
-   "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live",
-   "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Turning to Ukraine, Nato’s Rutte stresses the need to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-   "date": "2026-11-23T10:52:27+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Planet Labs Pbc/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/901579059a94e89965c7882af4effe9b1426e3ab/173_0_4984_3988/master/4984.jpg?width=700&quality=85&auto=format&fit=max&s=175d7d4be5655844eec97982c5e780c0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:01:53+00:00"
-  },
-  {
    "id": "887ee480762b0c4b",
    "title": "From mocked to mainstream: how Spain’s far-right Vox transformed its fortunes",
    "summary": "Party that won just 0.2% of the vote in 2016 is on course for almost 20% this time and could be part of next government Almost exactly eight years ago, a video clip of a stocky, bearded man riding a horse through western Andalucía went viral in Spain .",
@@ -248,26 +288,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T10:52:58+00:00"
-  },
-  {
-   "id": "f1abf2755af8d1ad",
-   "title": "Tories welcome Louise Haigh’s hint government could adopt their plan to scrap Natural England – UK politics live",
-   "summary": "First secretary of state has declined to say whether Natural England will be abolished as part of plans to cut the number of quangos Natural England could be abolished as part of quango cull, says Louise Haigh Q: [From the BBC’s business editor Simon Jack]…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T10:30:56+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Stefan Rousseau/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f19877fad077a0f724fe4ffa567383839f14e822/35_0_2240_1792/master/2240.jpg?width=700&quality=85&auto=format&fit=max&s=c8f5417c3f21dda8286b41fb1e3e23cc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:39:29+00:00"
   },
   {
    "id": "e98ce263e49627e1",
@@ -417,9 +437,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/7722f026-102f-4527-9797-5664857c6c00,1795206896662/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C275%2C5288%2C2974%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/7722f026-102f-4527-9797-5664857c6c00,1795206896662/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C275%2C5288%2C2974%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:11:38+00:00"
@@ -2727,7 +2747,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3966,7 +3986,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5179,7 +5199,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6294,26 +6314,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-17T18:23:22+00:00"
-  },
-  {
-   "id": "5a08dd6f8ad67fdb",
-   "title": "‘The deal is done’: EU, UK agree to reset relations 10 years after Brexit",
-   "summary": "Deals on food and animal goods, mobility and student fees have been agreed, but months of negotiations lay ahead.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
-   "date": "2026-11-20T11:20:19+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2020/09/21e56488f2fd491d9998f32fcd74494d_18.jpeg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2020/09/21e56488f2fd491d9998f32fcd74494d_18.jpeg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T12:33:14+00:00"
   }
  ]
 }

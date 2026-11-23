@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T16:46:25+00:00",
+ "generatedAt": "2026-11-23T16:55:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "f748ddfc92521a62",
+   "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
+   "summary": "Island’s labour minister, Tony Dyer, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade A town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with the UK city, marking a new chapter in a…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
+   "date": "2026-11-23T16:53:13+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/24fed4fd10403e24fe12b5488f5534556ec94642/381_0_2926_2340/master/2926.jpg?width=700&quality=85&auto=format&fit=max&s=8ac9493bc31e143edb6a591356bcd8a6",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Bristol City Council"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:55:47+00:00"
+  },
+  {
+   "id": "2aa9fd24f84b5e13",
+   "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+   "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T16:49:51+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:55:47+00:00"
+  },
+  {
    "id": "f1abf2755af8d1ad",
    "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – UK politics live",
    "summary": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and…",
@@ -186,6 +226,48 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:39:29+00:00"
+  },
+  {
+   "id": "50b17fe112bc5842",
+   "title": "Why did COP31 climate talks collapse without a deal?",
+   "summary": "The longest UN climate summit in history collapsed without a final deal in Turkiye, the first such failure in 17 years.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal?traffic_source=rss",
+   "date": "2026-11-23T16:38:30+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795451844.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795451844.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:55:47+00:00"
+  },
+  {
+   "id": "da788539792612c3",
+   "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+   "summary": "Israel continues to launch attacks across the enclave, despite an October 2025 'ceasefire' deal.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss",
+   "date": "2026-11-23T16:36:22+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26267592693269-1790451525.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26267592693269-1790451525.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:55:47+00:00"
   },
   {
    "id": "dfa4db2f66ca0142",
@@ -241,10 +323,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0346590eba8-1795376729.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0346590eba8-1795376729.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0346590eba8-1795376729.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0346590eba8-1795376729.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:46:25+00:00"
@@ -6224,28 +6306,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T17:12:49+00:00"
-  },
-  {
-   "id": "acc7a3878954c01e",
-   "title": "Cop31 draft climate text dissected: what it says and what it means",
-   "summary": "Fiona Harvey reads between the lines of the draft document that will end up outlining decisions and resolutions from the 31st climate summit Cop31 live – latest updates The final text is one of the most important documents that will come out of the Cop31…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/20/cop31-draft-climate-text-explained",
-   "date": "2026-11-20T16:47:05+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "analysis",
-   "image": {
-    "credit": "Photograph: Yasin Akgül/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a076237da6786a84fb44957e8df41dc09dc831aa/602_0_6024_4819/master/6024.jpg?width=700&quality=85&auto=format&fit=max&s=540fc8274f8c45466736d0f304fad691",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T16:54:16+00:00"
   }
  ]
 }

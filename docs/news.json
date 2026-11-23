@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T21:54:48+00:00",
+ "generatedAt": "2026-11-23T22:04:00+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "CBC World",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "dfa4db2f66ca0142",
+   "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Nvidia shares surge on Huang‘s return –…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-23T21:56:38+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
+   "id": "95f79e5818c90801",
+   "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
+   "summary": "Democrat, who lost re-election bid, found to have made ‘unwelcome sexual advances’ towards House staffer Jimmy Gomez will resign from Congress after a House ethics report released on Monday found “substantial evidence” that the California Democrat had…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
+   "date": "2026-11-23T21:53:33+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/252be7a860305c0f22379fdacb9169a8eeb7f607/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=b85a4cc3a98cfac950e1008de714c765",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Bloomberg/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T22:04:00+00:00"
+  },
+  {
    "id": "48112c23751e9133",
    "title": "California Democrat to resign from Congress after evidence of sexual misconduct",
    "summary": "Jimmy Gomez, who lost his election this month and only serving in the House until the year's end, was accused of sexual misconduct with a staff member.",
@@ -197,33 +237,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/83dbd5c6d6226e74db5af9c6aafac87aa4f20f118df62c56f5f9a35065f2e97e.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/83dbd5c6d6226e74db5af9c6aafac87aa4f20f118df62c56f5f9a35065f2e97e.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/83dbd5c6d6226e74db5af9c6aafac87aa4f20f118df62c56f5f9a35065f2e97e.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/83dbd5c6d6226e74db5af9c6aafac87aa4f20f118df62c56f5f9a35065f2e97e.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-23T21:54:48+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
-   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Nvidia shares surge on Huang‘s return –…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T21:43:19+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "2a92a8c28fe00525",
@@ -353,7 +373,7 @@
   {
    "id": "85fce92ddad952a5",
    "title": "Iranian singer and four others receive lashes after performance without hijab",
-   "summary": "Western governments and human rights groups have criticised flogging as torture and a violation of international law An Iranian singer and four members of her production team ⁠have each received 74 lashes after being sentenced for “offending public decency by…",
+   "summary": "Western governments and rights groups have criticised flogging as torture and a violation of international law An Iranian singer and four members of her production team ⁠have each received 74 lashes after being sentenced for “offending public decency by…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
    "date": "2026-11-23T20:56:17+00:00",
@@ -730,7 +750,7 @@
    "summary": "OTTAWA - The cadet program will receive more funding so weekend and supplemental activities can continue as planned until the end of March, Defence Minister David McGuinty said Monday.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/cp-newsalert-cadet-weekend-activities-to-be-restored-after-pause-minister/article_003cb163-3472-55ef-a0bc-f40cfe40d954.html",
-   "date": "2026-11-23T19:05:07+00:00",
+   "date": "2026-11-23T19:05:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -6245,28 +6265,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T22:22:09+00:00"
-  },
-  {
-   "id": "aaa9bee4f069f8ff",
-   "title": "Pierre Poilievre says he won't resign if Conservatives lose Brantford byelection",
-   "summary": "Pierre Poilievre says he will stay on as leader of the Conservatives even if they lose an upcoming byelection in what has previously been considered a safe riding for the party.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/pierre-poilievre-says-he-won-t-resign-if-conservatives-lose-brantford-byelection/article_67342d13-a880-4f89-961f-b6bf8e97cfe5.html",
-   "date": "2026-11-20T22:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 866,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a6/9a663740-5457-51c8-9c58-c105787f32f1/6b00c1f259f8f.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/a6/9a663740-5457-51c8-9c58-c105787f32f1/6b00c1f259f8f.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T22:40:40+00:00"
   }
  ]
 }

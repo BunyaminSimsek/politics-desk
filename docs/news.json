@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T09:01:53+00:00",
+ "generatedAt": "2026-11-23T09:11:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -177,12 +177,31 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f0b5056e-0e98-4db0-8f2f-c6506bb09d73,1795209808241/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C245%2C4707%2C2647%29%3B",
+    "caption": "",
+    "credit": "",
+    "url": "https://i.cbc.ca/ais/f0b5056e-0e98-4db0-8f2f-c6506bb09d73,1795209808241/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C245%2C4707%2C2647%29%3B"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:01:53+00:00"
+  },
+  {
+   "id": "f512e4fc1d1b2dc2",
+   "title": "Toronto to receive $29M top-up for crossing guards speed cameras used to fund",
+   "summary": "The Ford government banned speed cameras across Ontario in November 2025, leaving many cities worrying about safety and funding.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/toronto-crossing-guard-ontario-money-9.7430436?cmp=rss",
+   "date": "2026-11-23T09:00:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/7722f026-102f-4527-9797-5664857c6c00,1795206896662/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C275%2C5288%2C2974%29%3B",
     "credit": "",
     "caption": ""
    },
    "breaking": false,
-   "addedAt": "2026-11-23T09:01:53+00:00"
+   "addedAt": "2026-11-23T09:11:38+00:00"
   },
   {
    "id": "77ece0992320838f",
@@ -198,13 +217,33 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=700&quality=85&auto=format&fit=max&s=adb6bbda3e76bedb7e0bd07ed6f4f638",
-    "w": 700,
+    "credit": "Photograph: VANTOR/Reuters",
     "h": 560,
-    "credit": "Photograph: VANTOR/Reuters"
+    "url": "https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=700&quality=85&auto=format&fit=max&s=adb6bbda3e76bedb7e0bd07ed6f4f638",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:01:53+00:00"
+  },
+  {
+   "id": "d072cc68e8f6a860",
+   "title": "Widowed amid war and displacement: Sudanese mothers struggle to survive",
+   "summary": "War widows in Sudan face growing challenges supporting their children as the cost of living increases.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/23/widowed-amid-war-and-displacement-sudanese-mothers-struggle-to-survive?traffic_source=rss",
+   "date": "2026-11-23T08:53:10+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1-1795342162.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1-1795342162.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:11:38+00:00"
   },
   {
    "id": "1db6c2307217f7b3",
@@ -452,10 +491,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a13e/live/60282c80-e70e-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a13e/live/60282c80-e70e-11f1-99b6-a35a62fa4264.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a13e/live/60282c80-e70e-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a13e/live/60282c80-e70e-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:01:53+00:00"
@@ -2489,7 +2528,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3728,7 +3767,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4941,7 +4980,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

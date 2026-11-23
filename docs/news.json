@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T05:21:11+00:00",
+ "generatedAt": "2026-11-23T05:30:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -168,7 +168,7 @@
   {
    "id": "233527ac46cd3e5c",
    "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-   "summary": "The prime minister Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+   "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-23T05:15:06+00:00",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ffb0/live/d31e6e50-e6fc-11f1-9d32-695d6c00481f.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ffb0/live/d31e6e50-e6fc-11f1-9d32-695d6c00481f.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ffb0/live/d31e6e50-e6fc-11f1-9d32-695d6c00481f.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ffb0/live/d31e6e50-e6fc-11f1-9d32-695d6c00481f.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T05:21:11+00:00"
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/8c4db6fd4ae5ad0a7eba3fd774dbdd650047180d/326_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=e42c677747e1841b7b10ecc211ffc8e9",
-    "w": 700,
+    "credit": "Photograph: Nick Briggs/BBC/Playground Entertainment",
     "h": 560,
-    "credit": "Photograph: Nick Briggs/BBC/Playground Entertainment"
+    "url": "https://i.guim.co.uk/img/media/8c4db6fd4ae5ad0a7eba3fd774dbdd650047180d/326_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=e42c677747e1841b7b10ecc211ffc8e9",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T05:21:11+00:00"
@@ -2216,7 +2216,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3435,7 +3435,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4648,7 +4648,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

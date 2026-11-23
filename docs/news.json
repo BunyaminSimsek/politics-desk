@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T05:39:27+00:00",
+ "generatedAt": "2026-11-23T05:48:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "83c8a30ff39af264",
+   "title": "Australian politics live: NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community",
+   "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+   "date": "2026-11-23T05:45:00+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Dean Lewins/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/a8e4b43c304ba0c667d2b3d232ba1b4acfdb683f/378_0_3201_2562/master/3201.jpg?width=700&quality=85&auto=format&fit=max&s=2a9c2b89e07ec7931a127be30f73e15c",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T19:59:55+00:00"
+  },
+  {
    "id": "8eecf8eba2334227",
    "title": "What's next after no deal at COP31 climate talks?",
    "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
@@ -186,26 +206,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T19:03:59+00:00"
-  },
-  {
-   "id": "83c8a30ff39af264",
-   "title": "Australian politics live: Gay MP drops support for Fred Nile to be honoured with state funeral after blowback from LGBTQI+ community",
-   "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "date": "2026-11-23T05:24:36+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/a8e4b43c304ba0c667d2b3d232ba1b4acfdb683f/378_0_3201_2562/master/3201.jpg?width=700&quality=85&auto=format&fit=max&s=2a9c2b89e07ec7931a127be30f73e15c",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Dean Lewins/AAP"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T19:59:55+00:00"
   },
   {
    "id": "233527ac46cd3e5c",
@@ -327,10 +327,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: AAP",
+    "url": "https://i.guim.co.uk/img/media/f1717a2a58a718f26e5ea27c390dc3e864b3b906/0_0_3000_2399/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=bbcb76e569f2baeffca7ca2c61ef84ba",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4668ae0330434475b1bfb3af2d89e7f4a5d3c4c9/353_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=6211b19d672ae1058385b7dcf75e9bae",
-    "w": 700
+    "credit": "Photograph: gofundme.com"
    },
    "breaking": false,
    "addedAt": "2026-11-23T04:16:39+00:00"

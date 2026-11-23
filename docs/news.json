@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T12:16:59+00:00",
+ "generatedAt": "2026-11-23T12:26:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/aa1b35e93c4a8effd14713a671f4238d890247a5/924_730_3248_2598/master/3248.jpg?width=700&quality=85&auto=format&fit=max&s=fcf6a132b09a040b0b19705f86f78849",
-    "w": 700,
+    "credit": "Photograph: Cliff Owen/AP",
     "h": 560,
-    "credit": "Photograph: Cliff Owen/AP"
+    "url": "https://i.guim.co.uk/img/media/aa1b35e93c4a8effd14713a671f4238d890247a5/924_730_3248_2598/master/3248.jpg?width=700&quality=85&auto=format&fit=max&s=fcf6a132b09a040b0b19705f86f78849",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T12:16:59+00:00"
@@ -239,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/473b/live/8627f400-bd98-11f1-babe-4199b0e7ccea.png",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/473b/live/8627f400-bd98-11f1-babe-4199b0e7ccea.png"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/473b/live/8627f400-bd98-11f1-babe-4199b0e7ccea.png",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/473b/live/8627f400-bd98-11f1-babe-4199b0e7ccea.png",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T12:16:59+00:00"
@@ -2874,7 +2874,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4113,7 +4113,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5326,7 +5326,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6241,46 +6241,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T08:41:32+00:00"
-  },
-  {
-   "id": "8e544d08ae6a24aa",
-   "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
-   "summary": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
-   "date": "2026-11-20T12:24:40+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc3%2Ffa%2Fb1821d204e04bb7c7e70fa0c18bd%2Fap26322756273601.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc3%2Ffa%2Fb1821d204e04bb7c7e70fa0c18bd%2Fap26322756273601.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T12:33:14+00:00"
-  },
-  {
-   "id": "21f0442a64dca154",
-   "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
-   "summary": "The case sets a precedent for establishing a state's intent to commit genocide beyond explicitly written orders.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
-   "date": "2026-11-20T12:20:29+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afec4e04cae-1795081440.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afec4e04cae-1795081440.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T12:33:14+00:00"
   }
  ]
 }

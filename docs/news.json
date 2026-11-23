@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T11:21:38+00:00",
+ "generatedAt": "2026-11-23T11:30:48+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,50 @@
  ],
  "items": [
   {
+   "id": "0bf896f1b2209ae1",
+   "title": "Don’t let the race for investment leave communities behind",
+   "summary": "(Version française disponible ici) The Canada-EU summit in Montreal in late October marked an important step for both partners.",
+   "source": "Policy Options",
+   "url": "https://policyoptions.irpp.org/2026/11/industrial-strategy-communities/",
+   "date": "2026-11-23T11:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy"
+   ],
+   "kind": "analysis",
+   "image": {
+    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Un-Canada-fort.jpg?resize=1200%2C800",
+    "w": 1940,
+    "h": 1280,
+    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Un-Canada-fort.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:30:48+00:00"
+  },
+  {
+   "id": "e2830407b36aa712",
+   "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+   "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T11:25:16+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-22T15:59:07+00:00"
+  },
+  {
    "id": "d4c43e046f97320e",
    "title": "Presidential villa also hit by water and power cuts, Nigerian leader says",
    "summary": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
@@ -177,13 +221,55 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/69d2/live/beff50e0-e71c-11f1-914b-6d226d813a52.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:21:38+00:00"
+  },
+  {
+   "id": "f1abf2755af8d1ad",
+   "title": "Tories welcome Louise Haigh’s hint government could adopt their plan to scrap Natural England – UK politics live",
+   "summary": "First secretary of state has declined to say whether Natural England will be abolished as part of plans to cut the number of quangos Natural England could be abolished as part of quango cull, says Louise Haigh The full text of Louise Haigh ’s speech to the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+   "date": "2026-11-23T11:14:43+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Stefan Rousseau/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f19877fad077a0f724fe4ffa567383839f14e822/35_0_2240_1792/master/2240.jpg?width=700&quality=85&auto=format&fit=max&s=c8f5417c3f21dda8286b41fb1e3e23cc",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T09:39:29+00:00"
+  },
+  {
+   "id": "f571db581dd57e94",
+   "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+   "summary": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
+   "date": "2026-11-23T11:10:12+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0335854cc50-1795372421.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0335854cc50-1795372421.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:30:48+00:00"
   },
   {
    "id": "dfa4db2f66ca0142",
@@ -199,33 +285,13 @@
    ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Robin Rayne/Anadolu/Getty Images",
+    "url": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=c5b3f76d7a9a22075c7dd9bdac042f21",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b3d3ed0bfe60670723ffcba5553102b4f0199076/161_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=d308bd4bb36582cfe68ed13f50f28347",
-    "w": 700
+    "credit": "Photograph: Julia Demaree Nikhinson/AP"
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:11:58+00:00"
-  },
-  {
-   "id": "f1abf2755af8d1ad",
-   "title": "Tories welcome Louise Haigh’s hint government could adopt their plan to scrap Natural England – UK politics live",
-   "summary": "First secretary of state has declined to say whether Natural England will be abolished as part of plans to cut the number of quangos Natural England could be abolished as part of quango cull, says Louise Haigh In her speech to the CBI, Louise Haigh , the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-   "date": "2026-11-23T11:06:58+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Stefan Rousseau/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f19877fad077a0f724fe4ffa567383839f14e822/35_0_2240_1792/master/2240.jpg?width=700&quality=85&auto=format&fit=max&s=c8f5417c3f21dda8286b41fb1e3e23cc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:39:29+00:00"
   },
   {
    "id": "77ece0992320838f",
@@ -483,28 +549,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T03:12:46+00:00"
-  },
-  {
-   "id": "e2830407b36aa712",
-   "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-   "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T08:36:57+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T15:59:07+00:00"
   },
   {
    "id": "e2be825e0d55bb5f",
@@ -2747,7 +2791,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3986,7 +4030,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-9.7430331?cmp=rss",
    "date": "2026-11-21T09:00:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5199,7 +5243,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/news/12159786/ontario-ottawa-committing-250m-to-help-fund-new-port-in-sault-ste-marie/",
    "date": "2026-11-20T18:22:18+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6273,47 +6317,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T16:07:30+00:00"
-  },
-  {
-   "id": "0ed98699d4042ea1",
-   "title": "Vote for next leader of Ontario Liberals to conclude on Friday",
-   "summary": "Ontario Liberals wrap up a long leadership race Saturday, and, they hope, an even longer stretch without a long-term leader, as the party gets set to name the person they have selected to shepherd them into the next election.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/ontario-liberal-leadership-race-vote-9.7429478?cmp=rss",
-   "date": "2026-11-20T11:23:49+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/b8981fa4-243c-40c7-b589-af80d311eba5,1795172846483/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T11:46:31+00:00"
-  },
-  {
-   "id": "f087d7c7855c3ac1",
-   "title": "Who to watch in Spain's election race",
-   "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T11:23:42+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-17T18:23:22+00:00"
   }
  ]
 }

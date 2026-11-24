@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T17:31:33+00:00",
+ "generatedAt": "2026-11-24T17:40:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "886e6fb7c86dd637",
+   "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live",
+   "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "date": "2026-11-24T17:25:24+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=700&quality=85&auto=format&fit=max&s=a8c5eeb774bf12c4415fe5a8fb607e25",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Kichul Shin/NurPhoto/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
    "id": "2dd5afc16ba61c3f",
    "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
    "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News]…",
@@ -197,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ff80db16ecf3a986bd48f85643fafc277ad93725/64_0_960_768/master/960.jpg?width=700&quality=85&auto=format&fit=max&s=5d092acf79859014bf3517adf8e89db2",
-    "w": 700,
+    "credit": "Photograph: Julian Broad/Contour by Getty Images",
     "h": 560,
-    "credit": "Photograph: Julian Broad/Contour by Getty Images"
+    "url": "https://i.guim.co.uk/img/media/ff80db16ecf3a986bd48f85643fafc277ad93725/64_0_960_768/master/960.jpg?width=700&quality=85&auto=format&fit=max&s=5d092acf79859014bf3517adf8e89db2",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:31:33+00:00"
@@ -226,26 +248,6 @@
    "addedAt": "2026-11-24T14:33:22+00:00"
   },
   {
-   "id": "886e6fb7c86dd637",
-   "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
-   "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-24T17:13:53+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jonathan Ernst/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=700&quality=85&auto=format&fit=max&s=00478b14820fadebee482f60e2450b0d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T11:37:31+00:00"
-  },
-  {
    "id": "e12a925cb2dd4ab6",
    "title": "Trump expected to award Giuliani Presidential Medal of Freedom",
    "summary": "Trump’s former lawyer was disbarred for his efforts to help the US president overturn 2020 election results Donald Trump is expected to present Rudy Giuliani, his former personal attorney who was disbarred for his efforts to help the US president overturn…",
@@ -266,6 +268,29 @@
    "addedAt": "2026-11-24T17:22:24+00:00"
   },
   {
+   "id": "b2180152bcd17179",
+   "title": "Defence literacy must become a national security priority in Canada",
+   "summary": "Over the past 18 months, the Canadian government has committed record levels of funding to national defence .",
+   "source": "The Conversation",
+   "url": "https://theconversation.com/defence-literacy-must-become-a-national-security-priority-in-canada-297120",
+   "date": "2026-11-24T17:08:16+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy",
+    "defence"
+   ],
+   "kind": "analysis",
+   "image": {
+    "url": "https://images.theconversation.com/files/773640/original/file-20261123-62-hvul2z.JPG?ixlib=rb-4.1.1&rect=0%2C634%2C6500%2C3250&q=45&auto=format&h=668&w=1200&fit=clip",
+    "w": 1200,
+    "h": 600,
+    "small": "https://images.theconversation.com/files/773640/original/file-20261123-62-hvul2z.JPG?ixlib=rb-4.1.1&rect=0%2C634%2C6500%2C3250&q=45&auto=format&h=668&w=640&fit=clip"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T17:40:38+00:00"
+  },
+  {
    "id": "43aa1c6fc86385f7",
    "title": "After Libya, where will Ukraine strike Russia next?",
    "summary": "From Libya to Sudan and Mali, Ukraine is targeting Russia's military networks across Africa.",
@@ -284,6 +309,29 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:13:18+00:00"
+  },
+  {
+   "id": "22995c289ab600a9",
+   "title": "Justice is elusive for the Rohingya even after the ICJ’s landmark genocide ruling against Myanmar",
+   "summary": "By nine votes to six, the International Court of Justice (ICJ) has ruled that Myanmar committed genocide against the Rohingya people in connection with its 2017 “clearance operations” in Rakhine State.",
+   "source": "The Conversation",
+   "url": "https://theconversation.com/justice-is-elusive-for-the-rohingya-even-after-the-icjs-landmark-genocide-ruling-against-myanmar-297125",
+   "date": "2026-11-24T16:49:44+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "immigration",
+    "defence"
+   ],
+   "kind": "analysis",
+   "image": {
+    "url": "https://images.theconversation.com/files/439204/original/file-20220103-21317-ioj2wd.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=1200&fit=clip",
+    "w": 1200,
+    "h": 800,
+    "small": "https://images.theconversation.com/files/439204/original/file-20220103-21317-ioj2wd.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=640&fit=clip"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T17:40:38+00:00"
   },
   {
    "id": "14f45f708cb59b7d",
@@ -421,10 +469,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/37b2869f7bd05de287d811e35f9d87f7014da37e/848_0_5407_4326/master/5407.jpg?width=700&quality=85&auto=format&fit=max&s=82709df9477c7d47e3e3b871ea665603",
-    "w": 700,
+    "credit": "Photograph: Evelyn Hockstein/Reuters",
     "h": 560,
-    "credit": "Photograph: Evelyn Hockstein/Reuters"
+    "url": "https://i.guim.co.uk/img/media/37b2869f7bd05de287d811e35f9d87f7014da37e/848_0_5407_4326/master/5407.jpg?width=700&quality=85&auto=format&fit=max&s=82709df9477c7d47e3e3b871ea665603",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:31:33+00:00"
@@ -7313,27 +7361,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T01:54:40+00:00"
-  },
-  {
-   "id": "2ea227e17ec6f4b7",
-   "title": "Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change",
-   "summary": "A reported secret Pentagon directive restricting military co-operation with Canada has caught Ottawa off guard. Canadian defence officials say they've seen no evidence of restrictions taking effect.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/canada-us-pentagon-restrictions-hegseth-9.7431302?cmp=rss",
-   "date": "2026-11-21T17:39:29+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/900add84-2724-4e14-93cf-13c146e368ce,1795281858991/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6959%2C3914%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T17:45:42+00:00"
   }
  ]
 }

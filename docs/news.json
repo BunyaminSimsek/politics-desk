@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T18:17:15+00:00",
+ "generatedAt": "2026-11-24T18:26:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 14
+   "kept": 13
   },
   {
    "source": "BBC News",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "7223b2148f8fa7b7",
+   "title": "Rudy Giuliani awarded Presidential Medal of Freedom a year after being pardoned for potential crimes",
+   "summary": "Rudolph Giuliani, the former New York City mayor and longtime ally of President Donald Trump, was honoured on Tuesday with the Presidential Medal of Freedom, which comes after several years of personal legal peril.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/us-medal-of-freedom-9.7433727?cmp=rss",
+   "date": "2026-11-24T18:16:39+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/0de114f7-e99f-4798-98ac-56cdb40f2710,1795541876943/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C241%2C4627%2C2602%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T18:26:33+00:00"
+  },
+  {
    "id": "e12a925cb2dd4ab6",
    "title": "Trump honors Rudy Giuliani with presidential medal of freedom",
    "summary": "President’s former lawyer, disbarred over effort to overturn 2020 election result, receives top civilian honor Donald Trump awarded Rudy Giuliani, his former personal attorney who was disbarred for his efforts to help the US president overturn 2020 election…",
@@ -204,6 +223,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T05:48:37+00:00"
+  },
+  {
+   "id": "822010554ec367e8",
+   "title": "Israel attempts to jail Palestinian student at Hebrew University without trial",
+   "summary": "Mahdi Tounsi appeared to have suffered maltreatment at hearing where he was not allowed to hear prosecution case against him Palestinian student Mahdi Tounsi appeared in a closed-door court hearing in Jerusalem, as academics and activists warned that Israel’s…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/24/israel-jail-palestinian-student-mahdi-tounsi-hebrew-university-without-trial",
+   "date": "2026-11-24T18:02:53+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/2a24051caa6582ebbeefad68e096f0b41c2ba64b/797_21_3886_3109/master/3886.jpg?width=700&quality=85&auto=format&fit=max&s=20e5a0c9e88c3f4733e889f3428d7fd7",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Quique Kierszenbaum/The Guardian"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T18:26:33+00:00"
   },
   {
    "id": "e9783ee40b968aaa",
@@ -289,7 +328,7 @@
   },
   {
    "id": "2dd5afc16ba61c3f",
-   "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
+   "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – as it happened",
    "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News]…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
@@ -452,6 +491,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:40:38+00:00"
+  },
+  {
+   "id": "232c4ba6bb6eae03",
+   "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+   "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T16:49:07+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T18:26:33+00:00"
   },
   {
    "id": "14f45f708cb59b7d",
@@ -7336,49 +7395,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T18:59:37+00:00"
-  },
-  {
-   "id": "0b0e060ad4ed3c25",
-   "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
-   "summary": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’ Residents of a Suffolk village have voted to “leave the UK” in a referendum held in response to government plans to house 930…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
-   "date": "2026-11-21T18:20:37+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections",
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Martin Pope/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/bfb4a0d197f8daee0456ecc459f3eddb4cc320cc/835_0_4628_3704/master/4628.jpg?width=700&quality=85&auto=format&fit=max&s=eb774ff3ad522f298afbc9905613fff6",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T18:32:11+00:00"
-  },
-  {
-   "id": "925a1909408b0d1b",
-   "title": "Could Brexit be reversed?",
-   "summary": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
-   "date": "2026-11-21T18:18:11+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795283116.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795283116.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T18:23:12+00:00"
   }
  ]
 }

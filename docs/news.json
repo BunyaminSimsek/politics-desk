@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T15:58:15+00:00",
+ "generatedAt": "2026-11-24T16:07:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -149,7 +149,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/africa/rss",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Conversation",
@@ -165,6 +165,128 @@
   }
  ],
  "items": [
+  {
+   "id": "cf7c1eb3cd6e9d0c",
+   "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+   "summary": "Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in Africa When the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+   "date": "2026-11-24T16:00:50+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/10e1ca6b5f3fb26e97a3db600a8ac46bde25afdf/1_0_4998_4000/master/4998.jpg?width=700&quality=85&auto=format&fit=max&s=57fbeef0faa6d3470b3d966d31f5f2e1",
+    "w": 700,
+    "h": 560,
+    "credit": "Composite: Getty Images / AP / Reuters / Guardian design"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T16:07:37+00:00"
+  },
+  {
+   "id": "886e6fb7c86dd637",
+   "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
+   "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "date": "2026-11-24T15:58:23+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Jonathan Ernst/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=700&quality=85&auto=format&fit=max&s=00478b14820fadebee482f60e2450b0d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
+   "id": "2dd5afc16ba61c3f",
+   "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
+   "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News]…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+   "date": "2026-11-24T15:58:18+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/12d9b32cd2174fb0a4d765027b560f1f4e2c7a9c/518_52_3268_2615/master/3268.jpg?width=700&quality=85&auto=format&fit=max&s=6c3201487e69598c31e363e7696184f2",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lab Ky Mo/SOPA Images/LightRocket/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T09:00:35+00:00"
+  },
+  {
+   "id": "9f976c330c9ca685",
+   "title": "Irish plan could let UK join EU’s Made in Europe without trade alignment",
+   "summary": "Irish presidency of EU proposes giving UK ‘partner’ status on assembly of cars in possible boost to reset of relations Business live – latest updates The UK will not have to follow the EU and apply tariffs on Chinese car imports under an Irish proposal that…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/24/uk-eu-made-in-europe-trade-cars-tariffs",
+   "date": "2026-11-24T15:53:22+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/122e92890ede0f6fbf7db947948a27720083b506/1440_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=e041e9a76f6a0af939dc9904b44d795f",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Christopher Thomond/The Guardian"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T16:07:37+00:00"
+  },
+  {
+   "id": "86afad3ac3241cff",
+   "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
+   "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+   "date": "2026-11-24T15:52:50+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Media Office Of The Eastern Libyan Forces [libyan National Army]/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=700&quality=85&auto=format&fit=max&s=791c55ee04f977f47ed2ad097a23bec0",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T09:37:27+00:00"
+  },
+  {
+   "id": "650a4c88248107fc",
+   "title": "Jimmy Kimmel on Jensen Huang’s return to Nvidia: ‘What a profoundly stupid time to be alive’",
+   "summary": "Late-night hosts discussed disgraced Nvidia CEO’s quick return to his role after pressure from shareholder Trump Late-night hosts reacted to the reinstatement of Jensen Huang as CEO of Nvidia under political pressure from Donald Trump .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/culture/2026/nov/24/jimmy-kimmel-jensen-huang-nvidia-trump",
+   "date": "2026-11-24T15:51:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/31ee47f00dd0d27f6edca7bf2f8666aaac03673e/274_0_1311_1050/master/1311.jpg?width=700&quality=85&auto=format&fit=max&s=6bc36d80541d61d4df1a476814c39008",
+    "w": 700,
+    "h": 561,
+    "credit": "Photograph: Youtube"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T16:07:37+00:00"
+  },
   {
    "id": "90cb716fe84d746b",
    "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
@@ -184,26 +306,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T14:33:22+00:00"
-  },
-  {
-   "id": "2dd5afc16ba61c3f",
-   "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
-   "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News]…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-   "date": "2026-11-24T15:39:11+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Sergio Azenha/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fc9b07de39a2037404bfbc03df3dfcd84bce2add/654_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=e55fc7f104073ed6102586eaea236258",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:00:35+00:00"
   },
   {
    "id": "43b484dc42ff2941",
@@ -266,26 +368,6 @@
    "addedAt": "2026-11-24T15:49:06+00:00"
   },
   {
-   "id": "886e6fb7c86dd637",
-   "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
-   "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-24T15:24:26+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jonathan Ernst/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=700&quality=85&auto=format&fit=max&s=00478b14820fadebee482f60e2450b0d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T11:37:31+00:00"
-  },
-  {
    "id": "ae2e8e2caf29fdfa",
    "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
    "summary": "US president says he ‘convinced’ chipmaker’s board to reinstate CEO, as Nvidia shares fall after previous day’s rally Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Donald Trump made up to $15m (£11.5m) on…",
@@ -324,26 +406,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T15:28:36+00:00"
-  },
-  {
-   "id": "86afad3ac3241cff",
-   "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
-   "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-   "date": "2026-11-24T15:15:22+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Media Office Of The Eastern Libyan Forces [libyan National Army]/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=700&quality=85&auto=format&fit=max&s=791c55ee04f977f47ed2ad097a23bec0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:37:27+00:00"
   },
   {
    "id": "3a3b31114f7f0a3a",

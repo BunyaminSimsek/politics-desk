@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T17:13:18+00:00",
+ "generatedAt": "2026-11-24T17:22:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "90cb716fe84d746b",
+   "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
+   "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T17:16:09+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T14:33:22+00:00"
+  },
+  {
+   "id": "e12a925cb2dd4ab6",
+   "title": "Trump expected to award Giuliani Presidential Medal of Freedom",
+   "summary": "Trump’s former lawyer was disbarred for his efforts to help the US president overturn 2020 election results Donald Trump is expected to present Rudy Giuliani, his former personal attorney who was disbarred for his efforts to help the US president overturn…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/24/trump-giuliani-presidential-medal-of-freedom",
+   "date": "2026-11-24T17:09:34+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/d456d1f37f9e02edfcc7211951564eb91a5a8aab/309_0_3866_3094/master/3866.jpg?width=700&quality=85&auto=format&fit=max&s=c2cf39f083ea0e74617efce8d82303ae",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Carolyn Kaster/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T17:22:24+00:00"
+  },
+  {
    "id": "43aa1c6fc86385f7",
    "title": "After Libya, where will Ukraine strike Russia next?",
    "summary": "From Libya to Sudan and Mali, Ukraine is targeting Russia's military networks across Africa.",
@@ -177,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795539850.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795539850.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795539850.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795539850.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:13:18+00:00"
@@ -197,10 +237,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Lab Ky Mo/SOPA Images/LightRocket/Getty Images",
+    "url": "https://i.guim.co.uk/img/media/75b036e7469fe11674f0efbb53133c32a0526e73/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=72057db1de22e719758f44c586a2912d",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/12d9b32cd2174fb0a4d765027b560f1f4e2c7a9c/518_52_3268_2615/master/3268.jpg?width=700&quality=85&auto=format&fit=max&s=6c3201487e69598c31e363e7696184f2",
-    "w": 700
+    "credit": "Photograph: House of Commons/PA"
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:00:35+00:00"
@@ -264,6 +304,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T05:48:37+00:00"
+  },
+  {
+   "id": "e3394a04737afd99",
+   "title": "US court unseals heavily redacted records on Ilhan Omar home search",
+   "summary": "Prosecutors say they are pursuing evidence of crimes allegedly committed by the Democratic congresswoman over decades, and unrelated to her work in Congress.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6n831lzl5y1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T16:32:16+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/782a/live/ec4b1900-e823-11f1-a58d-43263bea41a8.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/782a/live/ec4b1900-e823-11f1-a58d-43263bea41a8.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T17:22:24+00:00"
   },
   {
    "id": "b335207f99b64e53",
@@ -387,26 +447,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T16:45:33+00:00"
-  },
-  {
-   "id": "90cb716fe84d746b",
-   "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
-   "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T16:11:33+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T14:33:22+00:00"
   },
   {
    "id": "9f976c330c9ca685",
@@ -7274,72 +7314,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T17:36:30+00:00"
-  },
-  {
-   "id": "cf2547504110fc73",
-   "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-   "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-   "date": "2026-11-21T17:20:03+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26325498278414-1795277500.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26325498278414-1795277500.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T17:27:14+00:00"
-  },
-  {
-   "id": "75b3083c0038eda6",
-   "title": "McGuinty not aware U.S. has changed military co-operation policy with Canada",
-   "summary": "HALIFAX - Canada’s defence minister says he has not seen a memo from the U.S. secretary of war that reportedly restricts American defence co-operation with Canada.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/mcguinty-not-aware-u-s-has-changed-military-co-operation-policy-with-canada/article_ecf03de5-a7c9-5dcd-82ae-0d889ddf7f83.html",
-   "date": "2026-11-21T17:20:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/da/8dace795-551e-5775-b5db-c081c909f68f/6b009c3939827.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/da/8dace795-551e-5775-b5db-c081c909f68f/6b009c3939827.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T17:36:30+00:00"
-  },
-  {
-   "id": "373a4109d1e8395c",
-   "title": "U.S. senator says Hegseth memo does not change military co-operation with Canada",
-   "summary": "Canada's defence minister said he has met with several different U.S. defence officials in the last week and has not been advised of a change.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/mcguinty-not-aware-u-s-has-changed-military-co-operation-policy-with-canada/article_ecf03de5-a7c9-5dcd-82ae-0d889ddf7f83.html",
-   "date": "2026-11-21T17:20:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/da/8dace795-551e-5775-b5db-c081c909f68f/6b009c3939827.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/da/8dace795-551e-5775-b5db-c081c909f68f/6b009c3939827.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T19:17:52+00:00"
   }
  ]
 }

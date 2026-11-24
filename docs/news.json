@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T06:25:08+00:00",
+ "generatedAt": "2026-11-24T06:34:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 14
+   "kept": 15
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,9 +166,29 @@
  ],
  "items": [
   {
+   "id": "453558042ad68717",
+   "title": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",
+   "summary": "Amendments to government bill by Coalition and Greens would establish protections for those reporting wrongdoing in sport Get our daily political email , free app or daily news podcast Whistleblowers coming forward to report corruption or misconduct in sports…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb",
+   "date": "2026-11-24T06:20:10+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/cc3a30dd7b1b585e0e2405431c69f72e41335cfe/502_0_3714_2970/master/3714.jpg?width=700&quality=85&auto=format&fit=max&s=461e52b3a2acdc78da71dbe166563c5b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Nick Potts/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T06:34:24+00:00"
+  },
+  {
    "id": "c945b3d23771c690",
    "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
-   "summary": "Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies Kate Bush, Grace Jones and Sir Ian Rankin have joined 7,000 artists and creatives around the world pleading for the Australian government not…",
+   "summary": "Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies Get our breaking news email , free app or daily news podcast Kate Bush, Grace Jones and Sir Ian Rankin have joined 7,000 artists and…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
    "date": "2026-11-24T05:58:15+00:00",
@@ -184,6 +204,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T06:06:49+00:00"
+  },
+  {
+   "id": "96501199822c0875",
+   "title": "Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups",
+   "summary": "Europe's premier club competition pits English champions Arsenal against German league leaders Dortmund on Tuesday.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
+   "date": "2026-11-24T05:56:41+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D89A9BK__v1__HighRes__FblEngPrNewcastleArsenal-1795420051_344fbb-1795420233.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D89A9BK__v1__HighRes__FblEngPrNewcastleArsenal-1795420051_344fbb-1795420233.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T06:34:24+00:00"
   },
   {
    "id": "21d99b6d7920fcf8",
@@ -6530,26 +6570,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T09:00:29+00:00"
-  },
-  {
-   "id": "c8f733b5e17d1f3e",
-   "title": "Sudan’s war will end, but will it be too late?",
-   "summary": "Pressure from within Sudan may achieve what international diplomacy has not.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
-   "date": "2026-11-21T06:32:04+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afefdd4c6d5-1795096020.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afefdd4c6d5-1795096020.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T06:52:52+00:00"
   }
  ]
 }

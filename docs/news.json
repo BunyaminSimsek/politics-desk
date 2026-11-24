@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T12:23:45+00:00",
+ "generatedAt": "2026-11-24T12:32:57+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 30
+   "kept": 32
   },
   {
    "source": "The Guardian",
@@ -166,9 +166,93 @@
  ],
  "items": [
   {
+   "id": "43b484dc42ff2941",
+   "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
+   "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Congress to grill Jensen Huang over ties with…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+   "date": "2026-11-24T12:29:35+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Ritchie B Tongo/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=abfc684f75b37d58bc4c1040d667f62d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T07:56:43+00:00"
+  },
+  {
+   "id": "2dd5afc16ba61c3f",
+   "title": "Farage suggests he wouldn’t work with Tories on campaign against rejoining EU and ‘will never trust them again’ – UK politics live",
+   "summary": "The Reform UK leader, still under investigation by the parliamentary watchdog, says he doesn’t believe the Tories Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+   "date": "2026-11-24T12:24:27+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Carl Court/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/6fe99610ea3d772a960225ef129dcddcb04367eb/646_0_4531_3627/master/4531.jpg?width=700&quality=85&auto=format&fit=max&s=8bb97271dbe068499454c7e9acc647ff",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T09:00:35+00:00"
+  },
+  {
+   "id": "4c704aa4a688ac4a",
+   "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+   "summary": "Exclusive: Ada Colau hopes public anger over housing will transfer into support for her Broad Front coalition in Sunday’s vote The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/24/spain-election-ada-colau-broad-front-far-right",
+   "date": "2026-11-24T12:22:04+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9dd7ada2e09eb6a29905f307f10be2a0c0c75ae7/414_0_4138_3310/master/4138.jpg?width=700&quality=85&auto=format&fit=max&s=708bbe9c87dd6fdfe3bcb0fd2de64066",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Joan Mateu Parra/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T12:32:57+00:00"
+  },
+  {
+   "id": "90c76328a75001b9",
+   "title": "Summer heat deaths reach record high of 5,258 in England this year",
+   "summary": "Figure for May to September is far higher than previous peak of 2,985 since records began a decade ago More than 5,200 deaths in England this year were linked to summer heat, the highest annual total since records began a decade ago, according to the UK…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
+   "date": "2026-11-24T12:19:01+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/54e33c27c1b231b7460aab7b0889f51506eac005/204_0_4710_3769/master/4710.jpg?width=700&quality=85&auto=format&fit=max&s=66d614002ef8fab27f7cc78dc6c53b14",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Neil Hall/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T12:32:57+00:00"
+  },
+  {
    "id": "1b64d8db79098f9b",
-   "title": "First Thing: Trump appears to make millions from Nvidia intervention over Huang",
-   "summary": "US president holds significant stock in AI company whose value soared after Jensen Huang was reinstated as CEO. Plus, why GTA shouldn’t, and won’t be adapted for streaming Good morning.",
+   "title": "Trump appears to make millions from Nvidia intervention over Huang | First Thing",
+   "summary": "US president holds significant stock in AI company whose value soared after Jensen Huang was reinstated as CEO. Plus, why GTA shouldn’t, and won’t, be adapted for streaming Good morning.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/24/first-thing-trump-appears-to-make-millions-from-nvidia-intervention-over-huang",
    "date": "2026-11-24T12:14:52+00:00",
@@ -177,13 +261,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a7eaf894846e2d78f6440d72b865592eba82986e/30_0_2838_2270/master/2838.jpg?width=700&quality=85&auto=format&fit=max&s=8a1c8cc4f2b5f2e053ed449648b8245d",
-    "w": 700,
+    "credit": "Photograph: Evan Vucci/Reuters",
     "h": 560,
-    "credit": "Photograph: Evan Vucci/Reuters"
+    "url": "https://i.guim.co.uk/img/media/a7eaf894846e2d78f6440d72b865592eba82986e/30_0_2838_2270/master/2838.jpg?width=700&quality=85&auto=format&fit=max&s=8a1c8cc4f2b5f2e053ed449648b8245d",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T12:23:45+00:00"
+  },
+  {
+   "id": "886e6fb7c86dd637",
+   "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
+   "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "date": "2026-11-24T12:13:53+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Jonathan Ernst/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=700&quality=85&auto=format&fit=max&s=00478b14820fadebee482f60e2450b0d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
   },
   {
    "id": "a64217797322f4ae",
@@ -201,28 +305,6 @@
    "addedAt": "2026-11-24T12:23:45+00:00"
   },
   {
-   "id": "2dd5afc16ba61c3f",
-   "title": "Farage suggests he wouldn’t work with Tories on campaign against rejoining EU and ‘will never trust them again’ – UK politics live",
-   "summary": "The Reform UK leader, still under investigation by the parliamentary watchdog, says he doesn’t believe the Tories Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-   "date": "2026-11-24T12:09:58+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Carl Court/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6fe99610ea3d772a960225ef129dcddcb04367eb/646_0_4531_3627/master/4531.jpg?width=700&quality=85&auto=format&fit=max&s=8bb97271dbe068499454c7e9acc647ff",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:00:35+00:00"
-  },
-  {
    "id": "ff5d3f981c6bf900",
    "title": "History-making Democratic senator backs filibuster reform to make good on midterm pledges",
    "summary": "Juliana Stratton eager to work with Republicans who ‘have a real spine’ to stand up to Trump and deliver for voters Juliana Stratton, the incoming Democratic senator from Illinois, said she would support significantly reforming or abolishing the filibuster in…",
@@ -234,10 +316,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/4b15a9038924f6c80643492227e1d85fe376288c/500_0_5000_4002/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2d22c59a6a38274735c0ee0835d4302c",
-    "w": 700,
+    "credit": "Photograph: Scott Olson/Getty Images",
     "h": 560,
-    "credit": "Photograph: Scott Olson/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/4b15a9038924f6c80643492227e1d85fe376288c/500_0_5000_4002/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2d22c59a6a38274735c0ee0835d4302c",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T12:23:45+00:00"
@@ -261,48 +343,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T12:14:31+00:00"
-  },
-  {
-   "id": "43b484dc42ff2941",
-   "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-   "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Congress to grill Jensen Huang over ties with…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-   "date": "2026-11-24T11:57:39+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ritchie B Tongo/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=abfc684f75b37d58bc4c1040d667f62d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T07:56:43+00:00"
-  },
-  {
-   "id": "886e6fb7c86dd637",
-   "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
-   "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-24T11:56:54+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jonathan Ernst/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=700&quality=85&auto=format&fit=max&s=00478b14820fadebee482f60e2450b0d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T11:37:31+00:00"
   },
   {
    "id": "199393440e274bc9",
@@ -779,10 +819,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9f22a19d170e05a9273e32830ab1c24735bb14bb/282_0_4240_3392/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=b74e3956b360dcf5ef7a6a460e886e4c",
-    "w": 700,
+    "credit": "Photograph: Bhawika Chhabra/Reuters",
     "h": 560,
-    "credit": "Photograph: Bhawika Chhabra/Reuters"
+    "url": "https://i.guim.co.uk/img/media/9f22a19d170e05a9273e32830ab1c24735bb14bb/282_0_4240_3392/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=b74e3956b360dcf5ef7a6a460e886e4c",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:37:27+00:00"

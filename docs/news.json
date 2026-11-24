@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T15:19:29+00:00",
+ "generatedAt": "2026-11-24T15:28:36+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "Global News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 1
+   "kept": 0
   },
   {
    "source": "CTV News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "e27d2ae923bb584a",
+   "title": "Land mine casualties soar in Syria, two years after war",
+   "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T15:17:28+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T15:28:36+00:00"
+  },
+  {
    "id": "90cb716fe84d746b",
    "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
    "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
@@ -257,10 +277,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/4f65769a0282514d096c6fae188f15044b6da515/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=537a09ddcd08e8558c866976879b796b",
-    "w": 700,
+    "credit": "Composite: The Guardian/Getty Images",
     "h": 560,
-    "credit": "Composite: The Guardian/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/4f65769a0282514d096c6fae188f15044b6da515/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=537a09ddcd08e8558c866976879b796b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T15:19:29+00:00"
@@ -2850,7 +2870,7 @@
    "id": "743f02dcae67213a",
    "title": "Premier Ford won’t agree to trade deal without auto, steel and manufacturing approval",
    "summary": "Ottawa is seeking what it says is an “interim deal” that would provide tariff relief for Canadian businesses and resolve core trade irritants.",
-   "source": "Global News Toronto",
+   "source": "Global News",
    "url": "https://globalnews.ca/news/12162655/premier-ford-wont-agree-to-trade-deal-without-auto-steel-and-manufacturing-approval/",
    "date": "2026-11-23T19:38:46+00:00",
    "topic": "ontario",
@@ -7196,26 +7216,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T15:45:41+00:00"
-  },
-  {
-   "id": "9837acf6063e3c9e",
-   "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
-   "summary": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
-   "date": "2026-11-21T15:20:43+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-07-28T093009Z_1671209651_UP1EM7S0QE7FY_RTRMADP_3_SOCCER-FRANCE-1795273299.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-07-28T093009Z_1671209651_UP1EM7S0QE7FY_RTRMADP_3_SOCCER-FRANCE-1795273299.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T15:36:26+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T12:51:13+00:00",
+ "generatedAt": "2026-11-24T13:00:34+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,24 +166,86 @@
  ],
  "items": [
   {
-   "id": "cd565fb56edad974",
-   "title": "Russian governor detained in rare criminal case against regional leader",
-   "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T12:45:43+00:00",
-   "topic": "ukraine",
+   "id": "d7ef7bd7d5948948",
+   "title": "Iran files lawsuits in US, EU courts: Will it get justice for ‘war crimes’?",
+   "summary": "As Iran seeks accountability and compensation for alleged war crimes, experts say legal proceedings face steep hurdles.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/24/irans-fight-for-wartime-redress-moves-from-battlefield-to-us-eu-courts?traffic_source=rss",
+   "date": "2026-11-24T12:56:29+00:00",
+   "topic": "mideast",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0552a97c-1795510953.jpg?resize=1200%2C800",
     "w": 1200,
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg"
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0552a97c-1795510953.jpg?resize=640%2C427"
    },
    "breaking": false,
-   "addedAt": "2026-11-24T12:51:13+00:00"
+   "addedAt": "2026-11-24T13:00:34+00:00"
+  },
+  {
+   "id": "931c5c261b56cd74",
+   "title": "UK sanctions Yemen’s Houthi group, four senior officials",
+   "summary": "Group must be held accountable for 'targeting our partners and innocent civilians', says Foreign Secretary Ed Miliband.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials?traffic_source=rss",
+   "date": "2026-11-24T12:55:55+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b058574b0bc-1795523956.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b058574b0bc-1795523956.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T13:00:34+00:00"
+  },
+  {
+   "id": "43b484dc42ff2941",
+   "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
+   "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Congress to grill Jensen Huang over ties with…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+   "date": "2026-11-24T12:50:42+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Ritchie B Tongo/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=abfc684f75b37d58bc4c1040d667f62d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T07:56:43+00:00"
+  },
+  {
+   "id": "86afad3ac3241cff",
+   "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
+   "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+   "date": "2026-11-24T12:50:03+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Polsat News/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=700&quality=85&auto=format&fit=max&s=c2b831cbbd82d854b4f8528b14943a59",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T09:37:27+00:00"
   },
   {
    "id": "2dd5afc16ba61c3f",
@@ -191,7 +253,7 @@
    "summary": "The Reform UK leader, still under investigation by the parliamentary watchdog, says he doesn’t believe the Tories Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-   "date": "2026-11-24T12:42:13+00:00",
+   "date": "2026-11-24T12:48:23+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -206,6 +268,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:00:35+00:00"
+  },
+  {
+   "id": "cd565fb56edad974",
+   "title": "Russian governor detained in rare criminal case against regional leader",
+   "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T12:45:43+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T12:51:13+00:00"
+  },
+  {
+   "id": "69ab57e1b4983be7",
+   "title": "Trump’s Nvidia intervention: What’s at stake?",
+   "summary": "Trump’s intervention to reinstate Nvidia CEO Jensen Huang has raised concerns over US government influence in business.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/trumps-nvidia-intervention-whats-at-stake?traffic_source=rss",
+   "date": "2026-11-24T12:44:56+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795524157.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795524157.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T13:00:34+00:00"
   },
   {
    "id": "90c76328a75001b9",
@@ -248,48 +350,6 @@
    "addedAt": "2026-11-24T11:37:31+00:00"
   },
   {
-   "id": "86afad3ac3241cff",
-   "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
-   "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank The Slovakian parliament has approved contentious legislation to scrap postal voting for Slovaks living abroad – except for at Slovak…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-   "date": "2026-11-24T12:30:58+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Polsat News/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=700&quality=85&auto=format&fit=max&s=c2b831cbbd82d854b4f8528b14943a59",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:37:27+00:00"
-  },
-  {
-   "id": "43b484dc42ff2941",
-   "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-   "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Congress to grill Jensen Huang over ties with…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-   "date": "2026-11-24T12:29:35+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ritchie B Tongo/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=abfc684f75b37d58bc4c1040d667f62d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T07:56:43+00:00"
-  },
-  {
    "id": "4c704aa4a688ac4a",
    "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
    "summary": "Exclusive: Ada Colau hopes public anger over housing will transfer into support for her Broad Front coalition in Sunday’s vote The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system…",
@@ -314,7 +374,7 @@
   {
    "id": "1b64d8db79098f9b",
    "title": "Trump appears to make millions from Nvidia intervention over Huang | First Thing",
-   "summary": "US president holds significant stock in AI company whose value soared after Jensen Huang was reinstated as CEO. Plus, why GTA shouldn’t, and won’t, be adapted for streaming Good morning.",
+   "summary": "US president holds significant stock in AI company whose value soared after Jensen Huang was reinstated as CEO. Plus, why GTA shouldn’t, and won’t, be adapted for streaming Don’t already get First Thing in your inbox? Sign up here Good morning.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/24/first-thing-trump-appears-to-make-millions-from-nvidia-intervention-over-huang",
    "date": "2026-11-24T12:14:52+00:00",
@@ -6853,26 +6913,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T12:22:32+00:00"
-  },
-  {
-   "id": "ee9aa2dd2ab75d74",
-   "title": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
-   "summary": "Iran war stretching fleet’s capacity, navy chief admits, as CBO finds estimated cost of new ships ‘unrealistically low’ The US navy’s commitment to the new Trump-class battleships has blown out the cost of its new fleet by billions of dollars, a report to the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
-   "date": "2026-11-21T13:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Víctor R Caivano/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=700&quality=85&auto=format&fit=max&s=b1d807f54f6575437d70fc65b354368f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T13:17:35+00:00"
   }
  ]
 }

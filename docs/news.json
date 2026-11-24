@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T23:57:10+00:00",
+ "generatedAt": "2026-11-24T00:06:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,12 +166,54 @@
  ],
  "items": [
   {
+   "id": "99a80c950af96ad4",
+   "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
+   "summary": "Iran's Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
+   "date": "2026-11-24T00:00:00+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261123__D8BZ7G9__v2__HighRes__IranUsIsraelWar-1795471267.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261123__D8BZ7G9__v2__HighRes__IranUsIsraelWar-1795471267.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T00:06:14+00:00"
+  },
+  {
+   "id": "5cf4131f85f66c67",
+   "title": "Federal court clears way for army to detonate bomb-making material in Iowa",
+   "summary": "Decision comes after Trump urged court to first sign off on what he called the safest way to resolve the situation A federal appeals court cleared way for the US army to detonate several tons of degraded bomb-making material at an Iowa ammunition plant, hours…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+   "date": "2026-11-23T23:57:33+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Jim Urquhart/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=700&quality=85&auto=format&fit=max&s=b7c309e540e260b09d3cf0b441417178",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T19:53:20+00:00"
+  },
+  {
    "id": "dfa4db2f66ca0142",
-   "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
-   "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement",
+   "title": "Republicans lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
+   "summary": "‘Congress has much to investigate’, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T23:45:12+00:00",
+   "date": "2026-11-23T23:52:36+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -186,10 +228,52 @@
    "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
+   "id": "b165ed4dc3a7cc7e",
+   "title": "Drone attack on Colombia police base injures civilians, including infant",
+   "summary": "Far-right President De la Espriella steps up offensive as rebel groups strike back with drone strikes, roadside bombs.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
+   "date": "2026-11-23T23:49:37+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b04bf9609ed-1795473302.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b04bf9609ed-1795473302.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T00:06:14+00:00"
+  },
+  {
+   "id": "1bf035c3a6fff71d",
+   "title": "Australian 'lawful access' system relies on co-operation, official tells senators",
+   "summary": "OTTAWA - A senior Australian official told Canadian senators today his country's system to help police and spies access online communications relies heavily on co-operation between law enforcement agencies and technology companies.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/australian-lawful-access-system-relies-on-co-operation-official-tells-senators/article_2d7fb0fc-49da-5324-97ff-805f628d48fe.html",
+   "date": "2026-11-23T23:43:54+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/63/8631c823-ec0e-5575-bc11-6bc96bcf5cee/69faf7604055f.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 843,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/63/8631c823-ec0e-5575-bc11-6bc96bcf5cee/69faf7604055f.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T00:06:14+00:00"
+  },
+  {
    "id": "dd4cd606cf5d50df",
    "title": "Pentagon takes fresh aim at Canada's military readiness, defence spending priorities",
    "summary": "The Pentagon has escalated its criticism of Canada, accusing Ottawa of failing to meet NATO and NORAD obligations and putting domestic economic interests ahead of military effectiveness.",
-   "source": "CBC News",
+   "source": "CBC World",
    "url": "https://www.cbc.ca/news/politics/pentagon-criticizes-canadian-military-readiness-9.7433335?cmp=rss",
    "date": "2026-11-23T23:32:21+00:00",
    "topic": "federal",
@@ -429,28 +513,6 @@
    "addedAt": "2026-11-23T16:37:10+00:00"
   },
   {
-   "id": "5cf4131f85f66c67",
-   "title": "Trump defers to appeals court over army plan to detonate bomb-making material in Iowa",
-   "summary": "Environmentalists sued last week to stop detonation of 68 barrels of lead azide over health and pollution concerns Donald Trump on Monday halted the planned detonation of several tons of degraded bomb-making material at an Iowa ammunition plant, urging a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-   "date": "2026-11-23T22:22:12+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jim Urquhart/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/76db52e4eaa3de26ff9036b7f9a8cfba66b5a653/551_0_5418_4335/master/5418.jpg?width=700&quality=85&auto=format&fit=max&s=b7c309e540e260b09d3cf0b441417178",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T19:53:20+00:00"
-  },
-  {
    "id": "95f79e5818c90801",
    "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
    "summary": "Democrat, who lost re-election bid, found to have made ‘unwelcome sexual advances’ towards House staffer Jimmy Gomez will resign from Congress after a House ethics report released on Monday found “substantial evidence” that the California Democrat had…",
@@ -656,7 +718,7 @@
   {
    "id": "4578896294e6351b",
    "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
-   "summary": "Outcry builds over Trump-backed move to bring back CEO as lawmakers call for Huang’s testimony before Congress US politics – live updates Republican lawmakers roundly criticized the Nvidia board’s decision to reinstate chief executive Jensen Huang, even after…",
+   "summary": "Outcry builds over Trump-backed move to bring back CEO as lawmakers call for Huang’s testimony before Congress US politics – live updates Republican lawmakers roundly criticized the Nvidia board’s decision to reinstate its chief executive, Jensen Huang, even…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
    "date": "2026-11-23T21:09:10+00:00",
@@ -6286,87 +6348,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T00:34:01+00:00"
-  },
-  {
-   "id": "27173930602c0888",
-   "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – as it happened",
-   "summary": "This live blog is now closed. Republican senator blocks Trump cyber nominee over January 6 denial",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-   "date": "2026-11-21T00:04:36+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Allison Robbert/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/22774e3086d492bb9ec8ba43f9c0d279af1aa6fe/533_0_4877_3902/master/4877.jpg?width=700&quality=85&auto=format&fit=max&s=74a4a01e6932cae12cebf3f114f9948d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-20T10:59:55+00:00"
-  },
-  {
-   "id": "89fcbe70d366afaa",
-   "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-   "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T00:01:39+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T00:15:29+00:00"
-  },
-  {
-   "id": "a7dd2896b1422167",
-   "title": "Iran war live: 2 tankers reported hit by unknown projectiles off Oman coast",
-   "summary": "UKMTO says no injuries reported in incidents north and east of Oman's Khasab, but environmental impact remains unclear.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-   "date": "2026-11-21T00:00:06+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00dbc90b00-1795218377.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00dbc90b00-1795218377.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T00:24:43+00:00"
-  },
-  {
-   "id": "4a3735ba7d212712",
-   "title": "NDP makes plea for stronger Indigenous rights protections in major projects bill",
-   "summary": "New Democrats are accusing the Liberals of taking a colonial approach to their major projects legislation.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/ndp-liberals-bill-c39-indigenous-concerns-9.7430722?cmp=rss",
-   "date": "2026-11-20T23:59:54+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/e7be82db-c6a4-47b0-b535-48f6d02d5488,1795213793884/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C435%2C8356%2C4700%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T00:05:50+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T21:24:40+00:00",
+ "generatedAt": "2026-11-24T21:33:57+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "Global News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "224e85782b596bfb",
+   "title": "National chief calls on Ottawa to include human right to clean water in new bill",
+   "summary": "OTTAWA - The national chief of the Assembly of First Nations is calling on the federal government to amend its new First Nations water bill to establish a human right to clean drinking water.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/national-chief-calls-on-ottawa-to-include-human-right-to-clean-water-in-new-bill/article_4bc592c4-68ee-5b4b-846c-cdeb6e292b6c.html",
+   "date": "2026-11-24T21:21:30+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/01/b01c0de8-99fb-57a8-870f-1b8874064abb/6b0600b13cc37.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/01/b01c0de8-99fb-57a8-870f-1b8874064abb/6b0600b13cc37.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T21:33:57+00:00"
+  },
+  {
    "id": "75a2a86afd27d1c4",
    "title": "US attorney general dodges questions about Nvidia investigation",
    "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
@@ -184,6 +204,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T19:04:41+00:00"
+  },
+  {
+   "id": "f7caa70350f3a38d",
+   "title": "Canada and Qatar sign agreement to boost investment",
+   "summary": "OTTAWA - Canada and Qatar have signed a new agreement that looks to encourage increased investment, despite widespread criticism of Qatar's human rights record.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/canada-and-qatar-sign-agreement-to-boost-investment/article_c69dfe25-20c9-5385-b50d-ab34dcf93182.html",
+   "date": "2026-11-24T21:19:41+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/df/5df15fe7-847b-56ed-9c8b-0155b2223b0c/6b0600b012d31.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/df/5df15fe7-847b-56ed-9c8b-0155b2223b0c/6b0600b012d31.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T21:33:57+00:00"
   },
   {
    "id": "5bf7e8e9ece551a9",
@@ -219,10 +259,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f40f2825aa72ef5d7a0de060a6e478d1016c0752/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3a3bb7fdedaeb7c2472c3707b2a28337",
-    "w": 700,
+    "credit": "Photograph: Justin Tang/The Canadian Press/AP",
     "h": 560,
-    "credit": "Photograph: Justin Tang/The Canadian Press/AP"
+    "url": "https://i.guim.co.uk/img/media/f40f2825aa72ef5d7a0de060a6e478d1016c0752/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3a3bb7fdedaeb7c2472c3707b2a28337",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T21:24:40+00:00"
@@ -279,10 +319,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05e778013d-1795549048.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05e778013d-1795549048.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05e778013d-1795549048.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05e778013d-1795549048.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T21:24:40+00:00"
@@ -597,29 +637,6 @@
    "addedAt": "2026-11-24T19:04:41+00:00"
   },
   {
-   "id": "d544447616d6986b",
-   "title": "McGuinty says he can't explain Pentagon's criticism of Canada's defence spending",
-   "summary": "OTTAWA - Defence Minister David McGuinty says he can’t \"divine\" the thinking behind the Pentagon’s recent criticism of Canada’s defence spending.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/mcguinty-says-he-can-t-explain-pentagon-s-criticism-of-canada-s-defence-spending/article_2da425da-9d79-5ba9-9396-81a15465521d.html",
-   "date": "2026-11-24T18:38:55+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy",
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/14/1141bc28-0e50-5bed-9a59-1b0330d3fe22/6b05da0510977.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/14/1141bc28-0e50-5bed-9a59-1b0330d3fe22/6b05da0510977.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T18:55:09+00:00"
-  },
-  {
    "id": "62e91713fc99a4c6",
    "title": "Is Libya a new front in the Ukraine war?",
    "summary": "Ukraine's President Volodymyr Zelenskyy says two Russian vessels were targeted in Libya's waters.",
@@ -638,6 +655,29 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T19:04:41+00:00"
+  },
+  {
+   "id": "d544447616d6986b",
+   "title": "McGuinty says he can't explain Pentagon's criticism of Canada's defence spending",
+   "summary": "OTTAWA - Defence Minister David McGuinty says he can’t \"divine\" the thinking behind the Pentagon’s recent criticism of Canada’s defence spending.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/mcguinty-says-he-can-t-explain-pentagon-s-criticism-of-canada-s-defence-spending/article_2da425da-9d79-5ba9-9396-81a15465521d.html",
+   "date": "2026-11-24T18:38:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy",
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/14/1141bc28-0e50-5bed-9a59-1b0330d3fe22/6b05da0510977.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/14/1141bc28-0e50-5bed-9a59-1b0330d3fe22/6b05da0510977.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T18:55:09+00:00"
   },
   {
    "id": "71dbe78d194b6187",
@@ -3197,7 +3237,7 @@
    "id": "dd4cd606cf5d50df",
    "title": "Pentagon takes fresh aim at Canada's military readiness, defence spending priorities",
    "summary": "The Pentagon has escalated its criticism of Canada, accusing Ottawa of failing to meet NATO and NORAD obligations and putting domestic economic interests ahead of military effectiveness.",
-   "source": "CBC World",
+   "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/pentagon-criticizes-canadian-military-readiness-9.7433335?cmp=rss",
    "date": "2026-11-23T23:32:21+00:00",
    "topic": "federal",
@@ -7700,26 +7740,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T10:04:53+00:00"
-  },
-  {
-   "id": "0a231aee0003d9fd",
-   "title": "Bahrain says Iranian attack caused fire at industrial facility",
-   "summary": "Bahrain reports no injuries as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-   "date": "2026-11-21T21:31:03+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0202985284a-1795293848.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0202985284a-1795293848.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T21:45:17+00:00"
   }
  ]
 }

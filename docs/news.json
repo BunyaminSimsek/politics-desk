@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T10:14:29+00:00",
+ "generatedAt": "2026-11-24T10:23:35+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "43b484dc42ff2941",
+   "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
+   "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return to Nvidia, despite…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+   "date": "2026-11-24T10:14:59+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Ritchie B Tongo/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=abfc684f75b37d58bc4c1040d667f62d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T07:56:43+00:00"
+  },
+  {
+   "id": "2dd5afc16ba61c3f",
+   "title": "Timms says Pip review being published today will ‘rehumanise’ benefit – UK politics live",
+   "summary": "Some recommendations expected to clash with those of Milburn’s recent report into Neets UK disability benefit cuts ‘risk worsening youth destitution’ Andy Burnham has made a point of paying less attention to the legacy mainstream media than his predecessors…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+   "date": "2026-11-24T10:14:04+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Ben Montgomery/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c34b9b11284987598b8659d9195929937166bd23/456_0_4690_3751/master/4690.jpg?width=700&quality=85&auto=format&fit=max&s=ecec8e74d315bd7e05afc6abcd112b7f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T09:00:35+00:00"
+  },
+  {
    "id": "bba4c0d44abe72e5",
    "title": "Congress to grill Jensen Huang over ties with China and Trump’s intervention",
    "summary": "Lawmakers from both parties are demanding answers about the Nvidia CEO’s reinstatement and the administration’s handling of national security risks Jensen Huang’s reinstatement as Nvidia’s chief executive is “exhibit A” of the “political corruption and rot at…",
@@ -177,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/26aadfab7bd77a25ea9f14c21ef752a9d34cd341/142_0_5506_4407/master/5506.jpg?width=700&quality=85&auto=format&fit=max&s=9826316838214e0a3ccb0f7d1d929213",
-    "w": 700,
+    "credit": "Photograph: Hannibal Hanschke/EPA",
     "h": 560,
-    "credit": "Photograph: Hannibal Hanschke/EPA"
+    "url": "https://i.guim.co.uk/img/media/26aadfab7bd77a25ea9f14c21ef752a9d34cd341/142_0_5506_4407/master/5506.jpg?width=700&quality=85&auto=format&fit=max&s=9826316838214e0a3ccb0f7d1d929213",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T10:14:29+00:00"
@@ -197,10 +237,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F27%2Ffa34b3e8414fb6ab4f04c32a76b2%2Fgettyimages-2294598329.jpg",
-    "w": 1200,
     "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F27%2Ffa34b3e8414fb6ab4f04c32a76b2%2Fgettyimages-2294598329.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F27%2Ffa34b3e8414fb6ab4f04c32a76b2%2Fgettyimages-2294598329.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F27%2Ffa34b3e8414fb6ab4f04c32a76b2%2Fgettyimages-2294598329.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T10:14:29+00:00"
@@ -217,10 +257,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4258x2839+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F45%2F2eafdbfd4aefb6a733414c644e5d%2Fgettyimages-2280478542.jpg",
-    "w": 1200,
     "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4258x2839+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F45%2F2eafdbfd4aefb6a733414c644e5d%2Fgettyimages-2280478542.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4258x2839+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F45%2F2eafdbfd4aefb6a733414c644e5d%2Fgettyimages-2280478542.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4258x2839+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F45%2F2eafdbfd4aefb6a733414c644e5d%2Fgettyimages-2280478542.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T10:14:29+00:00"
@@ -286,46 +326,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:55:47+00:00"
-  },
-  {
-   "id": "43b484dc42ff2941",
-   "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-   "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return to Nvidia, despite…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-   "date": "2026-11-24T09:39:35+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ritchie B Tongo/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=abfc684f75b37d58bc4c1040d667f62d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T07:56:43+00:00"
-  },
-  {
-   "id": "2dd5afc16ba61c3f",
-   "title": "Timms says Pip review being published today will ‘rehumanise’ benefit – UK politics live",
-   "summary": "Some recommendations expected to clash with those of Milburn’s recent report into Neets UK disability benefit cuts ‘risk worsening youth destitution’ Libby Brooks has a good explainer about Pip in her First Edition newsletter today.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-   "date": "2026-11-24T09:36:51+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ben Montgomery/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c34b9b11284987598b8659d9195929937166bd23/456_0_4690_3751/master/4690.jpg?width=700&quality=85&auto=format&fit=max&s=ecec8e74d315bd7e05afc6abcd112b7f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:00:35+00:00"
   },
   {
    "id": "b6b709e5257e2e3a",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T06:34:24+00:00",
+ "generatedAt": "2026-11-24T06:43:39+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 15
+   "kept": 14
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -168,7 +168,7 @@
   {
    "id": "453558042ad68717",
    "title": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",
-   "summary": "Amendments to government bill by Coalition and Greens would establish protections for those reporting wrongdoing in sport Get our daily political email , free app or daily news podcast Whistleblowers coming forward to report corruption or misconduct in sports…",
+   "summary": "Amendments to government bill by Coalition and Greens would establish protections for those reporting wrongdoing in sport Whistleblowers coming forward to report corruption or misconduct in sports would be protected under draft laws put forward by the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb",
    "date": "2026-11-24T06:20:10+00:00",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/cc3a30dd7b1b585e0e2405431c69f72e41335cfe/502_0_3714_2970/master/3714.jpg?width=700&quality=85&auto=format&fit=max&s=461e52b3a2acdc78da71dbe166563c5b",
-    "w": 700,
+    "credit": "Photograph: Nick Potts/PA",
     "h": 560,
-    "credit": "Photograph: Nick Potts/PA"
+    "url": "https://i.guim.co.uk/img/media/cc3a30dd7b1b585e0e2405431c69f72e41335cfe/502_0_3714_2970/master/3714.jpg?width=700&quality=85&auto=format&fit=max&s=461e52b3a2acdc78da71dbe166563c5b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T06:34:24+00:00"
@@ -217,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D89A9BK__v1__HighRes__FblEngPrNewcastleArsenal-1795420051_344fbb-1795420233.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D89A9BK__v1__HighRes__FblEngPrNewcastleArsenal-1795420051_344fbb-1795420233.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D89A9BK__v1__HighRes__FblEngPrNewcastleArsenal-1795420051_344fbb-1795420233.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D89A9BK__v1__HighRes__FblEngPrNewcastleArsenal-1795420051_344fbb-1795420233.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T06:34:24+00:00"

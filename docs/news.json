@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T15:49:06+00:00",
+ "generatedAt": "2026-11-24T15:58:15+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 13
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -237,10 +237,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/14e78c3f62209ff0001bb79f764132d68f9d7fa8/368_2762_2545_2036/master/2545.jpg?width=700&quality=85&auto=format&fit=max&s=1d7b7264209401c83a037deb78464003",
-    "w": 700,
+    "credit": "Photograph: Marc Brenner",
     "h": 560,
-    "credit": "Photograph: Marc Brenner"
+    "url": "https://i.guim.co.uk/img/media/14e78c3f62209ff0001bb79f764132d68f9d7fa8/368_2762_2545_2036/master/2545.jpg?width=700&quality=85&auto=format&fit=max&s=1d7b7264209401c83a037deb78464003",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T15:39:40+00:00"
@@ -257,10 +257,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b059c9e8e-1795529886.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b059c9e8e-1795529886.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b059c9e8e-1795529886.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b059c9e8e-1795529886.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T15:49:06+00:00"
@@ -7238,26 +7238,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T07:39:06+00:00"
-  },
-  {
-   "id": "3b48cc532e5f5f5a",
-   "title": "US midterms 2026: What happens before the new Congress takes office?",
-   "summary": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
-   "date": "2026-11-21T15:49:32+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-17T122640Z_1733617564_RC2NPOA4FN91_RTRMADP_3_USA-CONGRESS-1794947507.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-17T122640Z_1733617564_RC2NPOA4FN91_RTRMADP_3_USA-CONGRESS-1794947507.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T16:03:56+00:00"
   }
  ]
 }

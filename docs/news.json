@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T20:00:23+00:00",
+ "generatedAt": "2026-11-24T20:09:32+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 28
   },
   {
    "source": "The Guardian",
@@ -167,11 +167,11 @@
  "items": [
   {
    "id": "886e6fb7c86dd637",
-   "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live",
+   "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after affair with Chinese spy but says no security risk found – live",
    "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-24T19:29:54+00:00",
+   "date": "2026-11-24T19:59:57+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -186,6 +186,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
+   "id": "f99b1eff0a4625b8",
+   "title": "Ending homelessness will be 'very challenging,' Ontario Premier Doug Ford says",
+   "summary": "TORONTO - Ontario Premier Doug Ford says ending homelessness in 10 years will be \"very challenging.\"",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/ending-homelessness-will-be-very-challenging-ontario-premier-doug-ford-says/article_69505a2e-72ab-5df2-8147-6f3db8c9af84.html",
+   "date": "2026-11-24T19:56:44+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/fb/1fba671e-aaaa-5465-8fb2-8ced475b887d/6941833fe8f71.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/fb/1fba671e-aaaa-5465-8fb2-8ced475b887d/6941833fe8f71.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T20:09:32+00:00"
   },
   {
    "id": "b335207f99b64e53",
@@ -432,8 +454,8 @@
   },
   {
    "id": "cedd5b3306a9d844",
-   "title": "Minister says one-time plan for permanent residents capped at 200,000 entries",
-   "summary": "OTTAWA - Immigration Minister Lena Diab says the government has no intention of granting permanent residency to more than 200,000 people in its one-time plan in addition to its broad target.",
+   "title": "Minister says plan for up to 100,000 temporary workers in the hands of provinces",
+   "summary": "OTTAWA - Immigration Minister Lena Diab says the government's one-time plan to grant permanent residency to up to 100,000 temporary workers will be in the hands of the provinces and territories — and if they don't use those spaces, they…",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/minister-says-one-time-plan-for-permanent-residents-capped-at-200-000-entries/article_b1b15185-cdd6-580d-ade6-3cfd6e47e006.html",
    "date": "2026-11-24T18:14:56+00:00",

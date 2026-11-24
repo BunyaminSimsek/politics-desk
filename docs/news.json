@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T21:15:02+00:00",
+ "generatedAt": "2026-11-24T21:24:40+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "75a2a86afd27d1c4",
+   "title": "US attorney general dodges questions about Nvidia investigation",
+   "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T21:19:42+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T19:04:41+00:00"
+  },
+  {
    "id": "5bf7e8e9ece551a9",
    "title": "Ford defends Chow, Del Duca using strong powers as critics raise alarms",
    "summary": "While Premier Doug Ford is lauding the use of strong powers, critics are concerned wielding newly expanded authority ends up circumventing democratic processes.",
@@ -177,13 +197,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/chow-and-del-duca.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/chow-and-del-duca.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/chow-and-del-duca.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/chow-and-del-duca.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T21:15:02+00:00"
+  },
+  {
+   "id": "8de40e3d4565ae50",
+   "title": "Canada asserts it is a ‘sovereign nation’ after scathing Pentagon memo",
+   "summary": "US document criticizes the supposedly ‘atrophied’ defence capabilities of its northern neighbour Canada is a “sovereign nation” that does not “report” to the United States, the country’s defense minister said after the Pentagon released a scathing memo that…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
+   "date": "2026-11-24T21:11:39+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/f40f2825aa72ef5d7a0de060a6e478d1016c0752/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3a3bb7fdedaeb7c2472c3707b2a28337",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Justin Tang/The Canadian Press/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T21:24:40+00:00"
   },
   {
    "id": "96bc43410782dee4",
@@ -208,7 +250,7 @@
   {
    "id": "c88fba62507e3781",
    "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
-   "summary": "",
+   "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
    "source": "NPR",
    "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
    "date": "2026-11-24T21:04:50+00:00",
@@ -217,13 +259,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8653x5778+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F69%2F254506e448c3a4c127d69855afd2%2Fgettyimages-2240325065.jpg",
-    "w": 1200,
     "h": 801,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8653x5778+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F69%2F254506e448c3a4c127d69855afd2%2Fgettyimages-2240325065.jpg"
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8653x5778+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F69%2F254506e448c3a4c127d69855afd2%2Fgettyimages-2240325065.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8653x5778+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F69%2F254506e448c3a4c127d69855afd2%2Fgettyimages-2240325065.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T21:15:02+00:00"
+  },
+  {
+   "id": "c26cfc9e5ae3210f",
+   "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
+   "summary": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+   "date": "2026-11-24T21:04:46+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05e778013d-1795549048.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b05e778013d-1795549048.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T21:24:40+00:00"
   },
   {
    "id": "886e6fb7c86dd637",
@@ -487,9 +549,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/04938837-8bcf-4078-9369-b1d25bfa15aa,1795547183652/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C128%2C4535%2C2550%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/04938837-8bcf-4078-9369-b1d25bfa15aa,1795547183652/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C128%2C4535%2C2550%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T19:13:54+00:00"
@@ -513,26 +575,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T19:23:33+00:00"
-  },
-  {
-   "id": "75a2a86afd27d1c4",
-   "title": "US attorney general dodges questions about Nvidia investigation",
-   "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T18:55:59+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T19:04:41+00:00"
   },
   {
    "id": "b66c3f9f6ad8337f",
@@ -1573,7 +1615,7 @@
   {
    "id": "a5c3c1aa9c574547",
    "title": "Days out from the Victorian election, nine datacentre projects await approval. What will their fate be?",
-   "summary": "While parties have come out with policies on where datacentres can be built, not all are clear on whether they apply retrospectively Get our breaking news email , free app or daily news podcast Days out from the Victorian state election, the fate of nine…",
+   "summary": "While parties have come out with policies on where datacentres can be built, not all are clear on whether they apply retrospectively Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Days…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
    "date": "2026-11-24T14:00:48+00:00",
@@ -2133,7 +2175,7 @@
   {
    "id": "d1c6006da6c60361",
    "title": "Researcher who helped improve melanoma survival rates among winners of top Australian science prize",
-   "summary": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s prizes for science Get our daily political email , free app or daily news podcast When Prof Georgina Long was starting out in melanoma treatment and research, “my waiting room…",
+   "summary": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s prizes for science Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast When Prof Georgina Long was starting…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science",
    "date": "2026-11-24T11:00:45+00:00",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T00:25:04+00:00",
+ "generatedAt": "2026-11-24T00:34:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "08e5f4c27875160d",
-   "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
-   "summary": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
-   "date": "2026-11-24T00:04:15+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04ccd1-1795476689.jpg?resize=1200%2C800",
-    "w": 1200,
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04ccd1-1795476689.jpg?resize=640%2C427"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T00:25:04+00:00"
-  },
-  {
    "id": "dfa4db2f66ca0142",
    "title": "Republicans lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
    "summary": "‘Congress has much to investigate’, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-24T00:02:14+00:00",
+   "date": "2026-11-24T00:19:01+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -204,6 +184,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
+   "id": "08e5f4c27875160d",
+   "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
+   "summary": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
+   "date": "2026-11-24T00:04:15+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04ccd1-1795476689.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04ccd1-1795476689.jpg?resize=1200%2C800",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T00:25:04+00:00"
   },
   {
    "id": "d13c6314b7c26464",
@@ -528,9 +528,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/ed9a4ad0-9b56-4b9b-a12a-87579a0a53f6,1795471212561/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3700%2C2081%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/ed9a4ad0-9b56-4b9b-a12a-87579a0a53f6,1795471212561/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3700%2C2081%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T22:32:09+00:00"
@@ -6350,27 +6350,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T00:43:36+00:00"
-  },
-  {
-   "id": "3ab02423d029a3f7",
-   "title": "U.S. senator says Canada should make interim tariff agreement, let Congress 'legislate' long-term deal",
-   "summary": "A senior Democrat in the U.S. Senate says he thinks Canada should seek an interim trade deal with the Trump administration — and the incoming U.S. Congress will figure out something better for the long term.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/us-canada-interim-deal-tariffs-senator-long-term-9.7430913?cmp=rss",
-   "date": "2026-11-21T00:25:49+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/5f30a2a2-faf5-484e-a30f-1cf3ef0161c6,1795220525819/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C163%2C4649%2C2615%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T00:34:01+00:00"
   }
  ]
 }

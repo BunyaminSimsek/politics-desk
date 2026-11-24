@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T00:34:12+00:00",
+ "generatedAt": "2026-11-24T00:43:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "Global News",
@@ -165,6 +165,47 @@
   }
  ],
  "items": [
+  {
+   "id": "59b64a0c3192d72c",
+   "title": "What could Democrats do with their expanding congressional majority?",
+   "summary": "The Democratic Party is debating how best to use its large margin of victory in the US midterm elections.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
+   "date": "2026-11-24T00:39:22+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04c52a7edb-1795474730.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04c52a7edb-1795474730.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T00:43:58+00:00"
+  },
+  {
+   "id": "c31c7a2af47f1853",
+   "title": "Why Nvidia couldn't afford to lose Jensen Huang | About That",
+   "summary": "Nvidia's board unanimously voted to reinstate Jensen Huang as CEO, stating the decision followed consultation with multiple stakeholders — including the U.S. government.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/player/play/9.7433479?cmp=rss",
+   "date": "2026-11-24T00:32:27+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/3cfa7961-7723-4591-9f87-8faf636c9c24,1795479775163/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T00:43:58+00:00"
+  },
   {
    "id": "dfa4db2f66ca0142",
    "title": "Republicans lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
@@ -489,9 +530,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/20ff3d2a-fb72-4a55-8ec7-59d6a52b4f2d,1795471306857/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C149%2C4340%2C2441%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/20ff3d2a-fb72-4a55-8ec7-59d6a52b4f2d,1795471306857/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C149%2C4340%2C2441%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T22:41:50+00:00"
@@ -528,9 +569,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/ed9a4ad0-9b56-4b9b-a12a-87579a0a53f6,1795471212561/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3700%2C2081%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/ed9a4ad0-9b56-4b9b-a12a-87579a0a53f6,1795471212561/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3700%2C2081%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T22:32:09+00:00"
@@ -552,7 +593,7 @@
     "url": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=700&quality=85&auto=format&fit=max&s=658e86246071171621361c388415456a",
     "w": 700
    },
-   "breaking": false,
+   "breaking": true,
    "addedAt": "2026-11-23T16:37:10+00:00"
   },
   {
@@ -6328,28 +6369,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T01:29:50+00:00"
-  },
-  {
-   "id": "17e1c5c1e63b4f10",
-   "title": "ANC fights to keep control of South Africa's key cities after election setback",
-   "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T00:34:51+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/aad1/live/7d1c0de0-e4ff-11f1-a8e4-b1e12a49db15.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/aad1/live/7d1c0de0-e4ff-11f1-a8e4-b1e12a49db15.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T00:43:36+00:00"
   }
  ]
 }

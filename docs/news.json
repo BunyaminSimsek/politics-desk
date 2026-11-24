@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T06:06:49+00:00",
+ "generatedAt": "2026-11-24T06:16:00+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 30
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/21e4f2131883854613075e2b5a9adea78afe7c72/444_29_1810_1449/master/1810.jpg?width=700&quality=85&auto=format&fit=max&s=a3b91b59378cc9df3c549afdc7dd81a4",
-    "w": 700,
+    "credit": "Photograph: KateBushMusic",
     "h": 560,
-    "credit": "Photograph: KateBushMusic"
+    "url": "https://i.guim.co.uk/img/media/21e4f2131883854613075e2b5a9adea78afe7c72/444_29_1810_1449/master/1810.jpg?width=700&quality=85&auto=format&fit=max&s=a3b91b59378cc9df3c549afdc7dd81a4",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T06:06:49+00:00"
@@ -199,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d6322487e65959fb8cbf133843b8295362b0ce38/0_0_3825_3061/master/3825.jpg?width=700&quality=85&auto=format&fit=max&s=f2d71b6b0cba679108c7fd32aff1a106",
-    "w": 700,
+    "credit": "Photograph: Arif Kartono/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Arif Kartono/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/d6322487e65959fb8cbf133843b8295362b0ce38/0_0_3825_3061/master/3825.jpg?width=700&quality=85&auto=format&fit=max&s=f2d71b6b0cba679108c7fd32aff1a106",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T06:06:49+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T01:39:27+00:00",
+ "generatedAt": "2026-11-24T01:49:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 30
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,29 @@
  ],
  "items": [
   {
+   "id": "f690546e5251faac",
+   "title": "Australian politics live: Australia and Singapore sign carbon capture treaty; ANZ predicts RBA could cut rates in June",
+   "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+   "date": "2026-11-24T01:43:11+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "economy",
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/4582e3b6ff747315010e630a6331495bd6195f2c/417_0_2953_2363/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=72c542d2217ee9488fbaace5bdd0b6a8",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Hilary Wardhaugh/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T20:21:47+00:00"
+  },
+  {
    "id": "dfa4db2f66ca0142",
    "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
    "summary": "‘Congress has much to investigate’, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang",
@@ -219,10 +242,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b04c2fd51-1795474173.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b04c2fd51-1795474173.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b04c2fd51-1795474173.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b04c2fd51-1795474173.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T01:39:27+00:00"
@@ -430,9 +453,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/981af887-be87-4eae-bea5-79e107f3f6cc,1795476335739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C47%2C3519%2C1979%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/981af887-be87-4eae-bea5-79e107f3f6cc,1795476335739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C47%2C3519%2C1979%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T23:38:26+00:00"
@@ -832,9 +855,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/ada87791-758c-4b56-905e-207f11520e13,1795468894181/full/max/0/default.jpg?im=Crop%2Crect%3D%2840%2C0%2C1411%2C793%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/ada87791-758c-4b56-905e-207f11520e13,1795468894181/full/max/0/default.jpg?im=Crop%2Crect%3D%2840%2C0%2C1411%2C793%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T21:36:14+00:00"
@@ -942,28 +965,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T20:59:22+00:00"
-  },
-  {
-   "id": "f690546e5251faac",
-   "title": "Australian politics live: Penny Wong to defend US alliance; rental affordability plummets to 14-year low",
-   "summary": "Get our breaking news email , free app or daily news podcast Nvidia stock market reaction shows global market ‘volatile’, says Chalmers The treasurer, Jim Chalmers , also doesn’t want to make any personal judgements on Jensen Huang or the decision to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-   "date": "2026-11-23T20:43:32+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "housing"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Hollie Adams/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4167a1e7f11df6dfeace154f41bc766312ebf83a/1339_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=2b54888b7df58cc6819ef40d5339d8bb",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T20:21:47+00:00"
   },
   {
    "id": "0b24eb156c2877b8",
@@ -4873,7 +4874,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

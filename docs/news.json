@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T18:45:53+00:00",
+ "generatedAt": "2026-11-24T18:55:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -40,8 +40,8 @@
   {
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-   "ok": true,
-   "kept": 8
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 31
+   "kept": 32
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,29 @@
  ],
  "items": [
   {
+   "id": "d544447616d6986b",
+   "title": "McGuinty says he can't explain Pentagon's criticism of Canada's defence spending",
+   "summary": "OTTAWA - Defence Minister David McGuinty says he can’t \"divine\" the thinking behind the Pentagon’s recent criticism of Canada’s defence spending.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/mcguinty-says-he-can-t-explain-pentagon-s-criticism-of-canada-s-defence-spending/article_2da425da-9d79-5ba9-9396-81a15465521d.html",
+   "date": "2026-11-24T18:38:55+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy",
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/14/1141bc28-0e50-5bed-9a59-1b0330d3fe22/6b05da0510977.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/14/1141bc28-0e50-5bed-9a59-1b0330d3fe22/6b05da0510977.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T18:55:09+00:00"
+  },
+  {
    "id": "96bc43410782dee4",
    "title": "Armed men take 25 hostages at supermarket in one of Colombia’s top tourist destinations",
    "summary": "Police say group seized store in city of Cartagena and local media showed footage of snipers on nearby buildings A group of armed men with their faces covered seized a supermarket in the Colombian city of Cartagena on Tuesday and are holding 25 people…",
@@ -217,10 +240,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a6/ba6b2003-cba4-5847-ac42-71669765e6f0/6b05d7bbafd75.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 906,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a6/ba6b2003-cba4-5847-ac42-71669765e6f0/6b05d7bbafd75.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a6/ba6b2003-cba4-5847-ac42-71669765e6f0/6b05d7bbafd75.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a6/ba6b2003-cba4-5847-ac42-71669765e6f0/6b05d7bbafd75.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T18:45:53+00:00"
@@ -7453,28 +7476,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T19:17:52+00:00"
-  },
-  {
-   "id": "d2ce1eae56928d5d",
-   "title": "Canada unaware of U.S. changes to military cooperation policy, McGuinty says",
-   "summary": "The Department of War is “taking steps to ensure its engagements with Canada advance tangible U.S. defense objectives, the Chief Pentagon spokesperson told Global News.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12160884/canada-us-defence/",
-   "date": "2026-11-21T18:53:58+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/McGuinty-e1795284391944.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/McGuinty-e1795284391944.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T18:59:37+00:00"
   }
  ]
 }

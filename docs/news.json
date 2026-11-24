@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T02:54:05+00:00",
+ "generatedAt": "2026-11-24T03:03:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,12 +166,34 @@
  ],
  "items": [
   {
+   "id": "b9d1aefd5c5577c1",
+   "title": "Trump orders US military not to detonate toxic explosives in Iowa for now",
+   "summary": "The US Army has moved its plans to detonate five tonnes of toxic explosives to Wednesday.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T02:58:27+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T19:53:20+00:00"
+  },
+  {
    "id": "dfa4db2f66ca0142",
    "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
    "summary": "‘Congress has much to investigate’, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-24T02:44:18+00:00",
+   "date": "2026-11-24T02:48:26+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -197,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/5d7028c1f7418b6df67a8b82c97cfc5563385eba/154_0_2536_2029/master/2536.jpg?width=700&quality=85&auto=format&fit=max&s=a8334ba7ee5504ed586b8b567e4ab1e0",
-    "w": 700,
+    "credit": "Photograph: Guang Niu/Getty Images",
     "h": 560,
-    "credit": "Photograph: Guang Niu/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/5d7028c1f7418b6df67a8b82c97cfc5563385eba/154_0_2536_2029/master/2536.jpg?width=700&quality=85&auto=format&fit=max&s=a8334ba7ee5504ed586b8b567e4ab1e0",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T02:54:05+00:00"
@@ -998,10 +1020,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/46f8/live/11f74480-e77a-11f1-978f-df545a5c5c20.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/46f8/live/11f74480-e77a-11f1-978f-df545a5c5c20.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/46f8/live/11f74480-e77a-11f1-978f-df545a5c5c20.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/46f8/live/11f74480-e77a-11f1-978f-df545a5c5c20.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T02:54:05+00:00"
@@ -1189,28 +1211,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T20:02:43+00:00"
-  },
-  {
-   "id": "b9d1aefd5c5577c1",
-   "title": "Trump orders US military not to detonate toxic explosives in Iowa without court approval",
-   "summary": "The US Army had said it planned to detonate the explosives on Wednesday despite a court-ordered pausea as public outcry intensified.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T19:52:52+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T19:53:20+00:00"
   },
   {
    "id": "11329ed350cd5b44",
@@ -4976,7 +4976,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

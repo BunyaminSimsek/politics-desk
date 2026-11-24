@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T21:52:17+00:00",
+ "generatedAt": "2026-11-24T22:01:57+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,48 @@
   }
  ],
  "items": [
+  {
+   "id": "d35e1972c1d20aee",
+   "title": "As US gears up for Thanksgiving, Iowa braces for controlled bomb blast",
+   "summary": "Detonation of 68 barrels of lead azide scheduled for Wednesday after several delays amid public outcry Residents of Iowa, Illinois and Missouri who are preparing for Thanksgiving are also bracing themselves for the detonation of hazardous bomb-making…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
+   "date": "2026-11-24T21:49:07+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/acfcff739fa280e8a12f19f15024fe02a932b14f/1561_1315_2523_2019/master/2523.jpg?width=700&quality=85&auto=format&fit=max&s=7525a0f4b9b98961aefb77947213929a",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jim Urquhart/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T22:01:57+00:00"
+  },
+  {
+   "id": "ac79742af26d7ca7",
+   "title": "Lawsuit alleges Liberal volunteer linked Tory MP to 'underhanded campaign conduct'",
+   "summary": "A former Conservative MP is suing a Liberal volunteer, alleging a strategy to make it appear he was engaged in “underhanded campaign conduct.”",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/lawsuit-alleges-liberal-volunteer-linked-tory-mp-to-underhanded-campaign-conduct/article_14d6ed06-ecbb-4ff8-a08d-83facd3bee13.html",
+   "date": "2026-11-24T21:45:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/08/a08582d9-5771-5014-8ca0-00df5104432a/6b0604ac28db0.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 784,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/08/a08582d9-5771-5014-8ca0-00df5104432a/6b0604ac28db0.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T22:01:57+00:00"
+  },
   {
    "id": "886e6fb7c86dd637",
    "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
@@ -536,7 +578,7 @@
   {
    "id": "f99b1eff0a4625b8",
    "title": "Ending homelessness will be 'very challenging,' Ontario Premier Doug Ford says",
-   "summary": "TORONTO - Ontario Premier Doug Ford says ending homelessness in 10 years will be \"very challenging.\"",
+   "summary": "TORONTO - Ending homelessness in 10 years will be \"very challenging,\" Ontario Premier Doug Ford said Tuesday.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/ending-homelessness-will-be-very-challenging-ontario-premier-doug-ford-says/article_69505a2e-72ab-5df2-8147-6f3db8c9af84.html",
    "date": "2026-11-24T19:56:44+00:00",
@@ -7621,66 +7663,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T07:01:59+00:00"
-  },
-  {
-   "id": "cabda8bbd81bfa0e",
-   "title": "Lock of former US President George Washington's hair sells for $4,000",
-   "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T22:01:19+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T22:13:37+00:00"
-  },
-  {
-   "id": "dbbc023a3aaa37f3",
-   "title": "Q&A: Navdeep Bains, Queen's Park and the Ontario Liberal leadership race",
-   "summary": "Queen's Park reporter Rob Ferguson and business columnist Adam Radwanski took reader questions on Ontario's new Liberal leader, Navdeep Bains.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/q-a-ask-us-anything-about-the-ontario-liberal-leadership-race/article_4a7fbea0-683c-449b-9a35-70d6ea7c24e4.html",
-   "date": "2026-11-21T21:55:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 630,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/d9/1d911e31-5419-4552-9a27-72cf80edc1e4/6aff2e89daf10.image.webp?crop=1476%2C775%2C0%2C104&order=crop%2Cresize&resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/d9/1d911e31-5419-4552-9a27-72cf80edc1e4/6aff2e89daf10.image.webp?crop=1476%2C775%2C0%2C104&order=crop%2Cresize&resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T02:40:53+00:00"
-  },
-  {
-   "id": "8139436f722c5b5b",
-   "title": "Ontario Liberals bet on Navdeep Bains to revive party fortunes",
-   "summary": "Third Ontario Liberal leader in six years without a seat in the legislature faces Doug Ford's Progressive Conservatives.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/navdeep-bains-wins-ontario-liberal-leadership-on-third-ballot/article_e1e1b4f9-3fc6-4f82-b65a-cb28c775ca9f.html",
-   "date": "2026-11-21T21:54:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/96/4961f271-afbc-536b-b115-a8a9b0db4a38/6b021dfde81a9.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/96/4961f271-afbc-536b-b115-a8a9b0db4a38/6b021dfde81a9.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T22:13:37+00:00"
   }
  ]
 }

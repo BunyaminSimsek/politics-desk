@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T05:39:30+00:00",
+ "generatedAt": "2026-11-24T05:48:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "cc716434d1ad9859",
+   "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+   "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T05:33:07+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T05:48:37+00:00"
+  },
   {
    "id": "3d13677d42e96ea8",
    "title": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
@@ -745,7 +765,7 @@
   },
   {
    "id": "068b9f1e9c0cf0be",
-   "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
+   "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street",
    "summary": "Trump claims credit for Huang's return, raising concerns over federal government meddling in corporate board decisions.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
@@ -886,7 +906,7 @@
   {
    "id": "f2286b4f32edfc60",
    "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
-   "summary": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment US politics – live updates Timeline: fall and comeback of Jensen Huang…",
+   "summary": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment Timeline: fall and comeback of Jensen Huang Nvidia has reinstated Jensen…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
    "date": "2026-11-23T22:23:40+00:00",
@@ -6488,26 +6508,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T06:52:52+00:00"
-  },
-  {
-   "id": "aa368184f3168243",
-   "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
-   "summary": "Eisenkot's fragile alliance must overcome deep ideological divisions to turn its opposition into a government.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
-   "date": "2026-11-21T05:46:29+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00856e-1795196270.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00856e-1795196270.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T05:58:14+00:00"
   }
  ]
 }

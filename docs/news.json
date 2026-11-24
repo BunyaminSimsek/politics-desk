@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T08:33:15+00:00",
+ "generatedAt": "2026-11-24T08:42:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 13
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=ed6c61ac8380bab4cae16a5526b786a5",
-    "w": 700,
+    "credit": "Photograph: Evan Vucci/Reuters",
     "h": 560,
-    "credit": "Photograph: Evan Vucci/Reuters"
+    "url": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=ed6c61ac8380bab4cae16a5526b786a5",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T08:33:15+00:00"
@@ -6690,26 +6690,6 @@
     "h": 800,
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b01488a4ebf-1795246218.jpg?resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b01488a4ebf-1795246218.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T08:51:24+00:00"
-  },
-  {
-   "id": "dee7ae3761168536",
-   "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
-   "summary": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
-   "date": "2026-11-21T08:39:35+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795250294.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795250294.jpg?quality=80&resize=1200%2C800",
     "w": 1200
    },
    "breaking": false,

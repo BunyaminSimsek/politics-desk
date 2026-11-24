@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T00:15:28+00:00",
+ "generatedAt": "2026-11-24T00:25:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "Global News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "08e5f4c27875160d",
+   "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
+   "summary": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
+   "date": "2026-11-24T00:04:15+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04ccd1-1795476689.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04ccd1-1795476689.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T00:25:04+00:00"
+  },
+  {
+   "id": "dfa4db2f66ca0142",
+   "title": "Republicans lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
+   "summary": "‘Congress has much to investigate’, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-24T00:02:14+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
    "id": "d13c6314b7c26464",
    "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
    "summary": "Position contrasts with Green party’s policies before 2024 election, as polls show just 17% of voters trust them on defence Zack Polanski has given his backing to a paper that endorses Britain’s membership of Nato and the maintenance of the country’s nuclear…",
@@ -180,10 +220,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/631070f63a2fb9a39634bf065f768197aa90271b/519_0_4025_3220/master/4025.jpg?width=700&quality=85&auto=format&fit=max&s=9ada7d85e7e89d52667a406f1a9972b5",
-    "w": 700,
+    "credit": "Photograph: Stefan Rousseau/PA",
     "h": 560,
-    "credit": "Photograph: Stefan Rousseau/PA"
+    "url": "https://i.guim.co.uk/img/media/631070f63a2fb9a39634bf065f768197aa90271b/519_0_4025_3220/master/4025.jpg?width=700&quality=85&auto=format&fit=max&s=9ada7d85e7e89d52667a406f1a9972b5",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T00:15:28+00:00"
@@ -229,26 +269,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T19:53:20+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Republicans lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
-   "summary": "‘Congress has much to investigate’, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-23T23:52:36+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "b165ed4dc3a7cc7e",
@@ -939,9 +959,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/8bcb01e4-18ec-45d0-b2b1-136e1f367164,1795461842236/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C291%2C5694%2C3202%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/8bcb01e4-18ec-45d0-b2b1-136e1f367164,1795461842236/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C291%2C5694%2C3202%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T20:12:06+00:00"
@@ -6348,26 +6368,6 @@
     "caption": "",
     "credit": "",
     "url": "https://i.cbc.ca/ais/5f30a2a2-faf5-484e-a30f-1cf3ef0161c6,1795220525819/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C163%2C4649%2C2615%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T00:34:01+00:00"
-  },
-  {
-   "id": "d9d55b2a7cb96960",
-   "title": "Trump turns White House press conference into a 2028 succession audition",
-   "summary": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight “Which of you shall we say doth love us most?”",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
-   "date": "2026-11-21T00:16:26+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evelyn Hockstein/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/13a779743e2a0f56e66622d1d81ea56493964bed/454_0_4537_3631/master/4537.jpg?width=700&quality=85&auto=format&fit=max&s=7e3ba93507fee6b375f66a2e89ce762a",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T00:34:01+00:00"

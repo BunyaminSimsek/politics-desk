@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T01:29:59+00:00",
+ "generatedAt": "2026-11-24T01:39:27+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "dfa4db2f66ca0142",
+   "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
+   "summary": "‘Congress has much to investigate’, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-24T01:26:13+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
    "id": "2aa9fd24f84b5e13",
    "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
    "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
@@ -188,6 +208,26 @@
    "addedAt": "2026-11-23T16:55:47+00:00"
   },
   {
+   "id": "c8a91c61c635d6ce",
+   "title": "Israeli minister approves return of Flydubai flights",
+   "summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+   "date": "2026-11-24T01:09:51+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b04c2fd51-1795474173.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b04c2fd51-1795474173.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T01:39:27+00:00"
+  },
+  {
    "id": "cf8cf4b9570eeb45",
    "title": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
    "summary": "Bukele's military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
@@ -201,33 +241,13 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04e2a1-1795482273.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04e2a1-1795482273.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04e2a1-1795482273.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04e2a1-1795482273.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T01:29:59+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Republicans lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
-   "summary": "‘Congress has much to investigate’, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-24T00:43:01+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "59b64a0c3192d72c",
@@ -410,9 +430,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/981af887-be87-4eae-bea5-79e107f3f6cc,1795476335739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C47%2C3519%2C1979%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/981af887-be87-4eae-bea5-79e107f3f6cc,1795476335739/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C47%2C3519%2C1979%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T23:38:26+00:00"
@@ -449,9 +469,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.1811302,1379217307000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.1811302,1379217307000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T23:28:49+00:00"
@@ -812,9 +832,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/ada87791-758c-4b56-905e-207f11520e13,1795468894181/full/max/0/default.jpg?im=Crop%2Crect%3D%2840%2C0%2C1411%2C793%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/ada87791-758c-4b56-905e-207f11520e13,1795468894181/full/max/0/default.jpg?im=Crop%2Crect%3D%2840%2C0%2C1411%2C793%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T21:36:14+00:00"
@@ -6329,26 +6349,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T02:07:29+00:00"
-  },
-  {
-   "id": "2948ac41c91364a2",
-   "title": "Calgary man pleads guilty to threatening to kill Prime Minister Mark Carney and family",
-   "summary": "Jamie Dacosta yawned and laughed as his videos threatening to slit the prime minister's throat and harm his family were played in the Calgary courtroom.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12160581/calgary-jamie-dacosta-guilty-mark-carney-death-threat/",
-   "date": "2026-11-21T01:30:52+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 727,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/917a2bb2df70520dbe897497f0d9c34b2afa0342fe91e19cebeeb5582b933824.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/917a2bb2df70520dbe897497f0d9c34b2afa0342fe91e19cebeeb5582b933824.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T01:39:06+00:00"
   }
  ]
 }

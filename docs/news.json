@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T22:01:57+00:00",
+ "generatedAt": "2026-11-24T22:11:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,71 @@
  ],
  "items": [
   {
+   "id": "8de40e3d4565ae50",
+   "title": "Canada says it ‘does not report to the US’ after Pentagon memo criticizing military spending",
+   "summary": "US document criticizes the supposedly ‘atrophied’ defence capabilities of its northern neighbour Canada is a “sovereign nation” that does not “report” to the United States, the country’s defense minister said after the Pentagon released a scathing memo that…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
+   "date": "2026-11-24T22:02:13+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "economy",
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Justin Tang/The Canadian Press/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f40f2825aa72ef5d7a0de060a6e478d1016c0752/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3a3bb7fdedaeb7c2472c3707b2a28337",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T21:24:40+00:00"
+  },
+  {
+   "id": "886e6fb7c86dd637",
+   "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
+   "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "date": "2026-11-24T22:00:13+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kichul Shin/NurPhoto/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=700&quality=85&auto=format&fit=max&s=a8c5eeb774bf12c4415fe5a8fb607e25",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
+   "id": "1916675a979626e7",
+   "title": "Doug Ford praises Olivia Chow for using ‘strong mayor’ powers",
+   "summary": "Mayor Olivia Chow's decision to use the powers she once denounced as \"not democratic\" is being met with mixed reviews at Queen's Park.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/doug-ford-praises-olivia-chow-for-using-strong-mayor-powers/article_2c8e1d0f-f5c0-4610-91b7-444b1bd1b217.html",
+   "date": "2026-11-24T22:00:00+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a0/ba058366-50e3-5be2-8b16-4f1af59e9d67/6b0606c6a0fdd.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 900,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a0/ba058366-50e3-5be2-8b16-4f1af59e9d67/6b0606c6a0fdd.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T22:11:03+00:00"
+  },
+  {
    "id": "d35e1972c1d20aee",
    "title": "As US gears up for Thanksgiving, Iowa braces for controlled bomb blast",
    "summary": "Detonation of 68 barrels of lead azide scheduled for Wednesday after several delays amid public outcry Residents of Iowa, Illinois and Missouri who are preparing for Thanksgiving are also bracing themselves for the detonation of hazardous bomb-making…",
@@ -177,10 +242,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/acfcff739fa280e8a12f19f15024fe02a932b14f/1561_1315_2523_2019/master/2523.jpg?width=700&quality=85&auto=format&fit=max&s=7525a0f4b9b98961aefb77947213929a",
-    "w": 700,
+    "credit": "Photograph: Jim Urquhart/Reuters",
     "h": 560,
-    "credit": "Photograph: Jim Urquhart/Reuters"
+    "url": "https://i.guim.co.uk/img/media/acfcff739fa280e8a12f19f15024fe02a932b14f/1561_1315_2523_2019/master/2523.jpg?width=700&quality=85&auto=format&fit=max&s=7525a0f4b9b98961aefb77947213929a",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T22:01:57+00:00"
@@ -199,35 +264,13 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/08/a08582d9-5771-5014-8ca0-00df5104432a/6b0604ac28db0.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 784,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/08/a08582d9-5771-5014-8ca0-00df5104432a/6b0604ac28db0.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/08/a08582d9-5771-5014-8ca0-00df5104432a/6b0604ac28db0.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/08/a08582d9-5771-5014-8ca0-00df5104432a/6b0604ac28db0.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T22:01:57+00:00"
-  },
-  {
-   "id": "886e6fb7c86dd637",
-   "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
-   "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-24T21:42:48+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kichul Shin/NurPhoto/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=700&quality=85&auto=format&fit=max&s=a8c5eeb774bf12c4415fe5a8fb607e25",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T11:37:31+00:00"
   },
   {
    "id": "224e85782b596bfb",
@@ -328,28 +371,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T21:43:03+00:00"
-  },
-  {
-   "id": "8de40e3d4565ae50",
-   "title": "Canada asserts it is a ‘sovereign nation’ after scathing Pentagon memo",
-   "summary": "US document criticizes the supposedly ‘atrophied’ defence capabilities of its northern neighbour Canada is a “sovereign nation” that does not “report” to the United States, the country’s defense minister said after the Pentagon released a scathing memo that…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
-   "date": "2026-11-24T21:11:39+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Justin Tang/The Canadian Press/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f40f2825aa72ef5d7a0de060a6e478d1016c0752/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=3a3bb7fdedaeb7c2472c3707b2a28337",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T21:24:40+00:00"
   },
   {
    "id": "96bc43410782dee4",

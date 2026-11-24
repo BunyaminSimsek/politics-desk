@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T23:06:43+00:00",
+ "generatedAt": "2026-11-24T23:16:00+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "Global News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -749,9 +749,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/04938837-8bcf-4078-9369-b1d25bfa15aa,1795547183652/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C128%2C4535%2C2550%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/04938837-8bcf-4078-9369-b1d25bfa15aa,1795547183652/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C128%2C4535%2C2550%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-24T19:13:54+00:00"

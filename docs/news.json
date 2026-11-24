@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T01:21:01+00:00",
+ "generatedAt": "2026-11-24T01:29:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -186,6 +186,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:55:47+00:00"
+  },
+  {
+   "id": "cf8cf4b9570eeb45",
+   "title": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
+   "summary": "Bukele's military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
+   "date": "2026-11-24T01:06:00+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04e2a1-1795482273.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04e2a1-1795482273.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T01:29:59+00:00"
   },
   {
    "id": "dfa4db2f66ca0142",
@@ -427,9 +449,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.1811302,1379217307000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.1811302,1379217307000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-23T23:28:49+00:00"
@@ -4831,7 +4853,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

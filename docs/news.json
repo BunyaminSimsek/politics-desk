@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T22:29:27+00:00",
+ "generatedAt": "2026-11-24T22:39:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "886e6fb7c86dd637",
+   "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
+   "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "date": "2026-11-24T22:26:30+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kichul Shin/NurPhoto/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=700&quality=85&auto=format&fit=max&s=a8c5eeb774bf12c4415fe5a8fb607e25",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
    "id": "4001d0e7d9acba02",
    "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
    "summary": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harm A group of more than 120 climate scientists have urged US lawmakers to not pass contentious legislation to speed up the building of energy…",
@@ -179,10 +201,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/725b11778789cc1aefe2d9ba334c2392099bb1ea/687_0_6882_5504/master/6882.jpg?width=700&quality=85&auto=format&fit=max&s=38782c52560892982462bca02e15cfed",
-    "w": 700,
+    "credit": "Photograph: Jim Watson/AFP/Getty Images",
     "h": 560,
-    "credit": "Photograph: Jim Watson/AFP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/725b11778789cc1aefe2d9ba334c2392099bb1ea/687_0_6882_5504/master/6882.jpg?width=700&quality=85&auto=format&fit=max&s=38782c52560892982462bca02e15cfed",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T22:29:27+00:00"
@@ -209,28 +231,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T21:24:40+00:00"
-  },
-  {
-   "id": "886e6fb7c86dd637",
-   "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
-   "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-24T22:00:13+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kichul Shin/NurPhoto/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=700&quality=85&auto=format&fit=max&s=a8c5eeb774bf12c4415fe5a8fb607e25",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T11:37:31+00:00"
   },
   {
    "id": "1916675a979626e7",
@@ -836,9 +836,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0de114f7-e99f-4798-98ac-56cdb40f2710,1795541876943/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C241%2C4627%2C2602%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0de114f7-e99f-4798-98ac-56cdb40f2710,1795541876943/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C241%2C4627%2C2602%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T18:26:33+00:00"
@@ -7662,26 +7662,6 @@
     "h": 800,
     "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3599x2399+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F00%2F8bdf254b4a1089592ab211f30cf5%2Fap26324673842521.jpg",
     "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3599x2399+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F00%2F8bdf254b4a1089592ab211f30cf5%2Fap26324673842521.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T22:50:57+00:00"
-  },
-  {
-   "id": "b5dfaae977e41e95",
-   "title": "Navdeep Bains eked out the Liberal leadership. Winning Ontario will be even harder",
-   "summary": "A former federal minister with no seat at Queen's Park and few policy details must unite a party that trails Doug Ford's Tories in the polls.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/political-opinion/navdeep-bains-eked-out-the-liberal-leadership-winning-ontario-will-be-even-harder/article_dcebbd9d-3440-4ef7-aaeb-dab0c5ac6195.html",
-   "date": "2026-11-21T22:30:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/62/962e8cf8-e764-5ff1-b312-8f4d5c63abfb/6b0216ba3f2f8.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/62/962e8cf8-e764-5ff1-b312-8f4d5c63abfb/6b0216ba3f2f8.image.jpg?resize=1200%2C",
     "w": 1200
    },
    "breaking": false,

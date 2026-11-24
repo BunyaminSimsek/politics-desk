@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T16:45:33+00:00",
+ "generatedAt": "2026-11-24T16:54:49+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -186,6 +186,26 @@
    "addedAt": "2026-11-24T09:00:35+00:00"
   },
   {
+   "id": "cd5dd334005a205b",
+   "title": "Jensen Huang’s return to Nvidia is elite impunity | Moira Donegan",
+   "summary": "After the CEO was reinstated after Trump’s pressure campaign, it is abundantly clear: there are different rules for rich people There are different rules for rich people.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/24/jensen-huang-nvidia-return",
+   "date": "2026-11-24T16:39:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/53007b43a9fd5e9ecd8445be0b726463a259f2fc/110_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=d0872d55b3368cc857a91bf867501b9d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Ann Wang/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T16:54:49+00:00"
+  },
+  {
    "id": "cc716434d1ad9859",
    "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
    "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
@@ -197,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T05:48:37+00:00"
@@ -320,10 +340,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795537050.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795537050.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795537050.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795537050.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T16:45:33+00:00"

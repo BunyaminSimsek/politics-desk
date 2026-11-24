@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T20:46:51+00:00",
+ "generatedAt": "2026-11-24T20:56:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "886e6fb7c86dd637",
+   "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
+   "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "date": "2026-11-24T20:45:16+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kichul Shin/NurPhoto/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=700&quality=85&auto=format&fit=max&s=a8c5eeb774bf12c4415fe5a8fb607e25",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
    "id": "5ea39050041812d2",
    "title": "Alberta takes symbolic stand against federal hate crime law, says it silences speech",
    "summary": "The UCP government is expected to invoke the sovereignty act in the legislature and table a motion outlining ways Alberta could push back against the federal hate crime law.",
@@ -177,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/d5001ad7f087e269ebbd11be971b932d378c78d665951bd7bacdc34322a1d3d2.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 687,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/d5001ad7f087e269ebbd11be971b932d378c78d665951bd7bacdc34322a1d3d2.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/d5001ad7f087e269ebbd11be971b932d378c78d665951bd7bacdc34322a1d3d2.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/d5001ad7f087e269ebbd11be971b932d378c78d665951bd7bacdc34322a1d3d2.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-24T20:46:51+00:00"
@@ -219,10 +241,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/05/CP13214033-e1777672969499.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1190,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/05/CP13214033-e1777672969499.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/05/CP13214033-e1777672969499.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/05/CP13214033-e1777672969499.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1190
    },
    "breaking": false,
    "addedAt": "2026-11-24T20:46:51+00:00"
@@ -301,10 +323,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/clean-1795551480.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/clean-1795551480.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/clean-1795551480.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/clean-1795551480.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T20:46:51+00:00"
@@ -328,28 +350,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T10:14:29+00:00"
-  },
-  {
-   "id": "886e6fb7c86dd637",
-   "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
-   "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-24T19:59:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kichul Shin/NurPhoto/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=700&quality=85&auto=format&fit=max&s=a8c5eeb774bf12c4415fe5a8fb607e25",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T11:37:31+00:00"
   },
   {
    "id": "f99b1eff0a4625b8",
@@ -911,9 +911,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/5e4136d7-8d38-47b1-ad29-7e11c56e2e6b,1795545732893/full/max/0/default.jpg?im=Crop%2Crect%3D%283%2C0%2C2642%2C1486%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/5e4136d7-8d38-47b1-ad29-7e11c56e2e6b,1795545732893/full/max/0/default.jpg?im=Crop%2Crect%3D%283%2C0%2C2642%2C1486%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T20:46:51+00:00"
@@ -1502,10 +1502,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/04a2d63ae262fd5fde5dacc710a31435854b852e/912_0_4856_3885/master/4856.jpg?width=700&quality=85&auto=format&fit=max&s=4dd1cd84b20b3e51ab5c69cff0b75ba5",
-    "w": 700,
+    "credit": "Photograph: Mick Tsikas/AAP",
     "h": 560,
-    "credit": "Photograph: Mick Tsikas/AAP"
+    "url": "https://i.guim.co.uk/img/media/04a2d63ae262fd5fde5dacc710a31435854b852e/912_0_4856_3885/master/4856.jpg?width=700&quality=85&auto=format&fit=max&s=4dd1cd84b20b3e51ab5c69cff0b75ba5",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T20:46:51+00:00"
@@ -7678,28 +7678,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T21:08:37+00:00"
-  },
-  {
-   "id": "6c2109ddef727264",
-   "title": "Thousands protest across Europe over living costs and housing",
-   "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-   "date": "2026-11-21T20:47:50+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "housing"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-21T171053Z_1177590545_RC2FSOAHFU7E_RTRMADP_3_PORTUGAL-POLITICS-PROTESTS-1795290649.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-21T171053Z_1177590545_RC2FSOAHFU7E_RTRMADP_3_PORTUGAL-POLITICS-PROTESTS-1795290649.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T20:59:30+00:00"
   }
  ]
 }

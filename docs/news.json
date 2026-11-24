@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T18:08:06+00:00",
+ "generatedAt": "2026-11-24T18:17:15+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,12 +166,32 @@
  ],
  "items": [
   {
+   "id": "e12a925cb2dd4ab6",
+   "title": "Trump honors Rudy Giuliani with presidential medal of freedom",
+   "summary": "President’s former lawyer, disbarred over effort to overturn 2020 election result, receives top civilian honor Donald Trump awarded Rudy Giuliani, his former personal attorney who was disbarred for his efforts to help the US president overturn 2020 election…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/24/trump-giuliani-presidential-medal-of-freedom",
+   "date": "2026-11-24T18:09:17+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Carolyn Kaster/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/d456d1f37f9e02edfcc7211951564eb91a5a8aab/309_0_3866_3094/master/3866.jpg?width=700&quality=85&auto=format&fit=max&s=c2cf39f083ea0e74617efce8d82303ae",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T17:22:24+00:00"
+  },
+  {
    "id": "cc716434d1ad9859",
    "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
    "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T18:02:27+00:00",
+   "date": "2026-11-24T18:07:46+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -197,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-ThumbnailV2-1795541647.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-ThumbnailV2-1795541647.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-ThumbnailV2-1795541647.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-ThumbnailV2-1795541647.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T18:08:06+00:00"
@@ -259,10 +279,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/401e46d2f072b5f00faeb7a524543c0c6fd6adb4/237_0_2776_2220/master/2776.jpg?width=700&quality=85&auto=format&fit=max&s=9f76f7742402c22705465761286628b9",
-    "w": 700,
+    "credit": "Photograph: Tom Brenner/Reuters",
     "h": 560,
-    "credit": "Photograph: Tom Brenner/Reuters"
+    "url": "https://i.guim.co.uk/img/media/401e46d2f072b5f00faeb7a524543c0c6fd6adb4/237_0_2776_2220/master/2776.jpg?width=700&quality=85&auto=format&fit=max&s=9f76f7742402c22705465761286628b9",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T18:08:06+00:00"
@@ -366,26 +386,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T14:33:22+00:00"
-  },
-  {
-   "id": "e12a925cb2dd4ab6",
-   "title": "Trump expected to award Giuliani Presidential Medal of Freedom",
-   "summary": "Trump’s former lawyer was disbarred for his efforts to help the US president overturn 2020 election results Donald Trump is expected to present Rudy Giuliani, his former personal attorney who was disbarred for his efforts to help the US president overturn…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/trump-giuliani-presidential-medal-of-freedom",
-   "date": "2026-11-24T17:09:34+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Carolyn Kaster/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d456d1f37f9e02edfcc7211951564eb91a5a8aab/309_0_3866_3094/master/3866.jpg?width=700&quality=85&auto=format&fit=max&s=c2cf39f083ea0e74617efce8d82303ae",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T17:22:24+00:00"
   },
   {
    "id": "b2180152bcd17179",
@@ -7379,26 +7379,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T18:23:12+00:00"
-  },
-  {
-   "id": "7ac6d14389feef65",
-   "title": "Trump orders contractors to check with White House over any congressional inquiries",
-   "summary": "Anticipating flood of Democratic requests, US president issues executive order in attempt to stymie oversight efforts Donald Trump is directing federal contractors and subcontractors to consult with his administration about inquiries they receive from…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
-   "date": "2026-11-21T18:08:30+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Elizabeth Frantz/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f021398e23c64249dd270de109b550a94bbd26fb/332_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=589910443b861ac3f8d1ba396f9820c7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T18:13:41+00:00"
   }
  ]
 }

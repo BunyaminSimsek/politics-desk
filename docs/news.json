@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T04:44:36+00:00",
+ "generatedAt": "2026-11-24T04:54:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -206,6 +206,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:55:47+00:00"
+  },
+  {
+   "id": "16504f2d37602a20",
+   "title": "WHO chief visits Cuba as healthcare system deteriorates",
+   "summary": "Analysts say fuel shortages blamed on US sanctions are worsening the crisis.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss",
+   "date": "2026-11-24T04:35:37+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b04facc29cb3-1795488460.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b04facc29cb3-1795488460.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T04:54:04+00:00"
   },
   {
    "id": "d03c9347c8a2e9ed",
@@ -488,9 +508,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/3cfa7961-7723-4591-9f87-8faf636c9c24,1795479775163/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/3cfa7961-7723-4591-9f87-8faf636c9c24,1795479775163/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T00:43:58+00:00"
@@ -5036,7 +5056,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

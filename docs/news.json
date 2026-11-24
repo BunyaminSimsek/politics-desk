@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T13:19:13+00:00",
+ "generatedAt": "2026-11-24T13:28:49+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=700&quality=85&auto=format&fit=max&s=791c55ee04f977f47ed2ad097a23bec0",
-    "w": 700,
+    "credit": "Photograph: Media Office Of The Eastern Libyan Forces [libyan National Army]/Reuters",
     "h": 560,
-    "credit": "Photograph: Media Office Of The Eastern Libyan Forces [libyan National Army]/Reuters"
+    "url": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=700&quality=85&auto=format&fit=max&s=791c55ee04f977f47ed2ad097a23bec0",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:37:27+00:00"
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/1770cb26e511e3432816e0321b8005045124f639/706_0_2700_2160/master/2700.jpg?width=700&quality=85&auto=format&fit=max&s=796eb149a142187becfad7d092a429ae",
-    "w": 700,
+    "credit": "Photograph: Edward George/Alamy",
     "h": 560,
-    "credit": "Photograph: Edward George/Alamy"
+    "url": "https://i.guim.co.uk/img/media/1770cb26e511e3432816e0321b8005045124f639/706_0_2700_2160/master/2700.jpg?width=700&quality=85&auto=format&fit=max&s=796eb149a142187becfad7d092a429ae",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T13:19:13+00:00"
@@ -388,6 +388,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T12:32:57+00:00"
+  },
+  {
+   "id": "5a43e29240e6cbcb",
+   "title": "China walks ‘thin line’ in push to prevent another Horn of Africa war",
+   "summary": "Beijing has escalated diplomatic efforts to ease tensions involving Egypt, Ethiopia, Eritrea and Djibouti.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/china-walks-thin-line-in-push-to-prevent-another-horn-of-africa-war?traffic_source=rss",
+   "date": "2026-11-24T12:18:44+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-587232376-1795524917.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-587232376-1795524917.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T13:28:49+00:00"
   },
   {
    "id": "1b64d8db79098f9b",
@@ -819,9 +839,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/17dddc4e-e851-4d9b-8708-cd893371ac7f,1791571515599/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/17dddc4e-e851-4d9b-8708-cd893371ac7f,1791571515599/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:09:44+00:00"
@@ -857,9 +877,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f5894fac-5674-4d5a-afd6-3d5475c9ab81,1795487440947/full/max/0/default.jpg?im=Crop%2Crect%3D%281068%2C165%2C2511%2C1412%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f5894fac-5674-4d5a-afd6-3d5475c9ab81,1795487440947/full/max/0/default.jpg?im=Crop%2Crect%3D%281068%2C165%2C2511%2C1412%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:09:44+00:00"
@@ -876,9 +896,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/c6b07047-80a4-44fa-b10c-7f2dd9755fb4,1795471797746/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C283%2C4510%2C2536%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/c6b07047-80a4-44fa-b10c-7f2dd9755fb4,1795471797746/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C283%2C4510%2C2536%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:09:44+00:00"
@@ -6890,25 +6910,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-20T18:37:01+00:00"
-  },
-  {
-   "id": "7bf9e401188cbf65",
-   "title": "Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60",
-   "summary": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164?cmp=rss",
-   "date": "2026-11-21T13:26:36+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/1dd60a20-59ca-4d7a-a8db-a8328b0c7f58,1795284604232/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C7%2C1280%2C720%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T13:36:25+00:00"
   }
  ]
 }

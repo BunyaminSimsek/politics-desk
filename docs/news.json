@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T11:28:18+00:00",
+ "generatedAt": "2026-11-24T11:37:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 31
+   "kept": 30
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,54 @@
  ],
  "items": [
   {
+   "id": "7f6dc43a3f51091f",
+   "title": "Weighing Ottawa’s $600-million alternative to the Netflix tax",
+   "summary": "CTV’s Vassy Kapelos grilled culture and identity minister Marc Miller in November on the federal government’s pivot from a $200-million annual Netflix tax on foreign-owned streamers to a $600-million boost to media funds supporting Canadian content.",
+   "source": "Policy Options",
+   "url": "https://policyoptions.irpp.org/2026/11/canadian-content-funding/",
+   "date": "2026-11-24T11:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "analysis",
+   "image": {
+    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/CMF-3-scaled.jpg?resize=1200%2C800",
+    "w": 2560,
+    "h": 1175,
+    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/CMF-3-scaled.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
+   "id": "86afad3ac3241cff",
+   "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
+   "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank Ukraine’s president Volodymyr Zelenskyy ⁠has confirmed that Ukraine was ⁠responsible for ⁠Saturday’s ​drone strike on a Russian cargo…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+   "date": "2026-11-24T11:29:15+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Polsat News/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=700&quality=85&auto=format&fit=max&s=c2b831cbbd82d854b4f8528b14943a59",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T09:37:27+00:00"
+  },
+  {
    "id": "43b484dc42ff2941",
    "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
    "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Congress to grill Jensen Huang over ties with…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-   "date": "2026-11-24T11:06:08+00:00",
+   "date": "2026-11-24T11:25:32+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -187,14 +229,16 @@
   },
   {
    "id": "2dd5afc16ba61c3f",
-   "title": "Timms says Pip review being published today will ‘rehumanise’ benefit – UK politics live",
-   "summary": "Some recommendations expected to clash with those of Milburn’s recent report into Neets UK disability benefit cuts ‘risk worsening youth destitution’ Q: Will the leave side being split increase the chances of people to rejoin?",
+   "title": "Farage suggests he wouldn’t work with Tories on campaign against rejoining EU and ‘will never trust them again’ – UK politics live",
+   "summary": "The Reform UK leader, still under investigation by the parliamentary watchdog, says he doesn’t believe the Tories Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-   "date": "2026-11-24T11:02:18+00:00",
+   "date": "2026-11-24T11:20:47+00:00",
    "topic": "europe",
    "region": "world",
-   "tags": [],
+   "tags": [
+    "elections"
+   ],
    "kind": "news",
    "image": {
     "credit": "Photograph: Ben Montgomery/Getty Images",
@@ -204,6 +248,49 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:00:35+00:00"
+  },
+  {
+   "id": "886e6fb7c86dd637",
+   "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
+   "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "date": "2026-11-24T11:20:45+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections",
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=700&quality=85&auto=format&fit=max&s=00478b14820fadebee482f60e2450b0d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jonathan Ernst/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
+   "id": "ea0c0e23f73e06e8",
+   "title": "Iraq orders takeover of oilfields in areas under Kurdish control",
+   "summary": "PM Ali al-Zaidi also orders his government to seize all crossings in the Kurdish region after an oil smuggling inquiry.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+   "date": "2026-11-24T11:19:04+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5d64f3-1784505587.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5d64f3-1784505587.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
   },
   {
    "id": "d1c6006da6c60361",
@@ -286,28 +373,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:55:47+00:00"
-  },
-  {
-   "id": "86afad3ac3241cff",
-   "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
-   "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank Meanwhile, Nato’s secretary general Mark Rutte will travel to Florida to meet the US president, Donald Trump, at Mar-a-Lago on…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-   "date": "2026-11-24T10:51:29+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Polsat News/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=700&quality=85&auto=format&fit=max&s=c2b831cbbd82d854b4f8528b14943a59",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:37:27+00:00"
   },
   {
    "id": "b335207f99b64e53",
@@ -6768,26 +6833,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T12:04:08+00:00"
-  },
-  {
-   "id": "d0d19939b320e45a",
-   "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
-   "summary": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’ The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has said.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-   "date": "2026-11-21T11:33:01+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Hannah McKay/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a8ef665b3433b55dbebb6fb4abe465f1500c8ca9/367_0_2860_2288/master/2860.jpg?width=700&quality=85&auto=format&fit=max&s=dfd7b9e568cb4716acade4103c1c9c50",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T10:04:53+00:00"
   }
  ]
 }

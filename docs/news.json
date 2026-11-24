@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T04:35:25+00:00",
+ "generatedAt": "2026-11-24T04:44:36+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "b9d1aefd5c5577c1",
+   "title": "US Army to detonate toxic explosives in Iowa after Trump paused plan",
+   "summary": "The US military plans to detonate five tonnes of expired explosives on Wednesday, after appeals court decision.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T04:42:06+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T19:53:20+00:00"
+  },
+  {
+   "id": "2aa9fd24f84b5e13",
+   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+   "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T04:36:31+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:55:47+00:00"
+  },
+  {
    "id": "d03c9347c8a2e9ed",
    "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
    "summary": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close…",
@@ -199,10 +241,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d9d3d16ddafbbb2d6d25e61b14faa15c1b8edeb6/238_0_6238_4991/master/6238.jpg?width=700&quality=85&auto=format&fit=max&s=7207af3a05630cb70e32bb1c374839e1",
-    "w": 700,
+    "credit": "Photograph: Mick Tsikas/AAP",
     "h": 560,
-    "credit": "Photograph: Mick Tsikas/AAP"
+    "url": "https://i.guim.co.uk/img/media/d9d3d16ddafbbb2d6d25e61b14faa15c1b8edeb6/238_0_6238_4991/master/6238.jpg?width=700&quality=85&auto=format&fit=max&s=7207af3a05630cb70e32bb1c374839e1",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T04:35:25+00:00"
@@ -246,28 +288,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T03:21:21+00:00"
-  },
-  {
-   "id": "b9d1aefd5c5577c1",
-   "title": "Trump orders US military not to detonate toxic explosives in Iowa for now",
-   "summary": "The US Army has moved its plans to detonate five tonnes of toxic explosives to Wednesday.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T02:58:27+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T19:53:20+00:00"
   },
   {
    "id": "7aebfbd15f7539fa",
@@ -395,28 +415,6 @@
    "addedAt": "2026-11-24T01:58:08+00:00"
   },
   {
-   "id": "2aa9fd24f84b5e13",
-   "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-   "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T01:11:54+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:55:47+00:00"
-  },
-  {
    "id": "c8a91c61c635d6ce",
    "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
    "summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
@@ -490,9 +488,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/3cfa7961-7723-4591-9f87-8faf636c9c24,1795479775163/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/3cfa7961-7723-4591-9f87-8faf636c9c24,1795479775163/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-24T00:43:58+00:00"

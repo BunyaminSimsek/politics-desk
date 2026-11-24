@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T07:56:43+00:00",
+ "generatedAt": "2026-11-24T08:06:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 16
+   "kept": 13
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 14
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "43b484dc42ff2941",
+   "title": "Asia-Pacific markets rally as Huang’s return to Nvidia reignites AI trade, despite US political backlash – business live",
+   "summary": "Rolling coverage of the latest economic and financial news Republican senators criticize Nvidia’s decision to reinstate Jensen Huang The surge in stock markets since Jensen Huang’s return to Nvidia was announced shows that investors are “willing to re-engage…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+   "date": "2026-11-24T07:56:47+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Ritchie B Tongo/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=abfc684f75b37d58bc4c1040d667f62d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T07:56:43+00:00"
+  },
+  {
    "id": "e7530cf187b6c43b",
    "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
    "summary": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned",
@@ -179,10 +201,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/67fe74e925e14e027af689b261f186a2cc29acfe/408_0_4080_3264/master/4080.jpg?width=700&quality=85&auto=format&fit=max&s=99436aca1595f28b3dd0b05a6bd4f67a",
-    "w": 700,
+    "credit": "Photograph: Lock the Gate",
     "h": 560,
-    "credit": "Photograph: Lock the Gate"
+    "url": "https://i.guim.co.uk/img/media/67fe74e925e14e027af689b261f186a2cc29acfe/408_0_4080_3264/master/4080.jpg?width=700&quality=85&auto=format&fit=max&s=99436aca1595f28b3dd0b05a6bd4f67a",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T07:56:43+00:00"
@@ -239,32 +261,10 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "credit": "Photograph: Pitt Rivers museum",
+    "h": 560,
     "url": "https://i.guim.co.uk/img/media/d5065cead2c8e17b546317cb841a92c6507b5968/213_0_2133_1707/master/2133.jpg?width=700&quality=85&auto=format&fit=max&s=fd2ff144bfec26703cf64201622391e5",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Pitt Rivers museum"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T07:56:43+00:00"
-  },
-  {
-   "id": "43b484dc42ff2941",
-   "title": "Asia-Pacific markets rally as Huang’s return to Nvidia reignites AI trade, despite US political backlash – business live",
-   "summary": "Rolling coverage of the latest economic and financial news Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return as Nvidia’s CEO could, perhaps surprisingly, be painful for US borrowers.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-   "date": "2026-11-24T07:28:49+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=abfc684f75b37d58bc4c1040d667f62d",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Ritchie B Tongo/EPA"
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T07:56:43+00:00"
@@ -5364,7 +5364,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

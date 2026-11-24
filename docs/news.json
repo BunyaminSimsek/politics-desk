@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T07:47:26+00:00",
+ "generatedAt": "2026-11-24T07:56:43+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 30
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "e7530cf187b6c43b",
+   "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
+   "summary": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+   "date": "2026-11-24T07:42:57+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/67fe74e925e14e027af689b261f186a2cc29acfe/408_0_4080_3264/master/4080.jpg?width=700&quality=85&auto=format&fit=max&s=99436aca1595f28b3dd0b05a6bd4f67a",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lock the Gate"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T07:56:43+00:00"
+  },
+  {
    "id": "a56396e117cc05e4",
    "title": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
    "summary": "Government forces made early gains in September, but Houthi fighting on multiple fronts has slowed the offensive.",
@@ -177,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0462257d3f8-1795449381.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0462257d3f8-1795449381.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0462257d3f8-1795449381.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0462257d3f8-1795449381.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T07:47:26+00:00"
@@ -197,13 +219,55 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a50b40e-1783673870-e1785862654761.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a50b40e-1783673870-e1785862654761.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a50b40e-1783673870-e1785862654761.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a50b40e-1783673870-e1785862654761.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T07:47:26+00:00"
+  },
+  {
+   "id": "9323339cb00d29d3",
+   "title": "After 80 years in Oxford, Naga ancestors are finally going home",
+   "summary": "A campaign securing the landmark return to India of ancestral remains taken during British colonial rule has opened a wider conversation about restitution The lacerating legacy of colonialism survives in many spaces, particularly in museum collections and…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/23/this-is-india-pitt-rivers-museum-oxford-human-remains-repatriation",
+   "date": "2026-11-24T07:30:10+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/d5065cead2c8e17b546317cb841a92c6507b5968/213_0_2133_1707/master/2133.jpg?width=700&quality=85&auto=format&fit=max&s=fd2ff144bfec26703cf64201622391e5",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Pitt Rivers museum"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T07:56:43+00:00"
+  },
+  {
+   "id": "43b484dc42ff2941",
+   "title": "Asia-Pacific markets rally as Huang’s return to Nvidia reignites AI trade, despite US political backlash – business live",
+   "summary": "Rolling coverage of the latest economic and financial news Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return as Nvidia’s CEO could, perhaps surprisingly, be painful for US borrowers.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+   "date": "2026-11-24T07:28:49+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=abfc684f75b37d58bc4c1040d667f62d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Ritchie B Tongo/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T07:56:43+00:00"
   },
   {
    "id": "0d678abc5bd390c4",

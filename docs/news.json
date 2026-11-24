@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T15:39:40+00:00",
+ "generatedAt": "2026-11-24T15:49:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 33
+   "kept": 32
   },
   {
    "source": "The Guardian",
@@ -166,24 +166,24 @@
  ],
  "items": [
   {
-   "id": "76df5800ff14055a",
-   "title": "The Royal Court’s new mission? To boldly go back to the 60s space race with The Afronauts",
-   "summary": "Royal Court theatre, London Ryan Calais Cameron’s ‘true(ish)’ account of a charismatic freedom fighter’s plan to take a Zambian crew to the moon never quite lifts off Ryan Calais Cameron has proved himself a playwright of stratospheric talent.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/stage/2026/nov/24/the-afronauts-royal-court-theatre-london-ryan-calais-cameron-",
-   "date": "2026-11-24T15:29:09+00:00",
+   "id": "90cb716fe84d746b",
+   "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
+   "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T15:40:05+00:00",
    "topic": "africa",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a535763977ad19e4b021c8a0c4fac76bc28e2f9a/0_1265_2807_2245/master/2807.jpg?width=700&quality=85&auto=format&fit=max&s=911ebc0d28628df859d5c969256f6087",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Marc Brenner"
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
+    "w": 1200
    },
    "breaking": false,
-   "addedAt": "2026-11-24T15:39:40+00:00"
+   "addedAt": "2026-11-24T14:33:22+00:00"
   },
   {
    "id": "2dd5afc16ba61c3f",
@@ -191,7 +191,7 @@
    "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News]…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-   "date": "2026-11-24T15:26:48+00:00",
+   "date": "2026-11-24T15:39:11+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -204,6 +204,66 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:00:35+00:00"
+  },
+  {
+   "id": "43b484dc42ff2941",
+   "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – as it happened",
+   "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have you downloaded Meta’s AI assistant…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+   "date": "2026-11-24T15:36:28+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Ritchie B Tongo/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=abfc684f75b37d58bc4c1040d667f62d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T07:56:43+00:00"
+  },
+  {
+   "id": "76df5800ff14055a",
+   "title": "The Royal Court’s new mission? To boldly go back to the 60s space race with The Afronauts",
+   "summary": "Royal Court theatre, London Ryan Calais Cameron’s ‘true(ish)’ account of a charismatic freedom fighter’s plan to take a Zambian crew to the moon never quite lifts off Ryan Calais Cameron has proved himself a playwright of stratospheric talent.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/stage/2026/nov/24/the-afronauts-royal-court-theatre-london-ryan-calais-cameron-",
+   "date": "2026-11-24T15:29:09+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/14e78c3f62209ff0001bb79f764132d68f9d7fa8/368_2762_2545_2036/master/2545.jpg?width=700&quality=85&auto=format&fit=max&s=1d7b7264209401c83a037deb78464003",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Marc Brenner"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T15:39:40+00:00"
+  },
+  {
+   "id": "f6c893d63b12f2c4",
+   "title": "China’s probes Shanghai party chief Chen Jining over corruption",
+   "summary": "Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss",
+   "date": "2026-11-24T15:26:50+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b059c9e8e-1795529886.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b059c9e8e-1795529886.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T15:49:06+00:00"
   },
   {
    "id": "886e6fb7c86dd637",
@@ -266,26 +326,6 @@
    "addedAt": "2026-11-24T15:28:36+00:00"
   },
   {
-   "id": "90cb716fe84d746b",
-   "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
-   "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T15:16:15+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T14:33:22+00:00"
-  },
-  {
    "id": "86afad3ac3241cff",
    "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
    "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the…",
@@ -319,33 +359,13 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb12016e6c-1794839041.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb12016e6c-1794839041.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb12016e6c-1794839041.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb12016e6c-1794839041.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T15:39:40+00:00"
-  },
-  {
-   "id": "43b484dc42ff2941",
-   "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – business live",
-   "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have you downloaded Meta’s AI assistant…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-   "date": "2026-11-24T15:09:05+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ritchie B Tongo/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=abfc684f75b37d58bc4c1040d667f62d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T07:56:43+00:00"
   },
   {
    "id": "02857839b0966497",

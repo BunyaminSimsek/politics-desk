@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T14:05:27+00:00",
+ "generatedAt": "2026-11-24T14:14:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "886e6fb7c86dd637",
+   "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
+   "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "date": "2026-11-24T14:07:49+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Jonathan Ernst/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=700&quality=85&auto=format&fit=max&s=00478b14820fadebee482f60e2450b0d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
+   "id": "83c9219e60cb42fb",
+   "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
+   "summary": "Trump’s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with Iran Donald Trump’s unwillingness to heed warnings of suspected Chinese penetration of the tech giant Nvidia follows a pattern of the US president…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
+   "date": "2026-11-24T14:00:48+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/515210e29bb0c7d2077263b355c6ce39f3b006d5/243_0_3321_2656/master/3321.jpg?width=700&quality=85&auto=format&fit=max&s=10ea7fb2c7d6724377fc0bef5298f6a5",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Leah Millis/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T14:14:38+00:00"
+  },
+  {
    "id": "2dd5afc16ba61c3f",
    "title": "Farage suggests he wouldn’t work with Tories on campaign against rejoining EU and ‘will never trust them again’ – UK politics live",
    "summary": "The Reform UK leader, still under investigation by the parliamentary watchdog, says he doesn’t believe the Tories Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of…",
@@ -188,24 +228,26 @@
    "addedAt": "2026-11-24T09:00:35+00:00"
   },
   {
-   "id": "886e6fb7c86dd637",
-   "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
-   "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-24T13:53:13+00:00",
-   "topic": "us",
+   "id": "082ca2ff557c8c90",
+   "title": "Israeli air strike kills senior Hamas military official in Gaza",
+   "summary": "The Hamas official was reportedly responsible for countering Palestinians suspected of collaborating with Israel.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
+   "date": "2026-11-24T13:55:11+00:00",
+   "topic": "mideast",
    "region": "world",
-   "tags": [],
+   "tags": [
+    "defence"
+   ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Jonathan Ernst/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=700&quality=85&auto=format&fit=max&s=00478b14820fadebee482f60e2450b0d",
-    "w": 700
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b058bb878cb-1795525560.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b058bb878cb-1795525560.jpg?resize=640%2C427"
    },
    "breaking": false,
-   "addedAt": "2026-11-24T11:37:31+00:00"
+   "addedAt": "2026-11-24T14:14:38+00:00"
   },
   {
    "id": "86afad3ac3241cff",
@@ -7014,26 +7056,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T14:40:53+00:00"
-  },
-  {
-   "id": "5daf6c0c23eb5cf1",
-   "title": "USDA, FBI breached by hackers amid spate of tech outages – reports",
-   "summary": "Latest intrusions targeted farmer-payment system at the USDA and the FBI’s National Crime Information Center Hackers breached the US Department of Agriculture (USDA) and the FBI , national media reported on Friday, amid deepening concerns over a spate of tech…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
-   "date": "2026-11-21T14:09:02+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Stefani Reynolds/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b150fbf305d621454311041d7c8c8c7d201d7d70/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=c7f06bd88f311a16db0d2e3312fde871",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T14:22:31+00:00"
   }
  ]
 }

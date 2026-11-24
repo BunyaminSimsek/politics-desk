@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T23:16:00+00:00",
+ "generatedAt": "2026-11-24T23:25:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -574,7 +574,7 @@
   {
    "id": "6643c8b0549ab7a2",
    "title": "Alberta takes symbolic stand against federal hate crime law, says it silences speech",
-   "summary": "EDMONTON - Alberta Premier Danielle Smith's government is taking a symbolic stand against a federal hate crime law.",
+   "summary": "EDMONTON - Alberta's government is taking a symbolic stand against Ottawa's decision to remove religious speech as a defence to hate crimes, although it acknowledges it already gets final say on whether many cases get prosecuted.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/alberta/alberta-takes-symbolic-stand-against-federal-hate-crime-law-says-it-silences-speech/article_1e40f241-32a9-5eda-9a88-7e39df17ff30.html",
    "date": "2026-11-24T20:29:00+00:00",
@@ -749,9 +749,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/04938837-8bcf-4078-9369-b1d25bfa15aa,1795547183652/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C128%2C4535%2C2550%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/04938837-8bcf-4078-9369-b1d25bfa15aa,1795547183652/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C128%2C4535%2C2550%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T19:13:54+00:00"
@@ -819,7 +819,7 @@
   {
    "id": "d544447616d6986b",
    "title": "McGuinty says he can't explain Pentagon's criticism of Canada's defence spending",
-   "summary": "OTTAWA - Defence Minister David McGuinty says he can’t \"divine\" the thinking behind the Pentagon’s recent criticism of Canada’s defence spending.",
+   "summary": "OTTAWA - Defence Minister David McGuinty said Tuesday he can’t \"divine\" the thinking behind the Pentagon's recent criticism of Canada's defence spending — after the Trump administration took some symbolic steps to upend long-standing norms in North American…",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/mcguinty-says-he-can-t-explain-pentagon-s-criticism-of-canada-s-defence-spending/article_2da425da-9d79-5ba9-9396-81a15465521d.html",
    "date": "2026-11-24T18:38:00+00:00",
@@ -7696,28 +7696,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T00:04:48+00:00"
-  },
-  {
-   "id": "bc1a429f684bdb33",
-   "title": "Iran faces a ‘silent economic war’, says Iranian president",
-   "summary": "Iran faces a ‘silent economic war’, says Iranian president",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-   "date": "2026-11-21T23:18:14+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/iran-pres-horizontal-thumb-1795302988.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/iran-pres-horizontal-thumb-1795302988.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T23:45:57+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T19:23:33+00:00",
+ "generatedAt": "2026-11-24T19:32:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "b335207f99b64e53",
+   "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+   "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T19:27:23+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T10:50:59+00:00"
+  },
+  {
+   "id": "6a00ed68e54f7c20",
+   "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+   "summary": "Ukrainian attacks subsided after Trump's mid-October declaration of an energy ceasefire, but picked up again afterwards.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
+   "date": "2026-11-24T19:22:44+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-01T105125Z_349816858_RC29YT9KV71D_RTRMADP_3_UKRAINE-CRISIS-EU.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-01T105125Z_349816858_RC29YT9KV71D_RTRMADP_3_UKRAINE-CRISIS-EU.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T19:32:41+00:00"
+  },
+  {
    "id": "139931168464ca0a",
    "title": "Minister defends 2027 permanent residency plan, says 'vast majority' are already in Canada",
    "summary": "Immigration Minister Lena Diab says the federal government is managing newcomers responsibly as the Conservative Opposition seeks to block a plan that could see as many as 662,000 people receive permanent residency next year.",
@@ -196,10 +238,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05d7d4e2386-1795545044.jpg?resize=1200%2C800",
-    "w": 5093,
     "h": 3395,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05d7d4e2386-1795545044.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05d7d4e2386-1795545044.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05d7d4e2386-1795545044.jpg?resize=1200%2C800",
+    "w": 5093
    },
    "breaking": false,
    "addedAt": "2026-11-24T19:23:33+00:00"
@@ -773,28 +815,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:22:24+00:00"
-  },
-  {
-   "id": "b335207f99b64e53",
-   "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-   "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T16:31:26+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T10:50:59+00:00"
   },
   {
    "id": "9001f05b5fd3a25f",

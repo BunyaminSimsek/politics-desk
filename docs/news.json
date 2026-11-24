@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T02:44:24+00:00",
+ "generatedAt": "2026-11-24T02:54:05+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 14
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,52 @@
  ],
  "items": [
   {
+   "id": "dfa4db2f66ca0142",
+   "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
+   "summary": "‘Congress has much to investigate’, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+   "date": "2026-11-24T02:44:18+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T11:11:58+00:00"
+  },
+  {
+   "id": "7aebfbd15f7539fa",
+   "title": "China sentences official to death for spying for foreign country",
+   "summary": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+   "date": "2026-11-24T02:37:36+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/5d7028c1f7418b6df67a8b82c97cfc5563385eba/154_0_2536_2029/master/2536.jpg?width=700&quality=85&auto=format&fit=max&s=a8334ba7ee5504ed586b8b567e4ab1e0",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Guang Niu/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T02:54:05+00:00"
+  },
+  {
    "id": "5cf4131f85f66c67",
-   "title": "Federal court clears way for army to detonate bomb-making material in Iowa",
-   "summary": "Decision comes after Trump urged court to first sign off on what he called the safest way to resolve the situation The US army can proceed with detonating several tons of degraded bomb-making chemicals in Iowa, a federal appeals court ruled on Monday.",
+   "title": "Federal court clears way for army to detonate bomb-making chemicals in Iowa",
+   "summary": "Trump, on social media, tried to push responsibility of ‘any and all death or destruction’ on Democratic governor-elect The US army can proceed with detonating several tons of degraded bomb-making chemicals in Iowa, a federal appeals court ruled on Monday.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-   "date": "2026-11-24T02:24:48+00:00",
+   "date": "2026-11-24T02:25:49+00:00",
    "topic": "us",
    "region": "world",
    "tags": [
@@ -186,26 +226,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T19:53:20+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
-   "summary": "‘Congress has much to investigate’, says Tom Cotton, US Republican senator from Arkansas, as some of his colleagues in the House vow to get answers from Huang",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-24T02:13:02+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   },
   {
    "id": "f690546e5251faac",
@@ -314,7 +334,7 @@
   },
   {
    "id": "c8a91c61c635d6ce",
-   "title": "Israeli minister approves return of Flydubai flights",
+   "title": "Israeli minister approves return of Flydubai flights to Tel Aviv",
    "summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
@@ -386,9 +406,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/3cfa7961-7723-4591-9f87-8faf636c9c24,1795479775163/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/3cfa7961-7723-4591-9f87-8faf636c9c24,1795479775163/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T00:43:58+00:00"
@@ -653,9 +673,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/20ff3d2a-fb72-4a55-8ec7-59d6a52b4f2d,1795471306857/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C149%2C4340%2C2441%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/20ff3d2a-fb72-4a55-8ec7-59d6a52b4f2d,1795471306857/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C149%2C4340%2C2441%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-23T22:41:50+00:00"
@@ -963,6 +983,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T21:17:34+00:00"
+  },
+  {
+   "id": "392068d7b47efe77",
+   "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+   "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T21:03:34+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/46f8/live/11f74480-e77a-11f1-978f-df545a5c5c20.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/46f8/live/11f74480-e77a-11f1-978f-df545a5c5c20.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T02:54:05+00:00"
   },
   {
    "id": "1e8d527100dd7796",
@@ -4934,7 +4976,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6346,28 +6388,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T04:45:07+00:00"
-  },
-  {
-   "id": "edce921e12d23a7f",
-   "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
-   "summary": "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
-   "date": "2026-11-21T02:49:16+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-EUROPE-2011-1795229308.png?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-EUROPE-2011-1795229308.png?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T03:03:27+00:00"
   }
  ]
 }

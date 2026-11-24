@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T16:35:39+00:00",
+ "generatedAt": "2026-11-24T16:45:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "Global News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "2dd5afc16ba61c3f",
+   "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
+   "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News]…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+   "date": "2026-11-24T16:44:09+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Lab Ky Mo/SOPA Images/LightRocket/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/12d9b32cd2174fb0a4d765027b560f1f4e2c7a9c/518_52_3268_2615/master/3268.jpg?width=700&quality=85&auto=format&fit=max&s=6c3201487e69598c31e363e7696184f2",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T09:00:35+00:00"
+  },
+  {
+   "id": "cc716434d1ad9859",
+   "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+   "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T16:37:04+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T05:48:37+00:00"
+  },
+  {
    "id": "b335207f99b64e53",
    "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
    "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
@@ -201,10 +241,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/06/CP219102316-1-e1781540252894.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/06/CP219102316-1-e1781540252894.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/06/CP219102316-1-e1781540252894.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/06/CP219102316-1-e1781540252894.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T16:35:39+00:00"
@@ -221,42 +261,22 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/7e70e1506a39d53aa968f5ed51b0f3c3aff324b6/285_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=67ce09599a0a3ddd2432f7b90700f766",
-    "w": 700,
+    "credit": "Photograph: U.S. Department of Justice/AP",
     "h": 560,
-    "credit": "Photograph: U.S. Department of Justice/AP"
+    "url": "https://i.guim.co.uk/img/media/7e70e1506a39d53aa968f5ed51b0f3c3aff324b6/285_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=67ce09599a0a3ddd2432f7b90700f766",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T16:35:39+00:00"
   },
   {
-   "id": "2dd5afc16ba61c3f",
-   "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
-   "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News]…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-   "date": "2026-11-24T16:25:50+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lab Ky Mo/SOPA Images/LightRocket/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/12d9b32cd2174fb0a4d765027b560f1f4e2c7a9c/518_52_3268_2615/master/3268.jpg?width=700&quality=85&auto=format&fit=max&s=6c3201487e69598c31e363e7696184f2",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:00:35+00:00"
-  },
-  {
    "id": "86afad3ac3241cff",
-   "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
+   "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
    "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
    "date": "2026-11-24T16:24:49+00:00",
-   "topic": "europe",
+   "topic": "ukraine",
    "region": "world",
    "tags": [],
    "kind": "news",
@@ -281,12 +301,32 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/7200ed6b-1599-4323-a3a3-42978e3bbd86,1795536572773/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C306%2C4500%2C2531%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/7200ed6b-1599-4323-a3a3-42978e3bbd86,1795536572773/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C306%2C4500%2C2531%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T16:35:39+00:00"
+  },
+  {
+   "id": "136eacb111ae42ac",
+   "title": "Jerusalem Daily: Clash in Israeli parliament",
+   "summary": "An alleged altercation between Arab Israeli lawmaker Ahmad Tibi and comedian Guy Hochman sparks controversy.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/jerusalem-daily-clash-in-israeli-parliament?traffic_source=rss",
+   "date": "2026-11-24T16:18:11+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795537050.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795537050.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T16:45:33+00:00"
   },
   {
    "id": "90cb716fe84d746b",
@@ -453,7 +493,7 @@
   {
    "id": "ae2e8e2caf29fdfa",
    "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
-   "summary": "US president says he ‘convinced’ chipmaker’s board to reinstate CEO, as Nvidia shares fall after previous day’s rally Comment: Nvidia’s humiliated board should resign out of embarrassment Business live – latest updates Donald Trump made up to $15m (£11.5m) on…",
+   "summary": "US president says he ‘convinced’ chipmaker’s board to reinstate CEO, as Nvidia shares fall after previous day’s rally Comment: Nvidia’s humiliated board should resign out of embarrassment Nvidia staff: what do you think of Jensen Huang’s return as chief…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
    "date": "2026-11-24T15:23:20+00:00",
@@ -842,16 +882,14 @@
   },
   {
    "id": "77b6da1f275aef2c",
-   "title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence",
-   "summary": "Kyiv responds to criticism after claiming responsibility for attacking a Russian warship and a cargo vessel off Libya.",
+   "title": "Russia-Ukraine war live: Moscow will ‘respond’ to attacks on oil refineries",
+   "summary": "Ukrainian drone attacks ​slashed Russian oil refineries' combined crude processing volumes by 45% since late October.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss",
    "date": "2026-11-24T13:30:00+00:00",
    "topic": "ukraine",
    "region": "world",
-   "tags": [
-    "defence"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
     "h": 800,
@@ -1819,26 +1857,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T06:06:49+00:00"
-  },
-  {
-   "id": "cc716434d1ad9859",
-   "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-   "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T05:33:07+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T05:48:37+00:00"
   },
   {
    "id": "3d13677d42e96ea8",
@@ -7262,26 +7280,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T19:17:52+00:00"
-  },
-  {
-   "id": "158994b8ae4ecd45",
-   "title": "International UN talks on controlling use of autonomous weapons collapse",
-   "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-   "date": "2026-11-21T16:36:11+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Fabrice Coffrini/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=700&quality=85&auto=format&fit=max&s=53e5333670bc5c7e1cdca1ffee1bca36",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T16:49:50+00:00"
   }
  ]
 }

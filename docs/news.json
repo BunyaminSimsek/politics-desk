@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T21:33:57+00:00",
+ "generatedAt": "2026-11-24T21:43:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/01/b01c0de8-99fb-57a8-870f-1b8874064abb/6b0600b13cc37.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/01/b01c0de8-99fb-57a8-870f-1b8874064abb/6b0600b13cc37.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/01/b01c0de8-99fb-57a8-870f-1b8874064abb/6b0600b13cc37.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/01/b01c0de8-99fb-57a8-870f-1b8874064abb/6b0600b13cc37.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T21:33:57+00:00"
@@ -217,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/df/5df15fe7-847b-56ed-9c8b-0155b2223b0c/6b0600b012d31.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/df/5df15fe7-847b-56ed-9c8b-0155b2223b0c/6b0600b012d31.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/df/5df15fe7-847b-56ed-9c8b-0155b2223b0c/6b0600b012d31.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/df/5df15fe7-847b-56ed-9c8b-0155b2223b0c/6b0600b012d31.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T21:33:57+00:00"
@@ -244,6 +244,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T21:15:02+00:00"
+  },
+  {
+   "id": "9446b299a3a19a4b",
+   "title": "Russian jets spark air raid alert in South Korea",
+   "summary": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+   "date": "2026-11-24T21:14:57+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795554891.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795554891.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T21:43:03+00:00"
   },
   {
    "id": "8de40e3d4565ae50",
@@ -7661,85 +7681,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T22:13:37+00:00"
-  },
-  {
-   "id": "4d88766791b082be",
-   "title": "Ontario Liberals elect Navdeep Bains as new party leader",
-   "summary": "Ontario Liberals have elected Navdeep Bains as the party's new leader after a marathon nine-month leadership race, with Bains emerging as victor less than one percentage point ahead of his next closest competitor, provincial caucus member Lee Fairclough.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
-   "date": "2026-11-21T21:35:51+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/30690b4b-150c-4b8b-9883-ce3f56442a81,1795278309500/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C8%2C8640%2C4860%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T21:45:17+00:00"
-  },
-  {
-   "id": "22eb4b1169de4af9",
-   "title": "Navdeep Bains named new Ontario Liberal leader",
-   "summary": "TORONTO - Former MP Navdeep Bains eked out a narrow victory Saturday to become the next Ontario Liberal leader, pledging to focus now on uniting the party and getting it in fighting shape for the next election.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/ontario/ontario-liberals-to-name-new-leader-after-weeks-of-voting-months-of-campaigning/article_dc8ece66-4041-5f42-84f1-0b9195d92fef.html",
-   "date": "2026-11-21T21:35:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/35/03543720-6cdb-544c-983d-aa4f20573913/6b000d3f369e0.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T11:18:14+00:00"
-  },
-  {
-   "id": "c150fab2fad381d6",
-   "title": "From Trudeau cabinet minister to Ontario Liberal leader: Who is Navdeep Bains?",
-   "summary": "The former MP takes the helm of a provincial party that desperately needs a rebuild.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/from-trudeau-cabinet-minister-to-ontario-liberal-leader-who-is-navdeep-bains/article_a91177ba-f47f-419b-9f7a-ff2b8a173120.html",
-   "date": "2026-11-21T21:35:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/5e/e5ec1062-c8fd-5621-a15c-c5802d299ef5/6aff2b4d801ac.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/5e/e5ec1062-c8fd-5621-a15c-c5802d299ef5/6aff2b4d801ac.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T21:54:48+00:00"
-  },
-  {
-   "id": "ba154ba503f95303",
-   "title": "Ontario Liberal leadership race recap: Navdeep Bains named new party leader",
-   "summary": "Bains defeated runner-up MPP Lee Fairclough, MPP Stephanie Bowman and policy adviser Dylan Marando.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/ontario-liberal-leadership-live/article_1f6f280d-80d7-4d59-92d0-2087a8a883e7.html",
-   "date": "2026-11-21T21:35:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/e5/be554cbd-5b4f-502d-b54a-26b540dbf16d/6b0202932d16b.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/e5/be554cbd-5b4f-502d-b54a-26b540dbf16d/6b0202932d16b.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T10:04:53+00:00"
   }
  ]
 }

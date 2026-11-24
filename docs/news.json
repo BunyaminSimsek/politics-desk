@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T09:46:53+00:00",
+ "generatedAt": "2026-11-24T09:56:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "86afad3ac3241cff",
+   "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
+   "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank Over in Sweden, election winner Magdalena Andersson has repeated that there are still “no conditions” for her to form a new centre-left…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+   "date": "2026-11-24T09:43:03+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Polsat News/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=700&quality=85&auto=format&fit=max&s=c2b831cbbd82d854b4f8528b14943a59",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T09:37:27+00:00"
+  },
+  {
    "id": "2aa9fd24f84b5e13",
    "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
    "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
@@ -186,32 +208,12 @@
    "addedAt": "2026-11-23T16:55:47+00:00"
   },
   {
-   "id": "2dd5afc16ba61c3f",
-   "title": "Timms says Pip review being published today will ‘rehumanise’ benefit – UK politics live",
-   "summary": "Some recommendations expected to clash with those of Milburn’s recent report into Neets UK disability benefit cuts ‘risk worsening youth destitution’ Andy Burnham has announced an ambition to get a million more girls involved in sport by the time the UK hosts…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-   "date": "2026-11-24T09:29:10+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ben Montgomery/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c34b9b11284987598b8659d9195929937166bd23/456_0_4690_3751/master/4690.jpg?width=700&quality=85&auto=format&fit=max&s=ecec8e74d315bd7e05afc6abcd112b7f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:00:35+00:00"
-  },
-  {
    "id": "43b484dc42ff2941",
    "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
    "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return to Nvidia, despite…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-   "date": "2026-11-24T09:24:12+00:00",
+   "date": "2026-11-24T09:39:35+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -226,26 +228,24 @@
    "addedAt": "2026-11-24T07:56:43+00:00"
   },
   {
-   "id": "86afad3ac3241cff",
-   "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
-   "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank Meanwhile, Hungary’s prime minister Péter Magyar announced a visit to the border region of Transcarpathia for talks with Ukraine’s…",
+   "id": "2dd5afc16ba61c3f",
+   "title": "Timms says Pip review being published today will ‘rehumanise’ benefit – UK politics live",
+   "summary": "Some recommendations expected to clash with those of Milburn’s recent report into Neets UK disability benefit cuts ‘risk worsening youth destitution’ Libby Brooks has a good explainer about Pip in her First Edition newsletter today.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-   "date": "2026-11-24T09:22:10+00:00",
-   "topic": "ukraine",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+   "date": "2026-11-24T09:36:51+00:00",
+   "topic": "europe",
    "region": "world",
-   "tags": [
-    "defence"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Polsat News/Reuters",
+    "credit": "Photograph: Ben Montgomery/Getty Images",
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=700&quality=85&auto=format&fit=max&s=c2b831cbbd82d854b4f8528b14943a59",
+    "url": "https://i.guim.co.uk/img/media/c34b9b11284987598b8659d9195929937166bd23/456_0_4690_3751/master/4690.jpg?width=700&quality=85&auto=format&fit=max&s=ecec8e74d315bd7e05afc6abcd112b7f",
     "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-24T09:37:27+00:00"
+   "addedAt": "2026-11-24T09:00:35+00:00"
   },
   {
    "id": "b6b709e5257e2e3a",
@@ -417,10 +417,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Evening Standard/Getty Images",
+    "url": "https://i.guim.co.uk/img/media/4a18877293afdaf5a165edfd4e26384248d1cf11/5_738_4303_3441/master/4303.jpg?width=700&quality=85&auto=format&fit=max&s=b5f1368f26eb8f5a5aa0fb36ab0f429d",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4a18877293afdaf5a165edfd4e26384248d1cf11/0_455_4318_3453/master/4318.jpg?width=700&quality=85&auto=format&fit=max&s=5dcc0bb71a2aaf433801b63b6ec6572d",
-    "w": 700
+    "credit": "Photograph: Evening Standard/Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-24T08:24:14+00:00"
@@ -6765,28 +6765,6 @@
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/7b/e7bfbafe-8472-5ef4-abd0-f8494d25959f/6aff114af05f5.image.jpg?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/7b/e7bfbafe-8472-5ef4-abd0-f8494d25959f/6aff114af05f5.image.jpg?resize=1200%2C",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T10:04:53+00:00"
-  },
-  {
-   "id": "398adce4c4a50a02",
-   "title": "China commits to low-carbon electrification and help for others to improve",
-   "summary": "Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035 China is pushing for rapid electrification of its economy using low-carbon energy and will help other countries do the same, a senior member of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
-   "date": "2026-11-21T09:47:57+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ümit Bektaş/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9e68aee336577ce0e768fd142e23caf3b9396a18/240_71_6107_4885/master/6107.jpg?width=700&quality=85&auto=format&fit=max&s=a1076ef9ece805b5dec417b64f44c3bd",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-21T10:04:53+00:00"

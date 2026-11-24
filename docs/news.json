@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T07:01:48+00:00",
+ "generatedAt": "2026-11-24T07:10:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "0d678abc5bd390c4",
+   "title": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
+   "summary": "New internet safety bill expected to pass this week could impose fines of up to 5 percent of firms' global revenue.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
+   "date": "2026-11-24T07:02:52+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b052ce9-1795501289.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b052ce9-1795501289.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T07:10:53+00:00"
+  },
+  {
+   "id": "3ba2d75c0e1fa23d",
+   "title": "Why Eisenkot is negotiating with Netanyahu",
+   "summary": "Talks with different political powers give Yashar leverage. But they also give Likud renewed political relevance.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu?traffic_source=rss",
+   "date": "2026-11-24T07:02:40+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T150000Z_268097912_RC2OTOALV528_RTRMADP_3_ISRAEL-POLITICS-NETANYAHU-1795503632.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T150000Z_268097912_RC2OTOALV528_RTRMADP_3_ISRAEL-POLITICS-NETANYAHU-1795503632.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T07:10:53+00:00"
+  },
   {
    "id": "453558042ad68717",
    "title": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",

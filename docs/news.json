@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T18:55:09+00:00",
+ "generatedAt": "2026-11-24T19:04:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "CBC World",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 0
+   "kept": 1
   },
   {
    "source": "CTV News",
@@ -40,8 +40,8 @@
   {
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "75a2a86afd27d1c4",
+   "title": "US attorney general dodges questions about Nvidia investigation",
+   "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T18:55:59+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/364c/live/42990320-e839-11f1-99a1-253766e7ad8b.png",
+    "w": 1200,
+    "h": 800,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/364c/live/42990320-e839-11f1-99a1-253766e7ad8b.png"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T19:04:41+00:00"
+  },
+  {
+   "id": "b66c3f9f6ad8337f",
+   "title": "Ontario vows to restore frozen OSAP by New Year if fraud bill passes",
+   "summary": "The Ford government is under mounting criticism for freezing OSAP funding, a pause that began in early October, for students at all 242 Ontario private career colleges.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12164387/ontario-vows-restore-frozen-osap-new-year-fraud-bill-passes/",
+   "date": "2026-11-24T18:55:31+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57_ff23d3.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57_ff23d3.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T19:04:41+00:00"
+  },
+  {
    "id": "d544447616d6986b",
    "title": "McGuinty says he can't explain Pentagon's criticism of Canada's defence spending",
    "summary": "OTTAWA - Defence Minister David McGuinty says he can’t \"divine\" the thinking behind the Pentagon’s recent criticism of Canada’s defence spending.",
@@ -180,13 +220,33 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/14/1141bc28-0e50-5bed-9a59-1b0330d3fe22/6b05da0510977.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/14/1141bc28-0e50-5bed-9a59-1b0330d3fe22/6b05da0510977.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/14/1141bc28-0e50-5bed-9a59-1b0330d3fe22/6b05da0510977.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/14/1141bc28-0e50-5bed-9a59-1b0330d3fe22/6b05da0510977.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T18:55:09+00:00"
+  },
+  {
+   "id": "62e91713fc99a4c6",
+   "title": "Is Libya a new front in the Ukraine war?",
+   "summary": "Ukraine's President Volodymyr Zelenskyy says two Russian vessels were targeted in Libya's waters.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
+   "date": "2026-11-24T18:38:49+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b044cea4a73-1795443946.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b044cea4a73-1795443946.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T19:04:41+00:00"
   },
   {
    "id": "96bc43410782dee4",
@@ -7436,46 +7496,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T01:54:40+00:00"
-  },
-  {
-   "id": "3977b4ac2205104f",
-   "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
-   "summary": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’ Get our breaking news email , free app or daily news podcast An Australian beauty company that promotes “clean” ingredients “free from skin…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
-   "date": "2026-11-21T19:00:07+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Copini Beauty Instagram",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6ce0bb93a4da40d20b813c67e99af09399f8268b/214_0_1747_1398/master/1747.jpg?width=700&quality=85&auto=format&fit=max&s=f53043f731375d7e2b5c050b504a313b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T19:17:52+00:00"
-  },
-  {
-   "id": "96394a4bee6598fb",
-   "title": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
-   "summary": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’ Get our breaking news email , free app or daily news podcast Australian neo-Nazis…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
-   "date": "2026-11-21T19:00:06+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: d3sign/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f407e25401074b0d9b8e2c21e82c592c40e9f9f0/512_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=f9dbf45ff7a968bafb64857ce7ef27b6",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T19:17:52+00:00"
   }
  ]
 }

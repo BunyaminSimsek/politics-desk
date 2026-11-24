@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T07:10:53+00:00",
+ "generatedAt": "2026-11-24T07:19:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b052ce9-1795501289.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b052ce9-1795501289.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b052ce9-1795501289.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b052ce9-1795501289.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T07:10:53+00:00"
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T150000Z_268097912_RC2OTOALV528_RTRMADP_3_ISRAEL-POLITICS-NETANYAHU-1795503632.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T150000Z_268097912_RC2OTOALV528_RTRMADP_3_ISRAEL-POLITICS-NETANYAHU-1795503632.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T150000Z_268097912_RC2OTOALV528_RTRMADP_3_ISRAEL-POLITICS-NETANYAHU-1795503632.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T150000Z_268097912_RC2OTOALV528_RTRMADP_3_ISRAEL-POLITICS-NETANYAHU-1795503632.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T07:10:53+00:00"
@@ -765,7 +765,7 @@
   {
    "id": "99a80c950af96ad4",
    "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
-   "summary": "Iran's top negotiator rules out talks until the US meets seven conditions and warns against any enemy miscalculation.",
+   "summary": "Iran's Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
    "date": "2026-11-24T00:00:00+00:00",

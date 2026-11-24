@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T05:48:37+00:00",
+ "generatedAt": "2026-11-24T05:57:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T05:48:37+00:00"
@@ -5138,7 +5138,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss",
    "date": "2026-11-21T21:35:51+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

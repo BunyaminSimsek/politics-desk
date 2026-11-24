@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T10:41:52+00:00",
+ "generatedAt": "2026-11-24T10:50:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,70 @@
  ],
  "items": [
   {
+   "id": "b335207f99b64e53",
+   "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+   "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T10:48:27+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T10:50:59+00:00"
+  },
+  {
+   "id": "2dd5afc16ba61c3f",
+   "title": "Timms says Pip review being published today will ‘rehumanise’ benefit – UK politics live",
+   "summary": "Some recommendations expected to clash with those of Milburn’s recent report into Neets UK disability benefit cuts ‘risk worsening youth destitution’ Kemi Badenoch mentioned Clare Waxman’s comments (see 10.31am ) at the Tory news conference where she and Nick…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+   "date": "2026-11-24T10:45:04+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Ben Montgomery/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c34b9b11284987598b8659d9195929937166bd23/456_0_4690_3751/master/4690.jpg?width=700&quality=85&auto=format&fit=max&s=ecec8e74d315bd7e05afc6abcd112b7f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T09:00:35+00:00"
+  },
+  {
+   "id": "86afad3ac3241cff",
+   "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
+   "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank Norway’s defence minister Tore Sandvik told reporters ⁠there is ⁠an ​ongoing dialogue with Ukraine regarding “a need for stability in…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+   "date": "2026-11-24T10:41:21+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Polsat News/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=700&quality=85&auto=format&fit=max&s=c2b831cbbd82d854b4f8528b14943a59",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T09:37:27+00:00"
+  },
+  {
    "id": "43b484dc42ff2941",
    "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
    "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return to Nvidia, despite…",
@@ -184,48 +248,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T07:56:43+00:00"
-  },
-  {
-   "id": "86afad3ac3241cff",
-   "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
-   "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank Back to Ukraine, the country’s president Volodymyr Zelenskyy has warned that “the situation with power supply is difficult” amid…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-   "date": "2026-11-24T10:20:59+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Polsat News/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=700&quality=85&auto=format&fit=max&s=c2b831cbbd82d854b4f8528b14943a59",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:37:27+00:00"
-  },
-  {
-   "id": "2dd5afc16ba61c3f",
-   "title": "Timms says Pip review being published today will ‘rehumanise’ benefit – UK politics live",
-   "summary": "Some recommendations expected to clash with those of Milburn’s recent report into Neets UK disability benefit cuts ‘risk worsening youth destitution’ Andy Burnham has made a point of paying less attention to the legacy mainstream media than his predecessors…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-   "date": "2026-11-24T10:14:04+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ben Montgomery/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c34b9b11284987598b8659d9195929937166bd23/456_0_4690_3751/master/4690.jpg?width=700&quality=85&auto=format&fit=max&s=ecec8e74d315bd7e05afc6abcd112b7f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:00:35+00:00"
   },
   {
    "id": "bba4c0d44abe72e5",

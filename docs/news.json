@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T22:39:03+00:00",
+ "generatedAt": "2026-11-24T22:48:11+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 28
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "4c2d46714fabe3e9",
+   "title": "Burnham opens door to wider NDAs ban at ‘watershed moment’ on abuse",
+   "summary": "PM brings forward changes to non-disclosure agreements and promises consultation on staggered age of consent Men have used wealth and fame to get away with abuse.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/24/burnham-non-disclosure-agreements-staggered-age-consent",
+   "date": "2026-11-24T22:30:58+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/656d39b54361f4393bd5eac683c88e5b7e342c2d/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=dd8353d67d36722446101b5584cff988",
+    "w": 700,
+    "h": 560,
+    "credit": "Composite: Reuters/Wiltshire police"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T22:48:11+00:00"
+  },
+  {
+   "id": "e9e87fe10dbd83bd",
+   "title": "Online gambling ads are ‘out of control,’ Doug Ford says",
+   "summary": "The premier says he's eyeing a crackdown on \"out of control\" advertising amid rising concerns about the heavy toll internet gaming is taking.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/online-gambling-ads-are-out-of-control-doug-ford-says/article_0b640d12-971d-49b0-b72f-e2e8c6d47a34.html",
+   "date": "2026-11-24T22:30:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/57/6573618a-1a4e-515f-85f9-6d48955c579b/6b06086c71295.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/57/6573618a-1a4e-515f-85f9-6d48955c579b/6b06086c71295.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T22:48:11+00:00"
+  },
   {
    "id": "886e6fb7c86dd637",
    "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
@@ -806,8 +846,8 @@
   },
   {
    "id": "e9a50a54eb76005e",
-   "title": "Quebec opposition leaders urge premier not to delay session over oath to the King",
-   "summary": "MONTREAL - Quebec opposition leaders are urging Premier Paul St-Pierre Plamondon not to delay opening the parliamentary session over the oath to the King.",
+   "title": "Quebec government appeals ruling reinstating oath to the King",
+   "summary": "MONTREAL - The Quebec government has appealed a Superior Court judgment that temporarily reinstated the oath to the King.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/quebec/quebec-opposition-leaders-urge-premier-not-to-delay-session-over-oath-to-the-king/article_d8f7cafb-059c-51e0-a27a-17ff586f1ff2.html",
    "date": "2026-11-24T18:25:49+00:00",
@@ -1138,9 +1178,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/5e4136d7-8d38-47b1-ad29-7e11c56e2e6b,1795545732893/full/max/0/default.jpg?im=Crop%2Crect%3D%283%2C0%2C2642%2C1486%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/5e4136d7-8d38-47b1-ad29-7e11c56e2e6b,1795545732893/full/max/0/default.jpg?im=Crop%2Crect%3D%283%2C0%2C2642%2C1486%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-24T20:46:51+00:00"
@@ -2493,9 +2533,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/17dddc4e-e851-4d9b-8708-cd893371ac7f,1795560077763/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/17dddc4e-e851-4d9b-8708-cd893371ac7f,1791571515599/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:09:44+00:00"
@@ -3558,6 +3598,23 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:37:10+00:00"
+  },
+  {
+   "id": "d27bd2dbe52cff11",
+   "title": "Ex-White House AI adviser weighs in on national security as Huang is back as Nvidia CEO",
+   "summary": "Nvidia CEO Jensen Huang is back in leadership after resigning recently. Ben Buchanan, a Biden administration AI adviser, discusses what that means for U.S. national security and chip exports.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/23/nx-s1-6050936/ex-white-house-ai-advisor-weighs-in-on-national-security-as-huang-is-back-as-nvidia-ceo",
+   "date": "2026-11-23T22:23:29+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-24T22:48:11+00:00"
   },
   {
    "id": "95f79e5818c90801",
@@ -7646,26 +7703,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T23:45:57+00:00"
-  },
-  {
-   "id": "460719117a505666",
-   "title": "Trump orders federal contractors to check with White House before responding to Congress",
-   "summary": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
-   "date": "2026-11-21T22:40:36+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3599x2399+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F00%2F8bdf254b4a1089592ab211f30cf5%2Fap26324673842521.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3599x2399+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0e%2F00%2F8bdf254b4a1089592ab211f30cf5%2Fap26324673842521.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T22:50:57+00:00"
   }
  ]
 }

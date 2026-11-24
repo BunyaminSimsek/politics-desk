@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T17:58:53+00:00",
+ "generatedAt": "2026-11-24T18:08:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 33
+   "kept": 32
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "cc716434d1ad9859",
+   "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+   "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T18:02:27+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T05:48:37+00:00"
+  },
+  {
+   "id": "e9783ee40b968aaa",
+   "title": "Colombia at a Crossroads: Searching for peace amid conflict",
+   "summary": "A decade after Colombia's peace accords, former FARC fighter and artist honours killed signatories with a mural.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/witness/2026/11/24/colombia-at-a-crossroads-searching-for-peace-amid-conflict?traffic_source=rss",
+   "date": "2026-11-24T18:00:00+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-ThumbnailV2-1795541647.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-ThumbnailV2-1795541647.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T18:08:06+00:00"
+  },
+  {
+   "id": "886e6fb7c86dd637",
+   "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live",
+   "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "date": "2026-11-24T17:58:20+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Kichul Shin/NurPhoto/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=700&quality=85&auto=format&fit=max&s=a8c5eeb774bf12c4415fe5a8fb607e25",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
    "id": "daa0a47c3dfb8a8a",
    "title": "Ottawa says UN court ruling on Rohingya genocide is 'binding,' pledges no new action",
    "summary": "OTTAWA - The Carney government has yet to announce any actions in response to what it calls a \"binding\" ruling by the UN's top court last week that Myanmar perpetrated a genocide against its Rohingya minority.",
@@ -177,13 +239,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/8d/d8d79423-5205-5ba9-98a4-a0f60ae2353b/6b05ce4d6339a.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/8d/d8d79423-5205-5ba9-98a4-a0f60ae2353b/6b05ce4d6339a.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/8d/d8d79423-5205-5ba9-98a4-a0f60ae2353b/6b05ce4d6339a.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/8d/d8d79423-5205-5ba9-98a4-a0f60ae2353b/6b05ce4d6339a.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:58:53+00:00"
+  },
+  {
+   "id": "14815130be7ddd28",
+   "title": "Democrats demand records as investigation into Trump Jr’s investment firm widens",
+   "summary": "Four firms linked to 1789 Capital asked to cooperate as Jamie Raskin leads inquiry into possible insider dealing Democrats have widened their investigation into Donald Trump Jr’s investment firm, demanding records from four companies that gained its backing…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-jr-investigations-investments",
+   "date": "2026-11-24T17:45:36+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/401e46d2f072b5f00faeb7a524543c0c6fd6adb4/237_0_2776_2220/master/2776.jpg?width=700&quality=85&auto=format&fit=max&s=9f76f7742402c22705465761286628b9",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Tom Brenner/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T18:08:06+00:00"
   },
   {
    "id": "2dd5afc16ba61c3f",
@@ -237,35 +319,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab9d4e1ea0d-1790563553.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab9d4e1ea0d-1790563553.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab9d4e1ea0d-1790563553.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab9d4e1ea0d-1790563553.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:58:53+00:00"
-  },
-  {
-   "id": "886e6fb7c86dd637",
-   "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live",
-   "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-24T17:25:24+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kichul Shin/NurPhoto/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=700&quality=85&auto=format&fit=max&s=a8c5eeb774bf12c4415fe5a8fb607e25",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T11:37:31+00:00"
   },
   {
    "id": "5a7f4096127d26e1",
@@ -432,26 +492,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T16:54:49+00:00"
-  },
-  {
-   "id": "cc716434d1ad9859",
-   "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-   "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T16:37:04+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T05:48:37+00:00"
   },
   {
    "id": "e3394a04737afd99",
@@ -7359,26 +7399,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T18:13:41+00:00"
-  },
-  {
-   "id": "5d4b6e627c695fe1",
-   "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
-   "summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
-   "date": "2026-11-21T18:05:51+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795284233.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795284233.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T18:23:12+00:00"
   }
  ]
 }

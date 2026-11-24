@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T14:51:44+00:00",
+ "generatedAt": "2026-11-24T15:01:00+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 34
+   "kept": 33
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -171,19 +171,59 @@
    "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T14:50:31+00:00",
+   "date": "2026-11-24T15:00:27+00:00",
    "topic": "africa",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T14:33:22+00:00"
+  },
+  {
+   "id": "2dd5afc16ba61c3f",
+   "title": "Pip assessments are ‘not fit for purpose’, Timms tells MPs as he unveils his review – UK politics live",
+   "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News]…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+   "date": "2026-11-24T14:54:04+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Sergio Azenha/Alamy",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/fc9b07de39a2037404bfbc03df3dfcd84bce2add/654_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=e55fc7f104073ed6102586eaea236258",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T09:00:35+00:00"
+  },
+  {
+   "id": "43b484dc42ff2941",
+   "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – business live",
+   "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have you downloaded Meta’s AI assistant…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+   "date": "2026-11-24T14:49:33+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Ritchie B Tongo/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=abfc684f75b37d58bc4c1040d667f62d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T07:56:43+00:00"
   },
   {
    "id": "86afad3ac3241cff",
@@ -204,46 +244,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:37:27+00:00"
-  },
-  {
-   "id": "43b484dc42ff2941",
-   "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – business live",
-   "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have you downloaded Meta’s AI assistant…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-   "date": "2026-11-24T14:41:21+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ritchie B Tongo/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=abfc684f75b37d58bc4c1040d667f62d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T07:56:43+00:00"
-  },
-  {
-   "id": "2dd5afc16ba61c3f",
-   "title": "Pip assessments are ‘not fit for purpose’, Timms tells MPs as he unveils his review – UK politics live",
-   "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News]…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-   "date": "2026-11-24T14:36:34+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Sergio Azenha/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fc9b07de39a2037404bfbc03df3dfcd84bce2add/654_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=e55fc7f104073ed6102586eaea236258",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:00:35+00:00"
   },
   {
    "id": "886e6fb7c86dd637",
@@ -341,10 +341,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Aaron Chown/PA",
+    "url": "https://i.guim.co.uk/img/media/6fa71e5ef6c44f8ff09caff53da77737112bc924/276_61_4041_3232/master/4041.jpg?width=700&quality=85&auto=format&fit=max&s=7154672265f76df1a073e5caf29d61aa",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3769e14a903e044475527e8c4cd9f3d54219bedc/940_99_4035_3228/master/4035.jpg?width=700&quality=85&auto=format&fit=max&s=57d848be2c972f044b81e82363d90ff6",
-    "w": 700
+    "credit": "Photograph: Adrian Dennis/AFP/Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-24T14:23:48+00:00"
@@ -7178,28 +7178,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T15:17:59+00:00"
-  },
-  {
-   "id": "5f7e494dc48ee2bc",
-   "title": "Federal judge denies request to release man shot by immigration agents in New York",
-   "summary": "Oscar Belgal, a Dominican national, was shot by ICE agents as he drove his five-year-old son home from school A federal judge on Friday declined to release from custody a man who was shot and wounded by immigration officers as they arrested him in New York in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
-   "date": "2026-11-21T14:52:30+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: New York City Police Department/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b7cd93f6008b4c4b5a411a1c48698ec3368fecbe/119_0_2077_1662/master/2077.jpg?width=700&quality=85&auto=format&fit=max&s=adff644fff899a9d8517bb21e5483e08",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T15:08:51+00:00"
   }
  ]
 }

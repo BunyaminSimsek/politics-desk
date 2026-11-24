@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T09:37:27+00:00",
+ "generatedAt": "2026-11-24T09:46:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "2aa9fd24f84b5e13",
+   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+   "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-24T09:42:54+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-23T16:55:47+00:00"
+  },
   {
    "id": "2dd5afc16ba61c3f",
    "title": "Timms says Pip review being published today will ‘rehumanise’ benefit – UK politics live",
@@ -219,10 +239,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=700&quality=85&auto=format&fit=max&s=c2b831cbbd82d854b4f8528b14943a59",
-    "w": 700,
+    "credit": "Photograph: Polsat News/Reuters",
     "h": 560,
-    "credit": "Photograph: Polsat News/Reuters"
+    "url": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=700&quality=85&auto=format&fit=max&s=c2b831cbbd82d854b4f8528b14943a59",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:37:27+00:00"
@@ -377,10 +397,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9f22a19d170e05a9273e32830ab1c24735bb14bb/424_0_4240_3392/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=92720332301bd6db332fb7fc2e896853",
-    "w": 700,
+    "credit": "Photograph: Bhawika Chhabra/Reuters",
     "h": 560,
-    "credit": "Photograph: Bhawika Chhabra/Reuters"
+    "url": "https://i.guim.co.uk/img/media/9f22a19d170e05a9273e32830ab1c24735bb14bb/424_0_4240_3392/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=92720332301bd6db332fb7fc2e896853",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:37:27+00:00"
@@ -559,10 +579,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/02c7fea6d132724324bdd7310e98ed115cd8ef09/415_0_3753_3002/master/3753.jpg?width=700&quality=85&auto=format&fit=max&s=ee42ae05f9e8e6878f85d6b7e7fd6c87",
-    "w": 700,
+    "credit": "Photograph: Andy Rain/EPA",
     "h": 560,
-    "credit": "Photograph: Andy Rain/EPA"
+    "url": "https://i.guim.co.uk/img/media/02c7fea6d132724324bdd7310e98ed115cd8ef09/415_0_3753_3002/master/3753.jpg?width=700&quality=85&auto=format&fit=max&s=ee42ae05f9e8e6878f85d6b7e7fd6c87",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:37:27+00:00"
@@ -752,26 +772,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T19:53:20+00:00"
-  },
-  {
-   "id": "2aa9fd24f84b5e13",
-   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-   "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T04:36:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:55:47+00:00"
   },
   {
    "id": "16504f2d37602a20",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T13:09:39+00:00",
+ "generatedAt": "2026-11-24T13:19:13+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "CTV News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 32
+   "kept": 33
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "2dd5afc16ba61c3f",
+   "title": "Farage suggests he wouldn’t work with Tories on campaign against rejoining EU and ‘will never trust them again’ – UK politics live",
+   "summary": "The Reform UK leader, still under investigation by the parliamentary watchdog, says he doesn’t believe the Tories Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+   "date": "2026-11-24T13:13:35+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Carl Court/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/6fe99610ea3d772a960225ef129dcddcb04367eb/646_0_4531_3627/master/4531.jpg?width=700&quality=85&auto=format&fit=max&s=8bb97271dbe068499454c7e9acc647ff",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T09:00:35+00:00"
+  },
+  {
+   "id": "86afad3ac3241cff",
+   "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
+   "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+   "date": "2026-11-24T13:09:32+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=700&quality=85&auto=format&fit=max&s=791c55ee04f977f47ed2ad097a23bec0",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Media Office Of The Eastern Libyan Forces [libyan National Army]/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T09:37:27+00:00"
+  },
+  {
+   "id": "7748b52c7319b706",
+   "title": "Justice system failing crime victims ‘at every point’, UK ministers told",
+   "summary": "Without reform there will soon be ‘no point’ in the public reporting crimes to the police, says victims’ commissioner for England and Wales There will soon be “no point” in the public reporting crimes to the police, the victims commissioner for England and…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/law/2026/nov/24/justice-system-failing-victims-at-every-point-uk-ministers-told",
+   "date": "2026-11-24T13:02:12+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/1770cb26e511e3432816e0321b8005045124f639/706_0_2700_2160/master/2700.jpg?width=700&quality=85&auto=format&fit=max&s=796eb149a142187becfad7d092a429ae",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Edward George/Alamy"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T13:19:13+00:00"
+  },
+  {
    "id": "d7ef7bd7d5948948",
    "title": "Iran files lawsuits in US, EU courts: Will it get justice for ‘war crimes’?",
    "summary": "As Iran seeks accountability and compensation for alleged war crimes, experts say legal proceedings face steep hurdles.",
@@ -224,50 +286,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T07:56:43+00:00"
-  },
-  {
-   "id": "86afad3ac3241cff",
-   "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
-   "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-   "date": "2026-11-24T12:50:03+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Polsat News/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f878e2eee7efb8be6005f798607a9513dce68c23/541_0_2416_1934/master/2416.jpg?width=700&quality=85&auto=format&fit=max&s=c2b831cbbd82d854b4f8528b14943a59",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:37:27+00:00"
-  },
-  {
-   "id": "2dd5afc16ba61c3f",
-   "title": "Farage suggests he wouldn’t work with Tories on campaign against rejoining EU and ‘will never trust them again’ – UK politics live",
-   "summary": "The Reform UK leader, still under investigation by the parliamentary watchdog, says he doesn’t believe the Tories Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-   "date": "2026-11-24T12:48:23+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Carl Court/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6fe99610ea3d772a960225ef129dcddcb04367eb/646_0_4531_3627/master/4531.jpg?width=700&quality=85&auto=format&fit=max&s=8bb97271dbe068499454c7e9acc647ff",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:00:35+00:00"
   },
   {
    "id": "cd565fb56edad974",
@@ -791,21 +809,19 @@
   },
   {
    "id": "d092bdbd1c44e1d7",
-   "title": "Draft budget bill proposes sweeping new land-seizure powers for high-speed rail",
+   "title": "Ottawa proposes sweeping new land-seizure powers for Alto high speed rail project",
    "summary": "The federal government is proposing to scrap standard expropriation rules for Canada's first high-speed rail project.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/alto-expropriation-changes-9.7433464?cmp=rss",
    "date": "2026-11-24T09:00:00+00:00",
    "topic": "federal",
    "region": "local",
-   "tags": [
-    "economy"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/17dddc4e-e851-4d9b-8708-cd893371ac7f,1791571515599/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/17dddc4e-e851-4d9b-8708-cd893371ac7f,1791571515599/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:09:44+00:00"
@@ -822,9 +838,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/86f8120c-35b9-41ef-b361-96715800c71c,1795518331343/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C131%2C5724%2C3219%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/86f8120c-35b9-41ef-b361-96715800c71c,1795518331343/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C131%2C5724%2C3219%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:09:44+00:00"
@@ -841,9 +857,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/f5894fac-5674-4d5a-afd6-3d5475c9ab81,1795487440947/full/max/0/default.jpg?im=Crop%2Crect%3D%281068%2C165%2C2511%2C1412%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/f5894fac-5674-4d5a-afd6-3d5475c9ab81,1795487440947/full/max/0/default.jpg?im=Crop%2Crect%3D%281068%2C165%2C2511%2C1412%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:09:44+00:00"
@@ -860,9 +876,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/c6b07047-80a4-44fa-b10c-7f2dd9755fb4,1795471797746/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C283%2C4510%2C2536%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/c6b07047-80a4-44fa-b10c-7f2dd9755fb4,1795471797746/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C283%2C4510%2C2536%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:09:44+00:00"
@@ -6893,26 +6909,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-21T13:36:25+00:00"
-  },
-  {
-   "id": "1c20aabfa0ef2b66",
-   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T13:17:38+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T12:22:32+00:00"
   }
  ]
 }

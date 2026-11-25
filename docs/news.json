@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T22:35:21+00:00",
+ "generatedAt": "2026-11-25T22:44:49+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -177,9 +177,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/db52ea27-7f21-470c-a64a-a9bd5fbbc5a2,1795645423961/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C307%2C2659%2C1495%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/db52ea27-7f21-470c-a64a-a9bd5fbbc5a2,1795645423961/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C307%2C2659%2C1495%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T22:35:21+00:00"
@@ -196,12 +196,32 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/b41c9061-1da8-49e3-a5f9-9ace70c719d4,1795641691168/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C6000%2C3375%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/b41c9061-1da8-49e3-a5f9-9ace70c719d4,1795641691168/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C6000%2C3375%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T22:35:21+00:00"
+  },
+  {
+   "id": "c5c4622c9bda83e3",
+   "title": "Australian politics live: Greens say Liberal-One Nation defector just ‘changing billionaire donor’",
+   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+   "date": "2026-11-25T22:27:07+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/268377c3499d542a8941cdae822ad8c48c840b31/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=59bbf9e4377dad06e9627d115ac704ed",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Mick Tsikas/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:56:31+00:00"
   },
   {
    "id": "e3b02cc2efa76f0e",
@@ -215,33 +235,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/51/851b3946-101a-5eb7-b0c6-40113e523704/6b076041ac766.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 764,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/51/851b3946-101a-5eb7-b0c6-40113e523704/6b076041ac766.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/51/851b3946-101a-5eb7-b0c6-40113e523704/6b076041ac766.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/51/851b3946-101a-5eb7-b0c6-40113e523704/6b076041ac766.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T22:35:21+00:00"
-  },
-  {
-   "id": "c5c4622c9bda83e3",
-   "title": "Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
-   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-25T22:10:41+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mick Tsikas/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ce6cb56abf202649179c638f3a9b93b6efd40887/817_0_3829_3065/master/3829.jpg?width=700&quality=85&auto=format&fit=max&s=13e38468bb20b12465f415deddc99dba",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T19:56:31+00:00"
   },
   {
    "id": "f71b0de5471068ea",
@@ -476,9 +476,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/dcce8b2a-379d-47cc-a56c-f662e606b043,1760119273968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1180%2C663%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/dcce8b2a-379d-47cc-a56c-f662e606b043,1760119273968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1180%2C663%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T20:33:56+00:00"

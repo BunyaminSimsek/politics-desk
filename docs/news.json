@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T13:42:34+00:00",
+ "generatedAt": "2026-11-25T13:52:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,70 @@
  ],
  "items": [
   {
+   "id": "c693fbc0a214528b",
+   "title": "US court convicts Huawei of theft: A history of Chinese firm’s global woes",
+   "summary": "Chinese tech giant has faced legal problems from Europe to Asia, and its products have been banned in trade war with US.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss",
+   "date": "2026-11-25T13:37:51+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2024/03/2021-06-23T213734Z_2018083332_RC2J6O9U7F43_RTRMADP_3_HUAWEI-5G-1-1709274412.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2024/03/2021-06-23T213734Z_2018083332_RC2J6O9U7F43_RTRMADP_3_HUAWEI-5G-1-1709274412.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T13:52:25+00:00"
+  },
+  {
+   "id": "ce3d5df3befb05f9",
+   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "date": "2026-11-25T13:32:22+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
+    "w": 700
+   },
+   "breaking": true,
+   "addedAt": "2026-11-25T11:51:19+00:00"
+  },
+  {
+   "id": "c7d3f2302a2528f8",
+   "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
+   "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+   "date": "2026-11-25T13:32:11+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Andy Rain/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=700&quality=85&auto=format&fit=max&s=1e6af5775cfc5ae74b9ce9db4d803c45",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T09:42:32+00:00"
+  },
+  {
    "id": "efd29e92af4bd185",
    "title": "Opposition MPs say they want answers on planned Parks Canada cuts",
    "summary": "Opposition MPs are looking for answers about planned cuts to Parks Canada, with one saying Ottawa shouldn't proceed with its plan to continue free admission to parks through 2027.",
@@ -203,28 +267,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T13:32:55+00:00"
-  },
-  {
-   "id": "c7d3f2302a2528f8",
-   "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
-   "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-   "date": "2026-11-25T13:25:38+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=700&quality=85&auto=format&fit=max&s=1e6af5775cfc5ae74b9ce9db4d803c45",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T09:42:32+00:00"
   },
   {
    "id": "2a7a6d54e9abce15",
@@ -267,28 +309,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T10:37:27+00:00"
-  },
-  {
-   "id": "ce3d5df3befb05f9",
-   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-   "date": "2026-11-25T13:16:56+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
-    "w": 700
-   },
-   "breaking": true,
-   "addedAt": "2026-11-25T11:51:19+00:00"
   },
   {
    "id": "bb246a3f102f5b95",
@@ -588,9 +608,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/530bc4de-9c69-4cb2-b33b-bf2ab68804eb,1777315508788/full/max/0/default.jpg?im=Crop%2Crect%3D%2813%2C0%2C3557%2C2000%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/530bc4de-9c69-4cb2-b33b-bf2ab68804eb,1777315508788/full/max/0/default.jpg?im=Crop%2Crect%3D%2813%2C0%2C3557%2C2000%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:41:49+00:00"
@@ -8285,26 +8305,6 @@
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03005929fe-1795358809.jpg?resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03005929fe-1795358809.jpg?resize=1200%2C800",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T15:22:00+00:00"
-  },
-  {
-   "id": "07da65449f597e29",
-   "title": "How did Republicans lose so badly in North Carolina?",
-   "summary": "Republicans suffered sweeping losses across the US in the midterm elections, but perhaps nowhere as large as here Republicans suffered sweeping losses across the country in the midterm elections, but perhaps nowhere as large as North Carolina .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/22/republicans-lose-north-carolina",
-   "date": "2026-11-22T15:00:30+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kylie Cooper/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5d2a6cedacc58722d23ad3e97679243dd5038818/1104_445_3625_2899/master/3625.jpg?width=700&quality=85&auto=format&fit=max&s=7b913cd0527d5d00841a87b40f16deac",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-22T15:22:00+00:00"

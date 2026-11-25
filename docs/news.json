@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T21:39:58+00:00",
+ "generatedAt": "2026-11-25T21:48:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "Global News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-e1795642363139.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-e1795642363139.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-e1795642363139.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-e1795642363139.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T21:39:58+00:00"
@@ -416,9 +416,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/19eee9da-b089-47bb-b022-67428e733418,1795634780715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C27%2C7675%2C4317%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/19eee9da-b089-47bb-b022-67428e733418,1795634780715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C27%2C7675%2C4317%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:46:59+00:00"
@@ -2904,7 +2904,7 @@
    "id": "521c81e0ebbedca1",
    "title": "Pentagon prepared to 'up the ante' in defence dispute with Canada",
    "summary": "The Pentagon is threatening further, unspecified measures against Canada unless Ottawa prioritizes continental defence in its military buildup. A senior U.S. official accused Canada of having NATO's widest gap between rhetoric and reality.",
-   "source": "CBC World",
+   "source": "CBC News",
    "url": "https://www.cbc.ca/news/politics/defence-canada-us-pentagon-spending-9.7434887?cmp=rss",
    "date": "2026-11-25T00:08:28+00:00",
    "topic": "federal",

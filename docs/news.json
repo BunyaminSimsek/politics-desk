@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T01:44:15+00:00",
+ "generatedAt": "2026-11-25T01:53:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 30
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -166,6 +166,88 @@
  ],
  "items": [
   {
+   "id": "b74d337193cece0a",
+   "title": "Inflation rate jumps to 4.9% as Australia’s cost-of-living crisis intensifies",
+   "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Surging fuel costs and the end of…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
+   "date": "2026-11-25T01:42:07+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Lisa Maree Williams/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=a044cef5241bf17570f5c69af9dbe7d1",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T01:16:55+00:00"
+  },
+  {
+   "id": "886e6fb7c86dd637",
+   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
+   "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "date": "2026-11-25T01:40:04+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evan Vucci/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=ed6c61ac8380bab4cae16a5526b786a5",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
+   "id": "b7d838463719ca53",
+   "title": "China investigates politburo star in Xi Jinping’s latest purge",
+   "summary": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025 China has launched an investigation into Shanghai’s Communist party chief Chen Jining, a member of the country’s elite…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
+   "date": "2026-11-25T01:31:46+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/c4f99890561c34364853932923e32733830c648c/451_0_6570_5256/master/6570.jpg?width=700&quality=85&auto=format&fit=max&s=67ec0eb5b7208a76eb4f252562db95e7",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Carl Court/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T01:53:18+00:00"
+  },
+  {
+   "id": "659b08b1794a5b3b",
+   "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+   "summary": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+   "date": "2026-11-25T01:30:44+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T01:53:18+00:00"
+  },
+  {
    "id": "4ae82ad1b702c41f",
    "title": "Politics live: Marles apologises to LGBTQ+ veterans; Australia and Solomon Islands sign ‘historic’ treaty",
    "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives…",
@@ -188,7 +270,7 @@
   {
    "id": "381ac6ba3a8c5660",
    "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
-   "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon.",
+   "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 Get our breaking news email , free app or daily news podcast Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
    "date": "2026-11-25T01:21:08+00:00",
@@ -204,26 +286,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T01:07:43+00:00"
-  },
-  {
-   "id": "886e6fb7c86dd637",
-   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
-   "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-25T01:14:44+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evan Vucci/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=ed6c61ac8380bab4cae16a5526b786a5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T11:37:31+00:00"
   },
   {
    "id": "a7370772a2f70de9",
@@ -269,7 +331,7 @@
   },
   {
    "id": "dad1a10a86cc9ab4",
-   "title": "One lame duck and two turkeys as Trump plays the hits at pardon ceremony",
+   "title": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
    "summary": "Levity was in short supply as president, reeling from midterms rout, talked up his achievements – and fixated on White House vanity project For some, it was his pardoning of the January 6 rioters or the deployment of masked ICE agents.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
@@ -288,31 +350,9 @@
    "addedAt": "2026-11-25T01:07:43+00:00"
   },
   {
-   "id": "b74d337193cece0a",
-   "title": "Inflation rate jumps to 4.9% as Australia’s cost-of-living crisis intensifies",
-   "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Surging fuel costs and the end of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
-   "date": "2026-11-25T00:56:44+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lisa Maree Williams/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=a044cef5241bf17570f5c69af9dbe7d1",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T01:16:55+00:00"
-  },
-  {
    "id": "a5c3c1aa9c574547",
    "title": "What will Victoria’s election result mean for nine datacentre projects awaiting approval?",
-   "summary": "Despite community backlash, some firms are confident they’ll get the greenlight as the Coalition says datatecentres ‘will be an important part of Victoria’s future’ Follow our Australia politics live blog for latest updates Get our breaking news email , free…",
+   "summary": "Despite community backlash, some firms are confident they will get the green light as Coalition says datacentres ‘will be an important part of Victoria’s future’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
    "date": "2026-11-25T00:42:17+00:00",
@@ -596,7 +636,7 @@
   {
    "id": "1916675a979626e7",
    "title": "Doug Ford praises Olivia Chow for using ‘strong mayor’ powers",
-   "summary": "Mayor Olivia Chow's decision to use the powers she once denounced as \"not democratic\" is being met with mixed reviews at Queen's Park.",
+   "summary": "Mayor Olivia Chow's decision to use the powers she once denounced as 'not democratic' is being met with mixed reviews at Queen's Park.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/provincial/doug-ford-praises-olivia-chow-for-using-strong-mayor-powers/article_2c8e1d0f-f5c0-4610-91b7-444b1bd1b217.html",
    "date": "2026-11-24T22:00:00+00:00",
@@ -1092,10 +1132,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/a77b3a2657cdfd02919f85c9cb987c3f09684340433855a20f38a734090c1c4e.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1017,
     "h": 768,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/a77b3a2657cdfd02919f85c9cb987c3f09684340433855a20f38a734090c1c4e.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/a77b3a2657cdfd02919f85c9cb987c3f09684340433855a20f38a734090c1c4e.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/a77b3a2657cdfd02919f85c9cb987c3f09684340433855a20f38a734090c1c4e.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1017
    },
    "breaking": false,
    "addedAt": "2026-11-25T01:44:15+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T20:06:16+00:00",
+ "generatedAt": "2026-11-25T20:15:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "Global News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "CTV News",
@@ -169,19 +169,19 @@
    "id": "69c16b0bbd41031a",
    "title": "NATO's No. 2 commander strikes different tone on Canada than Pentagon",
    "summary": "NATO's deputy commander offers a markedly different assessment of Canada's military than the Pentagon, praising its contribution to European deterrence and efforts to rebuild its forces in an exclusive broadcast interview with CBC News.",
-   "source": "CBC News",
+   "source": "CBC World",
    "url": "https://www.cbc.ca/news/politics/defence-spending-pentagon-nato-carney-9.7435919?cmp=rss",
    "date": "2026-11-25T19:59:43+00:00",
-   "topic": "federal",
-   "region": "local",
+   "topic": "europe",
+   "region": "world",
    "tags": [
     "defence"
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f4914af2-0625-4a31-8794-a19731dcd709,1795635682295/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C2768%2C1557%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f4914af2-0625-4a31-8794-a19731dcd709,1795635682295/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C2768%2C1557%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T20:06:16+00:00"
@@ -791,7 +791,7 @@
   {
    "id": "4844fcb77e92d23f",
    "title": "Ottawa taps Qatar to offer consular help to Canadians in Afghanistan",
-   "summary": "OTTAWA - Qatar is partnering with Ottawa to provide consular services to Canadians in Afghanistan.",
+   "summary": "OTTAWA - Qatar is partnering with Ottawa to provide consular services to Canadians in Afghanistan that have been unavailable since the Taliban retook the country five years ago.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/ottawa-taps-qatar-to-offer-consular-help-to-canadians-in-afghanistan/article_c3e55ec4-448f-54b5-8463-05554fe13ef9.html",
    "date": "2026-11-25T17:15:33+00:00",

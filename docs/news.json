@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T14:29:14+00:00",
+ "generatedAt": "2026-11-25T14:38:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -171,11 +171,12 @@
    "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-   "date": "2026-11-25T14:13:36+00:00",
-   "topic": "asia",
+   "date": "2026-11-25T14:29:36+00:00",
+   "topic": "us",
    "region": "world",
    "tags": [
-    "economy"
+    "trade",
+    "defence"
    ],
    "kind": "news",
    "image": {
@@ -186,6 +187,28 @@
    },
    "breaking": true,
    "addedAt": "2026-11-25T11:51:19+00:00"
+  },
+  {
+   "id": "c7d3f2302a2528f8",
+   "title": "Burnham says it is ‘moral imperative’ to get to truth of what happened to nuclear test veterans – UK politics live",
+   "summary": "The prime minister says compensation should be paid but only after a full review Diane Taylor is a Guardian reporter who covers migration.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+   "date": "2026-11-25T14:20:09+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Andy Rain/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=700&quality=85&auto=format&fit=max&s=1e6af5775cfc5ae74b9ce9db4d803c45",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T09:42:32+00:00"
   },
   {
    "id": "a61ab511a42dd98e",
@@ -228,28 +251,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T13:52:25+00:00"
-  },
-  {
-   "id": "c7d3f2302a2528f8",
-   "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
-   "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-   "date": "2026-11-25T13:32:11+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=700&quality=85&auto=format&fit=max&s=1e6af5775cfc5ae74b9ce9db4d803c45",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T09:42:32+00:00"
   },
   {
    "id": "efd29e92af4bd185",
@@ -1845,7 +1846,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

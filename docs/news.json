@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T11:32:46+00:00",
+ "generatedAt": "2026-11-25T11:41:49+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "CBC World",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 30
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "8ae67be5d77483f5",
+   "title": "Man to be sentenced for fatal 2025 crash that killed Ontario father of three",
+   "summary": "A driver in a head-on crash that killed a father of three last year is expected to be sentenced Tuesday in the case that prompted the Ontario government to introduce tougher dangerous driving penalties.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/dangerous-driving-sentencing-cristillo-kirubananthan-9.7435165?cmp=rss",
+   "date": "2026-11-25T11:35:28+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/530bc4de-9c69-4cb2-b33b-bf2ab68804eb,1777315508788/full/max/0/default.jpg?im=Crop%2Crect%3D%2813%2C0%2C3557%2C2000%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T11:41:49+00:00"
+  },
+  {
    "id": "a38407f505fb0458",
    "title": "Ottawa doesn’t have a monopoly on First Nations democracy",
    "summary": "When Manitoba Premier Wab Kinew called recently for the Indian Act to be repealed, he restarted a debate about the federal government’s policies with respect to First Nations.",
@@ -177,10 +196,10 @@
    "tags": [],
    "kind": "analysis",
    "image": {
-    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Table-1-Leadership-selection-structure.png?resize=1200%2C800",
-    "w": 713,
     "h": 165,
-    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Table-1-Leadership-selection-structure.png?resize=640%2C427"
+    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Table-1-Leadership-selection-structure.png?resize=640%2C427",
+    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Table-1-Leadership-selection-structure.png?resize=1200%2C800",
+    "w": 713
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:32:46+00:00"
@@ -221,13 +240,33 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9e08eeab0ec12cf5f7ba59ef8c7028f6affd5184/104_0_1840_1472/master/1840.jpg?width=700&quality=85&auto=format&fit=max&s=6e153c5a88881d5f5dbf493e6142c080",
-    "w": 700,
+    "credit": "Photograph: Reuters",
     "h": 560,
-    "credit": "Photograph: Reuters"
+    "url": "https://i.guim.co.uk/img/media/9e08eeab0ec12cf5f7ba59ef8c7028f6affd5184/104_0_1840_1472/master/1840.jpg?width=700&quality=85&auto=format&fit=max&s=6e153c5a88881d5f5dbf493e6142c080",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:32:46+00:00"
+  },
+  {
+   "id": "a829fd4dd1875e9e",
+   "title": "Indian Cockroach movement leader asks court for permission to fly to UK",
+   "summary": "Officials at Delhi airport stopped Saurav Das from boarding flight to Britain, where students have invited him to speak A leader of India’s youth-led Cockroach movement has asked the Delhi high court to give him permission to fly to the UK after immigration…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk",
+   "date": "2026-11-25T11:15:35+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/5b3f61e3ae43b66936a59bd1fded59309335e537/478_69_4441_3552/master/4441.jpg?width=700&quality=85&auto=format&fit=max&s=e037ec1011d2c97705ac51f4e928858d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Bhawika Chhabra/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T11:41:49+00:00"
   },
   {
    "id": "dd390125b4c42002",
@@ -1258,10 +1297,10 @@
    ],
    "kind": "news",
    "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/849c/live/4d5b1c90-e815-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/849c/live/4d5b1c90-e815-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-25T04:11:21+00:00"
@@ -8263,46 +8302,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T13:21:39+00:00"
-  },
-  {
-   "id": "f908da6e29c938c7",
-   "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
-   "summary": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
-   "date": "2026-11-22T12:12:07+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jintak Han/ZUMA Press Wire/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=700&quality=85&auto=format&fit=max&s=b46152725198d6ed240ca4182ff7202d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T05:16:03+00:00"
-  },
-  {
-   "id": "cd078dd643252a99",
-   "title": "CEO of funding agency for UK science and research criticised by union over cuts",
-   "summary": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
-   "date": "2026-11-22T12:00:28+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Christopher Thomond/The Guardian",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9350c277cd73ad7cf6c87f3b2d28a0d673278d82/1297_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=0e10dac988c6bb659279e2fe75d8ec7e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T12:17:19+00:00"
   }
  ]
 }

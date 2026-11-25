@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T14:56:51+00:00",
+ "generatedAt": "2026-11-25T15:06:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 13
+   "kept": 12
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,46 +166,26 @@
  ],
  "items": [
   {
-   "id": "8e86483e0ecf55b8",
-   "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-   "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T14:46:41+00:00",
-   "topic": "ukraine",
+   "id": "004d71e16a52d591",
+   "title": "Trump proposing new tariffs on 14 partners including China and European Union",
+   "summary": "The administration is suggesting an added 20% tax on Chinese imports, which would bring the total to about 40% US politics live – latest updates Donald Trump is proposing new tariffs on 14 trading partners, including China and the European Union, that would…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+   "date": "2026-11-25T14:59:44+00:00",
+   "topic": "asia",
    "region": "world",
    "tags": [
-    "defence"
+    "trade"
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg",
-    "w": 1200,
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg"
+    "url": "https://i.guim.co.uk/img/media/ebe197c4ddf037bb7f5929b74ddafc3544202caa/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=52464c6e349b5bf9e2bcb9dcfa7d5321",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Bloomberg/Getty Images"
    },
    "breaking": false,
-   "addedAt": "2026-11-25T14:47:42+00:00"
-  },
-  {
-   "id": "ce3d5df3befb05f9",
-   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-   "date": "2026-11-25T14:39:16+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
-    "w": 700
-   },
-   "breaking": true,
-   "addedAt": "2026-11-25T11:51:19+00:00"
+   "addedAt": "2026-11-25T15:06:16+00:00"
   },
   {
    "id": "c7d3f2302a2528f8",
@@ -213,7 +193,7 @@
    "summary": "The prime minister says compensation should be paid but only after a full review Diane Taylor is a Guardian reporter who covers migration.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-   "date": "2026-11-25T14:20:09+00:00",
+   "date": "2026-11-25T14:59:17+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -228,6 +208,70 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T09:42:32+00:00"
+  },
+  {
+   "id": "26f4b432db193dc1",
+   "title": "Trump announces new trade tariffs: Which countries will they target?",
+   "summary": "The US is planning tariffs on 14 economies it accuses of using subsidies to help their industries overproduce.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
+   "date": "2026-11-25T14:54:44+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b06e0c38c0bf-1795612867.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b06e0c38c0bf-1795612867.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T15:06:16+00:00"
+  },
+  {
+   "id": "ce3d5df3befb05f9",
+   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "date": "2026-11-25T14:54:08+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
+    "w": 700
+   },
+   "breaking": true,
+   "addedAt": "2026-11-25T11:51:19+00:00"
+  },
+  {
+   "id": "8e86483e0ecf55b8",
+   "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+   "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T14:46:41+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T14:47:42+00:00"
   },
   {
    "id": "a61ab511a42dd98e",
@@ -1865,7 +1909,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8267,47 +8311,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T06:11:10+00:00"
-  },
-  {
-   "id": "8bef96f3ec7bc375",
-   "title": "Pierre Poilievre holds a press conference",
-   "summary": "The Conservative leadder is speaking to reporters alongside his immigration critic, Conservative MP Michelle Rempel Garner",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/player/play/9.7431803?cmp=rss",
-   "date": "2026-11-22T16:30:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/c53b92a7-45c1-4167-85e5-6db6090f6528,1795358646496/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C110%2C1920%2C1080%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T16:35:32+00:00"
-  },
-  {
-   "id": "a13ce2be8e707384",
-   "title": "Cop31 climate talks break down as key deal rejected",
-   "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels The EU, the UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate, which…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
-   "date": "2026-11-22T16:14:46+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Yasin Akgül/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f4d171fdee03f0450e71d98657eea9f310f36fd9/435_0_3766_3014/master/3766.jpg?width=700&quality=85&auto=format&fit=max&s=522cbdd26a4d444b141a899b5a43071d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T13:03:23+00:00"
   }
  ]
 }

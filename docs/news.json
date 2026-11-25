@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T05:43:26+00:00",
+ "generatedAt": "2026-11-25T05:52:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "460555fe2372fbf1",
+   "title": "Xi's anti-corruption campaign ensnares rising star in party",
+   "summary": "The probe into Shanghai party chief Chen Jining is part of the widest purge in the party's Politburo since the end of the Cultural Revolution.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6y80kk4zmdno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T05:37:25+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b050/live/cbd85490-e886-11f1-8394-1391ad77445f.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b050/live/cbd85490-e886-11f1-8394-1391ad77445f.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T05:52:29+00:00"
+  },
   {
    "id": "9df6a7e0d70d208c",
    "title": "In charts: how power could shift in Europe’s big year of elections",

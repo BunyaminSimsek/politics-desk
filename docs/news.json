@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T05:06:54+00:00",
+ "generatedAt": "2026-11-25T05:15:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 13
+   "kept": 15
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3fb443520d5ae15fd4e46dca873678b8da5e63ea/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=fe7114fd09ea258af70aa0461f6b01b7",
-    "w": 700,
+    "credit": "Photograph: Susana Vera/Reuters",
     "h": 560,
-    "credit": "Photograph: Susana Vera/Reuters"
+    "url": "https://i.guim.co.uk/img/media/3fb443520d5ae15fd4e46dca873678b8da5e63ea/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=fe7114fd09ea258af70aa0461f6b01b7",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T05:06:54+00:00"
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/2d223c8b5e26f79cb3997f0a2575630d648c5211/551_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=373476ac2bda7b8b1ace00c1974e3149",
-    "w": 700,
+    "credit": "Photograph: Reuters",
     "h": 560,
-    "credit": "Photograph: Reuters"
+    "url": "https://i.guim.co.uk/img/media/2d223c8b5e26f79cb3997f0a2575630d648c5211/551_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=373476ac2bda7b8b1ace00c1974e3149",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T05:06:54+00:00"
@@ -832,7 +832,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

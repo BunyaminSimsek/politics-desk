@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T04:20:37+00:00",
+ "generatedAt": "2026-11-25T04:30:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -674,9 +674,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/5d11c184-cce0-42ba-ab6c-6616b1eb01e2,1795564238220/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C478%2C8249%2C4640%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/5d11c184-cce0-42ba-ab6c-6616b1eb01e2,1795564238220/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C478%2C8249%2C4640%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T00:11:29+00:00"
@@ -797,10 +797,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T04:20:37+00:00"

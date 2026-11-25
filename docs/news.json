@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T20:33:56+00:00",
+ "generatedAt": "2026-11-25T20:43:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,66 @@
  ],
  "items": [
   {
+   "id": "54af537bc9e2caec",
+   "title": "What’s behind Europe’s protests?",
+   "summary": "Increase in protests and industrial disputes across EU and UK.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/25/whats-behind-europes-protests?traffic_source=rss",
+   "date": "2026-11-25T20:30:22+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795638389.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795638389.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T20:43:33+00:00"
+  },
+  {
+   "id": "ce3d5df3befb05f9",
+   "title": "‘I feel free of everything evil’: Kilmar Ábrego García lands in Spain after choosing to leave US - live",
+   "summary": "Before his departure, Immigration and Customs Enforcement agents met him at the airport and removed his ankle monitor, an advocacy group reported Kilmar Ábrego García lands in Spain after ‘leaving happy’",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "date": "2026-11-25T20:29:48+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Fernando Villar/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/fedd12377351e3e84402029d8354b6185d25dc6e/129_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=c46606135046ab652da6f7ffdd0d51ec",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T11:51:19+00:00"
+  },
+  {
+   "id": "abe9841a3ae012d8",
+   "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
+   "summary": "The judges' recommendations came as Israel's longest-serving prime minister fights for his political survival.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss",
+   "date": "2026-11-25T20:29:22+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b072e2c3fac-1795632684.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b072e2c3fac-1795632684.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T20:43:33+00:00"
+  },
+  {
    "id": "d29487eac4f69bea",
    "title": "'Crypto King' investor seen on security video buying phone used in alleged kidnapping, officer testifies",
    "summary": "Surveillance video shows one of so-called \"Crypto King\" Aiden Pleterski's alleged kidnappers purchasing a flip phone used in the alleged kidnapping, a Toronto police officer testified in Ontario Superior Court Wednesday.",
@@ -177,12 +237,32 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/dcce8b2a-379d-47cc-a56c-f662e606b043,1760119273968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1180%2C663%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/dcce8b2a-379d-47cc-a56c-f662e606b043,1760119273968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1180%2C663%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T20:33:56+00:00"
+  },
+  {
+   "id": "c5c4622c9bda83e3",
+   "title": "Australian politics live: federal Liberal senator Leah Blyth defects to One Nation",
+   "summary": "Get our breaking news email , free app or daily news podcast Blyth defection shows disunity in Liberal party: Cabinet minister Labor will get a good kick out of this story today, particularly after securing a few legislative wins with the help of the Greens…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+   "date": "2026-11-25T20:24:38+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Leah Blyth - Liberal Senate Candidate Facebook Page",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b8e0686e082ee97c403961ee3228cab6cd5bcf48/222_0_1721_1377/master/1721.jpg?width=700&quality=85&auto=format&fit=max&s=3f656f608e3619e7779d41c3a6b1f3b9",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:56:31+00:00"
   },
   {
    "id": "69c16b0bbd41031a",
@@ -204,46 +284,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T20:06:16+00:00"
-  },
-  {
-   "id": "c5c4622c9bda83e3",
-   "title": "Australian politics live: federal Liberal senator Leah Blyth defects to One Nation",
-   "summary": "Get our breaking news email , free app or daily news podcast Nationals leader Matt Canavan has called Leah Blyth’s defection to One Nation “disappointing on a number of levels”.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-25T19:59:21+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Leah Blyth - Liberal Senate Candidate Facebook Page",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b8e0686e082ee97c403961ee3228cab6cd5bcf48/222_0_1721_1377/master/1721.jpg?width=700&quality=85&auto=format&fit=max&s=3f656f608e3619e7779d41c3a6b1f3b9",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T19:56:31+00:00"
-  },
-  {
-   "id": "ce3d5df3befb05f9",
-   "title": "‘I feel free of everything evil’: Kilmar Ábrego García lands in Spain after choosing to leave US - live",
-   "summary": "Before his departure, Immigration and Customs Enforcement agents met him at the airport and removed his ankle monitor, an advocacy group reported",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-   "date": "2026-11-25T19:51:20+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Fernando Villar/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fedd12377351e3e84402029d8354b6185d25dc6e/129_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=c46606135046ab652da6f7ffdd0d51ec",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T11:51:19+00:00"
   },
   {
    "id": "fa1d869c0bc8898c",
@@ -8257,48 +8297,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T03:12:46+00:00"
-  },
-  {
-   "id": "e2be825e0d55bb5f",
-   "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
-   "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump has headlined his third cryptocurrency gala at his ​country club in Virginia, rewarding top holders of his own meme coin, as Democrats…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
-   "date": "2026-11-23T08:33:10+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kevin Dietsch/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/79b37a2f8a198376688fa54f0cdba008ce48d808/801_0_3988_3192/master/3988.jpg?width=700&quality=85&auto=format&fit=max&s=ad04a537268aeda6ddd71fc03bc516dd",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T00:36:19+00:00"
-  },
-  {
-   "id": "e7e69ac7ea24c607",
-   "title": "Constitutional law expert brands defence bill allowing secret security rules ‘lazy and irresponsible’",
-   "summary": "Anne Twomey says lack of proper debate around bill is ‘flabbergasting’ amid concerns over extension of ministerial powers Get our daily political email , free app or daily news podcast Labor’s new defence bill is “lazy and irresponsible” lawmaking, one of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible",
-   "date": "2026-11-23T08:23:55+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Pte Jacob Joseph/AUSTRALIAN DOD HANDOUT/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/365d2e6449a8aa487abccf8060963566f52cd4dc/135_0_3175_2541/master/3175.jpg?width=700&quality=85&auto=format&fit=max&s=dca18fdc6103c8f748438d2f47341014",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T08:34:16+00:00"
   }
  ]
 }

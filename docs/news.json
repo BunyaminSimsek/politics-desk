@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T02:02:33+00:00",
+ "generatedAt": "2026-11-25T02:11:43+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T02:02:33+00:00"
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/b962796bea53cf339ac44ee52d0043644f41d4b1/450_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=30898d66834c6f4d0b40b047bdc99294",
-    "w": 700,
+    "credit": "Photograph: Mick Tsikas/EPA",
     "h": 560,
-    "credit": "Photograph: Mick Tsikas/EPA"
+    "url": "https://i.guim.co.uk/img/media/b962796bea53cf339ac44ee52d0043644f41d4b1/450_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=30898d66834c6f4d0b40b047bdc99294",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T02:02:33+00:00"
@@ -248,6 +248,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
+   "id": "2da9f6ced34b4d02",
+   "title": "Senegal fans celebrate AFCON legal victory over Morocco",
+   "summary": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
+   "date": "2026-11-25T01:39:53+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-NIC-2411-1795571603.png?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-NIC-2411-1795571603.png?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T02:11:43+00:00"
   },
   {
    "id": "b7d838463719ca53",
@@ -466,9 +486,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/5d11c184-cce0-42ba-ab6c-6616b1eb01e2,1795564238220/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C478%2C8249%2C4640%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/5d11c184-cce0-42ba-ab6c-6616b1eb01e2,1795564238220/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C478%2C8249%2C4640%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T00:11:29+00:00"
@@ -7930,50 +7950,6 @@
     "h": 800,
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b00990b1735-1795201291.jpg?resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b00990b1735-1795201291.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T02:31:43+00:00"
-  },
-  {
-   "id": "e5102d2b451f1adf",
-   "title": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
-   "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instructed people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens have won a supreme court injunction to stop an…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-   "date": "2026-11-22T02:08:49+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: supplied",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/96ab340872e588ad309196b07390be6b1c05c064/0_0_935_748/master/935.jpg?width=700&quality=85&auto=format&fit=max&s=50806757fc5fd112480c6a731407982f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-21T00:52:47+00:00"
-  },
-  {
-   "id": "f6aacfdbb2d923f5",
-   "title": "Bessent confirms he’s living on US military base over Iran fears",
-   "summary": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
-   "date": "2026-11-22T02:05:50+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795313120.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795313120.jpg?quality=80&resize=1200%2C800",
     "w": 1200
    },
    "breaking": false,

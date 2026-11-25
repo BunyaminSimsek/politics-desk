@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T04:57:49+00:00",
+ "generatedAt": "2026-11-25T05:06:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 30
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,48 @@
   }
  ],
  "items": [
+  {
+   "id": "9df6a7e0d70d208c",
+   "title": "In charts: how power could shift in Europe’s big year of elections",
+   "summary": "More than half of EU voters will go to the polls in the next 12 months, with the far right targeting significant gains.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
+   "date": "2026-11-25T05:00:06+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/3fb443520d5ae15fd4e46dca873678b8da5e63ea/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=fe7114fd09ea258af70aa0461f6b01b7",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Susana Vera/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T05:06:54+00:00"
+  },
+  {
+   "id": "52b867026bfc0ee0",
+   "title": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
+   "summary": "With Iran’s proxy fighters encircling the temporary capital, residents and NGOs prepare to evacuate Hussein fled his home six years ago after it fell under Houthi control, moving as far south as he could to the port city of Aden, where there was a measure of…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
+   "date": "2026-11-25T05:00:06+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/2d223c8b5e26f79cb3997f0a2575630d648c5211/551_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=373476ac2bda7b8b1ace00c1974e3149",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T05:06:54+00:00"
+  },
   {
    "id": "a87455069b89efa4",
    "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",

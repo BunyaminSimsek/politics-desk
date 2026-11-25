@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T07:23:47+00:00",
+ "generatedAt": "2026-11-25T07:33:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "4f8adef9ea64bd34",
+   "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+   "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T07:26:54+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T07:33:06+00:00"
+  },
+  {
    "id": "4ae82ad1b702c41f",
    "title": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
    "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives…",
@@ -197,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/af41bcfc141d1368dbf63412f77e9419c1fde3aa/388_0_2703_2162/master/2703.jpg?width=700&quality=85&auto=format&fit=max&s=f6d549461bc90792babd3c3811909533",
-    "w": 700,
+    "credit": "Photograph: Jacob King/PA",
     "h": 560,
-    "credit": "Photograph: Jacob King/PA"
+    "url": "https://i.guim.co.uk/img/media/af41bcfc141d1368dbf63412f77e9419c1fde3aa/388_0_2703_2162/master/2703.jpg?width=700&quality=85&auto=format&fit=max&s=f6d549461bc90792babd3c3811909533",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T07:23:47+00:00"
@@ -266,6 +286,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T02:02:33+00:00"
+  },
+  {
+   "id": "bcec56b02c6d84bf",
+   "title": "UK sent sex offender refugee to African country in undisclosed deal",
+   "summary": "The deal is said to be the first known case of the UK government forcibly resettling a refugee permanently overseas.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6z7407zrgwvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T06:00:45+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/10b2/live/e454de40-e89e-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/10b2/live/e454de40-e89e-11f1-a094-5fdc692f3e33.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T07:33:06+00:00"
   },
   {
    "id": "3849d6f0077c9a95",
@@ -683,7 +725,7 @@
   },
   {
    "id": "f4857084d228e708",
-   "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+   "title": "Trump's rescue of Nvidia's Huang brings political risks",
    "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",

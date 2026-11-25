@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T06:37:48+00:00",
+ "generatedAt": "2026-11-25T06:47:00+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "0f7af8237d936828",
+   "title": "Court to rule on South African president's bid to set aside 'Farmgate' report",
+   "summary": "South Africa's former spy chief revealed the theft of large sums of cash, hidden in a sofa, in 2022.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T06:41:18+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T06:47:00+00:00"
+  },
+  {
+   "id": "4ae82ad1b702c41f",
+   "title": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
+   "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+   "date": "2026-11-25T06:37:35+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Ethan James/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/42365c997a7e64f7397399f6bb94257386b759d8/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=dec3dad4dcffb1f2258395d1160f43f3",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T20:37:22+00:00"
+  },
+  {
    "id": "a87455069b89efa4",
    "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
    "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
@@ -186,26 +226,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T02:02:33+00:00"
-  },
-  {
-   "id": "4ae82ad1b702c41f",
-   "title": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
-   "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-   "date": "2026-11-25T06:25:54+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/42365c997a7e64f7397399f6bb94257386b759d8/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=dec3dad4dcffb1f2258395d1160f43f3",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Ethan James/AAP"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T20:37:22+00:00"
   },
   {
    "id": "3849d6f0077c9a95",

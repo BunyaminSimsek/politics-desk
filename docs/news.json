@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T15:15:21+00:00",
+ "generatedAt": "2026-11-25T15:24:28+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "a53ebf0226a3510d",
+   "title": "Beatles attraction at 3 Savile Row approved – with ban on rooftop gigs",
+   "summary": "Westminster council signs off on ‘cultural experience and exhibition’ at site where band last performed in public Fans of the Beatles will be able to stand on the Savile Row rooftop where the band held their final public performance, but any visitors hoping…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/music/2026/nov/25/beatles-attraction-savile-row-approved-ban-rooftop-gigs",
+   "date": "2026-11-25T15:12:28+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/bedd33d1fa780e4658a4365e02a5f53990849c3c/276_1639_2183_1746/master/2183.jpg?width=700&quality=85&auto=format&fit=max&s=a95ac76f7a4380b241568bf2b720c53a",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Evening Standard/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T15:24:28+00:00"
+  },
+  {
+   "id": "ce3d5df3befb05f9",
+   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "date": "2026-11-25T15:09:28+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
+    "w": 700
+   },
+   "breaking": true,
+   "addedAt": "2026-11-25T11:51:19+00:00"
+  },
+  {
+   "id": "c7d3f2302a2528f8",
+   "title": "Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’ – UK politics live",
+   "summary": "Pair clashed at PMQs over a video shot outside No 10 by TikToker Max Balegde Diane Taylor is a Guardian reporter who covers migration.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+   "date": "2026-11-25T15:09:24+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e4bc143c5a0521d085a742a9218aba3012f9fd1b/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=519c5f1417fdb666cc92ed2503e65c65",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Parliament Live"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T09:42:32+00:00"
+  },
+  {
    "id": "004d71e16a52d591",
    "title": "Trump proposing new tariffs on 14 partners including China and European Union",
    "summary": "The administration is suggesting an added 20% tax on Chinese imports, which would bring the total to about 40% US politics live – latest updates Donald Trump is proposing new tariffs on 14 trading partners, including China and the European Union, that would…",
@@ -188,28 +250,6 @@
    "addedAt": "2026-11-25T15:06:16+00:00"
   },
   {
-   "id": "c7d3f2302a2528f8",
-   "title": "Burnham says it is ‘moral imperative’ to get to truth of what happened to nuclear test veterans – UK politics live",
-   "summary": "The prime minister says compensation should be paid but only after a full review Diane Taylor is a Guardian reporter who covers migration.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-   "date": "2026-11-25T14:59:17+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=700&quality=85&auto=format&fit=max&s=1e6af5775cfc5ae74b9ce9db4d803c45",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T09:42:32+00:00"
-  },
-  {
    "id": "26f4b432db193dc1",
    "title": "Trump announces new trade tariffs: Which countries will they target?",
    "summary": "The US is planning tariffs on 14 economies it accuses of using subsidies to help their industries overproduce.",
@@ -230,26 +270,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T15:06:16+00:00"
-  },
-  {
-   "id": "ce3d5df3befb05f9",
-   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-   "date": "2026-11-25T14:54:08+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
-    "w": 700
-   },
-   "breaking": true,
-   "addedAt": "2026-11-25T11:51:19+00:00"
   },
   {
    "id": "8e86483e0ecf55b8",
@@ -275,7 +295,7 @@
   },
   {
    "id": "a61ab511a42dd98e",
-   "title": "Annual US consumer price inflation hits 3.8% – highest level since May",
+   "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
    "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting Consumer prices rose an annualized 3.8% in October, according to new inflation data released on Wednesday, the highest since May and the last…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
@@ -8289,28 +8309,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T17:21:25+00:00"
-  },
-  {
-   "id": "db8b49c438173e53",
-   "title": "Cop31 as it happened: EU and others reject deal as longest climate summit comes to fractious end",
-   "summary": "Countries failed to reach consensus on a key deal that did not mention fossil fuels Full report: Cop31 climate talks set to end in deep division as key deal rejected Mohamed Adow, director of Power Shift Africa, has been looking through the text and says…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-   "date": "2026-11-22T16:45:37+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Murad Sezer/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=700&quality=85&auto=format&fit=max&s=1e10bb7ae7582838cdc3c6655db62fb5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T06:11:10+00:00"
   }
  ]
 }

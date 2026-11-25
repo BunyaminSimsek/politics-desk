@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T19:37:55+00:00",
+ "generatedAt": "2026-11-25T19:46:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "CBC World",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "CTV News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,25 @@
   }
  ],
  "items": [
+  {
+   "id": "fa1d869c0bc8898c",
+   "title": "Exceptional access to cancer drugs not a simple issue, health minister says amid patient outcry",
+   "summary": "Several people with metastatic cancer, previously unknown to each other, have come together to battle for access to drugs either not approved or funded here.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/access-cancer-drug-minister-9.7435934?cmp=rss",
+   "date": "2026-11-25T19:38:02+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/19eee9da-b089-47bb-b022-67428e733418,1795634780715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C27%2C7675%2C4317%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:46:59+00:00"
+  },
   {
    "id": "faa895b828bba219",
    "title": "Vance says Jensen Huang doesn’t need pardon after Trump says ‘it’s an option’",
@@ -821,10 +840,10 @@
    ],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-25T10:37:27+00:00"
@@ -8284,30 +8303,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T07:20:44+00:00"
-  },
-  {
-   "id": "af75c65b14939e5d",
-   "title": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
-   "summary": "In today’s newsletter: The prime minister has reopened the debate over a future relationship with a changed EU – as the bloc faces the rise of the far right, a protectionist economic agenda and growing defence ambitions Good morning.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
-   "date": "2026-11-23T06:46:49+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections",
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "Whether or not the UK should rejoin the EU will be back on the agenda in parliament this week.",
-    "credit": "Photograph: JLBvdWOLF/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/23982dd7bf21c4a556aaef5d8e716b31dde60ae4/432_0_4320_3456/master/4320.jpg?width=700&quality=85&auto=format&fit=max&s=ffe729812bc99dfb3a8ab76afea82032",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T07:02:01+00:00"
   }
  ]
 }

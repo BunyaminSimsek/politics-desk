@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T23:03:18+00:00",
+ "generatedAt": "2026-11-25T23:12:34+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "c5c4622c9bda83e3",
+   "title": "Australian politics live: Greens say Liberal-One Nation defector just ‘changing billionaire donor’; spoof parliamentary tool spreads cheer",
+   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+   "date": "2026-11-25T23:00:11+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Mick Tsikas/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/268377c3499d542a8941cdae822ad8c48c840b31/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=59bbf9e4377dad06e9627d115ac704ed",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
+   "id": "86b43be960be3356",
+   "title": "Toronto home invasion killing sparks calls for tougher laws",
+   "summary": "A deadly home invasion in Toronto sparked accusations that criminals are committing violent break-ins 'with impunity' in Canada's biggest city.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/toronto-home-invasion-killing-sparks-calls-for-tougher-laws/article_37effb78-1cf3-464d-b43a-6afaeb39c31c.html",
+   "date": "2026-11-25T22:45:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/a4/8a4950a1-7661-5531-a757-4a08d93c7bb5/6b075b15d61a1.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 825,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/a4/8a4950a1-7661-5531-a757-4a08d93c7bb5/6b075b15d61a1.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T23:12:34+00:00"
+  },
+  {
    "id": "ce3d5df3befb05f9",
    "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
    "summary": "Senator-elect Troy Jackson, of Maine, announced he would support the progressive over the current minority leader, Chuck Schumer",
@@ -184,26 +224,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:51:19+00:00"
-  },
-  {
-   "id": "c5c4622c9bda83e3",
-   "title": "Australian politics live: Greens say Liberal-One Nation defector just ‘changing billionaire donor’",
-   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-25T22:37:04+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mick Tsikas/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/268377c3499d542a8941cdae822ad8c48c840b31/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=59bbf9e4377dad06e9627d115ac704ed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T19:56:31+00:00"
   },
   {
    "id": "073d45a0dd731530",
@@ -1073,7 +1093,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3090,7 +3110,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8284,25 +8304,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T10:07:12+00:00"
-  },
-  {
-   "id": "32a6c9e1875f174a",
-   "title": "Spying on survivors: Why RCMP watched Wab Kinew's father in the 1960s",
-   "summary": "Manitoba Premier Wab Kinew wants to know who spied on his father for the RCMP, and why.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/indigenous/rcmp-surveillance-kinew-9.7426927?cmp=rss",
-   "date": "2026-11-23T10:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/5c8a8e97-7852-41af-816b-34fbd85c611b,1795393189103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C160%2C4032%2C2268%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:08:29+00:00"
   }
  ]
 }

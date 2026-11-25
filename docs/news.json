@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T19:46:59+00:00",
+ "generatedAt": "2026-11-25T19:56:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "c5c4622c9bda83e3",
+   "title": "Australian politics live: federal Liberal senator Leah Blyth reportedly defects to One Nation",
+   "summary": "Get our breaking news email , free app or daily news podcast The energy minister, Chris Bowen , has said the failed COP31 negotiations he presided over were more strained than previous years.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+   "date": "2026-11-25T19:44:20+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b8e0686e082ee97c403961ee3228cab6cd5bcf48/222_0_1721_1377/master/1721.jpg?width=700&quality=85&auto=format&fit=max&s=3f656f608e3619e7779d41c3a6b1f3b9",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Leah Blyth - Liberal Senate Candidate Facebook Page"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
    "id": "fa1d869c0bc8898c",
    "title": "Exceptional access to cancer drugs not a simple issue, health minister says amid patient outcry",
    "summary": "Several people with metastatic cancer, previously unknown to each other, have come together to battle for access to drugs either not approved or funded here.",
@@ -177,20 +197,42 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/19eee9da-b089-47bb-b022-67428e733418,1795634780715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C27%2C7675%2C4317%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/19eee9da-b089-47bb-b022-67428e733418,1795634780715/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C27%2C7675%2C4317%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:46:59+00:00"
   },
   {
+   "id": "78d97024b0707c09",
+   "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
+   "summary": "Ábrego García chooses to depart from US after previously being deported to El Salvador due to ‘administrative error’ Kilmar Ábrego García, the Salvadorian national whose mistaken deportation turned him into a symbol of Donald Trump’s mass deportation efforts…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
+   "date": "2026-11-25T19:36:24+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Óscar del Pozo/AFP/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/546c0ebb54136f55c3f3a18f2bb47b1e31a9cb02/68_0_2390_1912/master/2390.jpg?width=700&quality=85&auto=format&fit=max&s=26a08087fc7658d65f52e77e1bb7f1ed",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
    "id": "faa895b828bba219",
    "title": "Vance says Jensen Huang doesn’t need pardon after Trump says ‘it’s an option’",
-   "summary": "Vice-president says he supports reinstalling Nvidia CEO after ‘assurances’ from top US officials Huang was ‘under no investigation’ JD Vance said on Wednesday that Jensen Huang , the recently reinstalled Nvidia CEO , was never under criminal investigation and…",
+   "summary": "Vice-president says he supports reinstatement of Nvidia CEO after ‘assurances’ from top US officials was ‘under no investigation’ JD Vance said on Wednesday that Jensen Huang , the recently reinstalled Nvidia CEO , was never under criminal investigation and…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
-   "date": "2026-11-25T19:30:12+00:00",
+   "date": "2026-11-25T19:36:22+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -203,6 +245,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "118b360ea1119ecb",
+   "title": "Canada’s new immigration points system rewards experience, but not for skills gained abroad",
+   "summary": "New Express Entry points reward Canadian experience in high-wage jobs . For internationally trained professionals facing licensing barriers, that experience can be difficult to obtain. Consider two internationally educated nurses living in Canada.",
+   "source": "The Conversation",
+   "url": "https://theconversation.com/canadas-new-immigration-points-system-rewards-experience-but-not-for-skills-gained-abroad-295648",
+   "date": "2026-11-25T19:33:43+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "analysis",
+   "image": {
+    "url": "https://images.theconversation.com/files/774025/original/file-20261124-62-f1xkuq.jpg?ixlib=rb-4.1.1&rect=318%2C0%2C6431%2C3215&q=45&auto=format&h=668&w=1200&fit=clip",
+    "w": 1200,
+    "h": 600,
+    "small": "https://images.theconversation.com/files/774025/original/file-20261124-62-f1xkuq.jpg?ixlib=rb-4.1.1&rect=318%2C0%2C6431%2C3215&q=45&auto=format&h=668&w=640&fit=clip"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:56:31+00:00"
   },
   {
    "id": "882812167e628a89",
@@ -840,35 +904,13 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T10:37:27+00:00"
-  },
-  {
-   "id": "78d97024b0707c09",
-   "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
-   "summary": "Ábrego García chose to depart from US after previously being deported to El Salvador due to ‘administrative error’ Kilmar Ábrego García, the Salvadoran national whose mistaken deportation turned him into a symbol of Donald Trump’s mass deportation efforts…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
-   "date": "2026-11-25T16:16:25+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Óscar del Pozo/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/546c0ebb54136f55c3f3a18f2bb47b1e31a9cb02/68_0_2390_1912/master/2390.jpg?width=700&quality=85&auto=format&fit=max&s=26a08087fc7658d65f52e77e1bb7f1ed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T18:50:53+00:00"
   },
   {
    "id": "d033ed3d5b7b22c1",
@@ -8261,48 +8303,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T08:25:04+00:00"
-  },
-  {
-   "id": "51072258fb5d6380",
-   "title": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
-   "summary": "President Zelenskyy says Ukrainian forces sank the Russian warship Merkury in an \"exemplary\" sea drone operation.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
-   "date": "2026-11-23T07:37:09+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T08:25:04+00:00"
-  },
-  {
-   "id": "89c495cb337b18f3",
-   "title": "India-Pakistan cricket fans want ‘dirty politics’ kept out of beloved sport",
-   "summary": "Cricket's die-hard fans say players are being forced to take part in acts of aggression for the benefit of politicians.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/23/india-pakistan-cricket-fans-want-dirty-politics-kept-out-of-beloved-sport?traffic_source=rss",
-   "date": "2026-11-23T07:07:33+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795369515.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795369515.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T07:20:44+00:00"
   }
  ]
 }

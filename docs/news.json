@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T10:28:17+00:00",
+ "generatedAt": "2026-11-25T10:37:27+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 13
+   "kept": 14
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 30
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,52 @@
  ],
  "items": [
   {
+   "id": "64a5b65b057facdc",
+   "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
+   "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ Back to Ukraine, ⁠the Kremlin condemned ⁠former British ​Prime Minister Boris ⁠Johnson’s call for Western troops ⁠to ​be ‌deployed ‌to Ukraine as ‌a token force before…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
+   "date": "2026-11-25T10:29:22+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: State Emergency Service Of Ukraine/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/621e93b6debd15c2bb0ba21a27a32b9d2d861391/400_106_1200_960/master/1200.jpg?width=700&quality=85&auto=format&fit=max&s=3831ce6652bd569c6daf3682de1798b6",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T09:04:34+00:00"
+  },
+  {
+   "id": "719cf7351ad34d3e",
+   "title": "Could Netanyahu take Israel into another war with Iran to cling to power?",
+   "summary": "As Israeli opposition leader Eisenkot moves to form a government, could war with Iran derail talks and save Netanyahu?",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+   "date": "2026-11-25T10:27:53+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06b7c8-1795602376.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06b7c8-1795602376.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T10:37:27+00:00"
+  },
+  {
    "id": "c7d3f2302a2528f8",
    "title": "Burnham’s devolution plans risk ‘significant disparities’ for people in England, MPs say – UK politics live",
-   "summary": "Public accounts committee warns of ‘disparities in opportunities and outcomes’ depending on the type of strategic authority where people live John Swinney, the Scottish first minister, is also urging Andy Burnham to step in to bring energy bills down after…",
+   "summary": "Public accounts committee warns of ‘disparities in opportunities and outcomes’ depending on the type of strategic authority where people live Wes Streeting , the defence secretary, has said previous governments have engaged in a cover-up over the harm done to…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-   "date": "2026-11-25T10:13:29+00:00",
+   "date": "2026-11-25T10:22:57+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -184,6 +224,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T09:42:32+00:00"
+  },
+  {
+   "id": "f6b61525929c8aa8",
+   "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
+   "summary": "Iran, a major oil producer, is facing a worsening energy crisis as winter looms.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting?traffic_source=rss",
+   "date": "2026-11-25T10:01:08+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b069e778520-1795595895.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b069e778520-1795595895.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T10:37:27+00:00"
   },
   {
    "id": "94f221140cc38918",
@@ -234,26 +294,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T09:42:32+00:00"
-  },
-  {
-   "id": "64a5b65b057facdc",
-   "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
-   "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ Merz also touches on this week’s EU summit, starting tomorrow, and the likely contentious negotiations over the next EU budget.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
-   "date": "2026-11-25T09:20:12+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: State Emergency Service Of Ukraine/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/621e93b6debd15c2bb0ba21a27a32b9d2d861391/400_106_1200_960/master/1200.jpg?width=700&quality=85&auto=format&fit=max&s=3831ce6652bd569c6daf3682de1798b6",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T09:04:34+00:00"
   },
   {
    "id": "0f7af8237d936828",
@@ -1103,6 +1143,28 @@
    "addedAt": "2026-11-24T14:23:48+00:00"
   },
   {
+   "id": "738443e67a1f4864",
+   "title": "US preparing to unveil plan for new tariffs on global trading partners",
+   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T00:38:01+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T10:37:27+00:00"
+  },
+  {
    "id": "1903a46092491f2a",
    "title": "2 cancer patients take Ontario to court over refusal to fund out-of-country treatment",
    "summary": "Court proceedings began Tuesday between the Ontario government and two cancer patients over the province's denial to fund out-of-country treatments that they say would be life-saving.",
@@ -1251,7 +1313,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

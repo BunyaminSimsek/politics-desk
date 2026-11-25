@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T12:55:41+00:00",
+ "generatedAt": "2026-11-25T13:04:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "c7d3f2302a2528f8",
+   "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
+   "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+   "date": "2026-11-25T12:56:21+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Andy Rain/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=700&quality=85&auto=format&fit=max&s=1e6af5775cfc5ae74b9ce9db4d803c45",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T09:42:32+00:00"
+  },
+  {
+   "id": "fc8dd7ab9c841293",
+   "title": "Trump to meet Abdul El-Sayed: Will he agree to a renamed Medicare-for-all?",
+   "summary": "Weeks after a bitter Senate race in Michigan, US president calls Democratic victor ‘a smart guy’.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/trump-to-meet-abdul-el-sayed-will-he-agree-to-a-renamed-medicare-for-all?traffic_source=rss",
+   "date": "2026-11-25T12:45:16+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-09T144817Z_1887018621_RC2EKOAQ07CJ_RTRMADP_3_USA-CONGRESS-1795611128.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-09T144817Z_1887018621_RC2EKOAQ07CJ_RTRMADP_3_USA-CONGRESS-1795611128.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T13:04:44+00:00"
+  },
+  {
    "id": "ce3d5df3befb05f9",
    "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
    "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
@@ -208,28 +250,6 @@
    "addedAt": "2026-11-25T02:02:33+00:00"
   },
   {
-   "id": "c7d3f2302a2528f8",
-   "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
-   "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-   "date": "2026-11-25T12:38:09+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=700&quality=85&auto=format&fit=max&s=1e6af5775cfc5ae74b9ce9db4d803c45",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T09:42:32+00:00"
-  },
-  {
    "id": "feba8618b8373746",
    "title": "Catalan separatist Puigdemont to return to Spain on December 12",
    "summary": "Former regional leader says he will unveil his proposal for a renewed Catalan independence push on December 17.",
@@ -241,10 +261,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-06T162026Z_656135816_RC2SXNAH9UDU_RTRMADP_3_SPAIN-POLITICS-PUIGDEMONT-1791314612.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-06T162026Z_656135816_RC2SXNAH9UDU_RTRMADP_3_SPAIN-POLITICS-PUIGDEMONT-1791314612.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-06T162026Z_656135816_RC2SXNAH9UDU_RTRMADP_3_SPAIN-POLITICS-PUIGDEMONT-1791314612.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-06T162026Z_656135816_RC2SXNAH9UDU_RTRMADP_3_SPAIN-POLITICS-PUIGDEMONT-1791314612.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T12:55:41+00:00"
@@ -261,10 +281,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-12.18.46-1795609227.png?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-12.18.46-1795609227.png?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-12.18.46-1795609227.png?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-12.18.46-1795609227.png?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T12:55:41+00:00"
@@ -312,7 +332,7 @@
   {
    "id": "17167cee091869d7",
    "title": "Democrats say Trump risked US security over Nvidia as Huang apologises | First Thing",
-   "summary": "Reinstated CEO tells staff ‘I made some terrible mistakes’, as questions remain over chips-to-China accusations. Plus a woman has an untimely encounter with some turkeys before Thanksgiving Good morning.",
+   "summary": "Reinstated CEO tells staff ‘I made some terrible mistakes’, as questions remain over chips-to-China accusations. Plus, a woman has an untimely encounter with some turkeys before Thanksgiving Don’t already get First Thing in your inbox?",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/25/first-thing-democrats-trump-risked-us-security-nvidia-huang-apologises",
    "date": "2026-11-25T12:14:52+00:00",
@@ -2366,10 +2386,10 @@
   {
    "id": "e9a50a54eb76005e",
    "title": "Quebec government appeals ruling reinstating oath to the King",
-   "summary": "MONTREAL - The Quebec government has appealed a Superior Court judgment that temporarily reinstated the oath to the King.",
+   "summary": "The ruling raised questions about whether the parliamentary session would open as planned on Dec. 1, after all 127 legislature members chose to swear an oath only to the Quebec people.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/quebec/quebec-opposition-leaders-urge-premier-not-to-delay-session-over-oath-to-the-king/article_d8f7cafb-059c-51e0-a27a-17ff586f1ff2.html",
-   "date": "2026-11-24T18:25:49+00:00",
+   "date": "2026-11-24T18:25:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -2508,16 +2528,16 @@
    "summary": "OTTAWA - The Carney government has yet to announce any actions in response to what it calls a \"binding\" ruling by the UN's top court last week that Myanmar perpetrated a genocide against its Rohingya minority.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/ottawa-says-un-court-ruling-on-rohingya-genocide-is-binding-pledges-no-new-action/article_96ff6981-37b4-57a5-829d-c347046f7397.html",
-   "date": "2026-11-24T17:46:15+00:00",
+   "date": "2026-11-24T17:46:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/64/4648d600-013a-4afb-9959-4a0448501dec/6b06dc40c361c.image.jpg?resize=1200%2C",
+    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/8d/d8d79423-5205-5ba9-98a4-a0f60ae2353b/6b05ce4d6339a.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/8d/d8d79423-5205-5ba9-98a4-a0f60ae2353b/6b05ce4d6339a.image.jpg?resize=1200%2C",
-    "w": 1200
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/64/4648d600-013a-4afb-9959-4a0448501dec/6b06dc40c361c.image.jpg?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:58:53+00:00"
@@ -8287,26 +8307,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T13:49:18+00:00"
-  },
-  {
-   "id": "abce69213c3dc8e6",
-   "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
-   "summary": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
-   "date": "2026-11-22T13:15:40+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A1199-copy-1795348763.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A1199-copy-1795348763.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T13:40:06+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T08:46:22+00:00",
+ "generatedAt": "2026-11-25T08:55:32+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 28
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,66 @@
   }
  ],
  "items": [
+  {
+   "id": "28f4fdb010d7e94f",
+   "title": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike",
+   "summary": "The escalation comes after the Yemeni rebel group threatened to attack the kingdom's Red Sea ports in retaliation.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss",
+   "date": "2026-11-25T08:23:35+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b067e09-1795587593.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b067e09-1795587593.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T08:55:32+00:00"
+  },
+  {
+   "id": "d89b599943741141",
+   "title": "Countries that thrive on global cooperation must help sustain it",
+   "summary": "Prosperous small states like Qatar should combine their diplomatic and economic resources to advance global stability.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/25/countries-that-thrive-on-global-cooperation-must-help-sustain-it?traffic_source=rss",
+   "date": "2026-11-25T08:23:01+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2025/11/afp-newsml.afp_.com_.20251115T140400Z.doc-844z37w-1763733232.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2025/11/afp-newsml.afp_.com_.20251115T140400Z.doc-844z37w-1763733232.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T08:55:32+00:00"
+  },
+  {
+   "id": "c48453ca6df9c201",
+   "title": "Is Russia really aiming for a new European security architecture?",
+   "summary": "Moscow is piling on new demands in talks with Ukraine, either as a negotiating strategy or as a diversion.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/25/is-russia-really-aiming-for-a-new-european-security-architecture?traffic_source=rss",
+   "date": "2026-11-25T08:20:55+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afffbfc-1795161084.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afffbfc-1795161084.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T08:55:32+00:00"
+  },
   {
    "id": "4ae82ad1b702c41f",
    "title": "‘You’re protecting Trump’: Hanson-Young clashes with Liberal senator before digital duty of care legislation passes – as it happened",
@@ -1018,7 +1078,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

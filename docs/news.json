@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T19:09:39+00:00",
+ "generatedAt": "2026-11-25T19:18:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "Global News",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0717159b5cc-1795626773.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0717159b5cc-1795626773.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0717159b5cc-1795626773.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0717159b5cc-1795626773.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:09:39+00:00"
@@ -193,16 +193,16 @@
    "summary": "OTTAWA - Experts in international law are urging Canada to mount a global rebuttal to Washington's attacks on the International Criminal Court.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/legal-experts-call-on-canada-to-defend-international-criminal-court-from-u-s-attacks/article_bc0b32d0-6898-5a09-81f9-cb0a53313503.html",
-   "date": "2026-11-25T18:57:26+00:00",
+   "date": "2026-11-25T18:57:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/cf/3cf50ead-7d6f-507c-886e-a264339811cd/6b073035738ad.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/cf/3cf50ead-7d6f-507c-886e-a264339811cd/6b073035738ad.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/cf/3cf50ead-7d6f-507c-886e-a264339811cd/6b073035738ad.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/cf/3cf50ead-7d6f-507c-886e-a264339811cd/6b073035738ad.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:09:39+00:00"
@@ -1623,6 +1623,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T09:04:34+00:00"
+  },
+  {
+   "id": "496c98b9d33ad976",
+   "title": "Cufflinks, clock allegedly stolen from country residence of Prince William, Princess of Wales",
+   "summary": "A British court heard cufflinks and a clock were stolen after a break-in at the Royal Family's Sandringham Estate on Monday. The two men, charged with burglary and trespassing on a protected site, appeared in court Wednesday.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/breakin-royals-sandringham-anmer-hall-9.7435154?cmp=rss",
+   "date": "2026-11-25T10:53:46+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/2898bf84-3328-4a1c-ba6c-f63ef44d6bf8,1795603014837/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C2994%2C1684%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:18:44+00:00"
   },
   {
    "id": "719cf7351ad34d3e",
@@ -8286,26 +8305,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T06:25:30+00:00"
-  },
-  {
-   "id": "f6211ecf3071c1b5",
-   "title": "Who is Alberto Feijoo, the conservative seeking to become Spain’s new PM?",
-   "summary": "The former career civil servant hopes to lead his Popular Party to victory in November 29 elections.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm?traffic_source=rss",
-   "date": "2026-11-23T05:51:00+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b008ce1-1795198177.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b008ce1-1795198177.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T06:16:22+00:00"
   }
  ]
 }

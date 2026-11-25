@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T20:24:56+00:00",
+ "generatedAt": "2026-11-25T20:33:56+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "CBC World",
@@ -165,6 +165,25 @@
   }
  ],
  "items": [
+  {
+   "id": "d29487eac4f69bea",
+   "title": "'Crypto King' investor seen on security video buying phone used in alleged kidnapping, officer testifies",
+   "summary": "Surveillance video shows one of so-called \"Crypto King\" Aiden Pleterski's alleged kidnappers purchasing a flip phone used in the alleged kidnapping, a Toronto police officer testified in Ontario Superior Court Wednesday.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-investor-seen-on-security-video-buying-phone-used-in-alleged-kidnapping-officer-testifies-9.7436000?cmp=rss",
+   "date": "2026-11-25T20:27:20+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/dcce8b2a-379d-47cc-a56c-f662e606b043,1760119273968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1180%2C663%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T20:33:56+00:00"
+  },
   {
    "id": "69c16b0bbd41031a",
    "title": "NATO's No. 2 commander strikes different tone on Canada than Pentagon",
@@ -1791,7 +1810,7 @@
   },
   {
    "id": "496c98b9d33ad976",
-   "title": "Thieves charged in royal residence burglary scaled drainpipe, stole cufflinks and a clock, police allege",
+   "title": "2 men charged in burglary at home of Prince and Princess of Wales stole cufflinks and a clock, police say",
    "summary": "A British court heard cufflinks and a clock were stolen after a break-in at the Royal Family's Sandringham Estate on Monday. The two men, charged with burglary and trespassing on a protected site, appeared in court Wednesday.",
    "source": "CBC World",
    "url": "https://www.cbc.ca/news/world/breakin-royals-sandringham-anmer-hall-9.7435154?cmp=rss",
@@ -8280,28 +8299,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T08:34:16+00:00"
-  },
-  {
-   "id": "765653bc3eeeec5d",
-   "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
-   "summary": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss",
-   "date": "2026-11-23T08:12:29+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T08:25:04+00:00"
   }
  ]
 }

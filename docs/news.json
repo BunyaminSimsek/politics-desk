@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T10:46:41+00:00",
+ "generatedAt": "2026-11-25T10:55:39+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 30
+   "kept": 31
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "7044fe44c18fed42",
+   "title": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
+   "summary": "Private members’ motion comes amid concern about Christian symbols being appropriated by the far right Church of England clergy could be banned from joining or supporting the hard-right Restore Britain party under a motion put forward for debate at the…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/general-synod-ban-church-of-england-clergy-support-restore-britain",
+   "date": "2026-11-25T10:40:38+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/839a6dbb59551038bdcdee9376e63e28684fb809/1386_0_7023_5618/master/7023.jpg?width=700&quality=85&auto=format&fit=max&s=8fbda055de948804ca79f79d34655c9b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Christopher Thomond/The Guardian"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T10:55:39+00:00"
+  },
+  {
    "id": "64a5b65b057facdc",
    "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
    "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ Back to Ukraine, ⁠the Kremlin condemned ⁠former British ​Prime Minister Boris ⁠Johnson’s call for Western troops ⁠to ​be ‌deployed ‌to Ukraine as ‌a token force before…",
@@ -207,20 +227,22 @@
   },
   {
    "id": "c7d3f2302a2528f8",
-   "title": "Burnham’s devolution plans risk ‘significant disparities’ for people in England, MPs say – UK politics live",
-   "summary": "Public accounts committee warns of ‘disparities in opportunities and outcomes’ depending on the type of strategic authority where people live Wes Streeting , the defence secretary, has said previous governments have engaged in a cover-up over the harm done to…",
+   "title": "Previous governments engaged in ‘cover-up’ over harm to nuclear test veterans, says defence secretary – UK politics live",
+   "summary": "Wes Streeting said he believes a review will help ensure that ‘the cover-up is exposed’ Wes Streeting , the defence secretary, has said previous governments have engaged in a cover-up over the harm done to veterans who were involved in nuclear tests in the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
    "date": "2026-11-25T10:22:57+00:00",
    "topic": "europe",
    "region": "world",
-   "tags": [],
+   "tags": [
+    "defence"
+   ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Christopher Thomond/The Guardian",
+    "url": "https://i.guim.co.uk/img/media/128549c0b715358177b3ec4f957b16358e089f31/591_0_5886_4711/master/5886.jpg?width=700&quality=85&auto=format&fit=max&s=03c3d24f67e17a91bd4cfd7fbf25bbf3",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/030d04c96ea7bf8fc41e165f73f6dfbc8a93f9c1/1440_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=a565ebdb7dd253b9686da5b7002ffca0",
-    "w": 700
+    "credit": "Photograph: Marek Ladzinski/ZUMA Press Wire/Shutterstock"
    },
    "breaking": false,
    "addedAt": "2026-11-25T09:42:32+00:00"
@@ -1313,7 +1335,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8281,26 +8303,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T11:13:28+00:00"
-  },
-  {
-   "id": "978be41ad4e55a06",
-   "title": "'Happy, exercise, help others': the secrets behind Raymond Cho's 90 years on Earth",
-   "summary": "TORONTO - On a recent Friday in the far eastern reaches of Toronto, Raymond Cho deftly serves a table tennis ball against a new rival, a reporter about half his age from The Canadian Press.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/ontario/happy-exercise-help-others-the-secrets-behind-raymond-cho-s-90-years-on-earth/article_c274db23-a2ca-5a66-b05d-3e22154aefec.html",
-   "date": "2026-11-22T11:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 737,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/ca/8caff59b-96e2-5e44-bb0c-76622f85d8dc/6b02cc713cf68.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/ca/8caff59b-96e2-5e44-bb0c-76622f85d8dc/6b02cc713cf68.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T11:22:35+00:00"
   }
  ]
 }

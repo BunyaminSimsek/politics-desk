@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T08:00:45+00:00",
+ "generatedAt": "2026-11-25T08:09:51+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -167,7 +167,7 @@
  "items": [
   {
    "id": "4ae82ad1b702c41f",
-   "title": "Australian politics live: ‘You’re protecting Trump’: Hanson-Young clashes with Liberal senator before digital duty of care legislation passes both houses",
+   "title": "‘You’re protecting Trump’: Hanson-Young clashes with Liberal senator before digital duty of care legislation passes – as it happened",
    "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
@@ -1018,7 +1018,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1033,16 +1033,14 @@
   },
   {
    "id": "175f51401eeef70b",
-   "title": "Is China behind wave of disinformation targeting Taiwan's election?",
+   "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
    "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-24T23:05:11+00:00",
    "topic": "asia",
    "region": "world",
-   "tags": [
-    "elections"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
     "h": 675,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T00:48:59+00:00",
+ "generatedAt": "2026-11-25T00:58:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/0116cf57061a0f5436411466e594c6a5b4ed41bd/543_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=e3252334c66b9a6cec9c9c2b84cd77f3",
-    "w": 700,
+    "credit": "Photograph: Hilary Wardhaugh/Getty Images",
     "h": 560,
-    "credit": "Photograph: Hilary Wardhaugh/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/0116cf57061a0f5436411466e594c6a5b4ed41bd/543_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=e3252334c66b9a6cec9c9c2b84cd77f3",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T20:37:22+00:00"
@@ -238,10 +238,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b060d7deaecf-1795558781.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b060d7deaecf-1795558781.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b060d7deaecf-1795558781.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b060d7deaecf-1795558781.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T00:48:59+00:00"
@@ -376,7 +376,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1373,9 +1373,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/5e4136d7-8d38-47b1-ad29-7e11c56e2e6b,1795545732893/full/max/0/default.jpg?im=Crop%2Crect%3D%283%2C0%2C2642%2C1486%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/5e4136d7-8d38-47b1-ad29-7e11c56e2e6b,1795545732893/full/max/0/default.jpg?im=Crop%2Crect%3D%283%2C0%2C2642%2C1486%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T20:46:51+00:00"

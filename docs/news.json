@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T02:49:16+00:00",
+ "generatedAt": "2026-11-25T02:58:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,32 +166,12 @@
  ],
  "items": [
   {
-   "id": "a0100f439664a5cb",
-   "title": "Al Gore buys local, family-owned newspaper in central Tennessee",
-   "summary": "Former vice-president, who started his career as a journalist, purchases Carthage Courier in Smith county Al Gore, who started his career as a journalist, is returning to the industry as a newspaper owner in his Tennessee town.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
-   "date": "2026-11-25T02:31:42+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/30ecca1d12e53cfba0fd2b8581ff75f87fd7181f/0_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=df22a991c30d97c92cdd65f07bd51229",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Chris McGrath/Getty Images"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T02:49:16+00:00"
-  },
-  {
    "id": "886e6fb7c86dd637",
    "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
    "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-25T02:14:21+00:00",
+   "date": "2026-11-25T02:47:49+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -204,6 +184,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
+   "id": "4ef732da6a1f3c62",
+   "title": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+   "summary": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia's safe departure to Spain as a 'free man'.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
+   "date": "2026-11-25T02:40:59+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b063b0ec3078-1795570446.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b063b0ec3078-1795570446.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T02:58:37+00:00"
+  },
+  {
+   "id": "a0100f439664a5cb",
+   "title": "Al Gore buys local, family-owned newspaper in central Tennessee",
+   "summary": "Former vice-president, who started his career as a journalist, purchases Carthage Courier in Smith county Al Gore, who started his career as a journalist, is returning to the industry as a newspaper owner in his Tennessee town.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
+   "date": "2026-11-25T02:31:42+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Chris McGrath/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/30ecca1d12e53cfba0fd2b8581ff75f87fd7181f/0_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=df22a991c30d97c92cdd65f07bd51229",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T02:49:16+00:00"
   },
   {
    "id": "4ae82ad1b702c41f",
@@ -537,7 +557,7 @@
   },
   {
    "id": "a377586593f39194",
-   "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
+   "title": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
    "summary": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
@@ -604,7 +624,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

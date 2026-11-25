@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T21:11:30+00:00",
+ "generatedAt": "2026-11-25T21:20:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -167,23 +167,42 @@
  "items": [
   {
    "id": "c5c4622c9bda83e3",
-   "title": "Australian politics live: Hanson ‘delighted’ as Blyth defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
-   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party.",
+   "title": "Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
+   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-25T20:59:25+00:00",
+   "date": "2026-11-25T21:15:53+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ce6cb56abf202649179c638f3a9b93b6efd40887/817_0_3829_3065/master/3829.jpg?width=700&quality=85&auto=format&fit=max&s=13e38468bb20b12465f415deddc99dba",
-    "w": 700,
+    "credit": "Photograph: Mick Tsikas/AAP",
     "h": 560,
-    "credit": "Photograph: Mick Tsikas/AAP"
+    "url": "https://i.guim.co.uk/img/media/ce6cb56abf202649179c638f3a9b93b6efd40887/817_0_3829_3065/master/3829.jpg?width=700&quality=85&auto=format&fit=max&s=13e38468bb20b12465f415deddc99dba",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
+   "id": "e0fc50aa3a9bbd40",
+   "title": "Canada partners with Qatar for consular services to Canadians in Afghanistan",
+   "summary": "Qatar is partnering with Ottawa to provide consular services to Canadians in Afghanistan that have been unavailable since the Taliban retook the country five years ago.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/canada-qatar-afghanistan-9.7436135?cmp=rss",
+   "date": "2026-11-25T21:09:16+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/2a94dd9e-1a34-4cec-a79c-8e2422f68da6,1795639123109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T21:20:38+00:00"
   },
   {
    "id": "ce3d5df3befb05f9",
@@ -277,10 +296,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795639351.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795639351.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795639351.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795639351.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T21:11:30+00:00"
@@ -1940,9 +1959,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/2898bf84-3328-4a1c-ba6c-f63ef44d6bf8,1795603014837/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C2994%2C1684%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/2898bf84-3328-4a1c-ba6c-f63ef44d6bf8,1795603014837/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C2994%2C1684%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:18:44+00:00"
@@ -8280,25 +8299,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:30:21+00:00"
-  },
-  {
-   "id": "85b9e1aba37a466e",
-   "title": "Big tech, law enforcement make final pitches as Senate considers data access bill's future",
-   "summary": "Big tech is launching its final salvo to scale back the Liberal government's contentious proposed national security legislation, which would change how companies retain and hand over user data to Canadian police and intelligence officers, as it nears its last…",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/bill-c-22-lawful-access-privacy-senate-9.7430455?cmp=rss",
-   "date": "2026-11-23T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/f0b5056e-0e98-4db0-8f2f-c6506bb09d73,1795209808241/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C245%2C4707%2C2647%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:01:53+00:00"
   }
  ]
 }

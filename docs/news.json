@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T08:55:32+00:00",
+ "generatedAt": "2026-11-25T09:04:34+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,13 +11,13 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 3
+   "kept": 1
   },
   {
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "Global News",
@@ -166,6 +166,47 @@
  ],
  "items": [
   {
+   "id": "464204284278bbb7",
+   "title": "Highest MP turnover rate in decades making for byelection bonanza this Parliament",
+   "summary": "A slew of MP resignations is putting this Parliament on track to have the most byelections this soon after a general election in over half a century.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/most-byelections-this-soon-after-general-election-9.7434875?cmp=rss",
+   "date": "2026-11-25T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/f41a8e79-16fd-44b6-aaf4-135ae6d7a818,1795562937243/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8553%2C4811%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T09:04:34+00:00"
+  },
+  {
+   "id": "64a5b65b057facdc",
+   "title": "Ukraine reports energy outages after Russian strikes ahead of Trump-Rutte meeting – Europe live",
+   "summary": "Five regions in Ukraine faced power outages after overnight strikes Germany’s chancellor Friedrich Merz is speaking in the Bundestag now – mostly on the 2027 budget, but he’s also touching upon broader issues, including on Russia and Ukraine.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
+   "date": "2026-11-25T08:53:27+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/621e93b6debd15c2bb0ba21a27a32b9d2d861391/400_106_1200_960/master/1200.jpg?width=700&quality=85&auto=format&fit=max&s=3831ce6652bd569c6daf3682de1798b6",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: State Emergency Service Of Ukraine/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T09:04:34+00:00"
+  },
+  {
    "id": "28f4fdb010d7e94f",
    "title": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike",
    "summary": "The escalation comes after the Yemeni rebel group threatened to attack the kingdom's Red Sea ports in retaliation.",
@@ -177,10 +218,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b067e09-1795587593.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b067e09-1795587593.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b067e09-1795587593.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b067e09-1795587593.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T08:55:32+00:00"
@@ -197,10 +238,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2025/11/afp-newsml.afp_.com_.20251115T140400Z.doc-844z37w-1763733232.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2025/11/afp-newsml.afp_.com_.20251115T140400Z.doc-844z37w-1763733232.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2025/11/afp-newsml.afp_.com_.20251115T140400Z.doc-844z37w-1763733232.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2025/11/afp-newsml.afp_.com_.20251115T140400Z.doc-844z37w-1763733232.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T08:55:32+00:00"
@@ -217,10 +258,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afffbfc-1795161084.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afffbfc-1795161084.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afffbfc-1795161084.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afffbfc-1795161084.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T08:55:32+00:00"
@@ -288,7 +329,7 @@
   {
    "id": "1949ee2987b0360b",
    "title": "Energy bills in Great Britain to rise 26% in January, lifting annual bills over £2,000",
-   "summary": "Ofgem’s price cap will increase for third quarter in a row after rise in wholesale cost of gas Millions of British households will face annual energy bills of more than £2,000 a year for the first time since Russia’s invasion of Ukraine, as the cap on energy…",
+   "summary": "Ofgem’s price cap will increase for third quarter in a row after rise in wholesale cost of gas Business live – latest updates Millions of British households will face annual energy bills of more than £2,000 a year for the first time since Russia’s invasion of…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
    "date": "2026-11-25T07:03:21+00:00",
@@ -297,10 +338,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Jacob King/PA",
+    "url": "https://i.guim.co.uk/img/media/c6816fd3c2d5d5d27c4940d2b5b61c98bdaff65c/468_240_3034_2428/master/3034.jpg?width=700&quality=85&auto=format&fit=max&s=2c394e138faa9aef0615e754df9f40d1",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/af41bcfc141d1368dbf63412f77e9419c1fde3aa/388_0_2703_2162/master/2703.jpg?width=700&quality=85&auto=format&fit=max&s=f6d549461bc90792babd3c3811909533",
-    "w": 700
+    "credit": "Photograph: Bloomberg/Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-25T07:23:47+00:00"
@@ -369,7 +410,7 @@
   },
   {
    "id": "bcec56b02c6d84bf",
-   "title": "UK sent sex offender refugee to African country in undisclosed deal",
+   "title": "UK sent sex offender refugee to Eswatini in undisclosed deal",
    "summary": "The deal is said to be the first known case of the UK government forcibly resettling a refugee permanently overseas.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6z7407zrgwvo?at_medium=RSS&at_campaign=rss",
@@ -847,7 +888,7 @@
   },
   {
    "id": "3cc4786f8522ae83",
-   "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+   "title": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
    "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
@@ -1011,8 +1052,8 @@
   },
   {
    "id": "a377586593f39194",
-   "title": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
-   "summary": "The Saudi coalition says its forces targeted operational capabilities at Hodeidah port and hit sites in northern Yemen.",
+   "title": "Iran war live: IRGC mocks US ‘strategic ambiguity’ after ‘major setback’",
+   "summary": "Revolutionary Guard chief says forces prepared to 'push enemy back considerably'; highlights 'major strategic setback'.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
    "date": "2026-11-25T00:00:00+00:00",
@@ -1078,7 +1119,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8205,65 +8246,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T09:23:11+00:00"
-  },
-  {
-   "id": "42f03829e07bc55d",
-   "title": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
-   "summary": "Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163?cmp=rss",
-   "date": "2026-11-22T09:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/de46223b-3cc0-42af-b7fb-eca842c5dd76,1795383594380/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C172%2C3297%2C1854%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T13:49:18+00:00"
-  },
-  {
-   "id": "ab4666aaaef765b7",
-   "title": "WhatsApp is a 'lifeline' for refugees. Advocates fear it could be severed in fight over federal bill",
-   "summary": "Meta said this week that Bill C-22 could force it to \"consider\" withdrawing encrypted services like WhatsApp from Canada.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/canada/lawful-access-bill-whatsapp-newcomers-9.7429493?cmp=rss",
-   "date": "2026-11-22T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/505c422b-f7dc-42ba-8f08-0ae5b37f055a,1795046759459/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C256%2C7849%2C4415%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T17:31:04+00:00"
-  },
-  {
-   "id": "947f0e2b14a1627a",
-   "title": "Quebecor CEO defends Telus bid, cites falling wireless prices and Canada's sovereignty",
-   "summary": "Quebecor CEO Pierre Karl Péladeau is defending his company's $31-billion bid to buy Telus amid concerns over competition in Canada's telecom sector, arguing the cost of wireless plans is dropping and non-Canadian companies are trying to expand.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/pierre-karl-peladeau-quebecor-telus-bid-9.7431320?cmp=rss",
-   "date": "2026-11-22T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/026b960f-a838-446c-bc5b-544c5b612d8f,1795281794767/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C354%2C6500%2C3656%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T17:31:04+00:00"
   }
  ]
 }

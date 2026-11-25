@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T19:56:31+00:00",
+ "generatedAt": "2026-11-25T20:06:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -143,7 +143,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/americas/rss",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -166,24 +166,65 @@
  ],
  "items": [
   {
+   "id": "69c16b0bbd41031a",
+   "title": "NATO's No. 2 commander strikes different tone on Canada than Pentagon",
+   "summary": "NATO's deputy commander offers a markedly different assessment of Canada's military than the Pentagon, praising its contribution to European deterrence and efforts to rebuild its forces in an exclusive broadcast interview with CBC News.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/defence-spending-pentagon-nato-carney-9.7435919?cmp=rss",
+   "date": "2026-11-25T19:59:43+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/f4914af2-0625-4a31-8794-a19731dcd709,1795635682295/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C2768%2C1557%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T20:06:16+00:00"
+  },
+  {
    "id": "c5c4622c9bda83e3",
-   "title": "Australian politics live: federal Liberal senator Leah Blyth reportedly defects to One Nation",
-   "summary": "Get our breaking news email , free app or daily news podcast The energy minister, Chris Bowen , has said the failed COP31 negotiations he presided over were more strained than previous years.",
+   "title": "Australian politics live: federal Liberal senator Leah Blyth defects to One Nation",
+   "summary": "Get our breaking news email , free app or daily news podcast Nationals leader Matt Canavan has called Leah Blyth’s defection to One Nation “disappointing on a number of levels”.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-25T19:44:20+00:00",
-   "topic": "turkey",
+   "date": "2026-11-25T19:59:21+00:00",
+   "topic": "us",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/b8e0686e082ee97c403961ee3228cab6cd5bcf48/222_0_1721_1377/master/1721.jpg?width=700&quality=85&auto=format&fit=max&s=3f656f608e3619e7779d41c3a6b1f3b9",
-    "w": 700,
+    "credit": "Photograph: Leah Blyth - Liberal Senate Candidate Facebook Page",
     "h": 560,
-    "credit": "Photograph: Leah Blyth - Liberal Senate Candidate Facebook Page"
+    "url": "https://i.guim.co.uk/img/media/b8e0686e082ee97c403961ee3228cab6cd5bcf48/222_0_1721_1377/master/1721.jpg?width=700&quality=85&auto=format&fit=max&s=3f656f608e3619e7779d41c3a6b1f3b9",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
+   "id": "ce3d5df3befb05f9",
+   "title": "‘I feel free of everything evil’: Kilmar Ábrego García lands in Spain after choosing to leave US - live",
+   "summary": "Before his departure, Immigration and Customs Enforcement agents met him at the airport and removed his ankle monitor, an advocacy group reported",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "date": "2026-11-25T19:51:20+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Fernando Villar/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/fedd12377351e3e84402029d8354b6185d25dc6e/129_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=c46606135046ab652da6f7ffdd0d51ec",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T11:51:19+00:00"
   },
   {
    "id": "fa1d869c0bc8898c",
@@ -260,10 +301,10 @@
    ],
    "kind": "analysis",
    "image": {
-    "url": "https://images.theconversation.com/files/774025/original/file-20261124-62-f1xkuq.jpg?ixlib=rb-4.1.1&rect=318%2C0%2C6431%2C3215&q=45&auto=format&h=668&w=1200&fit=clip",
-    "w": 1200,
     "h": 600,
-    "small": "https://images.theconversation.com/files/774025/original/file-20261124-62-f1xkuq.jpg?ixlib=rb-4.1.1&rect=318%2C0%2C6431%2C3215&q=45&auto=format&h=668&w=640&fit=clip"
+    "small": "https://images.theconversation.com/files/774025/original/file-20261124-62-f1xkuq.jpg?ixlib=rb-4.1.1&rect=318%2C0%2C6431%2C3215&q=45&auto=format&h=668&w=640&fit=clip",
+    "url": "https://images.theconversation.com/files/774025/original/file-20261124-62-f1xkuq.jpg?ixlib=rb-4.1.1&rect=318%2C0%2C6431%2C3215&q=45&auto=format&h=668&w=1200&fit=clip",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:56:31+00:00"
@@ -372,26 +413,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:28:25+00:00"
-  },
-  {
-   "id": "ce3d5df3befb05f9",
-   "title": "‘I feel free of everything evil’: Kilmar Ábrego García lands in Spain after choosing to leave US - live",
-   "summary": "Before his departure, Immigration and Customs Enforcement agents met him at the airport and removed his ankle monitor, an advocacy group reported",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-   "date": "2026-11-25T19:11:35+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Fernando Villar/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fedd12377351e3e84402029d8354b6185d25dc6e/129_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=c46606135046ab652da6f7ffdd0d51ec",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T11:51:19+00:00"
   },
   {
    "id": "0dd658ea348393ca",
@@ -8277,28 +8298,6 @@
     "h": 800,
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T08:25:04+00:00"
-  },
-  {
-   "id": "73d8680086076ac1",
-   "title": "Europe’s hot autumn of protests is a symptom of economic breakdown",
-   "summary": "European governments beholden to corporate interests no longer have the wellbeing of their nations as a top priority.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
-   "date": "2026-11-23T08:08:00+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D88Z66X__v1__HighRes__FrancePoliticsEducationStrikeDemo-1795332915.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D88Z66X__v1__HighRes__FrancePoliticsEducationStrikeDemo-1795332915.jpg?resize=1200%2C800",
     "w": 1200
    },
    "breaking": false,

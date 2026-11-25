@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T11:51:19+00:00",
+ "generatedAt": "2026-11-25T12:00:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9f4ad69a7c2842c8d7b083f6f6d5e6fb55a96e3a/0_0_7920_6336/master/7920.jpg?width=700&quality=85&auto=format&fit=max&s=8694dc684ae2c8e13a6c1ce6059fa9a5",
-    "w": 700,
+    "credit": "Photograph: Kelvin Lachica/Alamy",
     "h": 560,
-    "credit": "Photograph: Kelvin Lachica/Alamy"
+    "url": "https://i.guim.co.uk/img/media/9f4ad69a7c2842c8d7b083f6f6d5e6fb55a96e3a/0_0_7920_6336/master/7920.jpg?width=700&quality=85&auto=format&fit=max&s=8694dc684ae2c8e13a6c1ce6059fa9a5",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:51:19+00:00"
@@ -238,10 +238,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
-    "w": 700,
+    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
     "h": 560,
-    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images"
+    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
+    "w": 700
    },
    "breaking": true,
    "addedAt": "2026-11-25T11:51:19+00:00"
@@ -258,10 +258,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9ef8e3e2b50ee8a00edd3b4261ff2c11d2047189/0_564_1080_863/master/1080.jpg?width=700&quality=85&auto=format&fit=max&s=b06bc2bdc24b57ee84cbe3a05e54706b",
-    "w": 700,
+    "credit": "Photograph: Courtesy Kristin Etter",
     "h": 559,
-    "credit": "Photograph: Courtesy Kristin Etter"
+    "url": "https://i.guim.co.uk/img/media/9ef8e3e2b50ee8a00edd3b4261ff2c11d2047189/0_564_1080_863/master/1080.jpg?width=700&quality=85&auto=format&fit=max&s=b06bc2bdc24b57ee84cbe3a05e54706b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:51:19+00:00"
@@ -310,8 +310,8 @@
   },
   {
    "id": "ef4e7886f52fc2f4",
-   "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Africa",
-   "summary": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Eswatini, where he had no connections The UK sent a Sri Lankan asylum seeker who had been convicted of sexual assault to Eswatini, a southern African country to which he had no…",
+   "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+   "summary": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connections The UK sent a Sri Lankan asylum seeker who had been convicted of sexual assault to Eswatini, a southern African country to which he had no…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
    "date": "2026-11-25T11:28:05+00:00",
@@ -1315,10 +1315,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T04:11:21+00:00"
@@ -1558,7 +1558,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T06:47:00+00:00",
+ "generatedAt": "2026-11-25T06:56:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T06:47:00+00:00"
@@ -916,7 +916,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8144,28 +8144,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T07:24:22+00:00"
-  },
-  {
-   "id": "b562b9609d14edbc",
-   "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-   "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-22T06:54:06+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T05:52:58+00:00"
   }
  ]
 }

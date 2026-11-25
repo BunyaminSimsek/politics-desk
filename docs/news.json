@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T23:53:21+00:00",
+ "generatedAt": "2026-11-25T00:02:27+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/15d0ddecd877f6d5df4f8e4c21bb5be5961696ea/1245_0_4004_3203/master/4004.jpg?width=700&quality=85&auto=format&fit=max&s=07232e06887342e29e6c675de596e2dc",
-    "w": 700,
+    "credit": "Photograph: Alex Wong/Getty Images",
     "h": 560,
-    "credit": "Photograph: Alex Wong/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/15d0ddecd877f6d5df4f8e4c21bb5be5961696ea/1245_0_4004_3203/master/4004.jpg?width=700&quality=85&auto=format&fit=max&s=07232e06887342e29e6c675de596e2dc",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T23:53:21+00:00"
@@ -236,15 +236,15 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/f4/2f4f74fc-cba2-58f8-9498-2cd27560700b/6b060f3683041.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/f4/2f4f74fc-cba2-58f8-9498-2cd27560700b/6b060f3683041.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/f4/2f4f74fc-cba2-58f8-9498-2cd27560700b/6b060f3683041.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/2/f4/2f4f74fc-cba2-58f8-9498-2cd27560700b/6b060f3683041.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T23:53:21+00:00"
@@ -7718,26 +7718,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T00:23:00+00:00"
-  },
-  {
-   "id": "3198fd18632ebc90",
-   "title": "Iran war live: US ‘defeated’ and cannot dictate peace deal terms – Tehran",
-   "summary": "Tehran's top security official chides the US suggesting it's superpower status has faded after it launched the war.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-   "date": "2026-11-21T23:59:03+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b022741d913-1795303233.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b022741d913-1795303233.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T00:04:48+00:00"
   }
  ]
 }

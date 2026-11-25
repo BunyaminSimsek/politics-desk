@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T06:01:33+00:00",
+ "generatedAt": "2026-11-25T06:10:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 50
   },
   {
    "source": "BBC News",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/78646f64018549efe8fdf7a8eec4b47dfb10c17a/1_0_4998_4000/master/4998.jpg?width=700&quality=85&auto=format&fit=max&s=f3454c07edb8f170a01f8af73a16280b",
-    "w": 700,
+    "credit": "Composite: Anagh Banerjee / Prina Shah for the Guardian",
     "h": 560,
-    "credit": "Composite: Anagh Banerjee / Prina Shah for the Guardian"
+    "url": "https://i.guim.co.uk/img/media/78646f64018549efe8fdf7a8eec4b47dfb10c17a/1_0_4998_4000/master/4998.jpg?width=700&quality=85&auto=format&fit=max&s=f3454c07edb8f170a01f8af73a16280b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T06:01:33+00:00"
@@ -223,10 +223,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-26T125806Z_667581333_RC2OTJAZOSZ2_RTRMADP_3_ISRAEL-INDIA-1795520918.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-26T125806Z_667581333_RC2OTJAZOSZ2_RTRMADP_3_ISRAEL-INDIA-1795520918.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-26T125806Z_667581333_RC2OTJAZOSZ2_RTRMADP_3_ISRAEL-INDIA-1795520918.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-26T125806Z_667581333_RC2OTJAZOSZ2_RTRMADP_3_ISRAEL-INDIA-1795520918.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T06:01:33+00:00"

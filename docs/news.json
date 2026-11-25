@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T22:44:49+00:00",
+ "generatedAt": "2026-11-25T22:53:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 20
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "ce3d5df3befb05f9",
+   "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
+   "summary": "Senator-elect Troy Jackson, of Maine, announced he would support the progressive over the current minority leader, Chuck Schumer",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "date": "2026-11-25T22:37:47+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Nathan Posner/Anadolu/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/1ded0ee0250a7ae31faed7b6ee3dc216c3eee7d6/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=68d3bfbc4e3e807ac3a13135c9091ca0",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T11:51:19+00:00"
+  },
+  {
+   "id": "c5c4622c9bda83e3",
+   "title": "Australian politics live: Greens say Liberal-One Nation defector just ‘changing billionaire donor’",
+   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+   "date": "2026-11-25T22:37:04+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Mick Tsikas/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/268377c3499d542a8941cdae822ad8c48c840b31/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=59bbf9e4377dad06e9627d115ac704ed",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
    "id": "073d45a0dd731530",
    "title": "Senate committee recommends changing Liberals' data access bill following cybersecurity concerns",
    "summary": "Senators on the national security committee want to see some changes made to a deeply divisive Liberal bill that would give police and intelligence agencies easier access to Canadians' private information.",
@@ -202,26 +242,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T22:35:21+00:00"
-  },
-  {
-   "id": "c5c4622c9bda83e3",
-   "title": "Australian politics live: Greens say Liberal-One Nation defector just ‘changing billionaire donor’",
-   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-25T22:27:07+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/268377c3499d542a8941cdae822ad8c48c840b31/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=59bbf9e4377dad06e9627d115ac704ed",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Mick Tsikas/AAP"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T19:56:31+00:00"
   },
   {
    "id": "e3b02cc2efa76f0e",
@@ -264,26 +284,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T22:17:10+00:00"
-  },
-  {
-   "id": "ce3d5df3befb05f9",
-   "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
-   "summary": "Senator-elect Troy Jackson, of Maine, announced he would support the progressive over the current minority leader, Chuck Schumer",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-   "date": "2026-11-25T21:59:05+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Nathan Posner/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/1ded0ee0250a7ae31faed7b6ee3dc216c3eee7d6/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=68d3bfbc4e3e807ac3a13135c9091ca0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T11:51:19+00:00"
   },
   {
    "id": "ba9ffe98f19defb0",
@@ -746,9 +746,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/fa20bcae-ca7a-4473-88ae-d46b402f027e,1795631992690/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C397%2C7619%2C4285%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/fa20bcae-ca7a-4473-88ae-d46b402f027e,1795631992690/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C397%2C7619%2C4285%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T18:50:53+00:00"
@@ -809,9 +809,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/ea6d493d-fb81-4962-a53a-9668ac5792c2,1787068622460/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/ea6d493d-fb81-4962-a53a-9668ac5792c2,1787068622460/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T18:50:53+00:00"
@@ -999,9 +999,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/32ffbe40-419e-49de-a137-9420354e2caa,1795627962053/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C8273%2C4653%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/32ffbe40-419e-49de-a137-9420354e2caa,1795627962053/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C8273%2C4653%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T18:50:53+00:00"
@@ -1203,9 +1203,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/ec6980d6-13bb-4cb4-aa9b-3e15b8b4a05a,1795620016484/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4464%2C2511%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/ec6980d6-13bb-4cb4-aa9b-3e15b8b4a05a,1795620016484/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4464%2C2511%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T18:50:53+00:00"
@@ -1494,9 +1494,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/82061650-cee3-42e5-843e-fa579a9f3ef5,1795610106788/full/max/0/default.jpg?im=Crop%2Crect%3D%2866%2C0%2C1555%2C874%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/82061650-cee3-42e5-843e-fa579a9f3ef5,1795610106788/full/max/0/default.jpg?im=Crop%2Crect%3D%2866%2C0%2C1555%2C874%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T18:50:53+00:00"

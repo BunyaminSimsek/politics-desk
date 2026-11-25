@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T12:37:01+00:00",
+ "generatedAt": "2026-11-25T12:46:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 28
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,54 @@
  ],
  "items": [
   {
+   "id": "ce3d5df3befb05f9",
+   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "date": "2026-11-25T12:42:45+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
+    "w": 700
+   },
+   "breaking": true,
+   "addedAt": "2026-11-25T11:51:19+00:00"
+  },
+  {
+   "id": "a87455069b89efa4",
+   "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+   "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T12:42:11+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T02:02:33+00:00"
+  },
+  {
    "id": "c7d3f2302a2528f8",
    "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
    "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-   "date": "2026-11-25T12:26:59+00:00",
+   "date": "2026-11-25T12:38:09+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -226,26 +268,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T06:47:00+00:00"
-  },
-  {
-   "id": "ce3d5df3befb05f9",
-   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-   "date": "2026-11-25T12:15:46+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
-    "w": 700
-   },
-   "breaking": true,
-   "addedAt": "2026-11-25T11:51:19+00:00"
   },
   {
    "id": "17167cee091869d7",
@@ -330,7 +352,7 @@
   {
    "id": "60385ebbe8212393",
    "title": "Overnight RSF drone attacks kill 19 in Sudan",
-   "summary": "The attacks also injured at least 20 people – the latest casualties in a drone war that is quickly escalating.",
+   "summary": "The attacks on Blue Nile State also injured at least 20 people – in a drone war that is quickly escalating.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
    "date": "2026-11-25T11:58:15+00:00",
@@ -447,28 +469,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:32:46+00:00"
-  },
-  {
-   "id": "a87455069b89efa4",
-   "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-   "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T11:29:40+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T02:02:33+00:00"
   },
   {
    "id": "ef4e7886f52fc2f4",

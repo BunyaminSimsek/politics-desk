@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T09:32:33+00:00",
+ "generatedAt": "2026-11-25T09:42:32+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 28
+   "kept": 30
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,52 @@
  ],
  "items": [
   {
+   "id": "fec089386af65c2b",
+   "title": "M&G boss urges UK to stem flood of firms leaving London Stock Exchange after Compass exit",
+   "summary": "Warning comes after £46bn school and NHS caterer decides to moves main listing to New York, the latest in a long line of departures Business live – latest updates The boss of the British investment group M&G has called on the government to “take a stand”…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/25/m-and-g-boss-urges-uk-stem-firms-leaving-lse-compass-exit",
+   "date": "2026-11-25T09:25:12+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/d41608b9d322c810a4fde39f4cf3d14da9b6886b/186_0_4054_3244/master/4054.jpg?width=700&quality=85&auto=format&fit=max&s=6530e919749cd758ba352054d7bac2f6",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Adrian Sherratt/Alamy"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T09:42:32+00:00"
+  },
+  {
+   "id": "c7d3f2302a2528f8",
+   "title": "Burnham’s devolution plans risk ‘significant disparities’ for people in England, MPs say – UK politics live",
+   "summary": "Public accounts committee warns of ‘disparities in opportunities and outcomes’ depending on the type of strategic authority where people live Good morning. Kemi Badenoch will be choosing what to raise at PMQs this morning and she’s spoilt for choice.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+   "date": "2026-11-25T09:22:43+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/030d04c96ea7bf8fc41e165f73f6dfbc8a93f9c1/1440_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=a565ebdb7dd253b9686da5b7002ffca0",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Christopher Thomond/The Guardian"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T09:42:32+00:00"
+  },
+  {
    "id": "64a5b65b057facdc",
    "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
-   "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ Merz goes back to last week’s meeting of the Coalition of the Willing in Berlin, saying the US delegation was “it seemed to me, quite clearly surprised by how united ……",
+   "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ Merz also touches on this week’s EU summit, starting tomorrow, and the likely contentious negotiations over the next EU budget.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
-   "date": "2026-11-25T09:07:47+00:00",
+   "date": "2026-11-25T09:20:12+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -1181,7 +1221,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8208,26 +8248,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T10:08:47+00:00"
-  },
-  {
-   "id": "e5213002c1bdfc8f",
-   "title": "Restored wells bring life back to Hebron’s occupied Old City",
-   "summary": "Hebron's Old City has been under constant siege by Israeli settlers and the military.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
-   "date": "2026-11-22T09:33:16+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/163A6934-1795336739.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/163A6934-1795336739.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T09:50:29+00:00"
   }
  ]
 }

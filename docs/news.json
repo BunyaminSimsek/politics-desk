@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T15:53:16+00:00",
+ "generatedAt": "2026-11-25T18:50:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 3
+   "kept": 4
   },
   {
    "source": "CTV News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 11
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -125,7 +125,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -149,7 +149,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/africa/rss",
    "ok": true,
-   "kept": 7
+   "kept": 5
   },
   {
    "source": "The Conversation",
@@ -166,24 +166,624 @@
  ],
  "items": [
   {
+   "id": "8360aa3b56936661",
+   "title": "Despite new powers, industry minister hasn't forced telecoms to remove Huawei equipment",
+   "summary": "Despite legislating new powers last spring to force telecommunications companies to remove products considered a security risk, the minister of industry hasn't used them — and the Conservative Opposition is asking why.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/huawei-zte-china-cell-phone-towers-9.7435692?cmp=rss",
+   "date": "2026-11-25T18:45:26+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/fa20bcae-ca7a-4473-88ae-d46b402f027e,1795631992690/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C397%2C7619%2C4285%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "5f6125026459bffb",
+   "title": "U.S. wants to accommodate Canada on sectoral tariffs, Trump trade czar says",
+   "summary": "Steel, aluminum, automobiles and lumber are subject to steep 25 per cent tariffs imposed under Section 232 of the U.S. Trade Expansion Act.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12165941/us-accommodate-canada-sectoral-tariffs-trump/",
+   "date": "2026-11-25T18:43:28+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Jamieson-Greer-sectoral-tariffs.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Jamieson-Greer-sectoral-tariffs.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "510234d634caf753",
+   "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+   "summary": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T18:41:33+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "b4d1799dd45b8e0b",
+   "title": "Canadian intern and suspected NATO spy to await trial under electronic monitoring",
+   "summary": "Biwei Zhang, the 33-year-old computer scientist accused of spying on NATO, will be under electronic monitoring while awaiting trial, a Belgian court ruled on Wednesday.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/canada/canadian-nato-intern-spy-suspect-electronic-monitoring-9.7435716?cmp=rss",
+   "date": "2026-11-25T18:30:34+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/ea6d493d-fb81-4962-a53a-9668ac5792c2,1787068622460/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
    "id": "ce3d5df3befb05f9",
-   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
+   "title": "‘I am leaving with my freedom’: Kilmar Ábrego García lands in Spain after choosing to leave US - live",
+   "summary": "Before his departure, Immigration and Customs Enforcement agents met him at the airport and removed his ankle monitor, an advocacy group reported",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-   "date": "2026-11-25T15:44:40+00:00",
+   "date": "2026-11-25T18:23:45+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/fedd12377351e3e84402029d8354b6185d25dc6e/129_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=c46606135046ab652da6f7ffdd0d51ec",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Fernando Villar/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T11:51:19+00:00"
+  },
+  {
+   "id": "2e0a167eca262bad",
+   "title": "Margaret Atwood urging Ottawa to block bird-threatening telecom tower on Pelee Island",
+   "summary": "A coalition backed by Margaret Atwood is urging Ottawa to block construction of a tower on Ontario's Pelee Island that they say threatens bird safety along a major migratory route.",
+   "source": "Global News Toronto",
+   "url": "https://globalnews.ca/news/12165939/margaret-atwood-urging-ottawa-to-block-bird-threatening-telecom-tower-on-pelee-island/",
+   "date": "2026-11-25T18:16:42+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2025/05/8beeff529abe9e38ba214e0ddfb261f08a0ea1469a4fcd1df3c00df4ddc3a6c7.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2025/05/8beeff529abe9e38ba214e0ddfb261f08a0ea1469a4fcd1df3c00df4ddc3a6c7.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "1df2b41b28b64a57",
+   "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
+   "summary": "Tinubu is under pressure to convince voters that military operations in the country's northeast will deliver security.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
+   "date": "2026-11-25T18:14:44+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0719bca5cf-1795627452.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0719bca5cf-1795627452.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "25e0b737ebd943c1",
+   "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
+   "summary": "Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged A UN tribunal has cast doubt on the evidence used to justify the sacking of Palestinian UN aid workers in 2024, saying it was based “almost…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
+   "date": "2026-11-25T18:14:27+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/65d32fbb43f0e7ee1a67c12068fb35f5cd6d3afb/780_0_6250_5000/master/6250.jpg?width=700&quality=85&auto=format&fit=max&s=726eabe27b529788bdc041436f62e6b1",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Haitham Imad/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "a6a06d24830e6b08",
+   "title": "Cop31 collapse must be a catalyst for genuine climate action | Letters",
+   "summary": "Readers on the failure of the climate talks in Turkey and the lessons we can learn The failure of Cop31, as commented on by Bill McGuire ( A year of deadly floods and fires – and yet Cop31 still collapsed.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/25/cop31-collapse-must-be-a-catalyst-for-genuine-climate-action",
+   "date": "2026-11-25T18:08:06+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/1ad1e21eec8f8e212fe5d58786ab1140262c2050/786_0_5833_4667/master/5833.jpg?width=700&quality=85&auto=format&fit=max&s=b65a7b1288c85e072a014a8eace48279",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Guy Bell/Shutterstock"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "9b0623c4173565b6",
+   "title": "What’s with Jan van Eyck’s tiny hands? | Brief letters",
+   "summary": "A riddle or bad draughtsmanship? | Trump’s Nvidia deal | Not a flavour to savour | Melania’s $150 photos | Word Wheel winner In her feature on Jan van Eyck’s portraits ( Tricks! Traps! Riddles!",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/artanddesign/2026/nov/25/whats-with-jan-van-eyck-tiny-hands",
+   "date": "2026-11-25T18:07:35+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
+    "url": "https://i.guim.co.uk/img/media/fd73b076ee279795ac9c6f9e67c1292591401fcd/91_0_5019_4015/master/5019.jpg?width=700&quality=85&auto=format&fit=max&s=147e83e3c293698ad862470dcfa68869",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
+    "credit": "Photograph: SuperStock/Alamy"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "f2c6f36454cb83df",
+   "title": "Liberals, Carney defend 'brutal' pace of committee work on major projects bill",
+   "summary": "OTTAWA - Federal Liberals, including Prime Minister Mark Carney, are defending the speed at which their major projects bill passed through a House committee — a process one opposition MP called \"brutal.\"",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/liberals-carney-defend-brutal-pace-of-committee-work-on-major-projects-bill/article_0ef5b4f0-7c56-51a3-be19-2c121b407aa5.html",
+   "date": "2026-11-25T17:59:39+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/aa/8aa07e1b-a1f0-5f44-8a98-49002dc01d9e/6b0723522e37b.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 817,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/aa/8aa07e1b-a1f0-5f44-8a98-49002dc01d9e/6b0723522e37b.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "08d4df77bc7d0f89",
+   "title": "Ecuador and US review joint military operations, official says",
+   "summary": "Joint military efforts have been paused as the US investigates a lethal operation carried out by Ecuador.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
+   "date": "2026-11-25T17:50:41+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0702d2-1795621586.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0702d2-1795621586.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "c7d3f2302a2528f8",
+   "title": "UK politics: Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’ – as it happened",
+   "summary": "Pair clashed at PMQs over a video shot outside No 10 by TikToker Max Balegde Diane Taylor is a Guardian reporter who covers migration.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+   "date": "2026-11-25T17:42:31+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Parliament Live",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e4bc143c5a0521d085a742a9218aba3012f9fd1b/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=519c5f1417fdb666cc92ed2503e65c65",
     "w": 700
    },
-   "breaking": true,
-   "addedAt": "2026-11-25T11:51:19+00:00"
+   "breaking": false,
+   "addedAt": "2026-11-25T09:42:32+00:00"
+  },
+  {
+   "id": "a44e49325b7e5a21",
+   "title": "As Pentagon blasts Canada's defence spending, Carney says Trump hasn't raised concerns",
+   "summary": "Prime Minister Mark Carney said U.S. President Donald Trump hasn't raised issues with him about Canada not pulling its weight defending North America, despite the Pentagon blasting Canada about it.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/carney-trump-pentagon-criticism-canada-defence-spending-military-readiness-9.7435718?cmp=rss",
+   "date": "2026-11-25T17:42:23+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy",
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/32ffbe40-419e-49de-a137-9420354e2caa,1795627962053/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C8273%2C4653%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "38f98bf868f67ea2",
+   "title": "Group of Senate Democrats push to add freshman to leadership",
+   "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+   "date": "2026-11-25T17:30:47+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5890x3927+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2F3b%2F29bab78c4dbabe5ff0b0354fe457%2Fgettyimages-2184408117.jpg",
+    "w": 1200,
+    "h": 800,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5890x3927+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2F3b%2F29bab78c4dbabe5ff0b0354fe457%2Fgettyimages-2184408117.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "765e17f902d6d05b",
+   "title": "Iraq’s top court rules government can take over Kurdish borders, oil fields",
+   "summary": "The ruling comes a day after Kurdish authorities accused Baghdad of an 'assault' on the region's constitutional rights.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
+   "date": "2026-11-25T17:29:51+00:00",
+   "topic": "turkey",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0090b5-1795199157.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0090b5-1795199157.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "faa895b828bba219",
+   "title": "Trump open to pardoning Jensen Huang if needed: ‘It’s always an option’",
+   "summary": "The president’s comments came after pressuring Nvidia’s board to reinstall Huang as CEO despite lawmakers’ concerns over national security Donald Trump said on Tuesday he would be open to pardoning Jensen Huang , the recently reinstalled Nvidia CEO , for…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
+   "date": "2026-11-25T17:21:10+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/64ba8040e817c66db39566be7cfba8bd01500879/151_0_2828_2262/master/2828.jpg?width=700&quality=85&auto=format&fit=max&s=78cba36ade1505b3e905fee12defa222",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Leah Millis/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "4844fcb77e92d23f",
+   "title": "Ottawa taps Qatar to offer consular help to Canadians in Afghanistan",
+   "summary": "OTTAWA - Qatar is partnering with Ottawa to provide consular services to Canadians in Afghanistan.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/ottawa-taps-qatar-to-offer-consular-help-to-canadians-in-afghanistan/article_c3e55ec4-448f-54b5-8463-05554fe13ef9.html",
+   "date": "2026-11-25T17:15:33+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/96/39657964-781a-5a92-9a5f-ccdce51117a3/6b0718c54a855.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/96/39657964-781a-5a92-9a5f-ccdce51117a3/6b0718c54a855.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "16c2406d8db12893",
+   "title": "Margaret Atwood urges feds to block bird-threatening telecom tower on Pelee Island",
+   "summary": "A coalition backed by Margaret Atwood is urging Ottawa to block construction of a telecom tower on Ontario's Pelee Island that they say threatens bird safety along a major migratory route.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
+   "date": "2026-11-25T17:11:40+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/57/3573dfa2-b627-5995-bf5f-fac23eb4bf18/6b0717993c6b0.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/57/3573dfa2-b627-5995-bf5f-fac23eb4bf18/6b0717993c6b0.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "abd521f77212a438",
+   "title": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
+   "summary": "Nicolas Maduro’s son led birthday celebrations in Caracas as the abducted former Venezuelan president turned 64",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+   "date": "2026-11-25T17:05:35+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795626328.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795626328.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "483f64d5371ececf",
+   "title": "Recent sinking of Russian vessels abroad shows the Russia-Ukraine war has officially gone global",
+   "summary": "Ukraine has been executing a series of successful strikes against Russian assets around the world.",
+   "source": "The Conversation",
+   "url": "https://theconversation.com/recent-sinking-of-russian-vessels-abroad-shows-the-russia-ukraine-war-has-officially-gone-global-297352",
+   "date": "2026-11-25T17:04:48+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy",
+    "defence"
+   ],
+   "kind": "analysis",
+   "image": {
+    "url": "https://images.theconversation.com/files/774059/original/file-20261124-62-19des3.jpg?ixlib=rb-4.1.1&rect=0%2C5%2C1200%2C600&q=45&auto=format&h=668&w=1200&fit=clip",
+    "w": 1200,
+    "h": 600,
+    "small": "https://images.theconversation.com/files/774059/original/file-20261124-62-19des3.jpg?ixlib=rb-4.1.1&rect=0%2C5%2C1200%2C600&q=45&auto=format&h=668&w=640&fit=clip"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "da4f4caf2163e153",
+   "title": "Switzerland forced to close office in North Korea over sanctions feud",
+   "summary": "The closure came after North Korea condemned Switzerland for adding a children’s camp to its sanctions list.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss",
+   "date": "2026-11-25T16:58:49+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b070a9173b4c-1795623569.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b070a9173b4c-1795623569.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "70258c90a4104149",
+   "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+   "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T16:42:11+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "ff16e47c0dbb0f2a",
+   "title": "Poundland collapses into administration, putting 12,000 jobs at risk",
+   "summary": "US owner Gordon Brothers rejected at least two last-ditch bids for UK budget retailer Do you work for Poundland?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
+   "date": "2026-11-25T16:41:08+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/16edaa98dc3beaf524550e0893db04ce2ca3ac5b/2156_1095_3431_2745/master/3431.jpg?width=700&quality=85&auto=format&fit=max&s=5a655baa86852754ab352e1d147cc29a",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Richard saker/The Guardian"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "738443e67a1f4864",
+   "title": "US announces new tariffs on host of countries including China",
+   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T16:21:34+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T10:37:27+00:00"
+  },
+  {
+   "id": "78d97024b0707c09",
+   "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
+   "summary": "Ábrego García chose to depart from US after previously being deported to El Salvador due to ‘administrative error’ Kilmar Ábrego García, the Salvadoran national whose mistaken deportation turned him into a symbol of Donald Trump’s mass deportation efforts…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
+   "date": "2026-11-25T16:16:25+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/546c0ebb54136f55c3f3a18f2bb47b1e31a9cb02/68_0_2390_1912/master/2390.jpg?width=700&quality=85&auto=format&fit=max&s=26a08087fc7658d65f52e77e1bb7f1ed",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Óscar del Pozo/AFP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "d033ed3d5b7b22c1",
+   "title": "Bangladesh garment workers who supply H&M, Walmart and Gap protest lowest pay hike in 40 years",
+   "summary": "Bangladesh, which supplies major retailers such as H&M, Zara, Walmart, Target and Gap, has approved the smallest minimum wage hike for garment workers in four decades, despite weeks of protests.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/bangladesh-garment-workers-protest-9.7435339?cmp=rss",
+   "date": "2026-11-25T16:00:32+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/ec6980d6-13bb-4cb4-aa9b-3e15b8b4a05a,1795620016484/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4464%2C2511%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "72169994222f16ac",
+   "title": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
+   "summary": "The Court of Arbitration for Sport ruled that Senegal were the rightful winners of the 2025 African Cup of Nations.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss",
+   "date": "2026-11-25T15:51:58+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b06fc5b19681-1795619931.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b06fc5b19681-1795619931.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "7ef2efee33970dcc",
+   "title": "53 incoming House Democrats to boycott Harvard orientation in support of graduate students’ strike",
+   "summary": "‘We have been informed that to attend your event we would be required to cross a union picket line,’ the Democrats say US politics live – latest updates Fifty three newly elected members of Congress told Harvard University on Tuesday that they will boycott an…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/education/2026/nov/25/house-democrats-harvard-boycott-strike",
+   "date": "2026-11-25T15:47:25+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/3c09f326082eb16a7c75d3da3d3160983610ab59/912_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=0792e642dd1d79a56cddcf6516f8a1c5",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Boston Globe/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "a61ab511a42dd98e",
+   "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
+   "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in the US stock market continued Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+   "date": "2026-11-25T15:46:15+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Mehmet Eser/Anadolu/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=700&quality=85&auto=format&fit=max&s=69f11e4a212f57fb1305845584886a2b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T14:10:57+00:00"
   },
   {
    "id": "0f7af8237d936828",
@@ -208,10 +808,10 @@
   {
    "id": "7accd67eb84d75f0",
    "title": "Carney says Pentagon's complaints about Canada haven't come up in talks with Trump",
-   "summary": "OTTAWA - Prime Minister Mark Carney says the Pentagon's recent complaints about Canada's defence spending have not come up in his conversations with U.S. President Donald Trump.",
+   "summary": "The prime minister said Canada is taking responsibility for its own defence.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/carney-says-pentagon-s-complaints-about-canada-haven-t-come-up-in-talks-with-trump/article_45931914-230a-574b-a6e5-5368b41c71c2.html",
-   "date": "2026-11-25T15:42:27+00:00",
+   "date": "2026-11-25T15:42:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [
@@ -219,10 +819,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/97/9976d112-eac5-5889-863d-f7828945b4d8/6b07028120bd3.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 803,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/97/9976d112-eac5-5889-863d-f7828945b4d8/6b07028120bd3.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/97/9976d112-eac5-5889-863d-f7828945b4d8/6b07028120bd3.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/97/9976d112-eac5-5889-863d-f7828945b4d8/6b07028120bd3.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T15:53:16+00:00"
@@ -279,35 +879,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06efb2-1795616690.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06efb2-1795616690.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06efb2-1795616690.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06efb2-1795616690.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T15:53:16+00:00"
-  },
-  {
-   "id": "c7d3f2302a2528f8",
-   "title": "Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’ – UK politics live",
-   "summary": "Pair clashed at PMQs over a video shot outside No 10 by TikToker Max Balegde Diane Taylor is a Guardian reporter who covers migration.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-   "date": "2026-11-25T15:34:07+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Parliament Live",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e4bc143c5a0521d085a742a9218aba3012f9fd1b/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=519c5f1417fdb666cc92ed2503e65c65",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T09:42:32+00:00"
   },
   {
    "id": "fb44ac6ac1f9710b",
@@ -353,7 +931,7 @@
   },
   {
    "id": "26f4b432db193dc1",
-   "title": "Trump announces new trade tariffs: Which countries will they target?",
+   "title": "Trump announces new trade tariffs: Which countries are affected?",
    "summary": "The US is planning tariffs on 14 economies it accuses of using subsidies to help their industries overproduce.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
@@ -396,26 +974,45 @@
    "addedAt": "2026-11-25T14:47:42+00:00"
   },
   {
-   "id": "a61ab511a42dd98e",
-   "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
-   "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting Consumer prices rose an annualized 3.8% in October, according to new inflation data released on Wednesday, the highest since May and the last…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-   "date": "2026-11-25T13:54:06+00:00",
+   "id": "1ef458bb38ec1017",
+   "title": "What's driving up the cost of your Thanksgiving turkey?",
+   "summary": "BBC Verify has looked into how prices compare with previous years as Democrats blame President Trump for recent rises.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cw99e4x4x84no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T13:59:57+00:00",
    "topic": "us",
    "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e863/live/33fc6e30-e8d7-11f1-99b6-a35a62fa4264.png",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e863/live/33fc6e30-e8d7-11f1-99b6-a35a62fa4264.png"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "f8dc670fa4aba6e6",
+   "title": "Libyan army says 2 officers were killed in Ukraine's attack on Russian warship",
+   "summary": "Two Libyan naval officers died from wounds sustained in Ukraine's recent drone attack on a Russian warship docked at a port in eastern Libya, military authorities there said, vowing unspecified retaliation against Kyiv for the deaths.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/ukraine-russia-libya-attack-9.7435192?cmp=rss",
+   "date": "2026-11-25T13:49:04+00:00",
+   "topic": "ukraine",
+   "region": "world",
    "tags": [
-    "economy"
+    "defence"
    ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Mehmet Eser/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=700&quality=85&auto=format&fit=max&s=69f11e4a212f57fb1305845584886a2b",
-    "w": 700
+    "url": "https://i.cbc.ca/ais/82061650-cee3-42e5-843e-fa579a9f3ef5,1795610106788/full/max/0/default.jpg?im=Crop%2Crect%3D%2866%2C0%2C1555%2C874%29%3B",
+    "credit": "",
+    "caption": ""
    },
    "breaking": false,
-   "addedAt": "2026-11-25T14:10:57+00:00"
+   "addedAt": "2026-11-25T18:50:53+00:00"
   },
   {
    "id": "c693fbc0a214528b",
@@ -449,9 +1046,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/f8657a3f-c1bb-48b2-b95b-f5b7fc410003,1795611983116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C136%2C4101%2C2306%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/f8657a3f-c1bb-48b2-b95b-f5b7fc410003,1795611983116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C136%2C4101%2C2306%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T13:32:55+00:00"
@@ -495,28 +1092,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T13:32:55+00:00"
-  },
-  {
-   "id": "738443e67a1f4864",
-   "title": "US announces new tariffs on host of countries including China",
-   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T13:19:41+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T10:37:27+00:00"
   },
   {
    "id": "bb246a3f102f5b95",
@@ -745,6 +1320,26 @@
    "addedAt": "2026-11-25T12:18:53+00:00"
   },
   {
+   "id": "c1e6355cdda9d0de",
+   "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+   "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+   "date": "2026-11-25T11:50:05+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2Fe4%2F4f6d59a04c01950dd8cc6ac618a1%2Fgettyimages-1243410569.jpg",
+    "w": 1200,
+    "h": 800,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2Fe4%2F4f6d59a04c01950dd8cc6ac618a1%2Fgettyimages-1243410569.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
    "id": "7044fe44c18fed42",
    "title": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
    "summary": "Exclusive: Private members’ motion comes amid concern about Christian symbols being appropriated by the far right Church of England clergy could be banned from joining or supporting the hard-right Restore Britain party under a motion put forward for debate at…",
@@ -786,8 +1381,8 @@
   },
   {
    "id": "8ae67be5d77483f5",
-   "title": "Man to be sentenced for 2025 crash that killed Ontario father of three",
-   "summary": "A driver in a head-on crash that killed a father of three last year is expected to be sentenced Wednesday in the case that prompted the Ontario government to introduce tougher dangerous driving penalties.",
+   "title": "Driver in 2025 crash that killed father of 3 sentenced to 6.5 years",
+   "summary": "A driver in a head-on crash that killed a father of three last year and prompted the Ontario government to introduce tougher dangerous driving penalties has been sentenced to six years and six months behind bars.",
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/dangerous-driving-sentencing-cristillo-kirubananthan-9.7435165?cmp=rss",
    "date": "2026-11-25T11:35:28+00:00",
@@ -1801,7 +2396,7 @@
   {
    "id": "dad1a10a86cc9ab4",
    "title": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
-   "summary": "Levity was in short supply as president, reeling from midterms rout, talked up his achievements – and fixated on White House vanity project For some, it was his pardoning of the January 6 rioters or the deployment of masked ICE agents.",
+   "summary": "Levity was in short supply as the president, reeling from midterms rout, talked up his achievements – and fixated on his White House vanity project For some, it was his pardoning of the January 6 rioters or the deployment of masked ICE agents.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
    "date": "2026-11-25T00:56:48+00:00",
@@ -2011,7 +2606,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2166,7 +2761,7 @@
   },
   {
    "id": "d35e1972c1d20aee",
-   "title": "Iowa braces for controlled bomb blast: ‘We had only five days of warning’",
+   "title": "Iowans anxious over lead detonation: ‘We had only five days of warning’",
    "summary": "Detonation of 68 barrels of lead azide scheduled for Wednesday after several delays amid public outcry Residents of Iowa, Illinois and Missouri who are preparing for Thanksgiving are also bracing themselves for the detonation of hazardous bomb-making…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
@@ -7713,601 +8308,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T05:21:11+00:00"
-  },
-  {
-   "id": "a3d6e17b844c421d",
-   "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
-   "summary": "Analysis for thinktank points to cycle of falling income leading to lower spending on content in ‘spiral of decline’ Fewer than half of households in Britain will pay the BBC’s licence within a decade, according to analysis that warns that the broadcaster’s…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
-   "date": "2026-11-23T05:00:48+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Nick Briggs/BBC/Playground Entertainment",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8c4db6fd4ae5ad0a7eba3fd774dbdd650047180d/326_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=e42c677747e1841b7b10ecc211ffc8e9",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T05:21:11+00:00"
-  },
-  {
-   "id": "94e8727b585e7042",
-   "title": "Love made a fool of Beau Lamarre-Condon but did not make him a murderer, defence argues",
-   "summary": "Crown says accused former officer developed ‘jealous obsession’ but defence says ‘he was a poorly behaved boyfriend’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Love made a fool of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
-   "date": "2026-11-23T04:34:11+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Rocco Fazzari/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/224_167_2452_1962/master/2452.jpg?width=700&quality=85&auto=format&fit=max&s=d9f8f432da9a01c536ee94da099b5c43",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T01:22:17+00:00"
-  },
-  {
-   "id": "aae51d5e942a94a9",
-   "title": "‘Difficult geopolitical times’: Albanese defends Bowen after Cop31 deal failure",
-   "summary": "Coalition calls for climate change minister to resign immediately or be sacked over ‘catastrophic diplomatic disaster’, despite offering no alternatives on reducing emissions",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure",
-   "date": "2026-11-23T04:21:00+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lukas Coch/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b9df393984e43418731394be8b2ebe70ca5aaf7c/845_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=96d98b4a5c5bad00dcbbcc04e631f6b9",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T04:34:57+00:00"
-  },
-  {
-   "id": "756073f765a59932",
-   "title": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns",
-   "summary": "Economists flag rising recession risk as government forecasts economy will grow by less than 2% in 2027 and 2028 Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Jim Chalmers has warned…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
-   "date": "2026-11-23T04:17:27+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lukas Coch/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f71980e7e1c20fd35fcef4d6b977444721eadfd1/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=e1275691a836f3568b6d95a39fe1cfe7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T04:34:57+00:00"
-  },
-  {
-   "id": "d137cc38db6898b0",
-   "title": "Doula thought self-described birth keeper was clinically trained before NSW baby death, inquest hears",
-   "summary": "Inquest into the deaths of four babies after free and home births hears doula urged client to attend birth centre Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast A doula who supported a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/23/doula-thought-self-described-birth-keeper-was-clinically-trained-before-nsw-baby-death-inquest-hears-ntwnfb",
-   "date": "2026-11-23T04:03:07+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: gofundme.com",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f1717a2a58a718f26e5ea27c390dc3e864b3b906/0_0_3000_2399/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=bbcb76e569f2baeffca7ca2c61ef84ba",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T04:16:39+00:00"
-  },
-  {
-   "id": "83aa240cb8a5b20c",
-   "title": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
-   "summary": "Scientific and satellite findings warn of widespread contamination in Gaza, posing grave threats to public health ‘for generations to come’ Israel’s destruction of Gaza has left a devastating environmental legacy with poisoned water, contaminated soil and…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
-   "date": "2026-11-23T04:00:45+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ahmed Ibrahim/APAImages/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3f84cee4d3a31ab236a50a7d425bc2b6fc6b6fe8/237_0_2475_1980/master/2475.jpg?width=700&quality=85&auto=format&fit=max&s=873b46859e7ba138a353a21c6b0e6d7d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T04:16:39+00:00"
-  },
-  {
-   "id": "14133e8440d3b199",
-   "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
-   "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
-   "date": "2026-11-23T02:23:13+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b037a2f-1795389999.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b037a2f-1795389999.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T02:44:50+00:00"
-  },
-  {
-   "id": "4de92c2c9b981d87",
-   "title": "Carney, opposition leaders trade comedic jabs at press gallery dinner",
-   "summary": "Two Mark Carneys and a Donald Trump shared the stage at the Parliamentary Press Gallery dinner Saturday, when the prime minister got a little help from This Hour Has 22 Minutes impersonators to give the traditional comedic speech.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/carney-press-gallery-dinner-9.7432138?cmp=rss",
-   "date": "2026-11-23T01:55:29+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/dcb903a2-c31e-49e4-ac73-0d3859cae4fa,1795398121842/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C197%2C3778%2C2125%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T02:44:50+00:00"
-  },
-  {
-   "id": "d0bc63222d2b60e4",
-   "title": "Libya’s military says ‘fully prepared’ after Benghazi attacks",
-   "summary": "Libyan military says Benghazi port is ‘under control’ and it is ‘fully prepared’ to respond to threats.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/libyas-military-says-fully-prepared-after-benghazi-attacks?traffic_source=rss",
-   "date": "2026-11-23T01:51:32+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795398611.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795398611.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T02:07:58+00:00"
-  },
-  {
-   "id": "625f75768949574d",
-   "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
-   "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
-   "date": "2026-11-23T00:39:51+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26224654243554-1795391797.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26224654243554-1795391797.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T00:54:44+00:00"
-  },
-  {
-   "id": "3ecf1ecb43f07a79",
-   "title": "Iran war live: Hormuz tankers set ablaze; Tehran warns of internal threats",
-   "summary": "Oil tankers were set ablaze in the Strait of Hormuz as Iran warned that its enemies sought to stoke domestic unrest.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-   "date": "2026-11-22T23:59:22+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b031d3b43da-1795366203.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T00:08:45+00:00"
-  },
-  {
-   "id": "1807cf7613f2f0bd",
-   "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
-   "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
-   "date": "2026-11-22T23:22:59+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b03755c-1795388764.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b03755c-1795388764.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T23:41:21+00:00"
-  },
-  {
-   "id": "9f4874e413be4bd5",
-   "title": "Mark Carney, federal party leaders bust out comedic chops at press gallery dinner",
-   "summary": "The prime minister got a little help from \"This Hour Has 22 Minutes\" impersonators to give the traditional comedic speech.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/carney-federal-party-leaders-bust-out-comedic-chops-at-press-gallery-dinner/article_3e7bd325-778e-5213-bc4d-5941d1d1d63a.html",
-   "date": "2026-11-22T22:05:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/73/173e4f30-ed7a-56e4-99cd-955f429b5c21/6b03683d38bac.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/73/173e4f30-ed7a-56e4-99cd-955f429b5c21/6b03683d38bac.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T23:50:30+00:00"
-  },
-  {
-   "id": "6d237cbadb79f401",
-   "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
-   "summary": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass Michigan US senator-elect Abdul El-Sayed on Sunday doubled down on naming healthcare reform legislation after Donald Trump as long as it…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
-   "date": "2026-11-22T22:01:17+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kevin Lamarque/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/78f33ce8c7f9ce573db8956e2c3886261286f04f/232_0_4113_3290/master/4113.jpg?width=700&quality=85&auto=format&fit=max&s=724301389237418347353d40b6a22ab5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T22:19:15+00:00"
-  },
-  {
-   "id": "9e0e59e94b700d88",
-   "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-   "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-   "date": "2026-11-22T22:00:58+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Amer Ghazzal/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/323290cab4a059e743deb4e7ae0928f6d847b2af/681_32_4857_3885/master/4857.jpg?width=700&quality=85&auto=format&fit=max&s=4b11d44d7ade66f2f41b91bb001c5ba9",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T16:35:32+00:00"
-  },
-  {
-   "id": "5ef7582c1147383f",
-   "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
-   "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point After delivering a major speech to the UN climate talks in Turkey last week, the Australian prime…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
-   "date": "2026-11-22T21:46:40+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Murad Sezer/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/92374d04a6b87ec2995da31768a8015be7e26a0b/313_0_2620_2096/master/2620.jpg?width=700&quality=85&auto=format&fit=max&s=ca0b9a525d2c15606ae2a9f3afdcedb9",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T22:00:35+00:00"
-  },
-  {
-   "id": "c259c2c49eb9152f",
-   "title": "U.S. trade chief sees progress in Canada talks, raises China concerns",
-   "summary": "U.S. Trade Representative Jamieson Greer says Washington and Ottawa are making progress toward a trade agreement.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/u-s-trade-chief-sees-progress-in-canada-talks-raises-china-concerns/article_b9b3c8ce-0a04-5597-a99a-70dba1f8d86a.html",
-   "date": "2026-11-22T21:46:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/03/60333da3-da66-5014-94ab-b7af5e729ff7/6abed910dc594.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/03/60333da3-da66-5014-94ab-b7af5e729ff7/6abed910dc594.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T23:59:38+00:00"
-  },
-  {
-   "id": "969b3e367a9a8e12",
-   "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-   "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-   "date": "2026-11-22T21:33:44+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: 2026 Planet Labs PBC/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=700&quality=85&auto=format&fit=max&s=389050a974b0973f247fd793512e2024",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T17:03:16+00:00"
-  },
-  {
-   "id": "cbd4b83e547ffa12",
-   "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
-   "summary": "Parties remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
-   "date": "2026-11-22T21:33:11+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6acf49d4178a-1791969748.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/epa_6acf49d4178a-1791969748.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T21:51:03+00:00"
-  },
-  {
-   "id": "be7b7c85b4a3a985",
-   "title": "New Ontario Liberal boss girds for attack ad blitz from Premier Doug Ford's PCs",
-   "summary": "Navdeep Bains also faces internal pressure to win a legislative seat after a narrow leadership win over MPP Lee Fairclough.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/new-ontario-liberal-boss-girds-for-attack-ad-blitz-from-premier-doug-fords-pcs/article_b3173033-cc92-4e30-95ae-5afac26b0173.html",
-   "date": "2026-11-22T21:00:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/46/546c6bf7-bb9d-563f-be0b-0310233a0532/6b03580e8475b.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/46/546c6bf7-bb9d-563f-be0b-0310233a0532/6b03580e8475b.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T21:32:19+00:00"
-  },
-  {
-   "id": "ee4453aeff39ae58",
-   "title": "New Ontario Liberal boss girds for attack ad blitz from Premier Doug Ford's PCs",
-   "summary": "Navdeep Bains also faces internal pressure to win a legislative seat after a narrow leadership win over MPP Lee Fairclough.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/new-ontario-liberal-boss-girds-for-attack-ad-blitz-from-premier-doug-fords-pcs/article_b3173033-cc92-4e30-95ae-5afac26b0173.html",
-   "date": "2026-11-22T21:00:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/46/546c6bf7-bb9d-563f-be0b-0310233a0532/6b03580e8475b.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/46/546c6bf7-bb9d-563f-be0b-0310233a0532/6b03580e8475b.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T21:41:53+00:00"
-  },
-  {
-   "id": "16bb4b229baf69d1",
-   "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
-   "summary": "Jay Clayton was pressed on Trump’s characterization of Putin during media appearances on Sunday Jay Clayton, the US director of national intelligence, said he trusts Donald Trump “completely” after the US president called Vladimir Putin “a friend” during…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
-   "date": "2026-11-22T20:55:33+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chip Somodevilla/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c6e084993e7554d08fa979d5cced63cab321f6b7/445_0_4447_3559/master/4447.jpg?width=700&quality=85&auto=format&fit=max&s=5b1657e9414cb58bea19c6e84bb39ed4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T21:13:35+00:00"
-  },
-  {
-   "id": "fb61cc4234e2e4e6",
-   "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-   "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-   "date": "2026-11-22T20:23:36+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Edgar Su/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=700&quality=85&auto=format&fit=max&s=0ce74b5525126b4a655a92cda2bfc6b5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T19:50:45+00:00"
-  },
-  {
-   "id": "7020b5a3700c3e2c",
-   "title": "Cockroaches, dissent and a paradigm shift in India",
-   "summary": "The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
-   "date": "2026-11-22T19:40:12+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/WEB-THUMB-SPL-TX43-WIDE-1795376389.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/WEB-THUMB-SPL-TX43-WIDE-1795376389.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T19:59:55+00:00"
-  },
-  {
-   "id": "490fe1287b08b5ba",
-   "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
-   "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
-   "date": "2026-11-22T19:18:29+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/aber-1-1794942045.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/aber-1-1794942045.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T19:41:35+00:00"
-  },
-  {
-   "id": "e1de8a9341eea70a",
-   "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
-   "summary": "Milestone reached Sunday after Democrat Chuck Hubbard defeated Republican Virginia Foxx in North Carolina Democrats have won their largest majority in the House in more than three decades after Chuck Hubbard defeated Republican representative Virginia Foxx in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
-   "date": "2026-11-22T19:17:56+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Anna Moneymaker/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5f402191919a3838c9536ca633ae08dfe18991da/530_0_4817_3854/master/4817.jpg?width=700&quality=85&auto=format&fit=max&s=2620a31ff89b69898c1c25b848ecf6cf",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T19:31:58+00:00"
-  },
-  {
-   "id": "adb0aabaaa02f91c",
-   "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
-   "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
-   "date": "2026-11-22T19:00:34+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "analysis",
-   "image": {
-    "credit": "Photograph: Darren England/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7c9ca8255b51e9604fa64118322f08bb4d19c764/475_0_3640_2912/master/3640.jpg?width=700&quality=85&auto=format&fit=max&s=010dd370e77d5c889271f1998e597721",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T19:22:19+00:00"
-  },
-  {
-   "id": "9262e5fe5f547f12",
-   "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
-   "summary": "Incoming House speaker says party focused on affordability and fixing ‘broken’ healthcare and immigration systems The incoming US House speaker, Hakeem Jeffries , has said he and his fellow Democrats are focused on affordability, expanding healthcare and…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
-   "date": "2026-11-22T18:25:42+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bonnie Cash/UPI/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4e6eb28d17340c345907199ceb683c4277945b37/471_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=c2b5e9dd5d30693241d365d10927c7cd",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T18:36:12+00:00"
-  },
-  {
-   "id": "da2e50e01e2b7bfe",
-   "title": "‘We are close,’ to deal with Canada, Trump’s trade representative says",
-   "summary": "Trade talks collapsed between Canada and the United States in August after Ottawa walked away from the negotiating table in response to last-minute terms.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12161554/jamieson-greer-trade-deal-canada-positive/",
-   "date": "2026-11-22T18:23:48+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Jamieson-Greer-trade-deal-Canada.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Jamieson-Greer-trade-deal-Canada.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T18:27:04+00:00"
   }
  ]
 }

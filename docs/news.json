@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T03:44:13+00:00",
+ "generatedAt": "2026-11-25T03:53:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "75a2a86afd27d1c4",
+   "title": "US attorney general dodges questions about Nvidia investigation",
+   "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T03:44:07+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T19:04:41+00:00"
+  },
   {
    "id": "a27486344dcf34a6",
    "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
@@ -457,7 +477,7 @@
   },
   {
    "id": "f4857084d228e708",
-   "title": "With Huang resuce, Trump riskily ties his political fortunes to Nvidia",
+   "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
    "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
@@ -860,26 +880,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T21:33:57+00:00"
-  },
-  {
-   "id": "75a2a86afd27d1c4",
-   "title": "US attorney general dodges questions about Nvidia investigation",
-   "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T21:19:42+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T19:04:41+00:00"
   },
   {
    "id": "f7caa70350f3a38d",

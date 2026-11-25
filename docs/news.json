@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T07:14:32+00:00",
+ "generatedAt": "2026-11-25T07:23:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 31
+   "kept": 30
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "4ae82ad1b702c41f",
+   "title": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
+   "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+   "date": "2026-11-25T07:07:18+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Ethan James/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/42365c997a7e64f7397399f6bb94257386b759d8/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=dec3dad4dcffb1f2258395d1160f43f3",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T20:37:22+00:00"
+  },
+  {
+   "id": "1949ee2987b0360b",
+   "title": "Energy bills in Great Britain to rise 26% in January, lifting annual bills over £2,000",
+   "summary": "Ofgem’s price cap will increase for third quarter in a row after rise in wholesale cost of gas Millions of British households will face annual energy bills of more than £2,000 a year for the first time since Russia’s invasion of Ukraine, as the cap on energy…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
+   "date": "2026-11-25T07:03:21+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/af41bcfc141d1368dbf63412f77e9419c1fde3aa/388_0_2703_2162/master/2703.jpg?width=700&quality=85&auto=format&fit=max&s=f6d549461bc90792babd3c3811909533",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jacob King/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T07:23:47+00:00"
+  },
+  {
    "id": "c357b69a1afda044",
    "title": "Bangladesh garment workers win 36% pay rise after weeks of protest",
    "summary": "The protests have cost Bangladesh hundreds of millions, but workers are yet to accept the offer.",
@@ -177,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06799f-1795586463.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06799f-1795586463.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06799f-1795586463.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06799f-1795586463.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T07:14:32+00:00"
@@ -204,26 +244,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T06:47:00+00:00"
-  },
-  {
-   "id": "4ae82ad1b702c41f",
-   "title": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
-   "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-   "date": "2026-11-25T06:37:35+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ethan James/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/42365c997a7e64f7397399f6bb94257386b759d8/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=dec3dad4dcffb1f2258395d1160f43f3",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T20:37:22+00:00"
   },
   {
    "id": "a87455069b89efa4",
@@ -936,7 +956,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

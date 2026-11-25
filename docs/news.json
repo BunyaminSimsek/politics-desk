@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T19:18:44+00:00",
+ "generatedAt": "2026-11-25T19:28:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "CBC World",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "BBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,131 @@
  ],
  "items": [
   {
+   "id": "a87455069b89efa4",
+   "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+   "summary": "His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T19:22:18+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T02:02:33+00:00"
+  },
+  {
+   "id": "ba9ffe98f19defb0",
+   "title": "North Korea expels Swiss diplomat in sanctions row",
+   "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T19:19:06+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:28:25+00:00"
+  },
+  {
+   "id": "28715e0c165f00c8",
+   "title": "Ontario to open HOV lanes to solo drivers on Jan. 1, during non-peak hours",
+   "summary": "Starting on January 1, 2027, single-occupancy vehicles will be permitted to use highway HOV lanes during off-peak hours, a change the Ford government says will help to reduce traffic congestion.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/hov-lane-single-occupant-vehicle-expansion-9.7435910?cmp=rss",
+   "date": "2026-11-25T19:18:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/1.3763094,1473939892000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:28:25+00:00"
+  },
+  {
+   "id": "e49f999fbbda37a0",
+   "title": "UK military ‘moving aircraft to hangars in case of drone attacks’",
+   "summary": "Experts say the move is a 'logical response' if there is intelligence suggesting a likely drone threat.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss",
+   "date": "2026-11-25T19:15:01+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b07277337-1795630963.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b07277337-1795630963.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:28:25+00:00"
+  },
+  {
+   "id": "882812167e628a89",
+   "title": "UK food inflation could hit 5% next year, Bank of England says",
+   "summary": "Sharp rise expected as cost pressures mount, with experts factoring in coming energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite rising less sharply than feared…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+   "date": "2026-11-25T19:13:42+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/6dc206e833865c9dd5429c7d1b0d08abb0b3bfde/79_0_3491_2793/master/3491.jpg?width=700&quality=85&auto=format&fit=max&s=e94fb6f6732d7f6ca6e6f9de80513f05",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Andy Rain/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:28:25+00:00"
+  },
+  {
+   "id": "ce3d5df3befb05f9",
+   "title": "‘I feel free of everything evil’: Kilmar Ábrego García lands in Spain after choosing to leave US - live",
+   "summary": "Before his departure, Immigration and Customs Enforcement agents met him at the airport and removed his ankle monitor, an advocacy group reported",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "date": "2026-11-25T19:11:35+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Fernando Villar/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/fedd12377351e3e84402029d8354b6185d25dc6e/129_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=c46606135046ab652da6f7ffdd0d51ec",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T11:51:19+00:00"
+  },
+  {
    "id": "0dd658ea348393ca",
    "title": "World reacts to Trump’s new tariffs as US stocks tumble",
    "summary": "The new levies come after an eight-month investigation launched by the United States Trade Representative.",
@@ -206,26 +331,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:09:39+00:00"
-  },
-  {
-   "id": "ce3d5df3befb05f9",
-   "title": "‘I am leaving with my freedom’: Kilmar Ábrego García lands in Spain after choosing to leave US - live",
-   "summary": "Before his departure, Immigration and Customs Enforcement agents met him at the airport and removed his ankle monitor, an advocacy group reported",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-   "date": "2026-11-25T18:57:00+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Fernando Villar/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fedd12377351e3e84402029d8354b6185d25dc6e/129_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=c46606135046ab652da6f7ffdd0d51ec",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T11:51:19+00:00"
   },
   {
    "id": "ff16e47c0dbb0f2a",
@@ -1178,28 +1283,6 @@
    "addedAt": "2026-11-25T13:04:44+00:00"
   },
   {
-   "id": "a87455069b89efa4",
-   "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-   "summary": "His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T12:42:11+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T02:02:33+00:00"
-  },
-  {
    "id": "feba8618b8373746",
    "title": "Catalan separatist Puigdemont to return to Spain on December 12",
    "summary": "Former regional leader says he will unveil his proposal for a renewed Catalan independence push on December 17.",
@@ -1636,9 +1719,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/2898bf84-3328-4a1c-ba6c-f63ef44d6bf8,1795603014837/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C2994%2C1684%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/2898bf84-3328-4a1c-ba6c-f63ef44d6bf8,1795603014837/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C2994%2C1684%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:18:44+00:00"
@@ -8225,86 +8308,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T07:02:01+00:00"
-  },
-  {
-   "id": "83c8a30ff39af264",
-   "title": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
-   "summary": "This blog is now closed ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "date": "2026-11-23T06:13:21+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Dean Lewins/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a8e4b43c304ba0c667d2b3d232ba1b4acfdb683f/378_0_3201_2562/master/3201.jpg?width=700&quality=85&auto=format&fit=max&s=2a9c2b89e07ec7931a127be30f73e15c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T19:59:55+00:00"
-  },
-  {
-   "id": "8ade731ef60b5e57",
-   "title": "As Syria-EU talks progress, diplomats fear focus will be on repatriation",
-   "summary": "Syria and the EU are in talks on trade and political ties, but migration will likely be the key issue for discussion.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss",
-   "date": "2026-11-23T06:08:13+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-11T123420Z_146556131_RC2SVKAOSSAO_RTRMADP_3_EU-SYRIA-1794867647.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-11T123420Z_146556131_RC2SVKAOSSAO_RTRMADP_3_EU-SYRIA-1794867647.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T06:25:30+00:00"
-  },
-  {
-   "id": "cb372748e574f8a4",
-   "title": "Burnham not ‘backtracking’ on creating closer links with EU, officials say",
-   "summary": "Government wants to let trade deal ‘breathe a bit’, insiders say, after speculation No 10 is dialling back ambitions Andy Burnham is not backtracking or delaying his ambitions to create even closer links with the EU in the wake of a landmark summit in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
-   "date": "2026-11-23T06:00:50+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Nicolas Economou/NurPhoto/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f9f85e085346a780ba33572807c2cb2d0175e3a6/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=2b8ceada197e024af4f4d00771fb8b86",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T06:25:30+00:00"
-  },
-  {
-   "id": "6f7a0144c5b4b067",
-   "title": "MPs urge Miliband to force UK overseas territories to publish public company registers",
-   "summary": "Improvements in corporate transparency ‘essential’ amid ‘outright disregard for the will of parliament’, says cross-party group Ed Miliband is being urged by MPs to use his powers to force overseas territories such as the British Virgin Islands to publish…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/23/mps-urge-miliband-force-uk-overseas-territories-publish-public-company-registers",
-   "date": "2026-11-23T06:00:47+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Brendan Smialowski/Pool AFP/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5abef6272b524d031e88e996ddb75818ad7ddf73/45_0_3239_2592/master/3239.jpg?width=700&quality=85&auto=format&fit=max&s=d0c02ca021e6edb6c56620979699c43a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T06:25:30+00:00"
   }
  ]
 }

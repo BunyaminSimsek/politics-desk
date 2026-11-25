@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T22:17:10+00:00",
+ "generatedAt": "2026-11-25T22:26:19+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 4
+   "kept": 3
   },
   {
    "source": "Global News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "c5c4622c9bda83e3",
+   "title": "Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
+   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+   "date": "2026-11-25T22:10:41+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Mick Tsikas/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ce6cb56abf202649179c638f3a9b93b6efd40887/817_0_3829_3065/master/3829.jpg?width=700&quality=85&auto=format&fit=max&s=13e38468bb20b12465f415deddc99dba",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
    "id": "f71b0de5471068ea",
    "title": "Mark Carney says Donald Trump hasn’t raised Pentagon’s concerns about Canada’s military",
    "summary": "Carney said Trump has not voiced similar concerns to him after the release of a Pentagon \"fact sheet.\"",
@@ -179,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/b2/7b2d1888-c02e-5e3b-974a-faf39befbdb4/6b074f9a695b5.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 831,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/b2/7b2d1888-c02e-5e3b-974a-faf39befbdb4/6b074f9a695b5.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/b2/7b2d1888-c02e-5e3b-974a-faf39befbdb4/6b074f9a695b5.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/b2/7b2d1888-c02e-5e3b-974a-faf39befbdb4/6b074f9a695b5.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T22:17:10+00:00"
@@ -206,26 +226,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:51:19+00:00"
-  },
-  {
-   "id": "c5c4622c9bda83e3",
-   "title": "Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
-   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-25T21:58:48+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mick Tsikas/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ce6cb56abf202649179c638f3a9b93b6efd40887/817_0_3829_3065/master/3829.jpg?width=700&quality=85&auto=format&fit=max&s=13e38468bb20b12465f415deddc99dba",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T19:56:31+00:00"
   },
   {
    "id": "ba9ffe98f19defb0",
@@ -639,7 +639,7 @@
   {
    "id": "bef531a06dfb79b3",
    "title": "Legal experts call on Canada to defend International Criminal Court from U.S. attacks",
-   "summary": "OTTAWA - Experts in international law are urging Canada to mount a global rebuttal to Washington's attacks on the International Criminal Court.",
+   "summary": "OTTAWA - Experts in international law are urging Canada to mount a global rebuttal of Washington's attacks on the International Criminal Court — and to have a more coherent approach to human rights worldwide.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/legal-experts-call-on-canada-to-defend-international-criminal-court-from-u-s-attacks/article_bc0b32d0-6898-5a09-81f9-cb0a53313503.html",
    "date": "2026-11-25T18:57:00+00:00",
@@ -1015,7 +1015,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3032,7 +3032,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

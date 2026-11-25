@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T01:16:55+00:00",
+ "generatedAt": "2026-11-25T01:26:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "BBC News",
@@ -186,6 +186,46 @@
    "addedAt": "2026-11-24T20:37:22+00:00"
   },
   {
+   "id": "886e6fb7c86dd637",
+   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
+   "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "date": "2026-11-25T01:14:44+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evan Vucci/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=ed6c61ac8380bab4cae16a5526b786a5",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
+   "id": "f4857084d228e708",
+   "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+   "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T01:03:05+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T01:26:01+00:00"
+  },
+  {
    "id": "381ac6ba3a8c5660",
    "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
    "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon.",
@@ -239,10 +279,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=a044cef5241bf17570f5c69af9dbe7d1",
-    "w": 700,
+    "credit": "Photograph: Lisa Maree Williams/Getty Images",
     "h": 560,
-    "credit": "Photograph: Lisa Maree Williams/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=a044cef5241bf17570f5c69af9dbe7d1",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T01:16:55+00:00"
@@ -307,26 +347,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T00:48:59+00:00"
-  },
-  {
-   "id": "886e6fb7c86dd637",
-   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
-   "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-25T00:11:54+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evan Vucci/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=ed6c61ac8380bab4cae16a5526b786a5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T11:37:31+00:00"
   },
   {
    "id": "521c81e0ebbedca1",
@@ -443,10 +463,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/00/c003020a-6f97-52d2-a06a-46f283371e6a/6b063401dcaee.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/00/c003020a-6f97-52d2-a06a-46f283371e6a/6b063401dcaee.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/00/c003020a-6f97-52d2-a06a-46f283371e6a/6b063401dcaee.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/00/c003020a-6f97-52d2-a06a-46f283371e6a/6b063401dcaee.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T23:53:21+00:00"

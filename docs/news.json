@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T12:27:56+00:00",
+ "generatedAt": "2026-11-25T12:37:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 30
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "c7d3f2302a2528f8",
+   "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
+   "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+   "date": "2026-11-25T12:26:59+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Andy Rain/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=700&quality=85&auto=format&fit=max&s=1e6af5775cfc5ae74b9ce9db4d803c45",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T09:42:32+00:00"
+  },
+  {
    "id": "3cc4786f8522ae83",
    "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
    "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
@@ -206,9 +228,29 @@
    "addedAt": "2026-11-25T06:47:00+00:00"
   },
   {
+   "id": "ce3d5df3befb05f9",
+   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "date": "2026-11-25T12:15:46+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
+    "w": 700
+   },
+   "breaking": true,
+   "addedAt": "2026-11-25T11:51:19+00:00"
+  },
+  {
    "id": "17167cee091869d7",
    "title": "Democrats say Trump risked US security over Nvidia as Huang apologises | First Thing",
-   "summary": "Reinstated CEO tells staff ‘I made some ‘terrible mistakes’, as questions remain over chips to China accusations. Plus a woman has an untimely encounter with some turkeys before Thanksgiving Good morning.",
+   "summary": "Reinstated CEO tells staff ‘I made some terrible mistakes’, as questions remain over chips-to-China accusations. Plus a woman has an untimely encounter with some turkeys before Thanksgiving Good morning.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/25/first-thing-democrats-trump-risked-us-security-nvidia-huang-apologises",
    "date": "2026-11-25T12:14:52+00:00",
@@ -224,50 +266,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T12:18:53+00:00"
-  },
-  {
-   "id": "c7d3f2302a2528f8",
-   "title": "Burnham to face Badenoch at PMQs ahead of statement on nuclear test veterans – UK politics live",
-   "summary": "Wes Streeting earlier said he believes a review will help ensure that ‘the cover-up is exposed’ Burnham launches inquiry into nuclear bomb test veterans’ records Diane Taylor is a Guardian reporter who covers migration.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-   "date": "2026-11-25T12:13:21+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=700&quality=85&auto=format&fit=max&s=1e6af5775cfc5ae74b9ce9db4d803c45",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T09:42:32+00:00"
-  },
-  {
-   "id": "ce3d5df3befb05f9",
-   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-   "date": "2026-11-25T12:00:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
-    "w": 700
-   },
-   "breaking": true,
-   "addedAt": "2026-11-25T11:51:19+00:00"
   },
   {
    "id": "69eabd1a97ecf537",

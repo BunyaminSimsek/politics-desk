@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T11:14:33+00:00",
+ "generatedAt": "2026-11-25T11:23:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 31
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -177,13 +177,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/2dd975b73ad768204e517055d0fd577371cdf078/598_0_4903_3922/master/4903.jpg?width=700&quality=85&auto=format&fit=max&s=ded6dcc453885cc3e1fbefa10404fa4c",
-    "w": 700,
+    "credit": "Photograph: Kylie Cooper/Reuters",
     "h": 560,
-    "credit": "Photograph: Kylie Cooper/Reuters"
+    "url": "https://i.guim.co.uk/img/media/2dd975b73ad768204e517055d0fd577371cdf078/598_0_4903_3922/master/4903.jpg?width=700&quality=85&auto=format&fit=max&s=ded6dcc453885cc3e1fbefa10404fa4c",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:14:33+00:00"
+  },
+  {
+   "id": "cb0006e547f946c4",
+   "title": "Midterm gains by US gun control activists’ signals decline of gun lobby",
+   "summary": "More than 200 people endorsed by Everytown for Gun Safety won state and federal races in loss of dominance for NRA The US midterm elections were not only a big win for the Democrats, but also a huge victory for the gun violence prevention movement, and a sign…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/midterms-democrats-gun-control-violence-prevention-movement",
+   "date": "2026-11-25T11:00:47+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/51d7e69cab6939935fa4a076de75a98ed9833713/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=777fea5157e9f0c44998b6c0d5f56734",
+    "w": 700,
+    "h": 560,
+    "credit": "Composite: Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T11:23:41+00:00"
   },
   {
    "id": "433125a3233dfb66",
@@ -197,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a2ee1b4567d3505430ed8ae1d05da2c2a652439a/0_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=33e4cc5a29f6c8f12359aad335fe4c1b",
-    "w": 700,
+    "credit": "Photograph: Getty Images",
     "h": 560,
-    "credit": "Photograph: Getty Images"
+    "url": "https://i.guim.co.uk/img/media/a2ee1b4567d3505430ed8ae1d05da2c2a652439a/0_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=33e4cc5a29f6c8f12359aad335fe4c1b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:14:33+00:00"
@@ -248,7 +270,7 @@
   {
    "id": "c7d3f2302a2528f8",
    "title": "Previous governments engaged in ‘cover-up’ over harm to nuclear test veterans, says defence secretary – UK politics live",
-   "summary": "Wes Streeting said he believes a review will help ensure that ‘the cover-up is exposed’ Christina McAnea , the former Unison leader, has been appointed by the Department of Health and Social Care, to oversee negotiations between employers and unions over pay…",
+   "summary": "Wes Streeting said he believes a review will help ensure that ‘the cover-up is exposed’ Burnham launches inquiry into nuclear bomb test veterans’ records Christina McAnea , the former Unison leader, has been appointed by the Department of Health and Social…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
    "date": "2026-11-25T10:58:34+00:00",
@@ -1395,7 +1417,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8275,26 +8297,6 @@
     "credit": "Photograph: Nicolas Tucat/AFP/Getty Images",
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/d52885f93bc4024b6c560d78a474ee70d290dc03/636_299_4870_3896/master/4870.jpg?width=700&quality=85&auto=format&fit=max&s=1e3195fcb03baa01bc8976f971c5bf0a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T11:50:01+00:00"
-  },
-  {
-   "id": "b50fe2c3326321a9",
-   "title": "Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU",
-   "summary": "Former PM who opted for minimal ties with bloc says moves towards membership would dominate government’s time UK politics live – latest updates Theresa May has said she feels “aghast” at Andy Burnham’s plan for potentially rejoining the EU, arguing in a rare…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu",
-   "date": "2026-11-22T11:37:52+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Amer Ghazzal/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/aa0bf12f49eeebd485fd9555186b69c332c0ab1d/558_45_4628_3703/master/4628.jpg?width=700&quality=85&auto=format&fit=max&s=2f3db3c28d10831fb9091620215cf6fa",
     "w": 700
    },
    "breaking": false,

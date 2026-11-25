@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T02:11:43+00:00",
+ "generatedAt": "2026-11-25T02:21:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 30
+   "kept": 31
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "4ae82ad1b702c41f",
+   "title": "Politics live: Chalmers says Australia faces ‘serious moment’ amid inflation; NSW ‘scaling up’ response after fire ants found in Sydney",
+   "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+   "date": "2026-11-25T02:05:33+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/a52577627a519ab236dadaee472b496faaba887d/504_0_6055_4844/master/6055.jpg?width=700&quality=85&auto=format&fit=max&s=e4843ec41010c5b1fa095e031fdb221e",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lukas Coch/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T20:37:22+00:00"
+  },
   {
    "id": "a87455069b89efa4",
    "title": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end",
@@ -261,10 +283,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-NIC-2411-1795571603.png?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-NIC-2411-1795571603.png?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-NIC-2411-1795571603.png?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-NIC-2411-1795571603.png?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T02:11:43+00:00"
@@ -308,26 +330,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T01:53:18+00:00"
-  },
-  {
-   "id": "4ae82ad1b702c41f",
-   "title": "Politics live: Marles apologises to LGBTQ+ veterans; Australia and Solomon Islands sign ‘historic’ treaty",
-   "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-   "date": "2026-11-25T01:22:16+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Hilary Wardhaugh/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/0116cf57061a0f5436411466e594c6a5b4ed41bd/543_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=e3252334c66b9a6cec9c9c2b84cd77f3",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T20:37:22+00:00"
   },
   {
    "id": "381ac6ba3a8c5660",
@@ -486,9 +488,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/5d11c184-cce0-42ba-ab6c-6616b1eb01e2,1795564238220/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C478%2C8249%2C4640%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/5d11c184-cce0-42ba-ab6c-6616b1eb01e2,1795564238220/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C478%2C8249%2C4640%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T00:11:29+00:00"
@@ -582,7 +584,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7934,26 +7936,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T13:31:00+00:00"
-  },
-  {
-   "id": "6e89a0b26c637310",
-   "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-   "summary": "Israeli forces continue to destroy residential buildings as part of a 'gradual displacement' policy, a Gaza mayor says.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
-   "date": "2026-11-22T02:14:18+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b00990b1735-1795201291.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b00990b1735-1795201291.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T02:31:43+00:00"
   }
  ]
 }

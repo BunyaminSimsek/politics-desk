@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T14:01:37+00:00",
+ "generatedAt": "2026-11-25T14:10:57+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -149,7 +149,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/africa/rss",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Conversation",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "a61ab511a42dd98e",
+   "title": "Consumer prices are the highest since May, rising 3.8% in October",
+   "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting Consumer prices rose an annualized 3.8% in October, according to new inflation data released Wednesday, the highest since May and the last inflation…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+   "date": "2026-11-25T13:54:06+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=700&quality=85&auto=format&fit=max&s=69f11e4a212f57fb1305845584886a2b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Mehmet Eser/Anadolu/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T14:10:57+00:00"
+  },
   {
    "id": "ce3d5df3befb05f9",
    "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
@@ -8286,28 +8308,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T15:31:19+00:00"
-  },
-  {
-   "id": "c868416eb404069d",
-   "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-   "summary": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-   "date": "2026-11-22T15:03:38+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03005929fe-1795358809.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03005929fe-1795358809.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T15:22:00+00:00"
   }
  ]
 }

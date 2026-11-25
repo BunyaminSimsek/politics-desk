@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T12:46:33+00:00",
+ "generatedAt": "2026-11-25T12:55:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -199,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T02:02:33+00:00"
@@ -228,6 +228,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T09:42:32+00:00"
+  },
+  {
+   "id": "feba8618b8373746",
+   "title": "Catalan separatist Puigdemont to return to Spain on December 12",
+   "summary": "Former regional leader says he will unveil his proposal for a renewed Catalan independence push on December 17.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
+   "date": "2026-11-25T12:25:46+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-06T162026Z_656135816_RC2SXNAH9UDU_RTRMADP_3_SPAIN-POLITICS-PUIGDEMONT-1791314612.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-06T162026Z_656135816_RC2SXNAH9UDU_RTRMADP_3_SPAIN-POLITICS-PUIGDEMONT-1791314612.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T12:55:41+00:00"
+  },
+  {
+   "id": "835ddf0c86b7beef",
+   "title": "Bangladesh garment workers protest over new wages",
+   "summary": "Bangladesh has raised the minimum monthly wage for garment workers by 36% to 17,000 taka, about $138.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
+   "date": "2026-11-25T12:23:41+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-12.18.46-1795609227.png?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-12.18.46-1795609227.png?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T12:55:41+00:00"
   },
   {
    "id": "3cc4786f8522ae83",
@@ -352,7 +392,7 @@
   {
    "id": "60385ebbe8212393",
    "title": "Overnight RSF drone attacks kill 19 in Sudan",
-   "summary": "The attacks on Blue Nile State also injured at least 20 people – in a drone war that is quickly escalating.",
+   "summary": "The attacks on Blue Nile state also wounded at least 20 people – in a drone war that is quickly escalating.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
    "date": "2026-11-25T11:58:15+00:00",
@@ -1660,7 +1700,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2283,7 +2323,7 @@
   {
    "id": "d544447616d6986b",
    "title": "McGuinty says he can't explain Pentagon's criticism of Canada's defence spending",
-   "summary": "OTTAWA - Defence Minister David McGuinty said Tuesday he can’t \"divine\" the thinking behind the Pentagon's recent criticism of Canada's defence spending — after the Trump administration took some symbolic steps to upend long-standing norms in North American…",
+   "summary": "Last week, U.S. Defense Secretary Pete Hegseth issued a classified memo imposing restrictions on military co-operation with Canada on think-tanks and socializing.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/mcguinty-says-he-can-t-explain-pentagon-s-criticism-of-canada-s-defence-spending/article_2da425da-9d79-5ba9-9396-81a15465521d.html",
    "date": "2026-11-24T18:38:00+00:00",
@@ -8267,36 +8307,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T13:40:06+00:00"
-  },
-  {
-   "id": "f613037f38718f5b",
-   "title": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
-   "summary": "A funding deadline for Congress weeks before Democrats take control. President Trump signs an executive order requiring contractors to get approval before sharing with Congressional investigations.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress",
-   "date": "2026-11-22T13:12:09+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-22T13:21:39+00:00"
-  },
-  {
-   "id": "534ee5ac501a666e",
-   "title": "Christian nationalist conference hosts Nick Fuentes, vows to keep pushing MAGA agenda",
-   "summary": "A particular group of Christian nationalists met in Texas last weekend and vowed to push what remains of MAGA as far to the right as possible. They hosted antisemitic streamer Nick Fuentes.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda",
-   "date": "2026-11-22T13:12:08+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-22T13:21:39+00:00"
   }
  ]
 }

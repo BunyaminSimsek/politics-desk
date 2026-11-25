@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T11:41:49+00:00",
+ "generatedAt": "2026-11-25T11:51:19+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 30
+   "kept": 29
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,9 +166,51 @@
  ],
  "items": [
   {
+   "id": "81d34006bcd54736",
+   "title": "UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars",
+   "summary": "Social media campaign fronted by British rapper Shao Dow advises tourists not to let their guard down The British embassy in Tokyo has launched a social media campaign warning visitors to exercise caution after a rise in cases of drink-spiking and credit card…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud",
+   "date": "2026-11-25T11:42:10+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9f4ad69a7c2842c8d7b083f6f6d5e6fb55a96e3a/0_0_7920_6336/master/7920.jpg?width=700&quality=85&auto=format&fit=max&s=8694dc684ae2c8e13a6c1ce6059fa9a5",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Kelvin Lachica/Alamy"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T11:51:19+00:00"
+  },
+  {
+   "id": "c7d3f2302a2528f8",
+   "title": "Previous governments engaged in ‘cover-up’ over harm to nuclear test veterans, says defence secretary – UK politics live",
+   "summary": "Wes Streeting said he believes a review will help ensure that ‘the cover-up is exposed’ Burnham launches inquiry into nuclear bomb test veterans’ records Here is the list of MPs down to ask a question at PMQs, which starts at noon.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+   "date": "2026-11-25T11:39:58+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Marek Ladzinski/ZUMA Press Wire/Shutterstock",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/128549c0b715358177b3ec4f957b16358e089f31/591_0_5886_4711/master/5886.jpg?width=700&quality=85&auto=format&fit=max&s=03c3d24f67e17a91bd4cfd7fbf25bbf3",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T09:42:32+00:00"
+  },
+  {
    "id": "8ae67be5d77483f5",
    "title": "Man to be sentenced for fatal 2025 crash that killed Ontario father of three",
-   "summary": "A driver in a head-on crash that killed a father of three last year is expected to be sentenced Tuesday in the case that prompted the Ontario government to introduce tougher dangerous driving penalties.",
+   "summary": "A driver in a head-on crash that killed a father of three last year is expected to be sentenced Wednesday in the case that prompted the Ontario government to introduce tougher dangerous driving penalties.",
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/dangerous-driving-sentencing-cristillo-kirubananthan-9.7435165?cmp=rss",
    "date": "2026-11-25T11:35:28+00:00",
@@ -177,12 +219,52 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/530bc4de-9c69-4cb2-b33b-bf2ab68804eb,1777315508788/full/max/0/default.jpg?im=Crop%2Crect%3D%2813%2C0%2C3557%2C2000%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/530bc4de-9c69-4cb2-b33b-bf2ab68804eb,1777315508788/full/max/0/default.jpg?im=Crop%2Crect%3D%2813%2C0%2C3557%2C2000%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:41:49+00:00"
+  },
+  {
+   "id": "ce3d5df3befb05f9",
+   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "date": "2026-11-25T11:35:07+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images"
+   },
+   "breaking": true,
+   "addedAt": "2026-11-25T11:51:19+00:00"
+  },
+  {
+   "id": "aac59ca6d01962c8",
+   "title": "Detained child implores Trump for ICE release in letter: ‘I would like to visit my father’",
+   "summary": "‘Mr President Trump, I would like to … study at my school,’ writes seven-year-old in Texas family immigration center A seven-year-old girl who was arrested by federal immigration agents alongside her mother in suburban New Orleans – then sent to a family…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/louisiana-child-trump-letter-ice-custody",
+   "date": "2026-11-25T11:30:24+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9ef8e3e2b50ee8a00edd3b4261ff2c11d2047189/0_564_1080_863/master/1080.jpg?width=700&quality=85&auto=format&fit=max&s=b06bc2bdc24b57ee84cbe3a05e54706b",
+    "w": 700,
+    "h": 559,
+    "credit": "Photograph: Courtesy Kristin Etter"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T11:51:19+00:00"
   },
   {
    "id": "a38407f505fb0458",
@@ -260,10 +342,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/5b3f61e3ae43b66936a59bd1fded59309335e537/478_69_4441_3552/master/4441.jpg?width=700&quality=85&auto=format&fit=max&s=e037ec1011d2c97705ac51f4e928858d",
-    "w": 700,
+    "credit": "Photograph: Bhawika Chhabra/Reuters",
     "h": 560,
-    "credit": "Photograph: Bhawika Chhabra/Reuters"
+    "url": "https://i.guim.co.uk/img/media/5b3f61e3ae43b66936a59bd1fded59309335e537/478_69_4441_3552/master/4441.jpg?width=700&quality=85&auto=format&fit=max&s=e037ec1011d2c97705ac51f4e928858d",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:41:49+00:00"
@@ -371,31 +453,9 @@
    "addedAt": "2026-11-25T09:04:34+00:00"
   },
   {
-   "id": "c7d3f2302a2528f8",
-   "title": "Previous governments engaged in ‘cover-up’ over harm to nuclear test veterans, says defence secretary – UK politics live",
-   "summary": "Wes Streeting said he believes a review will help ensure that ‘the cover-up is exposed’ Burnham launches inquiry into nuclear bomb test veterans’ records Christina McAnea , the former Unison leader, has been appointed by the Department of Health and Social…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-   "date": "2026-11-25T10:58:34+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Marek Ladzinski/ZUMA Press Wire/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/128549c0b715358177b3ec4f957b16358e089f31/591_0_5886_4711/master/5886.jpg?width=700&quality=85&auto=format&fit=max&s=03c3d24f67e17a91bd4cfd7fbf25bbf3",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T09:42:32+00:00"
-  },
-  {
    "id": "7044fe44c18fed42",
    "title": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
-   "summary": "Private members’ motion comes amid concern about Christian symbols being appropriated by the far right Church of England clergy could be banned from joining or supporting the hard-right Restore Britain party under a motion put forward for debate at the…",
+   "summary": "Exclusive: Private members’ motion comes amid concern about Christian symbols being appropriated by the far right Church of England clergy could be banned from joining or supporting the hard-right Restore Britain party under a motion put forward for debate at…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/25/general-synod-ban-church-of-england-clergy-support-restore-britain",
    "date": "2026-11-25T10:40:38+00:00",
@@ -1255,10 +1315,10 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-25T04:11:21+00:00"
@@ -1297,10 +1357,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T04:11:21+00:00"
@@ -8235,69 +8295,6 @@
     "h": 600,
     "small": "https://images.theconversation.com/files/773135/original/file-20261119-62-akwvs6.jpg?ixlib=rb-4.1.1&rect=0%2C430%2C5153%2C2576&q=45&auto=format&h=668&w=640&fit=clip",
     "url": "https://images.theconversation.com/files/773135/original/file-20261119-62-akwvs6.jpg?ixlib=rb-4.1.1&rect=0%2C430%2C5153%2C2576&q=45&auto=format&h=668&w=1200&fit=clip",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T13:21:39+00:00"
-  },
-  {
-   "id": "9537481dc5fc6afc",
-   "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
-   "summary": "Reform deputy leader calls Russian leader ‘a murderous dictator’ after US president appears to endorse him UK politics live – latest updates Reform UK and the Conservatives have distanced themselves from Donald Trump after the US president posted a photo of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/22/british-right-reform-tory-party-distances-itself-from-trump-putin-friend-post",
-   "date": "2026-11-22T12:36:58+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9d90a7d8b6f21d4c00d9de61f70de2d1a4a80ebf/82_0_4618_3696/master/4618.jpg?width=700&quality=85&auto=format&fit=max&s=dd6a0fbf75ca97d950fd01c74338726d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T12:45:06+00:00"
-  },
-  {
-   "id": "3e2b016a40c954b2",
-   "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-   "summary": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
-   "date": "2026-11-22T12:31:30+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a2215a2cfe4c-1780618658.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a2215a2cfe4c-1780618658.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T12:45:06+00:00"
-  },
-  {
-   "id": "8d45e73893934f88",
-   "title": "Mark Carney’s fight against Donald Trump won’t make Canada stronger",
-   "summary": "Prime Minister Mark Carney is riding a wave of domestic support and has emerged as the global poster child of a cautious but firm resistance to American bullies.",
-   "source": "The Conversation",
-   "url": "https://theconversation.com/mark-carneys-fight-against-donald-trump-wont-make-canada-stronger-296186",
-   "date": "2026-11-22T12:28:11+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "elections",
-    "climate"
-   ],
-   "kind": "analysis",
-   "image": {
-    "h": 600,
-    "small": "https://images.theconversation.com/files/773134/original/file-20261119-90-hns1co.JPG?ixlib=rb-4.1.1&rect=0%2C123%2C2279%2C1139&q=45&auto=format&h=668&w=640&fit=clip",
-    "url": "https://images.theconversation.com/files/773134/original/file-20261119-90-hns1co.JPG?ixlib=rb-4.1.1&rect=0%2C123%2C2279%2C1139&q=45&auto=format&h=668&w=1200&fit=clip",
     "w": 1200
    },
    "breaking": false,

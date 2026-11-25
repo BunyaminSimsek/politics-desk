@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T03:07:37+00:00",
+ "generatedAt": "2026-11-25T03:16:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -179,21 +179,21 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/73eb1f79e1f589dbc01f5457078faa6090ee6ee2/17_0_3549_2838/master/3549.jpg?width=700&quality=85&auto=format&fit=max&s=7a9d6d58af7ed92b531318e00bbc7a33",
-    "w": 700,
+    "credit": "Photograph: Sasha Mordovets/Getty Images",
     "h": 560,
-    "credit": "Photograph: Sasha Mordovets/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/73eb1f79e1f589dbc01f5457078faa6090ee6ee2/17_0_3549_2838/master/3549.jpg?width=700&quality=85&auto=format&fit=max&s=7a9d6d58af7ed92b531318e00bbc7a33",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T03:07:37+00:00"
   },
   {
    "id": "886e6fb7c86dd637",
-   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
-   "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared",
+   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – as it happened",
+   "summary": "This live blog is now closed. Schumer accuses Huang of violating US export control laws amid shipments of chips to China",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-25T02:47:49+00:00",
+   "date": "2026-11-25T02:58:18+00:00",
    "topic": "us",
    "region": "world",
    "tags": [],
@@ -579,8 +579,8 @@
   },
   {
    "id": "a377586593f39194",
-   "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
-   "summary": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
+   "title": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
+   "summary": "The Saudi coalition says its forces targeted operational capabilities at Hodeidah port and hit sites in northern Yemen.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
    "date": "2026-11-25T00:00:00+00:00",
@@ -646,7 +646,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -963,8 +963,8 @@
   },
   {
    "id": "c26cfc9e5ae3210f",
-   "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
-   "summary": "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena.",
+   "title": "Ten hostages released in standoff with gunmen at Colombia supermarket",
+   "summary": "10 of about 25 people held hostage were released from supermarket surrounded by police and troops.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
    "date": "2026-11-24T21:04:46+00:00",

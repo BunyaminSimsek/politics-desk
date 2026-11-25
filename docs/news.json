@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T21:20:38+00:00",
+ "generatedAt": "2026-11-25T21:30:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-25T21:15:53+00:00",
+   "date": "2026-11-25T21:14:20+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -197,9 +197,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/2a94dd9e-1a34-4cec-a79c-8e2422f68da6,1795639123109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/2a94dd9e-1a34-4cec-a79c-8e2422f68da6,1795639123109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T21:20:38+00:00"
@@ -543,9 +543,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.3763094,1473939892000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.3763094,1473939892000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C852%2C479%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:28:25+00:00"
@@ -973,7 +973,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1959,9 +1959,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/2898bf84-3328-4a1c-ba6c-f63ef44d6bf8,1795603014837/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C2994%2C1684%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/2898bf84-3328-4a1c-ba6c-f63ef44d6bf8,1795603014837/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C118%2C2994%2C1684%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:18:44+00:00"
@@ -2990,7 +2990,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

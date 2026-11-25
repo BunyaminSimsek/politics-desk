@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T23:12:34+00:00",
+ "generatedAt": "2026-11-25T23:21:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,32 @@
  ],
  "items": [
   {
+   "id": "4d5994bd8bde5b9b",
+   "title": "Poilievre says nurse may lose job after photo with him at Wainwright",
+   "summary": "OTTAWA - Conservative Leader Pierre Poilievre says a nurse working on contract at the Canadian Forces Base Wainwright has been told she might lose her job after she was photographed speaking with him in the aftermath of the Wainwright tragedy.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/poilievre-says-nurse-may-lose-job-after-photo-with-him-at-wainwright/article_a85d33b1-5ce8-502e-9b34-9fb6823b27ca.html",
+   "date": "2026-11-25T23:11:05+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/17/317fee1f-11e0-51f9-b337-a326b9e4c5e5/6b076bf7283ef.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 815,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/17/317fee1f-11e0-51f9-b337-a326b9e4c5e5/6b076bf7283ef.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T23:21:47+00:00"
+  },
+  {
    "id": "c5c4622c9bda83e3",
    "title": "Australian politics live: Greens say Liberal-One Nation defector just ‘changing billionaire donor’; spoof parliamentary tool spreads cheer",
    "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-25T23:00:11+00:00",
+   "date": "2026-11-25T23:08:40+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -186,6 +206,26 @@
    "addedAt": "2026-11-25T19:56:31+00:00"
   },
   {
+   "id": "1363111d6b48873a",
+   "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+   "summary": "Mariam Dagga shares award with two of her colleagues from AP for ‘powerful coverage’ of human cost of war Mariam Dagga, the Palestinian war correspondent who was killed at the age of 33 in Gaza in an Israeli strike, has posthumously won the prestigious Rory…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+   "date": "2026-11-25T23:06:06+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b68724a0542029782beeb20a27ab4fd1a7f413d0/464_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=7ecef75e8d1a53d6fdc4322607181336",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jehad Alshrafi/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T23:21:47+00:00"
+  },
+  {
    "id": "86b43be960be3356",
    "title": "Toronto home invasion killing sparks calls for tougher laws",
    "summary": "A deadly home invasion in Toronto sparked accusations that criminals are committing violent break-ins 'with impunity' in Canada's biggest city.",
@@ -197,10 +237,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/a4/8a4950a1-7661-5531-a757-4a08d93c7bb5/6b075b15d61a1.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 825,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/a4/8a4950a1-7661-5531-a757-4a08d93c7bb5/6b075b15d61a1.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/a4/8a4950a1-7661-5531-a757-4a08d93c7bb5/6b075b15d61a1.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/a4/8a4950a1-7661-5531-a757-4a08d93c7bb5/6b075b15d61a1.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T23:12:34+00:00"
@@ -357,9 +397,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/2a94dd9e-1a34-4cec-a79c-8e2422f68da6,1795639123109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/2a94dd9e-1a34-4cec-a79c-8e2422f68da6,1795639123109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T21:20:38+00:00"
@@ -8262,48 +8302,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T10:52:58+00:00"
-  },
-  {
-   "id": "e98ce263e49627e1",
-   "title": "Occupied West Bank ‘military zones’ become de facto Israeli settler land",
-   "summary": "Closed military zones in the occupied West Bank are being seized by settlers as staging posts for pogroms.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/23/military-zones-in-occupied-west-bank-become-israeli-settler-outpost-lands?traffic_source=rss",
-   "date": "2026-11-23T10:20:58+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Smashed-window-of-Zahran-family-by-settler-attack-PC-Saleh-1795414817.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Smashed-window-of-Zahran-family-by-settler-attack-PC-Saleh-1795414817.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T10:34:38+00:00"
-  },
-  {
-   "id": "356eb746f9e5465d",
-   "title": "A dementia diagnosis — and then nothing: Ontario families struggle to find care",
-   "summary": "A new task force blueprint calls for a centralized navigation system so families can find dementia programs they don't know exist.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/a-dementia-diagnosis-and-then-nothing-ontario-families-struggle-to-find-care/article_59e31a68-7d37-4512-a362-8c3131194b95.html",
-   "date": "2026-11-23T10:00:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 1045,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/96/996d28bb-2bd3-57c5-99a9-39183d88fb9e/6aff464294aea.image.jpg?crop=1224%2C1066%2C6%2C583&order=crop%2Cresize&resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/96/996d28bb-2bd3-57c5-99a9-39183d88fb9e/6aff464294aea.image.jpg?crop=1224%2C1066%2C6%2C583&order=crop%2Cresize&resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T10:07:12+00:00"
   }
  ]
 }

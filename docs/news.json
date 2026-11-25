@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T00:11:29+00:00",
+ "generatedAt": "2026-11-25T00:21:08+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "886e6fb7c86dd637",
+   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
+   "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "date": "2026-11-25T00:11:54+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Evan Vucci/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=ed6c61ac8380bab4cae16a5526b786a5",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
    "id": "521c81e0ebbedca1",
    "title": "Pentagon prepared to 'up the ante' in defence dispute with Canada",
    "summary": "The Pentagon is threatening further, unspecified measures against Canada unless Ottawa prioritizes continental defence in its military buildup. A senior U.S. official accused Canada of having NATO's widest gap between rhetoric and reality.",
@@ -179,32 +199,52 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/5d11c184-cce0-42ba-ab6c-6616b1eb01e2,1795564238220/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C478%2C8249%2C4640%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/5d11c184-cce0-42ba-ab6c-6616b1eb01e2,1795564238220/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C478%2C8249%2C4640%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T00:11:29+00:00"
   },
   {
-   "id": "886e6fb7c86dd637",
-   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
-   "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared",
+   "id": "b319a6cc7b567d33",
+   "title": "UK to launch world’s first licensing scheme for knife sales",
+   "summary": "Exclusive: Measures aimed at tackling grey market sellers known to sell dangerous knives to children Ministers will introduce the world’s first licensing scheme for businesses and private individuals selling all types of knives including cutlery, the Home…",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-24T23:53:45+00:00",
-   "topic": "us",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
+   "date": "2026-11-25T00:01:01+00:00",
+   "topic": "europe",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=ed6c61ac8380bab4cae16a5526b786a5",
+    "url": "https://i.guim.co.uk/img/media/e94bf5ba5d5beca7dddc4a23c12e0c25dbf9e3a5/644_0_6440_5152/master/6440.jpg?width=700&quality=85&auto=format&fit=max&s=a8ce90bd467ee57f70f32a4a9ea387bd",
     "w": 700,
     "h": 560,
-    "credit": "Photograph: Evan Vucci/Reuters"
+    "credit": "Photograph: Linda Nylind/The Guardian"
    },
    "breaking": false,
-   "addedAt": "2026-11-24T11:37:31+00:00"
+   "addedAt": "2026-11-25T00:21:08+00:00"
+  },
+  {
+   "id": "a377586593f39194",
+   "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
+   "summary": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+   "date": "2026-11-25T00:00:00+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T172418Z_1883247986_RC2AUOAQ8FSH_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1795561635.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T172418Z_1883247986_RC2AUOAQ8FSH_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1795561635.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T00:21:08+00:00"
   },
   {
    "id": "ed632e0b8edc4da1",
@@ -255,7 +295,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

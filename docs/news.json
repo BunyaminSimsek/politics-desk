@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T02:39:31+00:00",
+ "generatedAt": "2026-11-25T02:49:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "a0100f439664a5cb",
+   "title": "Al Gore buys local, family-owned newspaper in central Tennessee",
+   "summary": "Former vice-president, who started his career as a journalist, purchases Carthage Courier in Smith county Al Gore, who started his career as a journalist, is returning to the industry as a newspaper owner in his Tennessee town.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
+   "date": "2026-11-25T02:31:42+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/30ecca1d12e53cfba0fd2b8581ff75f87fd7181f/0_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=df22a991c30d97c92cdd65f07bd51229",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Chris McGrath/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T02:49:16+00:00"
+  },
   {
    "id": "886e6fb7c86dd637",
    "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
@@ -447,9 +467,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d6815498-ee4f-4d6d-8cc8-2e209dc9356f,1795488554056/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d6815498-ee4f-4d6d-8cc8-2e209dc9356f,1795488554056/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T00:39:26+00:00"

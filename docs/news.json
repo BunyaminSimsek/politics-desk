@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T15:43:32+00:00",
+ "generatedAt": "2026-11-25T15:53:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "ce3d5df3befb05f9",
+   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "date": "2026-11-25T15:44:40+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
+    "w": 700
+   },
+   "breaking": true,
+   "addedAt": "2026-11-25T11:51:19+00:00"
+  },
+  {
    "id": "0f7af8237d936828",
    "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
    "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
@@ -186,8 +206,30 @@
    "addedAt": "2026-11-25T06:47:00+00:00"
   },
   {
+   "id": "7accd67eb84d75f0",
+   "title": "Carney says Pentagon's complaints about Canada haven't come up in talks with Trump",
+   "summary": "OTTAWA - Prime Minister Mark Carney says the Pentagon's recent complaints about Canada's defence spending have not come up in his conversations with U.S. President Donald Trump.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/carney-says-pentagon-s-complaints-about-canada-haven-t-come-up-in-talks-with-trump/article_45931914-230a-574b-a6e5-5368b41c71c2.html",
+   "date": "2026-11-25T15:42:27+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/97/9976d112-eac5-5889-863d-f7828945b4d8/6b07028120bd3.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 803,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/97/9976d112-eac5-5889-863d-f7828945b4d8/6b07028120bd3.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T15:53:16+00:00"
+  },
+  {
    "id": "36b4838f9c206214",
-   "title": "Brussels on split-screen: where its flexes – and where it bends",
+   "title": "Brussels on split-screen: where it flexes – and where it bends",
    "summary": "From a choreographed summit that dominated Westminster but barely registered in Brussels to a climate showdown in Turkey, last week revealed the EU’s priorities – and the limits of its collective power • Don’t get This Is Europe delivered to your inbox?",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
@@ -197,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/298e2e76a81f2b29227315e2f639e4892114e948/426_0_4300_3440/master/4300.jpg?width=700&quality=85&auto=format&fit=max&s=70222aa27f8ea8e0a12d541df383689c",
-    "w": 700,
+    "credit": "Photograph: WPA/Getty Images",
     "h": 560,
-    "credit": "Photograph: WPA/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/298e2e76a81f2b29227315e2f639e4892114e948/426_0_4300_3440/master/4300.jpg?width=700&quality=85&auto=format&fit=max&s=70222aa27f8ea8e0a12d541df383689c",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T15:43:32+00:00"
@@ -211,7 +253,7 @@
    "summary": "Westminster council signs off on ‘cultural experience and exhibition’ at site where band last performed in public Fans of the Beatles will be able to stand on the Savile Row rooftop in London where the band held their final public performance, but any…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/music/2026/nov/25/beatles-attraction-savile-row-approved-ban-rooftop-gigs",
-   "date": "2026-11-25T15:29:58+00:00",
+   "date": "2026-11-25T15:38:11+00:00",
    "topic": "toronto",
    "region": "local",
    "tags": [],
@@ -226,12 +268,32 @@
    "addedAt": "2026-11-25T15:24:28+00:00"
   },
   {
+   "id": "8f1f15b62e14ec96",
+   "title": "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
+   "summary": "The ruling hands the president ​a political reprieve by removing a finding that had exposed him to possible impeachment.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss",
+   "date": "2026-11-25T15:35:33+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06efb2-1795616690.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06efb2-1795616690.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T15:53:16+00:00"
+  },
+  {
    "id": "c7d3f2302a2528f8",
    "title": "Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’ – UK politics live",
    "summary": "Pair clashed at PMQs over a video shot outside No 10 by TikToker Max Balegde Diane Taylor is a Guardian reporter who covers migration.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-   "date": "2026-11-25T15:28:06+00:00",
+   "date": "2026-11-25T15:34:07+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -266,26 +328,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T15:33:49+00:00"
-  },
-  {
-   "id": "ce3d5df3befb05f9",
-   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-   "date": "2026-11-25T15:09:28+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
-    "w": 700
-   },
-   "breaking": true,
-   "addedAt": "2026-11-25T11:51:19+00:00"
   },
   {
    "id": "004d71e16a52d591",
@@ -754,9 +796,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/530bc4de-9c69-4cb2-b33b-bf2ab68804eb,1777315508788/full/max/0/default.jpg?im=Crop%2Crect%3D%2813%2C0%2C3557%2C2000%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/530bc4de-9c69-4cb2-b33b-bf2ab68804eb,1777315508788/full/max/0/default.jpg?im=Crop%2Crect%3D%2813%2C0%2C3557%2C2000%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:41:49+00:00"
@@ -1969,7 +2011,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8266,47 +8308,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T18:27:04+00:00"
-  },
-  {
-   "id": "c21a3b05e4bf3321",
-   "title": "UN climate talks collapse without a deal",
-   "summary": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal?traffic_source=rss",
-   "date": "2026-11-22T18:04:25+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795370588.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795370588.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T18:36:12+00:00"
-  },
-  {
-   "id": "5813862cad8eb9d1",
-   "title": "UN-affiliated athlete swims in dangerous Strait of Hormuz to highlight Iran war's impact on wildlife",
-   "summary": "Lewis Pugh, who is a United Nations Patron of the Oceans, spent three days last week swimming parts of the dangerous waterway to highlight how Iran war threatens the area's habitat and wildlife.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/un-endurance-swimmer-strait-of-hormuz-wildlife-impact-9.7431891?cmp=rss",
-   "date": "2026-11-22T17:57:36+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/e07000a3-ac0f-406e-b916-ad08a7109618,1795366826527/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T18:08:20+00:00"
   }
  ]
 }

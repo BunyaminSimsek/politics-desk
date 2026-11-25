@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T00:02:27+00:00",
+ "generatedAt": "2026-11-25T00:11:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,47 @@
  ],
  "items": [
   {
+   "id": "521c81e0ebbedca1",
+   "title": "Pentagon prepared to 'up the ante' in defence dispute with Canada",
+   "summary": "The Pentagon is threatening further, unspecified measures against Canada unless Ottawa prioritizes continental defence in its military buildup. A senior U.S. official accused Canada of having NATO's widest gap between rhetoric and reality.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/defence-canada-us-pentagon-spending-9.7434887?cmp=rss",
+   "date": "2026-11-25T00:08:28+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/5d11c184-cce0-42ba-ab6c-6616b1eb01e2,1795564238220/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C478%2C8249%2C4640%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T00:11:29+00:00"
+  },
+  {
+   "id": "886e6fb7c86dd637",
+   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
+   "summary": "President took credit for convincing Nvidia’s board to reinstate Huang, a move that might have made Trump a personal profit of $15m in one day, as Nvidia sticks soared",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "date": "2026-11-24T23:53:45+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=ed6c61ac8380bab4cae16a5526b786a5",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Evan Vucci/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-24T11:37:31+00:00"
+  },
+  {
    "id": "ed632e0b8edc4da1",
    "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
    "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García is leaving the United States of his own volition, his lawyers confirmed on Tuesday.",
@@ -208,35 +249,13 @@
    "addedAt": "2026-11-24T23:44:06+00:00"
   },
   {
-   "id": "886e6fb7c86dd637",
-   "title": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
-   "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "date": "2026-11-24T23:31:43+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kichul Shin/NurPhoto/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=700&quality=85&auto=format&fit=max&s=a8c5eeb774bf12c4415fe5a8fb607e25",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T11:37:31+00:00"
-  },
-  {
    "id": "474764109b56dd40",
    "title": "Federal minister defends expanded expropriation rules for Alto high-speed rail line",
    "summary": "New rules let Ottawa take land for Alto's depots and stations, with compensation said to be less clear than provincial rules in Ontario.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7696,28 +7715,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T01:09:08+00:00"
-  },
-  {
-   "id": "f03a82a7ba205934",
-   "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
-   "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-22T00:10:37+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T00:23:00+00:00"
   }
  ]
 }

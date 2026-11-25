@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T13:32:55+00:00",
+ "generatedAt": "2026-11-25T13:42:34+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,9 +177,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f8657a3f-c1bb-48b2-b95b-f5b7fc410003,1795611983116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C136%2C4101%2C2306%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f8657a3f-c1bb-48b2-b95b-f5b7fc410003,1795611983116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C136%2C4101%2C2306%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T13:32:55+00:00"
@@ -196,10 +196,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP177050098-e1795613116855.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1120,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP177050098-e1795613116855.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP177050098-e1795613116855.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP177050098-e1795613116855.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1120
    },
    "breaking": false,
    "addedAt": "2026-11-25T13:32:55+00:00"
@@ -238,10 +238,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3647331b814975197738fd0be59ef34af89fc81e/0_30_3522_2816/master/3522.jpg?width=700&quality=85&auto=format&fit=max&s=10d38044850895d7ce5da646e98d9039",
-    "w": 700,
+    "credit": "Photograph: Alexey Fedorenko/Alamy",
     "h": 560,
-    "credit": "Photograph: Alexey Fedorenko/Alamy"
+    "url": "https://i.guim.co.uk/img/media/3647331b814975197738fd0be59ef34af89fc81e/0_30_3522_2816/master/3522.jpg?width=700&quality=85&auto=format&fit=max&s=10d38044850895d7ce5da646e98d9039",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T13:32:55+00:00"
@@ -588,9 +588,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/530bc4de-9c69-4cb2-b33b-bf2ab68804eb,1777315508788/full/max/0/default.jpg?im=Crop%2Crect%3D%2813%2C0%2C3557%2C2000%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/530bc4de-9c69-4cb2-b33b-bf2ab68804eb,1777315508788/full/max/0/default.jpg?im=Crop%2Crect%3D%2813%2C0%2C3557%2C2000%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:41:49+00:00"
@@ -1803,7 +1803,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2170,10 +2170,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/1f/c1fcab0c-da20-479b-97d7-f660af562c49/6b06df197501b.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 947,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/1f/c1fcab0c-da20-479b-97d7-f660af562c49/6b06df197501b.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/1f/c1fcab0c-da20-479b-97d7-f660af562c49/6b06df197501b.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/1f/c1fcab0c-da20-479b-97d7-f660af562c49/6b06df197501b.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T20:37:22+00:00"

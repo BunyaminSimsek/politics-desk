@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T22:26:19+00:00",
+ "generatedAt": "2026-11-25T22:35:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "CBC World",
@@ -65,7 +65,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 7
   },
   {
    "source": "Al Jazeera",
@@ -165,6 +165,64 @@
   }
  ],
  "items": [
+  {
+   "id": "073d45a0dd731530",
+   "title": "Senate committee recommends changing Liberals' data access bill following cybersecurity concerns",
+   "summary": "Senators on the national security committee want to see some changes made to a deeply divisive Liberal bill that would give police and intelligence agencies easier access to Canadians' private information.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/bill-c-22-lawful-access-security-9.7436101?cmp=rss",
+   "date": "2026-11-25T22:33:14+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/db52ea27-7f21-470c-a64a-a9bd5fbbc5a2,1795645423961/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C307%2C2659%2C1495%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T22:35:21+00:00"
+  },
+  {
+   "id": "3d6146161d8058b5",
+   "title": "Ford calls online gambling ads 'out of control,' says cabinet will look into problem",
+   "summary": "Ontario Premier Doug Ford said he has asked his cabinet to look into online gambling ads as his government faces increasing pressure from opposition MPPs to ban widespread advertising by the end of the year.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/ontario-gambling-ads-doug-ford-opposition-reaction-9.7436285?cmp=rss",
+   "date": "2026-11-25T22:31:05+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/b41c9061-1da8-49e3-a5f9-9ace70c719d4,1795641691168/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C6000%2C3375%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T22:35:21+00:00"
+  },
+  {
+   "id": "e3b02cc2efa76f0e",
+   "title": "Senate committee makes amendments to Liberal government's 'lawful access' bill",
+   "summary": "OTTAWA - A Senate committee has made several amendments to the Liberal government's \"lawful access\" bill with the aim of reinforcing privacy safeguards and clarifying provisions.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/senate-committee-makes-amendments-to-liberal-government-s-lawful-access-bill/article_dc82877f-c66d-5fdf-ac88-d70a632d8302.html",
+   "date": "2026-11-25T22:20:52+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/51/851b3946-101a-5eb7-b0c6-40113e523704/6b076041ac766.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 764,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/51/851b3946-101a-5eb7-b0c6-40113e523704/6b076041ac766.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T22:35:21+00:00"
+  },
   {
    "id": "c5c4622c9bda83e3",
    "title": "Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
@@ -418,9 +476,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/dcce8b2a-379d-47cc-a56c-f662e606b043,1760119273968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1180%2C663%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/dcce8b2a-379d-47cc-a56c-f662e606b043,1760119273968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1180%2C663%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T20:33:56+00:00"
@@ -8245,62 +8303,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:08:29+00:00"
-  },
-  {
-   "id": "f63a9a8716ff8dba",
-   "title": "Zelenskyy confirms Ukraine was behind attack on Russian warship off Libya",
-   "summary": "Ukraine carried out an attack on a Russian warship moored at a naval base in Libya, President Volodymyr Zelenskyy said Monday, claiming that sea drones sank the vessel in a surprise assault the previous day.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/ukraine-attack-russian-warship-libya-merkury-9.7432215?cmp=rss",
-   "date": "2026-11-23T09:47:02+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/43fb80f9-b1a2-4e6e-8ada-c2c36ad662ad,1795432744334/full/max/0/default.jpg?im=Crop%2Crect%3D%2829%2C0%2C2940%2C1653%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:27:26+00:00"
-  },
-  {
-   "id": "a6168390bde62554",
-   "title": "After midterm losses, Republicans debate what's next for the party",
-   "summary": "In the wake of their midterm election losses, Republicans are discussing what happened and what the future might be for their party.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party",
-   "date": "2026-11-23T09:45:06+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-23T09:57:50+00:00"
-  },
-  {
-   "id": "48ebf8f039165620",
-   "title": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
-   "summary": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
-   "date": "2026-11-23T09:33:59+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795426432.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795426432.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:39:29+00:00"
   }
  ]
 }

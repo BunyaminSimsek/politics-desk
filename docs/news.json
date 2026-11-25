@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T04:02:22+00:00",
+ "generatedAt": "2026-11-25T04:11:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 12
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 30
   },
   {
    "source": "The Guardian",
@@ -184,6 +184,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T18:36:03+00:00"
+  },
+  {
+   "id": "b74d337193cece0a",
+   "title": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares",
+   "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% as Australia’s cost-of-living crisis intensifies Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
+   "date": "2026-11-25T03:55:50+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Lisa Maree Williams/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=a044cef5241bf17570f5c69af9dbe7d1",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T01:16:55+00:00"
   },
   {
    "id": "a87455069b89efa4",
@@ -392,28 +414,6 @@
    "addedAt": "2026-11-25T02:02:33+00:00"
   },
   {
-   "id": "b74d337193cece0a",
-   "title": "Inflation rate jumps to 4.9% as Australia’s cost-of-living crisis intensifies",
-   "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Surging fuel costs and the end of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
-   "date": "2026-11-25T01:42:07+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lisa Maree Williams/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=a044cef5241bf17570f5c69af9dbe7d1",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T01:16:55+00:00"
-  },
-  {
    "id": "2da9f6ced34b4d02",
    "title": "Senegal fans celebrate AFCON legal victory over Morocco",
    "summary": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
@@ -516,6 +516,48 @@
    "addedAt": "2026-11-25T01:26:01+00:00"
   },
   {
+   "id": "ee33f0089d1182d3",
+   "title": "Clashing political visions reflect a divided Spain ahead of election",
+   "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T00:58:34+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8cda/live/86305ac0-e811-11f1-ab42-55d8d8278025.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8cda/live/86305ac0-e811-11f1-ab42-55d8d8278025.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T04:11:21+00:00"
+  },
+  {
+   "id": "3cc4786f8522ae83",
+   "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+   "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T00:56:51+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T04:11:21+00:00"
+  },
+  {
    "id": "dad1a10a86cc9ab4",
    "title": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
    "summary": "Levity was in short supply as president, reeling from midterms rout, talked up his achievements – and fixated on White House vanity project For some, it was his pardoning of the January 6 rioters or the deployment of masked ICE agents.",
@@ -534,6 +576,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T01:07:43+00:00"
+  },
+  {
+   "id": "f40719ae1d01b597",
+   "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+   "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T00:54:13+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/849c/live/4d5b1c90-e815-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/849c/live/4d5b1c90-e815-11f1-a094-5fdc692f3e33.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T04:11:21+00:00"
   },
   {
    "id": "a5c3c1aa9c574547",

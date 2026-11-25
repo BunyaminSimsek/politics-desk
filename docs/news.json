@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T13:23:29+00:00",
+ "generatedAt": "2026-11-25T13:32:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 14
+   "kept": 13
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 27
+   "kept": 26
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,87 @@
  ],
  "items": [
   {
+   "id": "efd29e92af4bd185",
+   "title": "Opposition MPs say they want answers on planned Parks Canada cuts",
+   "summary": "Opposition MPs are looking for answers about planned cuts to Parks Canada, with one saying Ottawa shouldn't proceed with its plan to continue free admission to parks through 2027.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/parks-canada-cuts-opposition-9.7435217?cmp=rss",
+   "date": "2026-11-25T13:30:01+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/f8657a3f-c1bb-48b2-b95b-f5b7fc410003,1795611983116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C136%2C4101%2C2306%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T13:32:55+00:00"
+  },
+  {
+   "id": "561e8ed98e050063",
+   "title": "Carney Liberals haven’t fulfilled firearm commitments, advocacy groups say",
+   "summary": "Several voices for stronger gun control say Prime Minister Mark Carney's government has failed to live up to its commitments on firearms.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12165433/mark-carney-gun-control-commitments/",
+   "date": "2026-11-25T13:26:41+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP177050098-e1795613116855.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1120,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP177050098-e1795613116855.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T13:32:55+00:00"
+  },
+  {
+   "id": "c7d3f2302a2528f8",
+   "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
+   "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+   "date": "2026-11-25T13:25:38+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Andy Rain/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=700&quality=85&auto=format&fit=max&s=1e6af5775cfc5ae74b9ce9db4d803c45",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T09:42:32+00:00"
+  },
+  {
+   "id": "2a7a6d54e9abce15",
+   "title": "BBC lodges urgent appeal against Trump’s $10bn defamation lawsuit",
+   "summary": "Corporation asks US court of appeals for the 11th circuit to throw out case brought over Panorama documentary The BBC has lodged an urgent appeal to have Donald Trump’s $10bn defamation lawsuit against it thrown out, after internal surprise at a judge’s…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/bbc-trump-defamation-case-10bn-urgent-appeal",
+   "date": "2026-11-25T13:24:55+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/3647331b814975197738fd0be59ef34af89fc81e/0_30_3522_2816/master/3522.jpg?width=700&quality=85&auto=format&fit=max&s=10d38044850895d7ce5da646e98d9039",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Alexey Fedorenko/Alamy"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T13:32:55+00:00"
+  },
+  {
    "id": "738443e67a1f4864",
    "title": "US announces new tariffs on host of countries including China",
    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
@@ -188,26 +269,26 @@
    "addedAt": "2026-11-25T10:37:27+00:00"
   },
   {
-   "id": "c7d3f2302a2528f8",
-   "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
-   "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration.",
+   "id": "ce3d5df3befb05f9",
+   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-   "date": "2026-11-25T13:12:17+00:00",
-   "topic": "europe",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "date": "2026-11-25T13:16:56+00:00",
+   "topic": "us",
    "region": "world",
    "tags": [
-    "immigration"
+    "defence"
    ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Andy Rain/EPA",
+    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=700&quality=85&auto=format&fit=max&s=1e6af5775cfc5ae74b9ce9db4d803c45",
+    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
     "w": 700
    },
-   "breaking": false,
-   "addedAt": "2026-11-25T09:42:32+00:00"
+   "breaking": true,
+   "addedAt": "2026-11-25T11:51:19+00:00"
   },
   {
    "id": "bb246a3f102f5b95",
@@ -223,10 +304,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/052f70b3cd29d16bf1465828355cd94e1de55a2f/31_0_4626_3703/master/4626.jpg?width=700&quality=85&auto=format&fit=max&s=8dd152d120b731a0918695d7d4d73c17",
-    "w": 700,
+    "credit": "Photograph: J Scott Applewhite/AP",
     "h": 560,
-    "credit": "Photograph: J Scott Applewhite/AP"
+    "url": "https://i.guim.co.uk/img/media/052f70b3cd29d16bf1465828355cd94e1de55a2f/31_0_4626_3703/master/4626.jpg?width=700&quality=85&auto=format&fit=max&s=8dd152d120b731a0918695d7d4d73c17",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T13:23:29+00:00"
@@ -250,26 +331,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T13:04:44+00:00"
-  },
-  {
-   "id": "ce3d5df3befb05f9",
-   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-   "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-   "date": "2026-11-25T12:42:45+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tierney L Cross/The Washington Post/Bloomberg via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=fc0d465bbf10f32f04be926fb02d134d",
-    "w": 700
-   },
-   "breaking": true,
-   "addedAt": "2026-11-25T11:51:19+00:00"
   },
   {
    "id": "a87455069b89efa4",
@@ -1742,7 +1803,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2100,7 +2161,7 @@
   {
    "id": "6643c8b0549ab7a2",
    "title": "Alberta takes symbolic stand against federal hate crime law, says it silences speech",
-   "summary": "EDMONTON - Alberta's government is taking a symbolic stand against Ottawa's decision to remove religious speech as a defence to hate crimes, although it acknowledges it already gets final say on whether many cases get prosecuted.",
+   "summary": "Premier Danielle Smith said her government would soon invoke her sovereignty act in the legislature and table a motion outlining Alberta's intention to push back against the law.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/alberta/alberta-takes-symbolic-stand-against-federal-hate-crime-law-says-it-silences-speech/article_1e40f241-32a9-5eda-9a88-7e39df17ff30.html",
    "date": "2026-11-24T20:29:00+00:00",
@@ -2109,10 +2170,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "h": 806,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/41/d41c741b-6fcf-5963-b428-636c3798051c/6b05f3cd14d1c.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/41/d41c741b-6fcf-5963-b428-636c3798051c/6b05f3cd14d1c.image.jpg?resize=1200%2C",
-    "w": 1200
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/1f/c1fcab0c-da20-479b-97d7-f660af562c49/6b06df197501b.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 947,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/1f/c1fcab0c-da20-479b-97d7-f660af562c49/6b06df197501b.image.jpg?resize=640%2C"
    },
    "breaking": false,
    "addedAt": "2026-11-24T20:37:22+00:00"
@@ -8247,68 +8308,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T15:22:00+00:00"
-  },
-  {
-   "id": "2b86c9cc5f2971b3",
-   "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-   "summary": "Military officials tour underground facility in show of military capabilities despite US attacks.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-   "date": "2026-11-22T14:20:41+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "analysis",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/missileScreenshot-2026-11-22-170446-1795357014.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/missileScreenshot-2026-11-22-170446-1795357014.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T14:36:05+00:00"
-  },
-  {
-   "id": "f7ac6af79b5200dc",
-   "title": "Experts say ‘trusted messengers’ critical as Amish grapple with measles outbreak",
-   "summary": "Unfolding crisis shows importance of ‘human connections’ over the long term – especially in under-vaccinated areas Tristan Sharratt, a family nurse practitioner and public health researcher, began serving an Amish community in central New York almost…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
-   "date": "2026-11-22T14:00:33+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jeffrey Phelps/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/75572d989e49430c572626c68c8e4da3241921a3/148_0_3062_2449/master/3062.jpg?width=700&quality=85&auto=format&fit=max&s=c1c7cbd296713e20c33be99c1c1a6401",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T14:17:13+00:00"
-  },
-  {
-   "id": "b94f6078b77402b0",
-   "title": "Australia urged to wean off imported fossil fuels amid global supply shocks",
-   "summary": "Grattan Institute report calls on government to seize opportunity to cap diesel tax credits, introduce EV subsidies for less wealthy and build ‘clean’ refineries Get our daily political email , free app or daily news podcast Capping lucrative diesel tax…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
-   "date": "2026-11-22T14:00:29+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: James D Morgan/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5ae22b836fc60fa1a5cc21e59c9b0a1cf60ec948/236_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=28e16e41c8dbada4ae66eeacb515b2a5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-22T14:17:13+00:00"
   }
  ]
 }

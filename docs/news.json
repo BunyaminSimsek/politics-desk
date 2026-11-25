@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T01:53:18+00:00",
+ "generatedAt": "2026-11-25T02:02:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 29
+   "kept": 30
   },
   {
    "source": "The Guardian",
@@ -166,9 +166,51 @@
  ],
  "items": [
   {
+   "id": "a87455069b89efa4",
+   "title": "Kilmar Ábrego García leaving US for Spain, bringing deportation battle to an end",
+   "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T01:51:19+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T02:02:33+00:00"
+  },
+  {
+   "id": "6e5ef958a13f4c18",
+   "title": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
+   "summary": "Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer ‘a source of uncertainty and doubt in the region’ The Solomon Islands prime minister says the days of his country being an uncertain partner in the Pacific…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
+   "date": "2026-11-25T01:51:02+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b962796bea53cf339ac44ee52d0043644f41d4b1/450_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=30898d66834c6f4d0b40b047bdc99294",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Mick Tsikas/EPA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T02:02:33+00:00"
+  },
+  {
    "id": "b74d337193cece0a",
    "title": "Inflation rate jumps to 4.9% as Australia’s cost-of-living crisis intensifies",
-   "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Surging fuel costs and the end of…",
+   "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Surging fuel costs and the end of…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
    "date": "2026-11-25T01:42:07+00:00",
@@ -219,10 +261,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/c4f99890561c34364853932923e32733830c648c/451_0_6570_5256/master/6570.jpg?width=700&quality=85&auto=format&fit=max&s=67ec0eb5b7208a76eb4f252562db95e7",
-    "w": 700,
+    "credit": "Photograph: Carl Court/Reuters",
     "h": 560,
-    "credit": "Photograph: Carl Court/Reuters"
+    "url": "https://i.guim.co.uk/img/media/c4f99890561c34364853932923e32733830c648c/451_0_6570_5256/master/6570.jpg?width=700&quality=85&auto=format&fit=max&s=67ec0eb5b7208a76eb4f252562db95e7",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T01:53:18+00:00"
@@ -239,10 +281,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T01:53:18+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T01:26:01+00:00",
+ "generatedAt": "2026-11-25T01:35:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 50
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-   "date": "2026-11-25T01:14:58+00:00",
+   "date": "2026-11-25T01:22:16+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [],
@@ -184,6 +184,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T20:37:22+00:00"
+  },
+  {
+   "id": "381ac6ba3a8c5660",
+   "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
+   "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
+   "date": "2026-11-25T01:21:08+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Rocco Fazzari/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/262_168_2337_1870/master/2337.jpg?width=700&quality=85&auto=format&fit=max&s=586b914c18dcc84aa6f7fc6aff03f228",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T01:07:43+00:00"
   },
   {
    "id": "886e6fb7c86dd637",
@@ -206,6 +226,28 @@
    "addedAt": "2026-11-24T11:37:31+00:00"
   },
   {
+   "id": "a7370772a2f70de9",
+   "title": "Poll finds US voters want government to end Iran war regardless of terms",
+   "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+   "date": "2026-11-25T01:14:22+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26103713873653-1776138849.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26103713873653-1776138849.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T01:35:09+00:00"
+  },
+  {
    "id": "f4857084d228e708",
    "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
    "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
@@ -217,33 +259,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T01:26:01+00:00"
-  },
-  {
-   "id": "381ac6ba3a8c5660",
-   "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
-   "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
-   "date": "2026-11-25T01:01:19+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Rocco Fazzari/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/262_168_2337_1870/master/2337.jpg?width=700&quality=85&auto=format&fit=max&s=586b914c18dcc84aa6f7fc6aff03f228",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T01:07:43+00:00"
   },
   {
    "id": "dad1a10a86cc9ab4",

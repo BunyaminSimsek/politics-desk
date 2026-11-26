@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T15:14:45+00:00",
+ "generatedAt": "2026-11-26T15:23:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 15
+   "kept": 16
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 26
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,69 @@
  ],
  "items": [
   {
+   "id": "64ca7df9242cf6d3",
+   "title": "New UK-EU treaty has 10-year termination clause",
+   "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T15:23:17+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T07:42:09+00:00"
+  },
+  {
+   "id": "ef8c61463466ed5a",
+   "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
+   "summary": "Then ambassador to US wanted to discuss alternatives to World Trade Organization in ‘under the radar’ meeting, documents reveal UK politics live – latest updates Peter Mandelson sought to organise an “under the radar” meeting between an economic adviser to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
+   "date": "2026-11-26T15:12:36+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: James Manning/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/7450950aea5b236e0cbfff6accd4f606a5dcd367/133_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=90b55362171769de68cf158fa19bbd38",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T13:23:30+00:00"
+  },
+  {
+   "id": "334f569ddc8a9641",
+   "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
+   "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+   "date": "2026-11-26T15:12:19+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration",
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: James Manning/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e3b6ac9ef90ac1b1de2bc7f9894728762310b412/433_94_2992_2394/master/2992.jpg?width=700&quality=85&auto=format&fit=max&s=17302a05baa3e12514ed5f870300ab00",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:23:26+00:00"
+  },
+  {
    "id": "73460e6271641673",
    "title": "Trump says he wants Putin to ‘pull back all military aggression’ in Europe – Europe live",
    "summary": "The US president said he ‘hopes that a deal can be made between Russia and Ukraine’ swiftly The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not…",
@@ -179,10 +242,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/1ce3a0578ea68206bed8e850874790711398c96a/222_0_3863_3089/master/3863.jpg?width=700&quality=85&auto=format&fit=max&s=1b3a65aefac5a7144bef13d5432ede89",
-    "w": 700,
+    "credit": "Photograph: Vyacheslav Prokofyev/Reuters",
     "h": 560,
-    "credit": "Photograph: Vyacheslav Prokofyev/Reuters"
+    "url": "https://i.guim.co.uk/img/media/1ce3a0578ea68206bed8e850874790711398c96a/222_0_3863_3089/master/3863.jpg?width=700&quality=85&auto=format&fit=max&s=1b3a65aefac5a7144bef13d5432ede89",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T08:55:37+00:00"
@@ -199,10 +262,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/3b4b8cb55704a3ce1cd05925a86f51425692e4d8/617_0_4074_3259/master/4074.jpg?width=700&quality=85&auto=format&fit=max&s=20c891d02fbf3916d17187771d38b8cd",
-    "w": 700,
+    "credit": "Photograph: Andy Rain/EPA",
     "h": 560,
-    "credit": "Photograph: Andy Rain/EPA"
+    "url": "https://i.guim.co.uk/img/media/3b4b8cb55704a3ce1cd05925a86f51425692e4d8/617_0_4074_3259/master/4074.jpg?width=700&quality=85&auto=format&fit=max&s=20c891d02fbf3916d17187771d38b8cd",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T15:14:45+00:00"
@@ -210,7 +273,7 @@
   {
    "id": "34ecedf13eaf1daf",
    "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
-   "summary": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan to fill funding black hole caused by Russia’s relentless attacks Europe live – latest updates EU leaders are bracing for a clash over long-term financial aid for Ukraine, amid an effort to…",
+   "summary": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan to fill funding black hole caused by Russia’s relentless attacks Europe live – latest updates EU leaders are bracing for a clash over long-term financial aid for Ukraine amid an effort to…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
    "date": "2026-11-26T14:56:58+00:00",
@@ -230,27 +293,24 @@
    "addedAt": "2026-11-26T12:27:47+00:00"
   },
   {
-   "id": "334f569ddc8a9641",
-   "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
-   "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "date": "2026-11-26T14:48:20+00:00",
+   "id": "77af3ff41f519e5a",
+   "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+   "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T14:44:26+00:00",
    "topic": "europe",
    "region": "world",
-   "tags": [
-    "immigration",
-    "economy"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: James Manning/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e3b6ac9ef90ac1b1de2bc7f9894728762310b412/433_94_2992_2394/master/2992.jpg?width=700&quality=85&auto=format&fit=max&s=17302a05baa3e12514ed5f870300ab00",
-    "w": 700
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
+    "h": 802,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg"
    },
    "breaking": false,
-   "addedAt": "2026-11-26T09:23:26+00:00"
+   "addedAt": "2026-11-26T15:23:46+00:00"
   },
   {
    "id": "6a21ed65195ff815",
@@ -413,26 +473,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T13:42:01+00:00"
-  },
-  {
-   "id": "ef8c61463466ed5a",
-   "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
-   "summary": "Then ambassador to US wanted to discuss alternatives to World Trade Organization in ‘under the radar’ meeting, documents reveal UK politics live – latest updates Peter Mandelson sought to organise an “under the radar” meeting between an economic adviser to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
-   "date": "2026-11-26T13:11:39+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: James Manning/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7450950aea5b236e0cbfff6accd4f606a5dcd367/133_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=90b55362171769de68cf158fa19bbd38",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T13:23:30+00:00"
   },
   {
    "id": "29093ef9b9de2e7e",
@@ -934,26 +974,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T10:09:37+00:00"
-  },
-  {
-   "id": "64ca7df9242cf6d3",
-   "title": "New UK-EU treaty has 10-year termination clause",
-   "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-26T09:59:14+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T07:42:09+00:00"
   },
   {
    "id": "eefc3e346b904f22",
@@ -2696,7 +2716,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4731,7 +4751,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8265,26 +8285,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T22:22:57+00:00"
-  },
-  {
-   "id": "62e180f6c126e847",
-   "title": "Cadet weekend activities to resume until end of March: minister",
-   "summary": "McGuinty did not say how much funding is being provided in addition to the operating budget of about $265 million for cadet programs this year.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12163083/cadet-weekend-programs-restored-funding/",
-   "date": "2026-11-23T21:46:51+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/83dbd5c6d6226e74db5af9c6aafac87aa4f20f118df62c56f5f9a35065f2e97e.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/83dbd5c6d6226e74db5af9c6aafac87aa4f20f118df62c56f5f9a35065f2e97e.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T21:54:48+00:00"
   }
  ]
 }

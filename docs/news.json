@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T17:24:13+00:00",
+ "generatedAt": "2026-11-26T17:33:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -282,10 +282,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-26T143642Z_902721325_RC2Y7NATVPDM_RTRMADP_3_ECB-PRESIDENT-1795712300.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-26T143642Z_902721325_RC2Y7NATVPDM_RTRMADP_3_ECB-PRESIDENT-1795712300.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-26T143642Z_902721325_RC2Y7NATVPDM_RTRMADP_3_ECB-PRESIDENT-1795712300.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-26T143642Z_902721325_RC2Y7NATVPDM_RTRMADP_3_ECB-PRESIDENT-1795712300.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T17:24:13+00:00"
@@ -489,9 +489,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/d283e576-9690-45aa-aca1-c086a7d833a2,1795704755405/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C153%2C5307%2C2985%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/d283e576-9690-45aa-aca1-c086a7d833a2,1795704755405/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C153%2C5307%2C2985%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T15:32:58+00:00"

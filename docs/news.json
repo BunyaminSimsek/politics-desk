@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T00:27:44+00:00",
+ "generatedAt": "2026-11-26T00:36:43+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-26T00:19:05+00:00",
+   "date": "2026-11-26T00:31:08+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -338,9 +338,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/db52ea27-7f21-470c-a64a-a9bd5fbbc5a2,1795645423961/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C307%2C2659%2C1495%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/db52ea27-7f21-470c-a64a-a9bd5fbbc5a2,1795645423961/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C307%2C2659%2C1495%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T22:35:21+00:00"
@@ -357,9 +357,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/b41c9061-1da8-49e3-a5f9-9ace70c719d4,1795641691168/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C6000%2C3375%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/b41c9061-1da8-49e3-a5f9-9ace70c719d4,1795641691168/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C6000%2C3375%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T22:35:21+00:00"
@@ -597,9 +597,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/dcce8b2a-379d-47cc-a56c-f662e606b043,1760119273968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1180%2C663%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/dcce8b2a-379d-47cc-a56c-f662e606b043,1760119273968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1180%2C663%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T20:33:56+00:00"

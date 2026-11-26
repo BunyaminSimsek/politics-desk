@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T05:33:28+00:00",
+ "generatedAt": "2026-11-26T05:42:32+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,24 +166,26 @@
  ],
  "items": [
   {
-   "id": "e972052d7bfca986",
-   "title": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
-   "summary": "A federal judge has blocked the Trump administration from moving to review all local broadcast licenses held by ABC. The stations air in six of the largest U.S. markets.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
-   "date": "2026-11-26T05:23:18+00:00",
-   "topic": "us",
+   "id": "3b9953572b833136",
+   "title": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+   "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+   "date": "2026-11-26T05:30:32+00:00",
+   "topic": "asia",
    "region": "world",
-   "tags": [],
+   "tags": [
+    "elections"
+   ],
    "kind": "news",
    "image": {
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2Fa4%2F8f4bad7a4672b2a60fa7293ee33b%2Fcarr-damaro-diptych.jpg",
-    "w": 1200,
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2Fa4%2F8f4bad7a4672b2a60fa7293ee33b%2Fcarr-damaro-diptych.jpg"
+    "credit": "Photograph: Jay Kogler/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=04900df8f25856c81c5d269ae57f015f",
+    "w": 700
    },
    "breaking": false,
-   "addedAt": "2026-11-26T05:33:28+00:00"
+   "addedAt": "2026-11-26T03:06:07+00:00"
   },
   {
    "id": "c5c4622c9bda83e3",
@@ -191,7 +193,7 @@
    "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-26T05:18:33+00:00",
+   "date": "2026-11-26T05:28:39+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -204,6 +206,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
+   "id": "e972052d7bfca986",
+   "title": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
+   "summary": "A federal judge has blocked the Trump administration from moving to review all local broadcast licenses held by ABC. The stations air in six of the largest U.S. markets.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
+   "date": "2026-11-26T05:23:18+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2Fa4%2F8f4bad7a4672b2a60fa7293ee33b%2Fcarr-damaro-diptych.jpg",
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2Fa4%2F8f4bad7a4672b2a60fa7293ee33b%2Fcarr-damaro-diptych.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T05:33:28+00:00"
   },
   {
    "id": "cfc521bbe550ad88",
@@ -266,28 +288,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T05:14:50+00:00"
-  },
-  {
-   "id": "3b9953572b833136",
-   "title": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
-   "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
-   "date": "2026-11-26T04:34:12+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jay Kogler/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=04900df8f25856c81c5d269ae57f015f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T03:06:07+00:00"
   },
   {
    "id": "6dded9cc66e38f2a",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T12:37:09+00:00",
+ "generatedAt": "2026-11-26T12:46:22+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -149,7 +149,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/africa/rss",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Conversation",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "5164d19f2cb8827a",
+   "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
+   "summary": "The US and Russia’s candidate for secretary general is on a charm offensive. Can she overcome London’s resistance to her bid?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
+   "date": "2026-11-26T12:37:42+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/5dab08ae82f0cdc38be48420021d99592e503797/0_0_3822_3059/master/3822.jpg?width=700&quality=85&auto=format&fit=max&s=e901caa2f9e24a7763f7b28d46f85ae2",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Eduardo Muñoz/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T12:46:22+00:00"
+  },
+  {
    "id": "334f569ddc8a9641",
    "title": "Mandelson tried to arrange ‘under radar’ meeting involving ex-lobbying colleague and Trump adviser, documents reveal – UK politics live",
    "summary": "The disgraced peer said he wanted to hold a lunch to discuss ‘alternative options’ to the World Trade Organization The Liberal Democrats are saying the UK needs a proper plan for immigration.",
@@ -180,10 +200,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a5dbfc9ee87bd4566266fa4408de4cb95b189cae/382_278_2462_1970/master/2462.jpg?width=700&quality=85&auto=format&fit=max&s=8d5ae302c225406cfc37fd1adc782c12",
-    "w": 700,
+    "credit": "Photograph: James Manning/PA",
     "h": 560,
-    "credit": "Photograph: James Manning/PA"
+    "url": "https://i.guim.co.uk/img/media/a5dbfc9ee87bd4566266fa4408de4cb95b189cae/382_278_2462_1970/master/2462.jpg?width=700&quality=85&auto=format&fit=max&s=8d5ae302c225406cfc37fd1adc782c12",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:23:26+00:00"
@@ -8272,25 +8292,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T20:31:06+00:00"
-  },
-  {
-   "id": "adb3077ce64d5fd7",
-   "title": "Ontario minister defends not initially cutting off college with skyrocketing OSAP use before complete pause",
-   "summary": "A career college with student financial aid usage that grew thousands of per cent in a few years was not one of six the Ontario government cut off in May because of the \"evolving\" nature of the data, the minister of colleges and universities said Monday.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/ontario-osap-pause-minister-response-9.7432982?cmp=rss",
-   "date": "2026-11-23T20:07:11+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/dd6b1780-7db1-4b60-a88b-3de3f63d9b65,1795466604797/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C73%2C2709%2C1523%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T20:12:06+00:00"
   }
  ]
 }

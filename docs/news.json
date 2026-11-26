@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T12:00:02+00:00",
+ "generatedAt": "2026-11-26T12:09:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 11
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 26
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,73 @@
  ],
  "items": [
   {
+   "id": "334f569ddc8a9641",
+   "title": "Government publishes more documents on Mandelson appointment as US ambassador – UK politics live",
+   "summary": "The peer was sacked from his position in 2025 after his close links with Jeffrey Epstein emerged The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+   "date": "2026-11-26T12:04:42+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration",
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/42a1083a5168560c692998138d555277c9e9d9d9/587_371_3654_2923/master/3654.jpg?width=700&quality=85&auto=format&fit=max&s=9253ae8d4c9a45e35ea7ad9230e164ff",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: James Manning/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:23:26+00:00"
+  },
+  {
+   "id": "27d0f525dd6c195a",
+   "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+   "summary": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+   "date": "2026-11-26T12:00:22+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Mark Schiefelbein/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=700&quality=85&auto=format&fit=max&s=c8856eb91cd7b62e4baaaad80646a733",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T04:11:06+00:00"
+  },
+  {
+   "id": "73460e6271641673",
+   "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
+   "summary": "A number of leaders hope to agree to a budget before consequential elections around the continent The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+   "date": "2026-11-26T11:55:06+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Stéphanie Lecocq/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/97af9c3749d929490d31c0c42c1effc6430fc97c/1139_0_4298_3440/master/4298.jpg?width=700&quality=85&auto=format&fit=max&s=a0c19bb8ee84d4596e9273ab73cf0648",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T08:55:37+00:00"
+  },
+  {
    "id": "15a397eed6b4a336",
    "title": "Antisemitism adviser to launch inquiry into ‘hostile work environment’ at BBC",
    "summary": "John Mann says decision comes after hearing ‘disturbing’ accounts by Jewish staff about discrimination against them UK politics live – latest updates The government’s independent adviser on antisemitism has said he is launching an investigation into the BBC…",
@@ -177,10 +244,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/191e40fcc9472a47ebf5f460c69dd33382be5cab/254_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=825eb7002f32a1e5943e7e2d4db7bbc8",
-    "w": 700,
+    "credit": "Photograph: Jack Taylor/Reuters",
     "h": 560,
-    "credit": "Photograph: Jack Taylor/Reuters"
+    "url": "https://i.guim.co.uk/img/media/191e40fcc9472a47ebf5f460c69dd33382be5cab/254_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=825eb7002f32a1e5943e7e2d4db7bbc8",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T12:00:02+00:00"
@@ -203,29 +270,6 @@
    "addedAt": "2026-11-26T11:50:42+00:00"
   },
   {
-   "id": "334f569ddc8a9641",
-   "title": "Government publishes more documents on Mandelson appointment as US ambassador – UK politics live",
-   "summary": "The peer was sacked from his position in 2025 after his close links with Jeffrey Epstein emerged The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "date": "2026-11-26T11:43:25+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration",
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kirsty Wigglesworth/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/60dbd41a3df9a1f55d47261c666aa16bc3b5d43f/371_0_4403_3522/master/4403.jpg?width=700&quality=85&auto=format&fit=max&s=2f9874d38713f14db74464d3a2a4a58c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T09:23:26+00:00"
-  },
-  {
    "id": "ff871630f2134dda",
    "title": "Sen. Tim Kaine, D-Va., shares why he opposes Trump's proposed tariffs",
    "summary": "NPR's A Martinez speaks with Virginia Sen. Tim Kaine about the Democrat's opposition to President Trump's new tariffs.",
@@ -241,28 +285,6 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-26T11:50:42+00:00"
-  },
-  {
-   "id": "73460e6271641673",
-   "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
-   "summary": "A number of leaders hope to agree to a budget before consequential elections around the continent The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-   "date": "2026-11-26T11:42:49+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Stéphanie Lecocq/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/97af9c3749d929490d31c0c42c1effc6430fc97c/1139_0_4298_3440/master/4298.jpg?width=700&quality=85&auto=format&fit=max&s=a0c19bb8ee84d4596e9273ab73cf0648",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T08:55:37+00:00"
   },
   {
    "id": "23f4ad4e1b62473f",
@@ -409,6 +431,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T11:04:20+00:00"
+  },
+  {
+   "id": "1267cc1bc427f22f",
+   "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+   "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T10:25:51+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7152/live/395fc860-e975-11f1-acd8-af22a7ebb474.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7152/live/395fc860-e975-11f1-acd8-af22a7ebb474.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T12:09:23+00:00"
   },
   {
    "id": "7435a17464db2156",
@@ -947,28 +989,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T06:47:13+00:00"
-  },
-  {
-   "id": "27d0f525dd6c195a",
-   "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
-   "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat”…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-   "date": "2026-11-26T06:10:56+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mark Schiefelbein/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=700&quality=85&auto=format&fit=max&s=c8856eb91cd7b62e4baaaad80646a733",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T04:11:06+00:00"
   },
   {
    "id": "ae167a9fd420996a",
@@ -8275,26 +8295,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T20:02:43+00:00"
-  },
-  {
-   "id": "02498e5ba3612deb",
-   "title": "Premiers Ford, Smith say interprovincial trade remains complicated despite efforts",
-   "summary": "TORONTO - The leaders of Ontario and Alberta say internal trade barriers remain across the country despite moves to open up interprovincial free trade.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/ontario/premiers-ford-smith-say-interprovincial-trade-remains-complicated-despite-efforts/article_b17e9c45-2cc6-5e29-8f0a-9335ace232db.html",
-   "date": "2026-11-23T19:42:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 738,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/cd/4cdf3303-578e-5ca9-9ec6-050aa22f750c/6aba1fb160bf2.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/cd/4cdf3303-578e-5ca9-9ec6-050aa22f750c/6aba1fb160bf2.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T19:53:20+00:00"
   }
  ]
 }

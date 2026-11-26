@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T10:55:14+00:00",
+ "generatedAt": "2026-11-26T11:04:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "CTV News",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "4c4082aa34f3ac13",
+   "title": "No ‘Bains bump’ in first province-wide poll since new Ontario Liberal leader crowned",
+   "summary": "The survey found Ford's PC party now sits at 41 per cent, Bain's Liberals have 29 per cent support, Marit Stiles's NDP has 24 per cent",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12166777/no-bains-bump-in-first-province-wide-poll-since-new-ontario-liberal-leader-crowned/",
+   "date": "2026-11-26T11:00:53+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1c91d4f735882d6dce2b45b97473994d964841b3edd38be44bc350cd6a544c31_58812e.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1c91d4f735882d6dce2b45b97473994d964841b3edd38be44bc350cd6a544c31_58812e.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T11:04:20+00:00"
+  },
+  {
+   "id": "d35e05b4893739a8",
+   "title": "Ontario to force some e-bike riders to get licences, insurance",
+   "summary": "Motorcycle-style e-bikes in Ontario will need licences, registration and insurance starting next May 1.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/ontario-to-force-some-e-bike-riders-to-get-licences-insurance/article_f7e4ed10-e6a0-446a-a2c9-c28772e8f913.html",
+   "date": "2026-11-26T11:00:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/46/846932db-e35b-51b0-9b60-65278670b420/6b076ce5c5655.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/46/846932db-e35b-51b0-9b60-65278670b420/6b076ce5c5655.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T11:04:20+00:00"
+  },
+  {
    "id": "334f569ddc8a9641",
    "title": "UK net migration falls to 77,000, lowest since 1997 excluding Covid pandemic – UK politics live",
    "summary": "Net migration fell in the year ending June 2026, according to the Office for National Statistics The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler .",
@@ -202,10 +244,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/49d1786e5d01aa5c43f3cf6db1c21cfefbe2eaae/853_0_4461_3569/master/4461.jpg?width=700&quality=85&auto=format&fit=max&s=dcee4ab7c06713a2a6ce5720201251ee",
-    "w": 700,
+    "credit": "Photograph: Marius Burgelman/AP",
     "h": 560,
-    "credit": "Photograph: Marius Burgelman/AP"
+    "url": "https://i.guim.co.uk/img/media/49d1786e5d01aa5c43f3cf6db1c21cfefbe2eaae/853_0_4461_3569/master/4461.jpg?width=700&quality=85&auto=format&fit=max&s=dcee4ab7c06713a2a6ce5720201251ee",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T08:55:37+00:00"
@@ -222,10 +264,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/7f16531d849ce5cff3cd318dd53a8bb3570e2944/950_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=67c156f9716e8f887fbded7d6fe0e865",
-    "w": 700,
+    "credit": "Photograph: Christopher Thomond/The Guardian",
     "h": 560,
-    "credit": "Photograph: Christopher Thomond/The Guardian"
+    "url": "https://i.guim.co.uk/img/media/7f16531d849ce5cff3cd318dd53a8bb3570e2944/950_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=67c156f9716e8f887fbded7d6fe0e865",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T10:55:14+00:00"
@@ -2155,7 +2197,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4190,7 +4232,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8261,46 +8303,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T09:39:29+00:00"
-  },
-  {
-   "id": "ef0d9c4c3ddbc24a",
-   "title": "Former prince Andrew was paid £750,000 in hope of helping Turkish woman with passport, high court told",
-   "summary": "Nebahat Isbilen claims her former adviser paid bribe in return for help with passport, but money was returned Andrew Mountbatten-Windsor was paid a £750,000 “bribe” in the hope of helping a Turkish woman with her passport, the high court has been told.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/23/former-prince-andrew-was-paid-bribe-to-help-turkish-woman-with-passport-high-court-told",
-   "date": "2026-11-23T18:20:03+00:00",
-   "topic": "turkey",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chris Jackson/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/8f609c2604e213127517731264667726db059c98/0_56_3410_2729/master/3410.jpg?width=700&quality=85&auto=format&fit=max&s=e6b762a2c5c5751bb078e04cbaf6afaa",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T18:38:38+00:00"
-  },
-  {
-   "id": "0dbbf8511ac62987",
-   "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
-   "summary": "Nepal's Prime Minister Balendra Shah is in New Delhi for a two-day visit — his first since coming to power in March.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
-   "date": "2026-11-23T18:12:55+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T092817Z_1123569228_RC2KTOAJTMT8_RTRMADP_3_INDIA-NEPAL-1795445216.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T092817Z_1123569228_RC2KTOAJTMT8_RTRMADP_3_INDIA-NEPAL-1795445216.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T18:19:53+00:00"
   }
  ]
 }

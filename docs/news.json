@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T22:53:53+00:00",
+ "generatedAt": "2026-11-26T23:03:19+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "BBC News",
@@ -177,13 +177,53 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/McGuinty-2-e1795733355154.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/McGuinty-2-e1795733355154.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/McGuinty-2-e1795733355154.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/McGuinty-2-e1795733355154.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T22:53:53+00:00"
+  },
+  {
+   "id": "bda168cf233b296b",
+   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+   "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T22:49:27+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T23:03:19+00:00"
+  },
+  {
+   "id": "f4a8b8da97b396d5",
+   "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
+   "summary": "After 21 years at Time, Talbott joined the Clinton administration and later headed the Brookings Institution Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under Bill Clinton and then headed the Brookings…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
+   "date": "2026-11-26T22:36:55+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/57a24bd402f8245002e6b0db6ce2771261189de8/212_0_2738_2190/master/2738.jpg?width=700&quality=85&auto=format&fit=max&s=12f527b597fe104eeb6656add82beb10",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Franka Bruns/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T23:03:19+00:00"
   },
   {
    "id": "0a45f0509130522b",
@@ -225,6 +265,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T22:34:47+00:00"
+  },
+  {
+   "id": "1edb09e0ed2e5adf",
+   "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+   "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T22:06:20+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T23:03:19+00:00"
   },
   {
    "id": "5816d258ac81f2ea",
@@ -363,9 +423,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/8b272f0f-a3e0-4046-9914-611bfe930f3d,1795726108943/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C4264%2C2398%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/8b272f0f-a3e0-4046-9914-611bfe930f3d,1795726108943/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C4264%2C2398%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T21:01:12+00:00"
@@ -709,9 +769,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9eff2ccc-157b-448e-b34c-4de286c8e906,1795718209323/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C285%2C5472%2C3078%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9eff2ccc-157b-448e-b34c-4de286c8e906,1795718209323/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C285%2C5472%2C3078%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T18:49:06+00:00"
@@ -8227,66 +8287,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T04:35:25+00:00"
-  },
-  {
-   "id": "a8806135a47fa698",
-   "title": "Leader of India’s Cockroach movement says he was stopped from boarding flight to UK",
-   "summary": "Saurav Das was due to give talks at UK universities on protest movement but says ‘coward government’ prevented him flying A leader of India’s youth-led Cockroach movement has said he was prevented from leaving Delhi to fly to the UK to give talks on the viral…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/24/leader-india-coackroach-movement-says-stopped-from-boarding-flight-to-uk",
-   "date": "2026-11-24T08:24:26+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bhawika Chhabra/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9f22a19d170e05a9273e32830ab1c24735bb14bb/282_0_4240_3392/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=b74e3956b360dcf5ef7a6a460e886e4c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:37:27+00:00"
-  },
-  {
-   "id": "e9128ac72409362f",
-   "title": "Proposed Beatles attraction on Savile Row faces rooftop gigs ban",
-   "summary": "Westminster council to vote on restrictions at planned tourist venue and site of band’s final public concert The Beatles stunned onlookers when they pitched up on the rooftop of 3 Savile Row in London in 1969 for their final public performance, but now…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/music/2026/nov/24/beatles-attraction-savile-row-live-music-ban-westminster-council",
-   "date": "2026-11-24T08:00:11+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evening Standard/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4a18877293afdaf5a165edfd4e26384248d1cf11/5_738_4303_3441/master/4303.jpg?width=700&quality=85&auto=format&fit=max&s=b5f1368f26eb8f5a5aa0fb36ab0f429d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T08:24:14+00:00"
-  },
-  {
-   "id": "530eaa08afbc98c4",
-   "title": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
-   "summary": "Oligarchs believe they’re untouchable – the blue wave offers hope that the rampant corruption of the Trump era may soon be over One can imagine high-fives all around Nvidia’s boardroom after the board reinstated Jensen Huang to the CEO suite.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
-   "date": "2026-11-24T08:00:11+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jim Watson/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ff56fa52c937e43cf50c68e8e45bc1f53dfcba5a/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=ee76929441788c42b126381caae5bc60",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T08:24:14+00:00"
   }
  ]
 }

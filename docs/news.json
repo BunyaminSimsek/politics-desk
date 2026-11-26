@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T16:19:50+00:00",
+ "generatedAt": "2026-11-26T16:29:05+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,71 @@
  ],
  "items": [
   {
+   "id": "334f569ddc8a9641",
+   "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
+   "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+   "date": "2026-11-26T16:18:28+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration",
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: James Manning/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e3b6ac9ef90ac1b1de2bc7f9894728762310b412/433_94_2992_2394/master/2992.jpg?width=700&quality=85&auto=format&fit=max&s=17302a05baa3e12514ed5f870300ab00",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:23:26+00:00"
+  },
+  {
+   "id": "5cfd9d09f87a1b32",
+   "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
+   "summary": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project Opinion: Why Labour MPs are opposing Rosebank Labour’s internal divisions over the giant Rosebank oilfield have spilled into the open, with nearly 100…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
+   "date": "2026-11-26T16:13:09+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Andy Rain/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3b4b8cb55704a3ce1cd05925a86f51425692e4d8/617_0_4074_3259/master/4074.jpg?width=700&quality=85&auto=format&fit=max&s=20c891d02fbf3916d17187771d38b8cd",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T15:14:45+00:00"
+  },
+  {
+   "id": "11e0cf03506c5776",
+   "title": "Georgia judge blocks own order to turn over US election ballot copies to state board",
+   "summary": "Superior court judge Kelly Lee Ellerbe paused the order after county election officials filed a notice of appeal A judge in Fulton county, Georgia , has blocked her own order to turn over electronic copies of 2020 election ballots seized by the FBI in a raid…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized",
+   "date": "2026-11-26T16:08:04+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/c8d94de2a08fa77678a2dac6bea1535d4ef86e57/393_0_2420_1936/master/2420.jpg?width=700&quality=85&auto=format&fit=max&s=4d022fc07b63fbe5ca7665d24904c31f",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Mike Stewart/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T16:29:05+00:00"
+  },
+  {
    "id": "a65b9092a64487b9",
    "title": "2 Italians killed in Iranian drone attack in Kuwait, Italy says",
    "summary": "Two Italians were killed in an Iranian drone attack in Kuwait on Thursday, Italy's foreign minister said, adding that the victims were technicians working for the Italian unit of German defence group Rheinmetall.",
@@ -185,29 +250,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T16:10:14+00:00"
-  },
-  {
-   "id": "334f569ddc8a9641",
-   "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
-   "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "date": "2026-11-26T16:02:06+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration",
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: James Manning/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e3b6ac9ef90ac1b1de2bc7f9894728762310b412/433_94_2992_2394/master/2992.jpg?width=700&quality=85&auto=format&fit=max&s=17302a05baa3e12514ed5f870300ab00",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T09:23:26+00:00"
   },
   {
    "id": "73460e6271641673",
@@ -411,26 +453,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T15:32:58+00:00"
-  },
-  {
-   "id": "5cfd9d09f87a1b32",
-   "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
-   "summary": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project Opinion: Why Labour MPs are opposing Rosebank Labour’s internal divisions over the giant Rosebank oilfield have spilled into the open, with nearly 100…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
-   "date": "2026-11-26T15:00:37+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3b4b8cb55704a3ce1cd05925a86f51425692e4d8/617_0_4074_3259/master/4074.jpg?width=700&quality=85&auto=format&fit=max&s=20c891d02fbf3916d17187771d38b8cd",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T15:14:45+00:00"
   },
   {
    "id": "34ecedf13eaf1daf",
@@ -2602,8 +2624,8 @@
   },
   {
    "id": "b4d1799dd45b8e0b",
-   "title": "Canadian intern and suspected NATO spy to await trial under electronic monitoring",
-   "summary": "Biwei Zhang, the 33-year-old computer scientist accused of spying on NATO, will be under electronic monitoring while awaiting trial, a Belgian court ruled on Wednesday.",
+   "title": "Belgian prosecutors appeal decision to release suspected NATO spy under electronic monitoring",
+   "summary": "Biwei Zhang, the 33-year-old computer scientist accused of spying on NATO, will be under electronic monitoring while awaiting trial, a Belgian court ruled on Wednesday. Prosecutors are appealing the decision.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/canada/canadian-nato-intern-spy-suspect-electronic-monitoring-9.7435716?cmp=rss",
    "date": "2026-11-25T18:30:34+00:00",
@@ -8268,26 +8290,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T22:32:09+00:00"
-  },
-  {
-   "id": "f2286b4f32edfc60",
-   "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
-   "summary": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment Timeline: fall and comeback of Jensen Huang Nvidia has reinstated Jensen…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
-   "date": "2026-11-23T22:23:40+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Hannibal Hanschke/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/d43043e64abd1e9a3d80d7870de50d134c45b4dd/199_0_5507_4407/master/5507.jpg?width=700&quality=85&auto=format&fit=max&s=658e86246071171621361c388415456a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:37:10+00:00"
   }
  ]
 }

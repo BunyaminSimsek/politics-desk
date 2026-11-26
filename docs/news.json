@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T11:32:16+00:00",
+ "generatedAt": "2026-11-26T11:41:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,51 @@
  ],
  "items": [
   {
+   "id": "334f569ddc8a9641",
+   "title": "Government publishes more documents on Mandelson appointment as US ambassador – UK politics live",
+   "summary": "The peer was sacked from his position in 2025 after his close links with Jeffrey Epstein emerged The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+   "date": "2026-11-26T11:34:19+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration",
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/60dbd41a3df9a1f55d47261c666aa16bc3b5d43f/371_0_4403_3522/master/4403.jpg?width=700&quality=85&auto=format&fit=max&s=2f9874d38713f14db74464d3a2a4a58c",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Kirsty Wigglesworth/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:23:26+00:00"
+  },
+  {
+   "id": "73460e6271641673",
+   "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
+   "summary": "A number of leaders hope to agree to a budget before consequential elections around the continent The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+   "date": "2026-11-26T11:31:34+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/97af9c3749d929490d31c0c42c1effc6430fc97c/1139_0_4298_3440/master/4298.jpg?width=700&quality=85&auto=format&fit=max&s=a0c19bb8ee84d4596e9273ab73cf0648",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Stéphanie Lecocq/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T08:55:37+00:00"
+  },
+  {
    "id": "23f4ad4e1b62473f",
    "title": "Ontario’s Bill 140 could cancel appeals already filed",
    "summary": "A right of appeal that can be erased after it has been exercised was never quite a right.",
@@ -177,58 +222,33 @@
    "tags": [],
    "kind": "analysis",
    "image": {
-    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Tribunal-hearing.jpg?resize=1200%2C800",
-    "w": 1920,
     "h": 1280,
-    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Tribunal-hearing.jpg?resize=640%2C427"
+    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Tribunal-hearing.jpg?resize=640%2C427",
+    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Tribunal-hearing.jpg?resize=1200%2C800",
+    "w": 1920
    },
    "breaking": false,
    "addedAt": "2026-11-26T11:32:16+00:00"
   },
   {
-   "id": "334f569ddc8a9641",
-   "title": "UK net migration falls to 77,000, lowest since 1997 excluding Covid pandemic – UK politics live",
-   "summary": "Net migration fell in the year ending June 2026, according to the Office for National Statistics The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "date": "2026-11-26T11:17:54+00:00",
-   "topic": "europe",
+   "id": "7dceaf521da39ea5",
+   "title": "Iraq denies reports of troop movements towards Kurdish region",
+   "summary": "Government says there is 'no truth' to media reports that Iraqi army units were moving towards the Kurdistan region.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss",
+   "date": "2026-11-26T11:23:29+00:00",
+   "topic": "mideast",
    "region": "world",
-   "tags": [
-    "immigration",
-    "economy"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f9438b12e25d0510100c2baa53822bd454f6de67/41_0_2972_2377/master/2972.jpg?width=700&quality=85&auto=format&fit=max&s=80ab4f8d554cdb604f551a0d4f803b0c",
-    "w": 700
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b07eadf53-1795680991.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b07eadf53-1795680991.jpg?resize=640%2C427"
    },
    "breaking": false,
-   "addedAt": "2026-11-26T09:23:26+00:00"
-  },
-  {
-   "id": "73460e6271641673",
-   "title": "EU leaders ‘very far apart’ on agreeing budget at summit, reveals Danish prime minister – Europe live",
-   "summary": "A number of leaders hope to agree to a budget before consequential elections around the continent The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-   "date": "2026-11-26T11:13:33+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Marius Burgelman/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/49d1786e5d01aa5c43f3cf6db1c21cfefbe2eaae/853_0_4461_3569/master/4461.jpg?width=700&quality=85&auto=format&fit=max&s=dcee4ab7c06713a2a6ce5720201251ee",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T08:55:37+00:00"
+   "addedAt": "2026-11-26T11:41:25+00:00"
   },
   {
    "id": "7b9f8f0914eb35c2",
@@ -249,6 +269,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T11:23:05+00:00"
+  },
+  {
+   "id": "c431a31eff654dbc",
+   "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
+   "summary": "New US policy threatens further tariff hikes on China, India, Vietnam if trade negotiations fall through.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss",
+   "date": "2026-11-26T11:07:30+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0800d5-1795686613.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0800d5-1795686613.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T11:41:25+00:00"
   },
   {
    "id": "4c4082aa34f3ac13",
@@ -710,10 +752,10 @@
   {
    "id": "4082808b572c4fb1",
    "title": "Alberta health officials to give update on soldiers injured in CFB Wainwright fire",
-   "summary": "EDMONTON - Alberta health officials are expected to provide an update today on the recovery of soldiers injured during a deadly fire at a military base.",
+   "summary": "About three dozen soldiers were injured on Oct. 17 during a training exercise, with many suffering from serious burns.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/alberta/alberta-health-officials-to-give-update-on-soldiers-injured-in-cfb-wainwright-fire/article_ea96ccff-8968-5cee-9b97-21f3b21feefd.html",
-   "date": "2026-11-26T08:00:04+00:00",
+   "date": "2026-11-26T08:00:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -2259,7 +2301,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4294,7 +4336,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8263,46 +8305,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T17:05:27+00:00"
-  },
-  {
-   "id": "1f7deb7a37bc829c",
-   "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
-   "summary": "Moscow accuses Tallinn of 'hostile actions' citing border closure and claiming it is allowing Ukraine to launch attacks.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
-   "date": "2026-11-23T19:20:30+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00a388-1795203976.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00a388-1795203976.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T19:53:20+00:00"
-  },
-  {
-   "id": "9c9d202d317ea6ba",
-   "title": "Cadet weekend activities to be restored with new funding for programs: minister",
-   "summary": "OTTAWA - The cadet program will receive more funding so weekend and supplemental activities can continue as planned until the end of March, Defence Minister David McGuinty said Monday.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/cp-newsalert-cadet-weekend-activities-to-be-restored-after-pause-minister/article_003cb163-3472-55ef-a0bc-f40cfe40d954.html",
-   "date": "2026-11-23T19:05:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 837,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/69/669e5383-adb3-5667-83eb-cc567db4a684/6b0063f94906e.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/69/669e5383-adb3-5667-83eb-cc567db4a684/6b0063f94906e.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T19:25:11+00:00"
   }
  ]
 }

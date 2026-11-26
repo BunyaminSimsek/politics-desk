@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T19:55:15+00:00",
+ "generatedAt": "2026-11-26T20:04:51+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T19:55:15+00:00"
@@ -197,9 +197,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/e0aa3484-822a-4338-b514-1318c3ba5221,1795722306530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C229%2C4401%2C2475%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/e0aa3484-822a-4338-b514-1318c3ba5221,1795722306530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C229%2C4401%2C2475%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T19:55:15+00:00"
@@ -241,10 +241,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/986e893adee7d4a82d2b268d1a05cd0fa6d2fe28/87_218_2920_2337/master/2920.jpg?width=700&quality=85&auto=format&fit=max&s=ea3ef820c9478439afbcf9448c80c89b",
-    "w": 700,
+    "credit": "Photograph: Kylie Cooper/Reuters",
     "h": 560,
-    "credit": "Photograph: Kylie Cooper/Reuters"
+    "url": "https://i.guim.co.uk/img/media/986e893adee7d4a82d2b268d1a05cd0fa6d2fe28/87_218_2920_2337/master/2920.jpg?width=700&quality=85&auto=format&fit=max&s=ea3ef820c9478439afbcf9448c80c89b",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T19:55:15+00:00"
@@ -263,10 +263,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ea5e95ac0fd2b916b7acdbd7a3c2351e5463c97a/243_0_1994_1596/master/1994.jpg?width=700&quality=85&auto=format&fit=max&s=bb87ea59747cb54834baf8380aece9d5",
-    "w": 700,
+    "credit": "Photograph: Nathan King/Alamy",
     "h": 560,
-    "credit": "Photograph: Nathan King/Alamy"
+    "url": "https://i.guim.co.uk/img/media/ea5e95ac0fd2b916b7acdbd7a3c2351e5463c97a/243_0_1994_1596/master/1994.jpg?width=700&quality=85&auto=format&fit=max&s=bb87ea59747cb54834baf8380aece9d5",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T19:55:15+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T09:41:45+00:00",
+ "generatedAt": "2026-11-26T09:51:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "Global News",
@@ -65,7 +65,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "Al Jazeera",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -167,31 +167,61 @@
  "items": [
   {
    "id": "334f569ddc8a9641",
-   "title": "UK-EU deal to confirm ‘Farage penalty’ clause if Britain walks away – UK politics live",
-   "summary": "The Conservatives say the new deal barely contains savings for UK citizens We should get the latest Mandelson documents (see 9.17am ) around lunchtime. The Commons authorities have announced there will be two ministerial statements today.",
+   "title": "UK net migration falls to 77,000, lowest since 1997 excluding Covid pandemic – UK politics live",
+   "summary": "Net migration fell in the year ending June 2026, according to the Office for National Statistics And this chart from the ONS report shows how immigration, emigration and net migration figures have changed since 2012.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "date": "2026-11-26T09:32:16+00:00",
+   "date": "2026-11-26T09:47:58+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Nicolas Economou/NurPhoto/Shutterstock",
+    "url": "https://i.guim.co.uk/img/media/f9438b12e25d0510100c2baa53822bd454f6de67/41_0_2972_2377/master/2972.jpg?width=700&quality=85&auto=format&fit=max&s=80ab4f8d554cdb604f551a0d4f803b0c",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a3e7a737040e81c60eb69b1d359fec56d4ef6b70/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=aa38de76267a32c0e5d0e5739d2cf796",
-    "w": 700
+    "credit": "Photograph: Andy Rain/EPA"
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:23:26+00:00"
   },
   {
+   "id": "eefc3e346b904f22",
+   "title": "Court rules Puerto Rico's governor can fire company that runs troubled power grid",
+   "summary": "Puerto Rico's Supreme Court has ruled that the governor can cancel a contract with the private company running its troubled power grid, with potential consequences for electric service on the island.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/26/nx-s1-6054139/court-rules-puerto-ricos-governor-can-fire-company-that-runs-troubled-power-grid",
+   "date": "2026-11-26T09:44:20+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-26T09:51:01+00:00"
+  },
+  {
+   "id": "e1c2d04c1dddad6b",
+   "title": "More people searched for news during the midterms, survey finds",
+   "summary": "Most Americans sought out information about the results of the midterm elections. A Pew study found that younger and older adults turned to very different sources.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/26/nx-s1-6053085/more-people-searched-for-news-during-the-midterms-survey-finds",
+   "date": "2026-11-26T09:44:05+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-26T09:51:01+00:00"
+  },
+  {
    "id": "73460e6271641673",
    "title": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
-   "summary": "António Costa says the next long-term budget is ‘the most important’ item on the agenda Irish prime minister Micheál Martin also wanted the EU to ensure there is enough money in the budget on agriculture.",
+   "summary": "António Costa says the next long-term budget is ‘the most important’ item on the agenda Irish prime minister Micheál Martin also said he was confident the EU and the EU “will be in a position to resolve the outstanding issue” of tuition fees, as he hailed the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-   "date": "2026-11-26T09:27:06+00:00",
+   "date": "2026-11-26T09:41:10+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -206,6 +236,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T08:55:37+00:00"
+  },
+  {
+   "id": "37061c5977c4adf3",
+   "title": "Older Australians suffering under Labor’s ‘botched’ aged care at home program, inquiry finds",
+   "summary": "The Support at Home system has ‘baffling’ bureaucracy and ‘rations and denies care’, says Greens chair of Senate inquiry Get our daily political email , free app or daily news podcast Many older Australians are dying before they can access home support…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/26/aged-care-home-support-program-algorithm-tool-inquiry-report",
+   "date": "2026-11-26T09:37:47+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/afd31851f8b61df87727560960dfa526cee57aa5/250_0_3641_2913/master/3641.jpg?width=700&quality=85&auto=format&fit=max&s=9cdf31773af493034da4cd3656ea9e83",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Mick Tsikas/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:51:01+00:00"
   },
   {
    "id": "f8da256a6bc9f5d4",
@@ -1940,7 +1990,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3975,7 +4025,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8251,66 +8301,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T17:42:38+00:00"
-  },
-  {
-   "id": "9d50e4f5338758f0",
-   "title": "Democrats to hold a dozen 2028 presidential primary debates starting in June",
-   "summary": "DNC unveils plans to hold 12 primary debates over 10 months, allowing up to 20 candidates to participate The Democratic National Committee (DNC) unveiled on Monday its plans to hold a dozen 2028 presidential primary debates over 10 months, with the first set…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/23/dnc-democrats-presidential-primary-debates",
-   "date": "2026-11-23T17:07:55+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Robyn Beck/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5a444acc6109dc445787853c686acd301112ee14/1945_890_3917_3134/master/3917.jpg?width=700&quality=85&auto=format&fit=max&s=7ddfcc5a73ee86404ff31e5c71c179b4",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T17:23:53+00:00"
-  },
-  {
-   "id": "9294551a6f1eeab6",
-   "title": "COP31 outcome not what Ottawa had 'hoped' for: environment minister",
-   "summary": "OTTAWA - The outcome of the recent annual United Nations climate conference was not what her government had \"hoped for,\" Environment Minister Julie Dabrusin said.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/cop31-outcome-not-what-ottawa-had-hoped-for-environment-minister/article_5f2f2d77-5dd1-5138-ab00-64ea2923f225.html",
-   "date": "2026-11-23T16:57:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/43/543f219e-7eb2-5aa2-a714-4538d2172e4c/6b0471136bf9a.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/43/543f219e-7eb2-5aa2-a714-4538d2172e4c/6b0471136bf9a.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T17:14:41+00:00"
-  },
-  {
-   "id": "f748ddfc92521a62",
-   "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
-   "summary": "Island’s labour minister, Colin Jordan, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade A town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with the UK city, marking a new chapter in a…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
-   "date": "2026-11-23T16:53:13+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bristol City Council",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/24fed4fd10403e24fe12b5488f5534556ec94642/381_0_2926_2340/master/2926.jpg?width=700&quality=85&auto=format&fit=max&s=8ac9493bc31e143edb6a591356bcd8a6",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:55:47+00:00"
   }
  ]
 }

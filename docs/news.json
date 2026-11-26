@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T08:37:04+00:00",
+ "generatedAt": "2026-11-26T08:46:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "a376c61b2c6466b6",
+   "title": "Two screenings of Pakistani TV show cancelled in India after backlash",
+   "summary": "The show, Dar-e-Nijaat, has become a sensation in India but is now embroiled in a political row.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T08:30:12+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f5ab/live/48278a90-e95c-11f1-b8ee-3d27ee38d605.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f5ab/live/48278a90-e95c-11f1-b8ee-3d27ee38d605.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T08:46:25+00:00"
+  },
   {
    "id": "3b9953572b833136",
    "title": "Coalition to privatise Melbourne sewage plants and sell state land and renewables if it wins election",
@@ -1759,7 +1779,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3794,7 +3814,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8294,26 +8314,6 @@
     "credit": "Composite: Reuters / Guardian design / Getty Images",
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/3034b87937184d9bc9b3561e8cd4a6ff98b6556a/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2d6ce7bc4c1416d77015777d66a5711c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:18:08+00:00"
-  },
-  {
-   "id": "5566b456d1b7c569",
-   "title": "Russia’s war dead: the hidden toll of the Ukraine conflict",
-   "summary": "Exclusive: Analysis gives most detailed picture yet of the nearly 500,000 Russian losses in Ukraine since 2022 Leaked data shows more than 1,000 Russian military suicides during Ukraine war Alexander Korepanov signed up to fight in August 2023.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict",
-   "date": "2026-11-23T16:00:50+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Composite: Getty Images / EPA / Guardian / Guardian design",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/60fe37a744d510b18190ce6c8663f20f3cb62cbd/0_0_5000_3999/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=6b5580169ff48323ff4a3ac371731730",
     "w": 700
    },
    "breaking": false,

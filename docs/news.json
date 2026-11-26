@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T19:26:15+00:00",
+ "generatedAt": "2026-11-26T19:35:52+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/938a4b41d113e71a1854de50ecd489ff51eab129/380_0_3787_3031/master/3787.jpg?width=700&quality=85&auto=format&fit=max&s=943e8f977ea4d957c74fa341c1c3ce33",
-    "w": 700,
+    "credit": "Photograph: Gerry Broome/AP",
     "h": 560,
-    "credit": "Photograph: Gerry Broome/AP"
+    "url": "https://i.guim.co.uk/img/media/938a4b41d113e71a1854de50ecd489ff51eab129/380_0_3787_3031/master/3787.jpg?width=700&quality=85&auto=format&fit=max&s=943e8f977ea4d957c74fa341c1c3ce33",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T19:26:15+00:00"
@@ -197,9 +197,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/adf7e008-a596-4407-aa8f-2d13fc52e697,1795717379207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7282%2C4096%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/adf7e008-a596-4407-aa8f-2d13fc52e697,1795717379207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C7282%2C4096%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T19:26:15+00:00"
@@ -216,10 +216,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b084410-1795703824.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b084410-1795703824.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b084410-1795703824.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b084410-1795703824.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T19:26:15+00:00"
@@ -671,7 +671,7 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/fa005dcd-a5ed-4f0e-b8cf-dcdbee1a64b7,1795720880397/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C355%2C4032%2C2268%29%3B",
+    "url": "https://i.cbc.ca/ais/fa005dcd-a5ed-4f0e-b8cf-dcdbee1a64b7,1795721539594/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C405%2C4032%2C2268%29%3B",
     "credit": "",
     "caption": ""
    },
@@ -917,9 +917,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/d283e576-9690-45aa-aca1-c086a7d833a2,1795704755405/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C153%2C5307%2C2985%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/d283e576-9690-45aa-aca1-c086a7d833a2,1795704755405/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C153%2C5307%2C2985%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T15:32:58+00:00"
@@ -3368,7 +3368,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5403,7 +5403,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

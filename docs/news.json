@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T17:15:02+00:00",
+ "generatedAt": "2026-11-26T17:24:13+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -171,7 +171,7 @@
    "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "date": "2026-11-26T17:03:35+00:00",
+   "date": "2026-11-26T17:13:25+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -202,10 +202,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/12/f1258177-7603-5309-8ddc-5e8ac1f4621c/6a6bba296da4d.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/12/f1258177-7603-5309-8ddc-5e8ac1f4621c/6a6bba296da4d.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/12/f1258177-7603-5309-8ddc-5e8ac1f4621c/6a6bba296da4d.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/12/f1258177-7603-5309-8ddc-5e8ac1f4621c/6a6bba296da4d.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T17:15:02+00:00"
@@ -222,10 +222,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9f619d89b9be2fe6b15f51d5f2a5acaa898ac34a/316_0_2459_1968/master/2459.jpg?width=700&quality=85&auto=format&fit=max&s=d76a3445b99d179925ae3cd53f4a1df7",
-    "w": 700,
+    "credit": "Photograph: Hannah McKay/Reuters Pool/AP",
     "h": 560,
-    "credit": "Photograph: Hannah McKay/Reuters Pool/AP"
+    "url": "https://i.guim.co.uk/img/media/9f619d89b9be2fe6b15f51d5f2a5acaa898ac34a/316_0_2459_1968/master/2459.jpg?width=700&quality=85&auto=format&fit=max&s=d76a3445b99d179925ae3cd53f4a1df7",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T17:15:02+00:00"
@@ -269,6 +269,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T16:38:16+00:00"
+  },
+  {
+   "id": "b2ce56e1367b4d3c",
+   "title": "Spanish economist to become new European Central Bank chief",
+   "summary": "French President Emmanuel Macron says EU leaders have agreed on the appointment of Pablo Hernandez de Cos.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+   "date": "2026-11-26T16:20:54+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-26T143642Z_902721325_RC2Y7NATVPDM_RTRMADP_3_ECB-PRESIDENT-1795712300.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-26T143642Z_902721325_RC2Y7NATVPDM_RTRMADP_3_ECB-PRESIDENT-1795712300.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T17:24:13+00:00"
   },
   {
    "id": "5cfd9d09f87a1b32",
@@ -2960,7 +2980,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4995,7 +5015,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8270,28 +8290,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T21:36:14+00:00"
-  },
-  {
-   "id": "13c61ff595494a4e",
-   "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
-   "summary": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
-   "date": "2026-11-23T22:54:47+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795474436.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795474436.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T23:10:33+00:00"
   }
  ]
 }

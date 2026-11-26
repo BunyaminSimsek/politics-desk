@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T23:12:51+00:00",
+ "generatedAt": "2026-11-26T23:22:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -179,9 +179,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/89c3aa54-8807-4e7e-a60c-1b27f4bd671e,1795732785627/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C269%2C5006%2C2815%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/89c3aa54-8807-4e7e-a60c-1b27f4bd671e,1795732785627/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C269%2C5006%2C2815%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T23:12:51+00:00"
@@ -200,6 +200,26 @@
    "image": null,
    "breaking": false,
    "addedAt": "2026-11-26T23:12:51+00:00"
+  },
+  {
+   "id": "2dfc63e47cc1127f",
+   "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
+   "summary": "Canada’s top court weighs Bill 21, the Quebec law that shapes where Muslim women can work and where they feel welcome.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
+   "date": "2026-11-26T22:51:55+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2021-04-20T214248Z_831728707_RC2XZM9OZX5I_RTRMADP_3_CANADA-QUEBEC-RELIGION-1795727454.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2021-04-20T214248Z_831728707_RC2XZM9OZX5I_RTRMADP_3_CANADA-QUEBEC-RELIGION-1795727454.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T23:22:23+00:00"
   },
   {
    "id": "3761d303b6db3db1",
@@ -3875,7 +3895,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5910,7 +5930,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8262,25 +8282,6 @@
     "caption": "",
     "credit": "",
     "url": "https://i.cbc.ca/ais/86f8120c-35b9-41ef-b361-96715800c71c,1795518331343/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C131%2C5724%2C3219%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:09:44+00:00"
-  },
-  {
-   "id": "98d06fcf761f31f8",
-   "title": "Why Trump's move to get Jensen Huang reinstated as Nvidia CEO won't end the questions",
-   "summary": "U.S. President Donald Trump's extraordinary intervention to get Jensen Huang reinstated as Nvidia CEO does little to shut down many pressing questions about a scandal that has rocked both Washington and the stock markets.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/trump-jensen-huang-nvidia-china-9.7433543?cmp=rss",
-   "date": "2026-11-24T09:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/f5894fac-5674-4d5a-afd6-3d5475c9ab81,1795487440947/full/max/0/default.jpg?im=Crop%2Crect%3D%281068%2C165%2C2511%2C1412%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:09:44+00:00"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T15:42:29+00:00",
+ "generatedAt": "2026-11-26T15:51:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "c00b18ff3f3b67b6",
+   "title": "Politician hosts 400,000 guests at daughter’s wedding in India’s poorest state",
+   "summary": "Six helipads built and feast prepared by 500 cooks for wedding hosted by Anant Singh, an MP charged with murder It takes a brave soul to try to match the mythic opulence of the wedding arranged by the Indian billionaire Mukesh Ambani for his son Anant in 2024.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter",
+   "date": "2026-11-26T15:41:42+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Navaneeth/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/146f27955d71d926be0d5814ed341c2e68dcde32/596_0_2787_2231/master/2787.jpg?width=700&quality=85&auto=format&fit=max&s=682dbeeb999eb7e10b8eba4af9eb981c",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T12:55:34+00:00"
+  },
+  {
+   "id": "0d7ea6a9be03ffb6",
+   "title": "US judge blocks Trump’s FCC attempt to target Disney’s ABC stations",
+   "summary": "The judge said the FCC chair has taken US President Donald Trump's rhetoric ‌‌as his 'marching orders'.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss",
+   "date": "2026-11-26T15:29:03+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa2d39f-1789055903.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa2d39f-1789055903.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T15:51:46+00:00"
+  },
+  {
    "id": "64ca7df9242cf6d3",
    "title": "New UK-EU treaty has 10-year termination clause",
    "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
@@ -229,7 +269,7 @@
   {
    "id": "ef8c61463466ed5a",
    "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
-   "summary": "Then ambassador to US wanted to discuss alternatives to World Trade Organization in ‘under the radar’ meeting, documents reveal UK politics live – latest updates Peter Mandelson sought to organise an “under the radar” meeting between an economic adviser to…",
+   "summary": "Then ambassador to US wanted to discuss alternatives to World Trade Organization in ‘under the radar’ meeting, documents reveal UK politics live – latest updates Peter Mandelson sought to organise an “under the radar” meeting between a member of his former…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
    "date": "2026-11-26T15:12:36+00:00",
@@ -549,26 +589,6 @@
     "small": "https://globalnews.ca/wp-content/uploads/2026/11/f92e191a8da55219b84e45852f16439a541cd81681fe6bb8d27d2b9495202d12_9b17a4.jpg?w=640&h=427&crop=1&quality=70&strip=all",
     "url": "https://globalnews.ca/wp-content/uploads/2026/11/f92e191a8da55219b84e45852f16439a541cd81681fe6bb8d27d2b9495202d12_9b17a4.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
     "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T12:55:34+00:00"
-  },
-  {
-   "id": "c00b18ff3f3b67b6",
-   "title": "MP hosts 400,000 guests at daughter’s wedding in India’s poorest state",
-   "summary": "Five helipads built and feast prepared by 500 cooks for wedding hosted by Anant Singh, an MP charged with murder About 400,000 guests have attended a wedding hosted by a politician in India’s poorest state, choking roads and sending spectators scrambling up…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/26/india-anant-singh-hosts-400000-guests-wedding-guests-daughter",
-   "date": "2026-11-26T12:43:10+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Navaneeth/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/146f27955d71d926be0d5814ed341c2e68dcde32/596_0_2787_2231/master/2787.jpg?width=700&quality=85&auto=format&fit=max&s=682dbeeb999eb7e10b8eba4af9eb981c",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T12:55:34+00:00"
@@ -2775,7 +2795,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4810,7 +4830,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8262,28 +8282,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T22:32:09+00:00"
-  },
-  {
-   "id": "9af6b35410c63ccb",
-   "title": "Ottawa considering lower contract threshold for defence procurement agency: Fuhr",
-   "summary": "OTTAWA - The federal government is considering broadening the mandate of its new defence procurement agency to allow it to handle more than just big-ticket contracts.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/ottawa-considering-lower-contract-threshold-for-defence-procurement-agency-fuhr/article_4715ab03-79de-59a1-9605-81211bdd2f2c.html",
-   "date": "2026-11-23T22:13:32+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 799,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/3e/c3e17177-7699-5ce9-a26f-b0f0617769b9/6b04bae72b391.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/3e/c3e17177-7699-5ce9-a26f-b0f0617769b9/6b04bae72b391.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T22:22:57+00:00"
   }
  ]
 }

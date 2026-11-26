@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T03:52:02+00:00",
+ "generatedAt": "2026-11-26T04:01:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -184,6 +184,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
+   "id": "9cafaace47309ea4",
+   "title": "Colombian president taunts arrested supermarket hostage-takers",
+   "summary": "Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+   "date": "2026-11-26T03:23:24+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795663381.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795663381.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T04:01:37+00:00"
   },
   {
    "id": "738443e67a1f4864",
@@ -347,9 +367,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/a7abe22c-6237-4cee-b934-7c8281b29e4c,1795656578066/full/max/0/default.jpg?im=Crop%2Crect%3D%28739%2C1505%2C4294%2C2415%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/a7abe22c-6237-4cee-b934-7c8281b29e4c,1795656578066/full/max/0/default.jpg?im=Crop%2Crect%3D%28739%2C1505%2C4294%2C2415%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T02:00:53+00:00"
@@ -511,9 +531,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/7338652c-29d5-413d-9723-fe9a2631ce74,1795650296046/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/7338652c-29d5-413d-9723-fe9a2631ce74,1795650296046/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6144%2C3456%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T23:50:15+00:00"
@@ -8287,26 +8307,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T13:22:00+00:00"
-  },
-  {
-   "id": "f3a1a57bc1b67585",
-   "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
-   "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T13:09:52+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/87ae/live/24717fd0-e73f-11f1-802a-678be58471bb.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/87ae/live/24717fd0-e73f-11f1-802a-678be58471bb.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:01:53+00:00"
   }
  ]
 }

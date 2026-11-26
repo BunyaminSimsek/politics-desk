@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T15:51:46+00:00",
+ "generatedAt": "2026-11-26T16:01:01+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "a8086447a5f8feab",
+   "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
+   "summary": "Sheikh Tamim bin Hamad Al Thani is in Cairo for an official visit aimed at further strengthening bilateral relations.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+   "date": "2026-11-26T15:45:59+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sheikh-Tamim-in-Egypt-1795704122.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sheikh-Tamim-in-Egypt-1795704122.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T16:01:01+00:00"
+  },
+  {
    "id": "c00b18ff3f3b67b6",
    "title": "Politician hosts 400,000 guests at daughter’s wedding in India’s poorest state",
    "summary": "Six helipads built and feast prepared by 500 cooks for wedding hosted by Anant Singh, an MP charged with murder It takes a brave soul to try to match the mythic opulence of the wedding arranged by the Indian billionaire Mukesh Ambani for his son Anant in 2024.",
@@ -197,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa2d39f-1789055903.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa2d39f-1789055903.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa2d39f-1789055903.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa2d39f-1789055903.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T15:51:46+00:00"
@@ -1009,7 +1031,7 @@
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/9d/09d81d4e-4e6e-5d8b-9a1b-b5b5b86cec0c/6b073c25edc69.image.jpg?resize=1200%2C",
     "w": 1200
    },
-   "breaking": true,
+   "breaking": false,
    "addedAt": "2026-11-26T10:09:37+00:00"
   },
   {
@@ -8262,26 +8284,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T22:04:00+00:00"
-  },
-  {
-   "id": "c7a3c2956d2c6414",
-   "title": "Ford government ignoring a 'crisis' in dementia care, critics charge",
-   "summary": "Premier Doug Ford's government is ignoring a fast growing population of older Ontarians by delaying promises to improve dementia care in legislation passed two years ago, opposition MPPs charge.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/ford-government-ignoring-a-crisis-in-dementia-care-critics-charge/article_3de7d722-3bbe-4ef3-ae3b-2c9e7b9cc38c.html",
-   "date": "2026-11-23T22:15:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/06/7064f320-832b-5303-a9b7-e2190e75ac88/6b04bb21d67c4.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/7/06/7064f320-832b-5303-a9b7-e2190e75ac88/6b04bb21d67c4.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T22:32:09+00:00"
   }
  ]
 }

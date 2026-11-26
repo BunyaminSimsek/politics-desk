@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T08:46:25+00:00",
+ "generatedAt": "2026-11-26T08:55:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "73460e6271641673",
+   "title": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
+   "summary": "António Costa says the next long-term budget is ‘the most important’ item on the agenda Sweden’s Ulf Kristersson suggested the talks could even go beyond December and into 2027, as with the budget kicking in only in 2028, “we aren’t in that hurry.”",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+   "date": "2026-11-26T08:39:02+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e4a3c5ba3209c8466a0d4365584dbb1e5a803933/697_0_4946_3959/master/4946.jpg?width=700&quality=85&auto=format&fit=max&s=0a6b6542bcb217bdf348d8347f54248d",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Marius Burgelman/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T08:55:37+00:00"
+  },
+  {
    "id": "a376c61b2c6466b6",
    "title": "Two screenings of Pakistani TV show cancelled in India after backlash",
    "summary": "The show, Dar-e-Nijaat, has become a sensation in India but is now embroiled in a political row.",
@@ -177,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f5ab/live/48278a90-e95c-11f1-b8ee-3d27ee38d605.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f5ab/live/48278a90-e95c-11f1-b8ee-3d27ee38d605.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f5ab/live/48278a90-e95c-11f1-b8ee-3d27ee38d605.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f5ab/live/48278a90-e95c-11f1-b8ee-3d27ee38d605.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T08:46:25+00:00"
@@ -8296,28 +8318,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:46:25+00:00"
-  },
-  {
-   "id": "6a16b32fcddcb446",
-   "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
-   "summary": "Exclusive: Figures from cache of 11m death certificates reveal suicides account for about a regiment of Russia’s war dead Russia’s war dead: the hidden toll of the Ukraine conflict In late October 2024, Alexei Bolgov, a sergeant guarding a military…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war",
-   "date": "2026-11-23T16:00:51+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Composite: Reuters / Guardian design / Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3034b87937184d9bc9b3561e8cd4a6ff98b6556a/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2d6ce7bc4c1416d77015777d66a5711c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:18:08+00:00"
   }
  ]
 }

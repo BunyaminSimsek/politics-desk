@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T21:01:12+00:00",
+ "generatedAt": "2026-11-26T21:10:35+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "9e6c4c989ed54b01",
+   "title": "Coalition team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
+   "summary": "Coalition voted in Senate to pass government’s final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports Get our daily political email , free app or daily news podcast A federal gas reservation scheme requiring Australia’s largest…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
+   "date": "2026-11-26T20:58:12+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Manfred Gottschalk/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/5e85107add688802688910ec8b127178d48de914/435_0_4350_3480/master/4350.jpg?width=700&quality=85&auto=format&fit=max&s=737ac9bf6ba88b1d76efb554f19ecb1b",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T20:41:50+00:00"
+  },
+  {
    "id": "b3dc085dafcaa9cf",
    "title": "Ex-Conservative MP sues Liberal volunteer over alleged election campaign interference",
    "summary": "A former Conservative MP is suing a Liberal volunteer, accusing the man of creating fake websites in a \"malicious\" and \"calculated\" plan to interfere with his re-election prospects during the 2025 campaign.",
@@ -179,9 +199,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/8b272f0f-a3e0-4046-9914-611bfe930f3d,1795726108943/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C4264%2C2398%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/8b272f0f-a3e0-4046-9914-611bfe930f3d,1795726108943/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C4264%2C2398%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T21:01:12+00:00"
@@ -779,26 +799,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T18:01:51+00:00"
-  },
-  {
-   "id": "9e6c4c989ed54b01",
-   "title": "Coalition team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
-   "summary": "Coalition voted in Senate to pass government’s final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports Get our daily political email , free app or daily news podcast A federal gas reservation scheme requiring Australia’s largest…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
-   "date": "2026-11-26T17:35:25+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Manfred Gottschalk/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5e85107add688802688910ec8b127178d48de914/435_0_4350_3480/master/4350.jpg?width=700&quality=85&auto=format&fit=max&s=737ac9bf6ba88b1d76efb554f19ecb1b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T20:41:50+00:00"
   },
   {
    "id": "0671070464caec33",
@@ -3635,7 +3635,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5670,7 +5670,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

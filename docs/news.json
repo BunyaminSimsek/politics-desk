@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T10:46:08+00:00",
+ "generatedAt": "2026-11-26T10:55:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 24
+   "kept": 25
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,35 @@
  ],
  "items": [
   {
+   "id": "334f569ddc8a9641",
+   "title": "UK net migration falls to 77,000, lowest since 1997 excluding Covid pandemic – UK politics live",
+   "summary": "Net migration fell in the year ending June 2026, according to the Office for National Statistics The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+   "date": "2026-11-26T10:49:56+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration",
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Andy Rain/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f9438b12e25d0510100c2baa53822bd454f6de67/41_0_2972_2377/master/2972.jpg?width=700&quality=85&auto=format&fit=max&s=80ab4f8d554cdb604f551a0d4f803b0c",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:23:26+00:00"
+  },
+  {
    "id": "73460e6271641673",
-   "title": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
-   "summary": "António Costa says the next long-term budget is ‘the most important’ item on the agenda The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to…",
+   "title": "EU leaders ‘very far apart’ on agreeing budget at summit, reveals Danish prime minister – Europe live",
+   "summary": "A number of leaders hope to agree to a budget before consequential elections around the continent The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-   "date": "2026-11-26T10:30:51+00:00",
+   "date": "2026-11-26T10:46:00+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -179,13 +202,33 @@
    ],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Marius Burgelman/AP",
+    "url": "https://i.guim.co.uk/img/media/49d1786e5d01aa5c43f3cf6db1c21cfefbe2eaae/853_0_4461_3569/master/4461.jpg?width=700&quality=85&auto=format&fit=max&s=dcee4ab7c06713a2a6ce5720201251ee",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e4a3c5ba3209c8466a0d4365584dbb1e5a803933/697_0_4946_3959/master/4946.jpg?width=700&quality=85&auto=format&fit=max&s=0a6b6542bcb217bdf348d8347f54248d",
-    "w": 700
+    "credit": "Photograph: Marius Burgelman/AP"
    },
    "breaking": false,
    "addedAt": "2026-11-26T08:55:37+00:00"
+  },
+  {
+   "id": "7435a17464db2156",
+   "title": "Paul Whitehouse urges PM to act over ‘imminent extinction’ of Windermere’s ice-age fish",
+   "summary": "Experts say arctic char threatened by pollution in England’s biggest lake as comedian unveils sculpture UK politics live – latest updates An ancient fish species that has survived in Windermere for more than 11,000 years is at risk of “imminent” extinction…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/26/burnham-urged-to-act-extinction-windemere-arctic-char-paul-whitehouse",
+   "date": "2026-11-26T10:25:12+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/7f16531d849ce5cff3cd318dd53a8bb3570e2944/950_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=67c156f9716e8f887fbded7d6fe0e865",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Christopher Thomond/The Guardian"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T10:55:14+00:00"
   },
   {
    "id": "f1f8353ec43aec9a",
@@ -206,29 +249,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T10:27:45+00:00"
-  },
-  {
-   "id": "334f569ddc8a9641",
-   "title": "UK net migration falls to 77,000, lowest since 1997 excluding Covid pandemic – UK politics live",
-   "summary": "Net migration fell in the year ending June 2026, according to the Office for National Statistics The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "date": "2026-11-26T10:19:03+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration",
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f9438b12e25d0510100c2baa53822bd454f6de67/41_0_2972_2377/master/2972.jpg?width=700&quality=85&auto=format&fit=max&s=80ab4f8d554cdb604f551a0d4f803b0c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T09:23:26+00:00"
   },
   {
    "id": "582991476abc9748",
@@ -2135,7 +2155,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4170,7 +4190,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8277,26 +8297,6 @@
     "h": 800,
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T092817Z_1123569228_RC2KTOAJTMT8_RTRMADP_3_INDIA-NEPAL-1795445216.jpg?resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T092817Z_1123569228_RC2KTOAJTMT8_RTRMADP_3_INDIA-NEPAL-1795445216.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T18:19:53+00:00"
-  },
-  {
-   "id": "351f1717fcb17030",
-   "title": "Olivia Chow uses strong mayor powers to replace Toronto's city manager",
-   "summary": "TORONTO - Toronto Mayor Olivia Chow is using her strong mayor powers to replace the city's top bureaucrat with an interim hire and shake up the city's organizational structure.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/ontario/olivia-chow-uses-strong-mayor-powers-to-replace-toronto-s-city-manager/article_81cdd6a7-61a0-5074-8385-57b15143ba4d.html",
-   "date": "2026-11-23T18:08:00+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/70/a70487d1-28ce-5d80-aa89-61f2386c4a66/6b04818bbda00.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/70/a70487d1-28ce-5d80-aa89-61f2386c4a66/6b04818bbda00.image.jpg?resize=1200%2C",
     "w": 1200
    },
    "breaking": false,

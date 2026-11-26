@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T19:35:52+00:00",
+ "generatedAt": "2026-11-26T19:45:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 3
+   "kept": 2
   },
   {
    "source": "CTV News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 14
+   "kept": 15
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "21ffb6ef9a57b1e7",
+   "title": "Carney in Saskatchewan to campaign for long-shot byelection win",
+   "summary": "Prime Minister Mark Carney is in Yorkton to campaign for the upcoming federal byelection in Yorkton—Melville.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12167689/carney-saskatchewan-byelection-campaign/",
+   "date": "2026-11-26T19:41:44+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/0bae7cda17db9e60e0875b68ee83383307d2d58726804c6078039b29c3e8b653.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 682,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/0bae7cda17db9e60e0875b68ee83383307d2d58726804c6078039b29c3e8b653.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T19:45:37+00:00"
+  },
   {
    "id": "ca0624af1de7f435",
    "title": "US Senate ‘permitting bill’ threatens clean water protections to speed up energy projects",
@@ -506,9 +528,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/da9f3897-707e-407e-ac00-f08ba2153577,1795714730840/full/max/0/default.jpg?im=Crop%2Crect%3D%284%2C0%2C4920%2C2767%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/da9f3897-707e-407e-ac00-f08ba2153577,1795714730840/full/max/0/default.jpg?im=Crop%2Crect%3D%284%2C0%2C4920%2C2767%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T17:42:51+00:00"
@@ -671,9 +693,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/fa005dcd-a5ed-4f0e-b8cf-dcdbee1a64b7,1795721539594/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C405%2C4032%2C2268%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/fa005dcd-a5ed-4f0e-b8cf-dcdbee1a64b7,1795721539594/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C405%2C4032%2C2268%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T18:11:03+00:00"
@@ -917,9 +939,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d283e576-9690-45aa-aca1-c086a7d833a2,1795704755405/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C153%2C5307%2C2985%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d283e576-9690-45aa-aca1-c086a7d833a2,1795704755405/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C153%2C5307%2C2985%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T15:32:58+00:00"
@@ -1626,6 +1648,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T10:09:37+00:00"
+  },
+  {
+   "id": "0e25a40f805b8d11",
+   "title": "Mark Carney’s Bill C-39 has more in common with Trump’s agenda than you might think",
+   "summary": "Prime Minister Mark Carney rode to power on a nationwide rejection of U.S. President Donald Trump — his threats and his values.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/opinion/star-columnists/mark-carney-s-bill-c-39-has-more-in-common-with-trump-s-agenda-than-you-might-think/article_83708131-ffc0-4853-ba3f-b25b7d08b65b.html",
+   "date": "2026-11-26T10:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/79/579ced78-e587-52ac-9bfe-f479b1068b7f/6b0761e46c3c7.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 960,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/79/579ced78-e587-52ac-9bfe-f479b1068b7f/6b0761e46c3c7.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T19:45:37+00:00"
   },
   {
    "id": "eefc3e346b904f22",
@@ -3135,7 +3177,7 @@
    "id": "2e0a167eca262bad",
    "title": "Margaret Atwood urging Ottawa to block bird-threatening telecom tower on Pelee Island",
    "summary": "A coalition backed by Margaret Atwood is urging Ottawa to block construction of a tower on Ontario's Pelee Island that they say threatens bird safety along a major migratory route.",
-   "source": "Global News Toronto",
+   "source": "Global News",
    "url": "https://globalnews.ca/news/12165939/margaret-atwood-urging-ottawa-to-block-bird-threatening-telecom-tower-on-pelee-island/",
    "date": "2026-11-25T18:16:42+00:00",
    "topic": "federal",
@@ -8246,46 +8288,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T11:11:58+00:00"
-  },
-  {
-   "id": "674bebb3af6338ec",
-   "title": "Myanmar has been found guilty of genocide. Should Israel be worried? – podcast",
-   "summary": "The international court of justice has for the first time ruled that a state has committed genocide.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
-   "date": "2026-11-24T03:00:04+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mohammad Ponir Hossain/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a82d0ec0cbb51aadb63a0edd4721abfa0ba5d96b/606_0_6493_5195/master/6493.jpg?width=700&quality=85&auto=format&fit=max&s=7accb568d4a3e27e1dfb7d02ed284939",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T03:21:21+00:00"
-  },
-  {
-   "id": "7aebfbd15f7539fa",
-   "title": "China sentences official to death for spying for foreign country",
-   "summary": "Accused official leaked national secrets to unnamed country and received payments worth over $150,000, state-linked publisher says A Chinese official has been sentenced to death for spying for a foreign country, a government-linked publisher has said.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
-   "date": "2026-11-24T02:37:36+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Guang Niu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5d7028c1f7418b6df67a8b82c97cfc5563385eba/154_0_2536_2029/master/2536.jpg?width=700&quality=85&auto=format&fit=max&s=a8334ba7ee5504ed586b8b567e4ab1e0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T02:54:05+00:00"
   }
  ]
 }

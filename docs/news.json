@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T10:27:45+00:00",
+ "generatedAt": "2026-11-26T10:36:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -59,7 +59,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
    "ok": true,
-   "kept": 13
+   "kept": 14
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "73460e6271641673",
+   "title": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
+   "summary": "António Costa says the next long-term budget is ‘the most important’ item on the agenda The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+   "date": "2026-11-26T10:30:51+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Marius Burgelman/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e4a3c5ba3209c8466a0d4365584dbb1e5a803933/697_0_4946_3959/master/4946.jpg?width=700&quality=85&auto=format&fit=max&s=0a6b6542bcb217bdf348d8347f54248d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T08:55:37+00:00"
+  },
+  {
    "id": "f1f8353ec43aec9a",
    "title": "Kenya gov’t violated constitution with Ebola quarantine site, court says",
    "summary": "Kenya's High Court orders halt to ⁠further works at quarantine facility until details of deal with US are disclosed.",
@@ -177,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-EBOLA-COFFIN-1780441922.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-EBOLA-COFFIN-1780441922.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-EBOLA-COFFIN-1780441922.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-EBOLA-COFFIN-1780441922.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T10:27:45+00:00"
@@ -209,26 +231,24 @@
    "addedAt": "2026-11-26T09:23:26+00:00"
   },
   {
-   "id": "73460e6271641673",
-   "title": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
-   "summary": "António Costa says the next long-term budget is ‘the most important’ item on the agenda The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-   "date": "2026-11-26T10:15:32+00:00",
-   "topic": "europe",
+   "id": "582991476abc9748",
+   "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+   "summary": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T10:14:08+00:00",
+   "topic": "mideast",
    "region": "world",
-   "tags": [
-    "economy"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Marius Burgelman/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e4a3c5ba3209c8466a0d4365584dbb1e5a803933/697_0_4946_3959/master/4946.jpg?width=700&quality=85&auto=format&fit=max&s=0a6b6542bcb217bdf348d8347f54248d",
-    "w": 700
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b703/live/54fa7870-e981-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b703/live/54fa7870-e981-11f1-99a1-253766e7ad8b.jpg"
    },
    "breaking": false,
-   "addedAt": "2026-11-26T08:55:37+00:00"
+   "addedAt": "2026-11-26T10:36:55+00:00"
   },
   {
    "id": "aeadbb081ac99591",
@@ -242,10 +262,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/5c23523ac46bb71db2d8067325e32d1261591fb5/661_0_6630_5304/master/6630.jpg?width=700&quality=85&auto=format&fit=max&s=8e5b24426a0000f1aeb9b012e60fa7ec",
-    "w": 700,
+    "credit": "Photograph: Amer Ghazzal/Shutterstock",
     "h": 560,
-    "credit": "Photograph: Amer Ghazzal/Shutterstock"
+    "url": "https://i.guim.co.uk/img/media/5c23523ac46bb71db2d8067325e32d1261591fb5/661_0_6630_5304/master/6630.jpg?width=700&quality=85&auto=format&fit=max&s=8e5b24426a0000f1aeb9b012e60fa7ec",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T10:27:45+00:00"
@@ -405,7 +425,7 @@
   {
    "id": "f8da256a6bc9f5d4",
    "title": "Details of two treaties at heart of Andy Burnham’s EU reset to be published",
-   "summary": "Government also to publish bill that will enact EU deals, as Tories and Reform hit out over 10-year termination clause Europe live – latest updates Business live – latest updates Details of two treaties at the heart of Andy Burnham’s post- Brexit reset plans…",
+   "summary": "Government also to publish bill that will enact EU deals as Tories and Reform hit out over 10-year termination clause Europe live – latest updates Business live – latest updates Details of two treaties at the heart of Andy Burnham’s post- Brexit reset plans…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/2026/nov/26/treaties-andy-burnham-eu-reset-published",
    "date": "2026-11-26T09:16:19+00:00",
@@ -8278,26 +8298,6 @@
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/70/a70487d1-28ce-5d80-aa89-61f2386c4a66/6b04818bbda00.image.jpg?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/70/a70487d1-28ce-5d80-aa89-61f2386c4a66/6b04818bbda00.image.jpg?resize=1200%2C",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T18:19:53+00:00"
-  },
-  {
-   "id": "9b7b304f4756020a",
-   "title": "Only six beds for trans victims of domestic abuse in UK, report finds",
-   "summary": "Exclusive: Services say supreme court ruling on single-sex spaces has made it ‘almost impossible’ to find refuges for trans people There are only six beds specifically for trans victims of domestic abuse in the UK, a report has found, with services saying it…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/23/only-six-beds-for-trans-victims-of-domestic-abuse-in-uk-report-finds",
-   "date": "2026-11-23T18:07:04+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lindsey Wasson/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/69af2b48ea96a862944eafa5ea96ece5ec5a7b75/814_0_4067_3254/master/4067.jpg?width=700&quality=85&auto=format&fit=max&s=e0f166ec12844b54c530407488e1e49b",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T18:19:53+00:00"

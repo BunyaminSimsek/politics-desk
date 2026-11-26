@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T19:45:37+00:00",
+ "generatedAt": "2026-11-26T19:55:15+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "Global News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 15
+   "kept": 13
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,45 @@
  ],
  "items": [
   {
+   "id": "f6708294864bbe94",
+   "title": "Doug Ford advises Ontarians to protect against home invasions by any means",
+   "summary": "Doug Ford said Thursday he wants to see legal changes to address a spate of home invasions, and in the meantime he advised people to protect their families by any means necessary.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12167716/doug-ford-home-invasion-comments/",
+   "date": "2026-11-26T19:54:54+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Doug-Ford-e1795216421626.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T19:55:15+00:00"
+  },
+  {
+   "id": "aaa3916fa9fa952d",
+   "title": "Conservatives want PM's wife Diana Fox Carney to testify to Parliament on oceans role",
+   "summary": "The Conservatives are calling on Prime Minister Mark Carney's wife to testify to Parliament about her role as oceans envoy.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/diana-fox-carney-oceans-9.7437560?cmp=rss",
+   "date": "2026-11-26T19:46:55+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/e0aa3484-822a-4338-b514-1318c3ba5221,1795722306530/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C229%2C4401%2C2475%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T19:55:15+00:00"
+  },
+  {
    "id": "21ffb6ef9a57b1e7",
    "title": "Carney in Saskatchewan to campaign for long-shot byelection win",
    "summary": "Prime Minister Mark Carney is in Yorkton to campaign for the upcoming federal byelection in Yorkton—Melville.",
@@ -179,13 +218,58 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/0bae7cda17db9e60e0875b68ee83383307d2d58726804c6078039b29c3e8b653.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/0bae7cda17db9e60e0875b68ee83383307d2d58726804c6078039b29c3e8b653.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/0bae7cda17db9e60e0875b68ee83383307d2d58726804c6078039b29c3e8b653.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/0bae7cda17db9e60e0875b68ee83383307d2d58726804c6078039b29c3e8b653.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-26T19:45:37+00:00"
+  },
+  {
+   "id": "ff7155d1aaa93df3",
+   "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+   "summary": "In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat Republicans Donald Trump has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
+   "date": "2026-11-26T19:41:37+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "elections",
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/986e893adee7d4a82d2b268d1a05cd0fa6d2fe28/87_218_2920_2337/master/2920.jpg?width=700&quality=85&auto=format&fit=max&s=ea3ef820c9478439afbcf9448c80c89b",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Kylie Cooper/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T19:55:15+00:00"
+  },
+  {
+   "id": "e89a795d7f48af73",
+   "title": "How much of the sharp fall in UK immigration is due to Labour’s policies?",
+   "summary": "Labour is jubilant it has got numbers down to levels the Tories could not but it was helped by factors beyond its control Net migration to UK falls to lowest level since 1997 excluding pandemic David Cameron was the leader of the opposition when he made a…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
+   "date": "2026-11-26T19:38:26+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ea5e95ac0fd2b916b7acdbd7a3c2351e5463c97a/243_0_1994_1596/master/1994.jpg?width=700&quality=85&auto=format&fit=max&s=bb87ea59747cb54834baf8380aece9d5",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Nathan King/Alamy"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T19:55:15+00:00"
   },
   {
    "id": "ca0624af1de7f435",
@@ -433,7 +517,7 @@
   },
   {
    "id": "569073855f687cfd",
-   "title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
+   "title": "EU leaders struggle to agree on long-term budget, $49bn Ukraine loan",
    "summary": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss",
@@ -528,9 +612,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/da9f3897-707e-407e-ac00-f08ba2153577,1795714730840/full/max/0/default.jpg?im=Crop%2Crect%3D%284%2C0%2C4920%2C2767%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/da9f3897-707e-407e-ac00-f08ba2153577,1795714730840/full/max/0/default.jpg?im=Crop%2Crect%3D%284%2C0%2C4920%2C2767%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T17:42:51+00:00"
@@ -1661,10 +1745,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/79/579ced78-e587-52ac-9bfe-f479b1068b7f/6b0761e46c3c7.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 960,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/79/579ced78-e587-52ac-9bfe-f479b1068b7f/6b0761e46c3c7.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/79/579ced78-e587-52ac-9bfe-f479b1068b7f/6b0761e46c3c7.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/5/79/579ced78-e587-52ac-9bfe-f479b1068b7f/6b0761e46c3c7.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T19:45:37+00:00"
@@ -3410,7 +3494,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5445,7 +5529,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8204,90 +8288,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T05:12:15+00:00"
-  },
-  {
-   "id": "b9d1aefd5c5577c1",
-   "title": "US Army to detonate toxic explosives in Iowa after Trump paused plan",
-   "summary": "The US military plans to detonate five tonnes of expired explosives on Wednesday, after appeals court decision.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr2klqzqx1qvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T04:42:06+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T19:53:20+00:00"
-  },
-  {
-   "id": "16504f2d37602a20",
-   "title": "WHO chief visits Cuba as healthcare system deteriorates",
-   "summary": "Analysts say fuel shortages blamed on US sanctions are worsening the crisis.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss",
-   "date": "2026-11-24T04:35:37+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b04facc29cb3-1795488460.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b04facc29cb3-1795488460.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T04:54:04+00:00"
-  },
-  {
-   "id": "d03c9347c8a2e9ed",
-   "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
-   "summary": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
-   "date": "2026-11-24T04:14:43+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jung Yeon-Je/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a64555d05e60fde8290f1489232b209ec8ba900c/996_199_4012_3210/master/4012.jpg?width=700&quality=85&auto=format&fit=max&s=23a7eae1a3bf8d94cf42b20238ffa2aa",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T04:16:58+00:00"
-  },
-  {
-   "id": "dfa4db2f66ca0142",
-   "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
-   "summary": "This live blog is now closed. Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-   "date": "2026-11-24T03:04:41+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kim Kyung-Hoon/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=700&quality=85&auto=format&fit=max&s=a41019b52dea79754da2cfe65467b208",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:11:58+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T15:23:46+00:00",
+ "generatedAt": "2026-11-26T15:32:58+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "Global News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -168,7 +168,7 @@
   {
    "id": "64ca7df9242cf6d3",
    "title": "New UK-EU treaty has 10-year termination clause",
-   "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+   "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-26T15:23:17+00:00",
@@ -184,6 +184,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T07:42:09+00:00"
+  },
+  {
+   "id": "a676b908cb7b659b",
+   "title": "Ebola cases reach 12,000 in Congo as second-largest outbreak on record grows",
+   "summary": "The number of confirmed Ebola cases in Democratic Republic of Congo now exceeds 12,000, government data showed on Thursday, as responders continue to struggle to bring the second-largest outbreak on record under control.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/health/ebola-tops-12000-cases-outbreak-9.7436970?cmp=rss",
+   "date": "2026-11-26T15:22:26+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/d283e576-9690-45aa-aca1-c086a7d833a2,1795704755405/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C153%2C5307%2C2985%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T15:32:58+00:00"
   },
   {
    "id": "ef8c61463466ed5a",
@@ -229,6 +248,26 @@
    "addedAt": "2026-11-26T09:23:26+00:00"
   },
   {
+   "id": "6fe8b320fa72a149",
+   "title": "Andalusia offers a glimpse of Spain’s future as the far right gains ground",
+   "summary": "Ahead of Sunday's election, Andalusia signals Vox’s rise as immigration and right-wing alliances reshape politics.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/andalusia-offers-a-glimpse-of-spains-future-as-the-far-right-gains-ground?traffic_source=rss",
+   "date": "2026-11-26T15:11:30+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-21T181649Z_1730866814_RC2ISOA1DC35_RTRMADP_3_SPAIN-ELECTION-VOX-1795696932.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-21T181649Z_1730866814_RC2ISOA1DC35_RTRMADP_3_SPAIN-ELECTION-VOX-1795696932.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T15:32:58+00:00"
+  },
+  {
    "id": "73460e6271641673",
    "title": "Trump says he wants Putin to ‘pull back all military aggression’ in Europe – Europe live",
    "summary": "The US president said he ‘hopes that a deal can be made between Russia and Ukraine’ swiftly The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not…",
@@ -249,6 +288,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T08:55:37+00:00"
+  },
+  {
+   "id": "10244e6c7411c737",
+   "title": "UN ruling disputes Israeli allegations used to dismiss UNRWA Gaza staff",
+   "summary": "Tribunal raises questions about the credibility of UNRWA's decision to dismiss its staff without substantiated evidence.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/un-ruling-disputes-israeli-allegations-used-to-dismiss-unrwa-gaza-staff?traffic_source=rss",
+   "date": "2026-11-26T15:00:47+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2023/11/346836E-highres-1701333865.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2023/11/346836E-highres-1701333865.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T15:32:58+00:00"
   },
   {
    "id": "5cfd9d09f87a1b32",
@@ -304,10 +363,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200,
     "h": 802,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T15:23:46+00:00"
@@ -2006,26 +2065,6 @@
    "addedAt": "2026-11-25T21:20:38+00:00"
   },
   {
-   "id": "1430df98081bb425",
-   "title": "Quebec premier asks opposition to sign letter in fight over oath to King",
-   "summary": "MONTREAL - Quebec Premier Paul St-Pierre Plamondon is reaching out to opposition leaders in the province's legislature about pursuing a battle over the oath to the King.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/quebec-premier-asks-opposition-to-sign-letter-in-fight-over-oath-to-king/article_d3dd27c9-99f0-5475-8cb7-0d37c359ef0d.html",
-   "date": "2026-11-25T20:46:46+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 906,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a6/ba6b2003-cba4-5847-ac42-71669765e6f0/6b05d7bbafd75.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a6/ba6b2003-cba4-5847-ac42-71669765e6f0/6b05d7bbafd75.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T21:02:17+00:00"
-  },
-  {
    "id": "1bd5f9e7755ab907",
    "title": "Conservative motion to block Ottawa's plan to add more permanent residents defeated",
    "summary": "OTTAWA - A Conservative motion to block the government's plan to add upwards of 662,000 permanent residents next year was defeated today in a vote that fell along party lines.",
@@ -2040,6 +2079,26 @@
     "h": 870,
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/ec/4ec0fe4c-7cf6-5dc4-8975-d1d5b7098070/6b0749fd76a2c.image.jpg?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/ec/4ec0fe4c-7cf6-5dc4-8975-d1d5b7098070/6b0749fd76a2c.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T21:02:17+00:00"
+  },
+  {
+   "id": "1430df98081bb425",
+   "title": "Quebec premier asks opposition to sign letter in fight over oath to King",
+   "summary": "MONTREAL - Quebec Premier Paul St-Pierre Plamondon is reaching out to opposition leaders in the province's legislature about pursuing a battle over the oath to the King.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/quebec/quebec-premier-asks-opposition-to-sign-letter-in-fight-over-oath-to-king/article_d3dd27c9-99f0-5475-8cb7-0d37c359ef0d.html",
+   "date": "2026-11-25T20:46:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 906,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a6/ba6b2003-cba4-5847-ac42-71669765e6f0/6b05d7bbafd75.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a6/ba6b2003-cba4-5847-ac42-71669765e6f0/6b05d7bbafd75.image.jpg?resize=1200%2C",
     "w": 1200
    },
    "breaking": false,
@@ -2716,7 +2775,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4751,7 +4810,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8222,66 +8281,6 @@
     "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/3e/c3e17177-7699-5ce9-a26f-b0f0617769b9/6b04bae72b391.image.jpg?resize=640%2C",
     "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/3e/c3e17177-7699-5ce9-a26f-b0f0617769b9/6b04bae72b391.image.jpg?resize=1200%2C",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T22:22:57+00:00"
-  },
-  {
-   "id": "2d95003e4901bee7",
-   "title": "Minister defends not initially banning college with surging OSAP usage",
-   "summary": "Universities Minister Nolan Quinn this spring made six career colleges ineligible for OSAP due to what the ministry called concerns with \"high-risk\" admissions practices.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12163103/minister-defends-not-initially-banning-college-with-surging-osap-usage/",
-   "date": "2026-11-23T22:10:12+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP177298320.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP177298320.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T22:13:19+00:00"
-  },
-  {
-   "id": "651d84c7e039faed",
-   "title": "Canadians should be warned when targeted by surveillance pricing: commissioner",
-   "summary": "Philippe Dufresne told a parliamentary committee Monday he will be developing formal guidance about how Canada's current privacy law applies to surveillance pricing.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12163118/surveillance-pricing-awareness-privacy-commissioner/",
-   "date": "2026-11-23T22:05:55+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/bfd3cb369f6ef6f505bb0d39d138b869e9bd500eb36b50148a44c4010169a30b_06c0e3.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/bfd3cb369f6ef6f505bb0d39d138b869e9bd500eb36b50148a44c4010169a30b_06c0e3.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T22:13:19+00:00"
-  },
-  {
-   "id": "b4c4031e82869d5d",
-   "title": "Trump impersonator roasts the president alongside Mark Carney – video",
-   "summary": "A Donald Trump impersonator joined Canada's annual press gallery dinner on 21 November, poking fun at the US President Continue reading...",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/video/2026/nov/23/trump-impersonator-roasts-mark-carney-at-canadian-press-dinner-video",
-   "date": "2026-11-23T22:01:51+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: The Canadian Press/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fd2a6955fac805e0a3ba873c88fcd4cd86fea573/448_0_3149_2519/master/3149.jpg?width=700&quality=85&auto=format&fit=max&s=84e3557f701805f8b6068263c16d7a5d",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-23T22:22:57+00:00"

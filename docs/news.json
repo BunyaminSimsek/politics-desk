@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T13:51:15+00:00",
+ "generatedAt": "2026-11-26T14:00:35+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/5ed2a70981b6249eff2491c184d3503f49eccad9/107_195_3507_2806/master/3507.jpg?width=700&quality=85&auto=format&fit=max&s=b2174f5f51e8cadfbd5b243327a81d2e",
-    "w": 700,
+    "credit": "Photograph: Temilade Adelaja/PA",
     "h": 560,
-    "credit": "Photograph: Temilade Adelaja/PA"
+    "url": "https://i.guim.co.uk/img/media/5ed2a70981b6249eff2491c184d3503f49eccad9/107_195_3507_2806/master/3507.jpg?width=700&quality=85&auto=format&fit=max&s=b2174f5f51e8cadfbd5b243327a81d2e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T13:51:15+00:00"
@@ -643,10 +643,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/96/e96bce70-a866-5c27-8a1c-03d124fc4d76/6a3b012dae602.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 786,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/96/e96bce70-a866-5c27-8a1c-03d124fc4d76/6a3b012dae602.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/96/e96bce70-a866-5c27-8a1c-03d124fc4d76/6a3b012dae602.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/96/e96bce70-a866-5c27-8a1c-03d124fc4d76/6a3b012dae602.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T11:04:20+00:00"
@@ -905,7 +905,7 @@
   },
   {
    "id": "78c1d0e74b263fd3",
-   "title": "Israeli attacks on Gaza kill senior education official, eight other people",
+   "title": "Israeli attacks on Gaza kill senior education official, seven other people",
    "summary": "Israeli Prime Minister Benjamin Netanyahu confirms killing of Khaled Abu Nada, undersecretary of Education Ministry.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
@@ -2574,7 +2574,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4609,7 +4609,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

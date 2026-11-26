@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T06:47:13+00:00",
+ "generatedAt": "2026-11-26T06:56:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,35 @@
  ],
  "items": [
   {
+   "id": "457e7f40942d6875",
+   "title": "Thursday briefing: Why young people are having less sex than ever",
+   "summary": "In today’s newsletter: A new study of sexual trends in Britain has found that one in three under-25s have never had sex, a flashy headline that obscures the real reasons behind a ‘sex recession’ among young people Good morning. Let’s talk about sex!",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/26/thursday-briefing-why-young-people-are-having-less-sex-than-ever",
+   "date": "2026-11-26T06:45:01+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "trade",
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0c37d86c1baf354aaee09a87bb42e7e0bb379e3d/476_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=54649554e947c44e066783130302c70f",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: SeventyFour/Getty Images/iStockphoto"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T06:56:26+00:00"
+  },
+  {
    "id": "c5c4622c9bda83e3",
    "title": "Australian politics live: Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’",
    "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-26T06:28:33+00:00",
+   "date": "2026-11-26T06:36:53+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -197,10 +220,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-10-15T021535Z_123914133_RC2IKAA62WWQ_RTRMADP_3_USA-DEFENSE-ARMY-1784890221.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-10-15T021535Z_123914133_RC2IKAA62WWQ_RTRMADP_3_USA-DEFENSE-ARMY-1784890221.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-10-15T021535Z_123914133_RC2IKAA62WWQ_RTRMADP_3_USA-DEFENSE-ARMY-1784890221.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-10-15T021535Z_123914133_RC2IKAA62WWQ_RTRMADP_3_USA-DEFENSE-ARMY-1784890221.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T06:47:13+00:00"
@@ -8290,26 +8313,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T15:03:18+00:00"
-  },
-  {
-   "id": "8ebea01cfacb2ac8",
-   "title": "Feds’ wrongful-conviction review body begins commissioner recruitment",
-   "summary": "The Liberal government passed a bill to allow for the creation of the commission in December 2024, but the organization is still not set up.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12162224/wrongful-conviction-review-body-commissioner-recruitment/",
-   "date": "2026-11-23T14:39:29+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 705,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/6cd8540b66a37c1344e6bc170e9d76fecda158d097770bb4c11b445ac114ed52.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/6cd8540b66a37c1344e6bc170e9d76fecda158d097770bb4c11b445ac114ed52.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T14:44:32+00:00"
   }
  ]
 }

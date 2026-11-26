@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T23:22:23+00:00",
+ "generatedAt": "2026-11-26T23:31:31+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "dec9084abf8da539",
+   "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+   "summary": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+   "date": "2026-11-26T23:07:36+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08ac77-1795730551.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08ac77-1795730551.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T23:31:31+00:00"
+  },
+  {
    "id": "35cbdb99ddaa346f",
    "title": "Defence minister 'very concerned' after Poilievre claims constituent's job was threatened",
    "summary": "Defence Minister David McGuinty says he's asked his deputy to raise concerns about a Wainwright, Alta., nurse's job being threatened after she was photographed with Conservative Leader Pierre Poilievre.",
@@ -213,10 +233,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2021-04-20T214248Z_831728707_RC2XZM9OZX5I_RTRMADP_3_CANADA-QUEBEC-RELIGION-1795727454.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2021-04-20T214248Z_831728707_RC2XZM9OZX5I_RTRMADP_3_CANADA-QUEBEC-RELIGION-1795727454.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2021-04-20T214248Z_831728707_RC2XZM9OZX5I_RTRMADP_3_CANADA-QUEBEC-RELIGION-1795727454.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2021-04-20T214248Z_831728707_RC2XZM9OZX5I_RTRMADP_3_CANADA-QUEBEC-RELIGION-1795727454.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T23:22:23+00:00"
@@ -3895,7 +3915,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5930,7 +5950,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8263,25 +8283,6 @@
     "caption": "",
     "credit": "",
     "url": "https://i.cbc.ca/ais/17dddc4e-e851-4d9b-8708-cd893371ac7f,1795560077763/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:09:44+00:00"
-  },
-  {
-   "id": "ac0671e6897bfb9c",
-   "title": "Canada's air force charts a potential future without the Gripen in 'Project Arrow'",
-   "summary": "Canada's air force has sketched out a future fighter fleet built around American F-35s, homegrown combat drones and next-generation aircraft, with no mention of Sweden's Gripen.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/canada-air-force-f35-fighters-defence-9.7433001?cmp=rss",
-   "date": "2026-11-24T09:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/86f8120c-35b9-41ef-b361-96715800c71c,1795518331343/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C131%2C5724%2C3219%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:09:44+00:00"

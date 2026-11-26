@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T18:40:03+00:00",
+ "generatedAt": "2026-11-26T18:49:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 14
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,67 @@
   }
  ],
  "items": [
+  {
+   "id": "a7d17868ca6c0d9e",
+   "title": "Canada puts more money down on F-35s as fighter review drags on",
+   "summary": "Canada has made another payment for F-35 components, securing a potential fleet of 48 stealth fighters despite an ongoing review of the original 88-aircraft purchase.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/f35-canada-us-trade-war-fighters-9.7437398?cmp=rss",
+   "date": "2026-11-26T18:44:04+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/9eff2ccc-157b-448e-b34c-4de286c8e906,1795718209323/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C285%2C5472%2C3078%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T18:49:06+00:00"
+  },
+  {
+   "id": "ea7e6108643fe940",
+   "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
+   "summary": "Jared Kushner says the “good thing” about Israel’s genocidal war on Gaza is that it can be built into “something new”.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
+   "date": "2026-11-26T18:30:36+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795717775.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795717775.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T18:49:06+00:00"
+  },
+  {
+   "id": "3fcee175552a9493",
+   "title": "Trump calls GDP data released before midterms ‘fake’, demands investigation",
+   "summary": "President says it was a deliberate decision to release 'fake' growth numbers before US midterm elections.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
+   "date": "2026-11-26T18:27:27+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b04cf1d0634b-1795477277.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b04cf1d0634b-1795477277.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T18:49:06+00:00"
+  },
   {
    "id": "515fd8eb2130338a",
    "title": "Carney in Saskatchewan to campaign for long-shot byelection win",
@@ -3186,7 +3247,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5221,7 +5282,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8229,67 +8290,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T01:39:27+00:00"
-  },
-  {
-   "id": "cf8cf4b9570eeb45",
-   "title": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
-   "summary": "Bukele's military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
-   "date": "2026-11-24T01:06:00+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04e2a1-1795482273.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04e2a1-1795482273.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T01:29:59+00:00"
-  },
-  {
-   "id": "59b64a0c3192d72c",
-   "title": "What could Democrats do with their expanding congressional majority?",
-   "summary": "The Democratic Party is debating how best to use its large margin of victory in the US midterm elections.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
-   "date": "2026-11-24T00:39:22+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04c52a7edb-1795474730.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04c52a7edb-1795474730.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T00:43:58+00:00"
-  },
-  {
-   "id": "c31c7a2af47f1853",
-   "title": "Why Nvidia couldn't afford to lose Jensen Huang | About That",
-   "summary": "Nvidia's board unanimously voted to reinstate Jensen Huang as CEO, stating the decision followed consultation with multiple stakeholders — including the U.S. government.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/player/play/9.7433479?cmp=rss",
-   "date": "2026-11-24T00:32:27+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/3cfa7961-7723-4591-9f87-8faf636c9c24,1795479775163/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T00:43:58+00:00"
   }
  ]
 }

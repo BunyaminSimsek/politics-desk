@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T04:29:10+00:00",
+ "generatedAt": "2026-11-26T04:38:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-26T04:19:20+00:00",
+   "date": "2026-11-26T04:34:13+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [
@@ -179,13 +179,55 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ead3c0a6d92c227ba66bb9b3cf56c9b35db0c0c8/1311_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=7d1291d220472051f71ea5a68a5ed578",
-    "w": 700,
+    "credit": "Photograph: Lukas Coch/AAP",
     "h": 560,
-    "credit": "Photograph: Lukas Coch/AAP"
+    "url": "https://i.guim.co.uk/img/media/ead3c0a6d92c227ba66bb9b3cf56c9b35db0c0c8/1311_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=7d1291d220472051f71ea5a68a5ed578",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
+   "id": "3b9953572b833136",
+   "title": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+   "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+   "date": "2026-11-26T04:34:12+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Jay Kogler/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=04900df8f25856c81c5d269ae57f015f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T03:06:07+00:00"
+  },
+  {
+   "id": "6dded9cc66e38f2a",
+   "title": "Teen’s homicidal thoughts dismissed as ‘crap’ days before she killed 10-year-old, inquest hears",
+   "summary": "Circumstances surrounding Bridgette ‘Biddy’ Porter’s death on rural NSW property being examined by coroner’s court Get our breaking news email , free app or daily news podcast Two days before a teenager killed a young girl while in the grips of psychosis, her…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/26/teens-homicidal-thoughts-dismissed-as-crap-before-killed-10-year-old-inquest-ntwnfb",
+   "date": "2026-11-26T04:11:34+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/a68c6f22f57e742fd3596e5d3ccb0afa57a4262c/91_0_2292_1834/master/2292.jpg?width=700&quality=85&auto=format&fit=max&s=40e16c70b85161b635fd2ef3197432f1",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: PR IMAGE"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T04:38:17+00:00"
   },
   {
    "id": "738443e67a1f4864",
@@ -268,28 +310,6 @@
     "credit": "Photograph: Manu Fernández/AP",
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/a4570fa84a7e3ee4aac3e257799591f91a8b2aba/175_0_6119_4896/master/6119.jpg?width=700&quality=85&auto=format&fit=max&s=e392825321c38f84bd274e1f5821e862",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T03:06:07+00:00"
-  },
-  {
-   "id": "3b9953572b833136",
-   "title": "Coalition would privatise Melbourne’s sewage treatment while selling state-owned land and renewables to fund Victorian election promises",
-   "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
-   "date": "2026-11-26T02:35:09+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jay Kogler/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=04900df8f25856c81c5d269ae57f015f",
     "w": 700
    },
    "breaking": false,
@@ -8291,26 +8311,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T14:17:09+00:00"
-  },
-  {
-   "id": "33fc5939f65f224f",
-   "title": "India pledges $1.6bn to Nepal in reset of ties",
-   "summary": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T13:39:30+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T17:42:38+00:00"
   }
  ]
 }

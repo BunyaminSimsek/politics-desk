@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T05:42:32+00:00",
+ "generatedAt": "2026-11-26T05:51:42+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "c5c4622c9bda83e3",
+   "title": "Australian politics live: Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’",
+   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+   "date": "2026-11-26T05:45:46+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Mick Tsikas/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/c3ec155e9d4a650a27cbceedb519cb4854d5ff62/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=901c4900b662c093dcdb402ca5a8fe7c",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
    "id": "3b9953572b833136",
    "title": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
    "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused…",
@@ -186,26 +206,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T03:06:07+00:00"
-  },
-  {
-   "id": "c5c4622c9bda83e3",
-   "title": "Australian politics live: Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’",
-   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-26T05:28:39+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mick Tsikas/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c3ec155e9d4a650a27cbceedb519cb4854d5ff62/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=901c4900b662c093dcdb402ca5a8fe7c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T19:56:31+00:00"
   },
   {
    "id": "e972052d7bfca986",
@@ -1572,7 +1572,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3587,7 +3587,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

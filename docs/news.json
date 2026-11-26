@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T00:36:43+00:00",
+ "generatedAt": "2026-11-26T00:46:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -184,6 +184,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
+   "id": "39e47ef1c7cda736",
+   "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+   "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T00:23:27+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/8024/live/53498270-e8e4-11f1-a3b9-79c60ec9ab33.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/8024/live/53498270-e8e4-11f1-a3b9-79c60ec9ab33.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T00:46:17+00:00"
   },
   {
    "id": "25e0b737ebd943c1",
@@ -338,9 +360,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/db52ea27-7f21-470c-a64a-a9bd5fbbc5a2,1795645423961/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C307%2C2659%2C1495%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/db52ea27-7f21-470c-a64a-a9bd5fbbc5a2,1795645423961/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C307%2C2659%2C1495%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T22:35:21+00:00"
@@ -357,9 +379,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/b41c9061-1da8-49e3-a5f9-9ace70c719d4,1795641691168/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C6000%2C3375%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/b41c9061-1da8-49e3-a5f9-9ace70c719d4,1795641691168/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C6000%2C3375%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T22:35:21+00:00"
@@ -597,9 +619,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/dcce8b2a-379d-47cc-a56c-f662e606b043,1760119273968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1180%2C663%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/dcce8b2a-379d-47cc-a56c-f662e606b043,1760119273968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C34%2C1180%2C663%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T20:33:56+00:00"
@@ -624,6 +646,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T20:06:16+00:00"
+  },
+  {
+   "id": "f99674367e371b4b",
+   "title": "What we know about Trump's Thanksgiving tariffs",
+   "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T19:38:05+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9742/live/bc650a50-e906-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9742/live/bc650a50-e906-11f1-99a1-253766e7ad8b.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T00:46:17+00:00"
   },
   {
    "id": "fa1d869c0bc8898c",
@@ -1269,6 +1313,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T18:50:53+00:00"
+  },
+  {
+   "id": "7d8111cc5190fc52",
+   "title": "Greatest catch ever? Man on motorbike takes incredible grab",
+   "summary": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T16:23:03+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/69cf/live/cb085bf0-e8ea-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/69cf/live/cb085bf0-e8ea-11f1-99a1-253766e7ad8b.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T00:46:17+00:00"
   },
   {
    "id": "738443e67a1f4864",
@@ -8236,73 +8300,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T12:44:24+00:00"
-  },
-  {
-   "id": "0bf896f1b2209ae1",
-   "title": "Don’t let the race for investment leave communities behind",
-   "summary": "(Version française disponible ici) The Canada-EU summit in Montreal in late October marked an important step for both partners.",
-   "source": "Policy Options",
-   "url": "https://policyoptions.irpp.org/2026/11/industrial-strategy-communities/",
-   "date": "2026-11-23T11:30:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy"
-   ],
-   "kind": "analysis",
-   "image": {
-    "h": 1280,
-    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Un-Canada-fort.jpg?resize=640%2C427",
-    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Un-Canada-fort.jpg?resize=1200%2C800",
-    "w": 1940
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:30:48+00:00"
-  },
-  {
-   "id": "8086b43b969c14a3",
-   "title": "First Thing: Cop31 talks collapse without deal in blow to planet’s future climate",
-   "summary": "More than two weeks of talks in Turkey fail to produce a resolution to tackle climate crisis. Plus, a savage review of Melania’s new documentary Don’t already get First Thing in your inbox? Sign up here Good morning.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/23/first-thing-cop31-talks-collapse-no-deal-future-global-climate",
-   "date": "2026-11-23T11:26:45+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence",
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Anadolu Agency/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f823f29b162d2e0232bbb01345b0add347a6b072/935_0_3702_2962/master/3702.jpg?width=700&quality=85&auto=format&fit=max&s=b9dfc58180b28be9f050a82d5b6ffc61",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:49:18+00:00"
-  },
-  {
-   "id": "f571db581dd57e94",
-   "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
-   "summary": "Drone strikes on two Russian vessels near Libyan coast fuels fears of Ukraine war's spread.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
-   "date": "2026-11-23T11:10:12+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0335854cc50-1795372421.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0335854cc50-1795372421.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:30:48+00:00"
   }
  ]
 }

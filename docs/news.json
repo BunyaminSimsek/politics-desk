@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T07:14:37+00:00",
+ "generatedAt": "2026-11-26T07:23:39+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "2a5908302fac455f",
+   "title": "Ugandan president's son angers DR Congo with social media posts",
+   "summary": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T07:19:26+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1533/live/659d3900-e964-11f1-82b3-2f50a9074536.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1533/live/659d3900-e964-11f1-82b3-2f50a9074536.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T07:23:39+00:00"
+  },
+  {
    "id": "01c94b986d1fbd25",
    "title": "War and drought threaten livelihoods of Sudan’s farmers",
    "summary": "Attacks on electricity infrastructure and drought are threatening Sudan's harvests and leaving millions without water.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A9026-1795643333.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A9026-1795643333.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A9026-1795643333.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/4U0A9026-1795643333.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T07:14:37+00:00"
@@ -1657,7 +1677,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3672,7 +3692,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8295,26 +8315,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T15:30:47+00:00"
-  },
-  {
-   "id": "7911af757ca8d395",
-   "title": "Conservatives want MPs to vote on government's plan for permanent residents",
-   "summary": "OTTAWA - The Conservatives plan to introduce a motion Monday calling on the House of Commons to reject the increase in permanent residents outlined in the government's immigration plan, with a vote expected later this week.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/conservatives-want-mps-to-vote-on-government-s-plan-for-permanent-residents/article_15d897d8-ab01-5b4a-9156-52e26fdb51cb.html",
-   "date": "2026-11-23T14:51:38+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/36/03637b39-0513-5b3a-a788-128c9c44605c/6b0453c92659a.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/0/36/03637b39-0513-5b3a-a788-128c9c44605c/6b0453c92659a.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T15:03:18+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T07:23:39+00:00",
+ "generatedAt": "2026-11-26T07:32:52+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,13 +53,13 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 15
+   "kept": 14
   },
   {
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
    "ok": true,
-   "kept": 14
+   "kept": 13
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1533/live/659d3900-e964-11f1-82b3-2f50a9074536.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1533/live/659d3900-e964-11f1-82b3-2f50a9074536.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1533/live/659d3900-e964-11f1-82b3-2f50a9074536.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1533/live/659d3900-e964-11f1-82b3-2f50a9074536.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T07:23:39+00:00"
@@ -311,6 +311,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T04:11:06+00:00"
+  },
+  {
+   "id": "ae167a9fd420996a",
+   "title": "Desperate appeals from women on death row in Iran after protests",
+   "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T06:01:58+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9ca2/live/a7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9ca2/live/a7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T07:32:52+00:00"
   },
   {
    "id": "add321208a3e4ca2",
@@ -683,6 +703,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T01:04:41+00:00"
+  },
+  {
+   "id": "1fc29e75de5b1e86",
+   "title": "Spanish elections: What you need to know and what's at stake",
+   "summary": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T00:23:49+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/980a/live/67fb7f80-e910-11f1-8383-53f283141713.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/980a/live/67fb7f80-e910-11f1-8383-53f283141713.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T07:32:52+00:00"
   },
   {
    "id": "39e47ef1c7cda736",
@@ -1677,7 +1719,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -2141,6 +2183,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T13:32:55+00:00"
+  },
+  {
+   "id": "a49915e6a5bb458c",
+   "title": "Watch: How the Russia-Ukraine war tore my family apart",
+   "summary": "BBC journalist Anastasiya Gribanova’s father and grandparents were killed when the front line came to their village.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cwg7l58v9jdjo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-25T13:27:36+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/871f/live/c3028d20-e82e-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/871f/live/c3028d20-e82e-11f1-a094-5fdc692f3e33.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T07:32:52+00:00"
   },
   {
    "id": "561e8ed98e050063",
@@ -3692,7 +3754,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8256,65 +8318,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T15:49:32+00:00"
-  },
-  {
-   "id": "ca2838745ca00cce",
-   "title": "Quebec Premier says he 'cannot' take an oath to the King despite court ruling",
-   "summary": "MONTREAL - Quebec Premier Paul St-Pierre Plamondon doubled down on his refusal to swear allegiance to the King after the province's Superior Court ruled to temporarily reinstate the oath.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/quebec-court-suspends-law-making-it-optional-to-swear-oath-to-king/article_eaff3b53-2c45-5d79-b7c4-1284db63b744.html",
-   "date": "2026-11-23T15:35:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 798,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/b5/9b523fa6-e79c-50bc-8168-ad56f140ea2c/6b045e63a36c4.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/b5/9b523fa6-e79c-50bc-8168-ad56f140ea2c/6b045e63a36c4.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T15:49:32+00:00"
-  },
-  {
-   "id": "b2d97737fc303e92",
-   "title": "How Mark Carney’s Russian hockey ban tests the global rule book",
-   "summary": "The Court of Arbitration for Sport (CAS) recently rejected the collective shunning of Russian athletes in international hockey. In doing so, it created a geopolitical test of Canadian Prime Minister Mark Carney’s key foreign policy tenets.",
-   "source": "The Conversation",
-   "url": "https://theconversation.com/how-mark-carneys-russian-hockey-ban-tests-the-global-rule-book-296806",
-   "date": "2026-11-23T15:34:20+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "analysis",
-   "image": {
-    "h": 600,
-    "small": "https://images.theconversation.com/files/773626/original/file-20261123-62-q8dawg.JPG?ixlib=rb-4.1.1&rect=0%2C389%2C3778%2C1889&q=45&auto=format&h=668&w=640&fit=clip",
-    "url": "https://images.theconversation.com/files/773626/original/file-20261123-62-q8dawg.JPG?ixlib=rb-4.1.1&rect=0%2C389%2C3778%2C1889&q=45&auto=format&h=668&w=1200&fit=clip",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T15:49:32+00:00"
-  },
-  {
-   "id": "a7a6748862d201e0",
-   "title": "Toronto's top bureaucrat leaving city hall, Chow uses 'strong mayor' powers to appoint interim replacement",
-   "summary": "Toronto Mayor Olivia Chow has signed off on an overhaul of some of Toronto’s top bureaucratic roles, including city manager, as part of a restructuring of the city's internal operations.",
-   "source": "CBC Toronto",
-   "url": "https://www.cbc.ca/news/canada/toronto/toronto-city-manager-leaving-role-9.7432479?cmp=rss",
-   "date": "2026-11-23T15:30:35+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/1.7583658,1752282028000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T15:30:47+00:00"
   }
  ]
 }

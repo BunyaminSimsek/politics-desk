@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T03:06:07+00:00",
+ "generatedAt": "2026-11-26T03:15:42+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/744ea0e7cacd8e479519364cae1acb6f3ad57cff/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=6ae4036e447bd92fb558f33af0a2b1a4",
-    "w": 700,
+    "credit": "Photograph: Hilary Wardhaugh/Getty Images",
     "h": 560,
-    "credit": "Photograph: Hilary Wardhaugh/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/744ea0e7cacd8e479519364cae1acb6f3ad57cff/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=6ae4036e447bd92fb558f33af0a2b1a4",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:56:31+00:00"
@@ -199,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "h": 676,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg",
-    "w": 1200
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-25T10:37:27+00:00"
@@ -221,10 +221,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a4570fa84a7e3ee4aac3e257799591f91a8b2aba/175_0_6119_4896/master/6119.jpg?width=700&quality=85&auto=format&fit=max&s=e392825321c38f84bd274e1f5821e862",
-    "w": 700,
+    "credit": "Photograph: Manu Fernández/AP",
     "h": 560,
-    "credit": "Photograph: Manu Fernández/AP"
+    "url": "https://i.guim.co.uk/img/media/a4570fa84a7e3ee4aac3e257799591f91a8b2aba/175_0_6119_4896/master/6119.jpg?width=700&quality=85&auto=format&fit=max&s=e392825321c38f84bd274e1f5821e862",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T03:06:07+00:00"
@@ -243,10 +243,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=04900df8f25856c81c5d269ae57f015f",
-    "w": 700,
+    "credit": "Photograph: Jay Kogler/AAP",
     "h": 560,
-    "credit": "Photograph: Jay Kogler/AAP"
+    "url": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=04900df8f25856c81c5d269ae57f015f",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T03:06:07+00:00"
@@ -406,9 +406,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T01:04:41+00:00"
@@ -617,7 +617,7 @@
   {
    "id": "f71b0de5471068ea",
    "title": "Mark Carney says Donald Trump hasn’t raised Pentagon’s concerns about Canada’s military",
-   "summary": "Carney said Trump has not voiced similar concerns to him after the release of a Pentagon \"fact sheet.\"",
+   "summary": "Carney said Trump has not voiced similar concerns to him after the release of a Pentagon 'fact sheet.'",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/mark-carney-says-donald-trump-hasn-t-raised-pentagon-s-concerns-about-canada-s-military/article_49570449-0539-44a4-9e24-6a4511bf10eb.html",
    "date": "2026-11-25T22:00:00+00:00",
@@ -1406,7 +1406,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3421,7 +3421,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

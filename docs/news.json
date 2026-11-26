@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T16:01:01+00:00",
+ "generatedAt": "2026-11-26T16:10:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,92 @@
  ],
  "items": [
   {
+   "id": "a65b9092a64487b9",
+   "title": "2 Italians killed in Iranian drone attack in Kuwait, Italy says",
+   "summary": "Two Italians were killed in an Iranian drone attack in Kuwait on Thursday, Italy's foreign minister said, adding that the victims were technicians working for the Italian unit of German defence group Rheinmetall.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/italian-workers-killed-kuwait-iran-strike-9.7437089?cmp=rss",
+   "date": "2026-11-26T16:03:57+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/9eb3c171-16e5-4072-89a2-bad62147bbc4,1795708348214/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C321%2C6163%2C3466%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T16:10:14+00:00"
+  },
+  {
+   "id": "334f569ddc8a9641",
+   "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
+   "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+   "date": "2026-11-26T16:02:06+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration",
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: James Manning/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e3b6ac9ef90ac1b1de2bc7f9894728762310b412/433_94_2992_2394/master/2992.jpg?width=700&quality=85&auto=format&fit=max&s=17302a05baa3e12514ed5f870300ab00",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:23:26+00:00"
+  },
+  {
+   "id": "73460e6271641673",
+   "title": "Trump says he wants Putin to ‘pull back all military aggression’ in Europe – as it happened",
+   "summary": "This blog is now closed The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to work.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+   "date": "2026-11-26T15:59:13+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Vyacheslav Prokofyev/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/1ce3a0578ea68206bed8e850874790711398c96a/222_0_3863_3089/master/3863.jpg?width=700&quality=85&auto=format&fit=max&s=1b3a65aefac5a7144bef13d5432ede89",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T08:55:37+00:00"
+  },
+  {
+   "id": "7bb134b1e99ae8f9",
+   "title": "Why is France roiling?",
+   "summary": "Al Jazeera’s Ramy Allahoum looks at how France's financial crisis is shaping next year’s vote.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss",
+   "date": "2026-11-26T15:57:49+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795708626.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795708626.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T16:10:14+00:00"
+  },
+  {
    "id": "a8086447a5f8feab",
    "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
    "summary": "Sheikh Tamim bin Hamad Al Thani is in Cairo for an official visit aimed at further strengthening bilateral relations.",
@@ -179,10 +265,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sheikh-Tamim-in-Egypt-1795704122.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sheikh-Tamim-in-Egypt-1795704122.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sheikh-Tamim-in-Egypt-1795704122.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Sheikh-Tamim-in-Egypt-1795704122.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T16:01:01+00:00"
@@ -267,28 +353,6 @@
    "addedAt": "2026-11-26T15:32:58+00:00"
   },
   {
-   "id": "73460e6271641673",
-   "title": "Trump says he wants Putin to ‘pull back all military aggression’ in Europe – Europe live",
-   "summary": "The US president said he ‘hopes that a deal can be made between Russia and Ukraine’ swiftly The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-   "date": "2026-11-26T15:22:23+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Vyacheslav Prokofyev/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/1ce3a0578ea68206bed8e850874790711398c96a/222_0_3863_3089/master/3863.jpg?width=700&quality=85&auto=format&fit=max&s=1b3a65aefac5a7144bef13d5432ede89",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T08:55:37+00:00"
-  },
-  {
    "id": "ef8c61463466ed5a",
    "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
    "summary": "Then ambassador to US wanted to discuss alternatives to World Trade Organization in ‘under the radar’ meeting, documents reveal UK politics live – latest updates Peter Mandelson sought to organise an “under the radar” meeting between a member of his former…",
@@ -307,29 +371,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T13:23:30+00:00"
-  },
-  {
-   "id": "334f569ddc8a9641",
-   "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
-   "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "date": "2026-11-26T15:12:19+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration",
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: James Manning/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e3b6ac9ef90ac1b1de2bc7f9894728762310b412/433_94_2992_2394/master/2992.jpg?width=700&quality=85&auto=format&fit=max&s=17302a05baa3e12514ed5f870300ab00",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T09:23:26+00:00"
   },
   {
    "id": "6fe8b320fa72a149",
@@ -1178,9 +1219,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.5601799,1599944785000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C267%2C5184%2C2916%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.2134333,1384283005000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:04:47+00:00"
@@ -2817,7 +2858,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4852,7 +4893,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8247,43 +8288,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:37:10+00:00"
-  },
-  {
-   "id": "d27bd2dbe52cff11",
-   "title": "Ex-White House AI adviser weighs in on national security as Huang is back as Nvidia CEO",
-   "summary": "Nvidia CEO Jensen Huang is back in leadership after resigning recently. Ben Buchanan, a Biden administration AI adviser, discusses what that means for U.S. national security and chip exports.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/23/nx-s1-6050936/ex-white-house-ai-advisor-weighs-in-on-national-security-as-huang-is-back-as-nvidia-ceo",
-   "date": "2026-11-23T22:23:29+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-24T22:48:11+00:00"
-  },
-  {
-   "id": "95f79e5818c90801",
-   "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
-   "summary": "Democrat, who lost re-election bid, found to have made ‘unwelcome sexual advances’ towards House staffer Jimmy Gomez will resign from Congress after a House ethics report released on Monday found “substantial evidence” that the California Democrat had…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
-   "date": "2026-11-23T22:21:45+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bloomberg/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/252be7a860305c0f22379fdacb9169a8eeb7f607/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=b85a4cc3a98cfac950e1008de714c765",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T22:04:00+00:00"
   }
  ]
 }

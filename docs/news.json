@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T04:20:12+00:00",
+ "generatedAt": "2026-11-26T04:29:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "c5c4622c9bda83e3",
+   "title": "Australian politics live: Chalmers says unemployment rise a ‘very bad development’; Liberals ‘tossing up whether to leave or remain’, PM says",
+   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+   "date": "2026-11-26T04:19:20+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ead3c0a6d92c227ba66bb9b3cf56c9b35db0c0c8/1311_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=7d1291d220472051f71ea5a68a5ed578",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Lukas Coch/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
    "id": "738443e67a1f4864",
    "title": "US announces new tariffs on host of countries including China",
    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
@@ -186,26 +208,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T10:37:27+00:00"
-  },
-  {
-   "id": "c5c4622c9bda83e3",
-   "title": "Australian politics live: Liberals ‘tossing up whether to leave or remain’, Albanese says; Coalition warns energy prices to cause Christmas ‘pain’",
-   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-26T04:04:14+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lukas Coch/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/52b5b66c0f27e10da77f0807cf7933ab39d66fec/1067_534_5492_4394/master/5492.jpg?width=700&quality=85&auto=format&fit=max&s=0adccad3391023ccdf84c8d93cbc952a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T19:56:31+00:00"
   },
   {
    "id": "27d0f525dd6c195a",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T04:38:17+00:00",
+ "generatedAt": "2026-11-26T04:47:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -221,10 +221,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a68c6f22f57e742fd3596e5d3ccb0afa57a4262c/91_0_2292_1834/master/2292.jpg?width=700&quality=85&auto=format&fit=max&s=40e16c70b85161b635fd2ef3197432f1",
-    "w": 700,
+    "credit": "Photograph: PR IMAGE",
     "h": 560,
-    "credit": "Photograph: PR IMAGE"
+    "url": "https://i.guim.co.uk/img/media/a68c6f22f57e742fd3596e5d3ccb0afa57a4262c/91_0_2292_1834/master/2292.jpg?width=700&quality=85&auto=format&fit=max&s=40e16c70b85161b635fd2ef3197432f1",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T04:38:17+00:00"
@@ -1492,7 +1492,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3507,7 +3507,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

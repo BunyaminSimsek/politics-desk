@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T17:05:52+00:00",
+ "generatedAt": "2026-11-26T17:15:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,71 @@
  ],
  "items": [
   {
+   "id": "334f569ddc8a9641",
+   "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
+   "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+   "date": "2026-11-26T17:03:35+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration",
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: James Manning/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e3b6ac9ef90ac1b1de2bc7f9894728762310b412/433_94_2992_2394/master/2992.jpg?width=700&quality=85&auto=format&fit=max&s=17302a05baa3e12514ed5f870300ab00",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:23:26+00:00"
+  },
+  {
+   "id": "415d58512e32716c",
+   "title": "Prosecutor appeals electronic monitoring order for Canadian in Belgian espionage case",
+   "summary": "OTTAWA - The Belgian federal prosecutor's office says it has appealed a decision that would allow a Canadian facing espionage allegations to remain in detention under electronic monitoring — not behind bars.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/prosecutor-appeals-electronic-monitoring-order-for-canadian-in-belgian-espionage-case/article_5d46b6cd-f700-55c2-a1ae-0d46e183f2ae.html",
+   "date": "2026-11-26T17:02:58+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/12/f1258177-7603-5309-8ddc-5e8ac1f4621c/6a6bba296da4d.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/12/f1258177-7603-5309-8ddc-5e8ac1f4621c/6a6bba296da4d.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T17:15:02+00:00"
+  },
+  {
+   "id": "6c6e2b62768821c7",
+   "title": "UK bill to implement EU deal will allow ministers to enact closer ties in future",
+   "summary": "Further deals can be enacted via same legislation, though it excludes rejoining single market, customs union or bloc as a whole A bill to implement the UK-EU deal will grant significant powers for ministers to enact even closer ties with Brussels, though it…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties",
+   "date": "2026-11-26T17:00:52+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9f619d89b9be2fe6b15f51d5f2a5acaa898ac34a/316_0_2459_1968/master/2459.jpg?width=700&quality=85&auto=format&fit=max&s=d76a3445b99d179925ae3cd53f4a1df7",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Hannah McKay/Reuters Pool/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T17:15:02+00:00"
+  },
+  {
    "id": "374c452a21d39225",
    "title": "How a teen’s death raises questions about Colombia’s security crackdown",
    "summary": "President Abelardo de la Espriella's campaign against armed groups has resulted in accusations of extrajudicial killing.",
@@ -184,29 +249,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T16:56:43+00:00"
-  },
-  {
-   "id": "334f569ddc8a9641",
-   "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
-   "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "date": "2026-11-26T16:45:25+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration",
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: James Manning/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e3b6ac9ef90ac1b1de2bc7f9894728762310b412/433_94_2992_2394/master/2992.jpg?width=700&quality=85&auto=format&fit=max&s=17302a05baa3e12514ed5f870300ab00",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T09:23:26+00:00"
   },
   {
    "id": "a1f53bfebf376d54",
@@ -2918,7 +2960,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4953,7 +4995,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8250,45 +8292,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T23:10:33+00:00"
-  },
-  {
-   "id": "f251d809d996cc13",
-   "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
-   "summary": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
-   "date": "2026-11-23T22:41:48+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Keito Newman/The Canadian Press/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fd2a6955fac805e0a3ba873c88fcd4cd86fea573/448_0_3149_2519/master/3149.jpg?width=700&quality=85&auto=format&fit=max&s=84e3557f701805f8b6068263c16d7a5d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T22:51:31+00:00"
-  },
-  {
-   "id": "1f33b85a76eb95c7",
-   "title": "Canada adds Masar Badil group to terrorist entity list, citing status as alias for Samidoun",
-   "summary": "Canada's public safety minister announced Monday that Masar Badil had been added to the country's terrorist entity list, as an alias for Samidoun, a group which was added to the same list in 2024.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/world/masar-badil-added-terrorist-entity-list-9.7433007?cmp=rss",
-   "date": "2026-11-23T22:38:31+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/20ff3d2a-fb72-4a55-8ec7-59d6a52b4f2d,1795471306857/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C149%2C4340%2C2441%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T22:41:50+00:00"
   }
  ]
 }

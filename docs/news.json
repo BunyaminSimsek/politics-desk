@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T00:55:29+00:00",
+ "generatedAt": "2026-11-26T01:04:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,21 +166,62 @@
  ],
  "items": [
   {
-   "id": "c5c4622c9bda83e3",
-   "title": "Australian politics live: Blyth did not ‘feel safe’ in the Liberal party before One Nation defection; Canavan vows ‘more united’ comeback",
-   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-26T00:49:14+00:00",
+   "id": "738443e67a1f4864",
+   "title": "US announces new tariffs on host of countries including China",
+   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T01:00:06+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg",
+    "w": 1200,
+    "h": 676,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T10:37:27+00:00"
+  },
+  {
+   "id": "2c2bfd5c6379f3d5",
+   "title": "Poilievre claims constituent's job was threatened after meeting at CFB Wainwright",
+   "summary": "Conservative Leader Pierre Poilievre says one of his constituents — a nurse who helped treat soldiers burned in the CFB Wainwright fire — is having her employment threatened because she met with him.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/poilievre-wainwright-nurse-employment-9.7436563?cmp=rss",
+   "date": "2026-11-26T00:56:20+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f6b4122a7b255425d7edaf7051f990faebedc605/489_0_6591_5273/master/6591.jpg?width=700&quality=85&auto=format&fit=max&s=62fdb3307991f7b59d3c4d01e37f4648",
+    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T01:04:41+00:00"
+  },
+  {
+   "id": "c5c4622c9bda83e3",
+   "title": "Australian politics live: Hanson says she ‘never approached’ Liberal defector; spoof parliamentary tool spreads cheer",
+   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+   "date": "2026-11-26T00:43:12+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/87531633bff6f1ff18a63af6d9b206b446c1aad4/475_0_4750_3800/master/4750.jpg?width=700&quality=85&auto=format&fit=max&s=2dddcdb6a0d7f2daada458efe3403b4f",
     "w": 700,
     "h": 560,
-    "credit": "Photograph: Lukas Coch/AAP"
+    "credit": "Photograph: Mick Tsikas/AAP"
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:56:31+00:00"
@@ -1218,7 +1259,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1333,28 +1374,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T00:46:17+00:00"
-  },
-  {
-   "id": "738443e67a1f4864",
-   "title": "US announces new tariffs on host of countries including China",
-   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T16:21:34+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T10:37:27+00:00"
   },
   {
    "id": "d033ed3d5b7b22c1",
@@ -3255,7 +3274,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8280,26 +8299,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-22T15:59:07+00:00"
-  },
-  {
-   "id": "93e285e5c9b2f40b",
-   "title": "Ukraine shares video of strikes on Russian ships off Libya",
-   "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T11:34:10+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T12:44:24+00:00"
   }
  ]
 }

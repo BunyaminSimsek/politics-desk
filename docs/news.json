@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T21:28:51+00:00",
+ "generatedAt": "2026-11-26T21:38:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,47 @@
   }
  ],
  "items": [
+  {
+   "id": "452003268bcdba9c",
+   "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
+   "summary": "Fire chiefs say large swathes of the country are at risk from fires driven by high fuel loads, dry soil and hot weather Get our breaking news email , free app or daily news podcast Large parts of southern and central Australia face elevated fire risk this…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
+   "date": "2026-11-26T21:33:36+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/0_0_805_644/master/805.jpg?width=700&quality=85&auto=format&fit=max&s=e0383365d1a9fc3bb293dc8d10d75716",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Tasmania Fire Service"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T21:38:25+00:00"
+  },
+  {
+   "id": "701b90bf6bec82f9",
+   "title": "12 First Nations in B.C. buy stake in Coastal GasLink pipeline",
+   "summary": "A group of 12 First Nations in British Columbia are buying an indirect ownership stake in the Coastal GasLink Pipeline, backed by a $168-million loan guarantee from the federal Indigenous Loan Guarantee Program.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/coastal-gaslink-pipeline-ownership-9.7437694?cmp=rss",
+   "date": "2026-11-26T21:30:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "climate"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/1.5901410,1726186999000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C119%2C1280%2C720%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T21:38:25+00:00"
+  },
   {
    "id": "9e6c4c989ed54b01",
    "title": "Coalition team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
@@ -536,7 +577,7 @@
   {
    "id": "55561a792ec6400b",
    "title": "Tories want PM's wife Diana Fox Carney to testify to Parliament on oceans role",
-   "summary": "OTTAWA - The Conservatives are calling on Prime Minister Mark Carney's wife to testify to Parliament about her role as oceans envoy.",
+   "summary": "OTTAWA - The Conservatives are calling on Prime Minister Mark Carney's wife to testify to Parliament on her role as ocean envoy, arguing the government is not being transparent about her responsibilities and possible lobbying concerns.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/tories-want-pm-s-wife-diana-fox-carney-to-testify-to-parliament-on-oceans-role/article_fc768787-77fc-5f15-aeab-8a55f43eb30d.html",
    "date": "2026-11-26T18:52:34+00:00",
@@ -3635,7 +3676,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -5670,7 +5711,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8245,46 +8286,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T07:10:53+00:00"
-  },
-  {
-   "id": "3ba2d75c0e1fa23d",
-   "title": "Why Eisenkot is negotiating with Netanyahu",
-   "summary": "Talks with different political powers give Yashar leverage. But they also give Likud renewed political relevance.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu?traffic_source=rss",
-   "date": "2026-11-24T07:02:40+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T150000Z_268097912_RC2OTOALV528_RTRMADP_3_ISRAEL-POLITICS-NETANYAHU-1795503632.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T150000Z_268097912_RC2OTOALV528_RTRMADP_3_ISRAEL-POLITICS-NETANYAHU-1795503632.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T07:10:53+00:00"
-  },
-  {
-   "id": "f41feeddd1fe5ae4",
-   "title": "UK disability benefit cuts risk worsening youth destitution, research warns",
-   "summary": "Joseph Rowntree Foundation report says millions could be left unable to regularly afford everyday basics UK politics live – latest updates Cuts to disability benefits are likely to increase the risks of destitution faced by young people and leave millions of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/24/cuts-uk-disability-benefit-risk-worsening-youth-destitution-research-warns",
-   "date": "2026-11-24T07:00:10+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/02c7fea6d132724324bdd7310e98ed115cd8ef09/415_0_3753_3002/master/3753.jpg?width=700&quality=85&auto=format&fit=max&s=ee42ae05f9e8e6878f85d6b7e7fd6c87",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:37:27+00:00"
   }
  ]
 }

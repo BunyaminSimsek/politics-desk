@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T11:04:20+00:00",
+ "generatedAt": "2026-11-26T11:13:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -179,30 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1c91d4f735882d6dce2b45b97473994d964841b3edd38be44bc350cd6a544c31_58812e.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
     "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1c91d4f735882d6dce2b45b97473994d964841b3edd38be44bc350cd6a544c31_58812e.jpg?w=640&h=427&crop=1&quality=70&strip=all"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T11:04:20+00:00"
-  },
-  {
-   "id": "d35e05b4893739a8",
-   "title": "Ontario to force some e-bike riders to get licences, insurance",
-   "summary": "Motorcycle-style e-bikes in Ontario will need licences, registration and insurance starting next May 1.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/ontario-to-force-some-e-bike-riders-to-get-licences-insurance/article_f7e4ed10-e6a0-446a-a2c9-c28772e8f913.html",
-   "date": "2026-11-26T11:00:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/46/846932db-e35b-51b0-9b60-65278670b420/6b076ce5c5655.image.jpg?resize=1200%2C",
-    "w": 1200,
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/46/846932db-e35b-51b0-9b60-65278670b420/6b076ce5c5655.image.jpg?resize=640%2C"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1c91d4f735882d6dce2b45b97473994d964841b3edd38be44bc350cd6a544c31_58812e.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1c91d4f735882d6dce2b45b97473994d964841b3edd38be44bc350cd6a544c31_58812e.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
    },
    "breaking": false,
    "addedAt": "2026-11-26T11:04:20+00:00"
@@ -213,7 +193,7 @@
    "summary": "Net migration fell in the year ending June 2026, according to the Office for National Statistics The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler .",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "date": "2026-11-26T10:49:56+00:00",
+   "date": "2026-11-26T11:00:45+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -229,6 +209,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:23:26+00:00"
+  },
+  {
+   "id": "d35e05b4893739a8",
+   "title": "Ontario to force some e-bike riders to get licences, insurance",
+   "summary": "Motorcycle-style e-bikes in Ontario will need licences, registration and insurance starting next May 1.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/ontario-to-force-some-e-bike-riders-to-get-licences-insurance/article_f7e4ed10-e6a0-446a-a2c9-c28772e8f913.html",
+   "date": "2026-11-26T11:00:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/46/846932db-e35b-51b0-9b60-65278670b420/6b076ce5c5655.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/46/846932db-e35b-51b0-9b60-65278670b420/6b076ce5c5655.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T11:04:20+00:00"
   },
   {
    "id": "73460e6271641673",
@@ -536,9 +536,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.2134333,1384283005000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.2134333,1384283005000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:04:47+00:00"
@@ -555,9 +555,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/3d03312a-a46c-41ef-8534-b41d0e8637e1,1795643632803/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/3d03312a-a46c-41ef-8534-b41d0e8637e1,1795643632803/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:04:47+00:00"
@@ -576,9 +576,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/abc5fad2-28e9-4064-ade1-00728ace559f,1795629563989/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C262%2C4176%2C2349%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/abc5fad2-28e9-4064-ade1-00728ace559f,1795629563989/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C262%2C4176%2C2349%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:04:47+00:00"
@@ -2197,7 +2197,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4232,7 +4232,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

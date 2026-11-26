@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T09:04:47+00:00",
+ "generatedAt": "2026-11-26T09:14:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "73460e6271641673",
+   "title": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
+   "summary": "António Costa says the next long-term budget is ‘the most important’ item on the agenda Latvia’s Andris Kulbergs offered a similar argument, saying that countries on the eastern flank had to ramp up their defence spending, often at the cost of other…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+   "date": "2026-11-26T09:03:17+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Marius Burgelman/AP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e4a3c5ba3209c8466a0d4365584dbb1e5a803933/697_0_4946_3959/master/4946.jpg?width=700&quality=85&auto=format&fit=max&s=0a6b6542bcb217bdf348d8347f54248d",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T08:55:37+00:00"
+  },
+  {
    "id": "71db611522e36b34",
    "title": "What's at stake as Canada's top court ruling on Quebec secularism law looms",
    "summary": "Ahead of Friday's highly anticipated Supreme Court of Canada ruling on Quebec's controversial secularism law, which bars some public sector workers from wearing religious symbols on the job, there is optimism on both sides of the debate.",
@@ -177,9 +199,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.2134333,1384283005000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.2134333,1384283005000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:04:47+00:00"
@@ -196,9 +218,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/3d03312a-a46c-41ef-8534-b41d0e8637e1,1795643632803/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/3d03312a-a46c-41ef-8534-b41d0e8637e1,1795643632803/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:04:47+00:00"
@@ -217,34 +239,12 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/abc5fad2-28e9-4064-ade1-00728ace559f,1795629563989/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C262%2C4176%2C2349%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/abc5fad2-28e9-4064-ade1-00728ace559f,1795629563989/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C262%2C4176%2C2349%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:04:47+00:00"
-  },
-  {
-   "id": "73460e6271641673",
-   "title": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
-   "summary": "António Costa says the next long-term budget is ‘the most important’ item on the agenda Sweden’s Ulf Kristersson suggested the talks could even go beyond December and into 2027, as with the budget kicking in only in 2028, “we aren’t in that hurry.”",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-   "date": "2026-11-26T08:39:02+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Marius Burgelman/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e4a3c5ba3209c8466a0d4365584dbb1e5a803933/697_0_4946_3959/master/4946.jpg?width=700&quality=85&auto=format&fit=max&s=0a6b6542bcb217bdf348d8347f54248d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T08:55:37+00:00"
   },
   {
    "id": "a376c61b2c6466b6",
@@ -1860,7 +1860,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3895,7 +3895,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

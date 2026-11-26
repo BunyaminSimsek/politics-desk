@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T09:51:01+00:00",
+ "generatedAt": "2026-11-26T10:00:28+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "64ca7df9242cf6d3",
+   "title": "New UK-EU treaty has 10-year termination clause",
+   "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T09:59:14+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T07:42:09+00:00"
+  },
+  {
    "id": "334f569ddc8a9641",
    "title": "UK net migration falls to 77,000, lowest since 1997 excluding Covid pandemic – UK politics live",
    "summary": "Net migration fell in the year ending June 2026, according to the Office for National Statistics And this chart from the ONS report shows how immigration, emigration and net migration figures have changed since 2012.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f9438b12e25d0510100c2baa53822bd454f6de67/41_0_2972_2377/master/2972.jpg?width=700&quality=85&auto=format&fit=max&s=80ab4f8d554cdb604f551a0d4f803b0c",
-    "w": 700,
+    "credit": "Photograph: Andy Rain/EPA",
     "h": 560,
-    "credit": "Photograph: Andy Rain/EPA"
+    "url": "https://i.guim.co.uk/img/media/f9438b12e25d0510100c2baa53822bd454f6de67/41_0_2972_2377/master/2972.jpg?width=700&quality=85&auto=format&fit=max&s=80ab4f8d554cdb604f551a0d4f803b0c",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:23:26+00:00"
@@ -249,10 +269,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/afd31851f8b61df87727560960dfa526cee57aa5/250_0_3641_2913/master/3641.jpg?width=700&quality=85&auto=format&fit=max&s=9cdf31773af493034da4cd3656ea9e83",
-    "w": 700,
+    "credit": "Photograph: Mick Tsikas/AAP",
     "h": 560,
-    "credit": "Photograph: Mick Tsikas/AAP"
+    "url": "https://i.guim.co.uk/img/media/afd31851f8b61df87727560960dfa526cee57aa5/250_0_3641_2913/master/3641.jpg?width=700&quality=85&auto=format&fit=max&s=9cdf31773af493034da4cd3656ea9e83",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:51:01+00:00"
@@ -437,26 +457,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T08:09:30+00:00"
-  },
-  {
-   "id": "64ca7df9242cf6d3",
-   "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
-   "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-26T07:40:04+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T07:42:09+00:00"
   },
   {
    "id": "2a5908302fac455f",
@@ -2078,10 +2078,10 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/7107/live/80334c80-e97f-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/7107/live/80334c80-e97f-11f1-99a1-253766e7ad8b.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-25T18:50:53+00:00"

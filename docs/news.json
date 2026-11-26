@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T09:23:26+00:00",
+ "generatedAt": "2026-11-26T09:32:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 4
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/a3e7a737040e81c60eb69b1d359fec56d4ef6b70/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=aa38de76267a32c0e5d0e5739d2cf796",
-    "w": 700,
+    "credit": "Photograph: Nicolas Economou/NurPhoto/Shutterstock",
     "h": 560,
-    "credit": "Photograph: Nicolas Economou/NurPhoto/Shutterstock"
+    "url": "https://i.guim.co.uk/img/media/a3e7a737040e81c60eb69b1d359fec56d4ef6b70/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=aa38de76267a32c0e5d0e5739d2cf796",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:23:26+00:00"
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/d91005f7883108c0ca8f41e1f10cc43261e75525/529_0_6508_5206/master/6508.jpg?width=700&quality=85&auto=format&fit=max&s=be9551fbc77d816c4a8c25ad2c5793e8",
-    "w": 700,
+    "credit": "Photograph: Simon Dawson/No 10 Downing Street",
     "h": 560,
-    "credit": "Photograph: Simon Dawson/No 10 Downing Street"
+    "url": "https://i.guim.co.uk/img/media/d91005f7883108c0ca8f41e1f10cc43261e75525/529_0_6508_5206/master/6508.jpg?width=700&quality=85&auto=format&fit=max&s=be9551fbc77d816c4a8c25ad2c5793e8",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:23:26+00:00"
@@ -226,6 +226,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T08:55:37+00:00"
+  },
+  {
+   "id": "78c1d0e74b263fd3",
+   "title": "Israeli attacks on Gaza kill senior education official, seven other people",
+   "summary": "Israeli Prime Minister Benjamin Netanyahu confirms killing of Khaled Abu Nada, undersecretary of Education Ministry.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
+   "date": "2026-11-26T09:00:06+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b07de84e346-1795677828.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b07de84e346-1795677828.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:32:33+00:00"
   },
   {
    "id": "71db611522e36b34",
@@ -285,6 +305,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T09:04:47+00:00"
+  },
+  {
+   "id": "050936d8750a7d71",
+   "title": "Why has North Korea expelled a Swiss diplomat from Pyongyang?",
+   "summary": "At the centre of the diplomatic dispute lies the Songdowon International Children’s Camp.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/why-has-north-korea-expelled-a-swiss-diplomat-from-pyongyang?traffic_source=rss",
+   "date": "2026-11-26T08:54:49+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b07e1e4-1795678692.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b07e1e4-1795678692.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:32:33+00:00"
   },
   {
    "id": "a376c61b2c6466b6",
@@ -1900,7 +1940,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3935,7 +3975,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8271,50 +8311,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:55:47+00:00"
-  },
-  {
-   "id": "540d07d0d8688243",
-   "title": "Florida city cancels Christmas parade after tax amendment forces budget cuts",
-   "summary": "Deltona officials say parade is getting cancelled due to state’s voter-approved Amendment 3 property tax overhaul A city in south-western Florida has cancelled its Christmas parade, citing pending state legislation, to ensure the city remains “fiscally…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/23/deltona-florida-christmas-parade-amendment-3",
-   "date": "2026-11-23T16:48:11+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Deltona TV",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/23b8b75ffc3ddb1e9211cd7e735aa5d294d8e27d/338_0_2793_2234/master/2793.jpg?width=700&quality=85&auto=format&fit=max&s=d48ecfc9ae101e3ad669d23b1bf322a8",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T17:05:27+00:00"
-  },
-  {
-   "id": "77ece0992320838f",
-   "title": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – as it happened",
-   "summary": "European Commission president Ursula von der Leyen sets out 22nd package of sanctions Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
-   "date": "2026-11-23T16:42:56+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evgeniy Maloletka/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4c509a9f9850f0d11a9c0ed02922a5b31f2ff85f/720_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=243ed2b7cb1ce8a7f78e103fe32a3433",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T09:01:53+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T13:23:30+00:00",
+ "generatedAt": "2026-11-26T13:32:46+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ff1207557f3c58e205c4bec08ca53254507ea7c0/0_0_4120_3296/master/4120.jpg?width=700&quality=85&auto=format&fit=max&s=e3457bfb8ec5460f4ff4845c1c6c4524",
-    "w": 700,
+    "credit": "Photograph: James Manning/PA",
     "h": 560,
-    "credit": "Photograph: James Manning/PA"
+    "url": "https://i.guim.co.uk/img/media/ff1207557f3c58e205c4bec08ca53254507ea7c0/0_0_4120_3296/master/4120.jpg?width=700&quality=85&auto=format&fit=max&s=e3457bfb8ec5460f4ff4845c1c6c4524",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T13:23:30+00:00"
@@ -2534,7 +2534,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4569,7 +4569,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

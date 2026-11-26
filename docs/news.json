@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T15:32:58+00:00",
+ "generatedAt": "2026-11-26T15:42:29+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 25
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -197,12 +197,34 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/d283e576-9690-45aa-aca1-c086a7d833a2,1795704755405/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C153%2C5307%2C2985%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/d283e576-9690-45aa-aca1-c086a7d833a2,1795704755405/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C153%2C5307%2C2985%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T15:32:58+00:00"
+  },
+  {
+   "id": "73460e6271641673",
+   "title": "Trump says he wants Putin to ‘pull back all military aggression’ in Europe – Europe live",
+   "summary": "The US president said he ‘hopes that a deal can be made between Russia and Ukraine’ swiftly The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+   "date": "2026-11-26T15:22:23+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Vyacheslav Prokofyev/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/1ce3a0578ea68206bed8e850874790711398c96a/222_0_3863_3089/master/3863.jpg?width=700&quality=85&auto=format&fit=max&s=1b3a65aefac5a7144bef13d5432ede89",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T08:55:37+00:00"
   },
   {
    "id": "ef8c61463466ed5a",
@@ -259,35 +281,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-21T181649Z_1730866814_RC2ISOA1DC35_RTRMADP_3_SPAIN-ELECTION-VOX-1795696932.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-21T181649Z_1730866814_RC2ISOA1DC35_RTRMADP_3_SPAIN-ELECTION-VOX-1795696932.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-21T181649Z_1730866814_RC2ISOA1DC35_RTRMADP_3_SPAIN-ELECTION-VOX-1795696932.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-21T181649Z_1730866814_RC2ISOA1DC35_RTRMADP_3_SPAIN-ELECTION-VOX-1795696932.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T15:32:58+00:00"
-  },
-  {
-   "id": "73460e6271641673",
-   "title": "Trump says he wants Putin to ‘pull back all military aggression’ in Europe – Europe live",
-   "summary": "The US president said he ‘hopes that a deal can be made between Russia and Ukraine’ swiftly The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-   "date": "2026-11-26T15:03:42+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Vyacheslav Prokofyev/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/1ce3a0578ea68206bed8e850874790711398c96a/222_0_3863_3089/master/3863.jpg?width=700&quality=85&auto=format&fit=max&s=1b3a65aefac5a7144bef13d5432ede89",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T08:55:37+00:00"
   },
   {
    "id": "10244e6c7411c737",
@@ -301,10 +301,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2023/11/346836E-highres-1701333865.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2023/11/346836E-highres-1701333865.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2023/11/346836E-highres-1701333865.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2023/11/346836E-highres-1701333865.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T15:32:58+00:00"

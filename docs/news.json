@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T01:14:11+00:00",
+ "generatedAt": "2026-11-26T01:23:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "The Guardian",
@@ -166,52 +166,12 @@
  ],
  "items": [
   {
-   "id": "383b28a60c6a2542",
-   "title": "Pierre Poilievre says Alberta nurse may lose job after photo with him in Wainwright",
-   "summary": "Pierre Poilievre said a nurse working on contract at the CFB Wainwright has been told she might lose her job after she was photographed speaking with him after the tragedy.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12166812/pierre-poilievre-alberta-nurse-wainwright-photo/",
-   "date": "2026-11-26T01:12:38+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/PP-wainwright-nurse.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/PP-wainwright-nurse.jpg?w=640&h=427&crop=1&quality=70&strip=all"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T01:14:11+00:00"
-  },
-  {
-   "id": "c5c4622c9bda83e3",
-   "title": "Australian politics live: Blyth did not ‘feel safe’ in the Liberal party before One Nation defection; Canavan vows ‘more united’ comeback",
-   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-26T01:03:23+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "url": "https://i.guim.co.uk/img/media/f6b4122a7b255425d7edaf7051f990faebedc605/489_0_6591_5273/master/6591.jpg?width=700&quality=85&auto=format&fit=max&s=62fdb3307991f7b59d3c4d01e37f4648",
-    "w": 700,
-    "h": 560,
-    "credit": "Photograph: Lukas Coch/AAP"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T19:56:31+00:00"
-  },
-  {
    "id": "738443e67a1f4864",
    "title": "US announces new tariffs on host of countries including China",
    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-26T01:00:06+00:00",
+   "date": "2026-11-26T01:20:14+00:00",
    "topic": "asia",
    "region": "world",
    "tags": [
@@ -226,6 +186,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T10:37:27+00:00"
+  },
+  {
+   "id": "c5c4622c9bda83e3",
+   "title": "Australian politics live: Blyth did not ‘feel safe’ in the Liberal party before One Nation defection; Canavan vows ‘more united’ comeback",
+   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+   "date": "2026-11-26T01:19:06+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Lukas Coch/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f6b4122a7b255425d7edaf7051f990faebedc605/489_0_6591_5273/master/6591.jpg?width=700&quality=85&auto=format&fit=max&s=62fdb3307991f7b59d3c4d01e37f4648",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
+   "id": "383b28a60c6a2542",
+   "title": "Pierre Poilievre says Alberta nurse may lose job after photo with him in Wainwright",
+   "summary": "Pierre Poilievre said a nurse working on contract at the CFB Wainwright has been told she might lose her job after she was photographed speaking with him after the tragedy.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12166812/pierre-poilievre-alberta-nurse-wainwright-photo/",
+   "date": "2026-11-26T01:12:38+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/PP-wainwright-nurse.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/PP-wainwright-nurse.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T01:14:11+00:00"
   },
   {
    "id": "acaedfcf25bdc422",
@@ -561,9 +561,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/2a94dd9e-1a34-4cec-a79c-8e2422f68da6,1795639123109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/2a94dd9e-1a34-4cec-a79c-8e2422f68da6,1795639123109/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T21:20:38+00:00"

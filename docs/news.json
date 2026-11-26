@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T21:38:25+00:00",
+ "generatedAt": "2026-11-26T21:47:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/0_0_805_644/master/805.jpg?width=700&quality=85&auto=format&fit=max&s=e0383365d1a9fc3bb293dc8d10d75716",
-    "w": 700,
+    "credit": "Photograph: Tasmania Fire Service",
     "h": 560,
-    "credit": "Photograph: Tasmania Fire Service"
+    "url": "https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/0_0_805_644/master/805.jpg?width=700&quality=85&auto=format&fit=max&s=e0383365d1a9fc3bb293dc8d10d75716",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T21:38:25+00:00"
@@ -199,12 +199,32 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.5901410,1726186999000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C119%2C1280%2C720%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.5901410,1726186999000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C119%2C1280%2C720%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T21:38:25+00:00"
+  },
+  {
+   "id": "e3dcb038e64d8da0",
+   "title": "Doug Ford says he would use his own gun to shoot a home invader",
+   "summary": "In the wake of a deadly home invasion in Toronto, Premier Doug Ford says people should \"fight back\" against intruders with any weapon at hand.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/doug-ford-says-he-would-use-his-own-gun-to-blow-away-a-home-invader/article_7a283d4b-8e56-404a-82af-9481551572e7.html",
+   "date": "2026-11-26T21:30:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/ce/ece5b06e-745f-5847-91a7-dbccfa62ca69/6b0873a2c695c.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/ce/ece5b06e-745f-5847-91a7-dbccfa62ca69/6b0873a2c695c.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T18:11:03+00:00"
   },
   {
    "id": "9e6c4c989ed54b01",
@@ -305,26 +325,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T20:41:50+00:00"
-  },
-  {
-   "id": "e3dcb038e64d8da0",
-   "title": "Doug Ford says he would use his own gun to shoot a home invader",
-   "summary": "In the wake of a deadly home invasion in Toronto, Premier Doug Ford says people should \"fight back\" against intruders with any weapon at hand.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/doug-ford-says-he-would-use-his-own-gun-to-blow-away-a-home-invader/article_7a283d4b-8e56-404a-82af-9481551572e7.html",
-   "date": "2026-11-26T20:30:00+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/ce/ece5b06e-745f-5847-91a7-dbccfa62ca69/6b0873a2c695c.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/ce/ece5b06e-745f-5847-91a7-dbccfa62ca69/6b0873a2c695c.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T18:11:03+00:00"
   },
   {
    "id": "3b4af246d7d6c822",
@@ -698,7 +698,7 @@
   {
    "id": "515fd8eb2130338a",
    "title": "Carney in Saskatchewan to campaign for long-shot byelection win",
-   "summary": "YORKTON - Prime Minister Mark Carney is in Yorkton, Sask., to help the Liberals campaign for a byelection in a riding his party has never won in its nearly 60 years of existence.",
+   "summary": "YORKTON - Prime Minister Mark Carney campaigned Thursday in Yorkton, Sask., for a byelection in a riding his party has never won in its nearly 60 years of existence.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/saskatchewan/carney-in-saskatchewan-to-campaign-for-long-shot-byelection-win/article_7f8c6be6-5729-58f6-8895-43b4df1dc06e.html",
    "date": "2026-11-26T18:00:05+00:00",
@@ -814,9 +814,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/da9f3897-707e-407e-ac00-f08ba2153577,1795714730840/full/max/0/default.jpg?im=Crop%2Crect%3D%284%2C0%2C4920%2C2767%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/da9f3897-707e-407e-ac00-f08ba2153577,1795714730840/full/max/0/default.jpg?im=Crop%2Crect%3D%284%2C0%2C4920%2C2767%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T17:42:51+00:00"

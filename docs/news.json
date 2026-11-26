@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T02:28:44+00:00",
+ "generatedAt": "2026-11-26T02:37:57+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "c5c4622c9bda83e3",
+   "title": "Australian politics live: Blyth did not ‘feel safe’ in the Liberal party before One Nation defection; ‘coal must be replaced’, Bowen says",
+   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+   "date": "2026-11-26T02:28:06+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Lukas Coch/AAP",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f6b4122a7b255425d7edaf7051f990faebedc605/489_0_6591_5273/master/6591.jpg?width=700&quality=85&auto=format&fit=max&s=62fdb3307991f7b59d3c4d01e37f4648",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
    "id": "ce3d5df3befb05f9",
    "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
    "summary": "Senator-elect Troy Jackson, of Maine, announced he would support the progressive over the current minority leader, Chuck Schumer",
@@ -226,26 +246,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T02:19:38+00:00"
-  },
-  {
-   "id": "c5c4622c9bda83e3",
-   "title": "Australian politics live: Blyth did not ‘feel safe’ in the Liberal party before One Nation defection; ‘coal must be replaced’, Bowen says",
-   "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-26T01:59:47+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lukas Coch/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f6b4122a7b255425d7edaf7051f990faebedc605/489_0_6591_5273/master/6591.jpg?width=700&quality=85&auto=format&fit=max&s=62fdb3307991f7b59d3c4d01e37f4648",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T19:56:31+00:00"
   },
   {
    "id": "1f0a85db9ec20384",
@@ -524,9 +524,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/db52ea27-7f21-470c-a64a-a9bd5fbbc5a2,1795645423961/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C307%2C2659%2C1495%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/db52ea27-7f21-470c-a64a-a9bd5fbbc5a2,1795645423961/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C307%2C2659%2C1495%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T22:35:21+00:00"
@@ -543,9 +543,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/b41c9061-1da8-49e3-a5f9-9ace70c719d4,1795641691168/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C6000%2C3375%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/b41c9061-1da8-49e3-a5f9-9ace70c719d4,1795641691168/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C6000%2C3375%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-25T22:35:21+00:00"
@@ -1362,7 +1362,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3377,7 +3377,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

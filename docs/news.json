@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T14:37:33+00:00",
+ "generatedAt": "2026-11-26T14:46:38+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -201,10 +201,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=700&quality=85&auto=format&fit=max&s=2e5c83fc1b239d7bbec6c1a95056fef7",
-    "w": 700,
+    "credit": "Composite: The Guardian",
     "h": 560,
-    "credit": "Composite: The Guardian"
+    "url": "https://i.guim.co.uk/img/media/e38ffbe42acd4c816aa81bd2aa3f5981a8d1fd47/1_0_2999_2400/master/2999.jpg?width=700&quality=85&auto=format&fit=max&s=2e5c83fc1b239d7bbec6c1a95056fef7",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T14:37:33+00:00"
@@ -233,6 +233,26 @@
    "addedAt": "2026-11-26T09:23:26+00:00"
   },
   {
+   "id": "78f3457c5c775884",
+   "title": "Can Trump continue with Iran war despite funding restrictions?",
+   "summary": "A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+   "date": "2026-11-26T14:17:21+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04df4d-1795481421.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04df4d-1795481421.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T14:46:38+00:00"
+  },
+  {
    "id": "22e04189fa1ea46b",
    "title": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
    "summary": "Prime Minister al-Zaidi's move to take control of border crossings and oilfields has drawn a sharp response from Erbil.",
@@ -244,10 +264,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08184c-1795692620.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08184c-1795692620.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08184c-1795692620.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08184c-1795692620.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T14:37:33+00:00"
@@ -364,10 +384,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/7450950aea5b236e0cbfff6accd4f606a5dcd367/133_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=90b55362171769de68cf158fa19bbd38",
-    "w": 700,
+    "credit": "Photograph: James Manning/PA",
     "h": 560,
-    "credit": "Photograph: James Manning/PA"
+    "url": "https://i.guim.co.uk/img/media/7450950aea5b236e0cbfff6accd4f606a5dcd367/133_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=90b55362171769de68cf158fa19bbd38",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T13:23:30+00:00"
@@ -8263,26 +8283,6 @@
     "h": 800,
     "small": "https://globalnews.ca/wp-content/uploads/2025/06/csis-hq.jpg?w=640&h=427&crop=1&quality=70&strip=all",
     "url": "https://globalnews.ca/wp-content/uploads/2025/06/csis-hq.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T21:45:48+00:00"
-  },
-  {
-   "id": "2588b599a0490915",
-   "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
-   "summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
-   "date": "2026-11-23T21:30:40+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-06-23T163901Z_2116085940_RC2G8FAM4IDS_RTRMADP_3_IRAN-NUCLEAR-ENERGY-1755798951.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2025/08/2025-06-23T163901Z_2116085940_RC2G8FAM4IDS_RTRMADP_3_IRAN-NUCLEAR-ENERGY-1755798951.jpg?resize=1200%2C800",
     "w": 1200
    },
    "breaking": false,

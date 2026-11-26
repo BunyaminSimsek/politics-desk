@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T16:47:30+00:00",
+ "generatedAt": "2026-11-26T16:56:43+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,49 @@
  ],
  "items": [
   {
+   "id": "374c452a21d39225",
+   "title": "How a teen’s death raises questions about Colombia’s security crackdown",
+   "summary": "President Abelardo de la Espriella's campaign against armed groups has resulted in accusations of extrajudicial killing.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+   "date": "2026-11-26T16:49:59+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260925__C9BM766__v1__HighRes__ColombiaConflictDrugs-1795137721.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260925__C9BM766__v1__HighRes__ColombiaConflictDrugs-1795137721.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T16:56:43+00:00"
+  },
+  {
+   "id": "334f569ddc8a9641",
+   "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
+   "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+   "date": "2026-11-26T16:45:25+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration",
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: James Manning/PA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/e3b6ac9ef90ac1b1de2bc7f9894728762310b412/433_94_2992_2394/master/2992.jpg?width=700&quality=85&auto=format&fit=max&s=17302a05baa3e12514ed5f870300ab00",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:23:26+00:00"
+  },
+  {
    "id": "a1f53bfebf376d54",
    "title": "Ford, Unifor call for Canadian automakers to be exempt from GHG penalties",
    "summary": "Ontario Premier Doug Ford and Unifor National President Lana Payne said greenhouse gas emissions regulations pose “significant costs” for the Canadian auto sector.",
@@ -184,29 +227,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T16:38:16+00:00"
-  },
-  {
-   "id": "334f569ddc8a9641",
-   "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
-   "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "date": "2026-11-26T16:34:56+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration",
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: James Manning/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e3b6ac9ef90ac1b1de2bc7f9894728762310b412/433_94_2992_2394/master/2992.jpg?width=700&quality=85&auto=format&fit=max&s=17302a05baa3e12514ed5f870300ab00",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T09:23:26+00:00"
   },
   {
    "id": "5cfd9d09f87a1b32",
@@ -476,16 +496,14 @@
   },
   {
    "id": "34ecedf13eaf1daf",
-   "title": "EU leaders braced for clashes over Ukraine aid at budget talks",
-   "summary": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan to fill funding black hole caused by Russia’s relentless attacks Europe live – latest updates EU leaders are bracing for a clash over long-term financial aid for Ukraine amid an effort to…",
+   "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
+   "summary": "Slovakia, Hungary and Czechia want to opt out of €45bn Ukraine loan, as Germany tries to protect funding from possible far-right French presidency Europe live – latest updates EU leaders are bracing for a clash over long-term financial aid for Ukraine amid an…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
    "date": "2026-11-26T14:56:58+00:00",
    "topic": "europe",
    "region": "world",
-   "tags": [
-    "economy"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
     "credit": "Photograph: Sergey Kozlov/EPA",
@@ -2900,7 +2918,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -4935,7 +4953,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8271,26 +8289,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T22:41:50+00:00"
-  },
-  {
-   "id": "31d777bedd56f55a",
-   "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
-   "summary": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\"",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
-   "date": "2026-11-23T22:29:53+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3568x2379+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2Fe5%2Fe4bbb0194e2e83802bfc1e84447d%2Fgettyimages-2267401862.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3568x2379+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2Fe5%2Fe4bbb0194e2e83802bfc1e84447d%2Fgettyimages-2267401862.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T22:32:09+00:00"
   }
  ]
 }

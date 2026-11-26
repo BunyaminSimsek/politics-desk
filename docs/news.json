@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T10:18:38+00:00",
+ "generatedAt": "2026-11-26T10:27:45+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 24
   },
   {
    "source": "The Guardian",
@@ -166,12 +166,55 @@
  ],
  "items": [
   {
+   "id": "f1f8353ec43aec9a",
+   "title": "Kenya gov’t violated constitution with Ebola quarantine site, court says",
+   "summary": "Kenya's High Court orders halt to ⁠further works at quarantine facility until details of deal with US are disclosed.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss",
+   "date": "2026-11-26T10:20:05+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-EBOLA-COFFIN-1780441922.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-EBOLA-COFFIN-1780441922.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T10:27:45+00:00"
+  },
+  {
+   "id": "334f569ddc8a9641",
+   "title": "UK net migration falls to 77,000, lowest since 1997 excluding Covid pandemic – UK politics live",
+   "summary": "Net migration fell in the year ending June 2026, according to the Office for National Statistics The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler .",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+   "date": "2026-11-26T10:19:03+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "immigration",
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Andy Rain/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/f9438b12e25d0510100c2baa53822bd454f6de67/41_0_2972_2377/master/2972.jpg?width=700&quality=85&auto=format&fit=max&s=80ab4f8d554cdb604f551a0d4f803b0c",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:23:26+00:00"
+  },
+  {
    "id": "73460e6271641673",
    "title": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
    "summary": "António Costa says the next long-term budget is ‘the most important’ item on the agenda The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-   "date": "2026-11-26T10:03:17+00:00",
+   "date": "2026-11-26T10:15:32+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [
@@ -186,6 +229,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T08:55:37+00:00"
+  },
+  {
+   "id": "aeadbb081ac99591",
+   "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+   "summary": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June UK politics live – latest updates Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+   "date": "2026-11-26T10:10:03+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/5c23523ac46bb71db2d8067325e32d1261591fb5/661_0_6630_5304/master/6630.jpg?width=700&quality=85&auto=format&fit=max&s=8e5b24426a0000f1aeb9b012e60fa7ec",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Amer Ghazzal/Shutterstock"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T10:27:45+00:00"
   },
   {
    "id": "061fa5db564434f2",
@@ -288,28 +351,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T07:42:09+00:00"
-  },
-  {
-   "id": "334f569ddc8a9641",
-   "title": "UK net migration falls to 77,000, lowest since 1997 excluding Covid pandemic – UK politics live",
-   "summary": "Net migration fell in the year ending June 2026, according to the Office for National Statistics And this is how the ONS explains the fall in net migration in its report.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-   "date": "2026-11-26T09:57:13+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f9438b12e25d0510100c2baa53822bd454f6de67/41_0_2972_2377/master/2972.jpg?width=700&quality=85&auto=format&fit=max&s=80ab4f8d554cdb604f551a0d4f803b0c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T09:23:26+00:00"
   },
   {
    "id": "eefc3e346b904f22",
@@ -8260,47 +8301,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T18:19:53+00:00"
-  },
-  {
-   "id": "1a4f66fe2284b473",
-   "title": "Public service union calls on Liberals to criminalize residential school denialism",
-   "summary": "OTTAWA - The Public Service Alliance of Canada is echoing calls from Indigenous leaders for the federal government to criminalize residential school denialism.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/federal/public-service-union-calls-on-liberals-to-criminalize-residential-school-denialism/article_51976cf3-4259-5e58-95af-e82fa0e28bde.html",
-   "date": "2026-11-23T18:05:54+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 564,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/1a/31a5c3e3-30c4-56b0-9e61-c09e6e25a7c0/6b04817dc550c.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/3/1a/31a5c3e3-30c4-56b0-9e61-c09e6e25a7c0/6b04817dc550c.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T18:19:53+00:00"
-  },
-  {
-   "id": "4c187e78c80c35df",
-   "title": "U.S. army says it will detonate Iowa bomb-making material Wednesday, after court's approval",
-   "summary": "The U.S. army plans to detonate bomb-making chemicals in Iowa on Wednesday morning after getting approval from a federal appeals court in a saga that has sowed confusion and included an unusual twist from President Donald Trump.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/iowa-lead-azide-explosion-explosive-army-9.7432313?cmp=rss",
-   "date": "2026-11-23T17:52:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/4c99da99-dd28-4d0b-8d9f-fcb23dc53be0,1795441946358/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8640%2C4860%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T18:10:18+00:00"
   }
  ]
 }

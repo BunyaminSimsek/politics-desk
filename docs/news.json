@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T00:18:40+00:00",
+ "generatedAt": "2026-11-26T00:27:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-26T00:03:52+00:00",
+   "date": "2026-11-26T00:19:05+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -184,6 +184,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
+   "id": "25e0b737ebd943c1",
+   "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
+   "summary": "Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged A UN tribunal has cast doubt on the evidence used to justify the sacking of Palestinian UN aid workers in 2024, saying it was based “almost…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
+   "date": "2026-11-26T00:05:50+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Haitham Imad/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/65d32fbb43f0e7ee1a67c12068fb35f5cd6d3afb/780_0_6250_5000/master/6250.jpg?width=700&quality=85&auto=format&fit=max&s=726eabe27b529788bdc041436f62e6b1",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T18:50:53+00:00"
   },
   {
    "id": "ce3d5df3befb05f9",
@@ -219,10 +239,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T142119Z_494453788_RC22VOAYEVVA_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHI-1795644562.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T142119Z_494453788_RC22VOAYEVVA_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHI-1795644562.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T142119Z_494453788_RC22VOAYEVVA_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHI-1795644562.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T142119Z_494453788_RC22VOAYEVVA_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHI-1795644562.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T00:18:40+00:00"
@@ -955,26 +975,6 @@
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0719bca5cf-1795627452.jpg?resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0719bca5cf-1795627452.jpg?resize=1200%2C800",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T18:50:53+00:00"
-  },
-  {
-   "id": "25e0b737ebd943c1",
-   "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
-   "summary": "Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged A UN tribunal has cast doubt on the evidence used to justify the sacking of Palestinian UN aid workers in 2024, saying it was based “almost…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
-   "date": "2026-11-25T18:14:27+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Haitham Imad/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/65d32fbb43f0e7ee1a67c12068fb35f5cd6d3afb/780_0_6250_5000/master/6250.jpg?width=700&quality=85&auto=format&fit=max&s=726eabe27b529788bdc041436f62e6b1",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T18:50:53+00:00"

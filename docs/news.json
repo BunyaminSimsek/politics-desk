@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T02:56:54+00:00",
+ "generatedAt": "2026-11-26T03:06:07+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -167,23 +167,89 @@
  "items": [
   {
    "id": "c5c4622c9bda83e3",
-   "title": "Australian politics live: Blyth did not ‘feel safe’ in the Liberal party before One Nation defection; ‘coal must be replaced’, Bowen says",
+   "title": "Australian politics live: Coalition warns energy prices to cause ‘real pain’ at Christmas; Lidia Thorpe plays peekaboo with Payman’s baby in the Senate",
    "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party .",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-   "date": "2026-11-26T02:49:33+00:00",
-   "topic": "federal",
-   "region": "local",
+   "date": "2026-11-26T03:04:54+00:00",
+   "topic": "us",
+   "region": "world",
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Lukas Coch/AAP",
+    "url": "https://i.guim.co.uk/img/media/744ea0e7cacd8e479519364cae1acb6f3ad57cff/0_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=6ae4036e447bd92fb558f33af0a2b1a4",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/f6b4122a7b255425d7edaf7051f990faebedc605/489_0_6591_5273/master/6591.jpg?width=700&quality=85&auto=format&fit=max&s=62fdb3307991f7b59d3c4d01e37f4648",
-    "w": 700
+    "credit": "Photograph: Hilary Wardhaugh/Getty Images"
    },
    "breaking": false,
    "addedAt": "2026-11-25T19:56:31+00:00"
+  },
+  {
+   "id": "738443e67a1f4864",
+   "title": "US announces new tariffs on host of countries including China",
+   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T03:01:40+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "h": 676,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-25T10:37:27+00:00"
+  },
+  {
+   "id": "1866dee8bf471acc",
+   "title": "Spain’s election: the end of a leftwing icon? - podcast",
+   "summary": "Madrid correspondent Sam Jones and European community affairs correspondent Ashifa Kassam report on a pivotal election in Spain this weekend, which could see longtime PM Pedro Sánchez replaced by a conservative coalition including the far right He has become…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast",
+   "date": "2026-11-26T03:00:43+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/a4570fa84a7e3ee4aac3e257799591f91a8b2aba/175_0_6119_4896/master/6119.jpg?width=700&quality=85&auto=format&fit=max&s=e392825321c38f84bd274e1f5821e862",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Manu Fernández/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T03:06:07+00:00"
+  },
+  {
+   "id": "3b9953572b833136",
+   "title": "Coalition would privatise Melbourne’s sewage treatment while selling state-owned land and renewables to fund Victorian election promises",
+   "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+   "date": "2026-11-26T02:35:09+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=04900df8f25856c81c5d269ae57f015f",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jay Kogler/AAP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T03:06:07+00:00"
   },
   {
    "id": "ce3d5df3befb05f9",
@@ -289,28 +355,6 @@
    "addedAt": "2026-11-26T02:00:53+00:00"
   },
   {
-   "id": "738443e67a1f4864",
-   "title": "US announces new tariffs on host of countries including China",
-   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-26T01:20:14+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 676,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T10:37:27+00:00"
-  },
-  {
    "id": "383b28a60c6a2542",
    "title": "Pierre Poilievre says Alberta nurse may lose job after photo with him in Wainwright",
    "summary": "Pierre Poilievre said a nurse working on contract at the CFB Wainwright has been told she might lose her job after she was photographed speaking with him after the tragedy.",
@@ -362,9 +406,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T01:04:41+00:00"
@@ -1362,7 +1406,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -3377,7 +3421,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8263,41 +8307,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T13:22:00+00:00"
-  },
-  {
-   "id": "a643e877c3bf15fd",
-   "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
-   "summary": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-23T12:43:40+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4f67/live/f7d15990-e6fe-11f1-b302-63c5d030cf64.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T11:49:18+00:00"
-  },
-  {
-   "id": "97e4769547f8d05e",
-   "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-   "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
-   "date": "2026-11-23T12:42:03+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
-   "breaking": false,
-   "addedAt": "2026-11-23T12:44:24+00:00"
   }
  ]
 }

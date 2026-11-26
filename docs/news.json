@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T08:55:37+00:00",
+ "generatedAt": "2026-11-26T09:04:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,13 +11,13 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "Global News",
@@ -166,6 +166,65 @@
  ],
  "items": [
   {
+   "id": "71db611522e36b34",
+   "title": "What's at stake as Canada's top court ruling on Quebec secularism law looms",
+   "summary": "Ahead of Friday's highly anticipated Supreme Court of Canada ruling on Quebec's controversial secularism law, which bars some public sector workers from wearing religious symbols on the job, there is optimism on both sides of the debate.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/canada/montreal/supreme-court-bill-21-quebec-9.7436487?cmp=rss",
+   "date": "2026-11-26T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/1.2134333,1384283005000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:04:47+00:00"
+  },
+  {
+   "id": "d3299deac1d7d642",
+   "title": "TTC boss facing internal battles over attempts to push major reorganization of agency",
+   "summary": "A massive reorganization of the Toronto Transit Commission by new CEO Mandeep Lali is facing internal criticism and outright resistance, sources tell CBC News, adding that he has not created the political relationships to ensure his ambitious vision will be…",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/mandeep-lali-ttc-internal-changes-battle-9.7436187?cmp=rss",
+   "date": "2026-11-26T09:00:00+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/3d03312a-a46c-41ef-8534-b41d0e8637e1,1795643632803/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:04:47+00:00"
+  },
+  {
+   "id": "de179ebb598655ae",
+   "title": "Where big U.S. unions stand on Trump's Canada tariffs",
+   "summary": "While U.S. President Donald Trump insists his tariffs will bring a boom in factory jobs, the unions who represent hundreds of thousands of manufacturing workers are largely skeptical of his approach.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/trump-tariffs-canada-unions-auto-steel-uaw-usw-afl-cio-9.7435501?cmp=rss",
+   "date": "2026-11-26T09:00:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/abc5fad2-28e9-4064-ade1-00728ace559f,1795629563989/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C262%2C4176%2C2349%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T09:04:47+00:00"
+  },
+  {
    "id": "73460e6271641673",
    "title": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
    "summary": "António Costa says the next long-term budget is ‘the most important’ item on the agenda Sweden’s Ulf Kristersson suggested the talks could even go beyond December and into 2027, as with the budget kicking in only in 2028, “we aren’t in that hurry.”",
@@ -179,10 +238,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/e4a3c5ba3209c8466a0d4365584dbb1e5a803933/697_0_4946_3959/master/4946.jpg?width=700&quality=85&auto=format&fit=max&s=0a6b6542bcb217bdf348d8347f54248d",
-    "w": 700,
+    "credit": "Photograph: Marius Burgelman/AP",
     "h": 560,
-    "credit": "Photograph: Marius Burgelman/AP"
+    "url": "https://i.guim.co.uk/img/media/e4a3c5ba3209c8466a0d4365584dbb1e5a803933/697_0_4946_3959/master/4946.jpg?width=700&quality=85&auto=format&fit=max&s=0a6b6542bcb217bdf348d8347f54248d",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T08:55:37+00:00"
@@ -8258,66 +8317,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:55:47+00:00"
-  },
-  {
-   "id": "da788539792612c3",
-   "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
-   "summary": "Israel continues to launch attacks across the enclave, despite an October 2025 'ceasefire' deal.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss",
-   "date": "2026-11-23T16:36:22+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26267592693269-1790451525.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26267592693269-1790451525.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:55:47+00:00"
-  },
-  {
-   "id": "62ee797c7eee5477",
-   "title": "Navdeep Bains vows united front at Queen’s Park after narrow Liberal leadership win",
-   "summary": "Bains has a long road ahead of him if he wants to challenge the Ford government in the next election, which could be as far away as 2030.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12162363/navdeep-bains-vows-united-front-at-queens-park-after-narrow-liberal-leadership-win/",
-   "date": "2026-11-23T16:24:32+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP177314704.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP177314704.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:27:26+00:00"
-  },
-  {
-   "id": "56b22a9072be08e1",
-   "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
-   "summary": "Russia has reacted with fury to Ukraine's continued campaign targeting its naval and merchant shipping.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
-   "date": "2026-11-23T16:23:33+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0346590eba8-1795376729.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0346590eba8-1795376729.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-23T16:46:25+00:00"
   }
  ]
 }

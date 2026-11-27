@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T11:13:20+00:00",
+ "generatedAt": "2026-11-27T11:22:25+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "842f86a525430e00",
+   "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
+   "summary": "The department is working with cyber security experts to restore services and limit disruption According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+   "date": "2026-11-27T11:14:10+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Russell Hart/Alamy",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:22:34+00:00"
+  },
+  {
+   "id": "827e09c0f850db6b",
+   "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
+   "summary": "Department for Work and Pensions officials say welfare payments will continue to be made despite huge outage UK politics live – latest updates Almost all pensions and benefits systems in the UK are unavailable following a “cyber incident”.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
+   "date": "2026-11-27T11:14:02+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/0d82e1461d1d579ccc389c5c6840749137a2819f/342_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=83219258c3d9ec91bad787de29a4dc44",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Yui Mok/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T11:22:25+00:00"
+  },
   {
    "id": "9684117993f2c556",
    "title": "Canada can help strengthen democracy in the Western Balkans",
@@ -250,7 +290,7 @@
   {
    "id": "5d8d21b0040265ca",
    "title": "Canada's top court to rule on Quebec's ban on wearing religious symbols",
-   "summary": "Canada's Supreme Court is about to release its decision on a controversial secularism law in Quebec - and the ruling will have an impact nationwide.",
+   "summary": "Legal experts say the outcome will have an impact on much more than religious expression in the country.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c78j8vk3r50o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-27T10:37:42+00:00",
@@ -266,26 +306,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T10:45:33+00:00"
-  },
-  {
-   "id": "842f86a525430e00",
-   "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
-   "summary": "The department is working with cyber security experts to restore services and limit disruption Tory MP Neil Shastri-Hurst has also commented on the disruption at the DWP, saying the incident highlights the importance of protecting essential public services…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "date": "2026-11-27T10:37:39+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Russell Hart/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:22:34+00:00"
   },
   {
    "id": "a434418f2a9f3e18",
@@ -8289,28 +8309,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T15:28:36+00:00"
-  },
-  {
-   "id": "3a3b31114f7f0a3a",
-   "title": "How the Iran war is reshaping the US military presence in the Middle East",
-   "summary": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss",
-   "date": "2026-11-24T15:10:29+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb12016e6c-1794839041.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb12016e6c-1794839041.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T15:39:40+00:00"
   }
  ]
 }

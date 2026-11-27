@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T16:49:59+00:00",
+ "generatedAt": "2026-11-27T16:59:07+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "52fed062ded63d7b",
+   "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+   "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T16:53:46+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T15:05:14+00:00"
+  },
+  {
+   "id": "e5e6ff6ee2ee1246",
+   "title": "Jared Kushner’s 70-minute interview shows the peril of treating Putin like a corporate rival",
+   "summary": "Trump’s son-in-law and top negotiator paints Russian invasion of Ukraine as a misunderstanding to be resolved In the space of a 70-minute interview, Jared Kushner – Donald Trump’s son-in-law and a prominent US negotiator in Russia, Gaza and Iran – probably…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
+   "date": "2026-11-27T16:49:59+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/2982dd4242ca828d413c2bc16a208c6b356eb841/401_0_5492_4392/master/5492.jpg?width=700&quality=85&auto=format&fit=max&s=3c57993d0c5ea26faf34cb12140c76f5",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T16:59:07+00:00"
+  },
+  {
    "id": "842f86a525430e00",
    "title": "UK pensions department hit by ‘serious cyber incident’, minister says – as it happened",
    "summary": "This blog is now closed, you can read more on this story here According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about 8am this morning.",
@@ -197,10 +237,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KZ93E__v1__HighRes__IsraelPoliticsParliament-1795794655.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KZ93E__v1__HighRes__IsraelPoliticsParliament-1795794655.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KZ93E__v1__HighRes__IsraelPoliticsParliament-1795794655.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KZ93E__v1__HighRes__IsraelPoliticsParliament-1795794655.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T16:49:59+00:00"
@@ -368,26 +408,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T15:52:09+00:00"
-  },
-  {
-   "id": "52fed062ded63d7b",
-   "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-   "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-27T15:38:13+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T15:05:14+00:00"
   },
   {
    "id": "0725de7ae36f1c2c",
@@ -8293,29 +8313,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T19:04:41+00:00"
-  },
-  {
-   "id": "d544447616d6986b",
-   "title": "McGuinty says he can't explain Pentagon's criticism of Canada's defence spending",
-   "summary": "Last week, U.S. Defense Secretary Pete Hegseth issued a classified memo imposing restrictions on military co-operation with Canada on think-tanks and socializing.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/mcguinty-says-he-can-t-explain-pentagon-s-criticism-of-canada-s-defence-spending/article_2da425da-9d79-5ba9-9396-81a15465521d.html",
-   "date": "2026-11-24T18:38:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy",
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/14/1141bc28-0e50-5bed-9a59-1b0330d3fe22/6b05da0510977.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/14/1141bc28-0e50-5bed-9a59-1b0330d3fe22/6b05da0510977.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T18:55:09+00:00"
   }
  ]
 }

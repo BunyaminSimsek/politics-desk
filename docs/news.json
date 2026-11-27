@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T00:37:06+00:00",
+ "generatedAt": "2026-11-27T00:46:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "eaa93c4fcb829692",
+   "title": "Argentina bars Central Bank from printing money to fund government spending",
+   "summary": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+   "date": "2026-11-27T00:11:16+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08cb01-1795738369.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08cb01-1795738369.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T00:46:47+00:00"
+  },
   {
    "id": "00ac703f73d8f456",
    "title": "Advisory council to issue antisemitism report as Jewish groups call out campus hate",
@@ -395,9 +417,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/5c3153f2-b06f-4c92-bff7-3fd273277f6e,1795731370006/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6941%2C3904%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/5c3153f2-b06f-4c92-bff7-3fd273277f6e,1795731370006/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6941%2C3904%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T22:34:47+00:00"
@@ -476,10 +498,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/7c233d5a70f62ffe7696a2a33f2be6960a88e27a/58_0_884_707/master/884.jpg?width=700&quality=85&auto=format&fit=max&s=f40aa8f722ebba3e6ca20a4da6a5fc33",
-    "w": 700,
+    "credit": "Illustration: AFAC",
     "h": 560,
-    "credit": "Illustration: AFAC"
+    "url": "https://i.guim.co.uk/img/media/7c233d5a70f62ffe7696a2a33f2be6960a88e27a/58_0_884_707/master/884.jpg?width=700&quality=85&auto=format&fit=max&s=f40aa8f722ebba3e6ca20a4da6a5fc33",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-26T21:38:25+00:00"
@@ -598,9 +620,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/83a10ccf-6789-4710-9a92-6039b64f8950,1795723434723/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C21%2C4800%2C2700%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/83a10ccf-6789-4710-9a92-6039b64f8950,1795723434723/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C21%2C4800%2C2700%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T20:41:50+00:00"
@@ -8265,28 +8287,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T10:14:29+00:00"
-  },
-  {
-   "id": "5fa040174b8f0860",
-   "title": "Watch: Moment troops raid home and capture Mexican drug lord",
-   "summary": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T09:09:41+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3d08/live/65108220-e7df-11f1-a094-5fdc692f3e33.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3d08/live/65108220-e7df-11f1-a094-5fdc692f3e33.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T12:14:31+00:00"
   }
  ]
 }

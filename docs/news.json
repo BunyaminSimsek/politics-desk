@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T07:05:07+00:00",
+ "generatedAt": "2026-11-27T07:14:13+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "5848cd0e3fb32955",
+   "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
+   "summary": "Body urged Bristol city council to reject plan because of risk to nearby protected wildlife and habitats Natural England objected to the building of a large AI datacentre near Bristol weeks before the government threatened to abolish the independent…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
+   "date": "2026-11-27T07:00:57+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b5748b57a64addd2c5bb997a92af840adb787b60/1358_0_4536_3629/master/4536.jpg?width=700&quality=85&auto=format&fit=max&s=2c808040d6f23aa60079f617fb384628",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: John Bracegirdle/Alamy"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T07:14:13+00:00"
+  },
   {
    "id": "0c53a608fd8303b5",
    "title": "Could housing decide Spain's general election?",
@@ -1937,10 +1957,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3a8a/live/bc4d6fb0-ea2f-11f1-b33b-b39c81e690e4.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3a8a/live/bc4d6fb0-ea2f-11f1-b33b-b39c81e690e4.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/3a8a/live/bc4d6fb0-ea2f-11f1-b33b-b39c81e690e4.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/3a8a/live/bc4d6fb0-ea2f-11f1-b33b-b39c81e690e4.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T15:23:46+00:00"
@@ -8285,26 +8305,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T12:32:57+00:00"
-  },
-  {
-   "id": "5a43e29240e6cbcb",
-   "title": "China walks ‘thin line’ in push to prevent another Horn of Africa war",
-   "summary": "Beijing has escalated diplomatic efforts to ease tensions involving Egypt, Ethiopia, Eritrea and Djibouti.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/china-walks-thin-line-in-push-to-prevent-another-horn-of-africa-war?traffic_source=rss",
-   "date": "2026-11-24T12:18:44+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-587232376-1795524917.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-587232376-1795524917.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T13:28:49+00:00"
   }
  ]
 }

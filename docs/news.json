@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T19:01:49+00:00",
+ "generatedAt": "2026-11-27T19:10:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "c0de59e5fc793775",
+   "title": "Government reveals contractor shortlist for 24 Sussex overhaul",
+   "summary": "The federal government has made a shortlist of seven contractors it is considering to renovate 24 Sussex Drive into a habitable residence once again.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/contractor-shortlist-24-sussex-renovation-9.7439108?cmp=rss",
+   "date": "2026-11-27T18:57:58+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/9e507151-5853-4649-a50a-12ceb7e0d86c,1795804436036/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5765%2C3242%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T19:10:55+00:00"
+  },
+  {
    "id": "5f291dd900c5d899",
    "title": "Seven teams chosen for 24 Sussex Drive design competition",
    "summary": "OTTAWA - The federal government says seven teams have been selected to take part in a design competition to restore the prime minister’s official residence at 24 Sussex Drive in Ottawa.",
@@ -177,10 +196,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/11/c11ac208-bce1-525f-b664-80c4cecd20e9/6b09d0dd64c32.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/11/c11ac208-bce1-525f-b664-80c4cecd20e9/6b09d0dd64c32.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/11/c11ac208-bce1-525f-b664-80c4cecd20e9/6b09d0dd64c32.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/11/c11ac208-bce1-525f-b664-80c4cecd20e9/6b09d0dd64c32.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T19:01:49+00:00"
@@ -330,14 +349,15 @@
   },
   {
    "id": "067d5b72ffc43d1d",
-   "title": "Kyiv offers Black Sea ceasefire, as Putin expands Russia’s navy",
-   "summary": "Ukraine awaits Moscow’s response to Black Sea ceasefire proposal as Zelenskyy criticises Trump’s Putin ‘friendship’",
+   "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+   "summary": "The proposal comes as President Zelenskyy criticises Trump’s ‘friendship’ with Putin.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
    "date": "2026-11-27T17:44:33+00:00",
    "topic": "ukraine",
    "region": "world",
    "tags": [
+    "trade",
     "defence"
    ],
    "kind": "news",
@@ -373,7 +393,7 @@
   {
    "id": "ecabf2f51c7c6d49",
    "title": "Zelenskyy criticizes Trump for cozying up to Putin as EU kicks Ukraine funding down the road",
-   "summary": "Ukrainian President Volodymyr Zelenskyy criticized Donald Trump for cozying up to Russian President Vladimir Putin, delaying delivery of promised Patriot missiles and not paying enough attention to the Ukraine war in an interview with the BBC in Kyiv that…",
+   "summary": "Ukrainian President Volodymyr Zelenskyy criticized Donald Trump for cozying up to Russian President Vladimir Putin, delaying delivery of promised Patriot missiles and not paying enough attention to the Ukraine war in an interview with the BBC that aired just…",
    "source": "CBC World",
    "url": "https://www.cbc.ca/news/world/zelensky-eu-ukraine-funding-9.7438377?cmp=rss",
    "date": "2026-11-27T17:41:21+00:00",
@@ -8296,26 +8316,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T21:43:03+00:00"
-  },
-  {
-   "id": "c88fba62507e3781",
-   "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
-   "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
-   "date": "2026-11-24T21:04:50+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 801,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8653x5778+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F69%2F254506e448c3a4c127d69855afd2%2Fgettyimages-2240325065.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8653x5778+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2F69%2F254506e448c3a4c127d69855afd2%2Fgettyimages-2240325065.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T21:15:02+00:00"
   }
  ]
 }

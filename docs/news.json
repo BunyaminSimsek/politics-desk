@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T15:42:28+00:00",
+ "generatedAt": "2026-11-27T15:52:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "c950a2b9e8d7850e",
+   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
+   "summary": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+   "date": "2026-11-27T15:45:14+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Burak Akbulut/Anadolu/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=700&quality=85&auto=format&fit=max&s=569014a834ba8b37c746829481e3fe2f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:59:32+00:00"
+  },
+  {
+   "id": "1b530eb88d9e98fa",
+   "title": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+   "summary": "Norwegian airline tells customers not to come to airports after surging fuel costs caused by Iran war ruin finances Norse Atlantic Airways has filed for bankruptcy and cancelled all future flights after surging fuel costs caused by the Iran war ruined its…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
+   "date": "2026-11-27T15:40:35+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e1f07f0b2a8329b3e1557eed373d0458f8cb7e9a/71_0_3289_2633/master/3289.jpg?width=700&quality=85&auto=format&fit=max&s=1452f35dc1b0df01c30cb7af1a6eb5d5",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T15:52:09+00:00"
+  },
+  {
    "id": "52fed062ded63d7b",
    "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
    "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
@@ -219,9 +261,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/116c305a-4868-412c-90d4-6e36f6237303,1731432895567/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/116c305a-4868-412c-90d4-6e36f6237303,1731432895567/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T15:42:28+00:00"
@@ -247,28 +289,6 @@
    "addedAt": "2026-11-27T09:22:34+00:00"
   },
   {
-   "id": "c950a2b9e8d7850e",
-   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
-   "summary": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
-   "date": "2026-11-27T15:27:48+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Burak Akbulut/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=700&quality=85&auto=format&fit=max&s=569014a834ba8b37c746829481e3fe2f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:59:32+00:00"
-  },
-  {
    "id": "d204477ff4303b14",
    "title": "Newly released documents suggest CIA did more post-9/11 waterboarding than previously acknowledged",
    "summary": "Declassified documents appear to support belief that waterboarding was more common and may have occurred beyond two acknowledged sites Newly released documents suggest that the CIA waterboarded more detainees during the post-9/11 “war on terror” than…",
@@ -280,10 +300,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/80213e3954d6559b30c1979cfd498b1af765aadf/196_0_1942_1554/master/1942.jpg?width=700&quality=85&auto=format&fit=max&s=4b1ee59cb5efea52ddf9ad429aba8fe4",
-    "w": 700,
+    "credit": "Photograph: REUTERS",
     "h": 560,
-    "credit": "Photograph: REUTERS"
+    "url": "https://i.guim.co.uk/img/media/80213e3954d6559b30c1979cfd498b1af765aadf/196_0_1942_1554/master/1942.jpg?width=700&quality=85&auto=format&fit=max&s=4b1ee59cb5efea52ddf9ad429aba8fe4",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-27T15:42:28+00:00"
@@ -493,7 +513,7 @@
   },
   {
    "id": "a72e7111a1b9a786",
-   "title": "Supreme Court of Canada upholds Quebec’s controversial secularism law, with 1 exception",
+   "title": "Muslim, school groups decry Supreme Court's decision to largely uphold Quebec's controversial secularism law",
    "summary": "",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/canada/montreal/livestory/quebec-bill-21-supreme-court-of-canada-ruling-9.7434446?cmp=rss",
@@ -1513,9 +1533,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/53b1f28e-72b1-4e3b-bc2d-405a0178aa23,1795750660777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C4240%2C2385%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/53b1f28e-72b1-4e3b-bc2d-405a0178aa23,1795750660777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C4240%2C2385%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-27T13:49:56+00:00"
@@ -1841,9 +1861,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/e5b456e4-68b6-49b0-9947-23827e35e0f7,1795735394563/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C6221%2C3499%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/e5b456e4-68b6-49b0-9947-23827e35e0f7,1795735394563/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C6221%2C3499%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-27T13:49:56+00:00"
@@ -8293,26 +8313,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:22:24+00:00"
-  },
-  {
-   "id": "cc716434d1ad9859",
-   "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-   "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T18:07:46+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T05:48:37+00:00"
   }
  ]
 }

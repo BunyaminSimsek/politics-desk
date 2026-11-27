@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T00:28:04+00:00",
+ "generatedAt": "2026-11-27T00:37:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -395,9 +395,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/5c3153f2-b06f-4c92-bff7-3fd273277f6e,1795731370006/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6941%2C3904%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/5c3153f2-b06f-4c92-bff7-3fd273277f6e,1795731370006/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6941%2C3904%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T22:34:47+00:00"
@@ -476,10 +476,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "credit": "Photograph: Tasmania Fire Service",
+    "url": "https://i.guim.co.uk/img/media/7c233d5a70f62ffe7696a2a33f2be6960a88e27a/58_0_884_707/master/884.jpg?width=700&quality=85&auto=format&fit=max&s=f40aa8f722ebba3e6ca20a4da6a5fc33",
+    "w": 700,
     "h": 560,
-    "url": "https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/0_0_805_644/master/805.jpg?width=700&quality=85&auto=format&fit=max&s=e0383365d1a9fc3bb293dc8d10d75716",
-    "w": 700
+    "credit": "Illustration: AFAC"
    },
    "breaking": false,
    "addedAt": "2026-11-26T21:38:25+00:00"

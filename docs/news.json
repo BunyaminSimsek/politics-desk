@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T16:40:50+00:00",
+ "generatedAt": "2026-11-27T16:49:59+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "CTV News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -184,6 +184,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:22:34+00:00"
+  },
+  {
+   "id": "912defdd24a7dbfa",
+   "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+   "summary": "Yashar party chief says Likud wants to drag Israel into another election under the outgoing government.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
+   "date": "2026-11-27T16:33:21+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KZ93E__v1__HighRes__IsraelPoliticsParliament-1795794655.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KZ93E__v1__HighRes__IsraelPoliticsParliament-1795794655.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T16:49:59+00:00"
   },
   {
    "id": "c950a2b9e8d7850e",
@@ -376,7 +396,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -2995,7 +3015,7 @@
    "id": "a1f53bfebf376d54",
    "title": "Ford, Unifor call for Canadian automakers to be exempt from GHG penalties",
    "summary": "Ontario Premier Doug Ford and Unifor National President Lana Payne said greenhouse gas emissions regulations pose “significant costs” for the Canadian auto sector.",
-   "source": "Global News Toronto",
+   "source": "Global News",
    "url": "https://globalnews.ca/news/12167337/calls-to-scrap-federal-ghg-rules-automakers/",
    "date": "2026-11-26T16:35:40+00:00",
    "topic": "ontario",
@@ -5619,7 +5639,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7654,7 +7674,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8296,26 +8316,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T18:55:09+00:00"
-  },
-  {
-   "id": "71dbe78d194b6187",
-   "title": "Transport minister defends new land seizure powers proposed for high-speed rail",
-   "summary": "Transport Minister Steven MacKinnon is pushing back against criticism of new land seizure powers proposed for a high-speed rail project between Toronto and Quebec City.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12164356/transport-minister-defends-new-land-seizure-powers-proposed-for-high-speed-rail/",
-   "date": "2026-11-24T18:35:31+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/1ecd04c2a6d713571574d19f6c0a8567cfe34c6f704a6ae6ca2a56ad8f288b49.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/1ecd04c2a6d713571574d19f6c0a8567cfe34c6f704a6ae6ca2a56ad8f288b49.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T18:36:03+00:00"
   }
  ]
 }

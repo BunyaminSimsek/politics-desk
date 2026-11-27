@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T16:30:14+00:00",
+ "generatedAt": "2026-11-27T16:40:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,9 +166,29 @@
  ],
  "items": [
   {
+   "id": "842f86a525430e00",
+   "title": "UK pensions department hit by ‘serious cyber incident’, minister says – as it happened",
+   "summary": "This blog is now closed, you can read more on this story here According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about 8am this morning.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+   "date": "2026-11-27T16:33:28+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Russell Hart/Alamy",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:22:34+00:00"
+  },
+  {
    "id": "c950a2b9e8d7850e",
-   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
-   "summary": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war…",
+   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
+   "summary": "This blog is now closed Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war rhetoric towards the…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
    "date": "2026-11-27T16:19:50+00:00",
@@ -186,26 +206,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:59:32+00:00"
-  },
-  {
-   "id": "842f86a525430e00",
-   "title": "UK pensions department hit by ‘serious cyber incident’, minister says – UK politics live",
-   "summary": "Pat McFadden says the government doesn’t believe any personal data has been compromised Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "date": "2026-11-27T16:13:52+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Russell Hart/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:22:34+00:00"
   },
   {
    "id": "257fc92f92fb1a23",
@@ -301,10 +301,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/bbdd7d495d57e8223070f0d163c45a8bda076516/168_0_4943_3956/master/4943.jpg?width=700&quality=85&auto=format&fit=max&s=6b57a6d3d8bfc1345805b590a7d13a70",
-    "w": 700,
+    "credit": "Photograph: Centrica Media Library",
     "h": 560,
-    "credit": "Photograph: Centrica Media Library"
+    "url": "https://i.guim.co.uk/img/media/bbdd7d495d57e8223070f0d163c45a8bda076516/168_0_4943_3956/master/4943.jpg?width=700&quality=85&auto=format&fit=max&s=6b57a6d3d8bfc1345805b590a7d13a70",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-27T15:14:21+00:00"
@@ -376,7 +376,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "defence"
@@ -790,9 +790,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.6831073,1702415985000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C36%2C3877%2C2180%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.6831073,1702415985000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C36%2C3877%2C2180%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T12:26:37+00:00"
@@ -5619,7 +5619,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7654,7 +7654,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

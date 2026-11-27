@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T10:45:33+00:00",
+ "generatedAt": "2026-11-27T10:54:49+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 9
+   "kept": 12
   },
   {
    "source": "BBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "d1c4fb1f29a3fdf6",
+   "title": "Israeli justice system at tipping point as judges call for end to Netanyahu trial",
+   "summary": "Dropping of corruption charges against PM after highly unusual intervention could set damaging precedent The Israeli judges presiding over Benjamin Netanyahu’s corruption trial have called on prosecutors to end proceedings, a highly unusual intervention that…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges",
+   "date": "2026-11-27T10:48:29+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/4b6175712949d01a8b832dc4670e3721e65a6c17/221_138_2799_2239/master/2799.jpg?width=700&quality=85&auto=format&fit=max&s=8f29209c13989a3009f726f2cc143bfc",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Ronen Zvulun/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T10:54:49+00:00"
+  },
+  {
    "id": "9120d65b28a9dc18",
    "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
    "summary": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
@@ -179,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T10:45:33+00:00"
@@ -199,13 +219,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a118/live/c2a998b0-e823-11f1-a58d-43263bea41a8.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a118/live/c2a998b0-e823-11f1-a58d-43263bea41a8.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a118/live/c2a998b0-e823-11f1-a58d-43263bea41a8.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a118/live/c2a998b0-e823-11f1-a58d-43263bea41a8.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T10:45:33+00:00"
+  },
+  {
+   "id": "842f86a525430e00",
+   "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
+   "summary": "The department is working with cyber security experts to restore services and limit disruption Tory MP Neil Shastri-Hurst has also commented on the disruption at the DWP, saying the incident highlights the importance of protecting essential public services…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+   "date": "2026-11-27T10:37:39+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Russell Hart/Alamy",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:22:34+00:00"
   },
   {
    "id": "a434418f2a9f3e18",
@@ -246,26 +286,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:59:32+00:00"
-  },
-  {
-   "id": "842f86a525430e00",
-   "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
-   "summary": "The department is working with cyber security experts to restore services and limit disruption Online portals for services including universal credit, personal independence payment (PIP) applications, the pension credit checker and the “Tell Us Once”…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "date": "2026-11-27T10:26:57+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Russell Hart/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:22:34+00:00"
   },
   {
    "id": "8852bb397a39d166",
@@ -767,6 +787,26 @@
    "addedAt": "2026-11-27T06:19:16+00:00"
   },
   {
+   "id": "a66cd13cf5eafbdd",
+   "title": "Venezuela to scrap law that bars opposition from public office",
+   "summary": "The legislation has been criticised for enabling political persecution since it was introduced two years ago.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T05:35:10+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6616/live/f53c94f0-ea1f-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6616/live/f53c94f0-ea1f-11f1-99a1-253766e7ad8b.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T10:54:49+00:00"
+  },
+  {
    "id": "48d240513d08da0d",
    "title": "Race hate exploded in this Spanish town last year. Now its residents are bracing for more",
    "summary": "Torre-Pacheco’s diverse communities are fearful that the far-right Vox party will enter government after Sunday’s election Sitting on a park bench, taking in the sunny day, Naima reflected on all that had seemingly changed since she moved to Spain three…",
@@ -834,7 +874,7 @@
    "summary": "WHITEHORSE - The federal government has named the Whitehorse Power Centres as a project of national interest.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/yukon/ottawa-deems-whitehorse-power-centres-project-of-national-interest/article_6b216757-d3c2-5800-8189-67f226c058ee.html",
-   "date": "2026-11-27T03:45:29+00:00",
+   "date": "2026-11-27T03:45:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -8271,46 +8311,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T15:19:29+00:00"
-  },
-  {
-   "id": "01187f50d9d08d55",
-   "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
-   "summary": "Court of Arbitration for Sport rules in Senegal's favour over the controversial final in January.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss",
-   "date": "2026-11-24T14:35:56+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26205466660091-1784900958.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/07/AP26205466660091-1784900958.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T15:10:14+00:00"
-  },
-  {
-   "id": "920dd20d606cd523",
-   "title": "Saudi-led coalition condemns ‘terrorist attack’ on tower in Riyadh",
-   "summary": "The Saudi-led coalition says building in financial district targeted, marking second time in a week.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
-   "date": "2026-11-24T14:27:38+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff7b0d-1795128077.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff7b0d-1795128077.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T15:10:14+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T00:46:47+00:00",
+ "generatedAt": "2026-11-27T00:56:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "BBC News",
@@ -65,7 +65,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "Al Jazeera",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "0465599bc4f2cbbf",
+   "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+   "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T00:47:43+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T00:56:26+00:00"
+  },
+  {
    "id": "eaa93c4fcb829692",
    "title": "Argentina bars Central Bank from printing money to fund government spending",
    "summary": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
@@ -179,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08cb01-1795738369.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08cb01-1795738369.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08cb01-1795738369.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08cb01-1795738369.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T00:46:47+00:00"
@@ -246,6 +266,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T00:09:25+00:00"
+  },
+  {
+   "id": "09c48c51a87270f2",
+   "title": "Supreme Court set to rule on Quebec secularism law in landmark Charter case",
+   "summary": "The Supreme Court is set to rule on Quebec’s secularism law in a landmark case that could reshape how governments use the notwithstanding clause.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12168107/supreme-court-quebec-bill-21-charter-ruling/",
+   "date": "2026-11-26T23:48:19+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/981160b708b1126ee812308e267f71eb73c515c434fcd81b21c36c99a34525e2_78c416.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 691,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/981160b708b1126ee812308e267f71eb73c515c434fcd81b21c36c99a34525e2_78c416.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T00:56:26+00:00"
   },
   {
    "id": "dec9084abf8da539",
@@ -620,9 +660,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/83a10ccf-6789-4710-9a92-6039b64f8950,1795723434723/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C21%2C4800%2C2700%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/83a10ccf-6789-4710-9a92-6039b64f8950,1795723434723/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C21%2C4800%2C2700%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T20:41:50+00:00"
@@ -8247,46 +8287,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-23T16:55:47+00:00"
-  },
-  {
-   "id": "a7e708022f287f69",
-   "title": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
-   "summary": "Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation",
-   "date": "2026-11-24T10:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F27%2Ffa34b3e8414fb6ab4f04c32a76b2%2Fgettyimages-2294598329.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2688+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F27%2Ffa34b3e8414fb6ab4f04c32a76b2%2Fgettyimages-2294598329.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T10:14:29+00:00"
-  },
-  {
-   "id": "56b318040a52f9c8",
-   "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
-   "summary": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
-   "date": "2026-11-24T10:00:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4258x2839+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F45%2F2eafdbfd4aefb6a733414c644e5d%2Fgettyimages-2280478542.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4258x2839+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F45%2F2eafdbfd4aefb6a733414c644e5d%2Fgettyimages-2280478542.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T10:14:29+00:00"
   }
  ]
 }

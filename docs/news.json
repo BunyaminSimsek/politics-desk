@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T06:10:04+00:00",
+ "generatedAt": "2026-11-27T06:19:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,13 +177,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9d8fe4e1e133840150c64308612a6fd47bd62fb1/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=91ce86e5008e3f7a3dbc9e5ae5153769",
-    "w": 700,
+    "credit": "Photograph: Alamy Live News.",
     "h": 560,
-    "credit": "Photograph: Alamy Live News."
+    "url": "https://i.guim.co.uk/img/media/9d8fe4e1e133840150c64308612a6fd47bd62fb1/683_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=91ce86e5008e3f7a3dbc9e5ae5153769",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-27T06:10:04+00:00"
+  },
+  {
+   "id": "39f8b8f198ccf311",
+   "title": "Spain’s 2026 election explained in maps and charts",
+   "summary": "Spaniards vote on November 29 in a snap general election. Here is how the system works, the parties and the key issues.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss",
+   "date": "2026-11-27T05:57:37+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "analysis",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Artboard-1-1795025459.png?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Artboard-1-1795025459.png?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T06:19:16+00:00"
   },
   {
    "id": "48d240513d08da0d",
@@ -8278,21 +8300,6 @@
     "url": "https://i.guim.co.uk/img/media/a7eaf894846e2d78f6440d72b865592eba82986e/30_0_2838_2270/master/2838.jpg?width=700&quality=85&auto=format&fit=max&s=8a1c8cc4f2b5f2e053ed449648b8245d",
     "w": 700
    },
-   "breaking": false,
-   "addedAt": "2026-11-24T12:23:45+00:00"
-  },
-  {
-   "id": "a64217797322f4ae",
-   "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-   "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
-   "date": "2026-11-24T12:12:25+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": null,
    "breaking": false,
    "addedAt": "2026-11-24T12:23:45+00:00"
   }

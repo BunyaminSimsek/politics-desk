@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T14:37:12+00:00",
+ "generatedAt": "2026-11-27T14:46:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "7cb008289af4a975",
+   "title": "European author Giuliano da Empoli explores Silicon Valley's pursuit of power",
+   "summary": "MONTREAL - When a former political adviser enters the inner circle of one of the world's most powerful and secretive technology entrepreneurs, he discovers that the rules of political power have changed.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/european-author-giuliano-da-empoli-explores-silicon-valley-s-pursuit-of-power/article_34425893-3000-5c8b-963a-5c7eae21836f.html",
+   "date": "2026-11-27T14:32:14+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/32/f329a6ae-c8cc-5cb6-a86b-db7299cd6fa9/6b09952fa741a.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 894,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/32/f329a6ae-c8cc-5cb6-a86b-db7299cd6fa9/6b09952fa741a.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T14:46:55+00:00"
+  },
+  {
    "id": "30970aa730cb7e26",
    "title": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
    "summary": "Costa Rica is under pressure over its decision to bar the UN expert who has documented Israel's genocidal war on Gaza.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-03-24T091407Z_414780193_RC2WAKAPHKHD_RTRMADP_3_ISRAEL-PALESTINIANS-UN-EXPERT-1788881286.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-03-24T091407Z_414780193_RC2WAKAPHKHD_RTRMADP_3_ISRAEL-PALESTINIANS-UN-EXPERT-1788881286.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-03-24T091407Z_414780193_RC2WAKAPHKHD_RTRMADP_3_ISRAEL-PALESTINIANS-UN-EXPERT-1788881286.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-03-24T091407Z_414780193_RC2WAKAPHKHD_RTRMADP_3_ISRAEL-PALESTINIANS-UN-EXPERT-1788881286.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T14:37:12+00:00"
@@ -209,8 +229,8 @@
   },
   {
    "id": "842f86a525430e00",
-   "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
-   "summary": "The department is working with cyber security experts to restore services and limit disruption Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government…",
+   "title": "UK pensions department hit by ‘serious cyber incident’, minister says – UK politics live",
+   "summary": "Pat McFadden says the government doesn’t believe any personal data has been compromised Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
    "date": "2026-11-27T14:01:55+00:00",
@@ -312,7 +332,7 @@
   },
   {
    "id": "108060cc5eaa8bba",
-   "title": "UK’s taste for cow’s milk fades as sales hit record low",
+   "title": "UK’s taste for cow’s milk sours as sales hit record low",
    "summary": "Environmental and animal welfare concerns, and taste preferences, are behind rising popularity of vegan alternatives Has milk gotta lotta bottle?",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond",
@@ -5337,7 +5357,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7372,7 +7392,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8293,26 +8313,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:31:33+00:00"
-  },
-  {
-   "id": "90cb716fe84d746b",
-   "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
-   "summary": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T17:16:09+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T14:33:22+00:00"
   }
  ]
 }

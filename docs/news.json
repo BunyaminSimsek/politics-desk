@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T09:13:24+00:00",
+ "generatedAt": "2026-11-27T09:22:34+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "842f86a525430e00",
+   "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
+   "summary": "The department is working with cyber security experts to restore services and limit disruption Good morning, and welcome to the UK politics live blog.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+   "date": "2026-11-27T09:13:09+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Russell Hart/Alamy"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:22:34+00:00"
+  },
+  {
    "id": "bda168cf233b296b",
    "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
    "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
@@ -197,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/37/b3767a63-a787-5c9e-b33f-b046d03048d5/6a2c133d1c6f3.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/37/b3767a63-a787-5c9e-b33f-b046d03048d5/6a2c133d1c6f3.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/37/b3767a63-a787-5c9e-b33f-b046d03048d5/6a2c133d1c6f3.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/37/b3767a63-a787-5c9e-b33f-b046d03048d5/6a2c133d1c6f3.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:13:24+00:00"
@@ -4597,7 +4617,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6632,7 +6652,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8289,26 +8309,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T14:14:38+00:00"
-  },
-  {
-   "id": "488c0f546bde5be1",
-   "title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
-   "summary": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss",
-   "date": "2026-11-24T13:35:51+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2024-04-16T105803Z_264281175_RC2057AE95NW_RTRMADP_3_COLOMBIA-PEACE-1795461861.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2024-04-16T105803Z_264281175_RC2057AE95NW_RTRMADP_3_COLOMBIA-PEACE-1795461861.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T13:56:13+00:00"
   }
  ]
 }

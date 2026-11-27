@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T16:59:07+00:00",
+ "generatedAt": "2026-11-27T17:08:07+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "480b425d2457ed62",
+   "title": "Supreme Court upholds Quebec's use of notwithstanding clause for secularism law",
+   "summary": "The decision found that the provincial government’s pre-emptive use of the Constitution’s “notwithstanding clause” was valid.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/supreme-court-upholds-quebec-s-use-of-notwithstanding-clause-for-secularism-law/article_509b06da-29be-48c8-a8bf-3d34119937fb.html",
+   "date": "2026-11-27T17:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 770,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/b8/4b875218-2ac4-50cd-ae4d-6c26a854fcb4/6b087abbb8346.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/b8/4b875218-2ac4-50cd-ae4d-6c26a854fcb4/6b087abbb8346.image.jpg?resize=1200%2C",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T14:56:06+00:00"
+  },
+  {
    "id": "52fed062ded63d7b",
    "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
    "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T15:05:14+00:00"
@@ -197,13 +217,33 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/2982dd4242ca828d413c2bc16a208c6b356eb841/401_0_5492_4392/master/5492.jpg?width=700&quality=85&auto=format&fit=max&s=3c57993d0c5ea26faf34cb12140c76f5",
-    "w": 700,
+    "credit": "Photograph: Getty Images",
     "h": 560,
-    "credit": "Photograph: Getty Images"
+    "url": "https://i.guim.co.uk/img/media/2982dd4242ca828d413c2bc16a208c6b356eb841/401_0_5492_4392/master/5492.jpg?width=700&quality=85&auto=format&fit=max&s=3c57993d0c5ea26faf34cb12140c76f5",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-27T16:59:07+00:00"
+  },
+  {
+   "id": "79c1c665bc49ef35",
+   "title": "Syria debates citizenship rights for children of foreign fighters",
+   "summary": "Syria may amend its nationality law to grant citizenship to children of Syrian mothers and foreign fighters.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_syria-mulls-citizenship-children-foreign-fighters-271126?traffic_source=rss",
+   "date": "2026-11-27T16:47:35+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795798046.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795798046.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T17:08:07+00:00"
   },
   {
    "id": "842f86a525430e00",
@@ -330,26 +370,6 @@
    "addedAt": "2026-11-27T16:21:00+00:00"
   },
   {
-   "id": "480b425d2457ed62",
-   "title": "Supreme Court upholds Quebec's use of notwithstanding clause for secularism law",
-   "summary": "The decision found that the provincial government’s pre-emptive use of the Constitution’s “notwithstanding clause” was valid.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/supreme-court-upholds-quebec-s-use-of-notwithstanding-clause-for-secularism-law/article_509b06da-29be-48c8-a8bf-3d34119937fb.html",
-   "date": "2026-11-27T16:00:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 770,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/b8/4b875218-2ac4-50cd-ae4d-6c26a854fcb4/6b087abbb8346.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/b8/4b875218-2ac4-50cd-ae4d-6c26a854fcb4/6b087abbb8346.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T14:56:06+00:00"
-  },
-  {
    "id": "fb5f9bdee6e55177",
    "title": "British Gas owner seeks urgent government talks over future of storage facility",
    "summary": "Centrica boss memo to 400 workers at gas plant off Yorkshire coast says utility doing all it can ‘to save your jobs’ The boss of the British Gas owner Centrica has told hundreds of staff at its largest gas storage facility that he was seeking urgent talks…",
@@ -416,7 +436,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "defence"
@@ -5659,7 +5679,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7694,7 +7714,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8293,26 +8313,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T01:44:15+00:00"
-  },
-  {
-   "id": "62e91713fc99a4c6",
-   "title": "Is Libya a new front in the Ukraine war?",
-   "summary": "Ukraine's President Volodymyr Zelenskyy says two Russian vessels were targeted in Libya's waters.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
-   "date": "2026-11-24T18:38:49+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b044cea4a73-1795443946.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b044cea4a73-1795443946.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T19:04:41+00:00"
   }
  ]
 }

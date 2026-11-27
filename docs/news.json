@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T11:50:02+00:00",
+ "generatedAt": "2026-11-27T11:59:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "253786222602b374",
+   "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
+   "summary": "Growing attacks have damaged European infrastructure, but have not reduced support for Ukraine, analysis says.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+   "date": "2026-11-27T11:44:46+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7334e1b027-1785935073.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a7334e1b027-1785935073.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T11:59:04+00:00"
+  },
+  {
+   "id": "842f86a525430e00",
+   "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
+   "summary": "The department is working with cyber security experts to restore services and limit disruption According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+   "date": "2026-11-27T11:44:39+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Russell Hart/Alamy",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:22:34+00:00"
+  },
+  {
+   "id": "c950a2b9e8d7850e",
+   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
+   "summary": "‘I can’t conceive of us losing,’ the leader said It’s probably a good moment to say that we will be running a special Europe live blog from Madrid on Sunday night to bring you all the latest in the Spanish parliamentary election, including first polls…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+   "date": "2026-11-27T11:41:55+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=700&quality=85&auto=format&fit=max&s=569014a834ba8b37c746829481e3fe2f",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Burak Akbulut/Anadolu/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:59:32+00:00"
+  },
+  {
    "id": "e4f5b470f5bad4c2",
    "title": "What Spain’s election means for Morocco",
    "summary": "The vote could reshape diplomatic relations, but shared strategic interests will continue to bind the two countries.",
@@ -186,26 +248,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T11:40:52+00:00"
-  },
-  {
-   "id": "842f86a525430e00",
-   "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
-   "summary": "The department is working with cyber security experts to restore services and limit disruption According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "date": "2026-11-27T11:25:20+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Russell Hart/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:22:34+00:00"
   },
   {
    "id": "827e09c0f850db6b",
@@ -246,26 +288,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T11:03:48+00:00"
-  },
-  {
-   "id": "c950a2b9e8d7850e",
-   "title": "Trump calling Putin ‘friend’ like declaring friendship with Hitler during WW2, Zelenskyy says – Europe live",
-   "summary": "Ukraine’s president labels US counterpart’s comments ‘strange’ and urges Washington to increase pressure on Moscow in Madrid Last night’s debate between the leaders of Spain’s four biggest political parties was a rambling, ratty and revealing spectacle in…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
-   "date": "2026-11-27T10:52:28+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Vyacheslav Prokofyev/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/354c5812d4a80c57aef34315306550f125254a44/222_0_3863_3089/master/3863.jpg?width=700&quality=85&auto=format&fit=max&s=631307a67cec875eacb58e9f22304c8e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:59:32+00:00"
   },
   {
    "id": "d1c4fb1f29a3fdf6",
@@ -361,10 +383,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T11:50:02+00:00"
@@ -8291,26 +8313,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T15:39:40+00:00"
-  },
-  {
-   "id": "f6c893d63b12f2c4",
-   "title": "China probes Shanghai party chief Chen Jining over corruption",
-   "summary": "Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss",
-   "date": "2026-11-24T15:26:50+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b059c9e8e-1795529886.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b059c9e8e-1795529886.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T15:49:06+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T22:58:33+00:00",
+ "generatedAt": "2026-11-27T23:08:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -65,7 +65,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "Al Jazeera",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "17c4b1a607c17203",
+   "title": "Company launches investigation into claims Wainwright nurse's job was threatened",
+   "summary": "A federal government contractor says it is launching a \"full investigation\" into allegations that a Wainwright, Alta., nurse's job was threatened after she was photographed with Conservative Leader Pierre Poilievre.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/calian-investigation-nurse-job-poilievre-photo-9.7439785?cmp=rss",
+   "date": "2026-11-27T23:00:50+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T23:08:02+00:00"
+  },
+  {
    "id": "4bc6b4e1e5f9bac2",
    "title": "US military says it disabled merchant ship trying to breach Iran blockade",
    "summary": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
@@ -179,10 +198,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afba6a9-1794877097.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afba6a9-1794877097.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afba6a9-1794877097.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afba6a9-1794877097.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T22:58:33+00:00"
@@ -429,9 +448,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/fa055ed2-a213-4af2-afa5-8a9a7596c781,1795718033067/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C6238%2C3508%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/fa055ed2-a213-4af2-afa5-8a9a7596c781,1795718033067/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C6238%2C3508%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T20:55:50+00:00"
@@ -1137,7 +1156,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -6339,7 +6358,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8284,26 +8303,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T00:11:29+00:00"
-  },
-  {
-   "id": "b319a6cc7b567d33",
-   "title": "UK to launch world’s first licensing scheme for knife sales",
-   "summary": "Exclusive: Measures aimed at tackling grey market sellers known to sell dangerous knives to children Ministers will introduce the world’s first licensing scheme for businesses and private individuals selling all types of knives including cutlery, the Home…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
-   "date": "2026-11-25T00:01:01+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Linda Nylind/The Guardian",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e94bf5ba5d5beca7dddc4a23c12e0c25dbf9e3a5/644_0_6440_5152/master/6440.jpg?width=700&quality=85&auto=format&fit=max&s=a8ce90bd467ee57f70f32a4a9ea387bd",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T00:21:08+00:00"
   }
  ]
 }

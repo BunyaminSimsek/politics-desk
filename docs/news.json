@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T15:05:14+00:00",
+ "generatedAt": "2026-11-27T15:14:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,88 @@
  ],
  "items": [
   {
+   "id": "842f86a525430e00",
+   "title": "UK pensions department hit by ‘serious cyber incident’, minister says – UK politics live",
+   "summary": "Pat McFadden says the government doesn’t believe any personal data has been compromised Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+   "date": "2026-11-27T15:03:20+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Russell Hart/Alamy",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:22:34+00:00"
+  },
+  {
+   "id": "bd41f92fb86a9652",
+   "title": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA",
+   "summary": "Experts say NIH research raises concerns about chemical companies’ influence on US agency’s pesticide division The US government’s top medical research agency has released three new studies linking glyphosate, the world’s most widely used pesticide and an…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa",
+   "date": "2026-11-27T15:00:13+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/92a2cff5fdf21cc523cfbb7f88122e0d0d611937/162_0_2504_2003/master/2504.jpg?width=700&quality=85&auto=format&fit=max&s=6d6573d2018c442544647823c257a368",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Haven Daley/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T15:14:21+00:00"
+  },
+  {
+   "id": "c950a2b9e8d7850e",
+   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
+   "summary": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+   "date": "2026-11-27T14:59:12+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Burak Akbulut/Anadolu/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=700&quality=85&auto=format&fit=max&s=569014a834ba8b37c746829481e3fe2f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:59:32+00:00"
+  },
+  {
+   "id": "fb5f9bdee6e55177",
+   "title": "British Gas owner seeks urgent government talks over future of storage faciity",
+   "summary": "Centrica boss memo to 400 workers at key gas plant off Yorkshire coast says utility doing all it can ‘to save your jobs’ The boss of British Gas owner Centrica has told hundreds of staff at its largest gas storage facility that he is seeking urgent talks with…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+   "date": "2026-11-27T14:58:39+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/e9dcd936a4954560c089b24f4760a37f4730b2c4/561_0_5240_4196/master/5240.jpg?width=700&quality=85&auto=format&fit=max&s=919d43cffd844027a84eaa7655c701e2",
+    "w": 700,
+    "h": 561,
+    "credit": "Photograph: Addictive Stock Creatives/Alamy"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T15:14:21+00:00"
+  },
+  {
    "id": "52fed062ded63d7b",
    "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
    "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
@@ -177,10 +259,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T15:05:14+00:00"
@@ -208,7 +290,7 @@
   {
    "id": "480b425d2457ed62",
    "title": "Supreme Court upholds Quebec's use of notwithstanding clause for secularism law",
-   "summary": "The Supreme Court of Canada has unanimously upheld Quebec's controversial secularism law, ruling that the provincial government's use of the Constitution's \"notwithstanding clause\" to impose it was valid.",
+   "summary": "The decision is one of the most consequential to be delivered in years, ruling that the provincial government’s use of the Constitution’s “notwithstanding clause” to impose it was valid.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/supreme-court-upholds-quebec-s-use-of-notwithstanding-clause-for-secularism-law/article_509b06da-29be-48c8-a8bf-3d34119937fb.html",
    "date": "2026-11-27T14:45:00+00:00",
@@ -224,28 +306,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T14:56:06+00:00"
-  },
-  {
-   "id": "c950a2b9e8d7850e",
-   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
-   "summary": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
-   "date": "2026-11-27T14:36:12+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Burak Akbulut/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=700&quality=85&auto=format&fit=max&s=569014a834ba8b37c746829481e3fe2f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:59:32+00:00"
   },
   {
    "id": "7cb008289af4a975",
@@ -286,26 +346,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T14:37:12+00:00"
-  },
-  {
-   "id": "842f86a525430e00",
-   "title": "UK pensions department hit by ‘serious cyber incident’, minister says – UK politics live",
-   "summary": "Pat McFadden says the government doesn’t believe any personal data has been compromised Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "date": "2026-11-27T14:01:55+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Russell Hart/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:22:34+00:00"
   },
   {
    "id": "1ed071b8dcbafa18",
@@ -5397,7 +5437,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7432,7 +7472,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8273,46 +8313,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T18:08:06+00:00"
-  },
-  {
-   "id": "2dd5afc16ba61c3f",
-   "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – as it happened",
-   "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News]…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-   "date": "2026-11-24T17:41:47+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: House of Commons/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/75b036e7469fe11674f0efbb53133c32a0526e73/250_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=72057db1de22e719758f44c586a2912d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:00:35+00:00"
-  },
-  {
-   "id": "497a7f265ebd43d3",
-   "title": "Montreal mayor announces 10 per cent tax hikes to address infrastructure ‘backlog’",
-   "summary": "MONTREAL - Montrealers will see property taxes rise by about 10 per cent next year as the city struggles to maintain its aging infrastructure.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/montreal-mayor-announces-10-per-cent-tax-hikes-to-address-infrastructure-backlog/article_e53b41ee-4de7-5788-8c96-c168ad12c795.html",
-   "date": "2026-11-24T17:37:36+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/da/6dacf4be-f459-5125-8a63-76e28b197d27/6b05cc0405f89.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/6/da/6dacf4be-f459-5125-8a63-76e28b197d27/6b05cc0405f89.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T17:49:40+00:00"
   }
  ]
 }

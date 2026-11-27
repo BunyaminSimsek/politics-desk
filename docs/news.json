@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T22:48:49+00:00",
+ "generatedAt": "2026-11-27T22:58:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "4bc6b4e1e5f9bac2",
+   "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+   "summary": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+   "date": "2026-11-27T22:22:02+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afba6a9-1794877097.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afba6a9-1794877097.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T22:58:33+00:00"
+  },
   {
    "id": "50c9b5aa045d3cfa",
    "title": "With Abbott out, what does the future look like for data centers in Texas?",
@@ -407,9 +429,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/fa055ed2-a213-4af2-afa5-8a9a7596c781,1795718033067/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C6238%2C3508%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/fa055ed2-a213-4af2-afa5-8a9a7596c781,1795718033067/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C6238%2C3508%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-27T20:55:50+00:00"
@@ -628,9 +650,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/c7e2384b-3b6a-4e1f-9cc6-d97e7b9a4362,1795804145822/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C319%2C5927%2C3333%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/c7e2384b-3b6a-4e1f-9cc6-d97e7b9a4362,1795804145822/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C319%2C5927%2C3333%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T18:43:00+00:00"
@@ -1115,7 +1137,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "defence"
@@ -6317,7 +6339,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8279,26 +8301,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/e94bf5ba5d5beca7dddc4a23c12e0c25dbf9e3a5/644_0_6440_5152/master/6440.jpg?width=700&quality=85&auto=format&fit=max&s=a8ce90bd467ee57f70f32a4a9ea387bd",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T00:21:08+00:00"
-  },
-  {
-   "id": "a377586593f39194",
-   "title": "Iran war live: IRGC mocks US ‘strategic ambiguity’ after ‘major setback’",
-   "summary": "Revolutionary Guard chief says forces prepared to 'push enemy back considerably'; highlights 'major strategic setback'.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
-   "date": "2026-11-25T00:00:00+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T172418Z_1883247986_RC2AUOAQ8FSH_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1795561635.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T172418Z_1883247986_RC2AUOAQ8FSH_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1795561635.jpg?resize=1200%2C800",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-25T00:21:08+00:00"

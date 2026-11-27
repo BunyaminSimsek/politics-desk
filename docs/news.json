@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T13:40:49+00:00",
+ "generatedAt": "2026-11-27T13:49:56+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 13
+   "kept": 12
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/2ec208e4382ab770c2192d22683be7bc473ef71a/0_215_3697_2957/master/3697.jpg?width=700&quality=85&auto=format&fit=max&s=96af525d968a25caa69cc2c7ef404978",
-    "w": 700,
+    "credit": "Photograph: Simon Dack/Alamy",
     "h": 560,
-    "credit": "Photograph: Simon Dack/Alamy"
+    "url": "https://i.guim.co.uk/img/media/2ec208e4382ab770c2192d22683be7bc473ef71a/0_215_3697_2957/master/3697.jpg?width=700&quality=85&auto=format&fit=max&s=96af525d968a25caa69cc2c7ef404978",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-27T13:40:49+00:00"
@@ -217,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afa3343e7b0-1794782019.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afa3343e7b0-1794782019.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afa3343e7b0-1794782019.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afa3343e7b0-1794782019.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T13:40:49+00:00"
@@ -1219,6 +1219,25 @@
    "addedAt": "2026-11-27T05:24:23+00:00"
   },
   {
+   "id": "753de6acaf92a913",
+   "title": "Yukon power infrastructure project now at Carney's Major Projects Office",
+   "summary": "On Thursday evening, Prime Minister Mark Carney announced he would be referring the Whitehorse Power Centres project to the Major Projects Office.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/canada/north/whitehorse-power-centres-major-projects-office-9.7438314?cmp=rss",
+   "date": "2026-11-27T04:37:34+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/53b1f28e-72b1-4e3b-bc2d-405a0178aa23,1795750660777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C4240%2C2385%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T13:49:56+00:00"
+  },
+  {
    "id": "043962b71d2bc403",
    "title": "Trump downplays Russia, China support for Iran during talks with US troops",
    "summary": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
@@ -1526,6 +1545,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T00:56:26+00:00"
+  },
+  {
+   "id": "04827f1a7ecef9fb",
+   "title": "Carney heads north to announce 'major new initiative' in Yellowknife",
+   "summary": "Prime Minister Mark Carney and N.W.T. Premier R.J. Simpson will make a joint announcement in Yellowknife on Friday afternoon. Carney is also visiting Whitehorse on his first official visit to the Yukon.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/canada/north/carney-heads-north-to-announce-major-new-initiative-in-yellowknife-9.7438005?cmp=rss",
+   "date": "2026-11-26T23:36:31+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/e5b456e4-68b6-49b0-9947-23827e35e0f7,1795735394563/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C6221%2C3499%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T13:49:56+00:00"
   },
   {
    "id": "dec9084abf8da539",
@@ -5175,7 +5213,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7210,7 +7248,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8276,46 +8314,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:04:04+00:00"
-  },
-  {
-   "id": "cd5dd334005a205b",
-   "title": "Jensen Huang’s return to Nvidia is elite impunity | Moira Donegan",
-   "summary": "After the CEO was reinstated after Trump’s pressure campaign, it is abundantly clear: there are different rules for rich people There are different rules for rich people.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/24/jensen-huang-nvidia-return",
-   "date": "2026-11-24T16:39:00+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ann Wang/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/53007b43a9fd5e9ecd8445be0b726463a259f2fc/110_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=d0872d55b3368cc857a91bf867501b9d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T16:54:49+00:00"
-  },
-  {
-   "id": "e3394a04737afd99",
-   "title": "US court unseals heavily redacted records on Ilhan Omar home search",
-   "summary": "Prosecutors say they are pursuing evidence of crimes allegedly committed by the Democratic congresswoman over decades, and unrelated to her work in Congress.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6n831lzl5y1o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T16:32:16+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/782a/live/ec4b1900-e823-11f1-a58d-43263bea41a8.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/782a/live/ec4b1900-e823-11f1-a58d-43263bea41a8.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T17:22:24+00:00"
   }
  ]
 }

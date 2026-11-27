@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T22:11:45+00:00",
+ "generatedAt": "2026-11-27T22:21:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 14
+   "kept": 10
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "e4e826fdf41c9f40",
+   "title": "The explosion of extreme wealth is the major problem of our time | Bernie Sanders",
+   "summary": "At this pivotal moment in American history, let us move forward together to take on and defeat a powerful, greedy and corrupt ruling class We are at a pivotal moment in history.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-explosion-of-extreme-wealth-is-the-major-problem-of-our-time",
+   "date": "2026-11-27T22:10:08+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ebf5a271f7a37c05df6ac1f3eb3bf728d51e5332/153_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=a39bb23eeb7a9f4842c35073466325bd",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Jonathan Ernst/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T22:21:21+00:00"
+  },
+  {
    "id": "21a12bd10a9e223a",
    "title": "The future of the notwithstanding clause is now up to political leaders",
    "summary": "The task of governing the use of the notwithstanding clause has been left to the players in the political arena. If invoking the clause is to become politically difficult again, it will be up to political actors.",
@@ -177,9 +197,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/cdc05f65-bbc4-4268-bf45-250b29999a03,1795816649826/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C521%2C6582%2C3702%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/cdc05f65-bbc4-4268-bf45-250b29999a03,1795816649826/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C521%2C6582%2C3702%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T22:11:45+00:00"
@@ -1308,9 +1328,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/8f556cd7-bced-4bc4-a26b-0b0ae5c875da,1795816613955/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C676%2C8299%2C4668%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/8f556cd7-bced-4bc4-a26b-0b0ae5c875da,1795816613955/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C676%2C8299%2C4668%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T13:59:44+00:00"
@@ -8289,26 +8309,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T23:53:21+00:00"
-  },
-  {
-   "id": "cf451c932a6f102b",
-   "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-   "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-   "date": "2026-11-24T23:39:13+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260613__B6YT743__v2__HighRes__TopshotDrcongoHealthEbola-1795558000.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260613__B6YT743__v2__HighRes__TopshotDrcongoHealthEbola-1795558000.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T23:44:06+00:00"
   }
  ]
 }

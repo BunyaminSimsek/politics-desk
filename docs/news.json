@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T09:03:44+00:00",
+ "generatedAt": "2026-11-27T09:13:24+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 5
+   "kept": 3
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "bda168cf233b296b",
+   "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+   "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T09:07:48+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T23:03:19+00:00"
+  },
+  {
+   "id": "78c24ce40768640a",
+   "title": "Supreme Court ruling on Quebec's secularism law expected Friday morning",
+   "summary": "MONTREAL - Premiers across Canada are expected to be keeping a close eye on the Supreme Court this morning as it releases a ruling on the constitutionality of Quebec's secularism law.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/quebec/supreme-court-ruling-on-quebec-s-secularism-law-expected-friday-morning/article_c31e9234-8324-53f4-8a27-8c103c51c0d5.html",
+   "date": "2026-11-27T09:00:07+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/37/b3767a63-a787-5c9e-b33f-b046d03048d5/6a2c133d1c6f3.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/37/b3767a63-a787-5c9e-b33f-b046d03048d5/6a2c133d1c6f3.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:13:24+00:00"
+  },
+  {
    "id": "4259174195464f03",
    "title": "Supreme Court to render its decision on Quebec's secularism law today",
    "summary": "On Friday morning, a record number of journalists and lawyers of record who've been sworn to confidentiality will be the first to read a historic judgment from the Supreme Court of Canada determining the fate of Quebec's controversial Bill 21.",
@@ -177,9 +217,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/7d90793b-7015-4d10-b4fa-764d2e0acba1,1795719265108/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/7d90793b-7015-4d10-b4fa-764d2e0acba1,1795719265108/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:03:44+00:00"
@@ -198,9 +238,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0f876966-6d9d-4411-ac66-42a589a29ff9,1795738306263/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0f876966-6d9d-4411-ac66-42a589a29ff9,1795738306263/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:03:44+00:00"
@@ -217,9 +257,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/3c383bcf-9249-4092-a118-188e3370dd61,1795741220764/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8256%2C4644%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/3c383bcf-9249-4092-a118-188e3370dd61,1795741220764/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8256%2C4644%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:03:44+00:00"
@@ -238,10 +278,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:03:44+00:00"
@@ -962,26 +1002,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T22:53:53+00:00"
-  },
-  {
-   "id": "bda168cf233b296b",
-   "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-   "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-26T22:49:27+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T23:03:19+00:00"
   },
   {
    "id": "f4a8b8da97b396d5",
@@ -8289,26 +8309,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T13:56:13+00:00"
-  },
-  {
-   "id": "374eafd5e478c4e8",
-   "title": "Jensen Huang returns to Nvidia as Silicon Valley rethinks its alliance with Trump",
-   "summary": "The Nvidia CEO’s faces mounting scrutiny, while Silicon Valley’s biggest names attempt to repair relationships with Democrats after years of backing the president This was originally published in TechScape, a newsletter about how technology shapes our lives.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/global/2026/nov/24/jensen-huang-nvidia-return-silicon-valley-trump",
-   "date": "2026-11-24T13:33:44+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Illustration: Guardian Design",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ddea062f231e51eabed66481d5ba36e81630f60a/0_0_3000_2399/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=0a2e9da9a71cc3235aa37772435ab9ff",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T13:47:01+00:00"
   }
  ]
 }

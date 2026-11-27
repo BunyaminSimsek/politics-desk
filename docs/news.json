@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T12:36:06+00:00",
+ "generatedAt": "2026-11-27T12:45:19+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 2
+   "kept": 3
   },
   {
    "source": "CTV News",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "5568ef841c8cb689",
+   "title": "Sentencing hearing to continue for Kenneth Law, who admitted to aiding suicide",
+   "summary": "A sentencing hearing is set to continue Friday for an Ontario man who sold potentially deadly substances online to people who then used those products to take their own lives.",
+   "source": "Global News Toronto",
+   "url": "https://globalnews.ca/news/12168621/kenneth-law-sentencing-hearing/",
+   "date": "2026-11-27T12:40:12+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/05/a84a26847fa210379cf7bcd0908fc0e59fa2764f414b55eefb30eb28b8ee3e58_5e7087.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 575,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/05/a84a26847fa210379cf7bcd0908fc0e59fa2764f414b55eefb30eb28b8ee3e58_5e7087.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T12:45:19+00:00"
+  },
+  {
+   "id": "842f86a525430e00",
+   "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
+   "summary": "The department is working with cyber security experts to restore services and limit disruption According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+   "date": "2026-11-27T12:35:03+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Russell Hart/Alamy",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:22:34+00:00"
+  },
+  {
    "id": "743b76114b1c7027",
    "title": "Premiers await Supreme Court ruling on Quebec’s secularism law",
    "summary": "Premiers across Canada are expected to be keeping a close eye on the Supreme Court Friday morning as it releases a ruling on the constitutionality of Quebec's secularism law.",
@@ -177,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/08/supreme-court-of-canada.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 832,
     "h": 492,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/08/supreme-court-of-canada.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/08/supreme-court-of-canada.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/08/supreme-court-of-canada.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 832
    },
    "breaking": false,
    "addedAt": "2026-11-27T12:36:06+00:00"
@@ -248,26 +288,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T12:26:37+00:00"
-  },
-  {
-   "id": "842f86a525430e00",
-   "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
-   "summary": "The department is working with cyber security experts to restore services and limit disruption According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "date": "2026-11-27T12:02:55+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Russell Hart/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:22:34+00:00"
   },
   {
    "id": "e15ba7ac0a540436",
@@ -413,7 +433,7 @@
   },
   {
    "id": "d1c4fb1f29a3fdf6",
-   "title": "Momentous decision awaits after judges’ call for Netanyahu charges to be dropped",
+   "title": "Momentous decision looms after judges call for Netanyahu charges to be dropped",
    "summary": "Dropping of corruption charges against Israeli PM after unusual intervention could set damaging precedent The Israeli judges presiding over Benjamin Netanyahu’s corruption trial have called on prosecutors to end proceedings, a highly unusual intervention that…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges",
@@ -631,10 +651,10 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-26T23:03:19+00:00"
@@ -5071,7 +5091,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7106,7 +7126,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8294,25 +8314,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T09:37:27+00:00"
-  },
-  {
-   "id": "ec39ff36f9ace7a8",
-   "title": "$5K bonus payments for trades workers going out early next month, government says",
-   "summary": "Bonuses for Red Seal trades workers are set to be delivered starting early next month.",
-   "source": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/trade-workers-bonus-payments-9.7434033?cmp=rss",
-   "date": "2026-11-24T16:23:13+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/7200ed6b-1599-4323-a3a3-42978e3bbd86,1795536572773/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C306%2C4500%2C2531%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T16:35:39+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T17:27:01+00:00",
+ "generatedAt": "2026-11-27T17:36:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -186,8 +186,52 @@
    "addedAt": "2026-11-27T16:11:40+00:00"
   },
   {
+   "id": "db8954460c401181",
+   "title": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
+   "summary": "Prime Minister Pedro Sanchez makes last bid to beat right-wing parties before Spanish vote on Sunday.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
+   "date": "2026-11-27T17:15:35+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b09b547f029a-1795798343.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b09b547f029a-1795798343.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T17:36:12+00:00"
+  },
+  {
+   "id": "b1881ebd3cc7b345",
+   "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
+   "summary": "Russian assaults met with stout defence along the front as Western powers discuss ceasefire proposals.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory?traffic_source=rss",
+   "date": "2026-11-27T17:13:46+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b099d3113c10-1795792177.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b099d3113c10-1795792177.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T17:36:12+00:00"
+  },
+  {
    "id": "ebaf38c075fb60b2",
-   "title": "Ontario's gaming minister echoes Ford's concerns about online gambling ads",
+   "title": "'I agree with the Premier': Ontario gaming minister looks to tighten regulations on gambling ads",
    "summary": "Ontario's minister of tourism, culture and gaming said the province is doing everything it can to improve how it regulates online gaming ads, after the premier called the ads \"out of control\" earlier this week.",
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/ontario-gaming-minister-gambling-ads-9.7438853?cmp=rss",
@@ -455,7 +499,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -501,9 +545,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.5484128,1622163030000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.5484128,1622163030000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-27T15:32:41+00:00"
@@ -5698,7 +5742,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7733,7 +7777,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8272,46 +8316,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T19:13:54+00:00"
-  },
-  {
-   "id": "692b82184e457d41",
-   "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
-   "summary": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
-   "date": "2026-11-24T19:02:49+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 3395,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05d7d4e2386-1795545044.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05d7d4e2386-1795545044.jpg?resize=1200%2C800",
-    "w": 5093
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T19:23:33+00:00"
-  },
-  {
-   "id": "b66c3f9f6ad8337f",
-   "title": "Ontario vows to restore frozen OSAP by New Year if fraud bill passes",
-   "summary": "The Ford government is under mounting criticism for freezing OSAP funding, a pause that began in early October, for students at all 242 Ontario private career colleges.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12164387/ontario-vows-restore-frozen-osap-new-year-fraud-bill-passes/",
-   "date": "2026-11-24T18:55:31+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57_ff23d3.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57_ff23d3.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T19:04:41+00:00"
   }
  ]
 }

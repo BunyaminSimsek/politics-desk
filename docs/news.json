@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T11:40:52+00:00",
+ "generatedAt": "2026-11-27T11:50:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0969c88950-1795779016.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0969c88950-1795779016.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0969c88950-1795779016.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0969c88950-1795779016.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T11:40:52+00:00"
@@ -348,6 +348,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T10:36:14+00:00"
+  },
+  {
+   "id": "580ae072d807870b",
+   "title": "Clashes mar European games as Macron condemns violence",
+   "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T10:24:24+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T11:50:02+00:00"
   },
   {
    "id": "8852bb397a39d166",
@@ -8291,26 +8311,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T15:49:06+00:00"
-  },
-  {
-   "id": "ae2e8e2caf29fdfa",
-   "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
-   "summary": "US president says he ‘convinced’ chipmaker’s board to reinstate CEO, as Nvidia shares fall after previous day’s rally Comment: Nvidia’s humiliated board should resign out of embarrassment Nvidia staff: what do you think of Jensen Huang’s return as chief…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
-   "date": "2026-11-24T15:23:20+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evan Vucci/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=700&quality=85&auto=format&fit=max&s=ed6c61ac8380bab4cae16a5526b786a5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T08:33:15+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T18:14:56+00:00",
+ "generatedAt": "2026-11-27T18:24:08+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 23
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "4d9a433ad0b5861f",
+   "title": "An explainer on the notwithstanding clause and how governments have used it",
+   "summary": "MONTREAL - The Supreme Court of Canada largely upheld Quebec's secularism law Friday in a landmark decision that clarifies how governments can use the notwithstanding clause to override certain Charter rights.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/an-explainer-on-the-notwithstanding-clause-and-how-governments-have-used-it/article_4d6e1807-d51a-5228-afc6-1b5fd1066dfa.html",
+   "date": "2026-11-27T18:10:44+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "analysis",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/37/b3767a63-a787-5c9e-b33f-b046d03048d5/6a2c133d1c6f3.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/37/b3767a63-a787-5c9e-b33f-b046d03048d5/6a2c133d1c6f3.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T18:24:08+00:00"
+  },
   {
    "id": "bda168cf233b296b",
    "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
@@ -415,8 +435,8 @@
   },
   {
    "id": "e5e6ff6ee2ee1246",
-   "title": "Jared Kushner’s 70-minute interview shows the peril of treating Putin like a corporate rival",
-   "summary": "Trump’s son-in-law and top negotiator paints Russian invasion of Ukraine as a misunderstanding to be resolved In the space of a 70-minute interview, Jared Kushner – Donald Trump’s son-in-law and a prominent US negotiator in Russia, Gaza and Iran – probably…",
+   "title": "Jared Kushner’s 70-minute interview reveals perils of treating Putin like a corporate rival",
+   "summary": "Trump’s son-in-law and senior negotiator paints Russian invasion of Ukraine as a misunderstanding to be resolved In the space of a 70-minute interview, Jared Kushner – Donald Trump’s son-in-law and a prominent US negotiator in Russia, Gaza and Iran – probably…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
    "date": "2026-11-27T16:49:59+00:00",
@@ -843,7 +863,7 @@
   },
   {
    "id": "a72e7111a1b9a786",
-   "title": "Rights groups vow to keep fighting after Supreme Court largely upholds Quebec's controversial secularism law",
+   "title": "Quebec Premier St-Pierre Plamondon speaks after Supreme Court largely upholds province's secularism law",
    "summary": "",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/canada/montreal/livestory/quebec-bill-21-supreme-court-of-canada-ruling-9.7434446?cmp=rss",
@@ -1678,10 +1698,10 @@
    ],
    "kind": "news",
    "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/4834/live/cb627900-ea8e-11f1-99b6-a35a62fa4264.png",
+    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b6e8/live/fb20a6d0-e9cb-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b6e8/live/fb20a6d0-e9cb-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/4834/live/cb627900-ea8e-11f1-99b6-a35a62fa4264.png"
    },
    "breaking": false,
    "addedAt": "2026-11-27T06:37:37+00:00"
@@ -8298,26 +8318,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T20:37:22+00:00"
-  },
-  {
-   "id": "3bdca497c0c27d17",
-   "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
-   "summary": "Iraq's Prime Minister Ali al-Zaidi has ordered federal forces to take control of oilfields in Kurdish-controlled areas.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
-   "date": "2026-11-24T20:18:19+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/clean-1795551480.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/clean-1795551480.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T20:46:51+00:00"
   }
  ]
 }

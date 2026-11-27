@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T07:23:15+00:00",
+ "generatedAt": "2026-11-27T07:32:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -59,7 +59,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
    "ok": true,
-   "kept": 14
+   "kept": 13
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-05T180138Z_991373647_RC26XNAKWGVB_RTRMADP_3_IRAN-CRISIS-SAUDI-TURKEY-PAKISTAN-1791224096.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-05T180138Z_991373647_RC26XNAKWGVB_RTRMADP_3_IRAN-CRISIS-SAUDI-TURKEY-PAKISTAN-1791224096.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-05T180138Z_991373647_RC26XNAKWGVB_RTRMADP_3_IRAN-CRISIS-SAUDI-TURKEY-PAKISTAN-1791224096.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-05T180138Z_991373647_RC26XNAKWGVB_RTRMADP_3_IRAN-CRISIS-SAUDI-TURKEY-PAKISTAN-1791224096.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T07:23:15+00:00"
@@ -199,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b092d045f2c-1795763460.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b092d045f2c-1795763460.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b092d045f2c-1795763460.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b092d045f2c-1795763460.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T07:23:15+00:00"
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b080ddbbb307-1795689947.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b080ddbbb307-1795689947.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b080ddbbb307-1795689947.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b080ddbbb307-1795689947.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T07:23:15+00:00"
@@ -269,6 +269,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T06:37:37+00:00"
+  },
+  {
+   "id": "c49b6779cb751643",
+   "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+   "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:04:51+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T07:32:20+00:00"
   },
   {
    "id": "61abe77368d23f08",
@@ -850,10 +870,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/54d9/live/4a216410-ea33-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1e73/live/90642570-ea33-11f1-99b6-a35a62fa4264.jpg",
     "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/54d9/live/4a216410-ea33-11f1-99b6-a35a62fa4264.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1e73/live/90642570-ea33-11f1-99b6-a35a62fa4264.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-26T23:03:19+00:00"
@@ -8285,26 +8305,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T13:00:34+00:00"
-  },
-  {
-   "id": "cd565fb56edad974",
-   "title": "Russian governor detained in rare criminal case against regional leader",
-   "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T12:45:43+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T12:51:13+00:00"
   }
  ]
 }

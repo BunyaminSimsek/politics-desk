@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T15:32:41+00:00",
+ "generatedAt": "2026-11-27T15:42:28+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "CBC World",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,129 @@
  ],
  "items": [
   {
+   "id": "52fed062ded63d7b",
+   "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+   "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T15:38:13+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
+    "w": 1200
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T15:05:14+00:00"
+  },
+  {
+   "id": "fb5f9bdee6e55177",
+   "title": "British Gas owner seeks urgent government talks over future of storage facility",
+   "summary": "Centrica boss memo to 400 workers at gas plant off Yorkshire coast says utility doing all it can ‘to save your jobs’ The boss of the British Gas owner Centrica has told hundreds of staff at its largest gas storage facility that he was seeking urgent talks…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
+   "date": "2026-11-27T15:34:41+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Addictive Stock Creatives/Alamy",
+    "h": 561,
+    "url": "https://i.guim.co.uk/img/media/e9dcd936a4954560c089b24f4760a37f4730b2c4/561_0_5240_4196/master/5240.jpg?width=700&quality=85&auto=format&fit=max&s=919d43cffd844027a84eaa7655c701e2",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T15:14:21+00:00"
+  },
+  {
+   "id": "0725de7ae36f1c2c",
+   "title": "Ontario attorney general urges Ottawa to strengthen self-defence rules in case of home invasions",
+   "summary": "Ontario's attorney general and solicitor general have penned a letter to the federal government calling for clarified rules and stronger protections for home owners who protect themselves against home invasions.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
+   "date": "2026-11-27T15:34:23+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/116c305a-4868-412c-90d4-6e36f6237303,1731432895567/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T15:42:28+00:00"
+  },
+  {
+   "id": "842f86a525430e00",
+   "title": "UK pensions department hit by ‘serious cyber incident’, minister says – UK politics live",
+   "summary": "Pat McFadden says the government doesn’t believe any personal data has been compromised Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+   "date": "2026-11-27T15:32:17+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Russell Hart/Alamy",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:22:34+00:00"
+  },
+  {
+   "id": "c950a2b9e8d7850e",
+   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
+   "summary": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+   "date": "2026-11-27T15:27:48+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Burak Akbulut/Anadolu/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=700&quality=85&auto=format&fit=max&s=569014a834ba8b37c746829481e3fe2f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:59:32+00:00"
+  },
+  {
+   "id": "d204477ff4303b14",
+   "title": "Newly released documents suggest CIA did more post-9/11 waterboarding than previously acknowledged",
+   "summary": "Declassified documents appear to support belief that waterboarding was more common and may have occurred beyond two acknowledged sites Newly released documents suggest that the CIA waterboarded more detainees during the post-9/11 “war on terror” than…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/27/newly-released-documents-cia-waterboarding-9-11",
+   "date": "2026-11-27T15:25:03+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/80213e3954d6559b30c1979cfd498b1af765aadf/196_0_1942_1554/master/1942.jpg?width=700&quality=85&auto=format&fit=max&s=4b1ee59cb5efea52ddf9ad429aba8fe4",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: REUTERS"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T15:42:28+00:00"
+  },
+  {
    "id": "800954b8057d5375",
    "title": "CRTC orders Bell, Rogers, Telus to stop charging prohibited wireless fees by Dec. 27",
    "summary": "Canada’s telecommunications regulator says Bell, Rogers and Telus have charged consumers fees that are prohibited under the Telecommunications Act, and has ordered them to stop by Dec. 27.",
@@ -177,9 +300,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.5484128,1622163030000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.5484128,1622163030000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T15:32:41+00:00"
@@ -196,33 +319,13 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/34/d34fd2a1-fb29-5333-af60-16a350fdd100/6b099c5a9b605.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/34/d34fd2a1-fb29-5333-af60-16a350fdd100/6b099c5a9b605.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/34/d34fd2a1-fb29-5333-af60-16a350fdd100/6b099c5a9b605.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/34/d34fd2a1-fb29-5333-af60-16a350fdd100/6b099c5a9b605.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T15:32:41+00:00"
-  },
-  {
-   "id": "842f86a525430e00",
-   "title": "UK pensions department hit by ‘serious cyber incident’, minister says – UK politics live",
-   "summary": "Pat McFadden says the government doesn’t believe any personal data has been compromised Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "date": "2026-11-27T15:03:20+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Russell Hart/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:22:34+00:00"
   },
   {
    "id": "bd41f92fb86a9652",
@@ -245,70 +348,8 @@
    "addedAt": "2026-11-27T15:14:21+00:00"
   },
   {
-   "id": "c950a2b9e8d7850e",
-   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
-   "summary": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
-   "date": "2026-11-27T14:59:12+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Burak Akbulut/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=700&quality=85&auto=format&fit=max&s=569014a834ba8b37c746829481e3fe2f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:59:32+00:00"
-  },
-  {
-   "id": "fb5f9bdee6e55177",
-   "title": "British Gas owner seeks urgent government talks over future of storage faciity",
-   "summary": "Centrica boss memo to 400 workers at key gas plant off Yorkshire coast says utility doing all it can ‘to save your jobs’ The boss of British Gas owner Centrica has told hundreds of staff at its largest gas storage facility that he is seeking urgent talks with…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
-   "date": "2026-11-27T14:58:39+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Addictive Stock Creatives/Alamy",
-    "h": 561,
-    "url": "https://i.guim.co.uk/img/media/e9dcd936a4954560c089b24f4760a37f4730b2c4/561_0_5240_4196/master/5240.jpg?width=700&quality=85&auto=format&fit=max&s=919d43cffd844027a84eaa7655c701e2",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T15:14:21+00:00"
-  },
-  {
-   "id": "52fed062ded63d7b",
-   "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-   "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-27T14:55:15+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T15:05:14+00:00"
-  },
-  {
    "id": "78c24ce40768640a",
-   "title": "CP NewsAlert: Supreme Court upholds most portions of Quebec secularism law",
+   "title": "Supreme Court of Canada upholds most portions of Quebec secularism law",
    "summary": "The case stems from a Quebec law known as Bill 21, which bans public servants in positions of authority from wearing religious symbols while on the job.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/quebec/supreme-court-ruling-on-quebec-s-secularism-law-expected-friday-morning/article_c31e9234-8324-53f4-8a27-8c103c51c0d5.html",
@@ -8272,46 +8313,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T05:48:37+00:00"
-  },
-  {
-   "id": "822010554ec367e8",
-   "title": "Israel attempts to jail Palestinian student at Hebrew University without trial",
-   "summary": "Mahdi Tounsi appeared to have suffered maltreatment at hearing where he was not allowed to hear prosecution case against him Palestinian student Mahdi Tounsi appeared in a closed-door court hearing in Jerusalem, as academics and activists warned that Israel’s…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/24/israel-jail-palestinian-student-mahdi-tounsi-hebrew-university-without-trial",
-   "date": "2026-11-24T18:02:53+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Quique Kierszenbaum/The Guardian",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2a24051caa6582ebbeefad68e096f0b41c2ba64b/797_21_3886_3109/master/3886.jpg?width=700&quality=85&auto=format&fit=max&s=20e5a0c9e88c3f4733e889f3428d7fd7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T18:26:33+00:00"
-  },
-  {
-   "id": "e9783ee40b968aaa",
-   "title": "Colombia at a Crossroads: Searching for peace amid conflict",
-   "summary": "A decade after Colombia's peace accords, former FARC fighter and artist honours killed signatories with a mural.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/witness/2026/11/24/colombia-at-a-crossroads-searching-for-peace-amid-conflict?traffic_source=rss",
-   "date": "2026-11-24T18:00:00+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-ThumbnailV2-1795541647.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-ThumbnailV2-1795541647.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T18:08:06+00:00"
   }
  ]
 }

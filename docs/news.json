@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T11:03:48+00:00",
+ "generatedAt": "2026-11-27T11:13:20+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 20
   },
   {
    "source": "The Guardian",
@@ -177,13 +177,33 @@
    "tags": [],
    "kind": "analysis",
    "image": {
-    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Balkans-democracy.jpg?resize=1200%2C800",
-    "w": 2250,
     "h": 1500,
-    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Balkans-democracy.jpg?resize=640%2C427"
+    "small": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Balkans-democracy.jpg?resize=640%2C427",
+    "url": "https://policyoptions.irpp.org/wp-content/uploads/2026/11/Balkans-democracy.jpg?resize=1200%2C800",
+    "w": 2250
    },
    "breaking": false,
    "addedAt": "2026-11-27T11:03:48+00:00"
+  },
+  {
+   "id": "c950a2b9e8d7850e",
+   "title": "Trump calling Putin ‘friend’ like declaring friendship with Hitler during WW2, Zelenskyy says – Europe live",
+   "summary": "Ukraine’s president labels US counterpart’s comments ‘strange’ and urges Washington to increase pressure on Moscow in Madrid Last night’s debate between the leaders of Spain’s four biggest political parties was a rambling, ratty and revealing spectacle in…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+   "date": "2026-11-27T10:52:28+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Vyacheslav Prokofyev/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/354c5812d4a80c57aef34315306550f125254a44/222_0_3863_3089/master/3863.jpg?width=700&quality=85&auto=format&fit=max&s=631307a67cec875eacb58e9f22304c8e",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:59:32+00:00"
   },
   {
    "id": "d1c4fb1f29a3fdf6",
@@ -286,26 +306,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T10:36:14+00:00"
-  },
-  {
-   "id": "c950a2b9e8d7850e",
-   "title": "Trump calling Putin ‘friend’ like declaring friendship with Hitler during WW2, Zelenskyy says – Europe live",
-   "summary": "Ukraine’s president labels US counterpart’s comments ‘strange’ and urges Washington to increase pressure on Moscow And since Spain’s Pedro Sánchez skipped the summit altogether as he’s dramatically fighting for his future ahead of this Sunday’s parliamentary…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
-   "date": "2026-11-27T10:28:23+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Vyacheslav Prokofyev/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/354c5812d4a80c57aef34315306550f125254a44/222_0_3863_3089/master/3863.jpg?width=700&quality=85&auto=format&fit=max&s=631307a67cec875eacb58e9f22304c8e",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:59:32+00:00"
   },
   {
    "id": "8852bb397a39d166",
@@ -465,9 +465,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/7d90793b-7015-4d10-b4fa-764d2e0acba1,1795719265108/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/7d90793b-7015-4d10-b4fa-764d2e0acba1,1795719265108/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:03:44+00:00"
@@ -486,9 +486,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/0f876966-6d9d-4411-ac66-42a589a29ff9,1795738306263/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/0f876966-6d9d-4411-ac66-42a589a29ff9,1795738306263/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:03:44+00:00"
@@ -505,9 +505,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/3c383bcf-9249-4092-a118-188e3370dd61,1795741220764/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8256%2C4644%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/3c383bcf-9249-4092-a118-188e3370dd61,1795741220764/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8256%2C4644%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:03:44+00:00"

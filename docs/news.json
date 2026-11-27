@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T19:30:11+00:00",
+ "generatedAt": "2026-11-27T19:39:43+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,9 +177,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.7384304,1734128410000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C196%2C3300%2C1856%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.7384304,1734128410000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C196%2C3300%2C1856%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T19:30:11+00:00"
@@ -575,7 +575,7 @@
   },
   {
    "id": "e5e6ff6ee2ee1246",
-   "title": "Jared Kushner’s 70-minute interview reveals perils of treating Putin like a corporate rival",
+   "title": "Jared Kushner’s 70-minute interview reveals naive bias in handling of Putin’s aggression",
    "summary": "Trump’s son-in-law and senior negotiator paints Russian invasion of Ukraine as a misunderstanding to be resolved In the space of a 70-minute interview, Jared Kushner – Donald Trump’s son-in-law and a prominent US negotiator in Russia, Gaza and Iran – probably…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
@@ -784,7 +784,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "defence"
@@ -830,9 +830,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.5484128,1622163030000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.5484128,1622163030000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-27T15:32:41+00:00"
@@ -1197,10 +1197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Bill-21.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Bill-21.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Bill-21.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Carney-Bill-21.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T12:36:06+00:00"
@@ -6026,7 +6026,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8061,7 +8061,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

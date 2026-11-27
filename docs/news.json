@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T08:54:41+00:00",
+ "generatedAt": "2026-11-27T09:03:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 4
+   "kept": 5
   },
   {
    "source": "Global News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,87 @@
  ],
  "items": [
   {
+   "id": "4259174195464f03",
+   "title": "Supreme Court to render its decision on Quebec's secularism law today",
+   "summary": "On Friday morning, a record number of journalists and lawyers of record who've been sworn to confidentiality will be the first to read a historic judgment from the Supreme Court of Canada determining the fate of Quebec's controversial Bill 21.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/supreme-court-decison-bill-21-9.7437512?cmp=rss",
+   "date": "2026-11-27T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/7d90793b-7015-4d10-b4fa-764d2e0acba1,1795719265108/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:03:44+00:00"
+  },
+  {
+   "id": "48128c8c0e8cee6c",
+   "title": "This Independent is giving Poilievre's Conservatives the jitters ahead of a crucial byelection",
+   "summary": "The federal riding of Brantford-Brant South has been a Conservative stronghold for most of the last 20 years.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/brantford-byelection-dave-carrol-independent-conservative-9.7438039?cmp=rss",
+   "date": "2026-11-27T09:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/0f876966-6d9d-4411-ac66-42a589a29ff9,1795738306263/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C4238%2C2383%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:03:44+00:00"
+  },
+  {
+   "id": "2c81bf2ba01c9473",
+   "title": "The corruption case against Benjamin Netanyahu just suffered a serious blow. What comes next?",
+   "summary": "Israeli Prime Minister Benjamin Netanyahu was handed a major legal victory this week when the judges in the years-long corruption trial against him suggested the prosecution reconsider one case, work out a plea deal in another and entirely drop the third.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/benjamin-netanyahu-corruption-trial-9.7437235?cmp=rss",
+   "date": "2026-11-27T09:00:00+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/3c383bcf-9249-4092-a118-188e3370dd61,1795741220764/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8256%2C4644%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:03:44+00:00"
+  },
+  {
+   "id": "d6b109fd04ca95b6",
+   "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+   "summary": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T08:58:08+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg",
+    "w": 1200,
+    "h": 674,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:03:44+00:00"
+  },
+  {
    "id": "5cfd9d09f87a1b32",
    "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
    "summary": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project Opinion: Why Labour MPs are opposing Rosebank Podcast: are resignations next?",
@@ -197,10 +278,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Tala-Zidan-1-1795764657.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Tala-Zidan-1-1795764657.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Tala-Zidan-1-1795764657.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Tala-Zidan-1-1795764657.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T08:54:41+00:00"
@@ -8228,88 +8309,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T13:47:01+00:00"
-  },
-  {
-   "id": "06398dba1fb38649",
-   "title": "Once ‘capital of the Confederacy’, Virginia enshrines rights to voting, abortion and gay marriage",
-   "summary": "Organizers won key civil liberties protections on election day – and women and Black advocates were at the forefront Progressives made historic gains in the south during the midterm elections – and Virginia was no exception.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/virginia-voting-rights-abortion-gay-marriage",
-   "date": "2026-11-24T13:30:47+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Peter Casey/The Virginian-Pilot via Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4c5604354e661646eaf934e2fd471b9aff7a99cf/93_0_2999_2400/master/2999.jpg?width=700&quality=85&auto=format&fit=max&s=0e8387eb50a6bfaa8de344e8b43f34ca",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T13:47:01+00:00"
-  },
-  {
-   "id": "6f5903af2627a15e",
-   "title": "Ministers approve fast-track disability payments in England and Wales",
-   "summary": "Benefit claims made easier in first stage of shake-up of welfare system UK politics live – latest updates Disabled people with severe and lifelong conditions will be able to claim disability benefits more easily after a major review of the system by ministers.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/24/ministers-approve-fast-track-disability-payments-in-england-and-wales",
-   "date": "2026-11-24T13:30:46+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Christian Sinibaldi/The Guardian",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b2d8da8eae8ec8b601728701635dda4253a9df2b/615_0_6163_4929/master/6163.jpg?width=700&quality=85&auto=format&fit=max&s=f8968ab1bb0898b14c962ab126d65970",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T13:56:13+00:00"
-  },
-  {
-   "id": "77b6da1f275aef2c",
-   "title": "Russia-Ukraine war live: Moscow will ‘respond’ to attacks on oil refineries",
-   "summary": "Ukrainian drone attacks ​slashed Russian oil refineries' combined crude processing volumes by 45% since late October.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss",
-   "date": "2026-11-24T13:30:00+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b058e59021e8-1795526233.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b058e59021e8-1795526233.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T13:56:13+00:00"
-  },
-  {
-   "id": "1ce70166f672b7c3",
-   "title": "Judge unseals records on Ilhan Omar’s home search amid constitutional debate",
-   "summary": "Magistrate judge Matthew Sharbaugh, who approved federal raid on congresswoman’s home, raised concern over implications at time A magistrate judge who authorized a recent search of Ilhan Omar ’s home by federal agents ruled that the Minnesota Democratic…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/ilhan-omar-home-search-judge-ruling",
-   "date": "2026-11-24T13:25:02+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tim Evans/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/dcbec9fc92fe0c93c2eab862b97c84242b5259b3/352_0_1969_1576/master/1969.jpg?width=700&quality=85&auto=format&fit=max&s=d016ad841771aaa3505e394bea4e1e65",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T13:37:57+00:00"
   }
  ]
 }

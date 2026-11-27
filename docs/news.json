@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T11:31:40+00:00",
+ "generatedAt": "2026-11-27T11:40:52+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,12 +166,34 @@
  ],
  "items": [
   {
+   "id": "e4f5b470f5bad4c2",
+   "title": "What Spain’s election means for Morocco",
+   "summary": "The vote could reshape diplomatic relations, but shared strategic interests will continue to bind the two countries.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
+   "date": "2026-11-27T11:33:17+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0969c88950-1795779016.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0969c88950-1795779016.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T11:40:52+00:00"
+  },
+  {
    "id": "842f86a525430e00",
    "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
    "summary": "The department is working with cyber security experts to restore services and limit disruption According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "date": "2026-11-27T11:14:10+00:00",
+   "date": "2026-11-27T11:25:20+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -1806,10 +1828,10 @@
   {
    "id": "55561a792ec6400b",
    "title": "Tories want PM's wife Diana Fox Carney to testify to Parliament on oceans role",
-   "summary": "OTTAWA - The Conservatives are calling on Prime Minister Mark Carney's wife to testify to Parliament on her role as ocean envoy, arguing the government is not being transparent about her responsibilities and possible lobbying concerns.",
+   "summary": "In September, Fisheries Minister Joanne Thompson announced that Diana Fox Carney, will serve as Canada’s \"ocean envoy.\"",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/tories-want-pm-s-wife-diana-fox-carney-to-testify-to-parliament-on-oceans-role/article_fc768787-77fc-5f15-aeab-8a55f43eb30d.html",
-   "date": "2026-11-26T18:52:34+00:00",
+   "date": "2026-11-26T18:52:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -4885,7 +4907,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6920,7 +6942,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8289,26 +8311,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T08:33:15+00:00"
-  },
-  {
-   "id": "e27d2ae923bb584a",
-   "title": "Land mine casualties soar in Syria, two years after war",
-   "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T15:17:28+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T15:28:36+00:00"
   }
  ]
 }

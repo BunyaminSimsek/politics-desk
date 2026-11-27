@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T10:36:14+00:00",
+ "generatedAt": "2026-11-27T10:45:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 6
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -131,7 +131,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,48 @@
  ],
  "items": [
   {
+   "id": "9120d65b28a9dc18",
+   "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+   "summary": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T10:39:31+00:00",
+   "topic": "africa",
+   "region": "world",
+   "tags": [
+    "defence"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T10:45:33+00:00"
+  },
+  {
+   "id": "5d8d21b0040265ca",
+   "title": "Canada's top court to rule on Quebec's ban on wearing religious symbols",
+   "summary": "Canada's Supreme Court is about to release its decision on a controversial secularism law in Quebec - and the ruling will have an impact nationwide.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c78j8vk3r50o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T10:37:42+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a118/live/c2a998b0-e823-11f1-a58d-43263bea41a8.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a118/live/c2a998b0-e823-11f1-a58d-43263bea41a8.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T10:45:33+00:00"
+  },
+  {
    "id": "a434418f2a9f3e18",
    "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
    "summary": "Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.",
@@ -177,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2025/08/getty_68ae4c0709-1756253191.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2025/08/getty_68ae4c0709-1756253191.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2025/08/getty_68ae4c0709-1756253191.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2025/08/getty_68ae4c0709-1756253191.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T10:36:14+00:00"
@@ -188,15 +230,13 @@
   {
    "id": "c950a2b9e8d7850e",
    "title": "Trump calling Putin ‘friend’ like declaring friendship with Hitler during WW2, Zelenskyy says – Europe live",
-   "summary": "Ukraine’s president labels US counterpart’s comments ‘strange’ and urges Washington to increase pressure on Moscow In yesterday’s blog, I promised to give you an update this morning on the EU summit, which continued into the small hours.",
+   "summary": "Ukraine’s president labels US counterpart’s comments ‘strange’ and urges Washington to increase pressure on Moscow And since Spain’s Pedro Sánchez skipped the summit altogether as he’s dramatically fighting for his future ahead of this Sunday’s parliamentary…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
-   "date": "2026-11-27T10:13:40+00:00",
+   "date": "2026-11-27T10:28:23+00:00",
    "topic": "ukraine",
    "region": "world",
-   "tags": [
-    "economy"
-   ],
+   "tags": [],
    "kind": "news",
    "image": {
     "credit": "Photograph: Vyacheslav Prokofyev/Reuters",
@@ -210,10 +250,10 @@
   {
    "id": "842f86a525430e00",
    "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
-   "summary": "The department is working with cyber security experts to restore services and limit disruption Lib Dem leader Ed Davey has described the DWP incident as “deeply alarming”.",
+   "summary": "The department is working with cyber security experts to restore services and limit disruption Online portals for services including universal credit, personal independence payment (PIP) applications, the pension credit checker and the “Tell Us Once”…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "date": "2026-11-27T10:10:57+00:00",
+   "date": "2026-11-27T10:26:57+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -8271,48 +8311,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T15:10:14+00:00"
-  },
-  {
-   "id": "17f5857e2ae67ba4",
-   "title": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
-   "summary": "New York City mayor notes ‘massive impact’ on working Americans’ lives when Jensen Huang stepped down as CEO Zohran Mamdani , New York City ’s mayor, on Monday weighed in on the corporate turbulence surrounding Nvidia and the chipmaker’s chief executive…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/mamdani-nvidia-stock-market-ai",
-   "date": "2026-11-24T14:22:17+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lev Radin/Shutterstock",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2af8dc339680254d727ae111d98215911e512776/312_0_2916_2333/master/2916.jpg?width=700&quality=85&auto=format&fit=max&s=0dcb6e94a74cc113d3ea865bc632c4f2",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T14:33:22+00:00"
-  },
-  {
-   "id": "69f68dc33b0cddbb",
-   "title": "The next fight for democracy is in the states | Stacey Abrams",
-   "summary": "Defend those being targeted, even when the threat has not reached your door Welcome back to How We Win , a Guardian opinion series with bold ideas for America’s political future.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/19/democracy-fight-states",
-   "date": "2026-11-24T14:21:26+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Ryan Murphy/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5730f3f0569c254bfe36dea2fb0b460aae24dce8/302_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=dc26df643dd51d4aac9efbfdb014a742",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T14:33:22+00:00"
   }
  ]
 }

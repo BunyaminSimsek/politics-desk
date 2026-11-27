@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T01:05:41+00:00",
+ "generatedAt": "2026-11-27T01:15:09+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,29 @@
  ],
  "items": [
   {
+   "id": "666f43bd74281a99",
+   "title": "Threat from China looms large over Taiwan’s local elections",
+   "summary": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+   "date": "2026-11-27T01:00:49+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [
+    "elections",
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/46917c80b05c42e1fe661080ca09495a31ff79a7/387_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=e39b2fbe826a4bbdf674e9714a48cde8",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Ann Wang/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T01:15:09+00:00"
+  },
+  {
    "id": "0465599bc4f2cbbf",
    "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
    "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
@@ -197,10 +220,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T01:05:41+00:00"
@@ -341,9 +364,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/89c3aa54-8807-4e7e-a60c-1b27f4bd671e,1795732785627/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C269%2C5006%2C2815%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/89c3aa54-8807-4e7e-a60c-1b27f4bd671e,1795732785627/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C269%2C5006%2C2815%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T23:12:51+00:00"
@@ -621,9 +644,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/8b272f0f-a3e0-4046-9914-611bfe930f3d,1795726108943/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C4264%2C2398%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/8b272f0f-a3e0-4046-9914-611bfe930f3d,1795726108943/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C63%2C4264%2C2398%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T21:01:12+00:00"
@@ -8265,28 +8288,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T11:18:44+00:00"
-  },
-  {
-   "id": "094d704d9aa5409c",
-   "title": "EU to impose cap on Chinese hybrid EV imports next month",
-   "summary": "Temporary quotas on vehicles entering the bloc tariff-free will also apply to cars from the UK, Japan and Turkey Business live – latest updates The EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
-   "date": "2026-11-24T10:59:40+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Gareth Fuller/PA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/98dafebbb2f563aff059cc3b9f77cd32f0173ea0/1495_338_4286_3429/master/4286.jpg?width=700&quality=85&auto=format&fit=max&s=f32d1172c0c1c72697c830f12ceee8e5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T11:09:03+00:00"
   }
  ]
 }

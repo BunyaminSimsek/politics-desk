@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T01:33:58+00:00",
+ "generatedAt": "2026-11-27T01:43:06+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -65,13 +65,13 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 13
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "da27f7263691c42d",
+   "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+   "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T01:35:11+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T01:43:06+00:00"
+  },
   {
    "id": "666f43bd74281a99",
    "title": "Threat from China looms large over Taiwan’s local elections",
@@ -603,9 +623,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.5901410,1726186999000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C119%2C1280%2C720%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.5901410,1726186999000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C119%2C1280%2C720%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-26T21:38:25+00:00"
@@ -4060,7 +4080,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6095,7 +6115,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8264,26 +8284,6 @@
     "credit": "Photograph: Prime Minister's Prizes for Science",
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/9158937167556e9b18af557d3528a389a0ca3a26/990_0_6366_5093/master/6366.jpg?width=700&quality=85&auto=format&fit=max&s=013d844d0060492cbe0de6693aeeb2d3",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T11:18:44+00:00"
-  },
-  {
-   "id": "f27e5e38eae6b3e4",
-   "title": "The case for Chris Van Hollen as US Senate majority leader | Linda Sarsour",
-   "summary": "Electing Van Hollen would show voters that the Democratic party is serious about change.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/24/chris-van-hollen-senate-majority-leader",
-   "date": "2026-11-24T11:00:45+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Nathan Howard/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7aa3b42d537ebd17c3c131c453a3c770e3369e1e/540_0_5419_4336/master/5419.jpg?width=700&quality=85&auto=format&fit=max&s=3ef13aa3b4fb9063d1604984ef0e101b",
     "w": 700
    },
    "breaking": false,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T14:56:06+00:00",
+ "generatedAt": "2026-11-27T15:05:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "52fed062ded63d7b",
+   "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+   "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T14:55:15+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T15:05:14+00:00"
+  },
+  {
    "id": "78c24ce40768640a",
    "title": "CP NewsAlert: Supreme Court upholds most portions of Quebec secularism law",
    "summary": "The case stems from a Quebec law known as Bill 21, which bans public servants in positions of authority from wearing religious symbols while on the job.",
@@ -197,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/b8/4b875218-2ac4-50cd-ae4d-6c26a854fcb4/6b087abbb8346.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 770,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/b8/4b875218-2ac4-50cd-ae4d-6c26a854fcb4/6b087abbb8346.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/b8/4b875218-2ac4-50cd-ae4d-6c26a854fcb4/6b087abbb8346.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/b8/4b875218-2ac4-50cd-ae4d-6c26a854fcb4/6b087abbb8346.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T14:56:06+00:00"
@@ -533,7 +553,7 @@
     "url": "https://globalnews.ca/wp-content/uploads/2026/08/supreme-court-of-canada.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
     "w": 832
    },
-   "breaking": false,
+   "breaking": true,
    "addedAt": "2026-11-27T12:36:06+00:00"
   },
   {
@@ -8293,26 +8313,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:49:40+00:00"
-  },
-  {
-   "id": "3d414f4d9ca54d24",
-   "title": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
-   "summary": "Analysts say US sanctions unlikely to weaken Hezbollah significantly, but risk hurting everyday Lebanese.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact?traffic_source=rss",
-   "date": "2026-11-24T17:25:57+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab9d4e1ea0d-1790563553.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab9d4e1ea0d-1790563553.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T17:58:53+00:00"
   }
  ]
 }

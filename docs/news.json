@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T12:54:26+00:00",
+ "generatedAt": "2026-11-27T13:03:40+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "02ad66818121b9b6",
+   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+   "summary": "US president's new tariff regime targets China hardest, just weeks before Trump and Xi meet again in Miami.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
+   "date": "2026-11-27T12:48:44+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b095eba50-1795776186_f9e197-1795779007.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b095eba50-1795776186_f9e197-1795779007.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T13:03:40+00:00"
+  },
+  {
    "id": "f087d7c7855c3ac1",
    "title": "Who to watch in Spain's election race",
    "summary": "As Spaniards go to the polls on Sunday, these are the key political figures aiming to take power in Spain's next government.",
@@ -179,10 +201,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a730/live/cb263950-ea4c-11f1-b220-b9f21129b546.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a730/live/cb263950-ea4c-11f1-b220-b9f21129b546.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a730/live/cb263950-ea4c-11f1-b220-b9f21129b546.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a730/live/cb263950-ea4c-11f1-b220-b9f21129b546.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T12:54:26+00:00"
@@ -8296,26 +8318,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:31:33+00:00"
-  },
-  {
-   "id": "2cdc90255f4dc21a",
-   "title": "DEA allowed 1.4m fentanyl pills to be ‘walked’ into US during sting operation, report alleges",
-   "summary": "Investigation finds DEA permitted the pills to be trafficked during a New Mexico sting operation The US Drug Enforcement Administration (DEA) allowed 1.4m fentanyl pills to be “walked” into the country during a New Mexico sting operation, billed as the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/24/dea-fentanyl-new-mexico-sting",
-   "date": "2026-11-24T16:26:47+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: U.S. Department of Justice/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/7e70e1506a39d53aa968f5ed51b0f3c3aff324b6/285_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=67ce09599a0a3ddd2432f7b90700f766",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T16:35:39+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T17:08:07+00:00",
+ "generatedAt": "2026-11-27T17:17:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -11,7 +11,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/webfeed/rss/rss-canada-toronto",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "CBC World",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "ebaf38c075fb60b2",
+   "title": "Ontario's gaming minister echoes Ford's concerns about online gambling ads",
+   "summary": "Ontario's minister of tourism, culture and gaming said the province is doing everything it can to improve how it regulates online gaming ads, after the premier called the ads \"out of control\" earlier this week.",
+   "source": "CBC Toronto",
+   "url": "https://www.cbc.ca/news/canada/toronto/ontario-gaming-minister-gambling-ads-9.7438853?cmp=rss",
+   "date": "2026-11-27T17:13:45+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/d0f41db9-36b8-43e0-873a-35381fbd6db0,1795797656152/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C441%2C8468%2C4763%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T17:17:16+00:00"
+  },
+  {
    "id": "480b425d2457ed62",
    "title": "Supreme Court upholds Quebec's use of notwithstanding clause for secularism law",
    "summary": "The decision found that the provincial government’s pre-emptive use of the Constitution’s “notwithstanding clause” was valid.",
@@ -237,10 +256,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795798046.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795798046.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795798046.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795798046.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T17:08:07+00:00"
@@ -8293,26 +8312,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T19:04:41+00:00"
-  },
-  {
-   "id": "bee4769f22094930",
-   "title": "Quebec appeals ruling reinstating oath to King as legislature opening looms",
-   "summary": "Quebec opposition leaders are urging Premier Paul St-Pierre Plamondon not to delay opening the parliamentary session over the oath to the King.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12164381/quebec-king-oath/",
-   "date": "2026-11-24T18:40:09+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 768,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/a77b3a2657cdfd02919f85c9cb987c3f09684340433855a20f38a734090c1c4e.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/a77b3a2657cdfd02919f85c9cb987c3f09684340433855a20f38a734090c1c4e.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1017
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T01:44:15+00:00"
   }
  ]
 }

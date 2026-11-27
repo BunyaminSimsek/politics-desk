@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T16:11:40+00:00",
+ "generatedAt": "2026-11-27T16:21:00+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -143,7 +143,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/americas/rss",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "257fc92f92fb1a23",
+   "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+   "summary": "Closely watched decision exposes tensions between minority rights and the power of government to override those rights Canada’s top court has largely upheld a controversial secularism law in the province of Quebec barring public sector workers from wearing…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+   "date": "2026-11-27T16:13:07+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/ad8c8bb232c8d2eaa7194673e8f1d7308e2a80cb/355_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=45bf99615d343572799ce953075af832",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Christinne Muschi/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T16:21:00+00:00"
+  },
+  {
    "id": "1f64c712b7c0db63",
    "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
    "summary": "Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.",
@@ -177,13 +197,35 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg",
-    "w": 1200,
     "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T16:11:40+00:00"
+  },
+  {
+   "id": "7737698297c40100",
+   "title": "Ottawa says first-half deficit at $10.5B, improved from last year",
+   "summary": "OTTAWA - The federal government says its deficit for the first six months of its fiscal year was $10.5 billion.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/ottawa-says-first-half-deficit-at-10-5b-improved-from-last-year/article_b65d9938-fab1-53f6-b4c3-e4e5fb360b3b.html",
+   "date": "2026-11-27T16:05:29+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "economy"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/86/486b3480-e24f-5a0a-a734-b54a156fdd7c/6b09ab5b1b245.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 870,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/86/486b3480-e24f-5a0a-a734-b54a156fdd7c/6b09ab5b1b245.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T16:21:00+00:00"
   },
   {
    "id": "480b425d2457ed62",
@@ -8274,45 +8316,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T18:36:03+00:00"
-  },
-  {
-   "id": "e9a50a54eb76005e",
-   "title": "Quebec government appeals ruling reinstating oath to the King",
-   "summary": "The ruling raised questions about whether the parliamentary session would open as planned on Dec. 1, after all 127 legislature members chose to swear an oath only to the Quebec people.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/quebec/quebec-opposition-leaders-urge-premier-not-to-delay-session-over-oath-to-the-king/article_d8f7cafb-059c-51e0-a27a-17ff586f1ff2.html",
-   "date": "2026-11-24T18:25:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 906,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a6/ba6b2003-cba4-5847-ac42-71669765e6f0/6b05d7bbafd75.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a6/ba6b2003-cba4-5847-ac42-71669765e6f0/6b05d7bbafd75.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T18:45:53+00:00"
-  },
-  {
-   "id": "7223b2148f8fa7b7",
-   "title": "Rudy Giuliani awarded Presidential Medal of Freedom a year after being pardoned for potential crimes",
-   "summary": "Rudolph Giuliani, the former New York City mayor and longtime ally of President Donald Trump, was honoured on Tuesday with the Presidential Medal of Freedom, which comes after several years of personal legal peril.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/us-medal-of-freedom-9.7433727?cmp=rss",
-   "date": "2026-11-24T18:16:39+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/0de114f7-e99f-4798-98ac-56cdb40f2710,1795541876943/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C241%2C4627%2C2602%29%3B"
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T18:26:33+00:00"
   }
  ]
 }

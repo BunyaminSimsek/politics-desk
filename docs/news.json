@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T15:23:32+00:00",
+ "generatedAt": "2026-11-27T15:32:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,45 @@
   }
  ],
  "items": [
+  {
+   "id": "800954b8057d5375",
+   "title": "CRTC orders Bell, Rogers, Telus to stop charging prohibited wireless fees by Dec. 27",
+   "summary": "Canada’s telecommunications regulator says Bell, Rogers and Telus have charged consumers fees that are prohibited under the Telecommunications Act, and has ordered them to stop by Dec. 27.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/business/bell-rogers-telus-fees-9.7438448?cmp=rss",
+   "date": "2026-11-27T15:21:35+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/1.5484128,1622163030000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T15:32:41+00:00"
+  },
+  {
+   "id": "3347e1aeb98950ad",
+   "title": "Ford government demands Criminal Code changes for home invasions",
+   "summary": "A letter tells the federal government to \"strengthen and clarify the legal protections available to homeowners confronted with a home invasion.\"",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/provincial/ford-government-demands-criminal-code-changes-for-home-invasions/article_709795c0-02cb-498b-b0c8-594847c15df0.html",
+   "date": "2026-11-27T15:15:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/34/d34fd2a1-fb29-5333-af60-16a350fdd100/6b099c5a9b605.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/34/d34fd2a1-fb29-5333-af60-16a350fdd100/6b099c5a9b605.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T15:32:41+00:00"
+  },
   {
    "id": "842f86a525430e00",
    "title": "UK pensions department hit by ‘serious cyber incident’, minister says – UK politics live",
@@ -5437,7 +5476,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7472,7 +7511,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8270,46 +8309,6 @@
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-ThumbnailV2-1795541647.jpg?quality=80&resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-ThumbnailV2-1795541647.jpg?quality=80&resize=1200%2C800",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T18:08:06+00:00"
-  },
-  {
-   "id": "daa0a47c3dfb8a8a",
-   "title": "Ottawa says UN court ruling on Rohingya genocide is 'binding,' pledges no new action",
-   "summary": "OTTAWA - The Carney government has yet to announce any actions in response to what it calls a \"binding\" ruling by the UN's top court last week that Myanmar perpetrated a genocide against its Rohingya minority.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/ottawa-says-un-court-ruling-on-rohingya-genocide-is-binding-pledges-no-new-action/article_96ff6981-37b4-57a5-829d-c347046f7397.html",
-   "date": "2026-11-24T17:46:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/64/4648d600-013a-4afb-9959-4a0448501dec/6b06dc40c361c.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/64/4648d600-013a-4afb-9959-4a0448501dec/6b06dc40c361c.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T17:58:53+00:00"
-  },
-  {
-   "id": "14815130be7ddd28",
-   "title": "Democrats demand records as investigation into Trump Jr’s investment firm widens",
-   "summary": "Four firms linked to 1789 Capital asked to cooperate as Jamie Raskin leads inquiry into possible insider dealing Democrats have widened their investigation into Donald Trump Jr’s investment firm, demanding records from four companies that gained its backing…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-jr-investigations-investments",
-   "date": "2026-11-24T17:45:36+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Tom Brenner/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/401e46d2f072b5f00faeb7a524543c0c6fd6adb4/237_0_2776_2220/master/2776.jpg?width=700&quality=85&auto=format&fit=max&s=9f76f7742402c22705465761286628b9",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-24T18:08:06+00:00"

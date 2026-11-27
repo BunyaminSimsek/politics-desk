@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T22:21:21+00:00",
+ "generatedAt": "2026-11-27T22:30:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -47,7 +47,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "BBC News",
@@ -166,6 +166,21 @@
  ],
  "items": [
   {
+   "id": "50c9b5aa045d3cfa",
+   "title": "With Abbott out, what does the future look like for data centers in Texas?",
+   "summary": "Texas has been one of the most welcoming states for data centers, but that might change with a new governor coming in.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/27/nx-s1-6048749/with-abbott-out-what-does-the-future-look-like-for-data-centers-in-texas",
+   "date": "2026-11-27T22:20:33+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": null,
+   "breaking": false,
+   "addedAt": "2026-11-27T22:30:23+00:00"
+  },
+  {
    "id": "e4e826fdf41c9f40",
    "title": "The explosion of extreme wealth is the major problem of our time | Bernie Sanders",
    "summary": "At this pivotal moment in American history, let us move forward together to take on and defeat a powerful, greedy and corrupt ruling class We are at a pivotal moment in history.",
@@ -177,10 +192,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/ebf5a271f7a37c05df6ac1f3eb3bf728d51e5332/153_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=a39bb23eeb7a9f4842c35073466325bd",
-    "w": 700,
+    "credit": "Photograph: Jonathan Ernst/Reuters",
     "h": 560,
-    "credit": "Photograph: Jonathan Ernst/Reuters"
+    "url": "https://i.guim.co.uk/img/media/ebf5a271f7a37c05df6ac1f3eb3bf728d51e5332/153_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=a39bb23eeb7a9f4842c35073466325bd",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-27T22:21:21+00:00"
@@ -241,8 +256,8 @@
   },
   {
    "id": "f8bf0c16b24fde30",
-   "title": "Quebec Court of Appeal to rule Monday about oath to the King by legislators",
-   "summary": "MONTREAL - A Quebec Court of Appeal judge says she will rule Monday on whether members of the provincial legislature can resume parliamentary work without swearing allegiance to the King.",
+   "title": "Quebec Court of Appeal to rule Monday on oath to the King by legislators",
+   "summary": "MONTREAL - Quebec's Court of Appeal will rule Monday on the provincial government's bid to allow elected officials to sit in the legislature without swearing allegiance to the King.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/quebec/quebec-court-of-appeal-to-rule-monday-about-oath-to-the-king-by-legislators/article_34313a07-aa83-50b5-87fe-259a48230de0.html",
    "date": "2026-11-27T21:30:47+00:00",
@@ -8287,28 +8302,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T00:21:08+00:00"
-  },
-  {
-   "id": "ed632e0b8edc4da1",
-   "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
-   "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García has left the United States of his own volition, his lawyers confirmed on Tuesday, with the Department of…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
-   "date": "2026-11-24T23:50:31+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "immigration"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Alex Wong/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/15d0ddecd877f6d5df4f8e4c21bb5be5961696ea/1245_0_4004_3203/master/4004.jpg?width=700&quality=85&auto=format&fit=max&s=07232e06887342e29e6c675de596e2dc",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T23:53:21+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T21:05:29+00:00",
+ "generatedAt": "2026-11-27T21:15:04+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -186,6 +186,26 @@
    "addedAt": "2026-11-27T20:18:20+00:00"
   },
   {
+   "id": "54d6e63b64d6c9d1",
+   "title": "Five takeaways from the Supreme Court's ruling on Quebec secularism law",
+   "summary": "MONTREAL - In a landmark 520-page decision, the Supreme Court upheld most of Quebec's secularism law known as Bill 21.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/quebec/five-takeaways-from-the-supreme-court-s-ruling-on-quebec-secularism-law/article_7dc95f6d-3ec6-56bb-9f93-6d3145c33bb9.html",
+   "date": "2026-11-27T20:57:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/32/d3294400-9bea-5268-8ca8-d1c0bb292279/6b09ef57cee6b.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 845,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/d/32/d3294400-9bea-5268-8ca8-d1c0bb292279/6b09ef57cee6b.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T21:15:04+00:00"
+  },
+  {
    "id": "b9b6b636e8272686",
    "title": "Venezuela to repeal law that bans opposition figures from office",
    "summary": "It comes a month after opposition leader Maria Corina Machado returned to Venezuela.",
@@ -197,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09e7e49444-1795811300.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09e7e49444-1795811300.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09e7e49444-1795811300.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09e7e49444-1795811300.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T21:05:29+00:00"
@@ -379,9 +399,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/9e507151-5853-4649-a50a-12ceb7e0d86c,1795804436036/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5765%2C3242%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/9e507151-5853-4649-a50a-12ceb7e0d86c,1795804436036/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5765%2C3242%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-27T19:10:55+00:00"
@@ -967,7 +987,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "defence"
@@ -1052,9 +1072,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/48a13bf7-e96d-4fc1-bcd3-4ed93dd56719,1795813274412/full/max/0/default.jpg?im=Crop%2Crect%3D%28438%2C645%2C2713%2C1526%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/48a13bf7-e96d-4fc1-bcd3-4ed93dd56719,1795813274412/full/max/0/default.jpg?im=Crop%2Crect%3D%28438%2C645%2C2713%2C1526%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T18:33:21+00:00"
@@ -6169,7 +6189,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8204,7 +8224,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8291,28 +8311,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T22:48:11+00:00"
-  },
-  {
-   "id": "4001d0e7d9acba02",
-   "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
-   "summary": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harm A group of more than 120 climate scientists have urged US lawmakers to not pass contentious legislation to speed up the building of energy…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
-   "date": "2026-11-24T22:09:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "climate"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jim Watson/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/725b11778789cc1aefe2d9ba334c2392099bb1ea/687_0_6882_5504/master/6882.jpg?width=700&quality=85&auto=format&fit=max&s=38782c52560892982462bca02e15cfed",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T22:29:27+00:00"
   }
  ]
 }

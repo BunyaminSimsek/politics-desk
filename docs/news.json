@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T01:15:09+00:00",
+ "generatedAt": "2026-11-27T01:24:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -180,10 +180,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/46917c80b05c42e1fe661080ca09495a31ff79a7/387_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=e39b2fbe826a4bbdf674e9714a48cde8",
-    "w": 700,
+    "credit": "Photograph: Ann Wang/Reuters",
     "h": 560,
-    "credit": "Photograph: Ann Wang/Reuters"
+    "url": "https://i.guim.co.uk/img/media/46917c80b05c42e1fe661080ca09495a31ff79a7/387_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=e39b2fbe826a4bbdf674e9714a48cde8",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-27T01:15:09+00:00"
@@ -364,9 +364,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/89c3aa54-8807-4e7e-a60c-1b27f4bd671e,1795732785627/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C269%2C5006%2C2815%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/89c3aa54-8807-4e7e-a60c-1b27f4bd671e,1795732785627/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C269%2C5006%2C2815%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-26T23:12:51+00:00"
@@ -1352,7 +1352,7 @@
   {
    "id": "8420a2d9f35f12a6",
    "title": "Prime Minister Mark Carney visits Sask. ahead of December byelection",
-   "summary": "The last time a sitting prime minister stopped in Yorkton was in 2010, when Stephen Harper visited the area after devastating flooding.",
+   "summary": "Prime Minister Mark Carney spoke in Yorkton, Sask., on Thursday morning — a rare stop in the city by the head of the federal government. The last time a sitting prime minister visited Yorkton was in 2010, when Stephen Harper visited the area.",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/canada/saskatchewan/mark-carney-visits-sask-2026-9.7437029?cmp=rss",
    "date": "2026-11-26T16:42:06+00:00",

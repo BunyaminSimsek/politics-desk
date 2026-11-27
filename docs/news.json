@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T08:45:35+00:00",
+ "generatedAt": "2026-11-27T08:54:41+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,46 @@
  ],
  "items": [
   {
+   "id": "5cfd9d09f87a1b32",
+   "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
+   "summary": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project Opinion: Why Labour MPs are opposing Rosebank Podcast: are resignations next?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
+   "date": "2026-11-27T08:39:59+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Andy Rain/EPA",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3b4b8cb55704a3ce1cd05925a86f51425692e4d8/617_0_4074_3259/master/4074.jpg?width=700&quality=85&auto=format&fit=max&s=20c891d02fbf3916d17187771d38b8cd",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T15:14:45+00:00"
+  },
+  {
+   "id": "5fb354dc0a8e7c4e",
+   "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
+   "summary": "One in eight children is stunted. Many have bones that have not matured the way they should. Treatment is elusive.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
+   "date": "2026-11-27T08:37:52+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Tala-Zidan-1-1795764657.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Tala-Zidan-1-1795764657.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T08:54:41+00:00"
+  },
+  {
    "id": "3075db6e798bff16",
    "title": "At critical juncture, Friedrich Merz finds Germans’ support for Ukraine wavering",
    "summary": "German chancellor is on difficult terrain, at home and abroad, as he fights to maintain European backing for Kyiv The German chancellor, Friedrich Merz, is navigating choppy waters both at home and abroad over his insistence that Europe must keep up support –…",
@@ -177,10 +217,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/97b3ddc6aaa11f0ad62558d6d5f150837db7a46c/291_0_2859_2288/master/2859.jpg?width=700&quality=85&auto=format&fit=max&s=510bf0d807fad25990f472d7e7fd8f2e",
-    "w": 700,
+    "credit": "Photograph: Yves Herman/Reuters",
     "h": 560,
-    "credit": "Photograph: Yves Herman/Reuters"
+    "url": "https://i.guim.co.uk/img/media/97b3ddc6aaa11f0ad62558d6d5f150837db7a46c/291_0_2859_2288/master/2859.jpg?width=700&quality=85&auto=format&fit=max&s=510bf0d807fad25990f472d7e7fd8f2e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-27T08:45:35+00:00"
@@ -1825,26 +1865,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T17:24:13+00:00"
-  },
-  {
-   "id": "5cfd9d09f87a1b32",
-   "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
-   "summary": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project Opinion: Why Labour MPs are opposing Rosebank Podcast: are resignations next?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
-   "date": "2026-11-26T16:13:09+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Andy Rain/EPA",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3b4b8cb55704a3ce1cd05925a86f51425692e4d8/617_0_4074_3259/master/4074.jpg?width=700&quality=85&auto=format&fit=max&s=20c891d02fbf3916d17187771d38b8cd",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T15:14:45+00:00"
   },
   {
    "id": "11e0cf03506c5776",
@@ -4476,7 +4496,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6511,7 +6531,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8286,26 +8306,6 @@
     "credit": "Photograph: Tim Evans/Reuters",
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/dcbec9fc92fe0c93c2eab862b97c84242b5259b3/352_0_1969_1576/master/1969.jpg?width=700&quality=85&auto=format&fit=max&s=d016ad841771aaa3505e394bea4e1e65",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T13:37:57+00:00"
-  },
-  {
-   "id": "9ce30b343a9c00c9",
-   "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
-   "summary": "Youngest title match in chess history starts Tuesday First move at 3pm local (2pm GMT, 9am EST, 7.30pm IST) Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
-   "date": "2026-11-24T13:19:15+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Salvatore Di Nolfi/Keystone/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/1402001ee84ede078095fac17b4c17fbf5f37aa6/415_0_3875_3100/master/3875.jpg?width=700&quality=85&auto=format&fit=max&s=a7d29704db7cd5bef517d5a9fec1150f",
     "w": 700
    },
    "breaking": false,

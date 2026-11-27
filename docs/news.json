@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T14:27:33+00:00",
+ "generatedAt": "2026-11-27T14:37:12+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 12
+   "kept": 13
   },
   {
    "source": "BBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "30970aa730cb7e26",
+   "title": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
+   "summary": "Costa Rica is under pressure over its decision to bar the UN expert who has documented Israel's genocidal war on Gaza.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss",
+   "date": "2026-11-27T14:17:25+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-03-24T091407Z_414780193_RC2WAKAPHKHD_RTRMADP_3_ISRAEL-PALESTINIANS-UN-EXPERT-1788881286.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-03-24T091407Z_414780193_RC2WAKAPHKHD_RTRMADP_3_ISRAEL-PALESTINIANS-UN-EXPERT-1788881286.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T14:37:12+00:00"
+  },
   {
    "id": "c950a2b9e8d7850e",
    "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
@@ -468,9 +488,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.6831073,1702415985000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C36%2C3877%2C2180%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.6831073,1702415985000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C36%2C3877%2C2180%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T12:26:37+00:00"
@@ -5317,7 +5337,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7352,7 +7372,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8293,29 +8313,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T14:33:22+00:00"
-  },
-  {
-   "id": "b2180152bcd17179",
-   "title": "Defence literacy must become a national security priority in Canada",
-   "summary": "Over the past 18 months, the Canadian government has committed record levels of funding to national defence .",
-   "source": "The Conversation",
-   "url": "https://theconversation.com/defence-literacy-must-become-a-national-security-priority-in-canada-297120",
-   "date": "2026-11-24T17:08:16+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "economy",
-    "defence"
-   ],
-   "kind": "analysis",
-   "image": {
-    "h": 600,
-    "small": "https://images.theconversation.com/files/773640/original/file-20261123-62-hvul2z.JPG?ixlib=rb-4.1.1&rect=0%2C634%2C6500%2C3250&q=45&auto=format&h=668&w=640&fit=clip",
-    "url": "https://images.theconversation.com/files/773640/original/file-20261123-62-hvul2z.JPG?ixlib=rb-4.1.1&rect=0%2C634%2C6500%2C3250&q=45&auto=format&h=668&w=1200&fit=clip",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T17:40:38+00:00"
   }
  ]
 }

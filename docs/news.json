@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T18:33:21+00:00",
+ "generatedAt": "2026-11-27T18:43:00+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 1
+   "kept": 2
   },
   {
    "source": "CTV News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 23
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,47 @@
  ],
  "items": [
   {
+   "id": "87c3c76c213f83d8",
+   "title": "Ontario calls for Criminal Code changes to give home invasion victims more protection",
+   "summary": "Ontario is calling on Ottawa to amend federal law to give Canadians stronger protections to confront attackers in their homes after a spate of violent home invasions in Toronto.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12168990/ontario-home-invasions-legal-protections/",
+   "date": "2026-11-27T18:39:38+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/0c68a125a50ddb16041144ce2f4faf49a5d4bf01e8e89a09a07d24dde0ed79b1.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024,
+    "h": 752,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/0c68a125a50ddb16041144ce2f4faf49a5d4bf01e8e89a09a07d24dde0ed79b1.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T18:43:00+00:00"
+  },
+  {
+   "id": "d39d8e189a521db9",
+   "title": "Poilievre heading to Washington next week in push for tariff-free trade with U.S.",
+   "summary": "Conservative Leader Pierre Poilievre is heading to Washington next week as trade talks between Canada and the United States continue.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/poilievre-washington-trip-9.7439098?cmp=rss",
+   "date": "2026-11-27T18:39:26+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/c7e2384b-3b6a-4e1f-9cc6-d97e7b9a4362,1795804145822/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C319%2C5927%2C3333%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T18:43:00+00:00"
+  },
+  {
    "id": "4d9a433ad0b5861f",
    "title": "An explainer on the notwithstanding clause and how governments have used it",
    "summary": "MONTREAL - The Supreme Court of Canada largely upheld Quebec's secularism law Friday in a landmark decision that clarifies how governments can use the notwithstanding clause to override certain Charter rights.",
@@ -197,10 +238,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/2d3832750b4e0b3435ab9c1da113cb94cdd8b8cf/254_0_3291_2633/master/3291.jpg?width=700&quality=85&auto=format&fit=max&s=18c5c53b3590c34e799452e65282e101",
-    "w": 700,
+    "credit": "Photograph: Kevin Dietsch/Getty Images",
     "h": 560,
-    "credit": "Photograph: Kevin Dietsch/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/2d3832750b4e0b3435ab9c1da113cb94cdd8b8cf/254_0_3291_2633/master/3291.jpg?width=700&quality=85&auto=format&fit=max&s=18c5c53b3590c34e799452e65282e101",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-27T18:33:21+00:00"
@@ -292,7 +333,7 @@
   {
    "id": "ecabf2f51c7c6d49",
    "title": "Zelenskyy criticizes Trump for cozying up to Putin as EU kicks Ukraine funding down the road",
-   "summary": "Ukrainian President Volodymyr Zelenskyy criticized Donald Trump for cozying up to Putin, delaying delivery of promised Patriot missiles and not paying enough attention to the Ukraine war in an interview with the BBC that took place in Kyiv a day after the…",
+   "summary": "Ukrainian President Volodymyr Zelenskyy criticized Donald Trump for cozying up to Russian President Vladimir Putin, delaying delivery of promised Patriot missiles and not paying enough attention to the Ukraine war in an interview with the BBC in Kyiv that…",
    "source": "CBC World",
    "url": "https://www.cbc.ca/news/world/zelensky-eu-ukraine-funding-9.7438377?cmp=rss",
    "date": "2026-11-27T17:41:21+00:00",
@@ -603,7 +644,7 @@
    "summary": "Centrica boss memo to 400 workers at gas plant off Yorkshire coast says utility doing all it can ‘to save your jobs’ The boss of the British Gas owner Centrica has told hundreds of staff at its largest gas storage facility that he was seeking urgent talks…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
-   "date": "2026-11-27T15:56:32+00:00",
+   "date": "2026-11-27T15:56:31+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -664,7 +705,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -759,7 +800,7 @@
   },
   {
    "id": "77630e0c8bc7ec1a",
-   "title": "Prime Minister Mark Carney talks major projects in northern visit",
+   "title": "Prime Minister Mark Carney in Yellowknife for major announcement",
    "summary": "",
    "source": "CBC News",
    "url": "https://www.cbc.ca/news/canada/north/livestory/prime-minister-mark-carney-north-9.7438167?cmp=rss",
@@ -769,9 +810,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/911900c9-45f4-4522-840a-5818b088a6b2,1795794571410/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/911900c9-45f4-4522-840a-5818b088a6b2,1795794571410/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T18:33:21+00:00"
@@ -5906,7 +5947,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7941,7 +7982,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8275,46 +8316,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T20:46:51+00:00"
-  },
-  {
-   "id": "7044764e97a1be3c",
-   "title": "CSIS engages Iranian, Jewish communities targeted by foreign interference",
-   "summary": "A senior Canadian intelligence official identified Canada’s Jewish and Iranian communities as being vulnerable to foreign interference.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12164483/csis-engages-iranian-jewish-communities-foreign-interference/",
-   "date": "2026-11-24T20:40:55+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/05/CP13214033-e1777672969499.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/05/CP13214033-e1777672969499.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1190
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T20:46:51+00:00"
-  },
-  {
-   "id": "6643c8b0549ab7a2",
-   "title": "Alberta takes symbolic stand against federal hate crime law, says it silences speech",
-   "summary": "Premier Danielle Smith said her government would soon invoke her sovereignty act in the legislature and table a motion outlining Alberta's intention to push back against the law.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/alberta/alberta-takes-symbolic-stand-against-federal-hate-crime-law-says-it-silences-speech/article_1e40f241-32a9-5eda-9a88-7e39df17ff30.html",
-   "date": "2026-11-24T20:29:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 947,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/1f/c1fcab0c-da20-479b-97d7-f660af562c49/6b06df197501b.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/c/1f/c1fcab0c-da20-479b-97d7-f660af562c49/6b06df197501b.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T20:37:22+00:00"
   }
  ]
 }

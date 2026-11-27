@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T10:26:57+00:00",
+ "generatedAt": "2026-11-27T10:36:14+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -65,13 +65,13 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "a434418f2a9f3e18",
+   "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
+   "summary": "Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
+   "date": "2026-11-27T10:31:20+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2025/08/getty_68ae4c0709-1756253191.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2025/08/getty_68ae4c0709-1756253191.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T10:36:14+00:00"
+  },
   {
    "id": "c950a2b9e8d7850e",
    "title": "Trump calling Putin ‘friend’ like declaring friendship with Hitler during WW2, Zelenskyy says – Europe live",
@@ -8290,26 +8310,6 @@
     "h": 560,
     "url": "https://i.guim.co.uk/img/media/5730f3f0569c254bfe36dea2fb0b460aae24dce8/302_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=dc26df643dd51d4aac9efbfdb014a742",
     "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T14:33:22+00:00"
-  },
-  {
-   "id": "249907e7d957a7c1",
-   "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
-   "summary": "Ukraine's involvement in Libya raises concerns as Zelenskyy admits targeting Russian vessels in a key port city.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss",
-   "date": "2026-11-24T14:16:33+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250510__468H6NP__v1__HighRes__RussiaLibyaDiplomacyHistoryWwiiAnniversary-1795515547.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250510__468H6NP__v1__HighRes__RussiaLibyaDiplomacyHistoryWwiiAnniversary-1795515547.jpg?resize=1200%2C800",
-    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-24T14:33:22+00:00"

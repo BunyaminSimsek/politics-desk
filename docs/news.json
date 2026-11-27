@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T13:49:56+00:00",
+ "generatedAt": "2026-11-27T13:59:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,67 @@
  ],
  "items": [
   {
+   "id": "842f86a525430e00",
+   "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
+   "summary": "The department is working with cyber security experts to restore services and limit disruption Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+   "date": "2026-11-27T13:48:41+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Russell Hart/Alamy",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:22:34+00:00"
+  },
+  {
+   "id": "a72e7111a1b9a786",
+   "title": "Supreme Court set to deliver ruling on Quebec's secularism law",
+   "summary": "",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/canada/montreal/livestory/quebec-bill-21-supreme-court-of-canada-ruling-9.7434446?cmp=rss",
+   "date": "2026-11-27T13:45:52+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/8a2ccb81-484b-4e9e-990c-41a5a6a4eaf5,1795732584276/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C900%2C8640%2C4860%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T13:59:44+00:00"
+  },
+  {
+   "id": "c950a2b9e8d7850e",
+   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
+   "summary": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+   "date": "2026-11-27T13:40:53+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Burak Akbulut/Anadolu/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=700&quality=85&auto=format&fit=max&s=569014a834ba8b37c746829481e3fe2f",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T09:59:32+00:00"
+  },
+  {
    "id": "108060cc5eaa8bba",
    "title": "Cow’s milk sales at record low in Britain as people opt for plant-based options",
    "summary": "Environmental and animal welfare concerns, and taste preferences, are behind rising popularity of vegan alternatives Has milk gotta lotta bottle?",
@@ -184,26 +245,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T13:40:49+00:00"
-  },
-  {
-   "id": "842f86a525430e00",
-   "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
-   "summary": "The department is working with cyber security experts to restore services and limit disruption Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "date": "2026-11-27T13:31:06+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Russell Hart/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=700&quality=85&auto=format&fit=max&s=7015cbabbd80b40df694f2065eb3ca82",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:22:34+00:00"
   },
   {
    "id": "03ff207249296e93",
@@ -246,28 +287,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T07:32:52+00:00"
-  },
-  {
-   "id": "c950a2b9e8d7850e",
-   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
-   "summary": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
-   "date": "2026-11-27T12:54:55+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Burak Akbulut/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=700&quality=85&auto=format&fit=max&s=569014a834ba8b37c746829481e3fe2f",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-27T09:59:32+00:00"
   },
   {
    "id": "02ad66818121b9b6",
@@ -355,7 +374,7 @@
   },
   {
    "id": "743b76114b1c7027",
-   "title": "Premiers await Supreme Court ruling on Quebec’s secularism law",
+   "title": "Quebec’s secularism law under scanner as Supreme Court to rule on Bill 21",
    "summary": "Premiers across Canada are expected to be keeping a close eye on the Supreme Court Friday morning as it releases a ruling on the constitutionality of Quebec's secularism law.",
    "source": "Global News",
    "url": "https://globalnews.ca/news/12168617/supreme-court-secularism-law-ruling/",
@@ -1230,9 +1249,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/53b1f28e-72b1-4e3b-bc2d-405a0178aa23,1795750660777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C4240%2C2385%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/53b1f28e-72b1-4e3b-bc2d-405a0178aa23,1795750660777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C4240%2C2385%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T13:49:56+00:00"
@@ -1558,9 +1577,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/e5b456e4-68b6-49b0-9947-23827e35e0f7,1795735394563/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C6221%2C3499%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/e5b456e4-68b6-49b0-9947-23827e35e0f7,1795735394563/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C6221%2C3499%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T13:49:56+00:00"
@@ -1763,6 +1782,27 @@
    },
    "breaking": false,
    "addedAt": "2026-11-26T22:07:08+00:00"
+  },
+  {
+   "id": "32d22ff1883aa0c2",
+   "title": "What would happen if an AI agent interfered with a Canadian election?",
+   "summary": "There are currently no provisions in Canada's electoral laws to address the prospect of AI agents acting without human direction trying to meddle in Canada's elections, says Canada's chief electoral officer.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/canadian-elections-artificial-intelligence-9.7436972?cmp=rss",
+   "date": "2026-11-26T21:47:24+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/db9bc71e-c020-4cd8-8f6f-c04b3fa471d1,1795729265968/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C251%2C8041%2C4523%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T13:59:44+00:00"
   },
   {
    "id": "b45bfcec074b2424",
@@ -8274,46 +8314,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T17:40:38+00:00"
-  },
-  {
-   "id": "232c4ba6bb6eae03",
-   "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-   "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-24T16:49:07+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T18:26:33+00:00"
-  },
-  {
-   "id": "14f45f708cb59b7d",
-   "title": "How Senegal got their AFCON trophy back",
-   "summary": "Al Jazeera’s Samantha Johnson examines how Senegal’s AFCON title controversy reached sport’s highest court.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss",
-   "date": "2026-11-24T16:41:22+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795538474.jpg?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795538474.jpg?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T17:04:04+00:00"
   }
  ]
 }

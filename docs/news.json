@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T06:28:34+00:00",
+ "generatedAt": "2026-11-27T06:37:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -41,7 +41,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "kept": 8
+   "kept": 9
   },
   {
    "source": "BBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,29 @@
   }
  ],
  "items": [
+  {
+   "id": "0c53a608fd8303b5",
+   "title": "Could housing decide Spain's general election?",
+   "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:09:31+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections",
+    "housing"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b6e8/live/fb20a6d0-e9cb-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b6e8/live/fb20a6d0-e9cb-11f1-99b6-a35a62fa4264.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T06:37:37+00:00"
+  },
   {
    "id": "61abe77368d23f08",
    "title": "Up to 1.4m UK workers risk missing out on zero-hours shake-up, say unions",
@@ -8282,26 +8305,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T13:28:49+00:00"
-  },
-  {
-   "id": "1b64d8db79098f9b",
-   "title": "Trump appears to make millions from Nvidia intervention over Huang | First Thing",
-   "summary": "US president holds significant stock in AI company whose value soared after Jensen Huang was reinstated as CEO. Plus, why GTA shouldn’t, and won’t, be adapted for streaming Don’t already get First Thing in your inbox? Sign up here Good morning.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/first-thing-trump-appears-to-make-millions-from-nvidia-intervention-over-huang",
-   "date": "2026-11-24T12:14:52+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evan Vucci/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a7eaf894846e2d78f6440d72b865592eba82986e/30_0_2838_2270/master/2838.jpg?width=700&quality=85&auto=format&fit=max&s=8a1c8cc4f2b5f2e053ed449648b8245d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T12:23:45+00:00"
   }
  ]
 }

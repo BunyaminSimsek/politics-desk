@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T12:45:19+00:00",
+ "generatedAt": "2026-11-27T12:54:26+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 20
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -166,24 +166,26 @@
  ],
  "items": [
   {
-   "id": "5568ef841c8cb689",
-   "title": "Sentencing hearing to continue for Kenneth Law, who admitted to aiding suicide",
-   "summary": "A sentencing hearing is set to continue Friday for an Ontario man who sold potentially deadly substances online to people who then used those products to take their own lives.",
-   "source": "Global News Toronto",
-   "url": "https://globalnews.ca/news/12168621/kenneth-law-sentencing-hearing/",
-   "date": "2026-11-27T12:40:12+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
+   "id": "f087d7c7855c3ac1",
+   "title": "Who to watch in Spain's election race",
+   "summary": "As Spaniards go to the polls on Sunday, these are the key political figures aiming to take power in Spain's next government.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T12:48:32+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/05/a84a26847fa210379cf7bcd0908fc0e59fa2764f414b55eefb30eb28b8ee3e58_5e7087.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024,
-    "h": 575,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/05/a84a26847fa210379cf7bcd0908fc0e59fa2764f414b55eefb30eb28b8ee3e58_5e7087.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/a730/live/cb263950-ea4c-11f1-b220-b9f21129b546.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/a730/live/cb263950-ea4c-11f1-b220-b9f21129b546.jpg"
    },
    "breaking": false,
-   "addedAt": "2026-11-27T12:45:19+00:00"
+   "addedAt": "2026-11-27T12:54:26+00:00"
   },
   {
    "id": "842f86a525430e00",
@@ -191,7 +193,7 @@
    "summary": "The department is working with cyber security experts to restore services and limit disruption According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about…",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "date": "2026-11-27T12:35:03+00:00",
+   "date": "2026-11-27T12:46:43+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -204,6 +206,46 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:22:34+00:00"
+  },
+  {
+   "id": "5568ef841c8cb689",
+   "title": "Sentencing hearing to continue for Kenneth Law, who admitted to aiding suicide",
+   "summary": "A sentencing hearing is set to continue Friday for an Ontario man who sold potentially deadly substances online to people who then used those products to take their own lives.",
+   "source": "Global News Toronto",
+   "url": "https://globalnews.ca/news/12168621/kenneth-law-sentencing-hearing/",
+   "date": "2026-11-27T12:40:12+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "h": 575,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/05/a84a26847fa210379cf7bcd0908fc0e59fa2764f414b55eefb30eb28b8ee3e58_5e7087.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/05/a84a26847fa210379cf7bcd0908fc0e59fa2764f414b55eefb30eb28b8ee3e58_5e7087.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1024
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T12:45:19+00:00"
+  },
+  {
+   "id": "15a397eed6b4a336",
+   "title": "Antisemitism adviser to launch inquiry into ‘hostile work environment’ at BBC",
+   "summary": "John Mann says he is conducting review after hearing ‘disturbing’ accounts of discrimination from Jewish staff UK politics live – latest updates The government’s independent adviser on antisemitism has said he is launching an investigation into the BBC after…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/media/2026/nov/26/antisemitism-adviser-to-launch-inquiry-into-hostile-work-environment-at-bbc",
+   "date": "2026-11-27T12:39:10+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Jack Taylor/Reuters",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/191e40fcc9472a47ebf5f460c69dd33382be5cab/254_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=825eb7002f32a1e5943e7e2d4db7bbc8",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-26T12:00:02+00:00"
   },
   {
    "id": "743b76114b1c7027",
@@ -269,7 +311,7 @@
   {
    "id": "ac08bd57b60389ba",
    "title": "Trump claims revised economic data shows pre-midterms figures were ‘fake’ | First Thing",
-   "summary": "President calls for investigation after GDP figures were adjusted upwards, despite revisions to official economic figures being commonplace. Plus, the weird and macabre world of Victorian Christmas cards Good morning.",
+   "summary": "President calls for investigation after GDP figures were adjusted upwards, despite revisions to official economic figures being commonplace. Plus, the weird and macabre world of Victorian Christmas cards Don’t already get First Thing in your inbox?",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/27/first-thing-trump-claims-revised-economic-data-shows-pre-midterms-figures-were-fake",
    "date": "2026-11-27T12:12:14+00:00",
@@ -651,10 +693,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200,
     "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-26T23:03:19+00:00"
@@ -2969,26 +3011,6 @@
    "addedAt": "2026-11-26T04:11:06+00:00"
   },
   {
-   "id": "15a397eed6b4a336",
-   "title": "Antisemitism adviser to launch inquiry into ‘hostile work environment’ at BBC",
-   "summary": "John Mann says he is conducting review after hearing ‘disturbing’ accounts of discrimination from Jewish staff UK politics live – latest updates The government’s independent adviser on antisemitism has said he is launching an investigation into the BBC after…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/media/2026/nov/26/antisemitism-adviser-to-launch-inquiry-into-hostile-work-environment-at-bbc",
-   "date": "2026-11-26T11:49:59+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jack Taylor/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/191e40fcc9472a47ebf5f460c69dd33382be5cab/254_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=825eb7002f32a1e5943e7e2d4db7bbc8",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-26T12:00:02+00:00"
-  },
-  {
    "id": "9dda273bb04e2e4e",
    "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
    "summary": "President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates.",
@@ -5091,7 +5113,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7126,7 +7148,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8294,26 +8316,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T16:35:39+00:00"
-  },
-  {
-   "id": "86afad3ac3241cff",
-   "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
-   "summary": "Ukraine earlier confirmed that it deployed naval drones in strikes on Russian vessels off the coast of Libya The leader of Spain’s leftwing Broad Front coalition has called for a drastic rethink of the country’s entire housing rental system, and described the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
-   "date": "2026-11-24T16:24:49+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Media Office Of The Eastern Libyan Forces [libyan National Army]/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9fe510e7795f4ca191fc362428a8270efbd11f19/118_0_496_397/master/496.jpg?width=700&quality=85&auto=format&fit=max&s=791c55ee04f977f47ed2ad097a23bec0",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T09:37:27+00:00"
   }
  ]
 }

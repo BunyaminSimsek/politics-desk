@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T23:17:37+00:00",
+ "generatedAt": "2026-11-27T23:27:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -588,9 +588,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/9e507151-5853-4649-a50a-12ceb7e0d86c,1795804436036/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5765%2C3242%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/9e507151-5853-4649-a50a-12ceb7e0d86c,1795804436036/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5765%2C3242%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T19:10:55+00:00"
@@ -1156,7 +1156,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -2385,8 +2385,8 @@
   },
   {
    "id": "c7dd7ec9416d9188",
-   "title": "Ottawa deems Whitehorse Power Centres project of national interest",
-   "summary": "WHITEHORSE - The federal government has named the Whitehorse Power Centres as a project of national interest.",
+   "title": "Whitehorse Power Centres project referred to major projects office",
+   "summary": "WHITEHORSE - The federal government is referring the Whitehorse Power Centres to Canada's major projects office.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/yukon/ottawa-deems-whitehorse-power-centres-project-of-national-interest/article_6b216757-d3c2-5800-8189-67f226c058ee.html",
    "date": "2026-11-27T03:45:00+00:00",
@@ -2757,10 +2757,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/d1/bd15ee71-fb73-5ec5-9541-28d79793b9cc/6b0a01a125300.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 853,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/d1/bd15ee71-fb73-5ec5-9541-28d79793b9cc/6b0a01a125300.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/d1/bd15ee71-fb73-5ec5-9541-28d79793b9cc/6b0a01a125300.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/d1/bd15ee71-fb73-5ec5-9541-28d79793b9cc/6b0a01a125300.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T23:17:37+00:00"
@@ -6378,7 +6378,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

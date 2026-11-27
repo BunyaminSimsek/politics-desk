@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T14:09:11+00:00",
+ "generatedAt": "2026-11-27T14:18:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/e1f8c9fea997a7f03a616a66cf75f85ff0ef0cf7/711_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=3163880c0d5d065a03097bbdc86358ee",
-    "w": 700,
+    "credit": "Photograph: Kevin Elsby/Alamy",
     "h": 560,
-    "credit": "Photograph: Kevin Elsby/Alamy"
+    "url": "https://i.guim.co.uk/img/media/e1f8c9fea997a7f03a616a66cf75f85ff0ef0cf7/711_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=3163880c0d5d065a03097bbdc86358ee",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-27T14:09:11+00:00"
@@ -241,10 +241,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/47e77ac319eb21186bb06a159b87706fb9279cf8/411_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=70b5b6b046eda8372c7f62b635f0b230",
-    "w": 700,
+    "credit": "Photograph: Con Chronis/Reuters",
     "h": 560,
-    "credit": "Photograph: Con Chronis/Reuters"
+    "url": "https://i.guim.co.uk/img/media/47e77ac319eb21186bb06a159b87706fb9279cf8/411_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=70b5b6b046eda8372c7f62b635f0b230",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-27T14:09:11+00:00"
@@ -263,10 +263,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/f701d4a39eb16fdd66224d12974c7a8be0e18828/682_0_4560_3646/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=a9128b83d311f552d913ef41c1794771",
-    "w": 700,
+    "credit": "Photograph: Sitthixay Ditthavong/AAP",
     "h": 560,
-    "credit": "Photograph: Sitthixay Ditthavong/AAP"
+    "url": "https://i.guim.co.uk/img/media/f701d4a39eb16fdd66224d12974c7a8be0e18828/682_0_4560_3646/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=a9128b83d311f552d913ef41c1794771",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-27T14:09:11+00:00"

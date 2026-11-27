@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T20:46:20+00:00",
+ "generatedAt": "2026-11-27T20:55:50+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "7f95e4d6c66273d3",
+   "title": "Is Canada more divided these days? Governor General Louise Arbour isn't worried",
+   "summary": "Gov. Gen. Louise Arbour shares how she's been settling into her relatively new role, and how Canadians can face an increasingly uncertain world together.",
+   "source": "CBC News",
+   "url": "https://www.cbc.ca/radio/thecurrent/governor-general-louise-arbour-canada-threats-9.7437482?cmp=rss",
+   "date": "2026-11-27T20:36:26+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/fa055ed2-a213-4af2-afa5-8a9a7596c781,1795718033067/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C6238%2C3508%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T20:55:50+00:00"
+  },
+  {
    "id": "0310bd7d5f12df77",
    "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
    "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House…",
@@ -186,6 +205,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T20:27:30+00:00"
+  },
+  {
+   "id": "190a20f2d9bd25f9",
+   "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+   "summary": "Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+   "date": "2026-11-27T20:18:45+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795810674.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795810674.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T20:55:50+00:00"
   },
   {
    "id": "1bf661469423d4fe",
@@ -401,9 +440,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/c7e2384b-3b6a-4e1f-9cc6-d97e7b9a4362,1795804145822/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C319%2C5927%2C3333%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/c7e2384b-3b6a-4e1f-9cc6-d97e7b9a4362,1795804145822/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C319%2C5927%2C3333%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T18:43:00+00:00"
@@ -908,7 +947,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -6110,7 +6149,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8145,7 +8184,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8277,46 +8316,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T21:24:40+00:00"
-  },
-  {
-   "id": "1916675a979626e7",
-   "title": "Doug Ford praises Olivia Chow for using ‘strong mayor’ powers",
-   "summary": "Mayor Olivia Chow's decision to use the powers she once denounced as 'not democratic' is being met with mixed reviews at Queen's Park.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/politics/provincial/doug-ford-praises-olivia-chow-for-using-strong-mayor-powers/article_2c8e1d0f-f5c0-4610-91b7-444b1bd1b217.html",
-   "date": "2026-11-24T22:00:00+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 900,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a0/ba058366-50e3-5be2-8b16-4f1af59e9d67/6b0606c6a0fdd.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/a0/ba058366-50e3-5be2-8b16-4f1af59e9d67/6b0606c6a0fdd.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T22:11:03+00:00"
-  },
-  {
-   "id": "d35e1972c1d20aee",
-   "title": "Iowans anxious over lead detonation: ‘We had only five days of warning’",
-   "summary": "Detonation of 68 barrels of lead azide scheduled for Wednesday after several delays amid public outcry Residents of Iowa, Illinois and Missouri who are preparing for Thanksgiving are also bracing themselves for the detonation of hazardous bomb-making…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
-   "date": "2026-11-24T21:49:07+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Jim Urquhart/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/acfcff739fa280e8a12f19f15024fe02a932b14f/1561_1315_2523_2019/master/2523.jpg?width=700&quality=85&auto=format&fit=max&s=7525a0f4b9b98961aefb77947213929a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T22:01:57+00:00"
   }
  ]
 }

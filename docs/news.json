@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T02:02:05+00:00",
+ "generatedAt": "2026-11-27T02:11:21+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,28 @@
   }
  ],
  "items": [
+  {
+   "id": "0032f5eea9acd4b3",
+   "title": "Book about immigration policy wins National Business Book Award",
+   "summary": "TORONTO - A book about Canada's evolving immigration policy by Globe and Mail columnist Tony Keller has won the $30,000 National Business Book Award.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/book-about-immigration-policy-wins-national-business-book-award/article_630ea059-bdd2-58b4-b05c-0b2e79195777.html",
+   "date": "2026-11-27T02:01:04+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/48/14802cc9-6b62-5ce2-afcf-737bac67942b/6b08e54f5770a.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 798,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/48/14802cc9-6b62-5ce2-afcf-737bac67942b/6b08e54f5770a.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T02:11:21+00:00"
+  },
   {
    "id": "da27f7263691c42d",
    "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
@@ -8268,26 +8290,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T11:37:31+00:00"
-  },
-  {
-   "id": "d1c6006da6c60361",
-   "title": "Researcher who helped improve melanoma survival rates among winners of top Australian science prize",
-   "summary": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s prizes for science Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast When Prof Georgina Long was starting…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science",
-   "date": "2026-11-24T11:00:45+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Prime Minister's Prizes for Science",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/9158937167556e9b18af557d3528a389a0ca3a26/990_0_6366_5093/master/6366.jpg?width=700&quality=85&auto=format&fit=max&s=013d844d0060492cbe0de6693aeeb2d3",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T11:18:44+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T17:45:52+00:00",
+ "generatedAt": "2026-11-27T17:55:28+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -17,7 +17,7 @@
    "source": "CBC World",
    "url": "https://www.cbc.ca/webfeed/rss/rss-world",
    "ok": true,
-   "kept": 5
+   "kept": 6
   },
   {
    "source": "Global News",
@@ -166,6 +166,25 @@
  ],
  "items": [
   {
+   "id": "ecabf2f51c7c6d49",
+   "title": "Zelenskyy criticizes Trump for cozying up to Putin as EU kicks Ukraine funding down the road",
+   "summary": "Ukrainian President Volodymyr Zelenskyy criticized Donald Trump for cozying up to Putin, delaying delivery of promised Patriot missiles and not paying enough attention to the Ukraine war in an interview with the BBC that took place in Kyiv a day after the…",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/zelensky-eu-ukraine-funding-9.7438377?cmp=rss",
+   "date": "2026-11-27T17:41:21+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/4f45694f-caa5-4a98-96a6-341aa8da7724,1795781411165/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C194%2C3725%2C2095%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T17:55:28+00:00"
+  },
+  {
    "id": "1575a13e24459985",
    "title": "Poilievre heading to Washington next week as Canada-U.S. trade talks continue",
    "summary": "OTTAWA - Conservative Leader Pierre Poilievre is heading to Washington next week as trade talks between Canada and the United States continue.",
@@ -179,10 +198,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/ae/fae60f3d-0ad6-5ed5-a264-5e9008b87a5e/6b09bf5179be4.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 804,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/ae/fae60f3d-0ad6-5ed5-a264-5e9008b87a5e/6b09bf5179be4.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/ae/fae60f3d-0ad6-5ed5-a264-5e9008b87a5e/6b09bf5179be4.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/f/ae/fae60f3d-0ad6-5ed5-a264-5e9008b87a5e/6b09bf5179be4.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-27T17:45:52+00:00"
@@ -521,16 +540,16 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/116c305a-4868-412c-90d4-6e36f6237303,1731432895567/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/116c305a-4868-412c-90d4-6e36f6237303,1731432895567/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T15:42:28+00:00"
@@ -1760,9 +1779,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/53b1f28e-72b1-4e3b-bc2d-405a0178aa23,1795750660777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C4240%2C2385%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/53b1f28e-72b1-4e3b-bc2d-405a0178aa23,1795750660777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C216%2C4240%2C2385%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-27T13:49:56+00:00"
@@ -2088,9 +2107,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/e5b456e4-68b6-49b0-9947-23827e35e0f7,1795735394563/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C6221%2C3499%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/e5b456e4-68b6-49b0-9947-23827e35e0f7,1795735394563/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C215%2C6221%2C3499%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-27T13:49:56+00:00"
@@ -5764,7 +5783,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7799,7 +7818,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8299,26 +8318,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T10:50:59+00:00"
-  },
-  {
-   "id": "6a00ed68e54f7c20",
-   "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
-   "summary": "Ukrainian attacks subsided after Trump's mid-October declaration of an energy ceasefire, but picked up again afterwards.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
-   "date": "2026-11-24T19:22:44+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-01T105125Z_349816858_RC29YT9KV71D_RTRMADP_3_UKRAINE-CRISIS-EU.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-01T105125Z_349816858_RC29YT9KV71D_RTRMADP_3_UKRAINE-CRISIS-EU.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T19:32:41+00:00"
   }
  ]
 }

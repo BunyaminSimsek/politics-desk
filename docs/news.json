@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T09:59:32+00:00",
+ "generatedAt": "2026-11-27T10:08:39+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 22
+   "kept": 21
   },
   {
    "source": "The Guardian",
@@ -168,10 +168,10 @@
   {
    "id": "842f86a525430e00",
    "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
-   "summary": "The department is working with cyber security experts to restore services and limit disruption The Press Association has reported that services which appear to be unavailable include: applying for Universal Credit; signing in to an existing Universal Credit…",
+   "summary": "The department is working with cyber security experts to restore services and limit disruption Almost all pensions and benefits systems have been knocked offline following a “cyber incident” which hit the department of work and pensions.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "date": "2026-11-27T09:45:27+00:00",
+   "date": "2026-11-27T10:02:21+00:00",
    "topic": "europe",
    "region": "world",
    "tags": [],
@@ -184,6 +184,92 @@
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:22:34+00:00"
+  },
+  {
+   "id": "8852bb397a39d166",
+   "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+   "summary": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+   "date": "2026-11-27T10:00:00+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "immigration"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg",
+    "w": 1200,
+    "h": 800,
+    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T10:08:39+00:00"
+  },
+  {
+   "id": "0c5b2adb7d256d96",
+   "title": "In a key Ontario byelection, Conservatives warned supporters about an independent candidate. You’d only know if you read the fine print",
+   "summary": "Letters landed amid concerns the candidate could split the Conservative vote in a riding the Liberals are hoping to win.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/in-a-key-ontario-byelection-conservatives-warned-supporters-about-an-independent-candidate-you-d-only-know-if-you-read-the-fine-print/article_1c6ae9af-bc0c-47f8-8918-3ed06546e8ae.html",
+   "date": "2026-11-27T10:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/96/996d32fb-0e82-5a62-8dbe-872911e68a9c/6b08cf82502e6.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 817,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/96/996d32fb-0e82-5a62-8dbe-872911e68a9c/6b08cf82502e6.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T10:08:39+00:00"
+  },
+  {
+   "id": "59163c5492fceaec",
+   "title": "Carney's Liberals are well-positioned heading into byelections, polls suggest",
+   "summary": "Prime Minister Mark Carney's Liberals are well-positioned to increase their majority headed into next month's byelections, polls suggest.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/federal/carney-s-liberals-are-well-positioned-heading-into-byelections-polls-suggest/article_3780a85b-ffdf-4b8c-b952-4feec7d88ce2.html",
+   "date": "2026-11-27T10:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/05/b05b78f6-4aa8-58ad-8f56-c8581e3ad2dc/6b08611d90daa.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 846,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/b/05/b05b78f6-4aa8-58ad-8f56-c8581e3ad2dc/6b08611d90daa.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T10:08:39+00:00"
+  },
+  {
+   "id": "f7c079a167fe3b96",
+   "title": "Doug Ford helps no one by shooting his mouth off",
+   "summary": "The premier's call to arms over home invasions misses the mark, Martin Regg Cohn writes.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/political-opinion/doug-ford-helps-no-one-by-shooting-his-mouth-off/article_3ee1d261-f021-454c-b4f8-307a4ed2c804.html",
+   "date": "2026-11-27T10:00:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/7c/47c14f6f-1356-5aba-a5ab-e196c89e9030/6b08ab69c1f88.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/4/7c/47c14f6f-1356-5aba-a5ab-e196c89e9030/6b08ab69c1f88.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-27T10:08:39+00:00"
   },
   {
    "id": "ba4b14b3f73296c8",
@@ -219,10 +305,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/354c5812d4a80c57aef34315306550f125254a44/222_0_3863_3089/master/3863.jpg?width=700&quality=85&auto=format&fit=max&s=631307a67cec875eacb58e9f22304c8e",
-    "w": 700,
+    "credit": "Photograph: Vyacheslav Prokofyev/Reuters",
     "h": 560,
-    "credit": "Photograph: Vyacheslav Prokofyev/Reuters"
+    "url": "https://i.guim.co.uk/img/media/354c5812d4a80c57aef34315306550f125254a44/222_0_3863_3089/master/3863.jpg?width=700&quality=85&auto=format&fit=max&s=631307a67cec875eacb58e9f22304c8e",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-27T09:59:32+00:00"
@@ -250,10 +336,10 @@
   {
    "id": "78c24ce40768640a",
    "title": "Supreme Court ruling on Quebec's secularism law expected Friday morning",
-   "summary": "MONTREAL - Premiers across Canada are expected to be keeping a close eye on the Supreme Court this morning as it releases a ruling on the constitutionality of Quebec's secularism law.",
+   "summary": "The case stems from a Quebec law known as Bill 21, which bans public servants in positions of authority from wearing religious symbols while on the job.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/quebec/supreme-court-ruling-on-quebec-s-secularism-law-expected-friday-morning/article_c31e9234-8324-53f4-8a27-8c103c51c0d5.html",
-   "date": "2026-11-27T09:00:07+00:00",
+   "date": "2026-11-27T09:00:00+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [],
@@ -4659,7 +4745,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -6694,7 +6780,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/politics/federal/federal-minister-defends-expanded-expropriation-rules-for-alto-high-speed-rail-line/article_4387f76b-5ccc-4d88-a9d8-ba1f210d0524.html",
    "date": "2026-11-24T23:15:00+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8227,88 +8313,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T14:33:22+00:00"
-  },
-  {
-   "id": "62ccafc81f825953",
-   "title": "Nigel Farage rules out deal with Restore Britain unless it disavows controversial backers",
-   "summary": "Reform UK leader says he is ‘very worried’ about ethnonationalism and he does not trust Tories over Brexit UK politics live – latest updates Nigel Farage has said he might have a “civil chat” with Rupert Lowe but ruled out a deal with Restore Britain while…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/24/nigel-farage-rules-out-reform-uk-deal-restore-britain",
-   "date": "2026-11-24T14:13:38+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Adrian Dennis/AFP/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/6fa71e5ef6c44f8ff09caff53da77737112bc924/276_61_4041_3232/master/4041.jpg?width=700&quality=85&auto=format&fit=max&s=7154672265f76df1a073e5caf29d61aa",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T14:23:48+00:00"
-  },
-  {
-   "id": "1993a5bb2fd48ebb",
-   "title": "Chinese police contacted members of WeChat group after they discussed Melbourne vigil for HungryPanda rider",
-   "summary": "Several members of chat set up after alleged murder of Feng Jianming say they or their parents were called by police from their home towns in China Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/25/chinese-police-wechat-group-hungrypanda-delivery-rider-alleged-murder-melbourne-ntwnfb",
-   "date": "2026-11-24T14:00:50+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: VCG/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/b26c198b564599f30303240978324163c44c3952/698_0_4000_3200/master/4000.jpg?width=700&quality=85&auto=format&fit=max&s=3da171dfda12f202eeb8a6c91169bb65",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T14:23:48+00:00"
-  },
-  {
-   "id": "edb09034b1bfd203",
-   "title": "Guardian Essential poll: Albanese’s disapproval rating hits highest level as problems mount for Labor",
-   "summary": "Australians also turn against AI datacentres, with nearly half saying they don’t want one near their home Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Anthony Albanese’s approval…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/25/guardian-essential-poll-anthony-albaneses-ai-datacentres-labor-one-nation-coalition",
-   "date": "2026-11-24T14:00:49+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mick Tsikas/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/04a2d63ae262fd5fde5dacc710a31435854b852e/912_0_4856_3885/master/4856.jpg?width=700&quality=85&auto=format&fit=max&s=4dd1cd84b20b3e51ab5c69cff0b75ba5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T20:46:51+00:00"
-  },
-  {
-   "id": "83c9219e60cb42fb",
-   "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
-   "summary": "Trump’s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with Iran Donald Trump’s unwillingness to heed warnings of suspected Chinese penetration of the tech giant Nvidia follows a pattern of the US president…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
-   "date": "2026-11-24T14:00:48+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Leah Millis/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/515210e29bb0c7d2077263b355c6ce39f3b006d5/243_0_3321_2656/master/3321.jpg?width=700&quality=85&auto=format&fit=max&s=10ea7fb2c7d6724377fc0bef5298f6a5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-24T14:14:38+00:00"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T12:20:59+00:00",
+ "generatedAt": "2026-11-28T12:30:10+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "9ccfcb69a5935c8c",
+   "title": "Two Médecins Sans Frontières staff killed in Israeli strike in Gaza, charity says",
+   "summary": "MSF and head of WHO denounce attack on Gaza City clinic as Israel claims security guards were members of Hamas Israeli forces have bombed a clinic run by Médecins Sans Frontières in Gaza City, killing two of its staff members, the organisation has said.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/28/medecins-sans-frontieres-staff-killed-gaza-israeli-strike",
+   "date": "2026-11-28T12:14:49+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/2b407f70dc48284cb361ed01b3cabb77ccda0da2/516_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=6fdc5ccc3745acb97f81a0a79f31fb74",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Omar Ashtawy/HL/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T12:30:10+00:00"
+  },
   {
    "id": "86af042112488be8",
    "title": "Argentina fails to block UK-led oil drilling off Falkland Islands",
@@ -375,7 +395,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/john-tory-says-he-has-no-intention-of-making-a-political-comeback/article_86c91224-4262-5fe8-9d54-b91ad8d80b05.html",
    "date": "2026-11-28T11:00:03+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -1852,7 +1872,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -7074,7 +7094,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7640,66 +7660,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T13:04:44+00:00"
-  },
-  {
-   "id": "feba8618b8373746",
-   "title": "Catalan separatist Puigdemont to return to Spain on December 12",
-   "summary": "Former regional leader says he will unveil his proposal for a renewed Catalan independence push on December 17.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
-   "date": "2026-11-25T12:25:46+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-06T162026Z_656135816_RC2SXNAH9UDU_RTRMADP_3_SPAIN-POLITICS-PUIGDEMONT-1791314612.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-06T162026Z_656135816_RC2SXNAH9UDU_RTRMADP_3_SPAIN-POLITICS-PUIGDEMONT-1791314612.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T12:55:41+00:00"
-  },
-  {
-   "id": "835ddf0c86b7beef",
-   "title": "Bangladesh garment workers protest over new wages",
-   "summary": "Bangladesh has raised the minimum monthly wage for garment workers by 36% to 17,000 taka, about $138.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
-   "date": "2026-11-25T12:23:41+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-12.18.46-1795609227.png?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-12.18.46-1795609227.png?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T12:55:41+00:00"
-  },
-  {
-   "id": "3cc4786f8522ae83",
-   "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-   "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T12:21:49+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T04:11:21+00:00"
   }
  ]
 }

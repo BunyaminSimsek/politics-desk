@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T10:57:30+00:00",
+ "generatedAt": "2026-11-28T11:06:39+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "e726e74d1e9991df",
+   "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+   "summary": "Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+   "date": "2026-11-28T10:36:41+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a958205d5-1795855746.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a958205d5-1795855746.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T11:06:39+00:00"
+  },
+  {
    "id": "5f10fc1549e2cb53",
    "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
    "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
@@ -184,6 +206,28 @@
    },
    "breaking": false,
    "addedAt": "2026-11-28T10:21:00+00:00"
+  },
+  {
+   "id": "f16d96b5cc1b2c26",
+   "title": "Why is Trump backing Iraq’s anti-smuggling campaign?",
+   "summary": "Baghdad's push to seize control of smuggling routes, border crossings and oilfields has Washington's support.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/28/why-is-trump-backing-iraqs-anti-smuggling-campaign?traffic_source=rss",
+   "date": "2026-11-28T10:32:42+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a8953eef9-1795852627.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a8953eef9-1795852627.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T11:06:39+00:00"
   },
   {
    "id": "4218c2a9f7208200",
@@ -7676,108 +7720,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:41:49+00:00"
-  },
-  {
-   "id": "dd390125b4c42002",
-   "title": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
-   "summary": "It is possible for democracy to reverse the dynamic of oligarchy. But we must act now The explosion of extreme wealth in the world is the defining social fact of our times.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
-   "date": "2026-11-25T11:00:47+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Kylie Cooper/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/2dd975b73ad768204e517055d0fd577371cdf078/598_0_4903_3922/master/4903.jpg?width=700&quality=85&auto=format&fit=max&s=ded6dcc453885cc3e1fbefa10404fa4c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T11:14:33+00:00"
-  },
-  {
-   "id": "cb0006e547f946c4",
-   "title": "Midterm gains by US gun control activists’ signals decline of gun lobby",
-   "summary": "More than 200 people endorsed by Everytown for Gun Safety won state and federal races in loss of dominance for NRA The US midterm elections were not only a big win for the Democrats, but also a huge victory for the gun violence prevention movement, and a sign…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/25/midterms-democrats-gun-control-violence-prevention-movement",
-   "date": "2026-11-25T11:00:47+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Composite: Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/51d7e69cab6939935fa4a076de75a98ed9833713/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=777fea5157e9f0c44998b6c0d5f56734",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T11:23:41+00:00"
-  },
-  {
-   "id": "433125a3233dfb66",
-   "title": "Bill McKibben: 2027 may be the year Americans turn on fossil fuels – Stateside with Kai and Carter",
-   "summary": "It’s been another year in which the climate emergency has encroached on the lives of Americans across the country.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/video/2026/nov/25/bill-mckibben-americans-fossil-fuels-climate-emergency-stateside-podcast",
-   "date": "2026-11-25T11:00:45+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/a2ee1b4567d3505430ed8ae1d05da2c2a652439a/0_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=33e4cc5a29f6c8f12359aad335fe4c1b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T11:14:33+00:00"
-  },
-  {
-   "id": "5825ea2f144c6090",
-   "title": "Ford calls ads from gambling market he opened ‘out of control’",
-   "summary": "The proliferation of online gambling ads was sparked by the Ford government allowing non-government online gambling companies to enter the market in 2022.",
-   "source": "Global News",
-   "url": "https://globalnews.ca/news/12164797/doug-ford-ontario-gambling-ads-out-of-control/",
-   "date": "2026-11-25T11:00:20+00:00",
-   "topic": "ontario",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 682,
-    "small": "https://globalnews.ca/wp-content/uploads/2025/11/4061d6e283cde01eac66d76aa7e97455fbe455f5fc4519efc89576de416ad564.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2025/11/4061d6e283cde01eac66d76aa7e97455fbe455f5fc4519efc89576de416ad564.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1024
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T11:04:57+00:00"
-  },
-  {
-   "id": "64a5b65b057facdc",
-   "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
-   "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ The Kremlin also declined to comment on reports that up to 700,000 Russian soldiers have been killed in its almost five-year-long offensive on Ukraine.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
-   "date": "2026-11-25T10:59:54+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: State Emergency Service Of Ukraine/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/621e93b6debd15c2bb0ba21a27a32b9d2d861391/400_106_1200_960/master/1200.jpg?width=700&quality=85&auto=format&fit=max&s=3831ce6652bd569c6daf3682de1798b6",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T09:04:34+00:00"
   }
  ]
 }

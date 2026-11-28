@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T14:12:21+00:00",
+ "generatedAt": "2026-11-28T14:21:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -183,6 +183,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-28T14:02:34+00:00"
+  },
+  {
+   "id": "f7807102ea00bc96",
+   "title": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
+   "summary": "Italy and Kuwait say an Iranian drone was involved, but Tehran says the US and Israel may be looking to escalate war.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
+   "date": "2026-11-28T13:42:53+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0855ffcdbc7-1795708415.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0855ffcdbc7-1795708415.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T14:21:55+00:00"
   },
   {
    "id": "779249e3e13d968c",
@@ -413,9 +433,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/7491223a-63a4-4729-9be7-8cfd44419a0f,1795804259659/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/7491223a-63a4-4729-9be7-8cfd44419a0f,1795804259659/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-28T12:11:22+00:00"
@@ -2047,7 +2067,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "defence"
@@ -7269,7 +7289,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",

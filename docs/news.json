@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T13:44:17+00:00",
+ "generatedAt": "2026-11-28T13:53:23+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795872738.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795872738.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795872738.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795872738.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-28T13:44:17+00:00"
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af429fa4f-1794386426.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af429fa4f-1794386426.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af429fa4f-1794386426.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af429fa4f-1794386426.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-28T13:44:17+00:00"
@@ -7651,27 +7651,6 @@
     "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e863/live/33fc6e30-e8d7-11f1-99b6-a35a62fa4264.png",
     "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e863/live/33fc6e30-e8d7-11f1-99b6-a35a62fa4264.png",
     "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T18:50:53+00:00"
-  },
-  {
-   "id": "f8dc670fa4aba6e6",
-   "title": "Libyan army says 2 officers were killed in Ukraine's attack on Russian warship",
-   "summary": "Two Libyan naval officers died from wounds sustained in Ukraine's recent drone attack on a Russian warship docked at a port in eastern Libya, military authorities there said, vowing unspecified retaliation against Kyiv for the deaths.",
-   "source": "CBC World",
-   "url": "https://www.cbc.ca/news/world/ukraine-russia-libya-attack-9.7435192?cmp=rss",
-   "date": "2026-11-25T13:49:04+00:00",
-   "topic": "ukraine",
-   "region": "world",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "caption": "",
-    "credit": "",
-    "url": "https://i.cbc.ca/ais/82061650-cee3-42e5-843e-fa579a9f3ef5,1795610106788/full/max/0/default.jpg?im=Crop%2Crect%3D%2866%2C0%2C1555%2C874%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-25T18:50:53+00:00"

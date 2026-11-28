@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T01:10:00+00:00",
+ "generatedAt": "2026-11-28T01:19:35+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "dff5ed7e3d6ce448",
+   "title": "Moe, Doerkson urge unity to Smith's UCP at kickoff for annual meeting",
+   "summary": "CALGARY - Alberta Premier Danielle Smith's counterparts to the east and west have kicked off her party's annual gathering by urging members to stay undivided after last month's separation vote.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/canada/alberta/moe-doerkson-urge-unity-to-smith-s-ucp-at-kickoff-for-annual-meeting/article_cb55c9f3-00d1-54d6-a879-0d98de164cbe.html",
+   "date": "2026-11-28T01:09:37+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/19/e19a99b8-7fd0-5802-a96f-929215f06a43/6b0a2b1948cbf.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 691,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/19/e19a99b8-7fd0-5802-a96f-929215f06a43/6b0a2b1948cbf.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T01:19:35+00:00"
+  },
+  {
    "id": "bb4364b129b88c29",
    "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
    "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
@@ -219,10 +239,10 @@
    "tags": [],
    "kind": "news",
    "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/PP-wainwright-nurse.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Poilievre-e1795823983237.jpg?w=640&h=427&crop=1&quality=70&strip=all",
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Poilievre-e1795823983237.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/PP-wainwright-nurse.jpg?w=640&h=427&crop=1&quality=70&strip=all"
    },
    "breaking": false,
    "addedAt": "2026-11-28T00:04:13+00:00"
@@ -299,9 +319,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T23:08:02+00:00"
@@ -8257,28 +8277,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T01:53:18+00:00"
-  },
-  {
-   "id": "a7370772a2f70de9",
-   "title": "Poll finds US voters want government to end Iran war regardless of terms",
-   "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-   "date": "2026-11-25T01:14:22+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26103713873653-1776138849.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26103713873653-1776138849.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T01:35:09+00:00"
   }
  ]
 }

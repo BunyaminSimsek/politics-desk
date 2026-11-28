@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T01:19:35+00:00",
+ "generatedAt": "2026-11-28T01:28:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,13 +71,13 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 21
+   "kept": 22
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "0e2625e24350c5b2",
+   "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
+   "summary": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for?",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+   "date": "2026-11-28T01:16:55+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=0936667ff4e961110f2f29ce094eac83",
+    "w": 700,
+    "h": 560,
+    "credit": "Composite: Guardian Design/AAP/Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T01:28:47+00:00"
+  },
+  {
    "id": "dff5ed7e3d6ce448",
    "title": "Moe, Doerkson urge unity to Smith's UCP at kickoff for annual meeting",
    "summary": "CALGARY - Alberta Premier Danielle Smith's counterparts to the east and west have kicked off her party's annual gathering by urging members to stay undivided after last month's separation vote.",
@@ -177,10 +199,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/19/e19a99b8-7fd0-5802-a96f-929215f06a43/6b0a2b1948cbf.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 691,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/19/e19a99b8-7fd0-5802-a96f-929215f06a43/6b0a2b1948cbf.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/19/e19a99b8-7fd0-5802-a96f-929215f06a43/6b0a2b1948cbf.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/19/e19a99b8-7fd0-5802-a96f-929215f06a43/6b0a2b1948cbf.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-28T01:19:35+00:00"
@@ -239,10 +261,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/PP-wainwright-nurse.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/PP-wainwright-nurse.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/PP-wainwright-nurse.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/PP-wainwright-nurse.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-28T00:04:13+00:00"

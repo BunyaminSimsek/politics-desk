@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T00:13:54+00:00",
+ "generatedAt": "2026-11-28T00:23:28+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -53,7 +53,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
    "ok": true,
-   "kept": 15
+   "kept": 16
   },
   {
    "source": "BBC News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "bb4364b129b88c29",
+   "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+   "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-28T00:05:17+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T00:23:28+00:00"
+  },
   {
    "id": "3ab696c53ca57138",
    "title": "Company denies allegation nurse contract not being renewed over Poilievre photo",
@@ -333,9 +353,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/cdc05f65-bbc4-4268-bf45-250b29999a03,1795816649826/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C521%2C6582%2C3702%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/cdc05f65-bbc4-4268-bf45-250b29999a03,1795816649826/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C521%2C6582%2C3702%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T22:11:45+00:00"
@@ -1236,7 +1256,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "defence"
@@ -6458,7 +6478,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8279,26 +8299,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T04:11:21+00:00"
-  },
-  {
-   "id": "dad1a10a86cc9ab4",
-   "title": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
-   "summary": "Levity was in short supply as the president, reeling from midterms rout, talked up his achievements – and fixated on his White House vanity project For some, it was his pardoning of the January 6 rioters or the deployment of masked ICE agents.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
-   "date": "2026-11-25T00:56:48+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mehmet Eser/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/21c1fb3fad0eb8774dc514e74b1af43de6914a3f/307_0_3817_3053/master/3817.jpg?width=700&quality=85&auto=format&fit=max&s=e799b9f745685fa4238fc3d710e1a056",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T01:07:43+00:00"
   }
  ]
 }

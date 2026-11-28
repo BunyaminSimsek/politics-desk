@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T15:35:48+00:00",
+ "generatedAt": "2026-11-28T15:45:00+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 16
+   "kept": 17
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": true,
-   "kept": 49
+   "ok": false,
+   "kept": 0
   },
   {
    "source": "BBC News",
@@ -165,6 +165,48 @@
   }
  ],
  "items": [
+  {
+   "id": "b6ec5dd91363cbd7",
+   "title": "‘Victory for democracy’: Taiwan’s ruling party secures best result in a decade",
+   "summary": "DPP nearly doubles number of constituencies it controls, with outcome expected to anger Beijing Taiwan’s ruling party secured its best result in a decade in Saturday’s local elections , nearly doubling the number of constituencies it controls, in an outcome…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/28/taiwan-ruling-party-dpp-secures-best-result-in-decade-china",
+   "date": "2026-11-28T15:29:52+00:00",
+   "topic": "asia",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/1f0eb7fd86d1d5b48750744f4d17758191b19de3/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=d54e8fa26df3557b5a832995d55721bf",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Chiang Ying-ying/AP"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T15:45:00+00:00"
+  },
+  {
+   "id": "5e8c1153e506e7c9",
+   "title": "Ex-NFL player Chris Kluwe took on California Maga leaders in handcuffs – then beat one at the ballot box",
+   "summary": "Though a long Republican stronghold, Huntington Beach’s attempted library book ban was a step too far for Kluwe Chris Kluwe ’s path to public office started in handcuffs, facedown on the floor of the Huntington Beach city council chambers.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/28/chris-kluwe-california-huntington-beach-election",
+   "date": "2026-11-28T15:27:44+00:00",
+   "topic": "toronto",
+   "region": "local",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/11db713aad8078a9cfb5681addae056ee181a14e/331_0_3338_2670/master/3338.jpg?width=700&quality=85&auto=format&fit=max&s=1abfd38327416ea5334d6a7ff93abcad",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: AFP via Getty Images"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T15:45:00+00:00"
+  },
   {
    "id": "e6aef8c0a47aa160",
    "title": "John Tory says he has no intention of making a political comeback",
@@ -2087,7 +2129,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -7505,88 +7547,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T14:10:57+00:00"
-  },
-  {
-   "id": "0f7af8237d936828",
-   "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-   "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T15:42:50+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T06:47:00+00:00"
-  },
-  {
-   "id": "7accd67eb84d75f0",
-   "title": "Carney says Pentagon's complaints about Canada haven't come up in talks with Trump",
-   "summary": "The prime minister said Canada is taking responsibility for its own defence.",
-   "source": "Toronto Star",
-   "url": "https://www.thestar.com/news/canada/carney-says-pentagon-s-complaints-about-canada-haven-t-come-up-in-talks-with-trump/article_45931914-230a-574b-a6e5-5368b41c71c2.html",
-   "date": "2026-11-25T15:42:00+00:00",
-   "topic": "federal",
-   "region": "local",
-   "tags": [
-    "defence"
-   ],
-   "kind": "news",
-   "image": {
-    "h": 803,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/97/9976d112-eac5-5889-863d-f7828945b4d8/6b07028120bd3.image.jpg?resize=640%2C",
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/9/97/9976d112-eac5-5889-863d-f7828945b4d8/6b07028120bd3.image.jpg?resize=1200%2C",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T15:53:16+00:00"
-  },
-  {
-   "id": "36b4838f9c206214",
-   "title": "Brussels on split-screen: where it flexes – and where it bends",
-   "summary": "From a choreographed summit that dominated Westminster but barely registered in Brussels to a climate showdown in Turkey, last week revealed the EU’s priorities – and the limits of its collective power • Don’t get This Is Europe delivered to your inbox?",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
-   "date": "2026-11-25T15:39:54+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: WPA/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/298e2e76a81f2b29227315e2f639e4892114e948/426_0_4300_3440/master/4300.jpg?width=700&quality=85&auto=format&fit=max&s=70222aa27f8ea8e0a12d541df383689c",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T15:43:32+00:00"
-  },
-  {
-   "id": "a53ebf0226a3510d",
-   "title": "Beatles attraction at 3 Savile Row approved – with ban on rooftop gigs",
-   "summary": "Westminster council signs off on ‘cultural experience and exhibition’ at site where band last performed in public Fans of the Beatles will be able to stand on the Savile Row rooftop in London where the band held their final public performance, but any…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/music/2026/nov/25/beatles-attraction-savile-row-approved-ban-rooftop-gigs",
-   "date": "2026-11-25T15:38:11+00:00",
-   "topic": "toronto",
-   "region": "local",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Evening Standard/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/bedd33d1fa780e4658a4365e02a5f53990849c3c/276_1639_2183_1746/master/2183.jpg?width=700&quality=85&auto=format&fit=max&s=a95ac76f7a4380b241568bf2b720c53a",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T15:24:28+00:00"
   }
  ]
 }

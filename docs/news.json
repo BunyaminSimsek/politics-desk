@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T15:45:00+00:00",
+ "generatedAt": "2026-11-28T15:54:08+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/1f0eb7fd86d1d5b48750744f4d17758191b19de3/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=d54e8fa26df3557b5a832995d55721bf",
-    "w": 700,
+    "credit": "Photograph: Chiang Ying-ying/AP",
     "h": 560,
-    "credit": "Photograph: Chiang Ying-ying/AP"
+    "url": "https://i.guim.co.uk/img/media/1f0eb7fd86d1d5b48750744f4d17758191b19de3/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=d54e8fa26df3557b5a832995d55721bf",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-28T15:45:00+00:00"
@@ -199,10 +199,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/11db713aad8078a9cfb5681addae056ee181a14e/331_0_3338_2670/master/3338.jpg?width=700&quality=85&auto=format&fit=max&s=1abfd38327416ea5334d6a7ff93abcad",
-    "w": 700,
+    "credit": "Photograph: AFP via Getty Images",
     "h": 560,
-    "credit": "Photograph: AFP via Getty Images"
+    "url": "https://i.guim.co.uk/img/media/11db713aad8078a9cfb5681addae056ee181a14e/331_0_3338_2670/master/3338.jpg?width=700&quality=85&auto=format&fit=max&s=1abfd38327416ea5334d6a7ff93abcad",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-28T15:45:00+00:00"
@@ -7351,7 +7351,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7485,68 +7485,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T18:50:53+00:00"
-  },
-  {
-   "id": "72169994222f16ac",
-   "title": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
-   "summary": "The Court of Arbitration for Sport ruled that Senegal were the rightful winners of the 2025 African Cup of Nations.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss",
-   "date": "2026-11-25T15:51:58+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b06fc5b19681-1795619931.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b06fc5b19681-1795619931.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T18:50:53+00:00"
-  },
-  {
-   "id": "7ef2efee33970dcc",
-   "title": "53 incoming House Democrats to boycott Harvard orientation in support of graduate students’ strike",
-   "summary": "‘We have been informed that to attend your event we would be required to cross a union picket line,’ the Democrats say US politics live – latest updates Fifty-three newly elected members of Congress told Harvard University on Tuesday that they will boycott an…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/education/2026/nov/25/house-democrats-harvard-boycott-strike",
-   "date": "2026-11-25T15:47:25+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Boston Globe/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3c09f326082eb16a7c75d3da3d3160983610ab59/912_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=0792e642dd1d79a56cddcf6516f8a1c5",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T18:50:53+00:00"
-  },
-  {
-   "id": "a61ab511a42dd98e",
-   "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
-   "summary": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting The sell-off in the US stock market continued Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-   "date": "2026-11-25T15:46:15+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "economy"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Mehmet Eser/Anadolu/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=700&quality=85&auto=format&fit=max&s=69f11e4a212f57fb1305845584886a2b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T14:10:57+00:00"
   }
  ]
 }

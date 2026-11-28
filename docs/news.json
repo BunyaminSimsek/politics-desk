@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T11:43:55+00:00",
+ "generatedAt": "2026-11-28T11:53:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af59859b365e-1794480217_7d04da-1795858876.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af59859b365e-1794480217_7d04da-1795858876.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af59859b365e-1794480217_7d04da-1795858876.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af59859b365e-1794480217_7d04da-1795858876.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-28T11:43:55+00:00"
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/MSF383283High-1795791613_9a629d-1795792064.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/MSF383283High-1795791613_9a629d-1795792064.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/MSF383283High-1795791613_9a629d-1795792064.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/MSF383283High-1795791613_9a629d-1795792064.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-28T11:43:55+00:00"
@@ -234,7 +234,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/john-tory-says-he-has-no-intention-of-making-a-political-comeback/article_86c91224-4262-5fe8-9d54-b91ad8d80b05.html",
    "date": "2026-11-28T11:00:03+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -301,10 +301,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "h": 674,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg",
-    "w": 1200
+    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/9f48/live/c26c94a0-eb21-11f1-99a1-253766e7ad8b.jpg",
+    "w": 1200,
+    "h": 675,
+    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/9f48/live/c26c94a0-eb21-11f1-99a1-253766e7ad8b.jpg"
    },
    "breaking": false,
    "addedAt": "2026-11-28T10:21:00+00:00"
@@ -1711,7 +1711,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "defence"
@@ -6933,7 +6933,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7661,46 +7661,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T12:18:53+00:00"
-  },
-  {
-   "id": "c1e6355cdda9d0de",
-   "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-   "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
-   "date": "2026-11-25T11:50:05+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/640/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2Fe4%2F4f6d59a04c01950dd8cc6ac618a1%2Fgettyimages-1243410569.jpg",
-    "url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/1200/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2Fe4%2F4f6d59a04c01950dd8cc6ac618a1%2Fgettyimages-1243410569.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T18:50:53+00:00"
-  },
-  {
-   "id": "7044fe44c18fed42",
-   "title": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
-   "summary": "Exclusive: Private members’ motion comes amid concern about Christian symbols being appropriated by the far right Church of England clergy could be banned from joining or supporting the hard-right Restore Britain party under a motion put forward for debate at…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/25/general-synod-ban-church-of-england-clergy-support-restore-britain",
-   "date": "2026-11-25T11:48:12+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Christopher Thomond/The Guardian",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/839a6dbb59551038bdcdee9376e63e28684fb809/1386_0_7023_5618/master/7023.jpg?width=700&quality=85&auto=format&fit=max&s=8fbda055de948804ca79f79d34655c9b",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T10:55:39+00:00"
   }
  ]
 }

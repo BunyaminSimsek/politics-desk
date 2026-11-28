@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T12:30:10+00:00",
+ "generatedAt": "2026-11-28T12:39:16+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -167,7 +167,7 @@
  "items": [
   {
    "id": "9ccfcb69a5935c8c",
-   "title": "Two Médecins Sans Frontières staff killed in Israeli strike in Gaza, charity says",
+   "title": "Two Médecins Sans Frontières staff killed by Israeli strike in Gaza, charity says",
    "summary": "MSF and head of WHO denounce attack on Gaza City clinic as Israel claims security guards were members of Hamas Israeli forces have bombed a clinic run by Médecins Sans Frontières in Gaza City, killing two of its staff members, the organisation has said.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/28/medecins-sans-frontieres-staff-killed-gaza-israeli-strike",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/2b407f70dc48284cb361ed01b3cabb77ccda0da2/516_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=6fdc5ccc3745acb97f81a0a79f31fb74",
-    "w": 700,
+    "credit": "Photograph: Omar Ashtawy/HL/Getty Images",
     "h": 560,
-    "credit": "Photograph: Omar Ashtawy/HL/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/2b407f70dc48284cb361ed01b3cabb77ccda0da2/516_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=6fdc5ccc3745acb97f81a0a79f31fb74",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-28T12:30:10+00:00"
@@ -409,6 +409,26 @@
    "addedAt": "2026-11-28T11:15:53+00:00"
   },
   {
+   "id": "d6b20cc7583d9de3",
+   "title": "John Tory says he has no intention of making a political comeback",
+   "summary": "In February 2023, Tory resigned just months into his third mayoral term after admitting to an “inappropriate relationship” with a former staffer.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/politics/john-tory-says-he-has-no-intention-of-making-a-political-comeback/article_86c91224-4262-5fe8-9d54-b91ad8d80b05.html",
+   "date": "2026-11-28T11:00:00+00:00",
+   "topic": "federal",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/eb/aeb6c267-909f-5f36-a140-acf7c6632761/69a751bfb277c.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/eb/aeb6c267-909f-5f36-a140-acf7c6632761/69a751bfb277c.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T12:39:16+00:00"
+  },
+  {
    "id": "2fa7919f9904adc6",
    "title": "DWP cyber incident ‘probably an attack’, says former UK chief technology officer",
    "summary": "Government took down pensions and benefits portal on Thursday but said regular payments will not be affected A serious cyber incident that forced ministers to take down online benefits and pension services was “probably an attack”, the UK’s former chief…",
@@ -572,6 +592,25 @@
    },
    "breaking": false,
    "addedAt": "2026-11-28T09:07:34+00:00"
+  },
+  {
+   "id": "10ae332307328cee",
+   "title": "Melania Trump says she helped another group of children return to Ukraine. The reality is more complicated",
+   "summary": "Nine children and a 29-year-old woman with disabilites returned to Ukraine on Friday via Belarus, part of a reunification mission to unite families separated by Russia's war with Ukraine.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/ukraine-russia-children-return-9.7438984?cmp=rss",
+   "date": "2026-11-28T09:00:00+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/aef9e2c6-cb72-41be-9237-368d1a36a520,1795802713936/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C181%2C3431%2C1929%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T12:39:16+00:00"
   },
   {
    "id": "0b15c334838cdd1e",

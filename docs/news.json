@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T03:10:18+00:00",
+ "generatedAt": "2026-11-28T03:19:47+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -363,9 +363,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T23:08:02+00:00"
@@ -1342,7 +1342,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -6564,7 +6564,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8119,26 +8119,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-24T19:04:41+00:00"
-  },
-  {
-   "id": "a27486344dcf34a6",
-   "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-   "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T03:15:12+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 673,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/33d1/live/b36a7310-e87d-11f1-98e2-c97dce6bef0d.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/33d1/live/b36a7310-e87d-11f1-98e2-c97dce6bef0d.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T03:25:57+00:00"
   }
  ]
 }

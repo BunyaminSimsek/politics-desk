@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T13:53:23+00:00",
+ "generatedAt": "2026-11-28T14:02:34+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 11
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,25 @@
   }
  ],
  "items": [
+  {
+   "id": "7442ce43f3570fb4",
+   "title": "Indian police disperse protest outside Meta offices amid concern the company is censoring political opposition",
+   "summary": "Police in the northern Indian state of Haryana used water cannon to disperse activists from the main opposition Congress party protesting outside Meta's offices over allegations that the company is censoring opposition voices.",
+   "source": "CBC World",
+   "url": "https://www.cbc.ca/news/world/india-modi-meta-protest-9.7440253?cmp=rss",
+   "date": "2026-11-28T13:56:15+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.cbc.ca/ais/059268b3-210a-4c54-a35c-b5b18e40713b,1795872010526/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B",
+    "credit": "",
+    "caption": ""
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T14:02:34+00:00"
+  },
   {
    "id": "779249e3e13d968c",
    "title": "Putin unveils new nuclear submarine",
@@ -7634,26 +7653,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T14:47:42+00:00"
-  },
-  {
-   "id": "1ef458bb38ec1017",
-   "title": "What's driving up the cost of your Thanksgiving turkey?",
-   "summary": "BBC Verify has looked into how prices compare with previous years as Democrats blame President Trump for recent rises.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cw99e4x4x84no?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T13:59:57+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/e863/live/33fc6e30-e8d7-11f1-99b6-a35a62fa4264.png",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/e863/live/33fc6e30-e8d7-11f1-99b6-a35a62fa4264.png",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T18:50:53+00:00"
   }
  ]
 }

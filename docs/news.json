@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T09:07:34+00:00",
+ "generatedAt": "2026-11-28T09:16:55+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 7
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -180,9 +180,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f28fb50a-1d81-48d8-a013-855920226c7f,1795826143370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C502%2C8485%2C4772%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f28fb50a-1d81-48d8-a013-855920226c7f,1795826143370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C502%2C8485%2C4772%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-28T09:07:34+00:00"
@@ -199,12 +199,32 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.7016874,1795816160821/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C630%2C6000%2C3375%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.7016874,1795816160821/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C630%2C6000%2C3375%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-28T09:07:34+00:00"
+  },
+  {
+   "id": "0b15c334838cdd1e",
+   "title": "Spain faces political shift as far right gains ground",
+   "summary": "Spain faces political shift as far right gains ground",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+   "date": "2026-11-28T08:54:02+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795856034.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795856034.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T09:16:55+00:00"
   },
   {
    "id": "a627895ea92810e4",
@@ -394,8 +414,8 @@
   },
   {
    "id": "c8600abd42cc6aa6",
-   "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
-   "summary": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.",
+   "title": "Iran war live: Iran’s army ready to respond to any attack ‘from anywhere’",
+   "summary": "Deputy chief of Iran's armed forces says military in a state of absolute readiness to respond to any 'misstep by enemy'.",
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
    "date": "2026-11-28T00:00:00+00:00",

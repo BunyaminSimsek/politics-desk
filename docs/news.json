@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T01:00:18+00:00",
+ "generatedAt": "2026-11-28T01:10:00+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -65,7 +65,7 @@
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
    "ok": true,
-   "kept": 6
+   "kept": 5
   },
   {
    "source": "Al Jazeera",
@@ -299,9 +299,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-27T23:08:02+00:00"
@@ -570,9 +570,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/fa055ed2-a213-4af2-afa5-8a9a7596c781,1795718033067/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C6238%2C3508%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/fa055ed2-a213-4af2-afa5-8a9a7596c781,1795718033067/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C6238%2C3508%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T20:55:50+00:00"
@@ -1278,7 +1278,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -6500,7 +6500,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8279,26 +8279,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T01:35:09+00:00"
-  },
-  {
-   "id": "f4857084d228e708",
-   "title": "Trump's rescue of Nvidia's Huang brings political risks",
-   "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-25T01:03:05+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 675,
-    "small": "https://ichef.bbci.co.uk/ace/standard/640/cpsprodpb/c9b4/live/d081e3d0-e8a4-11f1-99b6-a35a62fa4264.jpg",
-    "url": "https://ichef.bbci.co.uk/ace/standard/1200/cpsprodpb/c9b4/live/d081e3d0-e8a4-11f1-99b6-a35a62fa4264.jpg",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T01:26:01+00:00"
   }
  ]
 }

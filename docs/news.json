@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T11:15:53+00:00",
+ "generatedAt": "2026-11-28T11:25:32+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/b9a77ff0acafa5113462214754989b05ee5eaa94/654_0_4700_3760/master/4700.jpg?width=700&quality=85&auto=format&fit=max&s=e682b4419eae4cfca74c4ed6f4b25237",
-    "w": 700,
+    "credit": "Photograph: Susana Vera/Reuters",
     "h": 560,
-    "credit": "Photograph: Susana Vera/Reuters"
+    "url": "https://i.guim.co.uk/img/media/b9a77ff0acafa5113462214754989b05ee5eaa94/654_0_4700_3760/master/4700.jpg?width=700&quality=85&auto=format&fit=max&s=e682b4419eae4cfca74c4ed6f4b25237",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-28T11:15:53+00:00"
@@ -194,15 +194,15 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/john-tory-says-he-has-no-intention-of-making-a-political-comeback/article_86c91224-4262-5fe8-9d54-b91ad8d80b05.html",
    "date": "2026-11-28T11:00:03+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/eb/aeb6c267-909f-5f36-a140-acf7c6632761/69a751bfb277c.image.jpg?resize=1200%2C",
-    "w": 1200,
     "h": 800,
-    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/eb/aeb6c267-909f-5f36-a140-acf7c6632761/69a751bfb277c.image.jpg?resize=640%2C"
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/eb/aeb6c267-909f-5f36-a140-acf7c6632761/69a751bfb277c.image.jpg?resize=640%2C",
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/eb/aeb6c267-909f-5f36-a140-acf7c6632761/69a751bfb277c.image.jpg?resize=1200%2C",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-28T11:15:53+00:00"
@@ -219,10 +219,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/9c0f72972aa5ff583dcf1f4067cbe06973b8aefb/1099_136_2191_1753/master/2191.jpg?width=700&quality=85&auto=format&fit=max&s=d0f739775b394a925d2b17982916f222",
-    "w": 700,
+    "credit": "Photograph: Yui Mok/PA",
     "h": 560,
-    "credit": "Photograph: Yui Mok/PA"
+    "url": "https://i.guim.co.uk/img/media/9c0f72972aa5ff583dcf1f4067cbe06973b8aefb/1099_136_2191_1753/master/2191.jpg?width=700&quality=85&auto=format&fit=max&s=d0f739775b394a925d2b17982916f222",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-28T11:15:53+00:00"
@@ -346,9 +346,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f28fb50a-1d81-48d8-a013-855920226c7f,1795826143370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C502%2C8485%2C4772%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f28fb50a-1d81-48d8-a013-855920226c7f,1795826143370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C502%2C8485%2C4772%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-28T09:07:34+00:00"
@@ -365,9 +365,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.7016874,1795816160821/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C630%2C6000%2C3375%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.7016874,1795816160821/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C630%2C6000%2C3375%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-28T09:07:34+00:00"
@@ -1671,7 +1671,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -6893,7 +6893,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T14:59:16+00:00",
+ "generatedAt": "2026-11-28T15:08:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -29,7 +29,7 @@
    "source": "Global News Toronto",
    "url": "https://globalnews.ca/toronto/feed/",
    "ok": true,
-   "kept": 2
+   "kept": 1
   },
   {
    "source": "CTV News",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "e6aef8c0a47aa160",
+   "title": "John Tory says he has no intention of making a political comeback",
+   "summary": "Three years after resigning as Toronto's mayor, Tory says he has no intention of making a political comeback — ever.",
+   "source": "Global News",
+   "url": "https://globalnews.ca/news/12170086/john-tory-retires-from-politics/",
+   "date": "2026-11-28T15:02:00+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Tory.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200,
+    "h": 800,
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Tory.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T15:08:18+00:00"
+  },
   {
    "id": "7442ce43f3570fb4",
    "title": "Indian police disperse protest outside Meta offices amid concern the company is censoring political opposition",
@@ -2067,7 +2087,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -7289,7 +7309,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7607,28 +7627,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T15:33:49+00:00"
-  },
-  {
-   "id": "004d71e16a52d591",
-   "title": "Trump proposing new tariffs on 14 partners including China and EU",
-   "summary": "Administration is suggesting an added 20% tax on Chinese imports, which would bring the total to about 40% US politics live – latest updates Donald Trump is proposing new tariffs on 14 trading partners, including China and the European Union, that would go…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
-   "date": "2026-11-25T14:59:44+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [
-    "trade"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bloomberg/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ebe197c4ddf037bb7f5929b74ddafc3544202caa/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=52464c6e349b5bf9e2bcb9dcfa7d5321",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T15:06:16+00:00"
   }
  ]
 }

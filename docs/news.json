@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T11:06:39+00:00",
+ "generatedAt": "2026-11-28T11:15:53+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -77,7 +77,7 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
-   "kept": 17
+   "kept": 19
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -166,6 +166,68 @@
  ],
  "items": [
   {
+   "id": "1cd49b99b243d440",
+   "title": "Spain to vote in election that could put far right in power for first time since Franco",
+   "summary": "Socialist PM Pedro Sánchez’s high-stakes gamble could end in defeat to a coalition including the far-right Vox Spaniards head to the polls on Sunday to vote in a high-stakes snap general election that could put a far-right party in government for the first…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/28/spain-vote-election-could-far-right-power-first-time-franco",
+   "date": "2026-11-28T11:00:39+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [
+    "elections"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/b9a77ff0acafa5113462214754989b05ee5eaa94/654_0_4700_3760/master/4700.jpg?width=700&quality=85&auto=format&fit=max&s=e682b4419eae4cfca74c4ed6f4b25237",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Susana Vera/Reuters"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T11:15:53+00:00"
+  },
+  {
+   "id": "94ee80a51fb58241",
+   "title": "John Tory says he has no intention of making a political comeback",
+   "summary": "TORONTO - John Tory has run Canada's largest city, led the Progressive Conservative Party of Ontario and been a political strategist and adviser throughout his decades-long career.",
+   "source": "Toronto Star",
+   "url": "https://www.thestar.com/news/ontario/john-tory-says-he-has-no-intention-of-making-a-political-comeback/article_86c91224-4262-5fe8-9d54-b91ad8d80b05.html",
+   "date": "2026-11-28T11:00:03+00:00",
+   "topic": "ontario",
+   "region": "local",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/eb/aeb6c267-909f-5f36-a140-acf7c6632761/69a751bfb277c.image.jpg?resize=1200%2C",
+    "w": 1200,
+    "h": 800,
+    "small": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/a/eb/aeb6c267-909f-5f36-a140-acf7c6632761/69a751bfb277c.image.jpg?resize=640%2C"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T11:15:53+00:00"
+  },
+  {
+   "id": "2fa7919f9904adc6",
+   "title": "DWP cyber incident ‘probably an attack’, says former UK chief technology officer",
+   "summary": "Government took down pensions and benefits portal on Thursday but said regular payments will not be affected A serious cyber incident that forced ministers to take down online benefits and pension services was “probably an attack”, the UK’s former chief…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+   "date": "2026-11-28T10:52:00+00:00",
+   "topic": "europe",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://i.guim.co.uk/img/media/9c0f72972aa5ff583dcf1f4067cbe06973b8aefb/1099_136_2191_1753/master/2191.jpg?width=700&quality=85&auto=format&fit=max&s=d0f739775b394a925d2b17982916f222",
+    "w": 700,
+    "h": 560,
+    "credit": "Photograph: Yui Mok/PA"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T11:15:53+00:00"
+  },
+  {
    "id": "e726e74d1e9991df",
    "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
    "summary": "Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority.",
@@ -179,10 +241,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a958205d5-1795855746.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a958205d5-1795855746.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a958205d5-1795855746.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a958205d5-1795855746.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-28T11:06:39+00:00"
@@ -221,10 +283,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a8953eef9-1795852627.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a8953eef9-1795852627.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a8953eef9-1795852627.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a8953eef9-1795852627.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-28T11:06:39+00:00"
@@ -284,9 +346,9 @@
    ],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/f28fb50a-1d81-48d8-a013-855920226c7f,1795826143370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C502%2C8485%2C4772%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/f28fb50a-1d81-48d8-a013-855920226c7f,1795826143370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C502%2C8485%2C4772%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-28T09:07:34+00:00"
@@ -303,9 +365,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/1.7016874,1795816160821/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C630%2C6000%2C3375%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/1.7016874,1795816160821/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C630%2C6000%2C3375%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-28T09:07:34+00:00"
@@ -1609,7 +1671,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "defence"
@@ -6831,7 +6893,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7700,26 +7762,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T11:32:46+00:00"
-  },
-  {
-   "id": "a829fd4dd1875e9e",
-   "title": "Indian Cockroach movement leader asks court for permission to fly to UK",
-   "summary": "Officials at Delhi airport stopped Saurav Das from boarding flight to Britain, where students have invited him to speak A leader of India’s youth-led Cockroach movement has asked the Delhi high court to give him permission to fly to the UK after immigration…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk",
-   "date": "2026-11-25T11:15:35+00:00",
-   "topic": "europe",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Bhawika Chhabra/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/5b3f61e3ae43b66936a59bd1fded59309335e537/478_69_4441_3552/master/4441.jpg?width=700&quality=85&auto=format&fit=max&s=e037ec1011d2c97705ac51f4e928858d",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T11:41:49+00:00"
   }
  ]
 }

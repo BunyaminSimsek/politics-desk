@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T00:04:13+00:00",
+ "generatedAt": "2026-11-28T00:13:54+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -130,8 +130,8 @@
   {
    "source": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 14
   },
   {
    "source": "The Guardian",
@@ -177,10 +177,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Poilievre-e1795823983237.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
-    "w": 1200,
     "h": 800,
-    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Poilievre-e1795823983237.jpg?w=640&h=427&crop=1&quality=70&strip=all"
+    "small": "https://globalnews.ca/wp-content/uploads/2026/11/Poilievre-e1795823983237.jpg?w=640&h=427&crop=1&quality=70&strip=all",
+    "url": "https://globalnews.ca/wp-content/uploads/2026/11/Poilievre-e1795823983237.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-28T00:04:13+00:00"
@@ -197,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?quality=80&resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?quality=80&resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?quality=80&resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?quality=80&resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-28T00:04:13+00:00"
@@ -333,9 +333,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/cdc05f65-bbc4-4268-bf45-250b29999a03,1795816649826/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C521%2C6582%2C3702%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/cdc05f65-bbc4-4268-bf45-250b29999a03,1795816649826/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C521%2C6582%2C3702%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-27T22:11:45+00:00"
@@ -479,7 +479,7 @@
   {
    "id": "54d6e63b64d6c9d1",
    "title": "Five takeaways from the Supreme Court's ruling on Quebec secularism law",
-   "summary": "MONTREAL - In a landmark 520-page decision, the Supreme Court upheld most of Quebec's secularism law known as Bill 21.",
+   "summary": "The Supreme Court's historic decision provides more clarity on how governments can use the so-called notwithstanding clause of the Constitution.",
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/canada/quebec/five-takeaways-from-the-supreme-court-s-ruling-on-quebec-secularism-law/article_7dc95f6d-3ec6-56bb-9f93-6d3145c33bb9.html",
    "date": "2026-11-27T20:57:00+00:00",

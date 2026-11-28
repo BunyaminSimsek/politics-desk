@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T12:58:12+00:00",
+ "generatedAt": "2026-11-28T13:07:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 9
+   "kept": 10
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "65ec5a29430a653c",
+   "title": "Norse Atlantic ends flights: How Iran war continues to batter aviation",
+   "summary": "The Norwegian budget carrier is the latest airline to fold under fuel costs driven by the Strait of Hormuz crisis.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation?traffic_source=rss",
+   "date": "2026-11-28T12:56:53+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-27T084023Z_1981778991_RC2KVS9E178Z_RTRMADP_3_NORSE-ATLANTIC-LIQUIDITY-1795868147_9dd6c1-1795868228.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-27T084023Z_1981778991_RC2KVS9E178Z_RTRMADP_3_NORSE-ATLANTIC-LIQUIDITY-1795868147_9dd6c1-1795868228.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T13:07:17+00:00"
+  },
+  {
    "id": "509276d54536f572",
    "title": "Week in Politics: Trump's Thanksgiving messaging; Congress' pre-holiday to-do list",
    "summary": "We look at President Trump's messaging over Thanksgiving, as well as what Congress can get done before the holidays.",
@@ -194,10 +214,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261128__D8VZ8VP__v1__MidRes__TaiwanPoliticsVote-1795866735.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261128__D8VZ8VP__v1__MidRes__TaiwanPoliticsVote-1795866735.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261128__D8VZ8VP__v1__MidRes__TaiwanPoliticsVote-1795866735.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261128__D8VZ8VP__v1__MidRes__TaiwanPoliticsVote-1795866735.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-28T12:58:12+00:00"
@@ -1948,7 +1968,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "defence"
@@ -7170,7 +7190,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7694,28 +7714,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T13:32:55+00:00"
-  },
-  {
-   "id": "bb246a3f102f5b95",
-   "title": "Democrats must unite on AI regulation. Here’s our three-point plan | Nathan E Sanders and Bruce Schneier",
-   "summary": "Voters are demanding action on the issue. We need to make AI work for the American public, not the tech oligarchs This month’s elections demonstrated the American public’s urgent demand for change.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/25/democrats-ai-regulation-plan",
-   "date": "2026-11-25T13:00:26+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [
-    "elections"
-   ],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: J Scott Applewhite/AP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/052f70b3cd29d16bf1465828355cd94e1de55a2f/31_0_4626_3703/master/4626.jpg?width=700&quality=85&auto=format&fit=max&s=8dd152d120b731a0918695d7d4d73c17",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T13:23:29+00:00"
   }
  ]
 }

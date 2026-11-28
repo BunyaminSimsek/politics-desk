@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T03:01:05+00:00",
+ "generatedAt": "2026-11-28T03:10:18+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 9
   },
   {
    "source": "The Guardian",
@@ -363,9 +363,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/5cc8087d-5367-412f-bfb2-b909965c7003,1795654104257/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C66%2C2048%2C1152%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-27T23:08:02+00:00"
@@ -8139,26 +8139,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T03:25:57+00:00"
-  },
-  {
-   "id": "381ac6ba3a8c5660",
-   "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
-   "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 How a Sydney police officer’s obsession led to a double murder Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
-   "date": "2026-11-25T03:05:42+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Rocco Fazzari/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/262_168_2337_1870/master/2337.jpg?width=700&quality=85&auto=format&fit=max&s=586b914c18dcc84aa6f7fc6aff03f228",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T01:07:43+00:00"
   }
  ]
 }

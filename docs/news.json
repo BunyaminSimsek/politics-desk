@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T01:38:03+00:00",
+ "generatedAt": "2026-11-28T01:47:33+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -553,9 +553,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/6d00906a-2dd7-486d-9cd3-3f596d32442d,1795813492898/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C4901%2C2756%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/6d00906a-2dd7-486d-9cd3-3f596d32442d,1795813492898/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C4901%2C2756%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-27T21:34:12+00:00"
@@ -1320,7 +1320,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [
     "defence"
@@ -6542,7 +6542,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "federal",
+   "topic": "ontario",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8239,26 +8239,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T02:02:33+00:00"
-  },
-  {
-   "id": "2da9f6ced34b4d02",
-   "title": "Senegal fans celebrate AFCON legal victory over Morocco",
-   "summary": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
-   "date": "2026-11-25T01:39:53+00:00",
-   "topic": "africa",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-NIC-2411-1795571603.png?quality=80&resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-NIC-2411-1795571603.png?quality=80&resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T02:11:43+00:00"
   }
  ]
 }

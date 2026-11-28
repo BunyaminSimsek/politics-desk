@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T13:16:27+00:00",
+ "generatedAt": "2026-11-28T13:26:02+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -166,6 +166,26 @@
  ],
  "items": [
   {
+   "id": "86af042112488be8",
+   "title": "Argentina fails to block oil drilling off Falkland Islands",
+   "summary": "UK government calls on Buenos Aires to end ‘economic pressure’ on islands after international tribunal’s ruling The UK has called on Argentina to stop its economic warfare on the Falkland islands after Buenos Aires failed in a legal attempt to terminate an…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
+   "date": "2026-11-28T13:22:10+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "credit": "Photograph: Dan Kitwood/Getty Images",
+    "h": 560,
+    "url": "https://i.guim.co.uk/img/media/32371dbe4bb863597422e9658bc6f2ab94586f6c/301_0_2043_1635/master/2043.jpg?width=700&quality=85&auto=format&fit=max&s=57c51b42f3636da8725143b9c0acd2c1",
+    "w": 700
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T12:11:22+00:00"
+  },
+  {
    "id": "4382cb8528afae30",
    "title": "Black barrister tells of racist abuse after Rupert Lowe viral tweet",
    "summary": "Exclusive: Hard-right MP claimed photo featuring Joseph Ashong was sign of discrimination against white Britons A newly qualified black barrister who took part in a group photo that went viral after Rupert Lowe cited the image as evidence of discrimination…",
@@ -177,10 +197,10 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/af42e39c8f8a57455f945e49972147e7db725e9b/364_341_1213_970/master/1213.jpg?width=700&quality=85&auto=format&fit=max&s=224a59c09278ae57df2e321258daa95f",
-    "w": 700,
+    "credit": "Photograph: Middle Temple",
     "h": 560,
-    "credit": "Photograph: Middle Temple"
+    "url": "https://i.guim.co.uk/img/media/af42e39c8f8a57455f945e49972147e7db725e9b/364_341_1213_970/master/1213.jpg?width=700&quality=85&auto=format&fit=max&s=224a59c09278ae57df2e321258daa95f",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-28T13:16:27+00:00"
@@ -261,26 +281,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-28T12:30:10+00:00"
-  },
-  {
-   "id": "86af042112488be8",
-   "title": "Argentina fails to block oil drilling off Falkland Islands",
-   "summary": "International tribunal rules there does not appear to be basis for believing Buenos Aires has jurisdiction on islands Argentina’s attempt to block oil drilling off the Falkland Islands has been rejected by an international tribunal.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
-   "date": "2026-11-28T12:11:02+00:00",
-   "topic": "latam",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Dan Kitwood/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/32371dbe4bb863597422e9658bc6f2ab94586f6c/301_0_2043_1635/master/2043.jpg?width=700&quality=85&auto=format&fit=max&s=57c51b42f3636da8725143b9c0acd2c1",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-28T12:11:22+00:00"
   },
   {
    "id": "720a69ee93ac1f18",
@@ -644,9 +644,9 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/f28fb50a-1d81-48d8-a013-855920226c7f,1795826143370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C502%2C8485%2C4772%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/f28fb50a-1d81-48d8-a013-855920226c7f,1795826143370/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C502%2C8485%2C4772%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-28T09:07:34+00:00"
@@ -663,9 +663,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "url": "https://i.cbc.ca/ais/1.7016874,1795816160821/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C630%2C6000%2C3375%29%3B",
+    "caption": "",
     "credit": "",
-    "caption": ""
+    "url": "https://i.cbc.ca/ais/1.7016874,1795816160821/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C630%2C6000%2C3375%29%3B"
    },
    "breaking": false,
    "addedAt": "2026-11-28T09:07:34+00:00"
@@ -7711,26 +7711,6 @@
     "small": "https://globalnews.ca/wp-content/uploads/2026/11/CP177050098-e1795613116855.jpg?w=640&h=427&crop=1&quality=70&strip=all",
     "url": "https://globalnews.ca/wp-content/uploads/2026/11/CP177050098-e1795613116855.jpg?w=1200&h=800&crop=1&quality=70&strip=all",
     "w": 1120
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T13:32:55+00:00"
-  },
-  {
-   "id": "2a7a6d54e9abce15",
-   "title": "BBC lodges urgent appeal against Trump’s $10bn defamation lawsuit",
-   "summary": "Corporation asks US court of appeals for the 11th circuit to throw out case brought over Panorama documentary The BBC has lodged an urgent appeal to have Donald Trump’s $10bn defamation lawsuit against it thrown out, after internal surprise at a judge’s…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/25/bbc-trump-defamation-case-10bn-urgent-appeal",
-   "date": "2026-11-25T13:24:55+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Alexey Fedorenko/Alamy",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/3647331b814975197738fd0be59ef34af89fc81e/0_30_3522_2816/master/3522.jpg?width=700&quality=85&auto=format&fit=max&s=10d38044850895d7ce5da646e98d9039",
-    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-25T13:32:55+00:00"

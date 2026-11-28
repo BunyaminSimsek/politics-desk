@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T02:24:22+00:00",
+ "generatedAt": "2026-11-28T02:33:27+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0a320262-1795830274.jpg?resize=1200%2C800",
-    "w": 1200,
     "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0a320262-1795830274.jpg?resize=640%2C427"
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0a320262-1795830274.jpg?resize=640%2C427",
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b0a320262-1795830274.jpg?resize=1200%2C800",
+    "w": 1200
    },
    "breaking": false,
    "addedAt": "2026-11-28T02:24:22+00:00"
@@ -1342,7 +1342,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -6564,7 +6564,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -8221,26 +8221,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T02:58:37+00:00"
-  },
-  {
-   "id": "a0100f439664a5cb",
-   "title": "Al Gore buys local, family-owned newspaper in central Tennessee",
-   "summary": "Former vice-president, who started his career as a journalist, purchases Carthage Courier in Smith county Al Gore, who started his career as a journalist, is returning to the industry as a newspaper owner in his Tennessee town.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
-   "date": "2026-11-25T02:31:42+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Chris McGrath/Getty Images",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/30ecca1d12e53cfba0fd2b8581ff75f87fd7181f/0_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=df22a991c30d97c92cdd65f07bd51229",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T02:49:16+00:00"
   }
  ]
 }

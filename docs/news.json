@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T13:35:14+00:00",
+ "generatedAt": "2026-11-28T13:44:17+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 10
+   "kept": 12
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,46 @@
   }
  ],
  "items": [
+  {
+   "id": "779249e3e13d968c",
+   "title": "Putin unveils new nuclear submarine",
+   "summary": "Russian President Vladimir Putin attended the commissioning of the nuclear-powered submarine in Russia.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/putin-unveils-new-nuclear-submarine?traffic_source=rss",
+   "date": "2026-11-28T13:32:51+00:00",
+   "topic": "ukraine",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795872738.jpg?quality=80&resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795872738.jpg?quality=80&resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T13:44:17+00:00"
+  },
+  {
+   "id": "45e50fde11343c9b",
+   "title": "Court rejects Argentina’s request to stop UK oil activity near Falklands",
+   "summary": "An international tribunal refuses Buenos Aires's application, giving the green light to the project off the disputed region.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss",
+   "date": "2026-11-28T13:24:24+00:00",
+   "topic": "latam",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af429fa4f-1794386426.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af429fa4f-1794386426.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T13:44:17+00:00"
+  },
   {
    "id": "86af042112488be8",
    "title": "Argentina fails to block oil drilling off Falkland Islands",
@@ -7635,26 +7675,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T18:50:53+00:00"
-  },
-  {
-   "id": "c693fbc0a214528b",
-   "title": "US court convicts Huawei of theft: A history of Chinese firm’s global woes",
-   "summary": "Chinese tech giant has faced legal problems from Europe to Asia, and its products have been banned in trade war with US.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss",
-   "date": "2026-11-25T13:37:51+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2024/03/2021-06-23T213734Z_2018083332_RC2J6O9U7F43_RTRMADP_3_HUAWEI-5G-1-1709274412.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2024/03/2021-06-23T213734Z_2018083332_RC2J6O9U7F43_RTRMADP_3_HUAWEI-5G-1-1709274412.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T13:52:25+00:00"
   }
  ]
 }

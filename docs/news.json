@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T07:08:27+00:00",
+ "generatedAt": "2026-11-28T07:17:37+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 6
+   "kept": 8
   },
   {
    "source": "The Guardian",
@@ -166,6 +166,28 @@
  ],
  "items": [
   {
+   "id": "ff226153a7fa2254",
+   "title": "Trump’s tariffs have become America’s new normal",
+   "summary": "Even a Democratic administration may struggle to reverse tariffs that help finance Trump's tax cuts.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal?traffic_source=rss",
+   "date": "2026-11-28T06:57:19+00:00",
+   "topic": "us",
+   "region": "world",
+   "tags": [
+    "trade"
+   ],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T110126Z_2145072911_RC2XHOA6JC3U_RTRMADP_3_USA-TRUMP-TRUMPMEDIA-1795848849.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T110126Z_2145072911_RC2XHOA6JC3U_RTRMADP_3_USA-TRUMP-TRUMPMEDIA-1795848849.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T07:17:37+00:00"
+  },
+  {
    "id": "0f7d735aab4044cf",
    "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
    "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
@@ -184,6 +206,26 @@
    },
    "breaking": false,
    "addedAt": "2026-11-28T04:33:18+00:00"
+  },
+  {
+   "id": "f357a9dd8d656994",
+   "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
+   "summary": "MSF says premises 'clearly marked' with its logos, location communicated to and known by Israeli military.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+   "date": "2026-11-28T03:45:58+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a40eea0b0-1795834094.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a40eea0b0-1795834094.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T07:17:37+00:00"
   },
   {
    "id": "fe7053e77fccd329",
@@ -7867,26 +7909,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T07:33:06+00:00"
-  },
-  {
-   "id": "b2a2533d1a8f0a9d",
-   "title": "Labor wins Greens support for trust changes in exchange for scrapping jet fuel subsidies for the wealthy",
-   "summary": "Government also agrees to carve out pensioners from cuts to private health insurance rebates in return for minor party’s support in Senate Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/25/labor-greens-deal-discretionary-trust-changes-jet-fuel-subsidies-scrapped-for-private-jet-owners",
-   "date": "2026-11-25T07:16:33+00:00",
-   "topic": "us",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Lukas Coch/AAP",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/959c4b15a9beeb3c9d69e745fc424540b5cd1e6f/500_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=84874af142b8afa13aa872d694e1ccd3",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T07:42:13+00:00"
   }
  ]
 }

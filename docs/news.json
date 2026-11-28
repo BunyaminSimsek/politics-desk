@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T09:53:30+00:00",
+ "generatedAt": "2026-11-28T10:02:44+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 8
+   "kept": 7
   },
   {
    "source": "The Guardian",
@@ -165,6 +165,26 @@
   }
  ],
  "items": [
+  {
+   "id": "b5d3af420ab0d78d",
+   "title": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
+   "summary": "About 1.8 million people face emergency levels of hunger in government-held areas, according to the UN.",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+   "date": "2026-11-28T09:35:15+00:00",
+   "topic": "mideast",
+   "region": "world",
+   "tags": [],
+   "kind": "news",
+   "image": {
+    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-26T161010Z_1023982243_RC2OVOATOQZJ_RTRMADP_3_IRAN-CRISIS-YEMEN-AFTERMATH-1795854548.jpg?resize=1200%2C800",
+    "w": 1200,
+    "h": 800,
+    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-26T161010Z_1023982243_RC2OVOATOQZJ_RTRMADP_3_IRAN-CRISIS-YEMEN-AFTERMATH-1795854548.jpg?resize=640%2C427"
+   },
+   "breaking": false,
+   "addedAt": "2026-11-28T10:02:44+00:00"
+  },
   {
    "id": "c1a5f72cdbca5fca",
    "title": "Canada is spending billions on defence. But is it getting ready for war?",
@@ -1505,7 +1525,7 @@
    "source": "CBC Toronto",
    "url": "https://www.cbc.ca/news/canada/toronto/attorney-general-self-defence-home-invasion-9.7438545?cmp=rss",
    "date": "2026-11-27T15:34:23+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [
     "defence"
@@ -6727,7 +6747,7 @@
    "source": "Toronto Star",
    "url": "https://www.thestar.com/news/ontario/margaret-atwood-urges-feds-to-block-bird-threatening-telecom-tower-on-pelee-island/article_59fea45b-5b0e-5655-b94c-a4b7f5c4524d.html",
    "date": "2026-11-25T17:11:40+00:00",
-   "topic": "ontario",
+   "topic": "federal",
    "region": "local",
    "tags": [],
    "kind": "news",
@@ -7753,26 +7773,6 @@
     "h": 800,
     "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06b7c8-1795602376.jpg?resize=640%2C427",
     "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b06b7c8-1795602376.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T10:37:27+00:00"
-  },
-  {
-   "id": "f6b61525929c8aa8",
-   "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
-   "summary": "Iran, a major oil producer, is facing a worsening energy crisis as winter looms.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting?traffic_source=rss",
-   "date": "2026-11-25T10:01:08+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b069e778520-1795595895.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b069e778520-1795595895.jpg?resize=1200%2C800",
     "w": 1200
    },
    "breaking": false,

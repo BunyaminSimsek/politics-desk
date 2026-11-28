@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T01:28:47+00:00",
+ "generatedAt": "2026-11-28T01:38:03+00:00",
  "feeds": [
   {
    "source": "CBC News",
@@ -71,7 +71,7 @@
    "source": "Al Jazeera",
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
-   "kept": 12
+   "kept": 11
   },
   {
    "source": "The Guardian",
@@ -118,8 +118,8 @@
   {
    "source": "Toronto Star",
    "url": "https://www.thestar.com/search/?f=rss&t=article&c=politics*&l=50&s=start_time&sd=desc",
-   "ok": false,
-   "kept": 0
+   "ok": true,
+   "kept": 49
   },
   {
    "source": "BBC News",
@@ -171,7 +171,7 @@
    "summary": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for?",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
-   "date": "2026-11-28T01:16:55+00:00",
+   "date": "2026-11-28T01:24:42+00:00",
    "topic": "federal",
    "region": "local",
    "tags": [
@@ -179,10 +179,10 @@
    ],
    "kind": "news",
    "image": {
-    "url": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=0936667ff4e961110f2f29ce094eac83",
-    "w": 700,
+    "credit": "Composite: Guardian Design/AAP/Getty Images",
     "h": 560,
-    "credit": "Composite: Guardian Design/AAP/Getty Images"
+    "url": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=0936667ff4e961110f2f29ce094eac83",
+    "w": 700
    },
    "breaking": false,
    "addedAt": "2026-11-28T01:28:47+00:00"
@@ -553,9 +553,9 @@
    "tags": [],
    "kind": "news",
    "image": {
-    "caption": "",
+    "url": "https://i.cbc.ca/ais/6d00906a-2dd7-486d-9cd3-3f596d32442d,1795813492898/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C4901%2C2756%29%3B",
     "credit": "",
-    "url": "https://i.cbc.ca/ais/6d00906a-2dd7-486d-9cd3-3f596d32442d,1795813492898/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C177%2C4901%2C2756%29%3B"
+    "caption": ""
    },
    "breaking": false,
    "addedAt": "2026-11-27T21:34:12+00:00"
@@ -8259,46 +8259,6 @@
    },
    "breaking": false,
    "addedAt": "2026-11-25T02:11:43+00:00"
-  },
-  {
-   "id": "b7d838463719ca53",
-   "title": "China investigates politburo star in Xi Jinping’s latest purge",
-   "summary": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025 China has launched an investigation into Shanghai’s Communist party chief Chen Jining, a member of the country’s elite…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
-   "date": "2026-11-25T01:31:46+00:00",
-   "topic": "asia",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "credit": "Photograph: Carl Court/Reuters",
-    "h": 560,
-    "url": "https://i.guim.co.uk/img/media/c4f99890561c34364853932923e32733830c648c/451_0_6570_5256/master/6570.jpg?width=700&quality=85&auto=format&fit=max&s=67ec0eb5b7208a76eb4f252562db95e7",
-    "w": 700
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T01:53:18+00:00"
-  },
-  {
-   "id": "659b08b1794a5b3b",
-   "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
-   "summary": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
-   "date": "2026-11-25T01:30:44+00:00",
-   "topic": "mideast",
-   "region": "world",
-   "tags": [],
-   "kind": "news",
-   "image": {
-    "h": 800,
-    "small": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=640%2C427",
-    "url": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b062d011e-1795566849.jpg?resize=1200%2C800",
-    "w": 1200
-   },
-   "breaking": false,
-   "addedAt": "2026-11-25T01:53:18+00:00"
   }
  ]
 }
